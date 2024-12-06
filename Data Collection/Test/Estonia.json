@@ -1,0 +1,510 @@
+{
+    "search_metadata": {
+        "id": "6752df0ae335ececf6e86930",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4e9ddb9eb6a48b6e/6752df0ae335ececf6e86930.json",
+        "created_at": "2024-12-06 11:24:58 UTC",
+        "processed_at": "2024-12-06 11:24:58 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIHRXN0b25pYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/4e9ddb9eb6a48b6e/6752df0ae335ececf6e86930.html",
+        "total_time_taken": 3.15
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Estonia",
+        "location_used": "Estonia",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+since+yesterday&uds=ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=Ios+developer+course"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=Ios+developer+certification"
+        },
+        {
+            "name": "Job description",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU",
+                "q": "Ios developer job description"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+job+description&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=Ios+developer+job+description"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co&udm=8&sa=X&ved=2ahUKEwjH5eOfhJOKAxU3F1kFHU0bI68QxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Pipedrive",
+            "location": "Tallinn, Estonia",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=oTdhAt3Kk091bO_cAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3CIIwtZ9EBBu3VQQbhbVfkjgkI3EmZMKyV_DW4ite9110mwGZpALdBzjjhFkKVtjBTTwouhoSCMNVJGZc9qm1oidrVbOJ2lyjYIJ8rDB6me1bvP4bNbmKJbuG4-G4n03huF49qOCr0oRADE-XMzFv4aJNmNwPp324T4wAAAA&shmds=v1_AXX-3kEcAlRcdjWjuZXdCF4ckJyCAbOrAqQXZEIeqSvz41SidQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=oTdhAt3Kk091bO_cAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d82951479c6d2cb637cb101c036fe119c4c9d27a855bc25c2.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We believe it takes great people to create a great product. That’s why our team lives our company values, and we hire based on them, too. Since 2010, Pipedrive has been on a mission to support sales and marketing teams with easy-to-use, powerful tools that make everyday work faster and easier. Today, our cloud-based software is trusted by over 100,000 companies and used in 179 countries. We have grown from a five-person team to a truly international company of over 850+ people, representing more than 50 nationalities, with ten offices distributed across Europe and the US. In 2020, Pipedrive received a majority investment from Vista Equity Partners, a global investment firm that invests exclusively in enterprise software, data and technology-enabled businesses, making Pipedrive the fifth unicorn from Estonia.\n\nWe’re looking for a senior iOS developer to collaborate on developing the essential Pipedrive mobile application.\n\nYour new adventure:\n• Manage the entire app lifecycle from ideation to release\n• Strive to create a great user experience\n• Empower engineers to drive both technical and product solutions\n• Work primarily with Swift but maintain some code in Objective-C\n\nDoes this sound like you?\n• Proficient in Swift\n• Passionate about iOS development and curious about other technologies\n• A team player with a strong can-do attitude\n• Prioritise people over machines, focus on working on the product rather than just writing pretty code, and design efficient solutions rather than relying on workarounds\n• Drive to create an excellent user experience and build a product that people love to use\n• Capability to deliver flawless features through rigorous testing\n• Strong understanding of patterns, clean code approaches, multithreading, and memory management\n• Ability to guide and motivate the team through leadership and mentoring\n\nWhy Pipedrive?\n• A value-driven work environment where people come first\n• A lively bunch of colleagues from over 50 different countries, with offices in Tallinn, Tartu, Lisbon, Prague, London, Dublin, New York, Florida, Riga and Berlin\n• A team serious about getting things done while not taking ourselves too seriously\n• A world-class working environment full of perks like parties, craft workshops, snacks and, of course, office dogs\n• Flexible working hours as long as you’re there for your team members\n• Freedom to execute your ideas with a passionate and motivated team supporting you\n• Lots of room for personal and career development, with internal and external training opportunities\n• Competitive salary and bonus system and all the benefits you’d expect from a great employer (health and accident insurance, health days, a quarterly contribution to sports, in-house coaches, employee discounts and more)\n\nBased on this role's access to certain data, Pipedrive might conduct a pre-employment background investigation in conjunction with your application for employment with our company. Such data will be handled in accordance with Pipedrive's Privacy Policy for Recruitment.\n\nPipedrive is an equal opportunity employer. We encourage diversity in the workplace regardless of age, gender, race, religion, disability, sexual orientation, gender identity or veteran status.\n\n#LI-Hybrid #LI-LR2\n\nWe’re on the lookout for a senior iOS developer to join us in our Tallinn office.\n\nIf this is something for you, send us your resume (in English) or a link to your LinkedIn profile and please add why we should pay extra attention to your application.",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/pipedrive/ae7e76ed-cc94-4065-83dd-d3d57f85b688?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ee.linkedin.com/jobs/view/senior-ios-developer-at-pipedrive-3982420999?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-ios-developer-pipedrive-5707374?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employbl",
+                    "link": "https://www.employbl.com/jobs/senior-ios-developer-pipedrive-725210?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlBpcGVkcml2ZSIsImFkZHJlc3NfY2l0eSI6IlRhbGxpbm4sIEVzdG9uaWEiLCJodGlkb2NpZCI6Im9UZGhBdDNLazA5MWJPX2NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Pipedrive",
+            "location": "Tallinn, Estonia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=8gwroBdQQt7s8u5KAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3CIIwtZ9EBBu3VQQbhbVfkjgkI3EmZMKyV_DW4ite9110mwGZpALdBzjjhFkKVtjBTTwouhoSCMNVJGZc9qm1oidrVbOJ2lyjYIJ8rDB6me1bvP4bNbmKJbuG4-G4n03huF49qOCr0oRADE-XMzFv4aJNmNwPp324T4wAAAA&shmds=v1_AXX-3kEcAlRcdjWjuZXdCF4ckJyCAbOrAqQXZEIeqSvz41SidQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8gwroBdQQt7s8u5KAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d4fa45ddbe256378ab6c1490ee6f6ac53d0030535956d126a.jpeg",
+            "extensions": [
+                "7 days ago",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We believe it takes great people to create a great product. That’s why our team lives our company values, and we hire based on them, too. Since 2010, Pipedrive has been on a mission to support sales and marketing teams with easy-to-use, powerful tools that make everyday work faster and easier. Today, our cloud-based software is trusted by over 100,000 companies and used in 179 countries. We have grown from a five-person team to a truly international company of over 850+ people, representing more than 50 nationalities, with ten offices distributed across Europe and the US. In 2020, Pipedrive received a majority investment from Vista Equity Partners, a global investment firm that invests exclusively in enterprise software, data and technology-enabled businesses, making Pipedrive the fifth unicorn from Estonia.\n\nWe’re looking for a senior iOS developer to collaborate on developing the essential Pipedrive mobile application.\n\nYour new adventure:\n• Manage the entire app lifecycle from ideation to release\n• Strive to create a great user experience\n• Empower engineers to drive both technical and product solutions\n• Work primarily with Swift but maintain some code in Objective-C\n\nDoes this sound like you?\n• Proficient in Swift\n• Passionate about iOS development and curious about other technologies\n• A team player with a strong can-do attitude\n• Prioritise people over machines, focus on working on the product rather than just writing pretty code, and design efficient solutions rather than relying on workarounds\n• Drive to create an excellent user experience and build a product that people love to use\n• Capability to deliver flawless features through rigorous testing\n• Strong understanding of patterns, clean code approaches, multithreading, and memory management\n• Ability to guide and motivate the team through leadership and mentoring\n\nWhy Pipedrive?\n• A value-driven work environment where people come first\n• A lively bunch of colleagues from over 50 different countries, with offices in Tallinn, Tartu, Lisbon, Prague, London, Dublin, New York, Florida, Riga and Berlin\n• A team serious about getting things done while not taking ourselves too seriously\n• A world-class working environment full of perks like parties, craft workshops, snacks and, of course, office dogs\n• Flexible working hours as long as you’re there for your team members\n• Freedom to execute your ideas with a passionate and motivated team supporting you\n• Lots of room for personal and career development, with internal and external training opportunities\n• Competitive salary and bonus system and all the benefits you’d expect from a great employer (health and accident insurance, health days, a quarterly contribution to sports, in-house coaches, employee discounts and more)\n\nBased on this role's access to certain data, Pipedrive might conduct a pre-employment background investigation in conjunction with your application for employment with our company. Such data will be handled in accordance with Pipedrive's Privacy Policy for Recruitment.\n\nPipedrive is an equal opportunity employer. We encourage diversity in the workplace regardless of age, gender, race, religion, disability, sexual orientation, gender identity or veteran status.\n\nWe’re on the lookout for a senior iOS developer to join us in our Tallinn office.\n\nIf this is something for you, send us your resume (in English) or a link to your LinkedIn profile and please add why we should pay extra attention to your application.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ee.linkedin.com/jobs/view/senior-ios-developer-at-pipedrive-3982420999?position=5&pageNum=40&refId=fX2smncoUlCqzNkJnMgl8g%3D%3D&trackingId=nglEcfypU25p7Tc8sLVh0A%3D%3D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=96749401996698310&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlBpcGVkcml2ZSIsImFkZHJlc3NfY2l0eSI6IlRhbGxpbm4sIEVzdG9uaWEiLCJodGlkb2NpZCI6Ijhnd3JvQmRRUXQ3czh1NUtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        },
+        {
+            "title": "Mobile App developer",
+            "company_name": "Futzero",
+            "location": "Anywhere",
+            "via": "F6S",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=K-KlvvXbIvC6fThfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQoCMQwAYFzvEXTJ7E8rgotODioIbu5HW0OvEpPSRDl8AV9b_Iav-066xVViIYRDrXDHN5JUbLCCi0RQDC0NIAxnkUw43Q9mVXfeq5LLasFKckmeXhijjP4hUf_1OoSGlYJhv9muR1c5z2enl32wCRSGWyAqzEs4qgmX8APJ7SeFigAAAA&shmds=v1_AXX-3kGICA5DK2wLVjwPd7nI8Z7vXVr9HZfEVcBfL9C5D7TXKA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=K-KlvvXbIvC6fThfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d038b9f83d1c56845504c1cdb499c650f6d0e0960ab06e1ca.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are an ambitious startup participating in the Prototron competition, focused on developing an innovative mobile app prototype. We are seeking a Mobile App Developer to join our dynamic team. You will play a key role with another app developer in designing and building our initial prototype, collaborating closely with product managers. If you're passionate about mobile technology, enjoy working in a fast-paced startup environment, and are ready to make an impact, this is the opportunity for you.\n\nResponsibilities:\n\n- Develop and maintain mobile app features for our prototype.\n- Collaborate with the team to create a user-friendly and efficient app interface.\n- Write clean, scalable, and well-documented code.\n- Provide technical expertise to help shape the app’s overall functionality.\n\nQualifications:\n- Proven experience in mobile app development (iOS/Android).\n- Knows programming languages like Swift, Kotlin, React Native, or Flutter.\n- Passion for innovation and problem-solving.\n\nJoin us in bringing our vision to life and making an impact at Prototron!",
+            "apply_options": [
+                {
+                    "title": "F6S",
+                    "link": "https://www.f6s.com/jobs/57405/futzero/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkZ1dHplcm8iLCJhZGRyZXNzX2NpdHkiOiJUYWxsaW5uLCBFc3RvbmlhIiwiaHRpZG9jaWQiOiJLLUtsdnZYYkl2QzZmVGhmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJYTjBiMjVwWVEifQ=="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=EuVsMxVnrvkmBvCYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsLCK5mLZiI6Ea3VkEXgj1AmZYhSUlnQiYt3seLWjf_8d7iV99V9WyIg2QIrwauNFOURBl20CTkoN7W7OLCpdymGOFNoxRa7CEdKGHuPQjDXcRF2lx8KUnP1qpG47RgCb3pZbTC1MnHDtLpf1r1mClFLNQeTvuPSey26-VSjwPOaGiCwFBrEQ74AwOAxo-mAAAA&shmds=v1_AXX-3kF5_mZ2aMovP-G1D36IaaM6iTRCBcz3GdLEJnQb7GfkIg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=EuVsMxVnrvkmBvCYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d1317f748a7c4b8061b2c78ec128f363daefd6f5d72945669.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiRXN0b25pYSIsImh0aWRvY2lkIjoiRXVWc014Vm5ydmttQnZDWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSWE4wYjI1cFlRIn0="
+        },
+        {
+            "title": "FLUTTER DEVELOPER",
+            "company_name": "Entain",
+            "location": "Tallinn, Estonia (+1 other)",
+            "via": "Entain - Enlabs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gej_avwrh6mEfl4TAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBCAYVz7CJ1uFNFGBBddjYIUFImu5VJCEol3pXdDd1_cCj8ff_VdVMtz-3TOPuBkX7a93efbwJU9SMCxT8AEF-ZYQn1MqoMcjBEpTRRFzX3T88cwBc-TebOXP50kHMNQUEO322-nZqC4qi0pZoI5h6VkojVYUaaMP_tF0NmGAAAA&shmds=v1_AXX-3kGf6lBWy-RMjfk2pILbfxsikvja1OWjCq8A5204MCNYzA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gej_avwrh6mEfl4TAAAAAA%3D%3D",
+            "extensions": [
+                "29 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Due to the growth of the company, we are looking for a developer, who is excited and passionate about the newest technologies and who has already tried and enjoyed building applications with Flutter who wants to grow professionally with Flutter and to join the team of professionals.\n\nTECHNOLOGY STACK: Flutter\n\nPRODUCT: Mobile applications for Android and iOS.\n\nRESPONSIBILITIES: Creation of complex mobile applications from scratch.\n\nREQUIREMENTS:\n• 4+ years in software development;\n• 1+ years writing Dart and Flutter applications (portfolio of the app(s) for AppStore/PlayStore is an advantage).\n\nA GOOD UNDERSTANDING OF:\n• Networking and communication (e.g. Dio etc.);\n• Use of Riverpod;\n• Asynchronous execution;\n• Architectural patterns in Flutter (e.g. BLOC).\n\nEXPERIENCE WITH:\n• Third-party libraries and APIs;\n• Git, SVN, or other version control tools;\n• Writing readable code, creating extensive documentation for existing code;\n• Automated testing and building;\n• Working in accordance with design/mockups provided;\n• UI/UX principles;\n• Agile development life-cycle;\n• Leading a concept from its early stages of development through to market;\n• App Store and Play Store publishing process;\n• Fluent in English;\n• Strong written & verbal communication skills;\n• Ability to work both in a team and independently to reach your goals, being proactive in reaching out to other areas of the business, both technical and non-technical, to find the information you need.\n\nWE OFFER:\n• Great opportunity to take part in the development of growth- and innovation-driven company and build its future.\n• Dynamic work in a rapidly growing international company with personal development possibilities.\n• Professional team with various, international backgrounds to collaborate.\n• Opportunity for career development.\n• Competitive salary and benefits package: annual company performance bonus, extra day off on your birthday, dedicated days off for your physical and mental health, additional vacation days depending on the length of employment, health insurance policy, wellness and team-building events, dedicated budget for your training and development, paid online consultations with certified therapists and so much more!",
+            "apply_options": [
+                {
+                    "title": "Entain - Enlabs",
+                    "link": "https://career.enlabs.com/jobs/5173998-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Layboard",
+                    "link": "https://layboard.com/ua/vakansiya/316812/flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGTFVUVEVSIERFVkVMT1BFUiIsImNvbXBhbnlfbmFtZSI6IkVudGFpbiIsImFkZHJlc3NfY2l0eSI6IlRhbGxpbm4sIEVzdG9uaWEiLCJodGlkb2NpZCI6Imdlal9hdndyaDZtRWZsNFRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        },
+        {
+            "title": "Medior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gmRlguypruzpJLusAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsLCK5mLZiI6Ea3VkERwR6gTOuQpKSZkEml9_Gixs1_vLf41XdR3R_0dpzAPRs404c8R0qwgSZicGJ1HYwvLOUyeQ8vGjlTsRt3IISpt8ABrszG0-pkc45y1FrEKyMZs-tVz6PmQB3PeuBO_tOKxUTRY6Z2d9jOKgazXpZL2Q_4QUUTuAC1ZA4Of3us6f6mAAAA&shmds=v1_AXX-3kFUWQW-1Z8rHgR446gP5WJcSE-6YPubWs8N1By1ijBRng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gmRlguypruzpJLusAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d75bc0ad7f66ca88f337b40c634fc7350790ffc457904d628.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Medior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf791691db-medior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNZWRpb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiRXN0b25pYSIsImh0aWRvY2lkIjoiZ21SbGd1eXBydXpwSkx1c0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSWE4wYjI1cFlRIn0="
+        },
+        {
+            "title": "Senior iOS Engineer",
+            "company_name": "Opal",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=8pS2F4t-5m56pWqxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L2Lu9PNBRsRXHQuQpcO_YByCUdyEu9C7obi14tveMN3GDcS1g68bjBLZiHqcIFFIxhhTwVU4KWaK52fxb3ZIwSzOmVzdE5T0k9QoahHeGu0f7sV7NQqOu23-_WYmuTxtDaswAKzuQrjDwSH_dB8AAAA&shmds=v1_AXX-3kHBJSeeeeu_M_rv7VOoTHem4eB6HGH1mJfeHpZ3UlH6qA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8pS2F4t-5m56pWqxAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3da47502d67060b1e6207d4cf0ee66767b209773fc02306568.png",
+            "extensions": [
+                "7 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union, France\n\nSenior iOS Engineer\nLocation: EU Remote, Paris-based preferred (Hybrid)\n\n💡 Why This Role and Why Now?\n\nWe’re at an exciting phase of the company where we want a new engineer to join to\n(1) increase product velocity on iOS and Mac (we are at capacity with the current small team)\n\n(2) distribute ownership of specific features and technologies (you will be given specific ownership within the team), working directly with Matt, Alec, Peter, Julien, Konrad\n\nAt Opal, we're building tools to help people reclaim their time and focus on what truly matters. As we continue to grow and save millions of hours of screen time for our Gems (our community), we’re looking for a Senior iOS Engineer to accelerate product development and take ownership of key features.\n\nHere’s why this is the perfect moment to join:\n• Product Velocity: Our small, high-performing engineering team is at capacity. You’ll play a key role in increasing the speed at which we deliver impactful features across iOS and Mac.\n• Ownership & Impact: You’ll take the lead on specific technologies and features, working directly with our talented team of engineers (Matt, Alec, Peter, Julien, Anton).\n• A Thriving Company:\n• 100M+ hours of screen time saved to date.\n• $1M in revenue per employee projected for 2024.\n• Double-digit monthly growth with profitability.\n• Ranked among the Top-30 US Productivity Apps, alongside giants like Google, Microsoft, and Notion.\n• Backed by $7M+ from founders and investors behind generation-defining companies like Pinterest, Snapchat, Revolut, and Front.\n• Your Role in Growth: You’ll be our 6th engineer, stepping into a fast-growing company where your work will directly shape the future of focus and productivity.\n\nWhat You’ll Be Doing\n\nAs a Senior iOS Engineer, you’ll take a hands-on role in building and improving our app ecosystem:\n• Develop Core Apps: Design and build Opal for iOS, iPadOS, and MacOS.\n• Collaborate on Features: Partner with our product team to define and implement app features that delight our Gems.\n• Ensure Quality & Performance: Maintain the highest standards of performance, usability, and reliability across our apps.\n• Code Excellence: Create unit tests, address edge cases, and ensure code robustness.\n• Continuous Improvement: Fix bugs, enhance app performance, and implement updates to keep our apps ahead of the curve.\n• Innovate: Discover and integrate new technologies to maximize development efficiency.\n• Support Our Gems: Address user issues and continuously improve their experience.\n• Share Knowledge: Collaborate and mentor within the team to foster a culture of learning and growth.\n\nWhat You Should Bring\n• 5+ Years of iOS Development: Demonstrated experience building high-quality apps for iOS, iPadOS, or WatchOS.\n• Proven Track Record: Several apps published on the App Store.\n• Technical Expertise:\n• Proficient in Swift, SwiftUI, UIKit, Combine, and the iOS toolchain.\n• Strong Git knowledge and experience with Firebase or other cloud services.\n• Familiarity with push notifications, APIs, and cloud messaging.\n• Experience with a range of third-party libraries and APIs.\n• Quality-Driven: Skilled in creating unit tests and working with continuous integration.\n• Independent & Resourceful: Able to take initiative, resolve ambiguity, and work effectively with limited direction.\n• Aligned with Our Mission: A passion for saving people’s time, improving their well-being, and mindfulness.\n• AI Enthusiast: Interest in hacking or artificial intelligence.\n\nWhy Opal?\n• Mission-Driven Impact: Save time and empower intentional living—100M+ hours saved and counting.\n• Ownership & Flexibility: Structure your work to foster creativity and productivity.\n• Collaborative Culture: Work with a small, high-impact team that gathers quarterly for meetups and learning.\n• Growth & Recognition: Join a top-30 US productivity app with competitive compensation and early equity.\n• Well-Supported: Backed by world-class investors and founders of companies like Pinterest, Snapchat, and Revolut.\n\nIf you’re ready to shape the future of focus and productivity, we’d love to meet you!\n\nThis offer from \"Opal\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/674a1e2908d932d86b166daf-senior-ios-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiT3BhbCIsImFkZHJlc3NfY2l0eSI6IkVzdG9uaWEiLCJodGlkb2NpZCI6IjhwUzJGNHQtNW01NnBXcXhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        },
+        {
+            "title": "Mobile App Developer (React Native)",
+            "company_name": "Bitrefill",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=YbyymuISujWqT8dxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFw7OzndqIKJCC7tpCiCoIM_UJJwNpEzF3JH6V_4y-ryptd8Zk17Y58I4VAKnHBE4oIVlg90QeHuNI24gg1c2YOgqyECZ7gwD4SLLqoWaa0VITOI_nYwgd-WM3qe7Iu9_OkluoqFnGK_228nU_Kwnh-TVnwmIkgZzqKck_sCtDJZrJIAAAA&shmds=v1_AXX-3kFqtPD4rC2sSH1bwI32z_HoL2CtGUjYaY6_vVmEgtflUA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=YbyymuISujWqT8dxAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3dab2beee929052e8a1ed565a10ffacbbf6390d5d1892edb68.jpeg",
+            "extensions": [
+                "8 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe, Latin America\n\nAPPLICATION DEADLINE: December 15th CET\nKeep in mind that we will only start reviewing the applications once the deadline is over.\n\nBitrefill is the leading crypto e-commerce site worldwide, fostering a circular economy that allows people to opt out from the traditional banking systems and embrace freedom. We make it easy for people to live on crypto around the world.\n\nDoes this sound like something to you? Then keep reading :)\nYour Mission:\n\nAs our Mobile App Developer, you will work on migrating the current web-based experience of Bitrefill into native mobile for iOS and Android. A large percentage of our users are mobile and your job will be ensuring that they have the best possible experience using Bitrefill on the app.\n\nRelevant UX adaptations of the web-based flow will be done for the respective platforms as appropriate, as well as building out features only available on native apps, such as native login, inter-app communication, push notifications, and much more.\nOur Tech Stack:\n• Node/TypeScript\n• React\n• React Native\n• MongoDB, MySQL\n\nYour Responsibilities:\n• Responsibility for the UX, functionality and speed of our app and commercial platform;\n• Building and deploying new code, features and products, as well as maintaining and improving old code;\n• Working closely with our Communications and Management Teams to ensure optimal prioritization and streamlined deployment;\n• Being metrics driven - continuously evaluate that what we're doing is working, helping users understand what Bitrefill is and how to best use it;\n• Being able to understand and work with pre-existing codebase and navigate it independently;\n• Be hungry to learn, fast to execute, do a lot with little, and care strongly about your product and users;\n• Be a team player and a good friend who will contribute to our unpretentious culture.\n\nYou bring with you:\n• You reside in: EU/Americas timezones\n• You have a minimum of 3+ years of Mobile app development experience and 5+ years of general programming experience\n• You have frontend development skills with a focus on React Native and TypeScript\n• A strong digital portfolio that demonstrates the above\n• Strong written and verbal communication skills\n\nIt's a plus if you also:\n• Have a big influence on the product, so a good sense of UX / design is a strong advantage;\n• Crypto experience is not a requirement but a strong plus - we’ll teach you what you need to know, but you need to have a passion for the movement;\n• Have an understanding of native languages (Swift, Objective-C, Java and Kotlin) and React Native Modules;\n• Experience integrating third party services.\n\nWe Offer:\n\nBitrefill believes in the freedom to work remotely and offering our team members flexibility. We’ve built our entire business around this. Have no fear; you will never feel lonely, and you'll have the chance to meet your coworkers in person at our biannual team retreats. Here are some reasons people choose us:\n\n- To become part of a talented team with high ambitions for a world where crypto is money for everyday use\n\n- A challenging workplace and a great education when it comes to everything involving cryptocurrency\n\n- Besides a competitive salary, we offer outstanding perks and benefits to make your experience at Bitrefill the best:\n• Option to get paid in crypto - at Bitrefill we walk the walk!\n• Freedom to work from anywhere (with a reliable and strong internet connection)!\n• Computer with necessary accessories\n• Remote Workspace Allowance - Ergonomic chairs and desks are an important part of a good home office\n• Educational Allowance - 300€ per year + subscriptions on the most enrichment learning platforms in the market!\n• Biannual team retreats consist of two get-togethers every year (which means, get your passport ready!)\n• 25 paid vacation days + a number of days to spend on your own country's national holidays!\n• Paid parental leave - here, your work adapts to your personal life, not the other way around!\n• Wellness Allowance - 600€ per year - important to get you moving when you sit all day in front of a computer!\n• Global Health Insurance - We want to give you wings so you can fly high but you have to be safe after all!\n\nAPPLICATION DEADLINE: December 15th CET\nKeep in mind that we will only start processing the applications once the deadline is over.\n\nDisclaimer\n\nPlease be aware of potential recruitment scams. Bitrefill will never ask you for money during the recruitment process.\n\nAll our communication happens via our official/career site email addresses (@message.teamtailor.com, @bitrefill.com) and only after applying via Teamtailor Careers site.\n\nThis offer from \"Bitrefill\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6748947b08d932d86b103f14-mobile-app-developer-react-native?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciAoUmVhY3QgTmF0aXZlKSIsImNvbXBhbnlfbmFtZSI6IkJpdHJlZmlsbCIsImFkZHJlc3NfY2l0eSI6IkVzdG9uaWEiLCJodGlkb2NpZCI6IllieXltdUlTdWpXcVQ4ZHhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        },
+        {
+            "title": "Senior Flutter Developer",
+            "company_name": "Sportserve",
+            "location": "Tallinn, Estonia (+21 others)",
+            "via": "Sportserve",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=KWNnok9ceZfCAB5yAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGvQoCMQwAYFzvERwks2grgouu_oDruR9tCb1KTEoTj3sKn1ldPr7us-h8j1ykwZXeZtjgjBOS1N-2cJcIiqGlEYThJpIJl6fRrOrRe1VyWS1YSS7JywtjlNk_JeqfQcfQsFIwHPaH3ewq5_Wqr9JMsU0IheERiArzBi5qwiV8AThT_Z6RAAAA&shmds=v1_AXX-3kENaxJDQscQBI2UtdxJ2gNnFTOsWmHPU6FajoMXUBTG0g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=KWNnok9ceZfCAB5yAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d5f9c83f56b110d3867527c03ad06b18824b907d8683bc7b0.jpeg",
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Are you excited about shaping the future of sports betting technology? Join the Sportsbook team and contribute to our in-house Sportsbook platform that hosts multiple brands. Our sophisticated system leverages Java for robust development, Kafka for real-time data streaming, and Spring Boot for creating powerful services. You’ll work with various live sports feed integrations and utilise RabbitMQ for efficient message handling.\nOur platform is engineered for high performance, ensuring high availability and scalability to handle high throughput and peak loads. We also prioritise rigorous performance testing to maintain superior reliability and speed.\nIf you’re passionate about cutting-edge technology and want to make a significant impact in the sports betting industry, we want to hear from you!\"\n\nWhen it comes to being successful at Sportserve, there's more to it than just being really good at the technical stuff. It's also your ability to be an awesome problem solver. And here's the thing, we totally get that we can't all be experts in everything, right? So, it's all about having that thirst for knowledge and being passionate about learning. You'll also need amazing attention to detail, so if something seems off, you won't rest until you've figured out what's going on. We see ourselves as a cool group of people who love coming up with new ideas and making things happen. As long as you have a true passion for creating awesome stuff, you'll fit right in.\n\nWhat you'll be getting up to:\n• Develop mobile apps based on technical and functional specifications provided by the business.\n• Continued maintenance, development, and bug fixes for the existing mobile application.\n• Utilise source control tools such as Gitlab for maintaining code versioning and releases.\n• Test the app on different mobile devices and identify any technical problems.\n• Work with the team to manage, optimise and customise multiple mobile applications.\n• Attend daily meetings to report on assigned tasks’ progress and attend fortnightly meetings for project planning and other meetings from time to time.\n• Complete tasks & deliver projects on time and to the highest standards.\n• Contribute ideas for making the application better and easier to use.\n\nRequirements:\n• Bachelor's degree in Computer Science or any related technical field.\n• 5+ years of working experience in mobile development.\n• 2-3+ years of working with the Flutter framework.\n• Experience with third-party libraries and APIs.\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.\n• Must have built at least two Android and/or iOS apps with Flutter.\n• Ability to write and interpret technical documentation.\n• Solid understanding of the full mobile development life cycle, including automated testing and building.\n• Experience working in an agile development process.\n• Be proficient in using version control and continuous integration, with tools like GIT.\n• Write clear, maintainable and testable code that you are proud of.\n• Good oral and written English communication skills.\n• Ability to work in a team and work well under pressure and deadlines.\n• Ability to organise and manage multiple priorities.\n• Independent but collaborative, driven, and assertive.\n• Knowledge about the Clean Architecture and SOLID principles.\n\nNice to have:\n• Experience in the online gaming industry or similar domains.\n• Background in continuous integration and deployment (CI/CD).\n• Understanding of automated testing for mobile apps.\n• Strong problem-solving and organizational skills.\n• Ability to adapt and manage multiple priorities effectively.\n• *We warmly invite applications in English.\n\nDiversity & Inclusion at Sportserve\n\nAt Sportserve, we are deeply committed to fostering a diverse and inclusive workplace. We believe in building a team that reflects a wide array of backgrounds, skills and perspectives. Embracing diversity not only enriches our work culture but also drives innovation and excellence. We are proud to be an equal opportunity employer, where everyone’s contribution is valued and respected.\n\nIf you’re a passionate about technology and looking to start your career in an international, forward-thinking Sports Betting company, we’d love to hear from you. Apply now to become part of our exciting journey!",
+            "apply_options": [
+                {
+                    "title": "Sportserve",
+                    "link": "https://careers.sportserve.co/jobs/5246541-senior-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/Mamo/d36282ca-32af-4cc8-a14e-2999f8a37126?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Global Ventures",
+                    "link": "https://jobs.global.vc/companies/mamo/jobs/42648487-senior-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MEVP Job Board - Middle East Venture Partners",
+                    "link": "https://jobs.mevp.com/companies/mamo/jobs/42648487-senior-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmx1dHRlciBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTcG9ydHNlcnZlIiwiYWRkcmVzc19jaXR5IjoiVGFsbGlubiwgRXN0b25pYSIsImh0aWRvY2lkIjoiS1dObm9rOWNlWmZDQUI1eUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSWE4wYjI1cFlRIn0="
+        },
+        {
+            "title": "Senior Developer Advocate",
+            "company_name": "RevenueCat",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=IGPgqC9XUk_y_uSoAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWy3t7GaWjBZBButREWw1AMsSRySSJwJmXHZE3hu1-aX73ffRdc_kDI3OOOIhSs2OD5HDk4RNnBjD4KuhQRMcGWOBVeHpFplb61IMVHUaQ4m8NsyoefJvtjLP4Mk17CWmRq2u34yleJ6eZ8_9MGTU8gEF1Gm7H63Bb34iQAAAA&shmds=v1_AXX-3kHMFZyUWMW-JLR8oi7P8wumWFg-61RvuCqaGSzENWBHXg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=IGPgqC9XUk_y_uSoAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6752df0ae335ececf6e86930/images/bf87b0a670930b3d0a0dc2841dacd2a69aac2af3ce579801a9b42f692a5a4d4a.jpeg",
+            "extensions": [
+                "5 days ago",
+                "212K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "salary": "212K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: United States, EMEA\n\nAbout us:\n\nRevenueCat makes building, analyzing, and growing mobile subscriptions easy. We launched as part of Y Combinator's summer 2018 batch and today are handling more than $4B of in-app purchases annually across thousands of apps.\n\nWe are a mission driven, remote-first company that is building the standard for mobile subscription infrastructure. Top apps like VSCO, Notion, and ClassDojo count on RevenueCat to power their subscriptions at scale.\n\nOur 80 team members (and growing!) are located all over the world, from San Francisco to Madrid to Taipei. We're a close-knit, product-driven team, and we strive to live our core values: Customer Obsession, Always Be Shipping, Own It, and Balance.\n\nThe Role\n\nRevenueCat helps apps of all shapes and sizes make more money across mobile, the web, and other platforms like Roku and Amazon. As a result, many different types of users log in to – and use – RevenueCat on a day-to-day basis. Product managers, support reps, lifecycle marketers, user acquisition specialists, data analysts, executives: The list goes on.\n\nNone of those users would make it onto RevenueCat unless a developer implements it first. And for smaller apps, developers are these users: They do the marketing, provide support, interpret the performance data, make pricing and packaging decisions, and more.\n\nWe’re looking for a Senior Developer Advocate to help ensure these developers are successful when using RevenueCat. You’d join forces with our current Advocate, and guy you might have seen walking around Seoul in the rain, Charlie Chapman. We’re specifically looking for someone with strong skills in producing written educational content targeted at developers that is technical but engaging. Your work will educate existing RevenueCat users, attract new search traffic, and position RevenueCat as the go-to resource when implementing in-app purchases across platforms.\n\nWhat you’ll be responsible for\n\nYour primary responsibility will be creating high-quality, developer-focused content focused on monetization and in-app purchases. This includes both scenarios where developers use RevenueCat to solve for these use cases, as well as alternative implementations.\n\nExamples of the type of content we’d expect you to produce include blogpost with titles like:\n• \"Migrating a native subscription app to Flutter: A step by step plan\"\n• \"Implementing your first subscription with RevenueCat: Disable ads for paid users\"\n• \"How to detect and highlight the platform of purchase for cross-device subscribers\"\n• \"Adding a multi-tier subscription to your Expo app\"\n\nIn addition to writing, you’ll:\n• Speak at conferences, webinars, and other events to share insights and represent RevenueCat\n• Record videos and collaborate on webinars to help developers implement and succeed with RevenueCat\n• Work cross-functionally to develop resources that support developers using RevenueCat\n\nWithin the first month, you’ll:\n• Learn RevenueCat inside and out\n• Familiarize yourself with our developer community and how to engage them\n• Have produced your first pieces of RevenueCat content\n\nWithin the first 3 months, you’ll:\n• Collaborate with Charlie on a joint content strategy playing to both your strengths\n• Independently research and develop content to fill current gaps in our documentation and other educational efforts\n• Repurpose existing content into new formats (e.g., blog posts into videos) to expand our reach\n\nWithin the first 6 months, you’ll:\n• Represent RevenueCat at industry conferences and webinars, delivering talks and engaging with developers\n• Support product launches with technical content (written or video)\n\nAfter 12 months, you’ll have:\n• Become a fixture across the developer community, having become synonymous with RevenueCat and in-app monetization for Android, Flutter, and/or React Native\n• Found new and novel ways to help us engage developers (think Shipaton, App Store Rejection socks, and similar initiatives)\n\nAbout you\n\nYou’re passionate about teaching and helping developers thrive. You’re deeply experienced in app development, particularly subscription apps, whether as part of a team or through indie projects (preferably both).\n\nWhat you’ll need to be successful\n• 5+ years of experience in app development or developer-focused roles, ideally in a subscription app environment, with a deep understanding of at least one major mobile development platform (Android, Flutter, React Native preferred; iOS a strong alternative) and the ability to learn and write about others\n• Strong independent project management skills, with the ability to manage multiple content initiatives, events, and deadlines across time zones without constant oversight\n• Excellent technical communication skills, capable of translating complex technical concepts into accessible and engaging written, video, and spoken formats for developers\n• A passion for teaching and empowering developers, with the ability to create content that educates and inspires action, including blog posts, tutorials, and videos\n• Proven ability to learn and explain new technologies, with expertise in Android development, Flutter, or React Native preferred (experience with iOS development is a plus if paired with a demonstrated ability to adapt to and write about other platforms)\n• Proven experience in producing content for a developer audience, preferably in a professional capacity as a developer advocate, but we’d consider exceptional candidates that have written, recorded video, and have spoken at conferences targeted at developers as a hobby or side-project\n• Resourcefulness and adaptability, with a problem-solving mindset to navigate the challenges of engaging a global developer community\n• Outcome-driven approach, ensuring your efforts lead to measurable impacts, such as increased content engagement, developer onboarding, and community growth\n• Comfort with a fully remote, asynchronous work environment, and tools like Notion, Zoom, Slack, and Linear. You’ll need to thrive in an environment that balances collaboration with ample time for focused, deep work\n\nWe’re looking for someone who embodies our team’s core values of agency and intellectual curiosity: taking initiative, solving problems, and continually learning to better serve our diverse developer audience. Regular travel may occasionally be required for conferences, events, or team gatherings.\n\nWhat we offer:\n• $212,000 USD salary, regardless of location\n• Competitive equity in a fast-growing, Series C startup backed by top-tier investors, including Y Combinator\n• 10-year window to exercise vested equity options\n• Fully remote and flexible work environment\n• 4-5 weeks of suggested time off annually for mental, physical, and emotional recharge\n• $2,000 USD for workspace setup and $1,000 USD annual stipend for continuous learning\n\nCurious about the interview process? Discover more in our blog post about how we hire and learn tips to help you succeed.\n\nThis offer from \"RevenueCat\" has been enriched by Jobgether.com and got a 90% flex score.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We’re specifically looking for someone with strong skills in producing written educational content targeted at developers that is technical but engaging",
+                        "Become a fixture across the developer community, having become synonymous with RevenueCat and in-app monetization for Android, Flutter, and/or React Native",
+                        "You’re passionate about teaching and helping developers thrive",
+                        "You’re deeply experienced in app development, particularly subscription apps, whether as part of a team or through indie projects (preferably both)",
+                        "Strong independent project management skills, with the ability to manage multiple content initiatives, events, and deadlines across time zones without constant oversight",
+                        "Excellent technical communication skills, capable of translating complex technical concepts into accessible and engaging written, video, and spoken formats for developers",
+                        "A passion for teaching and empowering developers, with the ability to create content that educates and inspires action, including blog posts, tutorials, and videos",
+                        "Proven experience in producing content for a developer audience, preferably in a professional capacity as a developer advocate, but we’d consider exceptional candidates that have written, recorded video, and have spoken at conferences targeted at developers as a hobby or side-project",
+                        "Resourcefulness and adaptability, with a problem-solving mindset to navigate the challenges of engaging a global developer community",
+                        "Outcome-driven approach, ensuring your efforts lead to measurable impacts, such as increased content engagement, developer onboarding, and community growth",
+                        "Comfort with a fully remote, asynchronous work environment, and tools like Notion, Zoom, Slack, and Linear",
+                        "You’ll need to thrive in an environment that balances collaboration with ample time for focused, deep work",
+                        "We’re looking for someone who embodies our team’s core values of agency and intellectual curiosity: taking initiative, solving problems, and continually learning to better serve our diverse developer audience",
+                        "Regular travel may occasionally be required for conferences, events, or team gatherings"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$212,000 USD salary, regardless of location",
+                        "Competitive equity in a fast-growing, Series C startup backed by top-tier investors, including Y Combinator",
+                        "10-year window to exercise vested equity options",
+                        "Fully remote and flexible work environment",
+                        "4-5 weeks of suggested time off annually for mental, physical, and emotional recharge",
+                        "$2,000 USD for workspace setup and $1,000 USD annual stipend for continuous learning"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Product managers, support reps, lifecycle marketers, user acquisition specialists, data analysts, executives: The list goes on",
+                        "None of those users would make it onto RevenueCat unless a developer implements it first",
+                        "And for smaller apps, developers are these users: They do the marketing, provide support, interpret the performance data, make pricing and packaging decisions, and more",
+                        "Your work will educate existing RevenueCat users, attract new search traffic, and position RevenueCat as the go-to resource when implementing in-app purchases across platforms",
+                        "Your primary responsibility will be creating high-quality, developer-focused content focused on monetization and in-app purchases",
+                        "This includes both scenarios where developers use RevenueCat to solve for these use cases, as well as alternative implementations",
+                        "\"Migrating a native subscription app to Flutter: A step by step plan\"",
+                        "\"Implementing your first subscription with RevenueCat: Disable ads for paid users\"",
+                        "\"How to detect and highlight the platform of purchase for cross-device subscribers\"",
+                        "\"Adding a multi-tier subscription to your Expo app\"",
+                        "Speak at conferences, webinars, and other events to share insights and represent RevenueCat",
+                        "Record videos and collaborate on webinars to help developers implement and succeed with RevenueCat",
+                        "Work cross-functionally to develop resources that support developers using RevenueCat",
+                        "Learn RevenueCat inside and out",
+                        "Familiarize yourself with our developer community and how to engage them",
+                        "Have produced your first pieces of RevenueCat content",
+                        "Collaborate with Charlie on a joint content strategy playing to both your strengths",
+                        "Independently research and develop content to fill current gaps in our documentation and other educational efforts",
+                        "Repurpose existing content into new formats (e.g., blog posts into videos) to expand our reach",
+                        "Represent RevenueCat at industry conferences and webinars, delivering talks and engaging with developers",
+                        "Support product launches with technical content (written or video)"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/674cc14db10568bbc7b1e688-senior-developer-advocate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2ZWxvcGVyIEFkdm9jYXRlIiwiY29tcGFueV9uYW1lIjoiUmV2ZW51ZUNhdCIsImFkZHJlc3NfY2l0eSI6IkVzdG9uaWEiLCJodGlkb2NpZCI6IklHUGdxQzlYVWtfeV91U29BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUlhOMGIyNXBZUSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUbGhSYVVGNk5qWnhWbGRuVEhCNmMyRjBWR1YxVkhReGJtVmxaRU5WTlZKdlEycDRkMEY1TUZsamJ6ZEtYMDVSZGxCNFEzVjZSM2x6V0U5RU1VVlFVbUpWVjBOVWRrSktka2gxVGpKcFJsZFZORnBEV0VsaFRuVTJhbTlNYXpsNmJUTnBjR2xxWm01SmIyVTNkMDQxUjFac2NtVmpla3hmUTJwaWVYZzBUSFYxVFV4NlNtUmhXSFZNY1VVeGQxVnVZemRRY1RGVU5GUm1aRGQ0TlRoMFYzaHdjRVF5WXpGc01XZHFZbEJKV2tvNGR6Z3lRV3RQTTJsUE1DMUhORFZyT0ZKUWVHcG5TbVJ4VERWb0xVSkRRM1JrVFhKM1dHNVlSVWswZVc1WlpqQmxjVGN3UVhvMVJGRmllakJDV2twalEwcHJNSEJsU1U1M1gxcFBlVUl6Y25RdFJVdzVTeElYUkU0NVUxbzRaWFpOVEdWMU5VNXZVSHBpWVUwdFVXOGFJa0ZHV0hKRlkzRk9UakkyYlUxelFrSXRjSGRZUkRWRE1sSlhRM2hoZEhJNVFXYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Estonia&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUbGhSYVVGNk5qWnhWbGRuVEhCNmMyRjBWR1YxVkhReGJtVmxaRU5WTlZKdlEycDRkMEY1TUZsamJ6ZEtYMDVSZGxCNFEzVjZSM2x6V0U5RU1VVlFVbUpWVjBOVWRrSktka2gxVGpKcFJsZFZORnBEV0VsaFRuVTJhbTlNYXpsNmJUTnBjR2xxWm01SmIyVTNkMDQxUjFac2NtVmpla3hmUTJwaWVYZzBUSFYxVFV4NlNtUmhXSFZNY1VVeGQxVnVZemRRY1RGVU5GUm1aRGQ0TlRoMFYzaHdjRVF5WXpGc01XZHFZbEJKV2tvNGR6Z3lRV3RQTTJsUE1DMUhORFZyT0ZKUWVHcG5TbVJ4VERWb0xVSkRRM1JrVFhKM1dHNVlSVWswZVc1WlpqQmxjVGN3UVhvMVJGRmllakJDV2twalEwcHJNSEJsU1U1M1gxcFBlVUl6Y25RdFJVdzVTeElYUkU0NVUxbzRaWFpOVEdWMU5VNXZVSHBpWVUwdFVXOGFJa0ZHV0hKRlkzRk9UakkyYlUxelFrSXRjSGRZUkRWRE1sSlhRM2hoZEhJNVFXYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}
