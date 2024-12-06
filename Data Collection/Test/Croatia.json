@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "67530a243c95751babc2bc29",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3e3859bcb956d744/67530a243c95751babc2bc29.json",
+        "created_at": "2024-12-06 14:28:52 UTC",
+        "processed_at": "2024-12-06 14:28:52 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIHQ3JvYXRpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/3e3859bcb956d744/67530a243c95751babc2bc29.html",
+        "total_time_taken": 1.45
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Croatia",
+        "location_used": "Croatia",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

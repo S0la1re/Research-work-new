@@ -1,0 +1,487 @@
+{
+    "search_metadata": {
+        "id": "67530e8dcdf1551a2e0bda3a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/23a1579de67e023b/67530e8dcdf1551a2e0bda3a.json",
+        "created_at": "2024-12-06 14:47:41 UTC",
+        "processed_at": "2024-12-06 14:47:41 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIHUm9tYW5pYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/23a1579de67e023b/67530e8dcdf1551a2e0bda3a.html",
+        "total_time_taken": 1.51
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Romania",
+        "location_used": "Romania",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+since+yesterday&uds=ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=Ios+developer+course"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=Ios+developer+certification"
+        },
+        {
+            "name": "Job description",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU",
+                "q": "Ios developer job description"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+job+description&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=Ios+developer+job+description"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co&udm=8&sa=X&ved=2ahUKEwiKz-7GsZOKAxVtTTABHQGRNnsQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Software Developer",
+            "company_name": "Urban Socializing",
+            "location": "Bucharest, Romania",
+            "via": "Career Page",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gqcv1qGPhvK0dnQIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0nON0miG1EcNFNBMFFsDiXSzjTSJoLuVOL_-H_apc3Pd6rvrOqDpcWWr7rGwvBkV4UOVOBGs5sQQiL64ETnJh9pPm-V82yM0YkNl4UNbjG8WA4keXRPNjKhE76fy9HVOo22_XY5OSXi1uxmP43FzCGT0geQoLD002u6AquPGAK-AO4GVzWmAAAAA&shmds=v1_AXX-3kEJFBJYDMD1ShVsGjPNMFQPDRg_ITIfJrNq8BKsNw7r2g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gqcv1qGPhvK0dnQIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137fbf27ab727287f692aae0c7b2ffdba329d64417acc0be5b6d.png",
+            "extensions": [
+                "23 hours ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 hours ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Location﻿: 100% remote in Romania\n\nRecruitment process:\n• ﻿HR screening\n• technical interview\n\nRole description: Key responsabilities\n\nWe are seeking a talented iOS Software Developer with a passion for building high-quality, innovative, and fully performing mobile applications. If you love working with Swift and want to be part of a dynamic, collaborative team, wed love to hear from you!\n\n﻿Key responsabilities﻿\n• Design, develop, and maintain iOS applications using Swift.\n• Collaborate with cross-functional teams, including designers and backend developers, to define, design, and ship new features.\n• Ensure the performance, quality, and responsiveness of applications.\n• Identify and fix bugs and performance bottlenecks.\n• Stay up-to-date with the latest industry trends and best practices in iOS development.\n• Participate in code reviews to ensure high-quality code.\n• Write and maintain unit and UI tests to ensure robust app functionality.\n\nProfile :\n• Proven experience as an iOS Developer, with at least 3 years of professional experience.\n• Proficiency in Swift and familiarity with Xcode.\n• Strong understanding of the iOS SDK, UIKit, Core Data, Core Animation, and other Apple frameworks.\n• Experience with RESTful APIs to connect iOS applications to backend services.\n• Familiarity with Git for version control.\n• Understanding of design patterns such as MVC, MVVM, or VIPER.\n• Experience with Unit Testing and UI Testing frameworks.\n• Knowledge of App Store submission process and best practices.\n• Strong problem-solving skills and attention to detail.",
+            "apply_options": [
+                {
+                    "title": "Career Page",
+                    "link": "https://www.careers-page.com/urban-socializing-srl/job/QVRR966R?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiVXJiYW4gU29jaWFsaXppbmciLCJhZGRyZXNzX2NpdHkiOiJCdWNoYXJlc3QsIFJvbWFuaWEiLCJodGlkb2NpZCI6ImdxY3YxcUdQaHZLMGRuUUlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Swissquote",
+            "location": "Bucharest, Romania",
+            "via": "Smart Recruiters Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=T_uG76GW_RCRe90-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7CU43OIkmIrjoVgTBRbAfUC7hSCNpLuau2h_wv6XLm17zWzWb-OjgSh9KXKjCHu7sQAirH4Az3JhDovVlUC1ytlYkmSCKGr3xPFrO5Hi2L3ay0MuAlUpCpf54Osym5LCF7htF3hMrQczQTn5Jojt48og54h9dGoCTiAAAAA&shmds=v1_AXX-3kGWjyhYCefSqJAhIZ2Ov2AEo6ALijd-tt7KOdqvOw_3SA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=T_uG76GW_RCRe90-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137fbfc01e08479cc726a91a0f7657c970bf1e6e205252d257bf.png",
+            "extensions": [
+                "17 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nFounded by two engineers, Swissquote makes trading opportunities accessible to everyone and we challenge everything that makes traditional banking irrelevant.\n\nThe Swissquote Tech Hub in Bucharest is meant to create a new high-calibre location for the Swissquote engineering group. The Tech Hub is structured around the design, build and maintenance of innovative and reliable systems, products and services. Operating within a collaborative Agile environment, we aim to deliver effective solutions to the business and our customers using our evolving platforms.\n\nJob Description\n\nAs an iOS Developer, you will maintain and develop the Yuh native mobile app. This app is used every day by several hundreds of thousands customers to make payments, save money and trade on international financial markets. Besides, you will be at the forefront of innovation.\n\nYou will work on a modern codebase, leveraging the latest Swift and SwiftUI technologies, and have significant autonomy.\n\nYou will have opportunities to attend conferences and training to stay up-to-date with the latest advancements in the field.\n\nAdditionally, you will work in a collaborative environment where knowledge sharing is encouraged.\n\nYou will have the chance to work on exciting projects that directly impact the lives of our customers while tackling challenging technical problems.\n\nYou will be part of a functional team, composed of developers, a system analyst and a QA, in the Yuh Solutions department and work closely with other team mates in a very dynamic environment.\n\nWhat you will do\n• Participate actively in the development of the products under your team supervision by creating efficient and reliable code\n• Work closely with financial experts to gain first-hand experience and discuss possible solutions and alternatives to embed their requests\n• Keep yourself up-to-date on the cutting-edge technologies and contribute actively to the technical choices of the team\n• Coordinate and organize the products evolutions and their deliveries\n• Provide support on the Yuh iOS application\n• Maintain existing components and provide support to our internal and external users.\n\nQualifications\n• At least 5 years experience with iOS development, ideally on the apps with high number of users\n• Excellent knowledge of Swift\n• Excellent knowledge of UIKit and/or SwiftUI (willingness to learn SwiftUI)\n• Good knowledge of Git version control system\n• Good knowledge of iOS software engineering and frameworks (tests, monitoring, app stores process, Firebase, CI/CD, GitHub, gradual rollouts, modular architectures, ...)\n• Knowledge of mobile dev best practices such Agile methodologies, source control management, HTTP and REST APIs\n• Analyze iOS application code security, efficiency and performance\n• Excellent communication and collaboration skills\n• Rigorous and efficient\n• Curious and pragmatic\n• Provide accurate estimates to management\n• Experience with Android development is an asset\n• Experience in banking is a plus\n• Fluent in English, French is a strong asset\n\nAdditional Information\n\nWhat we offer\n• Modern, international work environment built on collaboration, flexibility and respect\n• Exciting opportunity to boost your career and develop solid banking and Fintech business expertise\n• Hybrid, very flexible way of working; only required to work from the office 2 days per month and in some other particular cases/events",
+            "apply_options": [
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/Swissquote/744000027414465-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=7e2a24eb7ec03a37&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/ios-developer-swissquote-6020914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU3dpc3NxdW90ZSIsImFkZHJlc3NfY2l0eSI6IkJ1Y2hhcmVzdCwgUm9tYW5pYSIsImh0aWRvY2lkIjoiVF91Rzc2R1dfUkNSZTkwLUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "nLIGHT MEDIA",
+            "location": "Sibiu, Romania",
+            "via": "NLIGHT MEDIA",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=OAwAz3HVViA_CEu0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5yg5NoIoKLnYRKrSiCdS9JOJJImgu5KN39cfENr_rOqqW_99DgBwMlzLCBC2lgVNk4oAgtkQ04r10piQ9SMgdhuajijTA0SoqoaZIv0vxvYKcypqAKDrv9dhIp2tUiXrv2_ITbqemO4CP0Xvv3Gh40qujVD7JVe0eGAAAA&shmds=v1_AXX-3kGB227Tasv6N7XBRNR900ni-QBCxquseWDHQBA04gsdlA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=OAwAz3HVViA_CEu0AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description:\n\nWe are seeking a skilled and motivated iOS Developer to join our growing team. The ideal candidate will have a strong understanding of mobile development technologies and principles, a keen eye for detail, and a passion for creating seamless and intuitive user experiences. As an iOS Developer, you will work closely with our design and backend teams to implement and optimize mobile applications for the iOS platform.\n\nKey Responsibilities:\n• Develop and maintain high-quality iOS applications using Swift and Objective-C.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Optimize applications for maximum performance and scalability.\n• Conduct thorough testing and debugging of iOS applications to ensure optimal performance across various devices.\n• Stay up-to-date with emerging trends and technologies in mobile development.\n• Participate in code reviews to maintain code quality and share knowledge with the team.\n\nQualifications:\n• Good experience as an iOS Developer or similar role.\n• Proficiency in Swift and Objective-C.\n• Strong understanding of iOS SDK and iOS development principles.\n• Experience with version control systems (e.g., Git).\n• Knowledge of RESTful APIs and integration.\n• Familiarity with iOS UI/UX design principles and best practices.\n• Excellent problem-solving skills and attention to detail.\n• Ability to work effectively in a collaborative team environment.\n• Good communication skills and the ability to articulate technical concepts to non-technical stakeholders.\n\nPreferred Qualifications:\n• Experience with other mobile development frameworks (e.g., Flutter, React Native) is a plus.\n• Familiarity with cloud services and mobile backend-as-a-service (MBaaS) platforms.\n• Knowledge of mobile security best practices.\n• Experience with CI/CD pipelines and mobile DevOps practices.\n• Understanding of Apple’s Human Interface Guidelines.",
+            "apply_options": [
+                {
+                    "title": "NLIGHT MEDIA",
+                    "link": "https://nlightmedia.com/job/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoibkxJR0hUIE1FRElBIiwiYWRkcmVzc19jaXR5IjoiU2liaXUsIFJvbWFuaWEiLCJodGlkb2NpZCI6Ik9Bd0F6M0hWVmlBX0NFdTBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "JR. iOS Developer",
+            "company_name": "Lynx Solutions",
+            "location": "Anywhere",
+            "via": "Built In",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=qFWUR5s4a7WmKWsQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CZ72JCI2EcGLHhWEIgrtA8o2LE1Kuhu6qdRX-GVxDlN8V8W2qg2EVwM3elOURBOUUEkHSjg5D8JwF-kjrS8-56Rna1Wj6TVjDs44Ga0wdbLYQTr916rHiVLETO3xdFhM4n63eXx4gUbinIOwQmC4xnkon5jE4R5qGZED_gCN7we4kgAAAA&shmds=v1_AXX-3kFWvO58W3y3-I_kxEPxPbM_t0cyBmnGWe8o3oUWbwIJqw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=qFWUR5s4a7WmKWsQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137fb50a9632be3fe5ef9bd43d37d95a02594cd6a6044bd7a53c.jpeg",
+            "extensions": [
+                "8 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nLynx Solutions is an IT service provider focused on delivering professional solutions for custom made business applications. We are actively present on the software development market since 2003, currently employing more than 80+ professionals. Customers range from Australia and New Zealand to Western Europe and Japan.\n\nAt Lynx Solutions we are aiming to find a solution for every customer’s need by providing high-quality services. We believe that from great partnership innovative products are born.\n\nJob Description\n• Designing and building mobile applications;\n• Collaborating with the design team to define app features;\n• Ensuring quality and performance of application to specifications;\n• Identifying potential problems and resolving application bottlenecks;\n• Fixing application bugs before final release;\n• Publishing application on App Store;\n• Maintaining the code and atomization of the application;\n\nQualifications\n• Swift/Objective-C experience;\n• Experience with iOS frameworks such as (at least most of the following): Core Motion, Core Audio, Core Animation, CloudKit, StackViews, Push Notifications, Local Notifications, Core Location, MapKit, Core Data;\n• Familiar with RESTful APIs to connect our apps to back-end services would be a plus;\n• Understanding of Apple’s design principles and interface guidelines;\n• Familiarity with cloud message APIs and push notifications;\n\nAdditional Information\n\nWhat do we offer:\n\nWe believe in equality and fair chances for every teammate. We offer our employees a secure environment in which they can upskill and grow, caring for their well being by offering:\n• The opportunity to work in a well-balanced team with highly skilled developers;\n• A challenging environment with mature and innovative projects working with the latest technologies;\n• The support of a great community;\n• Attractive benefits package;\n\nYou can join a culture that values skills and talents, where we aim to create great things together, have fun and support each other.\n\nCheck out the latest updates on LinkedIn and Facebook for a glimpse into the life of the Lynx community.",
+            "apply_options": [
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/jr-ios-developer/2530134?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/657db4e649294495701bc613-jr.-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKUi4gaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikx5bnggU29sdXRpb25zIiwiYWRkcmVzc19jaXR5IjoiQ2x1ai1OYXBvY2EsIFJvbWFuaWEiLCJodGlkb2NpZCI6InFGV1VSNXM0YTdXbUtXc1FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "iOS Developer in Bucharest",
+            "company_name": "Shortcut",
+            "location": "Bucharest, Romania",
+            "via": "Shortcut Career Site",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=K-N7BVkC4ON5NH-kAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1XNsQrCMBCAYVz7CA5ys2iigotuIggugn2AcglHk5LmQu4qfQwfWTq6_OP3N99Vc4yvFu70ocSFKsQMt8kHrCQKe3iyAyGsPgBneDD3idbXoFrkYq1IMr0oavTG82g5k-PZDuxkSSeLUxIqdafzYTYl99tNG7iqn_RvtYM3j5gj_gAHWEX-kwAAAA&shmds=v1_AXX-3kHfCXlgaEw1W04Ypa4a0M0YbMbhY4WTD8CjpOmHqnD5Lw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=K-N7BVkC4ON5NH-kAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137f8dbc95d4eb7b8171dfa4ed296aa6f435058d3c8d6e44596a.png",
+            "extensions": [
+                "24 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Are you passionate about iOS, Programming and Mobile Devices? Do you get excited about building state-of-the-art apps that impact lots of users? Look no further! We’re searching for an iOS Software Engineer to join our growing team in Bucharest.\n\nWe’re offering a rewarding position in an exciting work environment, with a healthy life/work balance, within a company that prizes a healthy culture, and where the management has a technical background, values quality, trust and integrity.\n\nYou would be part of an international team, with members in Romania, Denmark, Norway, Sweden and Malaysia and traveling opportunities for various projects. The apps we work on are diverse and challenging, a few examples including mobile games, retail, banking, media or enterprise apps, IoT projects, start-up projects, integrations with custom hardware and the list can go on.\n\nIf you're looking for new challenges and problems to tackle, are excited to work on complex features in apps with a huge user base, have a passion for learning, and care deeply about your app's users, then it’s YOU whom we’re looking for.\n\nWhy us?\n• Mature and recognized app development agency;\n• Opportunity to work on exciting, ambitious and challenging projects for large international clients;\n• Team that values quality, personal development and growth, not only getting things done;\n• Chance to learn and experiment with some of the latest technologies in the field;\n• Involvement in all phases of the app-creation process, from design, to planning, implementation and delivery;\n• Travel opportunities to our offices in the Nordics;\n• Very attractive salary & benefits package, social events and charming office in Cotroceni area;\n• Energetic and fun working atmosphere;\n• Opportunity to learn or practice state-of-the-art technologies: e.g. Flutter, Cloud, Web, DevOps;\n\nExpectations\n• Experience with Swift & Cocoa;\n• In-depth knowledge and understanding of the iOS platform;\n• Fluency in English;\n• Passion for writing maintainable and future-proof code for scalable products;\n• Ability to communicate and work well in a team;\n• Software Development / Computer Science background;\n• Open-mind, fast-learning and interest in exploring new technologies.\n\nWhat we consider a plus?\n• Experience with Swift UI or Combine;\n• Experience with writing testable code, unit tests or UI tests;\n• An eye for well-polished UI & UX;\n• Strong sense of when refactoring is needed;\n• Previous working experience, tech articles writing or active involvement in projects or the open-source community.\n\nAbout us\n\nShortcut is an app agency with offices in Romania, Denmark, Norway, Sweden and Malaysia that is specialized in creating unique mobile solutions. Our team of more than 100 people across the states mentioned above is building digital tools used by millions every day.\n\nWe are actively involved in the design, development and support of various projects, ranging from apps for startups or enterprise companies to apps with hundreds of thousands of daily active users.\n\nWith a main focus on offering a working environment that is open, dynamic, challenging and fun, we want our office to be a place where we enjoy spending our time. And, by the way, we're located in an office building in the charming Cotroceni area.\n\nIf all this sounds interesting to you and believe you are the right person for such a role, we’d love to enjoy a cup of coffee together and answer any questions you might have, so feel free to get in touch with us.",
+            "apply_options": [
+                {
+                    "title": "Shortcut Career Site",
+                    "link": "https://careers.shortcut.io/jobs/5189648-ios-developer-in-bucharest?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=ebafae3ce30f386b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hipo",
+                    "link": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/162156/HN-SERVICES/iOS-Developer-%252540HN-Services-Romania--%252528IB%252529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ro.linkedin.com/jobs/view/ios-developer-in-bucharest-at-shortcut-4073419466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=106699286980240070&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lucrezi.ro",
+                    "link": "https://www.lucrezi.ro/munca/ios-developer-in-bucharest-ronvbc79b534bfb68013/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIGluIEJ1Y2hhcmVzdCIsImNvbXBhbnlfbmFtZSI6IlNob3J0Y3V0IiwiYWRkcmVzc19jaXR5IjoiQnVjaGFyZXN0LCBSb21hbmlhIiwiaHRpZG9jaWQiOiJLLU43QlZrQzRPTjVOSC1rQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFVtOXRZVzVwWVEifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Agile Freaks",
+            "location": "Sibiu, Romania",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=0O7yeqTZ7MqHipF4AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvExwkg5NoK4KLToIouAjeBxxpCW2015Smyu3-uPiG131n3ZLvPZzpQ0kKVdjATRwoYfURJMNVJCSaH2NrRQ_WqiYTtGFjb7yMVjI5mexTnP4bNGKlkrDRsNtvJ1NyWC1OgRPBpRK-FDhDz47fa3jIiJnxByhpy6yGAAAA&shmds=v1_AXX-3kFxPZbqFw4eX0es0MTHo9f2118ni8dA9kq-BC_oPzoj3g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=0O7yeqTZ7MqHipF4AAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About this role:\n\nAs an iOS Developer you will be responsible for developing applications for Apple devices and get them into the App Store. You will work as part of a team to define, design and implement features in the application, identify and correct deficiencies and fix errors in codes that show as bugs. You will collaborate with cross-functional teams to define, design, and ship new features and continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nThis is what we need from you:\n• Experience with iOS SDK (basic and advanced frameworks)\n• Familiar with App Store release management process\n• Good understanding of Apple platform-specific design and coding guidelines.\n• Experience with SwiftUI\n• Good understanding of general application architectures and code patterns.\n• Familiarity with mobile application UI development\n• Strong problem solving and critical thinking skills\n• Passion for quality and attention to detail\n• Aptitude to independently learn new technologies\n\nWhat we offer:\n• Fully remote! Applicants must be residents in Romania\n• We hide nothing! Full disclosure on company information\n• Profit Sharing - we share all registered profit between the freaks, based on seniority and level of experience\n• Craft Budget (personal budget to improve your craft, buy anything you need, software, hardware, books, conference tickets and such): $2500/year/person\n• Access to our startup fund ($120,000) to implement your personal project\n• Flexible working hours\n• Holiday Bonus (1 salary/year)\n• Mold your workplace through AFIP (Agile Freaks Improvement Process). Curious about AFIP? It's the best thing to make yourself heard",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=9b001b6a243fc197&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQWdpbGUgRnJlYWtzIiwiYWRkcmVzc19jaXR5IjoiU2liaXUsIFJvbWFuaWEiLCJodGlkb2NpZCI6IjBPN3llcVRaN01xSGlwRjRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "Mobile Developer iOS",
+            "company_name": "IBM",
+            "location": "Bucharest, Romania",
+            "via": "Define Your Career With IBM | Careers - IBM",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=8XS8YFUufqbdF-lMAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJSwrCMBAAUNz2BrqatZ9EBDe6K4IoFEEPUCZhaCJpJmRG6QW8t3TzNq_5LZpNxy4mggt9KXGhCvHxgh3c2YEQVh-AM1yZh0Src1AtcrJWJJlBFDV643m0nMnxZN_sZKaXgJVKQqX-cNxPpuRhvby1HcQM7cfPK7qFJ4-YI_4BYjvu34gAAAA&shmds=v1_AXX-3kFCRnj2ABGEj8pEb7HCwe3fTTkUPoIEOpce2_PxwW9B4Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8XS8YFUufqbdF-lMAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137f7e6731c6a843ad102ba085bdc4533a5c68fac95cc54cffd1.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Introduction\nIn this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world.​ Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology.\n\nA career in IBM Consulting embraces long-term relationships and close collaboration with clients across the globe.\n\nYou'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio; including IBM Software and Red Hat.\n\nCuriosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you'll be encouraged to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground breaking impact for a wide network of clients. Our culture of evolution and empathy centers on long-term career growth and development opportunities in an environment that embraces your unique skills and experience.\n\n#LI-hybrid\n\nYour Role and Responsibilities\n\niOS Developer\nWe are looking for IOS Developers to join our fun and creative team. Among the talented engineers, you will design and build the next generation of mobile applications.\n\nResponsibilities\n\n• Design and build advanced applications for the IOS platform\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Work with outside data sources and API's\n• Unit-test code for robustness, including edge cases, usability, and general reliability\n• Work on bug fixing and improving application performance.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency\n• Share your knowledge actively with your colleagues.\n• Proactive in maintaining codebase and infrastructure quality\n\nRequired Technical and Professional Expertise\n• BS/MS degree in Computer Science, Engineering (or a related subject) or equivalent experience\n• At least 5 years of experience in professional Mobile application development - IOS APIs and\nFrameworks.\n• Good knowledge and proven experience of SwiftUI & Compose (mandatory skills)\n• Experience with REST-ful APIs and JSON\n• Experience with third-party frameworks and APIs\n• Experience with Dependency Managers (CocoaPods, Carthage, SPM)\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle\n• Fundamentals in object-oriented design, algorithm design, problem solving, and complexity analvsis\n• Experience with IOS patterns\n• Good understanding of SOLID principles and the ability to apply them\n• Good team player who is self-motivated and well organized and has great communication skills\n• English - fluent\n\nPreferred Technical and Professional Expertise\n• Good knowledge of reactive programming (Combine or RxSwift )\n• Continuous integration / deployment (egg Jenkins, TeamCity, Fastlane) experience\n• Good overview of current development trends, frameworks and good knowledge of news sources, podcasts, tutorials etc. is a plus",
+            "apply_options": [
+                {
+                    "title": "Define Your Career With IBM | Careers - IBM",
+                    "link": "https://careers.ibm.com/job/21106973/mobile-developer-ios-bucharest-ro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Define Your Career With IBM | Careers - IBM",
+                    "link": "https://careers.ibm.com.en2ml.search.translate.goog/job/21343372/mobile-developer-ios-bucharest-ro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IBM Jobs",
+                    "link": "https://ibm.dejobs.org/bucharest-rom/mobile-developer-ios/FF469A59930B4447A30069303AE6CADD/job/?utm_campaign=Wanted-IL.xml&utm_medium=NLX&utm_source=Wanted-IL.xml-DE&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ro.linkedin.com/jobs/view/mobile-developer-ios-at-ibm-4090489596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=116995515039523526&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIGlPUyIsImNvbXBhbnlfbmFtZSI6IklCTSIsImFkZHJlc3NfY2l0eSI6IkJ1Y2hhcmVzdCwgUm9tYW5pYSIsImh0aWRvY2lkIjoiOFhTOFlGVXVmcWJkRi1sTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "Mid-Level iOS Developer",
+            "company_name": "Valuable Recruitment",
+            "location": "Bucharest, Romania",
+            "via": "Career Page",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=ZUhW_6dH0iAE70qCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7CE43F5uI4KKbCIIoQgXXcolHG0lzIXeVvopvK11-vuGvfqvK3MO7udGXIoTHE86LOFOBBq7sQAiLH4ATXJj7SOvjoJrlYK1INL0oavDG82g5kePZftjJkk4GLJQjKnW7_XY2OfV1_cI4oYsELfkyBR0pKYQEp8kvu-gGWh4xBfwDqsXWRJwAAAA&shmds=v1_AXX-3kEQ22tIyFEcch3VbW_--e3eJBPUgey1SLJBP0p0Ateuaw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=ZUhW_6dH0iAE70qCAAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Us\n\nBibleChat is on a mission to bridge centuries of wisdom with today's technology, making sacred scriptures more accessible and engaging for users worldwide. We're the fastest-growing startup in Europe in 2024 and the fastest-growing startup in the world in the faith sector, striving to empower 100m+ people to get closer to the Bible and the Scriptures.\n\nFounded by two experienced Romanian entrepreneurs with multiple exits, Laurentiu Balasa and Marius Iordache, BibleChat has a dedicated 35+ person team based in Bucharest and Cluj. We have over 7 million downloads and $14 million in funding from world-class investors such as Play Ventures, True Ventures, and leading Romanian VCs.\n\nAbout You\n\nYou are a skilled iOS Developer with a strong foundation in SwiftUI and a desire to build impactful mobile experiences that support spiritual growth. You have experience working with various SDKs, APIs, and Apple subscription frameworks, and you're comfortable using analytics and A/B testing to drive data-informed decisions. You thrive in collaborative environments, are eager to contribute to a shared vision, and are motivated by the opportunity to make a positive difference in the world.\n\nTop 5 Objectives\n• Develop Engaging Features: Design, develop, and implement new features for the BibleChat iOS app using SwiftUI, focusing on user engagement and a seamless, intuitive experience.\n• Integrate Key SDKs: Seamlessly integrate various SDKs (Mixpanel, AppsFlyer, Firebase, Facebook) to enhance app functionality, improve user journeys, and track key metrics.\n• Manage Apple Subscriptions: Effectively manage Apple subscriptions and related frameworks to handle user access, renewals, and cancellations.\n• Optimize User Retention: Leverage analytics and A/B testing to refine features, improve user retention, and enhance the overall app experience.\n• Contribute to CI Practices: Actively participate in and contribute to the team's continuous integration (CI) practices to ensure smooth, high-quality releases.\n\nMain Responsibilities\n• Develop and implement new features for the BibleChat iOS app using SwiftUI.\n• Integrate various SDKs to enhance app functionality and user experience.\n• Work with JSON and REST APIs for efficient data handling.\n• Manage Apple subscriptions and utilize analytics and A/B testing for data-driven improvements.\n• Contribute to continuous integration (CI) practices.\n• Collaborate with the team to align user needs with functional and seamless interfaces.\n• Follow Apple's iOS design guidelines to ensure a consistent and intuitive user experience.\n• Provide insights and feedback to foster a collaborative and growth-oriented environment.\n\nRequirements\n• 2+ years of experience in iOS development (we're open to a wide range of experience!).\n• Strong proficiency in SwiftUI and understanding of object-oriented and MVVM design patterns.\n• Experience integrating SDKs and working with JSON and REST APIs.\n• Knowledge of Git/version control and CI practices.\n• Experience with Apple subscriptions, analytics, and A/B testing.\n• Familiarity with Apple's iOS design principles.\n• Passion for developing impactful mobile applications.\n\nOpportunities and Benefits\n• Make a Global Impact: Contribute to a product that is transforming how people engage with sacred scriptures worldwide.\n• Work with Experienced Founders: Collaborate directly with successful entrepreneurs who have a proven track record of building impactful companies.\n• Join a High-Growth Startup: Be part of a dynamic and rapidly growing team at the forefront of the faith-tech sector.\n• Compensation and Benefits: We offer a comprehensive benefits package, including a cool office environment, free massage, gym membership, free daily lunch, and healthcare benefits.\n• Develop Your Potential: Thrive in an anti-corporate environment where innovation and results are valued above all else.\n\nIf you're a skilled iOS Developer who is passionate about creating meaningful mobile experiences and wants to be part of a mission-driven company, we invite you to join BibleChat. This is an opportunity to contribute your talents to a product that is positively impacting millions of lives around the world.",
+            "apply_options": [
+                {
+                    "title": "Career Page",
+                    "link": "https://www.careers-page.com/valuable-recruitment/job/L6Y5668W?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/-4940122790347235880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/romania/job/full-time/others/midlevel-ios-developer-133780514?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/mid-ios-developer-jobs/B484FBEDF7577427?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lucrezi.ro",
+                    "link": "https://www.lucrezi.ro/munca/mid-level-ios-developer-ronvbe52c57e1047a16d/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://ro.bebee.com/job/f66cb7045627ff492ecf30d010924ff4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MyNextJob",
+                    "link": "https://www.mynextjob.ro/loc-de-munca/mid-level-ios-developer-1711325?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWQtTGV2ZWwgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlZhbHVhYmxlIFJlY3J1aXRtZW50IiwiYWRkcmVzc19jaXR5IjoiQnVjaGFyZXN0LCBSb21hbmlhIiwiaHRpZG9jaWQiOiJaVWhXXzZkSDBpQUU3MHFDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFVtOXRZVzVwWVEifQ=="
+        },
+        {
+            "title": "Mobile Developer iOS",
+            "company_name": "(0112) IBM Romania Srl",
+            "location": "Cluj-Napoca, Romania",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=_Mn4UzLIQu4XJawPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXJPQrCMBQAYFx7BKc3-tekLXTRTQVRqII9QHkJjzYlzQtJlJ7F04qDy7d82WeRbRtWxhKc6U2WPQUwjxZyuLGCSBj0AOzgwtxbWh6GlHzcSxmjFX1MmIwWmifJjhTPcmQVf3RxwEDeYqKuqotZeNdvxKooy2oN12MDT57QGYQ2WDAOTvY15nf0rHH3vy_RgwUknQAAAA&shmds=v1_AXX-3kFaPtqL50jfm8F4L99WK_F1pXCn3ri74_aZFM2WU3RUBA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=_Mn4UzLIQu4XJawPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530e8dcdf1551a2e0bda3a/images/ac62180591de137f2e2bff4525303eaea9e0a49249df7eee4f4b6c84f1f702b0.jpeg",
+            "extensions": [
+                "1 day ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Introduction\n\nIn this role, you’ll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology.\n\nA career in IBM Consulting embraces long-term relationships and close collaboration with clients across the globe.\n\nYou’ll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio; including IBM Software and Red Hat.\n\nCuriosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you’ll be encouraged to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground breaking impact for a wide network of clients. Our culture of evolution and empathy centers on long-term career growth and development opportunities in an environment that embraces your unique skills and experience.\n\n#LI-hybrid\n\nYour Role and Responsibilities\n\niOS Developer\nWe are looking for IOS Developers to join our fun and creative team. Among the talented engineers, you will design and build the next generation of mobile applications.\n\nResponsibilities\n• Design and build advanced applications for the IOS platform\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Work with outside data sources and API’s\n• Unit-test code for robustness, including edge cases, usability, and general reliability\n• Work on bug fixing and improving application performance.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency\n• Share your knowledge actively with your colleagues.\n• Proactive in maintaining codebase and infrastructure quality\n\nRequired Technical and Professional Expertise\n• BS/MS degree in Computer Science, Engineering (or a related subject) or equivalent experience\n• At least 5 years of experience in professional Mobile application development – IOS APIs and\n\nFrameworks.\n• Good knowledge and proven experience of SwiftUI & Compose (mandatory skills)\n• Experience with REST-ful APIs and JSON\n• Experience with third-party frameworks and APIs\n• Experience with Dependency Managers (CocoaPods, Carthage, SPM)\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle\n• Fundamentals in object-oriented design, algorithm design, problem solving, and complexity analvsis\n• Experience with IOS patterns\n• Good understanding of SOLID principles and the ability to apply them\n• Good team player who is self-motivated and well organized and has great communication skills\n• English – fluent\n\nPreferred Technical and Professional Expertise\n• Good knowledge of reactive programming (Combine or RxSwift )\n• Continuous integration / deployment (egg Jenkins, TeamCity, Fastlane) experience\n• Good overview of current development trends, frameworks and good knowledge of news sources, podcasts, tutorials etc. is a plus",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=3c8c5b358c6ef002&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIGlPUyIsImNvbXBhbnlfbmFtZSI6IigwMTEyKSBJQk0gUm9tYW5pYSBTcmwiLCJhZGRyZXNzX2NpdHkiOiJDbHVqLU5hcG9jYSwgUm9tYW5pYSIsImh0aWRvY2lkIjoiX01uNFV6TElRdTRYSmF3UEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "JR. iOS Developer",
+            "company_name": "Lynx Solutions",
+            "location": "Cluj-Napoca, Romania",
+            "via": "Smart Recruiters Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HP8OmlSEXIIV7lIhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CZ72JCI2EcGLHhWEIgrtA8o2LE1Kuhu6qdRX-GVxDlN8V8W2qg2EVwM3elOURBOUUEkHSjg5D8JwF-kjrS8-56Rna1Wj6TVjDs44Ga0wdbLYQTr916rHiVLETO3xdFhM4n63eXx4gUbinIOwQmC4xnkon5jE4R5qGZED_gCN7we4kgAAAA&shmds=v1_AXX-3kFWvO58W3y3-I_kxEPxPbM_t0cyBmnGWe8o3oUWbwIJqw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HP8OmlSEXIIV7lIhAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nLynx Solutions is an IT service provider focused on delivering professional solutions for custom made business applications. We are actively present on the software development market since 2003, currently employing more than 80+ professionals. Customers range from Australia and New Zealand to Western Europe and Japan.\n\nAt Lynx Solutions we are aiming to find a solution for every customer’s need by providing high-quality services. We believe that from great partnership innovative products are born.\n\nJob Description\n• Designing and building mobile applications;\n• Collaborating with the design team to define app features;\n• Ensuring quality and performance of application to specifications;\n• Identifying potential problems and resolving application bottlenecks;\n• Fixing application bugs before final release;\n• Publishing application on App Store;\n• Maintaining the code and atomization of the application;\n\nQualifications\n• Swift/Objective-C experience;\n• Experience with iOS frameworks such as (at least most of the following): Core Motion, Core Audio, Core Animation, CloudKit, StackViews, Push Notifications, Local Notifications, Core Location, MapKit, Core Data;\n• Familiar with RESTful APIs to connect our apps to back-end services would be a plus;\n• Understanding of Apple’s design principles and interface guidelines;\n• Familiarity with cloud message APIs and push notifications;\n\nAdditional Information\n\nWhat do we offer:\n\nWe believe in equality and fair chances for every teammate. We offer our employees a secure environment in which they can upskill and grow, caring for their well being by offering:\n• The opportunity to work in a well-balanced team with highly skilled developers;\n• A challenging environment with mature and innovative projects working with the latest technologies;\n• The support of a great community;\n• Attractive benefits package;\n\nYou can join a culture that values skills and talents, where we aim to create great things together, have fun and support each other.\n\nCheck out the latest updates on LinkedIn and Facebook for a glimpse into the life of the Lynx community.",
+            "apply_options": [
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/LynxSolutions/743999735422013-jr-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/jr-ios-developer-jobs/2957272EF46DF8BA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKUi4gaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikx5bnggU29sdXRpb25zIiwiYWRkcmVzc19jaXR5IjoiQ2x1ai1OYXBvY2EsIFJvbWFuaWEiLCJodGlkb2NpZCI6IkhQOE9tbFNFWElJVjdsSWhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUbUZZY1hReGRuUldXV1kyZVhvemVYZ3dTazl3V1hOWmRESXhVMkZtYzFZeWMxUmlWa0psT0cxSFNVNHlOVGxVVmxoRmMxQXdRbTlYVDNrelYwRjZSRXAyTUdSeVpIQmlORGRCVDJKbFFWUnBlR3BpU0RSNloyWkdVa2RCTTBaM2IwTnFPVk13YTBaTE4xQXhTVTFoVEdrMVYyRnlSbUZKVEVWS2EydFNaMjQwTTBwblZtTlpjSEJXVjJVelFXZEVWREZLVFdoUVUyNHRhbmx4UzJwTWNGRmtValJCYm05WmVHSnFkRnB6U1drNU5qVXdlWEZaYlZKR1VrOXJjME54TlZSdE1tZzNOME5CVERWb1F6ZERjM05mYnpGck5sWnZSWFUzZGpBeE16QktSMDFLYUZkMVpuRTVXVmw2WXpWME9IRnRTV2RmWWtsUWVuUlJiR1JvYUhWa1RtOTJVQklYYW1jMVZGbzBjbEZHWlRKaGQySnJVR2RoVEdFeVVXTWFJa0ZHV0hKRlkzQmxaalJzZFV4MlNGaEVXR1JCYlV4cmFqWm5TRlpPTlZSemRIYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUbUZZY1hReGRuUldXV1kyZVhvemVYZ3dTazl3V1hOWmRESXhVMkZtYzFZeWMxUmlWa0psT0cxSFNVNHlOVGxVVmxoRmMxQXdRbTlYVDNrelYwRjZSRXAyTUdSeVpIQmlORGRCVDJKbFFWUnBlR3BpU0RSNloyWkdVa2RCTTBaM2IwTnFPVk13YTBaTE4xQXhTVTFoVEdrMVYyRnlSbUZKVEVWS2EydFNaMjQwTTBwblZtTlpjSEJXVjJVelFXZEVWREZLVFdoUVUyNHRhbmx4UzJwTWNGRmtValJCYm05WmVHSnFkRnB6U1drNU5qVXdlWEZaYlZKR1VrOXJjME54TlZSdE1tZzNOME5CVERWb1F6ZERjM05mYnpGck5sWnZSWFUzZGpBeE16QktSMDFLYUZkMVpuRTVXVmw2WXpWME9IRnRTV2RmWWtsUWVuUlJiR1JvYUhWa1RtOTJVQklYYW1jMVZGbzBjbEZHWlRKaGQySnJVR2RoVEdFeVVXTWFJa0ZHV0hKRlkzQmxaalJzZFV4MlNGaEVXR1JCYlV4cmFqWm5TRlpPTlZSemRIYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

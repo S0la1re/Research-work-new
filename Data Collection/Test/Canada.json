@@ -1,0 +1,481 @@
+{
+    "search_metadata": {
+        "id": "67530fbb1fc7c5cf813599e2",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4e68ff16a2799402/67530fbb1fc7c5cf813599e2.json",
+        "created_at": "2024-12-06 14:52:43 UTC",
+        "processed_at": "2024-12-06 14:52:43 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIGQ2FuYWRh&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/4e68ff16a2799402/67530fbb1fc7c5cf813599e2.html",
+        "total_time_taken": 3.1
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Canada",
+        "location_used": "Canada",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQxKsJegQIExAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirn_Bcj8KPP-NS1pcvfBwKnAZ50d4vyuA3CUVP880ceGVvl2SNMpJTKoVRfpHZWfnVVKQOB0nfBX6D1gqmVcjNG7Z-ICdiaNvY5oxg4F75bHNrTMCbp4MvlkXzswHU_LOY-C5wdtFqi_rAf0VdQl7iR_iLx2dgAuBd6IAbAeU95isZ2bbcAwhXG6NGAqHqbpC5jqCiU7UM7kKN5na9ACoxcPWWjVHWjeZnRKiBJ6uX8B3gXjEH4O-AAmyLsmZq2J0YYw11bnZD5eT6SUKExvR7NrDrPBd",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirn_Bcj8KPP-NS1pcvfBwKnAZ50d4vyuA3CUVP880ceGVvl2SNMpJTKoVRfpHZWfnVVKQOB0nfBX6D1gqmVcjNG7Z-ICdiaNvY5oxg4F75bHNrTMCbp4MvlkXzswHU_LOY-C5wdtFqi_rAf0VdQl7iR_iLx2dgAuBd6IAbAeU95isZ2bbcAwhXG6NGAqHqbpC5jqCiU7UM7kKN5na9ACoxcPWWjVHWjeZnRKiBJ6uX8B3gXjEH4O-AAmyLsmZq2J0YYw11bnZD5eT6SUKExvR7NrDrPBd&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIDhAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh4LOeDkvSO5qmUOmiiq6VKOYE31YXU7fm5ifV5jvhkEFw5Hy5Ijgp5Xq8i6dwh-MBPmI1vyTVqNefgrc2bFHc0nO8iou17xasgQ6gC570OlVzniT2Kf2RdykR2PXASyDyaIzvuHSDeGoB6MS4MPoSdTpxjDj0KJXgvND972baV8FMxsEkfRoDJsFh6yQhaNNwNar5Thq6cGP53jcW7VErz6jS6JONn1rS18JuGfKh_7CWTfC9TFl48UoVHgamQylmITyH3-qD0qaLJX6ZBCYE-KpmBte",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh4LOeDkvSO5qmUOmiiq6VKOYE31YXU7fm5ifV5jvhkEFw5Hy5Ijgp5Xq8i6dwh-MBPmI1vyTVqNefgrc2bFHc0nO8iou17xasgQ6gC570OlVzniT2Kf2RdykR2PXASyDyaIzvuHSDeGoB6MS4MPoSdTpxjDj0KJXgvND972baV8FMxsEkfRoDJsFh6yQhaNNwNar5Thq6cGP53jcW7VErz6jS6JONn1rS18JuGfKh_7CWTfC9TFl48UoVHgamQylmITyH3-qD0qaLJX6ZBCYE-KpmBte&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIDhAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirn_Bcj8KPP-NS1pcvfBwKnA2jyfyO6ag9w_mwLNK1TpDs0KijF4W_gFbvmM8uOgxTGanjwMybYeCdiQy9qUm2qjaVPvbo9hIyIUwkUlril3_dMMCu8XfvdxTxaymp69NHVwhYOBYPGjgNMivHymwElyk_0v1gQAhZ3pchsZXp639wVkma2AzPpHfzKu_oK3Jb7_sNmWzjYi8n7nFMRpeWxMTSA1iKFLbqB71gZb0RLFHOfHW__NkYxIgkybbfP6wInYOSWL1hqyKnpxaPzTqt5igHGQF",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirn_Bcj8KPP-NS1pcvfBwKnA2jyfyO6ag9w_mwLNK1TpDs0KijF4W_gFbvmM8uOgxTGanjwMybYeCdiQy9qUm2qjaVPvbo9hIyIUwkUlril3_dMMCu8XfvdxTxaymp69NHVwhYOBYPGjgNMivHymwElyk_0v1gQAhZ3pchsZXp639wVkma2AzPpHfzKu_oK3Jb7_sNmWzjYi8n7nFMRpeWxMTSA1iKFLbqB71gZb0RLFHOfHW__NkYxIgkybbfP6wInYOSWL1hqyKnpxaPzTqt5igHGQF&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIDhAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4scwXWQkVEMrewwM5Y8ltpi6g2Q_A8ua9F-pVP5Dbisok2z-ZxwYXvp2iwc0RoW2L9bnyIRSXxJYfakB8fngwIPEIZoKz3qY7VqxehtgdSjIHtiXMDbbBYI_zEMYIsTUn8gm7E4dO-RnUwmgxx10Egq3MrQbZIo2VHNUbXckrDdkyw-d0k_HVj10HaEy5ymdTUsAOCKjcus67zHXCeIr6bPFHsK-SxQdIYrRRMJb_Ua4kvF4unrBSFBGkxj923gbOmGL3CxHdbbJN3xVl4QkUalTLKCu1",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4scwXWQkVEMrewwM5Y8ltpi6g2Q_A8ua9F-pVP5Dbisok2z-ZxwYXvp2iwc0RoW2L9bnyIRSXxJYfakB8fngwIPEIZoKz3qY7VqxehtgdSjIHtiXMDbbBYI_zEMYIsTUn8gm7E4dO-RnUwmgxx10Egq3MrQbZIo2VHNUbXckrDdkyw-d0k_HVj10HaEy5ymdTUsAOCKjcus67zHXCeIr6bPFHsK-SxQdIYrRRMJb_Ua4kvF4unrBSFBGkxj923gbOmGL3CxHdbbJN3xVl4QkUalTLKCu1&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIDhAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIEBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIEBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIEBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwiykd_WspOKAxXrTDABHa44PLAQkbEKegQIEBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&q=iOS+developer+internship"
+                }
+            ]
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "Robinhood",
+            "location": "Toronto, ON, Canada",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Y-xm8e0mE1lyjiSaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAGYFz7CE43OElNRHDRUUFwsKDu5dIeTSTeH5IgfQHfW_yGr_kumlXoHnSWj0QkybShKxwV4Tx4gtIFmKIsj77WVA7WlhLNVCrXMJgBbwsVh9m-4Mq_vnjOkiJX6Xf77WySTmu6wwX1wEhB6YkMrWipu7V0YuWRf8xYPvqIAAAA&shmds=v1_AXX-3kEHZjfOblvdqqWdlGMDT9wJAkKimgCKJzJuXaagq5OLMg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Y-xm8e0mE1lyjiSaAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b0627abba57e4b0302bf6ec12588864c934a26ea07b02338984.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About the team + role\n\nWe’re excited to invite talented and motivated iOS Developers to join our Apple Design Award-winning team to help expand Robinhood’s mobile experience for our customers. Our iOS community is extremely tight knit! We have weekly syncs, frequent tech talks, and recurring in-person offsites. Come join us!\n\nLearn more about some of our open teams below!\n\nFutures: As part of the futures trading team, you will work alongside a high skilly teamed with seasoned veterans to help develop this new asset class for Robinhood\n\nSupport Products: The Support Product team owns the end to end customer facing support experience including chat and phone channel, user triage experience, support entry point, help center and more\n\nAcquisitions: The Acquisition team is responsible for onboarding experience (the flow that a user goes through when signing up for Robinhood), referrals, and growth projects.\n\nWhat you’ll do\n• Work with a fast-growing team to revolutionize finance at speed and scale\n• Build smooth, stable, and elegant products with Swift and the newest iOS and watchOS APIs\n• Own features from inception to design, implementation, and launch\n• Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data Team\n• Work with Swift, RxSwift, UIKit, Custom Design System and Declarative UI Framework, Core Data, Bazel, VIPER-esque Architecture\n\nWhat you bring\n• At least 3 years of professional iOS development experience\n• Proficiency with Swift\n• Deep understanding of UIKit\n• Strong product sense and ability to collaborate with Product Managers and Designers\n• Excellent communication skills and passion for solving tough technical problems\n\nOur team is committed to providing an inclusive and welcoming interview experience for all candidates. If you require a specific accommodation during the application or interview process due to a physical or mental condition, please complete this Applicant Accommodation Form to notify our team. The form should only be completed if you need a specific accommodation.\n\nWe use Covey as part of our hiring and / or promotional process for jobs in NYC and certain features may qualify it as an AEDT. As part of the evaluation process we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound on September 19, 2024.\n\nPlease see the independent bias audit report covering our use of Covey here.",
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/robinhood/jobs/5700357?gh_src=NaN&gh_jid=5700357&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=0cc4cc75086fedc8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Index Ventures",
+                    "link": "https://www.indexventures.com/startup-jobs/robinhood/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SitePoint",
+                    "link": "https://www.sitepoint.com/jobs-for-developers/kumaran-systems/ios-developer-1073409/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/ios-developer-konradgroup-toronto-on_77762775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/ios-developer-jobs/7D098DEE8D27CC32?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Interactive",
+                    "link": "https://literallyinteractive.com/.career/job/ios-developer-at-td-bank-toronto-on-VGtScllEOU91eXlzN0Uvelg4WmFJUT09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUm9iaW5ob29kIiwiYWRkcmVzc19jaXR5IjoiVG9yb250bywgT04sIENhbmFkYSIsImh0aWRvY2lkIjoiWS14bThlMG1FMWx5amlTYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Push Interactions",
+            "location": "Saskatoon, SK, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=zv0RNfQqBNxN-VU9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OJXaiOCio4Kog0I_oFzj0UTjXcid0r_wl8U3vOo7qxbx2sGBPpQkU4ElnGUAJSw-gDAcRcZE810wy7p1TjW1oxpa9K2XlxOmQSb3kEH_9RqwUE5o1K83q6nNPNb17a0BTmxU0FsUVogMHeoTTYQb6C4N7JHxjj9tQYJ6kgAAAA&shmds=v1_AXX-3kEM-CwWt1lkD3OoMEqBMDOdDvrRWtlYs4FG5U_kpHr34A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=zv0RNfQqBNxN-VU9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b06be42c047530e723965f73f46779fc8a765686da6ae48b32b.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Job Overview\nPush Interactions is seeking a Junior or Intermediate iOS Developer to join our team. We are looking for people who have a passion for delivering top-quality work on mission critical software. As a iOS Developer and part of our team, you will be responsible for creating iOS code mainly in Swift. Understanding of other languages like Objective-C are also useful. Push is a leader in custom mobile app development for iPhone and Android across a broad range of industries. The work for this job is in person at our Saskatoon office. Relocation may be required before starting work.\n\nResponsibilities\n\nYour job will be to deliver high-quality iOS code for our mobile applications for clients. You will in time also be looked upon to assist in other tasks such as mentoring other developers, assisting in planning and estimating projects, contributing ideas to improve our processes, and helping drive the team to hit deadlines – all while helping to deliver a quality applications to our clients. You will have the opportunity to contribute to many different projects that will challenge you and help hone your skills.\n\nTypical daily tasks may include\n• Creating a new or updating an existing iOS Application code\n• Developing a new features\n• Performing code reviews\n• Estimating on upcoming projects\n• Helping demo a new build to a client\n• Helping another developer solve a problem\n\nRequired Skills\n• 1+ years of iOS development experience\n• 2 years of software development experience\n• Strong understaffing of Swift\n• Drive to build and maintain quality software that is mission critical to our clients.\n• Ability to collaborate with a multi-disciplinary team\n• Initiative to deliver working software quickly and effectively\n• Enthusiasm to work in an iterative agile development process\n• Ability to think about long term maintenance when creating or maintaining software\n• Experience with Git\n• Familiarity with unit testing and test automation tools\n• Ability Stay up-to-date with industry trends and advancements in relevant server development technology\n• Experience consuming web services, including caching for offline usage\n\nEducation\n• Bachelor's Degree or higher (preferred)\n\nBonus Skills\n• Objective-C experience\n\nBenefits\n• Competitive salaries\n• Comprehensive health benefits\n• Performance based rewards and recognition\n• Personal development opportunities\n• Regular team events and parties\n• A team filled with enthusiastic developers\n• Casual dress\n• Dental care\n• Disability insurance\n• Extended health care\n• Life insurance\n• On-site parking\n• Paid time off\n• Vision care\n• Free drinks\n• Working with a team of skilled team members\n\nJob Types: Full-time, Permanent\n\nPay: From $50,000.00 per year\n\nBenefits:\n• Casual dress\n• Company events\n• Dental care\n• Discounted or free food\n• Employee assistance program\n• Extended health care\n• Life insurance\n• On-site parking\n• Paid time off\n• Vision care\n\nSchedule:\n• 8 hour shift\n• Day shift\n• Monday to Friday\n\nExperience:\n• iOS development: 1 year (required)\n• Software development: 2 years (required)\n\nWork Location: In person",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=4be00f4c5900b115&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUHVzaCBJbnRlcmFjdGlvbnMiLCJhZGRyZXNzX2NpdHkiOiJTYXNrYXRvb24sIFNLLCBDYW5hZGEiLCJodGlkb2NpZCI6Inp2MFJOZlFxQk54Ti1WVTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "SyncDog, Inc.",
+            "location": "Fredericton, NB, Canada",
+            "via": "SyncDog",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=5mlhVlnVURUBchgkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OIjURAQX3bQoOujQDyjX9Egj8S7kgtSP8J_FN7zqO6sW4dFCQ2-KkijDGm7SgxJmN4IwXER8pPlhLCXp3lrVaLwWLMEZJy8rTL1M9im9_ut0xEwpYqFuu9tMJrFfLdsPu0Z8DVd2BgLDOdNAObgiXMP9WMMJGQf8AW_SbCGQAAAA&shmds=v1_AXX-3kEd8zEl7QEqA6HKI8i95iQ9xwH4ABlvoyn5-Gi7U6iSjw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=5mlhVlnVURUBchgkAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b06baf697f985372efc9eba0ed341b9e47d538af9c1deebe26c.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "SyncDog is looking for an experienced iOS developer to join a development team working in the mobile security and management industry. This individual should have demonstrated iOS ability, and experience working with client/server technology as it relates to mobile technology.\n\nResponsibilities\n• Design and build advanced applications for the iOS platform\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Unit-test code for robustness, including edge cases, usability, and general reliability.\n• Work on bug fixing and improving application performance.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nRequirements\n• BS/MS degree in Computer Science, Engineering or a related subject\n• 7+ years of software development experience\n• 2+ years of iOS development\n• Have published one or more iOS apps in the app store\n• A deep familiarity with Objective-C and Cocoa Touch\n• Experience with third-party libraries and APIs\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle",
+            "apply_options": [
+                {
+                    "title": "SyncDog",
+                    "link": "https://www.syncdog.com/job/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU3luY0RvZywgSW5jLiIsImFkZHJlc3NfY2l0eSI6IkZyZWRlcmljdG9uLCBOQiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiI1bWxoVmxuVlVSVUJjaGdrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Senior iOS App Developer",
+            "company_name": "mimik",
+            "location": "Vancouver, BC, Canada",
+            "via": "Mimik Technology",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=wZNCli6xojysbRWgAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5ys9RGBBedtILg4lBwLZd4NNH0LuRi6Vf4zeIbXvVdVKYjDpIh3Ds4pQQXmihKogwbuIkFJczOgzBcRYZIy6MvJenBGNXYDFqwBNc4GY0wWZnNS6z-69VjphSxUL_bb-cm8bBejWEMbwgMD2Qnn4lyDee2hhYZn_gD-omFgZEAAAA&shmds=v1_AXX-3kGeU5xVEJdUUeZzTUsGewvyK1JiGfaUt_HmKqlKOHZQ7A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=wZNCli6xojysbRWgAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "As a Senior iOS developer, you will be working alongside our larger development team to improve our iOS applications. You should have a track record of delivering significant iOS-based solutions, experience developing Swift, C/C++ or Objective-C applications of advanced complexity in (data structures, networking, architecture) and a passion for writing elegant, maintainable, and clean code.\n\nRequirements:\n• Bachelor’s Degree or equivalent experience in related field.\n• 8+ years of overall development experience and industry standards.\n• Extremely proficient with Objective-C, Swift, native iOS SDK, iOS frameworks, Xcode, and/or Cocoa Touch.\n• Experience developing and consuming RESTful APIs, JSON, and push notifications.\n• Experience with iOS photo gallery and iTunes music, threading, and performance tuning.\n• Creating automated test suites and ensuring quality in your code.\n• Proven experience with data validation and form submission/processing.\n• Experience with software componentization techniques.\n• Good system level debugging skills.\n• Collaborating with designers, product managers, and your development team to deliver compelling user-facing products and services.\n• Must demonstrate flexibility for work hours to meet important customer deliverables and project deadlines\n• Strong analytical and problem-solving skills.\n• Understanding of Apple’s design principles and interface guidelines.\n\nAdditional Skills and Experience:\n• Experience in Reactive Programming.\n• Experience or solid understanding of Test Driven Development (TDD).\n• Experience working in an Agile/Scrum environment, along with Confluence, JIRA, Bitbucket, Slack, and Git.\n• Strong writing and technical communication skills.\n• Knowledge of Linux, Node.js, other web technologies, and UI/UX standards are a plus.\n• Heroic get-it-done attitude; collaborates well with team members and can take ownership.\n• Experience leading the performance tuning strategy of consumer applications.\n• Understand what it means to be a consultant.\n• Reliable and have a positive attitude.\n• Great interpersonal skills.\n• Ability to handle working on multiple projects or task and keep them all under control.\n• Agile savvy.\n• A desire to learn.\n• Passionate about technology and using it to help solve business issues.\n• Strong work ethic.\n\nHow to Apply\n\nTo apply for this position, please upload your resume and cover letter below. Thank you!\n\nPlease note, only candidates selected for an interview will be contacted. Candidates’ information will be kept confidential, and will only be shared with mimik’s hiring team.",
+            "apply_options": [
+                {
+                    "title": "Mimik Technology",
+                    "link": "https://mimik.com/jobs/senior-ios-app-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEFwcCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJtaW1payIsImFkZHJlc3NfY2l0eSI6IlZhbmNvdXZlciwgQkMsIENhbmFkYSIsImh0aWRvY2lkIjoid1pOQ2xpNnhvanlzYlJXZ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "IOS Developer",
+            "company_name": "LGS, une Société IBM / an IBM Company",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=7fNUAJJ0uZXwEawoAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3GQQqCQBQAUNp6hFZ_0SrMiaBN7TIQI4nwAPKdPmqM_w8zY9iN8hxeLGrzeNFnEa3yWwlnepERSw42cJEaPKHTLQhDJtIYWh7bEKw_KOW9SRofMHQ60dIrYaplVE-p_Y_Kt-jIGgxU7fbbMbHcrNNrVsYwMEEpupunME-QnwpQgPxPKr1FfkPHUAgHR2hiuA9Uk44hRcYHfgHpSCrnqwAAAA&shmds=v1_AXX-3kFCjRuAWoL6fc1zMhddlXrD5Ex-_EYXWDc0OAA_aLNiNg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=7fNUAJJ0uZXwEawoAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b066cee917edfca0a22f30815d404007e2774f53871bfd4b532.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At LGS, we strive to provide a workplace that values your professional growth. Our company culture fosters diversity and inclusivity, and we welcome talents from both local and international backgrounds.\n\nAs a team member, you will play a crucial role in driving major projects that propel our clients’ businesses forward and improve people’s lives. You will be at the heart of collaborative large-scale digital transformation projects in both the public and private sectors.\n\nThe IBM Client Innovation Centre Quebec (CIC), at LGS, employs professionals who collaborate on projects within technology practices, offering local and remote services. Our employees, regardless of their level of experience, are paired with a coach to support their professional growth. As part of IBM’s global network, we have offices in Montreal, Gatineau, Rimouski, and Quebec City.\n\nThe benefits of joining our team:\n• Learn every day: access IBM's intellectual capital and trainings on a diverse range of cutting-edge technologies.\n• For your well-being: a group insurance bundle including telemedicine, a retirement savings plan with employer’s contribution, access to IBM shares at discounted rates, and a wellness package!\n• To enjoy quality time: annual vacations, additional company days off and special life events leaves!\n• To have fun with your colleagues: an active community and a social committee with regular activities to keep us all connected!\n\nJoin our team as an IOS Developer\nHere's how you'll be involved\n• Participate in the development of client projects: new Apps, new feature development on existing applications, and maintenance; helping our clients to build highly scalable Apps\n• Minimum 5 years experience in IOS Development\n• You are comfortable with Swift / SwiftUI\n• You care about user interaction, usability and of course, making the interface beautiful.\n• Having worked with REST APIs and JSON\n• You know what to test, why to test it, and how to write flexible tests that won't break.\n• You enjoy working with multinational cross-functional teams.\n\nYour experience\n• Xcode / Swift / SwiftUI\n• Git / Source Code Management (GitHub, GitLab, …)\n• A good understanding of software architecture (MVVM)\n• Reactive programming (Combine)\n• UI frameworks (UIKit and mainly SwiftUI)\n• Dependency management\n• Basic knowledge of testing (Unit, UI)\n• Basic knowledge of CI/CD\n• Excellent communication skills\n• Bilingualism in French and English, as you will be collaborating with resources outside the province of Quebec.\n\n#CICJOBS #IBMJOBS #LI-IO1\n\nBe yourself at LGS\n\nLGS is committed to considering all qualified applicants without regard to ethnicity, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, neurodiversity, age, veteran status or other characteristics.\n\nIf you are not a Canadian permanent resident or citizen, please consult with your talent acquisition consultant as this role may require the use of technologies that are regulated by export sanctions.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=e9d5c12ad40bf634&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workopolis",
+                    "link": "https://www.workopolis.com/jobsearch/viewjob/6f2-SobsSHYGZmepwqn9JPQbZJ8KKoPOiSHaptAKGPGB59kiCxMJyGGViKs237LP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Canada Meet Opportunities",
+                    "link": "https://ca.bebee.com/job/2ba5ab472774dc3b50e7d22650c53470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SaluteMyJob",
+                    "link": "https://salutemyjob.com/jobs/ios-developer-montreal-quebec/1514333543-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Aspire Media Group Jobs",
+                    "link": "https://jobs.aspiremediagroup.net/jobs/ios-developer-montreal-quebec/1514333543-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Big Country Jobs",
+                    "link": "https://jobs.bigcountryhomepage.com/jobs/ios-developer-montreal-quebec/1514333543-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WJTV Jobs",
+                    "link": "https://jobs.wjtv.com/jobs/ios-developer-montreal-quebec/1514333543-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Star Job Search",
+                    "link": "https://starjobsearch.co.uk/jobs/ios-developer-montreal-quebec/1514333543-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTEdTLCB1bmUgU29jacOpdMOpIElCTSAvIGFuIElCTSBDb21wYW55IiwiYWRkcmVzc19jaXR5IjoiTW9udHJlYWwsIFF1ZWJlYywgQ2FuYWRhIiwiaHRpZG9jaWQiOiI3Zk5VQUpKMHVaWHdFYXdvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "iOS Developer - Neurodiversity Hiring Initiative",
+            "company_name": "Specialisterne",
+            "location": "Toronto, ON, Canada",
+            "via": "Specialisterne - JazzHR",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=mSbZ7_nfisSezFsxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQ6CQAyA4bjyCE5dXIyCMXHRURPUAQbcyQEN1Jzt5VoJPpTvKC7_8OdLvoskp7KCC47oJWCELRT4jtLRiFHJPnClSNzDjcnI2bxncpcGFF1sBxCGXKT3uDwNZkGPWabq015txm3ayisTxkam7CmN_lPr4CIG7wzr_WE3pYH79aoK2JLzpIaREYjhIVHYZANlsYGzY9e5H1h3xA6wAAAA&shmds=v1_AXX-3kGJ16czF0g9NImyEov-V0EQifb8rl2zOp8HDcs2ngtAmQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=mSbZ7_nfisSezFsxAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b06e1011af1ecaae487d3057f4a270eb0a07bbc8bf4b02c9683.png",
+            "extensions": [
+                "23 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Please note: we are currently reviewing applications and will provide an update the week of December 9th. Thank you for your patience.\n\nSpecialisterne is Recruiting!\n\nSpecialisterne connects qualified neurodivergent candidates to employment opportunities in numerous industries and sectors in Canada and the US.\n\nTo be eligible to apply, you must have experienced barriers getting and/ or maintaining meaningful employment and you identify with one of the following:\n• Autism (including Asperger’s and PDD-NOS)\n• Attention Deficit/Hyperactivity Disorder (ADHD) or Attention Deficit Disorder (ADD)\n• Learning Disability (e.g., dyslexia, dyscalculia, dysgraphia)\n• Intellectual Disability\n• Obsessive Compulsive Disorder (OCD)\n• Tourette Syndrome\n\nEmployees hired through Specialisterne will be supported by a Specialisterne Workplace Support Specialist for their first twelve weeks on the job.\n\nSpecialisterne is proud to partner with TD on a Neurodiversity Hiring Initiative.\n\nTD is committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. They are dedicated to building a workforce that reflects the diversity of their customers and communities in which they live and serve.\n\nApplications must be submitted in full no later than December 1st\n\nSummary:\n\nTitle: iOS Developer\n\nEmployment Type: Full-Time\n\nHours: Standard working hours (9-5)\n\nLocation: Toronto (Hybrid - 2 days per week in office)\n\nSalary: $65,000-$85,000\n\nTarget Start Date: January, 2025\n\nEssential Tasks - In this job, you will:\n• Work with the iOS team in an Agile environment\n• Develop iOS applications using Swift and SwiftUl.\n• Work with team members of 3 in an Agile pod environment and collaborate with other teams such as: Product, QA, Android, etc.\n• Participate in Sprint review demos to showcase work in front of other team members and/or stakeholders\n• Participate in refinements of feature stories by asking questions, reviewing gaps and coming up with solutions\n\nGeneral Skills and Abilities - You are:\n• Able to work collaboratively and positively with your teammates to achieve shared goals\n• Able to communicate clearly (verbally and written) with peers, supervisors and stakeholders\n\nDigital/Technical Skills & Tools - You are:\n• Intermediate skill level with Swift\n• Basic to Intermediate skill level with SwiftUI\n• Basic to Intermediate skill level with Concurrency (Async/Await)\n• Basic to Intermediate skill level with Git\n• Basic to intermediate skill level with Networking (URL Session)\n\nRequired skill level*\n• Basic - e.g., I can do this in simple situations with close or extensive guidance\n• Basic to Intermediate\n• Intermediate - e.g., I can do this in most situations, with occasional guidance\n• Intermediate to expert\n• Expert - e.g., I can do this in exceptionally difficult situations with no guidance and I can be a key resource for others.\n\nEducation/Knowledge - You:\n• College diploma OR Bachelor’s degree in computer science or a related field\n• Have an understanding of multithreaded applications.\n• Have an understanding of IT Standards, UX Design, Accessibility and Agile Methodologies\n• Have knowledge of collective code ownership and pair programming\n• Familiarity developing applications using Xcode (IDE)\n• Ability to write unit tests (XCTest)\n\nExperience (Professional, Academic, Personal) - You:\n• Have at least one year of hands on experience (academic, professional, or personal) in building iOS apps using Swift, SwiftUI , Async/Await and Unit Testing.\n• Familiarity with architectural patterns e.g MVVM\n• Nice to have (but not required):\n• Knowledge of CI/CD tools and scripts\n• Experience working with Combine framework.\n• Experience working with Accessibility/Voiceover, Dynamic type and Dark mode\n\nAdditional Information:\n\nHere’s how frequently the following types of communication and interaction are required to perform the job:\n• Oral communication: Daily\n• Email communication: Daily\n• Instant messaging: Daily\n• Telephone Communication: N/A\n• Video communication: Daily\n• Interacting with supervisors: As needed\n• Interacting with peers: Daily\n• Interacting with customers: N/A\n• Selling or influencing others: N/A\n• Training or teaching others: N/A\n\nHere’s what can employees find stressful about this job:\n• Working in an agile environment\n\nHere’s what employees tend to find motivating/rewarding about this job:\n• Build new applications and gain satisfaction from customers using and having positive interactions with the applications\n\nWorkplace Support:\n• Specialisterne and our employer partners are committed to providing inclusive onboarding experiences and supporting new employees as they learn on the job\n• All new hires continue to liaise with a Specialisterne Workplace Support Specialist for their first twelve weeks on the job\n\nThe Recruitment Process\n\nTo be considered for this position, you will:\n• Complete a job application\n• Join our talent pool (if you haven’t already) by completing an additional questionnaire and a pre-employment assessment\n\nNext Steps\n• Successful applicants will create a job-specific Candidate Profile to answer job specific questions and/or complete a work sample exercise to showcase your skills for this role.\n• Employers use Candidate Profiles to anonymously* shortlist candidates\n• Candidates and employers will meet to discuss the role in more detail\n• whenever possible",
+            "apply_options": [
+                {
+                    "title": "Specialisterne - JazzHR",
+                    "link": "https://specialisterne.applytojob.com/apply/JfTTNTEqgB/IOS-Developer-Neurodiversity-Hiring-Initiative?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Specialisterne/Job/Ios-Developer-Neurodiversity-Hiring-Initiative/-in-Toronto,ON?jid=d6c7a27fe1583b0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=a5ef2a83d36aac4f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/ios-developer-neurodiversity-hiring-initiative-specialisterne-JV_IC2281069_KO0,46_KE47,61.htm?jl=1009528182669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/ios-developer-neurodiversity-hiring-initiative-at-specialisterne-usa-4077018192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.ca/job/i2lZNRJTMPN61r6163Aw3yeuVKWSOdX0TTEw07kntpxKEJi4VBYPog?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TheFreshDev.com",
+                    "link": "https://www.thefreshdev.com/job/software-developer-intern-ios-2025-robinhood-2841?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/rjdp/3271897561095468423?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gTmV1cm9kaXZlcnNpdHkgSGlyaW5nIEluaXRpYXRpdmUiLCJjb21wYW55X25hbWUiOiJTcGVjaWFsaXN0ZXJuZSIsImFkZHJlc3NfY2l0eSI6IlRvcm9udG8sIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6Im1TYlo3X25maXNTZXpGc3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Accolite",
+            "location": "Calgary, AB, Canada",
+            "via": "SitePoint",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=CeARiNASTkkIm5_vAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CS7erDURwUWnqiC4OPQDyjUeSeTMhVyQ-g3-tLo8eM1n1qx6SlEKxFsPZ3oRS6YCa7jKCEpYXABJcBHxTPNDqDXr3lpVNl4r1uiMk6eVRKNM9iGj_hk0YKHMWGnY7jaTyckvF51zwrESxAQnZI_l3UJ3bH9JeMcvujOh644AAAA&shmds=v1_AXX-3kEpJCPRpY_3pCH49UCfL0_vLZyh2gcnOkFMhzqaJPTarQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=CeARiNASTkkIm5_vAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b069a8b7f679bc654fd251565ce04a35bc5b19bce4034c0c741.png",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Opening from Canada Bounteous x Accolite makes the future faster for the world's most ambitious brands. Our services span Strategy, Analytics, Digital Engineering, Cloud, Data & AI, Experience Design, and Marketing. We are guided by Co-Innovation, our proven methodology of collaborative partnership. Bounteous x Accolite brings together 5000 employees spanning North America, APAC, and EMEA, and partnerships with leading technology providers. Through advanced digital engineering, technology solutions, and data-driven digital experiences, we create exceptional and efficient business impact and help our clients win . Position: Senior IOS Develop erLocation: Calgary, AB - CANADA (Hybrid 3 days in a wee k)Duration: Full-Ti me Responsibiliti es:Create and enhance features across our flagship a ppsPerform annual maintenance on the codebase and automated build scripts to keep pace with changes to iOS and Xc odeMaintain certificates and signing, including certificate pinning, provisioning profiles, and push notification certifica tesMonitor production feedback, crash reports, and analytics—and address iss uesWork with infrastructure teams to address proxy, software and administrative privilege issues that impact iOS development or build proces ses Qualificati ons:Swift 6; familiarity with Obj-C is a plusBroad iOS API experience, including but not limited to:Local Authentication, WebKit, Networ kingDeep knowledge of iOS programming concepts, including but not limited to:Threading, Crash Anal ysisThe latest Xcode, xcodebuild, application loader, and iOSPrior experience providing technical guidance to more junior resources, andReviewing pull requests for architectural correct nessStrong written and verbal communication skills in Engl ish.BA/BS in Computer Science or related field, or equivalent practical experie nce. Preferred Qualificat ions:Experience developing APIs.Experience with Android app develop ment.Strong user experience sk ills.",
+            "apply_options": [
+                {
+                    "title": "SitePoint",
+                    "link": "https://www.sitepoint.com/jobs-for-developers/accolite/senior-ios-developer-1064560/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ca.bebee.com",
+                    "link": "https://ca.bebee.com/job/b04f8bd906f4c276cc1471f685742646?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/senior-ios-developer-at-accolite-4068076919?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/senior-ios-developer-jobs/468C36F7B0495E59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ca.trabajo.org/job-1197-17b7b7657fcd083438c980af3d80966b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ca.jobrapido.com/jobpreview/3314672716136579072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFjY29saXRlIiwiYWRkcmVzc19jaXR5IjoiQ2FsZ2FyeSwgQUIsIENhbmFkYSIsImh0aWRvY2lkIjoiQ2VBUmlOQVNUa2tJbTVfdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Lead iOS Developer",
+            "company_name": "Bounteous",
+            "location": "Calgary, AB, Canada",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=WQBJ-YCUTNt5kLIZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CU63KjURwUUnqyCI4OAHlEt6JJGYC7lU6i_41ery4DWfWbO4Eg4Qbnc40YsiZyqwggsbEMJiPXCCM7OLNN_7WrPstBaJyknFGqyy_NScyPCkH2zkTy8eC-WIlfrNdj2pnNwSOh5TJR4FQoIjRofl3cKha39JOOAX4VYMy40AAAA&shmds=v1_AXX-3kEmfMwRxPB_rcKLu_EK7SJddVwUIfMQgSizYR64CCDpPg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=WQBJ-YCUTNt5kLIZAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b069617c4f30d04739ef90bf927cff1b23d510bbde2d2524893.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "This is a hybrid (on-site 3 days/week) role based in Calgary, AB.\n\nResponsibilities\n• Create and enhance features across our flagship apps\n• Perform annual maintenance on the codebase and automated build scripts to keep pace with changes to iOS and Xcode\n• Maintain certificates and signing, including certificate pinning, provisioning profiles, and push notification certificates\n• Monitor production feedback, crash reports, and analytics—and address issues\n• Work with infrastructure teams to address proxy, software and administrative privilege issues that impact iOS development or build processes\n\nQualifications\n• Swift 6; familiarity with Obj-C is a plus\n• Broad iOS API experience, including but not limited to:\n• Local Authentication, WebKit, Networking\n• Deep knowledge of iOS programming concepts, including but not limited to:\n• Threading, Crash Analysis\n• The latest Xcode, xcodebuild, application loader, and iOS\n• Prior experience providing technical guidance to more junior resources, and\n• Reviewing pull requests for architectural correctness\n• Strong written and verbal communication skills in English.\n• BA/BS in Computer Science or related field, or equivalent practical experience.\n\nPreferred Qualifications\n• Experience developing APIs.\n• Experience with Android app development.\n• Strong user experience skills.",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/bounteous/c1aed4ed-370b-44f7-8e73-6a766ee96179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/lead-ios-developer-it-unlock-consultinc-inc-calgary-ab_76420083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employbl",
+                    "link": "https://www.employbl.com/jobs/lead-ios-developer-bounteous-843269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WhatJobs",
+                    "link": "https://en-ca.whatjobs.com/job/Lead-iOS-Developer/calgary-alberta/81561977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/calgary/canada/info_technology/3771741878/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIGlPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJCb3VudGVvdXMiLCJhZGRyZXNzX2NpdHkiOiJDYWxnYXJ5LCBBQiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJXUUJKLVlDVVROdDVrTElaQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "iOS Developer, Margins",
+            "company_name": "Robinhood",
+            "location": "Toronto, ON, Canada",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Vat1J6Joy5ZySM8UAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAGYFz7CE43S21EcNFRQRC0oO4laY8kEu8PuSB9Cp9Z_Iav-S6adewfdOIPJ2QuLV1t8VGU1nSBI2VbxkAQOgM-8fIQas26N0Y1dV6rrXHsRrwNhB1m84LTf4MGWzgnW3nY7jZzl8Wv6A4XJQATRaEnCqSipf7W0tGKnewPrsBuUJEAAAA&shmds=v1_AXX-3kGv7an4hCzth1LQJEx6y7u10GV0vjp0TSYroB7jcsC-CA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Vat1J6Joy5ZySM8UAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530fbb1fc7c5cf813599e2/images/5cb2a2545ec47b06ba3d2d4eb8fb57fad9070bcbc6e4c0e628b1c29c6c6a1b64.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Robinhood as an iOS Developer, working on high-impact financial products and revolutionizing finance through mobile technology.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/robinhood/ios-developer-margins/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyLCBNYXJnaW5zIiwiY29tcGFueV9uYW1lIjoiUm9iaW5ob29kIiwiYWRkcmVzc19jaXR5IjoiVG9yb250bywgT04sIENhbmFkYSIsImh0aWRvY2lkIjoiVmF0MUo2Sm95NVp5U004VUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Arlo Technologies Canada Limited",
+            "location": "Richmond, BC, Canada",
+            "via": "Workday",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=3cVzs8BVZ0fUSRJtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3JsQrCMBAAUFz7CU43a21EEEQnrSCIIFj3kqZHcpLelVyQfpAfKoLLW17xmRXLBpkkAd0bOOMbo4yYYAVX6UDRJhdAGC4iPuL8EHIedW-Maqy8ZpvJVU4GI4ydTOYlnf5oNdiEY7QZ2812PVUj-8XumKLAE11gieIJFWrLtrdwo4Ey9kAMD3JhEO5LONXl_79KrEyvpwAAAA&shmds=v1_AXX-3kFFOkLJXz31fSXkLnhVZEHhEkOurTFVAKGRfPHve6jXQg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=3cVzs8BVZ0fUSRJtAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Arlo: At Arlo, we're passionate about creating innovative and reliable solutions that help people protect what matters most to them. Our team is dedicated to delivering products that exceed our customers' expectations, while always pushing the boundaries of what's possible in the world of protection technology. We believe that everyone deserves to feel safe and secure, whether they're at home or away, and we're committed to providing our customers with the peace of mind they need to live their lives without worry. Arlo’s deep expertise in AI- and CV-powered analytics, cloud services, user experience, product design, and innovative wireless and RF connectivity enables the delivery of a seamless, smart security experience for Arlo users that is easy to set up and interact with every day. As a Senior iOS Engineer, you will play a pivotal role in delivering high-quality, scalable iOS applications across a variety of projects. This includes adding support for new products, finding innovative solutions, and bringing fresh ideas to continuously improve our mobile experience. You will be an integral part of our team's effort to shape the future of the Arlo device ecosystem. This position requires a proactive and innovative mindset, with strong collaboration across cross-functional teams. Key Responsibilities: iOS Development Initiatives: Design, develop, and maintain responsive and high-performing iOS applications, driving initiatives to completion. Problem Solving & Innovation: Identify challenges and propose innovative solutions to enhance app performance and user experience. Architect and Implement Solutions: Collaborate with product and design teams to translate business requirements into scalable, maintainable technical solutions. Code Review and Quality Assurance: Ensure high coding standards and performance optimization through detailed code reviews, promoting best practices and continuous improvement. Collaboration: Work closely with firmware engineers, product managers, and UX team to deliver exceptional products that align with business objectives. Stay Current with Industry Trends: Stay up to date with the latest trends and advancements in mobile development, bringing innovative ideas and technologies to the team. Qualifications: 5+ years’ experience in iOS development. Strong experience in building native mobile (iOS) applications with an emphasis on performance and robustness. Experience developing multi-threaded, asynchronous code. Strong Object-Oriented programming and design skills. Familiarity with SOLID Design Principles. Knowledge of design patterns such as MVC, MVVM, VIPER, etc., Effective communication skills, both written and verbal. Knowledge of Apple’s design principles and application interface guidelines. Familiar with version control, issue tracking, continuous integration environment (Git/JIRA/Confluence/Jenkins or similar). Familiarity with RESTful APIs to connect iOS applications to back- end service Experience working in Agile environments. Excellent troubleshooting skill. Bonus Skills: Proficiency in reactive architecture, including RxSwift, RxCocoa. Experience interfacing with embedded devices. Experience working with IOT communication protocols such as BLE, NFC, and MQTT. Demonstrated expertise in audio/video real time communication and streaming video protocols (RTSP/RTP/HLS). Experience with SIP, H265/264 codecs, FFMPEG, WEBRTC. The pay range for this position reflects the minimum and maximum target for new hire salaries at commencement of employment and is expected to be between CAD$105,000-165,000/year. However, base pay offered may vary depending on multiple factors, including role, job-related knowledge, skills, relevant education and experience. The total compensation package for this position may also include other elements, including bonus, equity, and a full range of benefits. Details of all benefits will be provided if an employee receives an offer of employment. Studies have shown that candidates from certain underrepresented communities may be less likely to apply for jobs unless they believe they meet every single one of the qualifications as described in a job description. We are committed to building a diverse and inclusive company and we are most interested in finding the BEST candidate for the job, regardless of their background. That candidate may be one who comes from a less traditional background, and that’s okay. We would strongly encourage you to apply, even if you don't believe you meet every one of the qualifications described. We may work with candidates, as appropriate, to ensure they develop additional skills as necessary to fulfil the essential functions of the job. Arlo is proud to be an equal opportunity employer. We value diversity and inclusion and are committed to a diverse, inclusive, and harassment-free workplace. We prohibit discrimination and harassment based on Indigenous identity, race, colour, ancestry, place of origin, political belief, religion, marital status, family status, physical or mental disability, sex, sexual orientation, gender identity or expression, or age, or any other legally protected status in all hiring and employment. We provide reasonable accommodations to applicants and employees as required by law. Where required by applicable provincial law, the Company will consider for employment qualified applicants with criminal charges or convictions. We are a passionate and diverse group of thought leaders, creators, and developers across all disciplines dedicated to changing how people protect and connect with the people and things they love. Our talented employees, located throughout the United States, Canada, Asia, Australia, and Europe communicate, connect and work together to lead the industry in delivering a world-class end-to-end connected lifestyle solution. At every location, passionate and innovative employees work together to shape the future of connectivity. At Arlo, our employees are recognized as central to our business success, now and into the future.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://arlo.wd12.myworkdayjobs.com/en-US/External_Careers/job/Senior-iOS-Developer_JR100042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/senior-ios-developer-richmond-bc--44383f30-b503-4ab1-b715-b8d91629bcb2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=136255210862322374&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFybG8gVGVjaG5vbG9naWVzIENhbmFkYSBMaW1pdGVkIiwiYWRkcmVzc19jaXR5IjoiUmljaG1vbmQsIEJDLCBDYW5hZGEiLCJodGlkb2NpZCI6IjNjVnpzOEJWWjBmVVNSSnRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUVDcUlFUVVwSE9VcHJUM1p3UTBsdFJ6ZG5Oak5LWldscmVFSm1kMFJDT1dkelZrVTNjMDU1Wm5oMk9FNUJaV05IYUhkTWFVaGFORUprTW5NemFuSTBjMkpXZEZJM2FGQnpaM2d0YkZCRFRsUlRTbTFzWkdOR2Ntb3phVEU1V0dsclNrMXNlVGRNYTJSdldWSjRNbWM1Vm1ad1RuWlNiRmd6V1VWVldHTkxVRkZvVGtOTk0wTmliMUpPY1VOUGJWRk1Sa1ZuWkd0dlVGQmtha1ZIWkZONWJIVXlaa0owZFRWM1FXbHZRbmg2TVVOcU0yTklPSE5VTkV0cFVFOVFaa1YzWVdreGRYRXhlRmRzTFRCUFVreFJkbkk1VXpaQlJFeExkR1ZsVmtwZmFqVmlkVmh0UlZseU5HNW1NV3QzV0ZWbFVVOUlUMDV6Y1hGcGRFSkVibk16YzNKcGNreGxhak0wWlUxWVRFaE9RVkJEY3pWRGN6RkZlRVJXY2t4Q01uWk5kWGhLTmpCRVFqQkxPVmhCWTNKNVVHeDJTbFpCV1VwbkxVOHhlbWRzYURSVVJHZEhObE4xWjE5WWFYVmhPREF6U2sxTVMzSjJjM0Z6VVRNMlNYRmZjMWx2UlRsSlduZHlTbGhvTTFCMU1teHljVUZzWW5WYWRHWnFaMVZ4VkdFeVl6QkVPRWxYTjBWeVpteG5UazgwVUZKbGIxSjZhMm8xZURkcGQwNURYelJTTlhJeFEyTlJYM1pFZEZGc1lscDJTa040UTNGcVlqaDNXR1pCWlVaNFNreDZWVlpRTlhaTlpUaHBibVZ6Tm13d2FteHBNVGRuYlVWM2RXSk1OSHBQT0VGd0xYbFJOV1pIVjFCR1FYRlBURXBWZUhaclQyZG9TMFJIVlVkSE4zQndWWFpNYkdOMmNURm9OREJpUTFaUmNpMVhTVlZvV1MxZlRVaHVObVJHWm5GeUxUWkJFaGQyUVRsVVdqZE1SRUpsZFZwM1ltdFFjblpJZDJkUmN4b2lRVVpZY2tWamNHVmtUMXBvTVZaS1ltOVRVa0ZaV0c1QlNUSTBOMjlpU2pORVFRIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&next_page_token=eyJmYyI6IkV1SUVDcUlFUVVwSE9VcHJUM1p3UTBsdFJ6ZG5Oak5LWldscmVFSm1kMFJDT1dkelZrVTNjMDU1Wm5oMk9FNUJaV05IYUhkTWFVaGFORUprTW5NemFuSTBjMkpXZEZJM2FGQnpaM2d0YkZCRFRsUlRTbTFzWkdOR2Ntb3phVEU1V0dsclNrMXNlVGRNYTJSdldWSjRNbWM1Vm1ad1RuWlNiRmd6V1VWVldHTkxVRkZvVGtOTk0wTmliMUpPY1VOUGJWRk1Sa1ZuWkd0dlVGQmtha1ZIWkZONWJIVXlaa0owZFRWM1FXbHZRbmg2TVVOcU0yTklPSE5VTkV0cFVFOVFaa1YzWVdreGRYRXhlRmRzTFRCUFVreFJkbkk1VXpaQlJFeExkR1ZsVmtwZmFqVmlkVmh0UlZseU5HNW1NV3QzV0ZWbFVVOUlUMDV6Y1hGcGRFSkVibk16YzNKcGNreGxhak0wWlUxWVRFaE9RVkJEY3pWRGN6RkZlRVJXY2t4Q01uWk5kWGhLTmpCRVFqQkxPVmhCWTNKNVVHeDJTbFpCV1VwbkxVOHhlbWRzYURSVVJHZEhObE4xWjE5WWFYVmhPREF6U2sxTVMzSjJjM0Z6VVRNMlNYRmZjMWx2UlRsSlduZHlTbGhvTTFCMU1teHljVUZzWW5WYWRHWnFaMVZ4VkdFeVl6QkVPRWxYTjBWeVpteG5UazgwVUZKbGIxSjZhMm8xZURkcGQwNURYelJTTlhJeFEyTlJYM1pFZEZGc1lscDJTa040UTNGcVlqaDNXR1pCWlVaNFNreDZWVlpRTlhaTlpUaHBibVZ6Tm13d2FteHBNVGRuYlVWM2RXSk1OSHBQT0VGd0xYbFJOV1pIVjFCR1FYRlBURXBWZUhaclQyZG9TMFJIVlVkSE4zQndWWFpNYkdOMmNURm9OREJpUTFaUmNpMVhTVlZvV1MxZlRVaHVObVJHWm5GeUxUWkJFaGQyUVRsVVdqZE1SRUpsZFZwM1ltdFFjblpJZDJkUmN4b2lRVVpZY2tWamNHVmtUMXBvTVZaS1ltOVRVa0ZaV0c1QlNUSTBOMjlpU2pORVFRIiwiZmN2IjoiMyJ9&q=iOS+developer"
+    }
+}

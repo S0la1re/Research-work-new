@@ -1,0 +1,889 @@
+{
+    "search_metadata": {
+        "id": "67530feda5e5029fc4508b4a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b4fbd9ab5e314a25/67530feda5e5029fc4508b4a.json",
+        "created_at": "2024-12-06 14:53:33 UTC",
+        "processed_at": "2024-12-06 14:53:33 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/b4fbd9ab5e314a25/67530feda5e5029fc4508b4a.html",
+        "total_time_taken": 0.79
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+since+yesterday&uds=ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QkbEKegQIDRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=Ios+developer+skills"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIKBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=Ios+developer+course"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=Ios+developer+certification"
+        },
+        {
+            "name": "Job description",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU",
+                "q": "Ios developer job description"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+job+description&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIJxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=Ios+developer+job+description"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co&udm=8&sa=X&ved=2ahUKEwji4rvuspOKAxW_w_ACHdC9J44QxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "Charles Schwab",
+            "location": "Lone Tree, CO",
+            "via": "Schwab Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=e3ErlXFc0uDZs2-dAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBRGYVz7CC7-g5NoIoKLjhUEETrUvSTh0kRibsgN2gfwwa3LGT44zXfRrEPX40JvipypYIcbWwiZ4jw44co8Rlqefa1ZTlqLRDVKNTU45filOZHlST_Zyj-DeFMoR1NpOBz3k8pp3KzaGSMJeuc_xiIk3OcPj0K0Rdv9ACcq9h6HAAAA&shmds=v1_AXX-3kEDYOunKCnlBk9u2StTULxyjBmDBxJCH2am6MS6V697Pw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=e3ErlXFc0uDZs2-dAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385189643f1733c0aef6359d6340cbd8de8ef450fa74c52abe8.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "health_insurance": true,
+                "paid_time_off": true,
+                "dental_coverage": true
+            },
+            "description": "Your opportunity\n\nAt Schwab, you are empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together.\n\nSchwab has been doing in-house, native mobile development for several years but every business channel in Schwab is increasing their presence on the mobile platform. We are looking to grow a high performing, engaged mobile development team that is passionate about delivering an excellent mobile experience for our users, from checking account balances to complex trading, Schwab’s ever growing mobile user base is asking for more features and more and interesting visualizations and interactions. Come join the team and make your mark on a highly distributed, visible and valued product.\n\nWhat you are good at:\n• Prepare specifications, design, develop and support mobile applications and prepare documentation per Schwab mobile best practices.\n• Assess and optimize designs through review, evaluation tools and analysis to ensure appropriate user experiences for phones and tablets.\n• Create and perform unit testing for the spectrum of mobile devices.\n• Build native mobile apps, support the mobile systems in production and resolve and troubleshoot technical problems.\n• Prepare documentation for new development work while maintaining Schwab development standards.\n• Must have a depth of knowledge in the mobile languages (Swift/Swift UI) and ability to ramp up on new languages quickly.\n• Depth of experience with Apple iOS frameworks and SDK’s Ability to develop compelling user experiences while meeting the needs of the mobile users.\n\nThis role is a manager-level individual contributor and not a people leader.\nWhat you have\n\nRequired Qualifications:\n• 7+ years of native iOS development.\n• Expert in-depth working experience in Swift.\n• Experience working with Combine and Swift UI.\n• Experience writing Unit Test and Automated UI tests using XCTest framework.\n• Experience integrating with REST APIs is a required.\n• Experience working with CI/CD and debugging issues that arises.\n• Experience performing code reviews and mentoring junior developers is required.\n• Experience/understanding of the SOLID design principles.\n• Experience working with Architects and Stakeholders to craft appropriate solution.\n• Experience debugging memory and performance issues.\n• Experience working with native accessibility features such as VoiceOver and Dynamic Type\n• Experience with iterative development methodologies such as TDD and BDD Understanding of technical issues, designs, best practices.\n• Ability to identify stakeholders, evaluate their needs and manage their expectations through effective communication.\n\nPreferred Qualifications:\n• Experience working with reactive architecture is preferred.\n• Experience with building native features as a module is a plus.\n• Great interpersonal and communication skills. Enterprise development experience highly desirable.\n• Strong interpersonal, negotiation, facilitation, analytic, problem-solving, influencing, prioritization, decision-making and conflict resolution skills.\n• Excellent written/verbal communication skills.\n\nIn addition to the salary range, this role is also eligible for bonus or incentive opportunities.\n\nWhat’s in it for you\n\nAt Schwab, we’re committed to empowering our employees’ personal and professional success. Our purpose-driven, supportive culture, and focus on your development means you’ll get the tools you need to make a positive difference in the finance industry. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Prepare specifications, design, develop and support mobile applications and prepare documentation per Schwab mobile best practices",
+                        "Must have a depth of knowledge in the mobile languages (Swift/Swift UI) and ability to ramp up on new languages quickly",
+                        "Depth of experience with Apple iOS frameworks and SDK’s Ability to develop compelling user experiences while meeting the needs of the mobile users",
+                        "7+ years of native iOS development",
+                        "Expert in-depth working experience in Swift",
+                        "Experience working with Combine and Swift UI",
+                        "Experience writing Unit Test and Automated UI tests using XCTest framework",
+                        "Experience integrating with REST APIs is a required",
+                        "Experience working with CI/CD and debugging issues that arises",
+                        "Experience performing code reviews and mentoring junior developers is required",
+                        "Experience/understanding of the SOLID design principles",
+                        "Experience working with Architects and Stakeholders to craft appropriate solution",
+                        "Experience debugging memory and performance issues",
+                        "Experience working with native accessibility features such as VoiceOver and Dynamic Type",
+                        "Experience with iterative development methodologies such as TDD and BDD Understanding of technical issues, designs, best practices",
+                        "Ability to identify stakeholders, evaluate their needs and manage their expectations through effective communication",
+                        "Strong interpersonal, negotiation, facilitation, analytic, problem-solving, influencing, prioritization, decision-making and conflict resolution skills",
+                        "Excellent written/verbal communication skills"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "In addition to the salary range, this role is also eligible for bonus or incentive opportunities",
+                        "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
+                        "401(k) with company match and Employee stock purchase plan",
+                        "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
+                        "Paid parental leave and family building benefits",
+                        "Tuition reimbursement",
+                        "Health, dental, and vision insurance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Come join the team and make your mark on a highly distributed, visible and valued product",
+                        "Assess and optimize designs through review, evaluation tools and analysis to ensure appropriate user experiences for phones and tablets",
+                        "Create and perform unit testing for the spectrum of mobile devices",
+                        "Build native mobile apps, support the mobile systems in production and resolve and troubleshoot technical problems",
+                        "Prepare documentation for new development work while maintaining Schwab development standards"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Schwab Jobs",
+                    "link": "https://www.schwabjobs.com/job/lone-tree/ios-developer/33727/73020110400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-charles-schwab-4076321954?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ2hhcmxlcyBTY2h3YWIiLCJhZGRyZXNzX2NpdHkiOiJMb25lIFRyZWUsIENPIiwiaHRpZG9jaWQiOiJlM0VybFhGYzB1RFpzMi1kQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Goliath Partners",
+            "location": "Miami, FL",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=mHSfRVqNWKoMsg9SAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CYJwg5NoIoKLXcWCKAp-QLmEI4mkuZA7pLNfLr7hdd9Ft06PF5zpQ5krNdjBlR0IYfMRuMDAHDIt-6ha5WStSDZBFDV543myXMjxbN_s5N8oERvVjErj4bifTS1hsxo4J9QIT2xaqAmkAveEU9rC5fYDoOX8rYUAAAA&shmds=v1_AXX-3kHPPPjHdDXH3gSknPBcgfmZ7VS058g8b5Nd-mtK6lUWgA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=mHSfRVqNWKoMsg9SAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385cdf25bb41cecea36f65bb265cd44db050f3b48ab06064068.jpeg",
+            "extensions": [
+                "1 day ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Goliath has retained an exclusive role with a startup venture that's had it's seed round of $2.5m approved this week. The role is for a iOS Mobile/Fullstack Software Engineer (Python Backend + iOS, Android - Frontend).\n\nThe CEO worked for a startup venture that was acquired by Lyft & then he was headhunted by Uber, leading efforts in the US and Canada for them across 6 years. He's regarded as one of the greatest operators of our time. Additionally, the co-founder is a few years out of UC Berkeley with a CS background & has a history with successful startups.\n\nThey're looking to bring on an experienced software engineer (1-10 YOE) with mobile, full stack capabilities to help build out their mobile application out of their Miami location. Aim is to provide B2B solutions to a $150B industry and they are looking at scaling Miami, New York & Los Angeles over the next 24 months. Hopefully bringing this person on by January.\n\nEssential skills:\n\nPrevious startup experience & hunger to succeed!\n\nBS in Comp Sci/ Mathematics/ Physics or similarly related field.\n\nExpertise with Python & mobile languages (iOS, Android, Kotlin).\n\nThis role will be onsite in Brickell, Miami and will compensate competitively for a startup at their size. Compensation Package will include base (between $150-200k) & bonus + a variable percent of equity (0.5-2%).\n\nIf this sounds exciting, please apply and Goliath Partners will be in touch!",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Previous startup experience & hunger to succeed!",
+                        "BS in Comp Sci/ Mathematics/ Physics or similarly related field",
+                        "Expertise with Python & mobile languages (iOS, Android, Kotlin)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This role will be onsite in Brickell, Miami and will compensate competitively for a startup at their size",
+                        "Compensation Package will include base (between $150-200k) & bonus + a variable percent of equity (0.5-2%)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Hopefully bringing this person on by January"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-goliath-partners-4091418206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiR29saWF0aCBQYXJ0bmVycyIsImFkZHJlc3NfY2l0eSI6Ik1pYW1pLCBGTCIsImh0aWRvY2lkIjoibUhTZlJWcU5XS29Nc2c5U0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Developer iOS Mobile",
+            "company_name": "JetBlue Airways Corporation",
+            "location": "Orlando, FL",
+            "via": "JetBlue Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=QOWIIw64djr34_hsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ7CMAxAUbH2CEyeCzQIiQWmAgKpAnXgAFVSrDbIxJEdoFyE81KWP76ffSfZ7IAvJI4o4OsrXNh5QlhAxQ4UrbQ9cIATc0c43fYpRd0Yo0pFp8km3xYtPwwHdDyYOzv9p9HeCkayCZvVejkUMXR5XmHa0ROh9PK2H4U9S2QZjXHgA9RCNtx4DsfzD1W3iO6ZAAAA&shmds=v1_AXX-3kFLOY15Ew-EK3RdpS3Eoc75isZhC6Ty7VfhivzbCMWJ8w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=QOWIIw64djr34_hsAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "Position Summary\n\nThe iOS Mobile Developer performs development, testing, optimization, maintenance, delivery, and documentation of JetBlue’s sophisticated customer-facing mobile applications involving both front and backend components. This role involves significant research, analysis, and architecture. The iOS Mobile Developer develops and maintains innovative, scalable solutions which provide value to the business and provides operational support as required.\n\nEssential Responsibilities\n• Develop, design, code, debug, and document iOS mobile applications using Swift and Objective-C, adhering to best practices and industry standards\n• Understanding and integrating a wide variety of back-end services including RESTful application programming interfaces (APIs), WebSockets, and GRPC\n• Ability to consume and produce service responses in multiple formats including JSON, XML, and Protobuf\n• Design, write, and implement unit tests and end-to-end tests for iOS applications using XCTest or similar frameworks\n• Provide input and guidance on development and architecture decisions; collaborate with other engineers to ensure best practices are followed\n• Analyze system specifications and create project estimates for iOS development tasks\n• Participate in code reviews to ensure high-quality and consistent coding practices across the team\n• Partner with data center operations and infrastructure teams to ensure seamless deployments, proper documentation, and support for iOS applications\n• Ensure that JetBlue IT and business standards and procedures are maintained in accordance with company policies and that work practices comply with all audit, security, and regulatory requirements\n• Ensure continued accountability for product and services delivery within assigned business units and across IT\n• Ensure quality and performance standards are met for iOS applications, ensuring a seamless user experience\n• Partner with Manager and other IT Managers to ensure alignment and drive efficiencies across projects and teams\n• Provide direct or indirect oversight of delivery teams for applicable portfolio initiatives\n• Take a significant role in leading and coaching direct team and/or indirect crewmembers to support the engagement, growth, and development of Succession plan for the IT department\n• Perform other duties as assigned, supporting the overall objectives and mission of the IT department\n\nMinimum Experience and Qualifications\n• * Bachelor’s degree in Computer Science, Computer Engineering or a related discipline; OR demonstrated capability to perform job responsibilities with a combination of a High School Diploma/GED and at least four (4) years of previous related work experience\n• Three (3) years in an iOS Mobile Developer role, with experience coding in Swift and Objective-C; understanding and integrating back-end services; consuming and producing service responses; and full testing for iOS applications\n• Experience with RESTful services, JSON, and SOAP-based services\n• Experience using Git\n• Demonstrated ability to code complex designs in a modular, well-architected manner; experience with responsive/adaptive design, and efficient middleware communication\n• Candidates must demonstrate coding skills in a work sample assessment\n• Available for moderate overnight travel (up to 35%)\n• In possession of valid travel documents with the ability to travel in and out of the United States\n• Able to work flexible hours and be available for emergency response on short notice\n• Must pass a pre-employment drug test\n• Must be legally eligible to work in the country in which the position is located\n• Authorization to work in the US is required. This position is not eligible for visa sponsorship\n\nPreferred Experience and Qualifications\n• One (1) year of experience with AngularJS and some experience with AngularJS 6 or higher, as well as one (1) year of experience with Java, with knowledge of Java 8 and above, as well as Java Reactive Extensions\n• Thorough knowledge of business function and thorough knowledge of business operations, objectives and strategies\n• Previous knowledge with micro service development using GRPC and websockets\n• Benchmarking experience of services as a whole, from the front to the back-end technology\n• Knowledge of omnichannel customer experiences across kiosks, mobile, and web platforms\n• Exposure to JetBlue’s IT disciplines and interdependencies\n• Exposure to JetBlue’s business units and how their needs drive IT strategy\n• Working on enterprise-wide budget process\n\nCrewmember Expectations:\n• Regular attendance and punctuality\n• Potential need to work flexible hours and be available to respond on short-notice\n• Able to maintain a professional appearance\n• When working or traveling on JetBlue flights, and if time permits, all capable crewmembers are asked to assist with light cleaning of the aircraft\n• Must be an appropriate organizational fit for the JetBlue culture, that is, exhibit the JetBlue values of Safety, Caring, Integrity, Passion and Fun\n• Promote JetBlue’s #1 value of safety as a Safety Ambassador, supporting JetBlue’s Safety Management System (SMS) components, Safety Policy and behavioral standards\n• Identify safety and/or security concerns, issues, incidents or hazards that should be reported and report them whenever possible and by any means necessary including JetBlue’s confidential reporting systems (Aviation Safety Action Program (ASAP) or Safety Action Report (SAR))\n\nEquipment:\n• Computer and other office equipment\n\nWork Environment:\n• Hybrid office environment\n\nPhysical Effort:\n• Generally not required, or up to 10 pounds occasionally, 0 pounds frequently. (Sedentary)\n\nCompensation:\n• The base pay range for this position is between $90,500.00 and $128,600.00 per year. Base pay is one component of JetBlue’s total compensation package, which may also include access to healthcare benefits, a 401(k) plan and company match, crewmember stock purchase plan, short-term and long-term disability coverage, basic life insurance, free space available travel on JetBlue, and more.\n\n#LI-AC1\n\n#LI-Hybrid",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor’s degree in Computer Science, Computer Engineering or a related discipline; OR demonstrated capability to perform job responsibilities with a combination of a High School Diploma/GED and at least four (4) years of previous related work experience",
+                        "Three (3) years in an iOS Mobile Developer role, with experience coding in Swift and Objective-C; understanding and integrating back-end services; consuming and producing service responses; and full testing for iOS applications",
+                        "Experience with RESTful services, JSON, and SOAP-based services",
+                        "Experience using Git",
+                        "Demonstrated ability to code complex designs in a modular, well-architected manner; experience with responsive/adaptive design, and efficient middleware communication",
+                        "Candidates must demonstrate coding skills in a work sample assessment",
+                        "Available for moderate overnight travel (up to 35%)",
+                        "In possession of valid travel documents with the ability to travel in and out of the United States",
+                        "Able to work flexible hours and be available for emergency response on short notice",
+                        "Must pass a pre-employment drug test",
+                        "Must be legally eligible to work in the country in which the position is located",
+                        "Authorization to work in the US is required",
+                        "Potential need to work flexible hours and be available to respond on short-notice",
+                        "Computer and other office equipment",
+                        "Generally not required, or up to 10 pounds occasionally, 0 pounds frequently",
+                        "(Sedentary)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base pay range for this position is between $90,500.00 and $128,600.00 per year",
+                        "Base pay is one component of JetBlue’s total compensation package, which may also include access to healthcare benefits, a 401(k) plan and company match, crewmember stock purchase plan, short-term and long-term disability coverage, basic life insurance, free space available travel on JetBlue, and more"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The iOS Mobile Developer performs development, testing, optimization, maintenance, delivery, and documentation of JetBlue’s sophisticated customer-facing mobile applications involving both front and backend components",
+                        "This role involves significant research, analysis, and architecture",
+                        "The iOS Mobile Developer develops and maintains innovative, scalable solutions which provide value to the business and provides operational support as required",
+                        "Develop, design, code, debug, and document iOS mobile applications using Swift and Objective-C, adhering to best practices and industry standards",
+                        "Understanding and integrating a wide variety of back-end services including RESTful application programming interfaces (APIs), WebSockets, and GRPC",
+                        "Ability to consume and produce service responses in multiple formats including JSON, XML, and Protobuf",
+                        "Design, write, and implement unit tests and end-to-end tests for iOS applications using XCTest or similar frameworks",
+                        "Provide input and guidance on development and architecture decisions; collaborate with other engineers to ensure best practices are followed",
+                        "Analyze system specifications and create project estimates for iOS development tasks",
+                        "Participate in code reviews to ensure high-quality and consistent coding practices across the team",
+                        "Partner with data center operations and infrastructure teams to ensure seamless deployments, proper documentation, and support for iOS applications",
+                        "Ensure that JetBlue IT and business standards and procedures are maintained in accordance with company policies and that work practices comply with all audit, security, and regulatory requirements",
+                        "Ensure continued accountability for product and services delivery within assigned business units and across IT",
+                        "Ensure quality and performance standards are met for iOS applications, ensuring a seamless user experience",
+                        "Partner with Manager and other IT Managers to ensure alignment and drive efficiencies across projects and teams",
+                        "Provide direct or indirect oversight of delivery teams for applicable portfolio initiatives",
+                        "Take a significant role in leading and coaching direct team and/or indirect crewmembers to support the engagement, growth, and development of Succession plan for the IT department",
+                        "Perform other duties as assigned, supporting the overall objectives and mission of the IT department",
+                        "Regular attendance and punctuality",
+                        "Able to maintain a professional appearance",
+                        "When working or traveling on JetBlue flights, and if time permits, all capable crewmembers are asked to assist with light cleaning of the aircraft",
+                        "Must be an appropriate organizational fit for the JetBlue culture, that is, exhibit the JetBlue values of Safety, Caring, Integrity, Passion and Fun",
+                        "Promote JetBlue’s #1 value of safety as a Safety Ambassador, supporting JetBlue’s Safety Management System (SMS) components, Safety Policy and behavioral standards",
+                        "Identify safety and/or security concerns, issues, incidents or hazards that should be reported and report them whenever possible and by any means necessary including JetBlue’s confidential reporting systems (Aviation Safety Action Program (ASAP) or Safety Action Report (SAR))"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "JetBlue Careers",
+                    "link": "https://careers.jetblue.com/job/Long-Island-City-Developer-iOS-Mobile-NY-11101/1202142300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgaU9TIE1vYmlsZSIsImNvbXBhbnlfbmFtZSI6IkpldEJsdWUgQWlyd2F5cyBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6Ik9ybGFuZG8sIEZMIiwiaHRpZG9jaWQiOiJRT1dJSXc2NGRqcjM0X2hzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Cypress HCM",
+            "location": "Brooklyn Park, MN",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=SOsnMfeqSAIoYp0wAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OIkmIrjoZgVFqAp-QEnCkcTGXLgL0n6A_y2-4TXfWbOI9yec8IOJCjKs4UoWBA27AJThTOQTzg-h1iJ7rUWS8lJNjU45emvKaGnUL7Lyr5dgGEsyFfvtbjOqkv0S2qkwisCl7SBmODLRkKYMD8PDCrrbD_2ldEuIAAAA&shmds=v1_AXX-3kEt1xtQA9dIfIwfBSmTkryiO0mN8pTRT6JCT0qBzzU2Ew&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=SOsnMfeqSAIoYp0wAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385b6f7b2b9a07935c6a2cd650b1c56436063097aef0b2d41eb.jpeg",
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "A medical device manufacturing client is looking to bring on new software engineers in Brooklyn Park, Minnesota due to growth! This contract to hire role is primarily responsible for developing iOS software / testing applications for use in interfacing medical device hardware. This contract to hire position will work to develop code to verify and validate the operation of active and passive implantable/external medical devices, and mobile applications. This individual will work with a multi-disciplinary engineering team including software, firmware, electrical, process, and mechanical hardware engineers. This team player will have experience with multitasking in a high energy fast paced environment. The person needs to have strong self-starting qualities to independently manage their participation in multiple projects to ensure timely and successful completion.\n\nMust Have:\n• Bachelor’s degree and 5 years of experience or a combination of education and relevant work experience.\n• 3-5 years of experience with XCode, Visual Studio, or Android Studio IDE development.\n• Proficiency of a software development language (C++, C#, Swift, Java)\n• Proficiency of a software development IDE (XCode, Android Studio, Visual Studio)\n• Proficiency of software testing suite (Google Test)\n• Experience in an engineering environment with mechanical, tool design, and manufacturing processes (medical device preferred).\n• Working knowledge in electronics; analog, power and digital, oscilloscopes, and general electronic test equipment.\n\nNice To Have:\n• 3-5 years’ experience in testing active implantable devices, hand-held devices and test equipment used for medical devices.\n• Familiarity with medical development standards such as IEC 60601-1, 62304, 60601-1-2, ISO 14708-1, 14708-3\n• SysML, UML and MBSE • Knowledge of Quality Control principles and methodology\n• 2 or more Software programming language proficiency (C#, Swift)\n• 2 or more Software IDE proficiency (Visual Studio, XCode)\n• Agile Scrum methodology\n\nDuties of Role:\n• Utilize the following IDE’s (Integrated Development Environment) XCode, Visual Studio 2019.\n• Create interfaces to Medical Implant Communication System (MICS) base stations and implants.\n• Create and review software requirements and software architecture documentation.\n• Develop software test plans and test protocols. • Author software unit test, integration / UI test, regression test code\n• Participate in product development meetings and software/hardware design and risk analysis reviews.\n• Working knowledge of testing active and passive implantable/external medical devices; mobile applications and embedded medical devices.\n• Experience in creating and executing testcases and scripts to verify software and hardware requirements.\n• Ensure that medical device components are compliant with applicable international standards and requirements.\n• Maintain software/hardware design history file and participate in periodic phase reviews.\n• Report defects to the stakeholders and create test logs.\n• Provide inputs to the team to improve the medical device design and test outcomes.\n• Consistent and punctual attendance is an essential function of the job.\n• Use requirements management tools.\n• Use issue tracking tools.\n\nThis role pays $50 - $70 an hour, while on contract, flexibility depending one experience level",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This team player will have experience with multitasking in a high energy fast paced environment",
+                        "The person needs to have strong self-starting qualities to independently manage their participation in multiple projects to ensure timely and successful completion",
+                        "Bachelor’s degree and 5 years of experience or a combination of education and relevant work experience",
+                        "3-5 years of experience with XCode, Visual Studio, or Android Studio IDE development",
+                        "Proficiency of a software development language (C++, C#, Swift, Java)",
+                        "Proficiency of a software development IDE (XCode, Android Studio, Visual Studio)",
+                        "Proficiency of software testing suite (Google Test)",
+                        "Working knowledge in electronics; analog, power and digital, oscilloscopes, and general electronic test equipment",
+                        "3-5 years’ experience in testing active implantable devices, hand-held devices and test equipment used for medical devices",
+                        "Familiarity with medical development standards such as IEC 60601-1, 62304, 60601-1-2, ISO 14708-1, 14708-3",
+                        "SysML, UML and MBSE",
+                        "Knowledge of Quality Control principles and methodology",
+                        "2 or more Software programming language proficiency (C#, Swift)",
+                        "2 or more Software IDE proficiency (Visual Studio, XCode)",
+                        "Agile Scrum methodology"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This role pays $50 - $70 an hour, while on contract, flexibility depending one experience level"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This contract to hire role is primarily responsible for developing iOS software / testing applications for use in interfacing medical device hardware",
+                        "This contract to hire position will work to develop code to verify and validate the operation of active and passive implantable/external medical devices, and mobile applications",
+                        "This individual will work with a multi-disciplinary engineering team including software, firmware, electrical, process, and mechanical hardware engineers",
+                        "Utilize the following IDE’s (Integrated Development Environment) XCode, Visual Studio 2019",
+                        "Create interfaces to Medical Implant Communication System (MICS) base stations and implants",
+                        "Create and review software requirements and software architecture documentation",
+                        "Develop software test plans and test protocols",
+                        "Author software unit test, integration / UI test, regression test code",
+                        "Participate in product development meetings and software/hardware design and risk analysis reviews",
+                        "Working knowledge of testing active and passive implantable/external medical devices; mobile applications and embedded medical devices",
+                        "Experience in creating and executing testcases and scripts to verify software and hardware requirements",
+                        "Ensure that medical device components are compliant with applicable international standards and requirements",
+                        "Maintain software/hardware design history file and participate in periodic phase reviews",
+                        "Report defects to the stakeholders and create test logs",
+                        "Provide inputs to the team to improve the medical device design and test outcomes",
+                        "Consistent and punctual attendance is an essential function of the job",
+                        "Use requirements management tools",
+                        "Use issue tracking tools"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-cypress-hcm-4090112424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ3lwcmVzcyBIQ00iLCJhZGRyZXNzX2NpdHkiOiJCcm9va2x5biBQYXJrLCBNTiIsImh0aWRvY2lkIjoiU09zbk1mZXFTQUlvWXAwd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Software Engineer, iOS",
+            "company_name": "Meta",
+            "location": "Bellevue, WA (+6 others)",
+            "via": "Meta Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HHiUZDwusFs5u01YAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFw7OzndLG0igotOFUQQxKGDY0nCmURiLuRO7eyXq8sbX_OZNd1AN3mbinDIPmbE2kK8DNDBiSwwmuoCUIYjkU-42AWRwlutmZPyLEaiU44emjJamvSdLP8ZOfzOkozguN6sJlWyX87PKAZihj2mhK8ntnDtv-2jzGOFAAAA&shmds=v1_AXX-3kGVeCLj_UFq5DJgcrb2tTShMxftCrLsJr3vtQbPHTGAfQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HHiUZDwusFs5u01YAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385ed4aea382020162790ad4952cfc35811ec46ad67578277c0.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Every month, billions of people access Facebook products using mobile devices from across the world. Our mobile teams constantly push the boundaries of the user experience across all our apps, including Facebook, Instagram, WhatsApp, Messenger, and more, as a leader in an exciting and fast-paced industry that is evolving daily. We are seeking full-time iOS Engineers to join our mobile teams. As a Mobile Software Engineer, you will specialize in building elegant products on world-class technologies that bring our social experiences to hundreds of millions of people, anytime and anywhere.\n\nWe are looking for developers with experience in user interfaces, infrastructure, and/or tools supporting applications on the iPhone or iPad using the iOS SDK. If you are interested in joining a world-class team of passionate people and industry veterans who like to work hard and play hard, we look forward to hearing from you soon!",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for developers with experience in user interfaces, infrastructure, and/or tools supporting applications on the iPhone or iPad using the iOS SDK"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Meta Careers",
+                    "link": "https://www.metacareers.com/v2/jobs/503684125178318/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Meta/Job/Software-Engineer,-iOS/-in-San-Francisco,CA?jid=60d2d4af4fb5c44d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Y Combinator",
+                    "link": "https://www.ycombinator.com/companies/doordash/jobs/nCcioeppx-software-engineer-ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=4442005c87142883&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/meta/software-engineer-ios-3ed1e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Meta Careers Jobs",
+                    "link": "https://metacareers.dejobs.org/san-francisco-ca/software-engineer-ios/5EEF24B48F5745B0ADE396D9B0A6C9BC/job/?utm_source=USNLx.com-DE&utm_medium=NLX&utm_campaign=USNLx.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/software-engineer-ios-meta-JV_IC1147401_KO0,21_KE22,26.htm?jl=1009415352698&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/software-engineer-ios-at-meta-3953558084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgaU9TIiwiY29tcGFueV9uYW1lIjoiTWV0YSIsImFkZHJlc3NfY2l0eSI6IkJlbGxldnVlLCBXQSIsImh0aWRvY2lkIjoiSEhpVVpEd3VzRnM1dTAxWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "IOS Developer  (W2 Only)",
+            "company_name": "Enormous Enterprise LLC",
+            "location": "Charlotte, NC",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=6IkXtml2iQ2fP_hXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKMQ6CQBAF0NhyBKtfolHWkNhoicRoiBYWlmQhE8AsO5ud0eBNPK7avOoln1liTtcbDvQix4EikN5zXL17L7DGmRsI2dj2YI8jc-dovu9Vg-yMEXFZJ2p1aLOWR8OeGp7Mgxv5U0tvIwVnlep8u5my4LtlWnqOIz8FpVeKIQ5CqKoCg0fx-45VaYVL8QUq999jmwAAAA&shmds=v1_AXX-3kEZMvN0xXj9ak2aBoJHXO7K2iWE1ak6iUQI7UNtDcx1EA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=6IkXtml2iQ2fP_hXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e13857ad2d6d5293d9632bb7f2e46c0e0deacd8d6f983cdf7e0fb.jpeg",
+            "extensions": [
+                "17 hours ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 hours ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "IOS Developer\n\nLocation: Charlotte, NC (3days onsite 2 days remote)\n\nlook for nearby Candidates (Only W2)\n\nNO C2C enquiry please.\n\nMust Have Skills:\n\nEx-Bank of America folks is preferred\n\nIOS development\n\nProficient in Objective-C, Swift, Swift UI",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "IOS development",
+                        "Proficient in Objective-C, Swift, Swift UI"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-w2-only-at-enormous-enterprise-llc-4093027055?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyICAoVzIgT25seSkiLCJjb21wYW55X25hbWUiOiJFbm9ybW91cyBFbnRlcnByaXNlIExMQyIsImFkZHJlc3NfY2l0eSI6IkNoYXJsb3R0ZSwgTkMiLCJodGlkb2NpZCI6IjZJa1h0bWwyaVEyZlBfaFhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Servsys Corporation",
+            "location": "Pasadena, CA",
+            "via": "SitePoint",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=CHrAtfv3EvKf_qUdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE4HOokmIrjYSSoILgp9gHKJRxKJuZALpb6Bj21d_u37m--iWYd7DxcaKXKmAju4sQEhLNYDJ7gyu0jL1tea5aS1SFROKtZgleW35kSGJ_1iI_8M4rFQjlhpOBz3k8rJbVY9lVE-Ah2XzGW28zgkeKDgkxJuoTv_ANL7fOKLAAAA&shmds=v1_AXX-3kFJRcgDsSPnHqdwiTn2q1OhkOxFPcklF22wjYouqwzKzw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=CHrAtfv3EvKf_qUdAAAAAA%3D%3D",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Requirements:\n\nFor iOS Developer:\n• 3-5 years of experience in iOS development.\n• Proficiency in Swift and Objective-C.\n• Experience with iOS frameworks such as Core Data, Core Animation, etc.\n• Familiarity with RESTful APIs to connect iOS applications to back-end services.\n• Knowledge of Apple's design principles and application interface guidelines.\n• Experience with performance and memory tuning tools.\n• Understanding of Git or similar version control systems.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "For iOS Developer:",
+                        "3-5 years of experience in iOS development",
+                        "Proficiency in Swift and Objective-C",
+                        "Experience with iOS frameworks such as Core Data, Core Animation, etc",
+                        "Familiarity with RESTful APIs to connect iOS applications to back-end services",
+                        "Knowledge of Apple's design principles and application interface guidelines",
+                        "Experience with performance and memory tuning tools",
+                        "Understanding of Git or similar version control systems"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "SitePoint",
+                    "link": "https://www.sitepoint.com/jobs-for-developers/servsys-corporation/ios-developer-1100981/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://us.bebee.com/job/54d0e2ccf9fcf81c17cce43d650083fa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/4944297247?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://us.trabajo.org/job-2611-d5eadac3a1794839e6fa6a305c98a7dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "My Wabash Valley Jobs",
+                    "link": "https://jobs.mywabashvalley.com/jobs/ios-developer-pasadena-california/1504478216-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU2VydnN5cyBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6IlBhc2FkZW5hLCBDQSIsImh0aWRvY2lkIjoiQ0hyQXRmdjNFdktmX3FVZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Health Software - iOS Engineer",
+            "company_name": "Apple",
+            "location": "Sunnyvale, CA",
+            "via": "Careers At Apple",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=k30viKGQ-w27cQMPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7AA5ON4smInTRqYgoLg55gJKWM4nEu9A7tb6DD21dfviWv_rOqvqMPmsExzd9-wFhDenq4EghEeIw8cIdCPqhj8AEJ-aQcbGPqkV21opkE0S9pt70_LBM2PFo79zJP63EaVqyV2y39WY0hcJy3pSSERKBexJ9Xj7jCg7NDy9ZyfOPAAAA&shmds=v1_AXX-3kHYD5hIxBYaqk-CoDmkrMjcQpLXjKCOC6spsXCYZWzgcA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=k30viKGQ-w27cQMPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385b1c7b26dc72854623de2aa3d35ed7b2a5134e5f8310215a4.png",
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "Summary\nPosted: Oct 8, 2024\nWeekly Hours: 40\nRole Number:200571239\n\n“I believe, if you zoom out into the future, and you look back, and you ask the question, ‘What was Apple’s greatest contribution to mankind?’ it will be about health.” —Tim Cook, 2019 At Apple, we make products that empower people to improve their health. We’re looking for a talented senior iOS developer to join a team of highly skilled engineers who fulfill that mission and expand the health-related capabilities of iOS, watchOS, and other Apple platforms!\n\nDescription\n\nDescription\nAs a senior member of the team, you’ll have the opportunity to take a lead role in crafting the next advancements in Apple’s health software ecosystem! We work on the Health app—a platform for Health and Fitness efforts across Apple—as well as related features and experiences that broaden the definition of what our platform can do. You will work with experienced engineers, designers, and medical experts to design features that delight users as well as form a solid technical foundation for future development. Excellent engineering, collaboration, and leadership skills are all essential.\n\nResponsibilities:\n- Implement new health-related features across Apple platforms that meet or exceed our high standards for quality\n- Forge collaborative relationships with a wide variety of cross-functional teams to prototype ideas, develop plans, and make product and architectural decisions\n- Evangelize our values and contribute to design and architecture reviews\n- Communicate ideas and best practices to other teams in Health and across Apple\n- Accurately scope the effort and work items required to complete large (multi-month) feature projects\n- Design and build testable software, working closely with QA\n- Diagnose, triage, fix, and prevent issues related to functionality, reliability, and performance\n\nMinimum Qualifications\n\nMinimum Qualifications\n• 5+ years of software engineering experience\n• Demonstrated passion for developing phenomenal user experience, ideally on iOS\n• Experience analyzing large features to understand and improve performance\n• Advanced programming skills in Swift and/or Objective-C\n\nKey Qualifications\n\nKey Qualifications\n\nPreferred Qualifications\n\nPreferred Qualifications\n• BS Computer Science or equivalent\n• Familiarity with wellness or medical concepts\n• Produce maintainable and scalable code in significant shipping products\n• Excited about learning and passionate about new technology\n\nEducation & Experience\n\nEducation & Experience\n\nAdditional Requirements\n\nAdditional Requirements\n\nPay & Benefits\n\nPay & Benefits\n• At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.\n\nMore\n• Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Excellent engineering, collaboration, and leadership skills are all essential",
+                        "5+ years of software engineering experience",
+                        "Demonstrated passion for developing phenomenal user experience, ideally on iOS",
+                        "Experience analyzing large features to understand and improve performance",
+                        "Advanced programming skills in Swift and/or Objective-C"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "This provides the opportunity to progress as you grow and develop within a role",
+                        "The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs",
+                        "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan",
+                        "You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation",
+                        "Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work with experienced engineers, designers, and medical experts to design features that delight users as well as form a solid technical foundation for future development",
+                        "Implement new health-related features across Apple platforms that meet or exceed our high standards for quality",
+                        "Forge collaborative relationships with a wide variety of cross-functional teams to prototype ideas, develop plans, and make product and architectural decisions",
+                        "Evangelize our values and contribute to design and architecture reviews",
+                        "Communicate ideas and best practices to other teams in Health and across Apple",
+                        "Accurately scope the effort and work items required to complete large (multi-month) feature projects",
+                        "Design and build testable software, working closely with QA",
+                        "Diagnose, triage, fix, and prevent issues related to functionality, reliability, and performance"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Careers At Apple",
+                    "link": "https://jobs.apple.com/en-us/details/200571239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Careers.Walmart.com",
+                    "link": "https://careers.walmart.com/us/jobs/WD1714948-senior-software-engineer-ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Apple/Job/Health-Software-iOS-Engineer/-in-Sunnyvale,CA?jid=fca4d80d36985acf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=9d60508339051b6f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-software-engineer-ios/3556203?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/XAkaA2kjAkYG-hww0gByBneLzHUJG6lt8mZ5cANY1Ej4IA59ygKu-A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/sunnyvale-ca-health-software-ios-engineer-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SWE Career Center",
+                    "link": "https://careers.swe.org/job/health-software-ios-engineer/75828447/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJIZWFsdGggU29mdHdhcmUgLSBpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJBcHBsZSIsImFkZHJlc3NfY2l0eSI6IlN1bm55dmFsZSwgQ0EiLCJodGlkb2NpZCI6ImszMHZpS0dRLXcyN2NRTVBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Kforce",
+            "location": "Boston, MA",
+            "via": "Glassdoor",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gk4FYlywkOfuoHZtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAF0H5rK6sprEQTEWy0WhEERSw8wJKEMRuJ-SEzyHp78RWv-3aLdH_QiT-cUbnRmi7wJOxaGAmFzkDMPD-MqlX21opkE0WdpmAC3haFPSb7gpd_g4yucc1OedjuNpOpJS5n1ydaYEqFjhBFWdGt_wHM59vrewAAAA&shmds=v1_AXX-3kECWGoR2_ZUETil6Jdyj1jjAgZbmj0yt_sDtm38rk9gsg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gk4FYlywkOfuoHZtAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385f66567f0dd424592207ba31453ed4c720cce93469a6ee9c5.jpeg",
+            "extensions": [
+                "2 days ago",
+                "63–71 an hour",
+                "Contractor",
+                "No degree mentioned",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "salary": "63–71 an hour",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned",
+                "paid_time_off": true,
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "RESPONSIBILITIES:\n\nKforce has a client in need of an iOS Developer in Boston, MA.\n\nResponsibilities:\n• Build the omni channel user experiences and the underlying platforms needed to support our digital presence\n• As an iOS Developer, you will build entire features, taking these from concept to deployment, as part of our autonomous, cross functional teams\n• Contribute ideas to improve products\n\nREQUIREMENTS:\n• 4+ years of professional experience developing publicly available native iOS apps using Swift, SwiftUI, UIKit, Objective-C, Xcode in an agile environment\n• Experience with Android, web and cloud-based technologies\n• Knowledge of mobile landscape, architectures, trends and emerging technologies used in creating performant and resilient native iOS Apps\n• Your passion crafting user experiences on iOS using Apple's Human Interface Guidelines using your proven understanding of functional programming and reactive patterns\n• Good understanding of accessibility features and building accessible experiences on iOS\n• Experience with Swift concurrency, combine and asynchronous programming in general\n• Excellent understanding of testing concepts and frameworks using XCTest, and XCUITest\n• Your advanced Git skills, branching strategies and CI/CD practices\n• Your knowledge of HTTP based APIs\n• Experience in internet security: OAuth, Open ID connect and knowledge of standard methodologies\n• Strong working knowledge of AWS ecosystem\n• Understanding containerization, Docker, and orchestration\n• End-to-end architecture experience with focus on customer experience, ease of use, reusable core and common components development, leverage proven architecture pattens, standards, accessibility guidelines, security, A/B testing, personalization, analytics and measurements\n\nThe pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.\n\nWe offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.\n\nNote: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.\n\nThis job is not eligible for bonuses, incentives or commissions.\n\nKforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\n\nBy clicking “Apply Today” you agree to receive calls, AI-generated calls, text messages or emails from Kforce and its affiliates, and service providers. Note that if you choose to communicate with Kforce via text messaging the frequency may vary, and message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You will always have the right to cease communicating via text by using key words such as STOP.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "4+ years of professional experience developing publicly available native iOS apps using Swift, SwiftUI, UIKit, Objective-C, Xcode in an agile environment",
+                        "Experience with Android, web and cloud-based technologies",
+                        "Knowledge of mobile landscape, architectures, trends and emerging technologies used in creating performant and resilient native iOS Apps",
+                        "Your passion crafting user experiences on iOS using Apple's Human Interface Guidelines using your proven understanding of functional programming and reactive patterns",
+                        "Good understanding of accessibility features and building accessible experiences on iOS",
+                        "Experience with Swift concurrency, combine and asynchronous programming in general",
+                        "Excellent understanding of testing concepts and frameworks using XCTest, and XCUITest",
+                        "Your advanced Git skills, branching strategies and CI/CD practices",
+                        "Your knowledge of HTTP based APIs",
+                        "Experience in internet security: OAuth, Open ID connect and knowledge of standard methodologies",
+                        "Strong working knowledge of AWS ecosystem",
+                        "Understanding containerization, Docker, and orchestration",
+                        "End-to-end architecture experience with focus on customer experience, ease of use, reusable core and common components development, leverage proven architecture pattens, standards, accessibility guidelines, security, A/B testing, personalization, analytics and measurements"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs",
+                        "We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees",
+                        "Salaried personnel receive paid time off",
+                        "Hourly employees are not eligible for paid time off unless required by law",
+                        "Hourly employees on a Service Contract Act project are eligible for paid sick leave",
+                        "Note: Pay is not considered compensation until it is earned, vested and determinable",
+                        "The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law",
+                        "This job is not eligible for bonuses, incentives or commissions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Kforce has a client in need of an iOS Developer in Boston, MA",
+                        "Build the omni channel user experiences and the underlying platforms needed to support our digital presence",
+                        "As an iOS Developer, you will build entire features, taking these from concept to deployment, as part of our autonomous, cross functional teams",
+                        "Contribute ideas to improve products"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/ios-developer-kforce-JV_IC1154532_KO0,13_KE14,20.htm?jl=1009554682351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiS2ZvcmNlIiwiYWRkcmVzc19jaXR5IjoiQm9zdG9uLCBNQSIsImh0aWRvY2lkIjoiZ2s0RllseXdrT2Z1b0hadEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "iOS Developer II",
+            "company_name": "Truist Bank",
+            "location": "Raleigh, NC",
+            "via": "Truist Bank Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Ur3-cjP20LsQivrWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uE0QTEVx0U0HqoKDu5VKOJBpzIXdKZ79cfMNrvpNmGi83ONCHEheq0HWwgBM7EMI6BOAMR2afqN0G1SIba0WS8aKocTADvyxncjzaBzv510vASiWhUr9aL0dTsp-19_qOorDD_ISY4YqJog9zOO9_v9qReYUAAAA&shmds=v1_AXX-3kHv8VXZvVqVuHoQ0ptshmfy9bTwRIEjf6YQIBUaiKVHBw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Ur3-cjP20LsQivrWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530feda5e5029fc4508b4a/images/154c392bc33e1385b046475ad8458daf77810acb755768ce87d62a03f863656b.jpeg",
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "health_insurance": true,
+                "dental_coverage": true,
+                "paid_time_off": true
+            },
+            "description": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.\n\nNeed Help?\n\nIf you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response).\n\nRegular or Temporary:\nRegular\n\nLanguage Fluency: English (Required)\n\nWork Shift:\n1st shift (United States of America)\n\nPlease review the following job description:\n\nDeliver technically complex solutions. Perform system integration support for all project work. Consult and partner with the business product owners to understand the end goal and offer solutions and recommendations during the design.\n\nESSENTIAL DUTIES AND RESPONSIBILITIES\nFollowing is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time.\n\n1. Develop customized coding, software integration, perform analysis, configure solutions, for iOS-based mobile applications.\n\n2. Participate in the development, testing, implementation, maintenance, and support of highly complex solutions in adherence to company standards, including robust unit testing and support for subsequent release testing.\n3. Build non-functional monitoring capabilities and provide escalated support for highly complex applications in production.\n4. Build in and maintain security controls and monitoring in support of company standards.\n5. Solve complex technical and operational problems. Act as a resource for teammates with less experience\n6. In an Agile environment: Responsible for delivering high quality working software and automating manual/reusable tasks working directly, and engage with, the business from the beginning of the design work. Leverage continuous engineering practices to deliver business value regarding effectiveness of the design. Actively participate in refining user stories. Responsible for design, developing, and maintaining automated unit testing, and supporting integration and functional testing. Responsible for providing automated monitoring capabilities, providing warranty support, and providing knowledge transfer to production support. Develop code in accordance with the acceptance criteria established by the Product Owner.\n\nQUALIFICATIONS\nRequired Qualifications\nThe requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n1. Bachelor’s Degree and four to seven years of experience or equivalent education and software engineering training or experience\n2. In-depth knowledge in information systems and ability to identify, apply, and implement IT best practices\n3. Understanding of key business processes and competitive strategies related to the IT function\n4. Ability to plan and manage projects and solve complex problems by applying best practices\n5. Ability to provide direction and mentor less experienced teammates. Ability to interpret and convey complex, difficult, or sensitive information\n\nPreferred Qualifications:\n\n1. Bachelor’s degree in computer science, computer engineering or related degree and eight years of experience or an equivalent combination of education and work experience\n\n2. Professional experience building high-quality apps or services from the ground up and scaling at an enterprise level\n3. Three or more years of experience in developing commercial iOS applications\n\n4. Proficient with Xcode, Swift, SwiftUI\n\n5. Experience in SOAP and Rest based Web Services\n6. Financial services or banking industry experience a plus\n\n7. Experience with Android application development a plus\n8. Experience with Open Source tools and frameworks\n9. Proficient with git or other distributed source code control systems\n\nOTHER JOB REQUIREMENTS / WORKING CONDITIONS\n\nSitting\nConstantly (More than 50% of the time)\nStanding\nFrequently (25% - 50% of the time)\nWalking\nFrequently (25% - 50% of the time)\nVisual / Audio / Speaking\nAble to access and interpret client information received from the computer and able to hear and speak with individuals in person and on the phone.\nManual Dexterity / Keyboarding\nAble to work standard office equipment, including PC keyboard and mouse, copy/fax machines, and printers.\nAvailability\nAble to work all hours scheduled, including overtime as directed by manager/supervisor and required by business need.\nTravel\nMinimal and up to 10%\n\nGeneral Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site. Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work.\n\nTruist supports a diverse workforce and is an Equal Opportunity Employer that does not discriminate against individuals on the basis of race, gender, color, religion, citizenship or national origin, age, sexual orientation, gender identity, disability, veteran status or other classification protected by law. Truist is a Drug Free Workplace.\n\nEEO is the Law Pay Transparency Nondiscrimination Provision E-Verify",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Language Fluency: English (Required)",
+                        "The requirements listed below are representative of the knowledge, skill and/or ability required",
+                        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions",
+                        "Bachelor’s Degree and four to seven years of experience or equivalent education and software engineering training or experience",
+                        "In-depth knowledge in information systems and ability to identify, apply, and implement IT best practices",
+                        "Understanding of key business processes and competitive strategies related to the IT function",
+                        "Ability to provide direction and mentor less experienced teammates",
+                        "Ability to interpret and convey complex, difficult, or sensitive information",
+                        "Frequently (25% - 50% of the time)",
+                        "Able to access and interpret client information received from the computer and able to hear and speak with individuals in person and on the phone",
+                        "Manual Dexterity / Keyboarding",
+                        "Able to work standard office equipment, including PC keyboard and mouse, copy/fax machines, and printers",
+                        "Able to work all hours scheduled, including overtime as directed by manager/supervisor and required by business need"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position",
+                        "Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates",
+                        "Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays",
+                        "For more details on Truist’s generous benefit plans, please visit our Benefits site",
+                        "Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Deliver technically complex solutions",
+                        "Perform system integration support for all project work",
+                        "Consult and partner with the business product owners to understand the end goal and offer solutions and recommendations during the design",
+                        "Develop customized coding, software integration, perform analysis, configure solutions, for iOS-based mobile applications",
+                        "Participate in the development, testing, implementation, maintenance, and support of highly complex solutions in adherence to company standards, including robust unit testing and support for subsequent release testing",
+                        "Build non-functional monitoring capabilities and provide escalated support for highly complex applications in production",
+                        "Build in and maintain security controls and monitoring in support of company standards",
+                        "Solve complex technical and operational problems",
+                        "Act as a resource for teammates with less experience",
+                        "In an Agile environment: Responsible for delivering high quality working software and automating manual/reusable tasks working directly, and engage with, the business from the beginning of the design work",
+                        "Leverage continuous engineering practices to deliver business value regarding effectiveness of the design",
+                        "Actively participate in refining user stories",
+                        "Responsible for design, developing, and maintaining automated unit testing, and supporting integration and functional testing",
+                        "Responsible for providing automated monitoring capabilities, providing warranty support, and providing knowledge transfer to production support",
+                        "Develop code in accordance with the acceptance criteria established by the Product Owner",
+                        "Ability to plan and manage projects and solve complex problems by applying best practices",
+                        "Walking",
+                        "Frequently (25% - 50% of the time)"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Truist Bank Jobs",
+                    "link": "https://careers.truist.com/us/en/job/TBJTBFUSR0091374EXTERNALENUS/iOS-Developer-II?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/bandwidth/jobs/6379115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GovernmentJobs.com",
+                    "link": "https://www.governmentjobs.com/careers/northcarolina/jobs/4738976/software-modernization-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HNTB Careers",
+                    "link": "https://hntb.jobs/raleigh-nc/gis-developer-iii/0C4BC92873BC480F92CC19E44628393E/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=2a96a037ceba163a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Comeet",
+                    "link": "https://www.comeet.com/jobs/vastdata/43.001/v-force-developer/8F.C2B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/VAST-Data/Job/V-Force-Developer/-in-Raleigh,NC?jid=dd7451418b9f6536&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobot",
+                    "link": "https://jobot.com/details/mid-sr-fullstack-developer/8f59b0e800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIElJIiwiY29tcGFueV9uYW1lIjoiVHJ1aXN0IEJhbmsiLCJhZGRyZXNzX2NpdHkiOiJSYWxlaWdoLCBOQyIsImh0aWRvY2lkIjoiVXIzLWNqUDIwTHNRaXZyV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJVRE5FVDBOdFIzWlBOWHBSTW5aRFlYSXdkVkZrY0ZwMU9EQmZjREE1ZFhaaVkwWkZNUzFIUVd0aVNGSlhjbEZvTkZaeVpUbG1kbTFaY1VGVk56UTBNVUUyVEdaTU56QktTV2xYUzA1ZmRqZHBRekJxV1RKV1FVazJXamxqZGw5S2VteFNUbWQzTjBodWMydDVNM2h2YldkRlFVczNaakJZV1VOb1MyZ3hTVEF0U0Zad2JHVkhNR1JYWVd4NE4zQnllbTFaZUhwcWVHd3RZMUJxV0Vaa1dESTRibkZXTXpkMVkycDJjbGRzU0VOdlpXZEpVRWRYWlY5Q2VraExNbm93VlZOdGNuQktTSGxQU3pGQmMzQmlkMk10T1dSSk9HSlRWa0ZHZVVZNGFFMTRPR2hGUmpjNWIzVlJlbWxzVTBWWlQzTTBXbXhZZEdzNFlWcFVValpKWWpkWVRrNVdjMVZpWlRCdGVVZG9SRlpCUjNaaU9ISnBaVWhZV1RkRU5teEpZMDlVU0ZkVVJHYzFWM0E0Y205RWVWaDZWMjQwUmt4d2FUWjRXVEkxVkVkWFNGZFhNemxIWjBkM05sSlFlbTV0YldZd1pFeEhTbVJzVEVoQkVoYzNVVGxVV2paTE5FMDNMVWgzT0dOUU1GQjFaVGhSWnhvaVFVWllja1ZqY1U1aVYwNHljV05vY1VVMFZuQjJWMmszU1hkWlNFZFBSblUzVVEiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&next_page_token=eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJVRE5FVDBOdFIzWlBOWHBSTW5aRFlYSXdkVkZrY0ZwMU9EQmZjREE1ZFhaaVkwWkZNUzFIUVd0aVNGSlhjbEZvTkZaeVpUbG1kbTFaY1VGVk56UTBNVUUyVEdaTU56QktTV2xYUzA1ZmRqZHBRekJxV1RKV1FVazJXamxqZGw5S2VteFNUbWQzTjBodWMydDVNM2h2YldkRlFVczNaakJZV1VOb1MyZ3hTVEF0U0Zad2JHVkhNR1JYWVd4NE4zQnllbTFaZUhwcWVHd3RZMUJxV0Vaa1dESTRibkZXTXpkMVkycDJjbGRzU0VOdlpXZEpVRWRYWlY5Q2VraExNbm93VlZOdGNuQktTSGxQU3pGQmMzQmlkMk10T1dSSk9HSlRWa0ZHZVVZNGFFMTRPR2hGUmpjNWIzVlJlbWxzVTBWWlQzTTBXbXhZZEdzNFlWcFVValpKWWpkWVRrNVdjMVZpWlRCdGVVZG9SRlpCUjNaaU9ISnBaVWhZV1RkRU5teEpZMDlVU0ZkVVJHYzFWM0E0Y205RWVWaDZWMjQwUmt4d2FUWjRXVEkxVkVkWFNGZFhNemxIWjBkM05sSlFlbTV0YldZd1pFeEhTbVJzVEVoQkVoYzNVVGxVV2paTE5FMDNMVWgzT0dOUU1GQjFaVGhSWnhvaVFVWllja1ZqY1U1aVYwNHljV05vY1VVMFZuQjJWMmszU1hkWlNFZFBSblUzVVEiLCJmY3YiOiIzIn0%3D&q=iOS+developer"
+    }
+}

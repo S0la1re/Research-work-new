@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "67530d43a9210b68061ee3cd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5fd540e8e67d2bb1/67530d43a9210b68061ee3cd.json",
+        "created_at": "2024-12-06 14:42:11 UTC",
+        "processed_at": "2024-12-06 14:42:12 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIFSXRhbHk&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/5fd540e8e67d2bb1/67530d43a9210b68061ee3cd.html",
+        "total_time_taken": 0.99
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Italy",
+        "location_used": "Italy",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}
