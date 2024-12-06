@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "675311d248c97df678912d2d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ab0542c1afb61d5f/675311d248c97df678912d2d.json",
+        "created_at": "2024-12-06 15:01:38 UTC",
+        "processed_at": "2024-12-06 15:01:38 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIKTHV4ZW1ib3VyZw&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/ab0542c1afb61d5f/675311d248c97df678912d2d.html",
+        "total_time_taken": 2.94
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Luxembourg",
+        "location_used": "Luxembourg",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

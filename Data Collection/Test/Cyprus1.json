@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "6753141b08abe4f594ad22f7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/23af0c77eea17715/6753141b08abe4f594ad22f7.json",
+        "created_at": "2024-12-06 15:11:23 UTC",
+        "processed_at": "2024-12-06 15:11:23 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIGQ3lwcnVz&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/23af0c77eea17715/6753141b08abe4f594ad22f7.html",
+        "total_time_taken": 1.07
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Cyprus",
+        "location_used": "Cyprus",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}
