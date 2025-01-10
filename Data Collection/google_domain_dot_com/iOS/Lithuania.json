@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "67530d7006f4f2b4672364f3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0f2b0d1ee3215d17/67530d7006f4f2b4672364f3.json",
+        "created_at": "2024-12-06 14:42:56 UTC",
+        "processed_at": "2024-12-06 14:42:56 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIJTGl0aHVhbmlh&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/0f2b0d1ee3215d17/67530d7006f4f2b4672364f3.html",
+        "total_time_taken": 0.47
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Lithuania",
+        "location_used": "Lithuania",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

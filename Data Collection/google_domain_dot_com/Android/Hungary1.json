@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "67531185316650b66c588b30",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/57832c666ba50c6e/67531185316650b66c588b30.json",
+        "created_at": "2024-12-06 15:00:21 UTC",
+        "processed_at": "2024-12-06 15:00:21 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIHSHVuZ2FyeQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/57832c666ba50c6e/67531185316650b66c588b30.html",
+        "total_time_taken": 0.36
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Hungary",
+        "location_used": "Hungary",
+        "google_domain": "google.com"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

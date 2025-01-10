@@ -1,0 +1,456 @@
+{
+    "search_metadata": {
+        "id": "67530dbce924567dac3d1b08",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d7d181784e4cec95/67530dbce924567dac3d1b08.json",
+        "created_at": "2024-12-06 14:44:12 UTC",
+        "processed_at": "2024-12-06 14:44:12 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICILTmV0aGVybGFuZHM&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/d7d181784e4cec95/67530dbce924567dac3d1b08.html",
+        "total_time_taken": 2.03
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Netherlands",
+        "location_used": "Netherlands",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+since+yesterday&uds=ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFhAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFhAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFhAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFhAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQkbEKegQIFxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQICxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIJxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Ios+developer+certification"
+        },
+        {
+            "name": "Job description",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU",
+                "q": "Ios developer job description"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=Ios+developer+job+description&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Ios+developer+job+description"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=c0970c810c32f6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co&udm=8&sa=X&ved=2ahUKEwjqkqLjsJOKAxXgI0QIHTIYBwQQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "Talisman Software",
+            "location": "Hoofddorp, Netherlands",
+            "via": "House Of Talent Job Board",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=jJNl-KAjv3VEUvuXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKOw7CMAwAULH2CEwemPg0CIkFViQQAwxlr9zEbYLSOIot6DE4MrC86VWfWbUI9wZO9KLImQps4ModCGGxHjjBmXmIND961SwHY0RiPYiiBltbHg0n6ngyT-7kTyseC-WISu1uv53qnIbl6oExyIgJGu71_QsQElyYe-e45DXcSD2ViMnJF1mKuSWTAAAA&shmds=v1_AXX-3kELHS-3Mzlt9bUhs7GTlxmXcw94vW1dApfZZTVDW7td5g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=jJNl-KAjv3VEUvuXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3fb06e2436203d533ebbbea44c0156905420c88493219235e6.png",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "For one of our clients in the retail we are looking for a freelance:TItle: iOS DeveloperHours: 38 hours per weekLocation: Hoofddorp and remote01.12.24 - 31.03.2025 (extension anticipated)We are looking for a temporary fulltime iOS developer/Mobile Developer who can start as soon as possible. In your role you will work in a small team, which will be in the office at Hoofddorp on Wednesdays and once a month in Zwaagdijk. This means you must be proactive, independent and flexible in your work. We are looking for someone with at least 7 years experience in a similar role.Daily activities:Develop and maintain new features for the company's app and websiteWork closely in a small multidisciplinary team together with a PO, scrum master, web developers, UX/UI, and QA engineersParticipate in the planning and execution of sprints and releaseMust have requirements:At least 7 years experience in developing iOS appsExperience with Swift and SwiftUIExperience in working in multidisciplinary teams with PO, Scrum Masters, Web Developers, UI/UX and QA engineersProactive and productive approach to team communicationExperience in fast-paced, high pressure and tight deadlinesBSc. or MSc. degree in Computer Science, Engineering, or other related areaNice to have:Strong affinity for UI/UXExperience with Android, web or Backend DevelopmentLocatie:Noord-HollandAanstelling:TijdelijkUren:36-40uurErvaring:HBOCategorie:Tijdelijk",
+            "apply_options": [
+                {
+                    "title": "House Of Talent Job Board",
+                    "link": "https://talent.thenextweb.com/job/ios-developer-WkhbfXcbVH-at-talisman-software-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiVGFsaXNtYW4gU29mdHdhcmUiLCJhZGRyZXNzX2NpdHkiOiJIb29mZGRvcnAsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJqSk5sLUtBanYzVkVVdnVYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "iOS Developer & Mobile Team Lead",
+            "company_name": "Talk360",
+            "location": "Amsterdam, Netherlands",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=i2z4LtuiGO4L8vnOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CE7n4iDaFMUKOgmCIP4Mdi-X9miiSS7kgvRVfFvxG77iOyl29vGEE33IcaQEc7ixto6gIfRwJexhBRfWIISpM8ABzsyDo-nB5Bxlr5SIKwfJmG1XduwVB9I8qhdr-deKwUTRYaZ2va3GMoZhMWvQvTd1BTbA0Uum1KNfwp2yoeQw9PIDc-5nK5wAAAA&shmds=v1_AXX-3kEDqA5UKrk_ZP2xxNCyrLr7-65EAQzEeLwAPdcZfjovVw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=i2z4LtuiGO4L8vnOAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3fea341c195ad12273775c9e3c7f0ae21ad1fca6371687b360.jpeg",
+            "extensions": [
+                "25 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Are you an experienced iOS developer ready to level up and lead a mobile team? This unique role combines hands-on iOS development with the responsibilities of a Mobile Team Lead. Here’s why this two-in-one opportunity is designed for impact:\n• Smooth iOS sailing: Our iOS app is clean, well-built, and scalable, so your main focus will be on adding new features rather than battling legacy issues.\n• Android rules our world: About 80% of our users are on Android (hello, African communities!). Naturally, this makes Android a big focus for us, with iOS playing a more selective supporting role.\n• Platform quirks: Android offers calling features that iOS just doesn’t, so enhancements for iOS tend to be fewer but impactful.\n\nThat’s why we’ve combined iOS development with Mobile Team Lead—where you’ll guide the whole mobile team’s journey across platforms.\n\nAs our Mobile Team Lead, you’ll guide the mobile team, work with our Android dev Vahagn and frontend dev Isah and collaborate with our Product Owner Pedro to define the vision for both iOS and Android apps. You’ll own the user experience across the board and help bring exciting new features to life.\n\nIf you’re excited to level up, lead, and make an impact across platforms, we’d love to have you onboard!\n\nWho is Talk360?\n\nAt Talk360, we are dedicated to connecting the world, enabling reliable and affordable international calls to any phone, anywhere, without the need for the recipient to have internet, the Talk360 app, or even a smartphone. Our technology bridges the gap for over 41% of the global population without reliable internet access, particularly focusing on African communities worldwide by allowing calls to both online and offline numbers. Join us in our mission to build a brighter, more connected future for all, one line of code at a time.\n\nWhat you’ll do:\n• Serve as the Mobile Team Lead, overseeing both iOS and Android app development and quality.\n• Lead end-to-end development and maintenance of Talk360’s iOS app, ensuring reliability and scalability.\n• Collaborate with Vahagn & Isah, our Android developers, to maintain feature uniformity and code quality across platforms.\n• Drive technical specification and refinement processes across the tech teams, ensuring clear, actionable requirements and alignment with the broader product vision.\n• Write, test, and maintain clean, modular, and high-quality code.\n• Troubleshoot and resolve issues to maintain app performance and user satisfaction.\n• Continuously improve the apps, incorporating user feedback and best practices.\n• Document app architecture and uphold technical standards across the tech stack.\n• Manage CI/CD pipelines, source control, and app release processes.\n• Lead the mobile team of 2 developers, promoting a high-performing, diverse environment\n\nYou will be working with our CTO, Tom, our Android Developer Vahagn, Frontend Dev Isah, as well as the rest of the tech team: Backenders Alex, Yahaya & Oleg, our QA Feyi and Pedro, product owner.\n\nWho You Are:\n• Proficiency in iOS development using Swift\n• The ideal candidate is already familiar with Android coding too (Kotlin, using Android Studio)\n• Maintain & extend automated app testing using Appium\n• Strong problem-solving skills and attention to detail\n• Excellent communication and teamwork abilities\n• Ability to work in a startup & dynamic environment\n• Ability to write clean, updated, and scalable code\n• Ability to troubleshoot and resolve errors independently\n• High level of knowledge of Agile/Scrum methodologies and tools such as Jira\n• Up to date knowledge of the latest trends and technologies in iOS app development.\n• Creative problem-solving ability to develop new technology solutions to meet the needs of the business and to debug and resolve development issues efficiently.\n\nYour Impact:\n\nLead our mobile team and continuously improve an already successful app that is currently used by over 200.000 users every month in about 190 countries. You directly shape our users’ experience and are responsible for all future development of our App. You are also responsible for keeping our mission going as you're helping to connect African communities with their friends and family.\n\nDid we mention these other great things?\n• Many growth and learning opportunities.\n• Personal development budget, also for non-job-related opportunities.\n• Company Laptop.\n• Monthly phone allowance.\n• 25 vacation days annually\n• Commute allowance\n• Monday afternoon Zwieri (cake & tea/ coffee), Thursday drinks + games\n• Loads of autonomy\n\nWork with diverse & multicultural colleagues - we have Talketeers all over the world, such as South Africa, Nigeria, Kenya, Suriname, Turkey, Egypt, and the Netherlands.\n\nDo you want to be part of our journey? We can’t wait to meet you! Please share your resume.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=6f6989b3ae1f1cf0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs At Talk360 Globally",
+                    "link": "https://talk360.recruitee.com/o/mobile-ios-team-lead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted.nl",
+                    "link": "https://www.jobted.nl/job/480f36d640164a39197776b3ebbb4ed3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/nl-north-holland-amsterdam-ios-developer-mobile-team-lead-talk360?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFx1MDAyNiBNb2JpbGUgVGVhbSBMZWFkIiwiY29tcGFueV9uYW1lIjoiVGFsazM2MCIsImFkZHJlc3NfY2l0eSI6IkFtc3RlcmRhbSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6ImkyejRMdHVpR080TDh2bk9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Move",
+            "location": "Zwolle, Netherlands",
+            "via": "Move Agency",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=qGmJ18Ud8kAsMtUfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvE3TJ4CTaiuDirYIgqIOby9HW0FZiU5pw3uini2943XfWLfPtDkcckbhigw2c2YOgayEBFzgxR8J5n1SrHKwVIRNFneZgAr8tF_Q82Rd7-TdIcg0rOcVht99Oppa4Wlx4RMgFHh8mwjVcURM2cuUpP0Hkz4eDAAAA&shmds=v1_AXX-3kHPNzdaNFqV2Su2yFW3CZK_XPU3I1ENU5HRVbJAxp8_6w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=qGmJ18Ud8kAsMtUfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3f04b44cbff7eea9312f413144c00bd4a022aa1e59ec4425b7.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Well-known brands ask our agency to help them create the best app because we are the experts. In the position of an experienced iOS Developer, you have the knowledge and experience to build quality apps from project inception to release. You have at least 4 years of experience in iOS development.",
+            "apply_options": [
+                {
+                    "title": "Move Agency",
+                    "link": "https://www.moveagency.com/en/vacancies/ios-developer-zwolle?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTW92ZSIsImFkZHJlc3NfY2l0eSI6Ilp3b2xsZSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6InFHbUoxOFVkOGtBc010VWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "iOS Developer Swift",
+            "company_name": "CONG",
+            "location": "Utrecht, Netherlands",
+            "via": "CATSone",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gKGrmYKm8cqQ9PybAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CeJwc9FEBBcdKxQc2qE4lySeSSTmQu7Q_oG_Lb7hNd9V08Zxggu-MVHBCtMnPgR2cCULjKa6AJShJ_IJ1-cgUvikNXNSnsVIdMrRS1NGS4t-kuV_MwdTsSQjOB-O-0WV7NtNNw49xAw3qeiCbGFACViTyXf-ATMzdQeKAAAA&shmds=v1_AXX-3kGCro2hbBydP5HtOXFwMTBxUgkpy312y8j2uvS65Tf-NA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gKGrmYKm8cqQ9PybAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "This team fully runs and hosts a mobility app that's being used by millions of travelers in The Netherlands. This means that you can easily switch front to back end and you can quickly develop and test new functionalities. You have all the freedom to experiment with iOS technology.\n\nWHERE YOU WILL LAND\n\nHere, you can make a difference in the world of sustainable mobility. You are part of an organization that is at the heart of society and that sets the Netherlands in motion.\n\nYou will work in an independent team (2 sub-teams) consisting of: 4 Android developers, 4 iOS developers, 3 backend developers, a DevOps engineer, 2 UX/Visual designers, 2 Mobile QA testers, a touchpoint specialist, a scrum master and the Product Owner. The team members brainstorm about great solutions, work hard together and pioneer in their own field and beyond. You will be busy with what you love to do: developing {{designing}}.\n\nABOUT YOU\n\nYou're an experienced developer with preferably a Bachelor’s or Master’s degree in Computer Science or a related field with several years of experience in iOS development. And you're a fast learner. You spot opportunities for improvement and you take others along with you. Important elements in Agile working such as collaboration, responding to change and delivering short cyclical value suit your way of working. You have good communication skills and you show decisiveness and dare to make decisions.\n\nYou have:\n• Over 4 years of experience with iOS applications in Swift;\n• Experience with Reactive ad Functional programming, preferably with RxSwift;\n• Experience with MVVM;\n• Experience with AutoLayout in code;.\n• Experience with CI/CD.\n\nIt would be very nice if you:\n• published your own iOS app;\n• are interested in the latest Apple ecosystem developments.\n\nTools you use:\n• Xcode\n• Figma\n• Git\n\nYou're eager to learn and curious. You look at new methods and techniques like Combine, SwiftUI, Apple Watch. You enjoy reading technical blogs and visiting tech conferences and meetups.\n\nYou transfer your knowledge and are open to learn new things:\n• The team is highly tech skilled, members can cover each others work;\n• This means a constant transfer of skills and knowledge. Like new techniques, new tooling or a solution you just built.\n\nWHY JOIN?\n• You participate in a mobility app, used by millions of travelers in The Netherlands.\n• You will join a multidisciplinary team and you will be given the freedom to experiment with new Apple technology.\n\nWE OFFER\n• An steady working environment where everyone is treated equally;\n• Office within a 5 minute walking distance from Utrecht CS;\n• An attractive salary and free train travels through The Netherlands;\n• Full support to enjoy a good work-life balance;\n• Relocation package; 2 night stay in our CONG HOME Hotel, Visa, Housing, financial & fiscal support;\n• CONG Club Membership, being part of our global Tech, Digital, Data support network.\n\nABOUT CONG\n\nHi, we are CONG! We aren't just about bringing modern organizations together with the best developers, creators, makers and builders – CONG is a lifestyle! We facilitate, inspire and transform, while at the same time putting great importance on (job) satisfaction. That’s because people are more creative, more innovative and stronger when they’re feeling happy. We bring out the best in people, projects and organizations because the best results then follow. That’s why we are here, for you. That’s what makes us feel good!",
+            "apply_options": [
+                {
+                    "title": "CATSone",
+                    "link": "https://cong.catsone.nl/careers/5789-General/jobs/758386-iOS-Developer-Swift?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFN3aWZ0IiwiY29tcGFueV9uYW1lIjoiQ09ORyIsImFkZHJlc3NfY2l0eSI6IlV0cmVjaHQsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJnS0dybVlLbThjcVE5UHliQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Move Agency",
+            "location": "Amsterdam, Netherlands",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=XR2Co0CmvyQZoaWbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAGYFz7CE436CLaiOCiU0EQBHXwAUqa_iSVNBdyR6mv4FOL3_BV30W1Gp4vumBC5IxCO7pxRwJbXCBOdGX2EctzUM1yMkYk1l7U6uBqx6PhhI5n8-ZO_rUSbEGOVtEejvu5zslv1neeQI1Hch8aEjWjKEpvxy09oAEl2tTLD40vQPeNAAAA&shmds=v1_AXX-3kGCdohXeyFHzY04VzWmbG9NeMLCFLvrf57Ny5V227SNdQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=XR2Co0CmvyQZoaWbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3f51c4440558b9ba38fee2949387d9f032b7694589a9581dcb.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "What you will do\n\n‍Inthe position of iOS Developer, you have the knowledge and experience to build quality apps in SWIFT. With the release date of the app in mind, your experience gives you insight and overview of a project and you look ahead. You know which features need to be picked up first and you easily interact with both internal and external stakeholders. In this role, you are in the lead of the iOS project and you strive for the best result. With this mindset, you will contribute to developing the best apps for our customers. ‍\n\nIn addition to technical expertise, you bring a genuine passion for mobile development, contributing as an engaged team player and a talented developer who thrives in a collaborative environment and possess analytical skills.\n\nWhat you have\n• A completed college education in the direction of Software Development\n• At least 4 years of experience developing iOS applications\n• Experience with Swift and you are constantly up to date with the latest language features.\n• Lots of experience writing Unit tests and you can apply TDD at appropriate times\n• Good command of the English language\n\nWho we are\n\nWe are Move, the Netherlands' leading Mobile First Agency with offices in Amsterdam and Zwolle. We've been pioneering since the very beginning of the mobile era. Our goal? To make an impact for the end users of our ambitious clients, including Rabobank, Timing, Univé, ENGIE, EasyToys and international airports like Hong Kong Airport and Dallas Fort Worth Airport. We do this with a team of 150 people who are curious about new technology and about their own possibilities. We give you all the freedom and confidence you need to discover them.\n\nThe application process\n\nAre you ready for your next Move? Then fill out the form at the bottom of the page. Within five business days, one of our recruiters will contact you by phone. Does it click? Then we'll schedule an online introduction. The next step in the process is an introduction at our office. Does it still click? Then we will make you an offer. Contract signed? Yes! Time to get movin'.\n\nWe do not appreciate acquisition in response to this vacancy.\n\nGood to know\n\nUnfortunately, Move Agency does not offer visa sponsorship.\n\n‍\n\nWhat we offer\n• Inspiring environment with a focus on technological innovation\n• Multidisciplinary teams that exchange a lot of knowledge among themselves\n• Open culture with attention to one another\n• Market-based conditions: salary, pension, 27 days off with option to buy extra, travel and home office allowance, laptop, phone & lunch",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=79d8f65e7106374b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://nl.bebee.com/job/99a52b13f2f9acd7662020b26b7a8157?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted.nl",
+                    "link": "https://www.jobted.nl/job/880030317892d5c53040095fb50d83e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.cathojobs.com",
+                    "link": "https://www.cathojobs.com/nl/jobad/1074e0545ec29b88/9307679650/8282504725/ios-developer-amsterdam.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTW92ZSBBZ2VuY3kiLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJYUjJDbzBDbXZ5UVpvYVdiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Social Deal",
+            "location": "'s-Hertogenbosch, Netherlands",
+            "via": "Werken Bij Social Deal",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=lDGpMcEGYFV3KnT1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43CIK0jQguugqKgw79gJLEI0k5cyF3SH_DP7Yub33Nd9Vs0nOAC36QuGCFDu7sQNBWH4EzXJkD4focVYucjBGhPohaTb73_Dac0fFsJnbyZ5RoKxayiuPhuJ_7ksOuHdgnS8uykDJspbthVQ6YHYuPLTxQI1ay-SU_Jj_wf5QAAAA&shmds=v1_AXX-3kFZE3s3xBJ_8m6VHcjh1Oz4yGt77WXEtKMqkJVK8Gv-Zw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lDGpMcEGYFV3KnT1AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Waar houd je je zoal mee bezig als iOS Developer bij Social Deal?\n• Je maakt onze native apps voor iOS\n• Je denkt nieuwe features uit en bouwt deze\n• Je voert design changes door en lost eventuele bugs op\n• Je prioriteert je eigen werk in samenspraak met je team en met de Product Owner\n• Je presenteert demo’s aan stakeholders, zoals de directie en andere afdelingen\n• Je overlegt elke dag met andere iOS en Android Developers, onder andere over het tackelen van bugs voor een optimaal eindresultaat en het invoeren van nieuwe features\n\nMet wie ga je dat doen?\n\nJe komt terecht in een gezellig team developers. Vaak wordt er serieus en geconcentreerd gewerkt, maar er is ook zeker ruimte voor een geintje. Een biertje en borrel staan regelmatig op de planning.\n\nCollega iOS Developer Jeroen van Rijn:\n“Als iOS Developer bij Social Deal werk ik samen met een gezellig team aan toffe nieuwe features en verbeteringen. Niet alleen voor de consument maar ook om ons eigen werk makkelijker te maken. De aanpassingen die wij doen hebben direct impact op de honderdduizenden dagelijkse gebruikers. Dit maakt het werk natuurlijk extra leuk en uitdagend.\"\n\nWat vinden wij belangrijk?\n• Dat jij met plezier naar je werk gaat!\n• Ruime kennis van iOS en Swift 5\n• Dat je ervaring hebt met design patterns, zoals MVVM en MVC\n• Kennis van Android, Java en Kotlin is een pre\n• Flexibiliteit. Je kunt snel schakelen tussen verschillende werkzaamheden en kunt taken van teamleden oppakken waar nodig\n• Dat je ad hoc kan reageren op de behoeften van onze consumenten\n• Dat je probleemoplossend en zelfstandig te werk gaat en een echte teamplayer bent\n• Dat jij uitdaging bij ons vindt en jezelf blijft ontwikkelen! Daarom is er elke vrijdagmiddag een Hackathon waarin je jouw eigen ideeën kunt uitwerken\n\nWat krijg je van ons?\n• Een salaris passend bij jouw werkervaring, 8% vakantiegeld, reiskostenvergoeding en pensioenopbouw\n• 25 betaalde vakantiedagen en de mogelijkheid om 25 vakantiedagen onbetaald op te nemen (o.b.v. fulltime)\n• De mogelijkheid om (gedeeltelijk) thuis te werken\n• Een arbeidsovereenkomst voor 32 tot 40 uur per week bij een van de snelst groeiende internetbedrijven van Nederland. Wist je dat Social Deal 2 keer op een rij is uitgeroepen tot Beste Werkgever door Indeed?\n• Gezamenlijke lunch verzorgd door een topcateraar, gratis gebruik van onze gym, een gameroom voor de nodige ontspanning en vrijdagmiddagborrels aan onze eigen bar of op ons dakterras!\n• 10% korting op alle Social Deals\n• Legendarische feesten, unieke evenementen, teamuitjes en gezellige borrels\n• Gratis de allertofste Deals, speciaal voor medewerkers; van sportlessen tot proeverijen en van massages tot workshops. Alles met de focus op teambuilding, persoonlijke ontwikkeling en natuurlijk ontspanning\n• Een werkplek die aan al je verwachtingen voldoet in een schitterend kantoor op een toplocatie in ’s-Hertogenbosch, direct achter het Centraal Station\n\nMeer over Development binnen Social Deal\n\nDe afgelopen tijd zijn we druk bezig geweest met het opzetten van compleet nieuwe native apps en het doorvoeren van een nieuw design in de Social Deal-app. Daarnaast werken we altijd aan nieuwe features, zodat we de concurrentie voor blijven en de app optimaal werkt! Elke minuut worden er gemiddeld 20 vouchers verkocht en jij zorgt er met je team voor dat het koopproces via de app soepel verloopt. Daarnaast werken jij en het team nauw samen om ambitieuze deadlines te halen.\n\nDenk jij dat jij de persoon bent die wij zoeken? Mooi! Stuur dan een e-mail inclusief CV, motivatie en foto naar jobs@socialdeal.nl óf klik HIER om direct te solliciteren!\n\nBinnen vijf werkdagen krijg je van ons een reactie! Heb je nog vragen? Bel of app dan met onze Recruiter Sanne via 088-2050508.",
+            "apply_options": [
+                {
+                    "title": "Werken Bij Social Deal",
+                    "link": "https://werk.socialdeal.nl/o/ios-developer-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU29jaWFsIERlYWwiLCJhZGRyZXNzX2NpdHkiOiIncy1IZXJ0b2dlbmJvc2NoLCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoibERHcE1jRUdZRlYzS25UMUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "iOS development internship vacancy",
+            "company_name": "DTT Multimedia",
+            "location": "Amsterdam, Netherlands",
+            "via": "D-Tt.nl",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HMFvds_bbwjVP7zSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43imgrgoM6CYIgqIPdyzU9mkiSC7mz1N_xS63LW1_xnRV793hCRwN5ToGigotKOYp1CQY0GM0H1nDlFoQwGwsc4cLce5ofrWqSQ1WJ-LIXRXWmNBwqjtTyWL24lT-NWMyUPCo1291mLFPsl4tzXcPt7dUF6hxOLZyCTHWHYQV3UkvZY-zkB2vZCdKlAAAA&shmds=v1_AXX-3kGVCAn-Wp7-7mj70S-prhZ6naHM_eBw_e96N4ouwFHLDQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HMFvds_bbwjVP7zSAAAAAA%3D%3D",
+            "extensions": [
+                "Internship"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Internship"
+            },
+            "description": "Do you want to work for an app development company in the center of Amsterdam? DTT is looking for an iOS development intern. We make apps for clients like Randstad, Greenpeace, ING and more. Do you have experience with Swift and programming in Xcode and do you want to develop apps as well as develop yourself as a professional? Then you are the iOS development intern we are looking for.",
+            "apply_options": [
+                {
+                    "title": "D-Tt.nl",
+                    "link": "https://www.d-tt.nl/en/vacancies/ios-developer-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgZGV2ZWxvcG1lbnQgaW50ZXJuc2hpcCB2YWNhbmN5IiwiY29tcGFueV9uYW1lIjoiRFRUIE11bHRpbWVkaWEiLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJITUZ2ZHNfYmJ3alZQN3pTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Mobile App Developer",
+            "company_name": "Miniclip",
+            "location": "Zoetermeer, Netherlands",
+            "via": "Miniclip Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=-udNce-_T_9t1sL6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEPQoCMRAGUGz3CFYDdv4kIthoJQiCsB7AZknixyYymwmZIHsLryy-4nXfRbfpxScGXUqhKz5gKai0o7t4UrgaIkmmm8jIWJ5ja0VP1qqyGbW5loIJMlnJ8DLbt3j9N2h0FYVdw3A47mdT8rhe9SmnwKlQyvQUNNQJqFt6oEVUdvmlP_37kpySAAAA&shmds=v1_AXX-3kGzlDbs6QqJLJ2VOYwwDqkpMHF7kQHyY9CYM4t78xGkPw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=-udNce-_T_9t1sL6AAAAAA%3D%3D",
+            "extensions": [
+                "12 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nWorking at Miniclip means working at a world-class studio. As Mobile app developer you will be working on new features, bug fixes and maintenance of Online Soccer Manager (OSM). The game is played by 6 million people worldwide every month and you will help this number to grow. Are you that developer who can perform at world-class level, wants to improve himself every day and help the team to an even higher level?\n\nWhat will you be doing at Miniclip?\n\nAs a Mobile app (iOS/Android) developer, you will work together in a multifunctional SCRUM team to develop OSM's iOS and Android app. Your team includes experienced game developers, as well as software engineers, a scrum master and a product owner, working with a shared passion to provide the best possible gaming experience for our players.\n\nAdditionally:\n• Among other things, you bear responsibility for doing code checks on your team members' work;\n• You are strong in translating creative designs into technical solutions;\n• You always stay on top of the latest developments in the field of app development and you are only too happy to share this knowledge with your colleagues;\n• It goes without saying that you enjoy actively contributing content to the scrum meetings: daily scrum, retro, planning, refinement and review\n\nWhat are we looking for?\n• Academic working and thinking level\n• At least one year of working experience with native iOS and/or Android development;\n• Knowledge of the Swift and/or Kotlin language;\n• Pre: experience in the game industry.\n• The ambition and interest to keep developing yourself and become the expert in your field\n\nAbout Miniclip\n\nMiniclip is a global leader in digital games and one of the world's biggest developers and publishers of mobile games, with a mission of unleashing the gamer in everyone. It distributes highly engaging games to a global audience of over 400 million monthly and 70 million daily active users across mobile, social, and online platforms. Operating in 10 countries, Miniclip develops and launches games in multiple categories across its 17 studios.\n\nFounded in 2001 with an internationally recognised brand name, Miniclip has successfully grown a global audience across 195 countries and six continents. It has a unique understanding of the digital games space, developing and distributing a strong portfolio of over 60 high-quality mobile games globally.\n\nTo date, Miniclip’s studios and companies, which have generated more than 8 billion downloads, include the following digital games: 8 Ball Pool™, Subway Surfers™, Golf Battle™, Football Strike™, Carrom Pool™, OSM - Online Soccer Manager™, Football Rivals ™, Pure Sniper ™, Puzzle Page ™, Head Ball 2™, Motorsport Manager™, Darts of Fury™, Ultimate Golf™, Mini Football ™, Triple Match 3D ™ and Agar.io™.\n\nFor more information, visit https://miniclip.com/",
+            "apply_options": [
+                {
+                    "title": "Miniclip Careers",
+                    "link": "https://careers.miniclip.com/job/Zoetermeer-Mobile-App-Developer/960763855/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/mobile-app-developer-at-miniclip-3926813631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vindazo",
+                    "link": "https://www.vindazo.nl/job/viewjob/34028633/crossed-mobile-developer-7106-14318.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/nl-south-holland-zoetermeer-mobile-app-developer-miniclip-sa-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1pbmljbGlwIiwiYWRkcmVzc19jaXR5IjoiWm9ldGVybWVlciwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6Ii11ZE5jZS1fVF85dDFzTDZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Medior Mobile Developer (iOS)",
+            "company_name": "Appical",
+            "location": "Amsterdam, Netherlands",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=MzDez1S8EmNNzU4bAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU7npqKNiF10KgiCUB38gHJJjyZyzYVckH6J3yu-4VXfRXXqaAiSoRMbmOBKH2JJlGEdnq8N7OEuFpQwOw8S4SYyMi0vvpSkZ2NUuR61YAmudjIZiWRlNm-x-q9Xj5kSY6H-2BzmOsVxu2pTCg4ZQoR20kJ5wGkHDyqeMmMc9AfMtF7SmQAAAA&shmds=v1_AXX-3kHa7JY2kl9q2iVPFzHf3_DCFbS2fUxTXl4K6RYHPhQJow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=MzDez1S8EmNNzU4bAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3f0faf339cf8011a850f45607885c73ba00f3b618f507a2b4e.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Appical is looking for a Medior Mobile Developer (Swift) to join our Product & Development team.\n\nWho are we?\n\nAppical, a leading European onboarding platform and a proud part of the Visma family, is dedicated to optimizing the employee experience through technology. We offer organizations streamlined workflows and simplified onboarding journeys. Amidst our rapid global expansion, we're seeking a dynamic Medior Mobile Developer with expertise in Swift and/or Kotlin to enhance our versatile development team. Our mission is to ensure our innovative onboarding solutions continuously meet our customer's evolving needs.\n\nAs part of Visma, a top cloud software company in Europe, Appical benefits from a vast network that actively champions improvement and efficiency in business processes across a range of sectors. Primarily commanding a strong foothold in the Scandinavian, Benelux, Central, and Eastern Europe regions, Visma stands as a titan in the software industry.\n\nMobile App Technology Stack\n\nProgramming Language: Swift\n\nFrameworks: UIKit, Core Data, Core Animation, SwiftUI\n\nDevelopment Tools: Xcode, Interface Builder, Instruments, CocoaPods, Swift Package Manager\n\nArchitectural Patterns: MVC, MVVM, Clean Architecture\n\nOverall Technology Stack\n• Frontend: React (TypeScript, JavaScript)\n• Backend: Ruby on Rails\n• Database: PostgreSQL\n• API: RESTful APIs\n• DevOps: CI/CD (GitHub, CircleCI)\n\nLocation: This role is based in the Netherlands, and it is essential for our team member to work closely with our Dutch office.\n\nEligibility: Candidates must be residing in the Netherlands. A valid EU working permit is a prerequisite to ensure compliance with local employment laws.\n\nKey Job Responsibilities 🧐\n• Develop and maintain clean high-quality, responsive, and performant mobile applications using Swift for IOS.\n• Translate design mockups and wireframes into mobile applications that are both user-friendly and aesthetically pleasing.\n• Work closely with front-end and back-end developers to integrate APIs and other services into the mobile applications.\n• Prioritise application performance and work towards optimising it for scalability and efficiency.\n• Conduct comprehensive functional tests to ensure the reliability and quality of mobile applications.\n• Engage in code reviews to foster high standards of code quality and adherence to best practices.\n• Stay abreast of current trends and advances in mobile development, including new tools, languages, and libraries.\n• Collaborate with cross-functional teams to ensure successful project execution and product launches.\n• Participate in planning and execution of sprints and releases.\n• Document mobile development processes, guidelines, and standards.\n• Mentor junior developers and help them grow their skills and knowledge.\n• Provide guidance and support to team members as needed.\n\nExperience and technology requirements:\n\nWe are eager to onboard a professional with at least 4+ years in mobile development, specifically skilled in:\n• Mastery of Swift, with a proven track record of deploying to iOS platforms.\n• A strong grasp of mobile development principles, including responsive design and mobile optimization.\n• Experience with URLSession, Alamofire, RESTful APIs to connect iOS applications to back-end services.\n• Understanding of memory optimization, optimization techniques, and best practices for mobile development.\n• Proficient with XCTest, UI Testing, unit testing, E2E testing and debugging in Xcode.\n• Background in Agile development methodologies.\n• Experience and knowledge of CI/CD such as CircleCi, GitHub Actions etc.\n• Knowledge of UI/UX standards and ability to implement designs provided by designers.\n• EU work and residency permit.\n• Knowledge of mobile security best practices.\n• Understanding of App Store Connect, provisioning, certificates, and release management.\n• Familiar with Keychain, encryption, OAuth, and secure authentication methods.\n\nAdvantages:\n• Knowledge and experience in Android(Kotlin) mobile development.\n• Degree in Computer Science, Engineering, Information Systems, or related fields.\n• Knowledge of microservices architecture and design patterns.\n\nPersonal Skills:\n• Proficiency in English (B2+ level).\n• Curiosity and a passion for solving complex problems through innovative solutions.\n• Exceptional communication and collaboration skills, thriving in team environments.\n• Ability to juggle multiple projects and meet deadlines effectively.\n• Supporting the team and collaborating at a technical level to deliver scalable projects.\n\nYour benefits 🎉\n\nYou will be working for an innovative and creative company with great ambitions, we recently became part of the Visma group.\n• You will be part of an organization of approximately 50 inspiring and talented colleagues;\n• A dynamic fulltime position (32 - 40 hours);\n• A competitive salary ranging from €3,750 to €5,000 per month (depending on your profile);\n• A beautiful office situated in the vibrant city of Amsterdam. Currently located in NDSM, Amsterdam North, our office will be relocating in February to the dynamic Pand Noord on the Meeuwenlaan.\n• An open culture with a lot of freedom and room for initiative;\n• Pension scheme and travel expense reimbursement;\n• A high-performing Alienware laptop;\n• Possibility to participate in OneFit (company fitness) with a discount;\n• We care about your (mental) well-being. That's why you have the option to engage with OpenUp for big or small challenges in your life. Work related or not;\n• The option to work in a hybrid manner;\n• Daily delicious and healthy lunch provided by Appical;\n• A Fun Committee that regularly organizes amazing activities such as sports events, drinks, and themed parties. At Appical we have a friendly and supportive company culture and we will do our best to make you feel welcome.\n\nJoin Appical to be part of a nurturing environment that values innovation, creativity, and team spirit above all. Let's advance together in making Appical not just a workplace, but a place to grow and thrive.\n\nSounds good right?!\n\nAre you interested in joining our team as our new Medior Mobile Developer? If so, we'd love to hear from you! Please click here to apply.\n\nA pre-employment screening and (online) assessment may be part of the procedure. We kindly request that acquisition as a result of this advertisement is not appreciated, as we will be filling this vacancy internally without the involvement of external agencies.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/medior-mobile-developer-ios-at-appical-4089345358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Otta",
+                    "link": "https://app.otta.com/jobs/05Kbi59A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Jungle - Welcome To The Jungle",
+                    "link": "https://app.welcometothejungle.com/jobs/05Kbi59A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HubMub",
+                    "link": "https://www.hubmub.com/jobs/72772/medior-mobile-developer-ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNZWRpb3IgTW9iaWxlIERldmVsb3BlciAoaU9TKSIsImNvbXBhbnlfbmFtZSI6IkFwcGljYWwiLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJNekRlejFTOEVtTk56VTRiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "IOS App developer",
+            "company_name": "LOAVIES",
+            "location": "Zwolle, Netherlands",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=ILcVTRJ7rXHGKLlfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5yo4gmIrjo1EGkInYoOLiUJD2SypkLuaD9A39bfMOrvrNq2bQd1CnBgG8kTphhAxe2IGiyC8ARzsyecH4MpSQ5aC1CyksxZXTK8UtzRMuTfrKVf70EkzGRKdjv9ttJpehXi2tb35tTB2OEx4eJcA03LAEzmTjID78nWu2KAAAA&shmds=v1_AXX-3kEgEQbcV4XiEK68UZtAptDjiFrqT1urRSlAyJOZjGyq7A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=ILcVTRJ7rXHGKLlfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530dbce924567dac3d1b08/images/f13af7d7f5aaba3f65abfb1d3b3d43c054e2cc1fca5fc274c0af31f9a079e800.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Do you want to inspire the young fashion-minded to be awesome, proud, and confident? Within our development team, we set the bar high and are very ambitious. We have big projects planned and we want to work together on our platform. Annually, together we service about 20M+ visitors and provide 1M+ customers with the best possible customer experience. As a IOS App Developer, you'll be part of team IT and based at our HQ in Zwolle with incredible & Talented colleagues. Ready to join us on this journey?\n\nYOU GOT IT!\n\nLet your talents shine brightly! As App Developer each day you will participate in the team stand-up to share what cool challenges you are facing today and if you need help. Your focus is to further develop the new LOAVIES app based on certain requirements, you work from a team board (Kanban) where you research or directly execute tasks in sequence, test and implement. You review code from your colleagues on a daily basis and maintain and improve the LOAVIES app based on business objectives and your own insight. You will regularly participate in discussions with the team regarding the approach and business rules. You will become part of our own in-house development team with fun and experienced development colleagues. There is space and budget for development in what you think is cool and what you feel good about!\n\nBRING YOUR AMBITION\n\nAre you excited to grow with us and ready to take it to the next level at LOAVIES? We hope you bring these skills and experiences with a positive & ambitious attitude:\n• You get excited about building apps!\n• You have extensive experience in building comprehensive apps;\n• You have extensive experience with the programming languages to build native IOS apps (Swift,Swift UI);\n• A plus if you also have experience with e-commerce apps;\n• Good to know: Working from our office in Zwolle at least 3 days a week. Fully remote working (outside EU) not possible\n\nTHIS IS LOAVIES\n\nLOAVIES is driven by its purpose; to inspire the young fashion-minded to be awesome, proud, and confident. As a social media-minded fashion brand, we’re fast, flexible & fierce. With weekly new drops, we love to set the trends. There’s nothing we can’t do: we always bring our A-game. We believe teamwork makes the dream work. Only together can we achieve the most awesome goals ever! We’re focused on international expansion and already have quite a presence in the Netherlands, Belgium, and France. With over one million highly active customers, we’re more than ready to take over the world!\n\nThis is what you can expect from working at LOAVIES:\n• The possibility to get an NS Business Card\n• 25 vacation days plus an extra day off on your birthday\n• Working together with a talented IT team\n• A fully catered healthy lunch every day (Friday is snack day)\n• Hybrid work: possible to discuss\n• The chance to join our bootcamp three times a week for free\n• Discount on all of our styles\n\nINTERESTED?\n\nReady to fire up your creative career @ LOAVIES and be part of our adventure? Apply for this job! Do you want some information first? Email us at recruitment@loavies.com. We look forward to hearing from you!\n\nAt LOAVIES, we take pride in our own recruitment process and have a dedicated team in place to ensure we find the best talent ourselves. Therefore, we kindly ask recruitment agencies not to contact us with candidate proposals. Thank you for understanding and we look forward to hearing from potential candidates who are interested in joining the LOAVIES squad!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=80a07d338f85d4d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgQXBwIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkxPQVZJRVMiLCJhZGRyZXNzX2NpdHkiOiJad29sbGUsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJJTGNWVFJKN3JYSEdLTGxmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzc0NDb3dDUVVwSE9VcHJUa0ZmWlRocU5YaHZRalJ6T1MxNVNrTnZkMUJITm1wTFFWZE5Oa3BxWkRGSFpHSkVOSEJOYXpsQlVWZDRiMGczY1V0UFVHMW1WSE5WT0VNMVlXUldhemRIWmpsbmRVdFlPVFpDWmxBNVdETnBkelpYVjBwSFZXWldZbHByVW1KdGJTMVpWRXg2VkRsM1UyVmtjVmxCWmtaa1JtZDNiMlpTVkZkQ01Ia3ROR1p5VWs1bWEyTTRORGhITjJ4RU5WWnhXR1p4T0V0bU5XWlBjWGROVTJWZk9GQXdUMmRXVm1NM1ZEUmxTRTFLTFVKa2VqRm5lRGQ0ZDFKVmVEVnBObXhUYm1OUWRUUTJNMTlDTkVaNFJtbG1PVEp3Y0VoUFNFUjNTR2xKYTJ4UWRrUjVkbWhJYWt3NFgyMXJTVmc1WldsdVdFMHpVbFJMUjI1NE0ydHlaM05uU1c1Q2NsYzBaUklXZGxFeFZGbzJja0ZJWlVSSWExQkpVSE55UTJOSlFSb2lRVVpZY2tWamIyVTRhVEJtTkY5MVZXSXhSMVJIVVV0NVRuaHdVamt3TFVsb1FRIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&next_page_token=eyJmYyI6IkVzc0NDb3dDUVVwSE9VcHJUa0ZmWlRocU5YaHZRalJ6T1MxNVNrTnZkMUJITm1wTFFWZE5Oa3BxWkRGSFpHSkVOSEJOYXpsQlVWZDRiMGczY1V0UFVHMW1WSE5WT0VNMVlXUldhemRIWmpsbmRVdFlPVFpDWmxBNVdETnBkelpYVjBwSFZXWldZbHByVW1KdGJTMVpWRXg2VkRsM1UyVmtjVmxCWmtaa1JtZDNiMlpTVkZkQ01Ia3ROR1p5VWs1bWEyTTRORGhITjJ4RU5WWnhXR1p4T0V0bU5XWlBjWGROVTJWZk9GQXdUMmRXVm1NM1ZEUmxTRTFLTFVKa2VqRm5lRGQ0ZDFKVmVEVnBObXhUYm1OUWRUUTJNMTlDTkVaNFJtbG1PVEp3Y0VoUFNFUjNTR2xKYTJ4UWRrUjVkbWhJYWt3NFgyMXJTVmc1WldsdVdFMHpVbFJMUjI1NE0ydHlaM05uU1c1Q2NsYzBaUklXZGxFeFZGbzJja0ZJWlVSSWExQkpVSE55UTJOSlFSb2lRVVpZY2tWamIyVTRhVEJtTkY5MVZXSXhSMVJIVVV0NVRuaHdVamt3TFVsb1FRIiwiZmN2IjoiMyJ9&q=iOS+developer"
+    }
+}

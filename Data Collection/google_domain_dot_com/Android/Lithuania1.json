@@ -1,0 +1,449 @@
+{
+    "search_metadata": {
+        "id": "675311bcfda26d69b165a26a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5762aa6602775ac4/675311bcfda26d69b165a26a.json",
+        "created_at": "2024-12-06 15:01:16 UTC",
+        "processed_at": "2024-12-06 15:01:16 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIJTGl0aHVhbmlh&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/5762aa6602775ac4/675311bcfda26d69b165a26a.html",
+        "total_time_taken": 0.86
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Lithuania",
+        "location_used": "Lithuania",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsgjRGs7bOCVskbwN2x07WU73yOWPpq65LL9E6HEdA0kvTfNzpCQtWbp1G4MEicrl1f4jym0",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsgjRGs7bOCVskbwN2x07WU73yOWPpq65LL9E6HEdA0kvTfNzpCQtWbp1G4MEicrl1f4jym0&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cA1_LM1TY-bKEvmRNk--BhDxeO8VDPm-LP2Fv0ipg-oyyxFg6Q",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cA1_LM1TY-bKEvmRNk--BhDxeO8VDPm-LP2Fv0ipg-oyyxFg6Q&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh1M3cBqGj84PYiNYjl6n8eAHtj0hqs40vWJRW1GDCR3nVKEuwU0NiyfLySV5iflLjjjfMYRXBPQmJIqzI0XwpdJxuFnx-soGCG9wg4I_wHToNBIofKSVXWio2BquaWIrANbCaDfo3SauNDNVmcYcG2yLqvw281FOR42GUrqfGCjyA1IzGKJjE27zzJHrjH4pbra3PdkkHwUtU8HwdNbKoufhhibveVRw9yn4ANt-bfzBQcoFe7ddAGZELzgbUSEoOEesXrycOI1bubz_VNcszr7q6GoA52GC56j02pugX_2EL9ViM6aYOcV3Q3g4Pa80H_9tCW",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+since+yesterday&uds=ADvngMh1M3cBqGj84PYiNYjl6n8eAHtj0hqs40vWJRW1GDCR3nVKEuwU0NiyfLySV5iflLjjjfMYRXBPQmJIqzI0XwpdJxuFnx-soGCG9wg4I_wHToNBIofKSVXWio2BquaWIrANbCaDfo3SauNDNVmcYcG2yLqvw281FOR42GUrqfGCjyA1IzGKJjE27zzJHrjH4pbra3PdkkHwUtU8HwdNbKoufhhibveVRw9yn4ANt-bfzBQcoFe7ddAGZELzgbUSEoOEesXrycOI1bubz_VNcszr7q6GoA52GC56j02pugX_2EL9ViM6aYOcV3Q3g4Pa80H_9tCW&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMiVUUyqYEMw_aBh5eSuxA1W7IXL-viElCmqeOU-uhyJvhdU0CWOL1A7fGXGG-6NGcLnvUx8cd9aOpuJ7JlVQ16M71z5NDi87nI6RIcgS791q2wCazyS4x1O01TPiV9I2mJPI6jDz9Tbz4ppcrz1QlVLhoUOR1CNJ22ckpt-x7CLKpZWQw7pSITEF_nj3ZlwW4qEfAJ0I1IQXMfZxYRuoiIP1M-dMSIVbo0PocHAqcZRpLAS4mdYHjI236UJPKivocEw_H_8Nveiy_yXeEzA9OoUC_Lpelvv7sh2Hs0tjuowqit0yQDVJOexUCJ1ngh1agQSRqTLw5Amh8Ozjju9QhmJIblqzg",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+3+days&uds=ADvngMiVUUyqYEMw_aBh5eSuxA1W7IXL-viElCmqeOU-uhyJvhdU0CWOL1A7fGXGG-6NGcLnvUx8cd9aOpuJ7JlVQ16M71z5NDi87nI6RIcgS791q2wCazyS4x1O01TPiV9I2mJPI6jDz9Tbz4ppcrz1QlVLhoUOR1CNJ22ckpt-x7CLKpZWQw7pSITEF_nj3ZlwW4qEfAJ0I1IQXMfZxYRuoiIP1M-dMSIVbo0PocHAqcZRpLAS4mdYHjI236UJPKivocEw_H_8Nveiy_yXeEzA9OoUC_Lpelvv7sh2Hs0tjuowqit0yQDVJOexUCJ1ngh1agQSRqTLw5Amh8Ozjju9QhmJIblqzg&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMhwrom3fRwajZxFCF93muopyo7g7jstiQoIMjfs5dBol9ZdoJ0iKdGkyWU9gmMg9M56EVBUUPPMvdEHLDXE-IkS5O_M-NJuGn52pj5sxV3_t9QDQo4004Kp2U8mP4LTUK5n8i-qJV3sCavUfUQw4Uo9xcVD6SvVyKLTXQ-zqKs3y9PltBp1QWJoGaYIwcSEccjDOUWRC80T2lQGJkN4PwaxAvjcMGL_Pg9BtrzPDTzcDUD5hY4LPV3iz-ccOcbwWGCGOn_F5GGpoReTAt4Fx5uljYbSGRs-3qRJLXj7GSk68OTbR-HG1NJfNy2f7fVwkU4T6h9Qy6mhnGRT5n1YbARRQP_-2g",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+week&uds=ADvngMhwrom3fRwajZxFCF93muopyo7g7jstiQoIMjfs5dBol9ZdoJ0iKdGkyWU9gmMg9M56EVBUUPPMvdEHLDXE-IkS5O_M-NJuGn52pj5sxV3_t9QDQo4004Kp2U8mP4LTUK5n8i-qJV3sCavUfUQw4Uo9xcVD6SvVyKLTXQ-zqKs3y9PltBp1QWJoGaYIwcSEccjDOUWRC80T2lQGJkN4PwaxAvjcMGL_Pg9BtrzPDTzcDUD5hY4LPV3iz-ccOcbwWGCGOn_F5GGpoReTAt4Fx5uljYbSGRs-3qRJLXj7GSk68OTbR-HG1NJfNy2f7fVwkU4T6h9Qy6mhnGRT5n1YbARRQP_-2g&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dswYHzmKvTyqD_yAlM_5LIIMwG9t42mx-6seRBYznKVlz6Bztn_0A4ba-11yLueFutrwFDqaYvXUJJp2_p1E1JudEGNW0ziPlQgq1BAagx2-GFMPQ6IFjbYQUF9jESuQG1-tD-5W__0EyMMSCy2Gr-5haGrePFMBcpXnnh4Pr5yUTYbcf0EcfREfUCCJYNMi5Lj-buBGzIpnQKt1a5GYQl5z3Wa5UquHJUzp_o4Jjp7jRRCETJDsXr70ijaHZ2ETQHbfL_ykZ44WwaB0mMgPgVpR7Qm4h3QkiKv-xNCZ30npfWJhj6i45mbNYqJkLK2oyUaiJxw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dswYHzmKvTyqD_yAlM_5LIIMwG9t42mx-6seRBYznKVlz6Bztn_0A4ba-11yLueFutrwFDqaYvXUJJp2_p1E1JudEGNW0ziPlQgq1BAagx2-GFMPQ6IFjbYQUF9jESuQG1-tD-5W__0EyMMSCy2Gr-5haGrePFMBcpXnnh4Pr5yUTYbcf0EcfREfUCCJYNMi5Lj-buBGzIpnQKt1a5GYQl5z3Wa5UquHJUzp_o4Jjp7jRRCETJDsXr70ijaHZ2ETQHbfL_ykZ44WwaB0mMgPgVpR7Qm4h3QkiKv-xNCZ30npfWJhj6i45mbNYqJkLK2oyUaiJxw&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpqO26ecSsMk_M3hQ7FiWsC3NDmIEivGS0tt7YN4UMeH__ngDE1BaQ7r_5l-fnxGP7o1dZk",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpqO26ecSsMk_M3hQ7FiWsC3NDmIEivGS0tt7YN4UMeH__ngDE1BaQ7r_5l-fnxGP7o1dZk&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTn85DXdH3TOauWwoAlBLoxXM7elidgESroRmrAdHPCMzA-4Ai-XEYhnvnzvKIOa5oTDZBph",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTn85DXdH3TOauWwoAlBLoxXM7elidgESroRmrAdHPCMzA-4Ai-XEYhnvnzvKIOa5oTDZBph&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNzRBzvzcEl7xri_Kl2xu0ABqRzkvfuByZjMk7OFloA_wzFzeus",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNzRBzvzcEl7xri_Kl2xu0ABqRzkvfuByZjMk7OFloA_wzFzeus&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl9_Jb8camUMzzMMoG6DN3Gl6SyUo2aHcCo1udlGCTH4piwgADlanXCcZZnzFGV0E5OY4HUDO",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl9_Jb8camUMzzMMoG6DN3Gl6SyUo2aHcCo1udlGCTH4piwgADlanXCcZZnzFGV0E5OY4HUDO&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0O0qwC0tm-6oo3GuXSOu-MsGfvBhUseug0L2k3v6ne0hkin-zRnPVT_kgaRBpSj9UrhrMUk",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0O0qwC0tm-6oo3GuXSOu-MsGfvBhUseug0L2k3v6ne0hkin-zRnPVT_kgaRBpSj9UrhrMUk&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQxKsJegQICxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76cc6Y6GK1XnM0o3RjPnKd4Nd_7uAxRYQQoikuhG2sHbNzUazzyYZAHaXusl5q1Ytwx0NdYZc",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76cc6Y6GK1XnM0o3RjPnKd4Nd_7uAxRYQQoikuhG2sHbNzUazzyYZAHaXusl5q1Ytwx0NdYZc&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPHPR6R9XKTqUkySWi_9ocAOaS5ee_2EjItTnY4-OlJXcVnNdzlzI2nKJ6dDFMUKDn_2l2iU",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPHPR6R9XKTqUkySWi_9ocAOaS5ee_2EjItTnY4-OlJXcVnNdzlzI2nKJ6dDFMUKDn_2l2iU&udm=8&sa=X&ved=2ahUKEwj67brLtJOKAxVqTTABHbIGFNIQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior/Lead Android Developer",
+            "company_name": "EPAM Systems",
+            "location": "Anywhere",
+            "via": "EPAM",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=TLr4m9TJ9TX5X6WKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCQAwAQLz2B3rKWbArohc9FRRBKgh9QEnb0F3ZJssmSv2EbxbnMMV3Uewb4iDZ1YQDVDxkCQOc6U1REmXYwE06UMLcexCGq8gYaXXyZkmPzqnGclRDC33Zy-SEqZPZPaXTf616zJQiGrW7w3YuE4_r5eVR3aH5qNGkEBjqYP6FHPAH8jPtiJEAAAA&shmds=v1_AXX-3kGR_XEvNsHJ1fkXdrEnykZt3LpB1BONKMHwqFg0z3hLHg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TLr4m9TJ9TX5X6WKAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c840814941b3a1e0bb28f03db8537aef73c5a5a11d327380726149ff.jpeg",
+            "extensions": [
+                "10 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking a highly skilled and experienced Senior/Lead Android Developer to lead our team in developing cutting-edge mobile applications.\n\nThe ideal candidate will have a strong background in Android development and be well-versed in the latest technologies and best practices.\n\nThis position offers hybrid setup with the flexibility to work from any location in Lithuania, whether it's your home or our dynamic offices in Vilnius and Kaunas.\n\nRESPONSIBILITIES\n• Design and develop high-quality Android applications using the latest technologies and best practices\n• Collaborate with cross-functional teams to define project requirements and deliver solutions that meet customer needs\n• Ensure the performance, quality, and responsiveness of applications by conducting thorough code reviews and testing\n• Maintain code integrity, organization, and documentation\n\nREQUIREMENTS\n• Proficiency in Kotlin and Android SDK\n• Background in using standard Android libraries like Retrofit and Glide\n• Skills in implementing architectural patterns like MVP and MVVM\n• Knowledge of Android architecture components (optional)\n• Understanding of animations, custom views, transitions, and complex layouts\n• Familiarity with RxJava2 and mobile database solutions like Realm and Room (optional)\n• Capability to adjust CI/CD pipelines using Bitrise (nice to have)\n• Competency in refactoring and conducting code reviews (nice to have)\n\nWE OFFER\n• Engineering Heritage: Best-in-class experts sharing a culture of engineering excellence and tackling complex engineering challenges for over 30 years\n• Advanced Tech Stack: Innovative projects where you can apply or enhance your expertise in Cloud, Data, AI, and other emerging technologies\n• World-Class Clients: Work closely with 295+ of the Forbes Global 2000 on creating disruptive solutions that make a global impact\n• Professional Growth: Exceptional support for career development with comprehensive resources for upskilling or reskilling in pioneering practices\n• GenAI Community: Strong AI competencies with 600+ experts across 55+ locations driving GenAI-enabled transformation journeys\n• Entrepreneurial Culture: If you're passionate and dedicated to improving business transformation, we provide the support you need to bring your ideas to life\n• Hybrid Setup: The flexibility to work from any location in Lithuania, whether it's your home or our dynamic offices in Vilnius and Kaunas\n• Other Benefits: Additional vacation and trust days, private health insurance, Employee Stock Purchase Plan and more",
+            "apply_options": [
+                {
+                    "title": "EPAM",
+                    "link": "https://www.epam.com/careers/job-listings/job.epamgdo_blt6d457cfe30b65682_en-us_Other_Lithuania.senior-lead-android-developer_lithuania?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Next Ventures",
+                    "link": "https://next-ventures.com/jobs/palantir-data-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EPAM",
+                    "link": "https://careers.epam.ua/vacancies/job-listings/job-detail.epamgdo_blt15ecc616b76e06a7_en-us_Other_Lithuania.key-uipath-developer_lithuania?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EPAM",
+                    "link": "https://careers.epam.hu/careers/job-listings/job.epamgdo_blt6d457cfe30b65682_en-us_Other_Lithuania.senior-lead-android-developer_lithuania?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Next Ventures",
+                    "link": "https://next-ventures.nl/jobs/palantir-data-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EPAM",
+                    "link": "https://careers.epam-poland.pl/careers/job-listings/job.epamgdo_blt15ecc616b76e06a7_en-us_Other_Lithuania.key-uipath-developer_lithuania?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/hrfactory-lithuania/j/4ACFF1B61A/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IvTGVhZCBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkVQQU0gU3lzdGVtcyIsImFkZHJlc3NfY2l0eSI6IkxpdGh1YW5pYSIsImh0aWRvY2lkIjoiVExyNG05VEo5VFg1WDZXS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUpUR2wwYUhWaGJtbGgifQ=="
+        },
+        {
+            "title": "Senior Android developer",
+            "company_name": "Evitly",
+            "location": "Kaunas, Kaunas City Municipality, Lithuania",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Ytee6K9jZwqLrzsfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3HTQrCMBBAYdz2CK5mLbURoRtdiYjgz8oDlGk6NCNxJiRpaQ_kPVVw8z5e8V4U5kHCGuEgXVTuoKORvAaKsIaLtpAIo3WgAmfV3tNy73IOaWdMSr7qU8bMtrL6MirU6mSe2qZfmuQwUvCYqdnWm6kK0q_q08jZz8ACVxwEU_kXjpxnuA_ClgP675Rw4-wGFMYP99D2m6gAAAA&shmds=v1_AXX-3kGmpYBl3_QnYFXCqvBUAodB4NMIXOAOzlOXz_Uv4mFXAQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Ytee6K9jZwqLrzsfAAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About An Open Position\n\nWe are looking for a senior Senior Android developer to work on the application development for one of the biggest football organizations in the world.\n\nYOU WILL:\n• Contribute to Android development of business to consumer apps;\n• Develop, test, and analyse Android app solutions.\n• Ensure high-quality and on-time deliveries;\n• Collaborate with architecture, API/back-end and product teams;\n• Implement test cases, and run unit tests, CI/CD pipelines.\n\nWhat We Expect You Will Bring\n• At least 4+ years experience with Android development in Kotlin and Java;\n• Experience in Git, GitFlow, CI/CD (Bitrise, Fastlane, AppCenter).\n• Experience partnering with UX/UI teams.\n• Knowledge of additional languages like JS or Ruby.\n• Strong Familiarity with OAuth 2.0 and associated concepts (for IDP and CRM developers);\n• Experience of integrating SDKs;\n• Exellent communication skills;\n• Fluent English and Lithuanian skills.\n\nBONUS POINTS IF YOU HAVE\n• Passion for software development best practices (Agile, Scrum, etc.);\n• Sports, especially football knowledge.\n\nWhat We Offer\n• Transparency, respect, responsiveness, and result-driven culture in a global work environment;\n• Flexible working style: remote/ mixed/ from the office;\n• Access to reference books, training courses, and international conferences to support your professional development\n• A health insurance package for your wellness from day one\n• Office bonus and events: summer and winter parties, game nights, and more\n\nFor this role, we offer a BRUTO (before taxes) salary range of 5000-7000 Eur. The final salary agreement is based on skills and experience.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://lt.linkedin.com/jobs/view/senior-android-developer-at-evitly-4079244030?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBkZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJFdml0bHkiLCJhZGRyZXNzX2NpdHkiOiJLYXVuYXMsIEthdW5hcyBDaXR5IE11bmljaXBhbGl0eSwgTGl0aHVhbmlhIiwiaHRpZG9jaWQiOiJZdGVlNks5alp3cUxyenNmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSlRHbDBhSFZoYm1saCJ9"
+        },
+        {
+            "title": "Android Developer (Remote)",
+            "company_name": "Coherent Solutions Lithuania",
+            "location": "Anywhere",
+            "via": "Pangian",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=4qFoXdEdQdx_RxqNAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XHMQrCQBAFUGw9gtWURjBRwUYrURDESg8QNsmQXdnMX3Ymkrt4WbGyefDmn9l8e5IuI3R04TdHJM60fPAA44LWdENDyi63niB0BfrIi6M3S3qoKtVY9mrOQlu2GCoIN5iqFxr9Uat3mVN0xvVuv5nKJP2qOMNzZjF6Io4WIEr3YH50EhwF-ecLAjynt54AAAA&shmds=v1_AXX-3kH0tj1yCBfFgSHdHDORz3veloeqX8pFmKjFgAzTqMEr_g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4qFoXdEdQdx_RxqNAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c840814925e5dc43df29cc3fd641ed1fd37647c282fa99f06c855af9.jpeg",
+            "extensions": [
+                "30 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "30 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "100% remote job\n\nAndroid Developer | Coherent Solutions Lithuania | Lithuania\n\nCoherent Solutions is a digital product engineering company focused on empowering business success. Our global team of 2000+ talented professionals collaborate seamlessly to deliver innovative solutions that drive measurable business impact. Headquartered in Minneapolis, USA, the company’s core competencies across 10 locations worldwide include product software development, IT consulting, data and analytics, machine learning, mobile app development, DevOps, Salesforce, and more.\n\nWe grow a team of advisors, not just order takers, and strive to make the company a place for career growth and opportunities. If you want to grow your core competencies, share your passion and be sure that every contribution is evaluated, we are on the same page.\n\nCompany Background\n\nOur customer is a leading online and mobile food-ordering and delivery marketplace with the largest and most comprehensive network of restaurant partners, as well as 32 million active diners. Dedicated to connecting diners with the food they love from their favorite local restaurants, our customer elevates food ordering through innovative restaurant technology, easy-to-use platforms and an improved delivery experience. Our Customer features over 320,000+ restaurants and is proud to partner with more than 225,000 of these restaurants in over 4,000 U.S. cities and London.\n\nProject Description\n\nThe application is extensive, divided into over 100 modules, and follows the principles of Clean Architecture. Emphasis on Clean Code is paramount, with stringent rules enforced through static code analyzers such as Detekt, SonarQube, and Lint. Application performance is closely monitored using various tools, with dashboards and metrics set up for predefined SLAs, including API calls, error rates, and business flow success.\n\nTechnologies\n• Kotlin, Java\n• RxJava, Kotlin Coroutines, LiveData, Databinding\n• MVVM, Clean Architecture, Multi-Module application\n• NewRelic, Firebase\n• Firebase Analytics, Amplitude\n• Lint, Detekt, Sonarqube, Checkstyle\n• GitHub Actions\n• JUnit, Mockito\n• Espresso, Roboelectric\n\nWhat You’ll Do\n• Write unit tests, UI tests, and integration tests using JUnit, Mockito, Robolectric, and Espresso;\n• Focus on writing comprehensive tests, including end-to-end tests for UI and Hermetic tests;\n• Develop automated tests to ensure proper interaction with various services and verify correct analytics;\n• Conduct system design before implementing any new feature, creating detailed documents describing the feature and technical requirements;\n• Collect and compile all necessary information into the system design document and review it with the entire team and other teams as needed;\n• Monitor the application’s performance using tools like NewRelic, create dashboards, and send metrics for predefined SLAs;\n\nJob Requirements\n• 5+ years’ commercial experience working as an Android Developer;\n• Experience in writing unit tests using JUnit and Mockito;\n• Experience in writing UI tests using Robolectric and Espresso;\n• Understanding of Clean Architecture principles;\n• Proficiency in using static code analyzers such as Detekt, SonarQube, and Lint;\n• Experience in monitoring application performance using tools like NewRelic;\n• Ability to create and review system design documents for new features;\n• Familiarity with automated testing for different services to ensure correct analytics;\n• Level of English – from Intermediate (spoken/written);\n\nWhat Do We Offer\n• You will be rewarded with the salary starting from 4800 EUR gross monthly.\n• Remote work. We respect each employee’s chosen way to work remotely anywhere.\n• “Launch for success” package: premium health insurance, monthly lunch vouchers, telecom services for employees and their family members, and more.\n• Global teams. The working model in the company is based on working in global multicultural departments and gaining experience from the highest-level professionals.\n• International Clients. It is on us to ensure the wide range of Clients you will work with – Innovative start-ups and Fortune 1000 companies in the U.S. and Europe.\n• Professional growth opportunity. We created a professional training center including educational programs for developers of any level and live training sessions.\n• Unique ideas development. Our internal start up incubator, Innovation Sandbox, helps to materialize ideas, receive support on their realization, and win cash prizes.\n• Team spirit. Work in the company is not just about work – team building, celebrations, corporate events, family events and other traditions are an essential part of our culture.\n• And much more Why Coherent Solutions is a company to work with https://www.coherentsolutions.com/.\n\nPlease take you time to see Coherent Solutions Privacy Policy for Job Applicants for details on how we process your personal data: https://www.coherentsolutions.com/privacy-policy-for-job-applicants\n\nShow more\n\nShow less\n\nTagged as: remote, remote job, virtual, Virtual Job, virtual position, Work at Home, work from home",
+            "apply_options": [
+                {
+                    "title": "Pangian",
+                    "link": "https://pangian.com/job/android-developer-remote-196/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IkNvaGVyZW50IFNvbHV0aW9ucyBMaXRodWFuaWEiLCJhZGRyZXNzX2NpdHkiOiJMaXRodWFuaWEiLCJodGlkb2NpZCI6IjRxRm9YZEVkUWR4X1J4cU5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lKVEdsMGFIVmhibWxoIn0="
+        },
+        {
+            "title": "Mobile Engineer - Android",
+            "company_name": "Transfergo",
+            "location": "Kaunas, Kaunas City Municipality, Lithuania",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=jg_M9gOroQu_GzL8AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2HvQrCQAyAcfURnDJLbYvgoE4iIqjd3EvaxrvImZTLFeor-ZRWcPl-5p_ZvKy04UBwEsdCFGEFB-micjfVRRswwth6UIGzqgu02PuUetsVhVnInSVM3OatvgoVanQsntrYD7V5jNQHTFSvN-WY9-KW23tEsQdFp8ACVxwELfsbjpzeUA3CLfcYpsngxskPKIxfu72zcK0AAAA&shmds=v1_AXX-3kHlE_ymioy6Q7FP1mwX8lhXQ3URKO9ElnZ-n-9-xw6BfA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jg_M9gOroQu_GzL8AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c8408149db272b7d0f23de2ce4646e65176463c3fdc497a5da353ace.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "TransferGo is a growing fintech scale-up on a mission to make the world a fairer place for migrants. We strive to provide tailored, more affordable financial services that make people's hard-earned money go further. Now in our 12th year, with over 370 employees in offices across Europe, we’re crafting a brilliant, relevant product that makes a difference in people's lives and the well-being of their families.\n\nWe’ve come this far by building a talented, diverse workforce on a fair culture and our strong values. Having this strong team of employees, we can serve those who really need our product to make their lives better.\n\nWe are looking for an ambitious and bright individual to join our tech team and be part of the Android app development process. If you’re looking for a company where you can grow fast both professionally and personally, you might have just found it!\n\nHere’s what you’ll be doing as Mobile Engineer - Android:\n• Collaborating with developers and stakeholders to build smooth and scalable Android applications\n• Participating in the entire Android native application development process\n• Identifying areas for improvement to enhance the quality of our application\n• Staying updated with the latest industry trends and technologies to create engaging, trendy, and innovative user experiences.\n\nOur current Android stack is based on:\n• Kotlin +1.9\n• Clean architecture (MVVM)\n• Compose\n• Dagger, RxJava, Coroutines\n• Modularisation\n\nWe're excited about you because you:\n• Have minimum 2 years of experience in object-oriented and protocol-oriented programming\n• Have experience in creating and supporting Android applications\n• Have proficiency in networking and working with RESTful APIs\n• Have strong understanding of Kotlin, Compose, Dagger, and RxJava or Coroutines\n• Have practical skills with Git and JIRA\n• Are fluent in English;\n• Are eager to learn and adapt to new technologies.\n\nWhat would be a plus:\n• You are familiarity with functional programming;\n• You have knowledge of unit testing and continuous integration (CI).\n\nMonthly salary starting from 3000 € (gross) depending on the level of experience.\n\nSounds interesting? We can’t wait to meet you! Tell us what you're looking for in your dream job, then let's see what role would be a great fit for you!\n\nThe recruitment steps are:\n• Apply to this job ad using the form below;\n• Have a screening call with the Hiring Manager and the Talent Acquisition Specialist;\n• Do homework assignment (or you could submit any of your open-source projects for us to review);\n• If your homework is a ‘yes’ - have a final technical interview with the Hiring Manager and team.\n\nThanks for your time, we look forward to hearing from you!\n\nCheck out more about us on our Company Page, Careers Page, and Glassdoor.\n\nWhat we believe\n\nAt TransferGo, we offer competitive rewards to all our people including company equity. We know that recognition is about more than just money, and we’ve fostered a culture of kudos to shine a light on the great work throughout the business, and the people making it all happen. We hold regular in person events to connect with each other and help all our TransferNauts to grow with a generous training allowance. We believe that empowering people makes for a happier and more effective workforce. This means we enable anyone who wants to pursue initiatives that deliver real value for our migrant customers.\n\nWhat we offer:\n• Be part of building a meaningful product in a growing fintech scale-up;\n• We hire owners - all our employees are eligible to receive equity;\n• A competitive rewards package;\n• Generous holiday allowance (based on tenure);\n• Competitive healthcare insurance / wellbeing package (based on your location);\n• An annual training budget of €1,000 to spend on your growth;\n• We truly embrace flexibility and our people work from a variety of places (office, hybrid and remote, you can find it all here);\n• If you are near one of our offices, we are a pet-friendly company and we enjoy regular opportunities to connect in person (we truly value in person connection on a regular basis and celebrate in style).\n\nAt TransferGo, we are committed to the equal treatment of all current and prospective employees. We will not tolerate discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, marriage, civil partnership or any other protected category. We are proud of our diverse and inclusive culture and we strongly encourage suitably qualified applicants from a wide range of backgrounds to apply and join TransferGo. We look forward to meeting you!",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/mobile-engineer-android-at-transfergo-424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRW5naW5lZXIgLSBBbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiVHJhbnNmZXJnbyIsImFkZHJlc3NfY2l0eSI6IkthdW5hcywgS2F1bmFzIENpdHkgTXVuaWNpcGFsaXR5LCBMaXRodWFuaWEiLCJodGlkb2NpZCI6ImpnX005Z09yb1F1X0d6TDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lKVEdsMGFIVmhibWxoIn0="
+        },
+        {
+            "title": "Senior Mobile Developer (Android)",
+            "company_name": "Spike Technologies",
+            "location": "Vilnius, Vilnius City Municipality, Lithuania",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=SnheieARgEKPgm11AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXHsQrCMBCAYVz7CE43qtRWBEF0kgqC2ElxlTQ9mtN4F3Kp6Lv5cOrg8vP92XuQLY_IJBFqacgjbPGBXgJGGG24jULtGKawlwYUTbQOhGEn0nkcrl1KQVdlqeqLTpNJZAsr91IYG3mWV2n0l4s6EzF4k_AyX8yeReBuUh0D3RBOaB2Ll45QgRjO5Jl6zf-AitIL6p7JUjD-OzkcKLneMJkP_uTja78AAAA&shmds=v1_AXX-3kGaOtigLMqLKRXX5-mBhsFWc1-mzHCBm57pZ6v1SDbsng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=SnheieARgEKPgm11AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c8408149d1c51c7cb35581cb17cdbe2d8ada8ae36071748e932f0f85.jpeg",
+            "extensions": [
+                "24 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Spike Technologies is at the forefront of building cutting-edge Data Engineering and Generative AI technology. We are seeking a Senior Mobile Developer to join our team to build scalable mobile solutions that serve our enterprise clients in the HealthTech industry. This role involves working with proprietary data from Wearables, IoT devices, and other sensors to create mobile experiences that deliver near-real-time data and GenAI insights.\n\nResponsibilities:\n• Lead the design, development, and maintenance of mobile solutions for Android platforms (some work for iOS is expected also).\n• Collaborate with cross-functional teams, including data engineering and product management, to define and implement features for our mobile apps.\n• Ensure the mobile solutions are scalable, reliable, and optimized for a seamless user experience.\n• Implement integrations with backend systems, data engineering pipelines, and microservices.\n• Conduct unit tests, debugging, and performance optimization to ensure stability and responsiveness.\n• Stay current with the latest mobile development technologies, frameworks, and best practices.\n\nQualifications:\n• 5+ years of experience in mobile software development, with expertise in Android (Kotlin, Java)\n• Experience with cross-platform mobile development frameworks such as React Native or Flutter\n• Familiarity with CI/CD pipelines and infrastructure automation for mobile app deployments\n• Experience with mobile analytics and crash reporting tools\n• Strong problem-solving skills and ability to thrive in a fast-paced, dynamic environment\n\nGood to have:\n• Familiarity with cloud platforms like AWS, Azure, or Google Cloud Platform\n• Background in systems design and architecture\n• Experience with developing and maintaining frameworks\n\nWhat we offer:\n• Base salary starts from €4000 gross\n• Generous stock options package with a significant upside\n• Hybrid working model (offices in Vilnius, Lithuania and Palo Alto, CA)\n• USA work visa sponsorship and relocation to Silicon Valley HQ where applicable\n• Dynamic growth: dive into AI and Data tech, seizing high-growth opportunities with cutting-edge projects.\n• Talented peers: collaborate with a smart, ambitious team comprising data scientists, PhDs, Cambridge alumni, and tech industry pros (formerly from Bloomberg, Goldman Sachs, and Google).\n• Solid backing: enjoy stability and ample resources for success, supported by reputable venture capitalists.\n\nAt Spike Technologies, diversity is celebrated, and inclusion is our priority. We welcome applicants from all backgrounds to join our innovative team and contribute to our inclusive culture.\n\nSounds like you? Let's talk.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://lt.linkedin.com/jobs/view/senior-mobile-developer-android-at-spike-technologies-4074693615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAoQW5kcm9pZCkiLCJjb21wYW55X25hbWUiOiJTcGlrZSBUZWNobm9sb2dpZXMiLCJhZGRyZXNzX2NpdHkiOiJWaWxuaXVzLCBWaWxuaXVzIENpdHkgTXVuaWNpcGFsaXR5LCBMaXRodWFuaWEiLCJodGlkb2NpZCI6IlNuaGVpZUFSZ0VLUGdtMTFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lKVEdsMGFIVmhibWxoIn0="
+        },
+        {
+            "title": "Senior Android Software Engineer",
+            "company_name": "Shift4lithuania",
+            "location": "Vilnius, Vilnius City Municipality, Lithuania",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=jOIG5u-nN8tQk9xfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWMMQrCQBBFsc0RrKaWmIgogjaKiCBaBWzDZrPJjqwzy-4Ek5t5PGOR5vOK937ynSW7whBygBPVgbGGghv5qGDgQi2SMQGWcOMKolFBW2CCK3PrzPxgRXzc53mMLmujKEGdaX7nTKbiPn9xFf9TRjveeafElOvtqs88tYtjYbGRjUOxnSJUgARPdIRdTCeAM8oAj45Qo1ejOqRwn4If6QnLmLsAAAA&shmds=v1_AXX-3kEcRNhZWUz7zoQIC6OZO6kNiTmvS5OmBz2V-FG_UlSRFQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jOIG5u-nN8tQk9xfAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Overview\n\nShift4 (NYSE: FOUR) is boldly redefining commerce by simplifying complex payments ecosystems across the world. As the leader in commerce-enabling technology, Shift4 powers billions of transactions annually for hundreds of thousands of businesses in virtually every industry. For more information, visit www.shift4.com.\n\nAre you a great Android Developer & Want to be part of something really big?\n\nWe are looking for uber-passionate senior Android developers to join the software product team responsible for designing, developing and deploying Shift4’s new built-for-cloud restaurant platform that delivers on a complete solution for restaurant operators of all sizes that marries point-of-sale, guest engagement, online & mobile ordering, payments, analytics, table reservation, loyalty and much more. (We call this platform “SkyTab POS”.)\n\nThe main focal point of the platform consists of beautifully designed and highly functional Kotlin business apps deployed on both custom and consumer hardware. We have huge plans for this platform and need to expand the team with the best and brightest to ensure we continue to out-innovate competition and change the basis of competition.\n\nResponsibilities\n• Hardcore coding in Java/Kotlin of high-performant business solutions.\n• Be an active participant in a high velocity scaled Agile process.\n• Work alongside other Software Engineers on the team to elevate technology and consistently apply best practices as they relate to the project and general software engineering concepts.\n• Collaborate cross-functionally with Business Analysts, QA, and other team members to achieve elegant solutions which satisfy business needs, goals, and objectives.\n• Provide recommendations for continuous improvement of development processes, technical solutions, and SkyTab itself.\n• Test “your own” code via unit, integration and acceptance testing techniques to ensure delivery and quality goals are met.\n• Diagnose and resolve issues with deployed systems using a variety of techniques including direct engagement with support personnel and customers.\n• Become an acknowledged technical expert and specialist for some parts of the platform. As a team, we know that not everyone can know everything, but as a Lead Engineer, you are expected to develop and expertise in some parts of the platform on behalf of the team.\n• Proactive assessment and analysis of existing systems to maximize quality and customer satisfaction, and minimize maintenance costs and other operational issues.\n• Aspiration for leadership roles, including potential to be a team or tech lead, are highly appreciated and could foster your future growth as our product team evolves.\n\nRequirements\n• An expert in Java/Kotlin programming, the Android 8 & 10 SDK and with Google’s Android design principles.\n• 6+ years of hands-on experience developing innovative Android apps (Java, Kotlin) targeting both business users and consumers.\n• A strong plus: Hands-on experience using RabbitMQ for data synchronization and replication, and RESTful APIs for fetching and upserting of transactions to the cloud back end.\n• Strong knowledge of Android UI design and ability to work closely with UI designers.\n• Expertise with maintaining transactionality with asynchronous offline mode applications, threading and performance tuning (our apps must be responsive and fast!).\n• Strives to ensure that solutions are a great fit and use to the target end user persona.\n• Experience working in an agile software development lifecycle (SDLC) by designing, developing, and deploying working software through analysis of functionality as defined by a Product team.\n• Expertise and focus around restaurant point-of-service apps (POS, Kiosk, online ordering) is a big plus.\n• Comfortable and experienced in identifying and implementing non-functional requirements, writing code that is clean, of good quality\n• Proficient with testing work-in-progress deliverables to make sure they meet acceptance criteria and functional requirements as defined by a Product team as well as non-functional requirements defined by the development team.\n• Great interpersonal, verbal, and written skills including documentation of complex technical solutions (e.g., whiteboarding, code comments)\n• Driven and wants to be part of a highly productive team that delivers products on a continual basis.\n• As said above, expertise and focus around restaurant point-of-service apps (POS, Kiosk, online ordering) is a big plus.\n\nBenefits\n• A growing innovative company with a friendly atmosphere\n• Social Responsibility Initiatives\n• Creative, people-oriented, encouraging working environment\n• Personal budget for a year to raise professional competence\n• We also have our library, and anyone can order new books\n• Internal career development program “Bridge”\n• Cutting-edge technologies and tools\n• Office in the city center with parking for cars, bicycles, and scooters\n• The flexibility enables work-life balance\n• Private health insurance\n• Additional vacation days for each year spent with us\n• Solid salary and annual bonuses for the achieved results\n• NYSE: FOUR Restricted Stock Units award based on your seniority\n• Employee referral program.\n\nThe salary range for this position is 6500-8000 EUR / gross. The exact salary will be determined based on candidate’s experience.\n\n#LI-Hybrid\n\nWe are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/senior-android-software-engineer-at-shift4lithuania-32?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBTb2Z0d2FyZSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNoaWZ0NGxpdGh1YW5pYSIsImFkZHJlc3NfY2l0eSI6IlZpbG5pdXMsIFZpbG5pdXMgQ2l0eSBNdW5pY2lwYWxpdHksIExpdGh1YW5pYSIsImh0aWRvY2lkIjoiak9JRzV1LW5OOHRRazl4ZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUpUR2wwYUhWaGJtbGgifQ=="
+        },
+        {
+            "title": "Android Engineer (Mid level)",
+            "company_name": "Nord Security",
+            "location": "Vilnius, Vilnius City Municipality, Lithuania",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=WJQuB_4exGShZvKCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWJuwrCQBAAsc0nWG2pEnOi2CgIIiKIsRFsw-WyXFbO3XAPib_lF2oKm2GGyT6jbLXnxgs1cGRLjOhhUv7K4QvdFOZwlhoCam9aEIaTiHU43rYxdmGjVAiusCHqSKYw8lTCWEuvHlKHAVVotcfO6YjVcr3oi47tbHcV38ANTfIU30AMd3JMKeR_gcMwysRkqNPuFzlcKLZJM-kva3Z877UAAAA&shmds=v1_AXX-3kE5I7RSHfVdMkbcWlqXb7wwzbstfMjiSoVwWdlbgbdwqw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=WJQuB_4exGShZvKCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c8408149e2a988b04ac6913d50ed7e50c3b989cca8308e142b1015b4.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "The Mobile department believes in constant improvement and innovation, so it takes the initiative to refine all products at every stage. We’re actively involved in all phases of development with other teams to obtain the best outcomes – from the simplest UI elements to innovative features.\n\nMain Responsibilities\n• You will contribute as a team member to the development effort for NordVPN for Android devices. This includes interacting with our existing backend REST APIs, providing feedback based on mobile needs, and working with our web, backend, and low-level teams to build new features and enhance the quality of existing ones. You will also coordinate with our Product Owners and QA/Support team to ensure our Android apps consistently retain a high quality standard\n• Debug and resolve issues reported by users and internal testing teams\n• Be a part of a large development team that consists of engineers with a Kotlin background and QAs\n• Stay up to date with cutting-edge tools, patterns, and methodologies to ensure excellent quality of the code. It’s all about that code!\n\nCore Requirements\n• 2+ years of extensive Android development\n• Fluent with Kotlin, MVVM Clean architecture, Room or SQLite databases, and reactive programming libraries such as Coroutines, RxJava\n• Knowledge of the latest trends and libraries in the Android ecosystem such as Jetpack Compose, Hilt\n• Experience with debugging tools and solving problems reported by users\n• Experience in writing unit and UI tests\n• Excellent knowledge of Android APIs and SDK\n• Experience working with large codebases\n\nBonus Points for\n• Networking knowledge - OSI Stack, previous experience in developing VPN solutions;\n• Experience with the Android TV ecosystem;\n• Experience with the agile methodology;\n• Don't worry if you don't tick all the boxes we would still be interested in hearing from you!\n\nTools You Will Use\n• Kotlin\n• Android Studio\n• RxJava\n• Hilt\n• Coroutines\n• Jetpack Compose\n\nSalary Range\n• Gross Salary 2650 - 5460 EUR/month.\n\nAbout Us\nNord Security is a global leader in internet privacy and security solutions and Lithuania’s second tech unicorn. Established in 2012, Nord Security now has more than 1400 employees and serves millions of users worldwide. Our team has a global mission to shape a more secure and peaceful online future for people everywhere. With that in mind, we built several advanced cybersecurity solutions: NordVPN, NordLayer, NordLocker, NordPass, NordProtect, NordStellar, and Saily.\nNordVPN is the world’s most advanced VPN service provider, used by millions of internet users worldwide. NordVPN provides double VPN encryption and Onion Over VPN and guarantees privacy with zero tracking. One of the key features of the product is Threat Protection, which blocks malicious websites, malware, trackers, and ads. NordVPN is very user friendly, offers one of the best prices on the market, and has over 5,000 servers in 59 countries worldwide.\n\nAnd we’re always looking to expand our team of:\n• Future shapers\n• Restless achievers\n• Self-movers\n• Honest communicators\n• Team players\n\nWhat We Offer\n• Access to Nord Security products. We build solutions used by millions of users worldwide, and you’ll get to experience our products firsthand;\n• Professional growth. Internal and external events, online training, conferences, books - everything you need to reach full potential;\n• Health benefits. Private health insurance, online and on-site workouts, consultations to feel and be your best;\n• Mental wellbeing. Access to mental health tools like Calm, Headspace, and Mindletic. Options for therapy to keep your emotional wellbeing in check;\n• Team spirit. Team buildings and parties with games, shows, tastings, food coupons, gifts, and it’s on us;\n• More free time. Stay with us and additional vacation days will be added to your calendar;\n• Additional paid leave. Additional days are covered by us in cases of illness or special occasions;\n• Flexibility. Flexible working time arrangement\n\nKindly refer to our Privacy Notice for Recruitment Candidates for comprehensive information regarding our data handling procedures throughout recruitment processes: https://bit.ly/3urJdOL",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://lt.linkedin.com/jobs/view/android-engineer-mid-level-at-nord-security-4016344621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Aworkado",
+                    "link": "https://aworkado.co/job/ios-engineer-mid-level-25734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIChNaWQgbGV2ZWwpIiwiY29tcGFueV9uYW1lIjoiTm9yZCBTZWN1cml0eSIsImFkZHJlc3NfY2l0eSI6IlZpbG5pdXMsIFZpbG5pdXMgQ2l0eSBNdW5pY2lwYWxpdHksIExpdGh1YW5pYSIsImh0aWRvY2lkIjoiV0pRdUJfNGV4R1NoWnZLQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUpUR2wwYUhWaGJtbGgifQ=="
+        },
+        {
+            "title": "Staff Android Engineer",
+            "company_name": "Flohealth",
+            "location": "Vilnius, Vilnius City Municipality, Lithuania",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=AoXa1lx73IARXxNuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXHsQrCMBCAYVx9BKebpW1EcKmTiAqik-Barm2anMS7kFyhvpGPqQ4uP98_f8_m5U1xGGDHfRLq4cCO2NoEJZylhWwxdR6E4STigl1svWrMtTE5h8plRaWu6uRphG0rk3lIm39pssdkY0C1zXqzmqrIblkfg3iLQT0Qw50C05iLP2BP-oLryNRRxPCdAi6kfkQm_ADXp0zRqwAAAA&shmds=v1_AXX-3kEhiCAFBDZa7mJQ2ZyV2OO0a5OYNbtakJZnxs9uyoUCsQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AoXa1lx73IARXxNuAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We’re very proud of our achievements:\n\nIn July, we secured a $200M investment led by General Atlantic to help revolutionise women’s health, and became the first purely digital consumer women’s health app to achieve unicorn status! 🦄\n\nWe’ve had 380M+ downloads, have almost 70M monthly users, are #1 by installs in the iOS Health category, hit 4.9 stars on the App Store (3M+ reviews), are backed by 9 VCs, had a 40% revenue increase last year, and topped a valuation of $1B.\n\nWe’re a growing, ambitious HealthTech business building the essential digital health partner of tomorrow to empower women, girls, and people who menstruate with the knowledge and support they need to stay well and live better.\n\nOur cycle, ovulation and pregnancy tracking, educational content and anonymised community platform have been trusted for years by millions to help them feel more in control of their health every day.\n\nNow, we’re harnessing the power of data analytics and AI to build a smarter future, one where we all know our bodies better, with an aim to become the essential health partner to women worldwide.\n\nThe Job\n\nOur engineers aren’t just building a better product; they’re making the world a better place by improving women’s health. We leverage machine learning and AI to provide accurate cycle predictions and relevant, personalized, medically credible health tips. We are committed to discover and empower our employees to implement brand-new solutions.\nFlo is a place for experimentation and implementation opportunities at the senior level. Flo is not just a feature factory, we own value delivery end to end. Flo is a constantly evolving product. New features and technologies are added, hardening development. Our engineers have an average of 10 years of experience, so they can solve ambitious product tasks.\n\nYou can read more about the tech stack we use and the thinking behind it here: https://stackshare.io/v_ermolin/decisions/107846713791593460\n\nYour Experience\n\nMust have:\n• Expert-level knowledge of Android with 10+ years of experience developing, shipping, and maintaining mobile applications\n• Experience developing large mobile applications with rich UI, preferably for global consumer markets\n• Proficient in Java with strong object-oriented design skills\n• Strong knowledge of different versions of Android, Android UI design principles, patterns, best practices, dealing with different screen sizes and aspect ratios\n• Experience with Google technologies, development guidelines, Google Play processes for app submission and maintenance\n• Good understanding of a mobile product life cycle; acquaintance with Agile methodologies\n• Agile mindset, ambitious, motivated and a good team player\n\nNice to have:\n• Knowledge of Kotlin programming language, Clean Architecture and reactive programming\n• Knowledge of UX and Interaction design\n• Experienced with mobile continuous delivery tooling (build, test and release automation)\n• Integration with BI and analytical systems. A/B testing\n• Experience with alternative Android markets\n• Optimizing data usage over mobile networks and experience with offline-first apps\n\nWhat you'll be doing\n\nYou'll be responsible for:\n• Modern frameworks and libraries along with in-house components\n• Spicy user experience and attractive design\n• Continuous Delivery\n\n#LI-Hybrid #LI-LM12\nSalary Range - gross per month\n€10.500—€11.300 EUR\n\nRanges may vary depending on your skills, competencies and experience.\n\nReward\n\nPeople perform better when they’re happy, paid well, looked after and supported.\n\nOn top of competitive salaries, Flo's employees have access to:\n• A flexible working environment with the opportunity to come into the office and work from home\n• Company equity grants through Flo’s Employee Share Option Plan (ESOP)\n• Paid holiday and sick leave\n• Fully paid female health and sick leave, in addition to holiday and regular sick leave\n• Workations - an opportunity to work abroad for two months a year\n• Six months paid maternity leave, and one months paid paternity leave (subject to qualifying conditions) inclusive of same-sex and adoptive parents\n• Career growth, progression, and learning development resources\n• Annual salary reviews\n• Unlimited free premium Flo subscriptions\n• A whole host of other benefits (health/pension/social schemes)\n\nOur Culture\n\nWe’re problem solvers, we’re adaptable, we’re empathy driven and results led.\n\nPeople here like working in a fast-paced, multi-national, multi-cultural and ever changing environment. Everyone has an impact on a powerful mission, and is happy to roll their sleeves up to ideate solutions and put them in place. Being part of a growing business means that sometimes it's not easy and we work hard, but our mission is always at the forefront of what we do.\n\nDiversity, Equity and Inclusion\n\nThe strength of our workforce is in the diverse backgrounds of our employees, and Flo is committed to applying its equal opportunities policy at all stages of recruitment and selection. This means recruitment and selection of talent into Flo Health companies is only based on individual merit and qualifications directly related to professional competence. Shortlisting, interviewing, and selection will always be carried out without regard to gender identity or expression, sexual orientation, marital or civil partnership status, color, race, nationality, ethnic or national origins, religion or beliefs, ancestry, age, veteran status, mental or physical disability, medical condition, pregnancy or maternity status, trade union membership, or any other protected characteristics.\n\nBy applying for the above role, you confirm that you have reviewed our privacy notice for job applicants: https://flo.health/privacy-policy-for-job-applicants",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/staff-android-engineer-at-flohealth-1215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/staff-android-engineer-flo-health-5717200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employbl",
+                    "link": "https://www.employbl.com/jobs/staff-android-engineer-flo-health-831860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiRmxvaGVhbHRoIiwiYWRkcmVzc19jaXR5IjoiVmlsbml1cywgVmlsbml1cyBDaXR5IE11bmljaXBhbGl0eSwgTGl0aHVhbmlhIiwiaHRpZG9jaWQiOiJBb1hhMWx4NzNJQVJYeE51QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSlRHbDBhSFZoYm1saCJ9"
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "KAYAK",
+            "location": "Kaunas, Kaunas City Municipality, Lithuania",
+            "via": "Talentify",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=GrzXhLjTG48ceLMhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3HsQrCMBCAYVz7CE43S01EdNGpiAhWJyenck1DchLvQpJCfR5fVAWX_-Ov3rNK3SyTJGh4SEIDHNkRW5tgCWfpIVtMxoMwnERcsPO9LyXmndY5B-VywUJGGXlqYdvLpB_S51-67DHZGLDYbr1dTSqyW2za5t60QAwtjoy5_gsHKi-4jkyGIobv1HCh4kdkwg_zqL9QpgAAAA&shmds=v1_AXX-3kHbSOMszndCy587Au2pf4MC89gHYfKuNTbJ7B8tUYKemg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=GrzXhLjTG48ceLMhAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c8408149d668445b780fb70dcc4eced52f48d6d3f0e2475b72a1dabf.png",
+            "extensions": [
+                "22 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "22 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world’s leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We’re also transforming business travel with a new corporate travel solution, KAYAK for Business.\n\nAs an employee of KAYAK, you will be part of a travel company that operates a portfolio of global metasearch brands including momondo, Cheapflights and HotelsCombined, among others. From start-up to industry leader, innovation is in our DNA and every employee has an opportunity to make their mark. Our focus is on building the best travel search engine to make it easier for everyone to experience the world.\n\nIn this role, you will:\n• Architecting and developing innovative features for our product\n• Maintain a high standard of quality for our code, features, and products\n• Collaborating with different teams to improve our products and technologies\n• Writing thorough tests to improve the quality of both our code and product\n\nPlease apply if you have:\n• 5+ years of experience and ability to develop, maintain, and innovate large-scale, consumer-facing mobile applications\n• Experience with Java, Kotlin, Jetpack Compose and the Android Framework\n• Strong English communication skills, with the ability to explain complex technical issues to different audiences\n• Proficient in crafting and constructing scalable application infrastructure, working with collaborators and diverse teams, and delivering projects on time and with outstanding quality.\n• Strong analytical, debugging and problem-solving skills\n• An understanding of best-practice UX with a good eye for design details\n• Capability of devising clean and simple solutions to complex problems\n• Hands-on experience writing high-quality unit, UI and integration tests\n• The capacity to thrive in a hybrid working model, including the ability to attend the office at least 3 days a week.\n\nBenefits:\n• Flexible working hours\n• Flexible sick time off\n• Day off on your birthday\n• Company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!)\n• Additionally paid parental leave\n• Generous healthcare insurance\n• Free lunch twice a week\n• Free Yoga classes twice a week\n• Fund for career growth and development\n• Headspace subscription - to relax after work\n• No meetings Fridays\n• Paid volunteer time\n• The greatest team events;\n• Drinks, coffee, snacks, games etc.\n\nCompensation\n\nSenior Android Engineer's salary consists of three elements:\n\nBase pay: may start from 4000 EUR gross.\n\nIn addition:\n• Significant yearly bonuses, approx 10 percent of annual salary\n• Booking Holdings RSU (Restricted Stock Units) package, worth 20000 USD gross, with possibility to receive yearly refreshes\n\nDiversity, Equity, and Inclusion\n\nAt OpenTable/KAYAK, we aspire to be a workplace that fosters inclusion and reflects the diverse communities we serve. Hiring people with different backgrounds and perspectives is critical to innovation and to how we deliver great experiences for our users, partners, and teams. We strive to be an open and welcoming environment so that no matter who you are, you can be yourself.\n\nWe ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request an accommodation(s).\n\n#LI-MP1",
+            "apply_options": [
+                {
+                    "title": "Talentify",
+                    "link": "https://www.talentify.io/job/senior-android-engineer-kaunas-kauno-apskritis-lt-kayak-7726311002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HubMub",
+                    "link": "https://www.hubmub.com/jobs/67118/undefined?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IktBWUFLIiwiYWRkcmVzc19jaXR5IjoiS2F1bmFzLCBLYXVuYXMgQ2l0eSBNdW5pY2lwYWxpdHksIExpdGh1YW5pYSIsImh0aWRvY2lkIjoiR3J6WGhMalRHNDhjZUxNaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUpUR2wwYUhWaGJtbGgifQ=="
+        },
+        {
+            "title": "Software Engineer (Android) - Mid/Senior",
+            "company_name": "Revolut",
+            "location": "Vilnius, Vilnius City Municipality, Lithuania",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=kOaA-Mhsf2kmaDqeAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWNMQrCQBAAsc0TrLZUiTkRBNFCREQQ0xiwlUuyJivnbrjbaPyZzzMWNsNMNdFnEG0yuenLeoQ9V8SIHkZbLr1QOYYppFSaDJnE93GUHAJaX9QgDAeRyuFwXas2YWVMCC6pglqlIinkYYQxl87cJQ8_XEPdXxpnFa_zxaxLGq4myzM-xbUKxHAhx9SG-C-wI31D2jIV1FjXRwwn0rq1TPYLwwNxGrsAAAA&shmds=v1_AXX-3kGVKn3HFlXSKwAzxhy9kQYs8FKv7BjspvqRzHl34EKOzA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=kOaA-Mhsf2kmaDqeAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675311bcfda26d69b165a26a/images/c4e776b6c8408149254f881c9609189a722f0c25a4d509f1a8d2712f2bd89d06.png",
+            "extensions": [
+                "18 days ago",
+                "€4.6K–€5.4K a month",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "salary": "€4.6K–€5.4K a month",
+                "schedule_type": "Full-time"
+            },
+            "description": "About Revolut\n\nPeople deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 50+ million customers get more from their money every day.\n\nAs we continue our lightning-fast growth, 2 things are essential to our success: our people and our culture. In recognition of our outstanding employee experience, we've been certified as a Great Place to Work™. So far, we have 10,000+ people working around the world, from our offices and remotely, to help us achieve our mission. And we're looking for more brilliant people. People who love building great products, redefining success, and turning the complexity of a chaotic world into the simplicity of a beautiful solution.\n\nAbout The Role\n\nOur Technology team isn’t just one of the best in the industry. It’s one of the best in the world. And we’re proud of it. It’s our driving force — our engine 🚀\n\nFrom building a new financial backend to creating an award-winning app, there’s nothing (and we mean nothing) our tech team can’t do. Our Technology team isn’t here to fix legacy systems — it’s here to build world-class financial products from the ground up. Products that’ll be used by millions of people around the world 🌎\n\nWe’re looking for Android Developers (Mid and Senior levels) interested in every step, stage, and release of a feature. Want to work alone? This isn’t for you. We want communicators. One minute you’re chatting to your PO, the next a designer, then a customer (for feature feedback, we don’t need you on the phones). Like your projects varied? This is for you.\n\nIf you’re up for the challenge of shaping the future of finance, let’s get in touch.\n\nWhat You’ll Be Doing\n• Collaborating closely with product designers to focus on new feature design and prototyping\n• Assisting in the user experience design process, from wireframes and mockups through implementation and release\n• Working closely with design and business teams to define and implement elegant solutions to interesting problems\n• Helping to define and maintain visual guidelines, ensuring consistency throughout the app\n• Prototyping new user interactions and iterations based on feedback from peers\n\nWhat You'll Need\n• 5+ years of experience working as a software engineer\n• 3+ (Mid) or 5+ (Senior) years for of experience in Android development\n• A deep understanding of the Android SDK\n• Experience working on apps which support multiple Android devices\n• Experience collaborating on software projects with design and backend aspects\n• To be a quick learner with an ambitious and results-driven personality\n• Excellent communication and organisational skills\n• To work well as part of a team in a fast-paced environment\n• Fluency in English\n\nNice to have\n• A degree in computer science\n• Insightful opinions about developing for mobile\n• A GitHub account with some cool projects in it\n• Experience in financial services\n• Working in TDD approach\n\nBuilding a global financial super app isn’t enough. Our Revoluters are a priority, and that’s why in 2021 we launched our inaugural D&I Framework, designed to help us thrive and grow everyday. We're not just doing this because it's the right thing to do. We’re doing it because we know that seeking out diverse talent and creating an inclusive workplace is the way to create exceptional, innovative products and services for our customers. That’s why we encourage applications from people with diverse backgrounds and experiences to join this multicultural, hard-working team.\n\nRefer to our Data Privacy Statement for Candidates for details on our data handling practices during your application.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://lt.linkedin.com/jobs/view/software-engineer-android-mid-senior-at-revolut-4026947709?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=79316559910052550&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoQW5kcm9pZCkgLSBNaWQvU2VuaW9yIiwiY29tcGFueV9uYW1lIjoiUmV2b2x1dCIsImFkZHJlc3NfY2l0eSI6IlZpbG5pdXMsIFZpbG5pdXMgQ2l0eSBNdW5pY2lwYWxpdHksIExpdGh1YW5pYSIsImh0aWRvY2lkIjoia09hQS1NaHNmMmttYURxZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUpUR2wwYUhWaGJtbGgifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVmQxV0UwdFRubElVSFZVTWxwc1ZWUndiVnBPT1RaNk1VVnNXSFJzWVVKVlpsUlhOMk56TjE5NWRIbFZjREozU2pZMVVERmZkWGRqV2t4V1NHY3hjM00wVHpVeGNEaFFWWE5aZFMxRGFYQmZYMHhIUWpOSU5XMXNZazVWWkV4b2NEWjBYemhSZEdWR1owRjFkVGRWYkhZdE5qUkZXWEJmT0RNeWJ6Tm5OMHhXYkVKV05FOVVhWHBzWVdGQ2JFbDVOVkpQVjI4eU9VVTBhekJ2VjFOaFQzQktiRGxCYjI5TlZqZG5iR3hRV1hSaFdsZEdiWGR1VVc1V1dXTTRXbFZ5WVdrdExXdHNlREkxYkcxNkxWSXdSRWhHWjJGMFYxa3dTRkZmZG5kek0wTmlRM1pHWkd4VlNFTjFORzV3T0doc1VHOU5kVXBrTFdkSGEwaDNVMG8xUm1kVVRsaDRPRzlVTlhOTFMwRnpaSGQ2T1ZkbVQxUTNUR2h6UVdjU0YzWlNSbFJhTjNGaVJYVnhZWGRpYTFCemJ6TlJhMEV3R2lKQlJsaHlSV053VHpkMmFFMTZXVWw0UlVkSVkzUkZlVzl2VUdReGNWUmFUVzVuIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Lithuania&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVmQxV0UwdFRubElVSFZVTWxwc1ZWUndiVnBPT1RaNk1VVnNXSFJzWVVKVlpsUlhOMk56TjE5NWRIbFZjREozU2pZMVVERmZkWGRqV2t4V1NHY3hjM00wVHpVeGNEaFFWWE5aZFMxRGFYQmZYMHhIUWpOSU5XMXNZazVWWkV4b2NEWjBYemhSZEdWR1owRjFkVGRWYkhZdE5qUkZXWEJmT0RNeWJ6Tm5OMHhXYkVKV05FOVVhWHBzWVdGQ2JFbDVOVkpQVjI4eU9VVTBhekJ2VjFOaFQzQktiRGxCYjI5TlZqZG5iR3hRV1hSaFdsZEdiWGR1VVc1V1dXTTRXbFZ5WVdrdExXdHNlREkxYkcxNkxWSXdSRWhHWjJGMFYxa3dTRkZmZG5kek0wTmlRM1pHWkd4VlNFTjFORzV3T0doc1VHOU5kVXBrTFdkSGEwaDNVMG8xUm1kVVRsaDRPRzlVTlhOTFMwRnpaSGQ2T1ZkbVQxUTNUR2h6UVdjU0YzWlNSbFJhTjNGaVJYVnhZWGRpYTFCemJ6TlJhMEV3R2lKQlJsaHlSV053VHpkMmFFMTZXVWw0UlVkSVkzUkZlVzl2VUdReGNWUmFUVzVuIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

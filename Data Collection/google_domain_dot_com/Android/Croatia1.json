@@ -1,0 +1,457 @@
+{
+    "search_metadata": {
+        "id": "675310f4b6e4db7f3d17f5c3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c82b210082989a55/675310f4b6e4db7f3d17f5c3.json",
+        "created_at": "2024-12-06 14:57:56 UTC",
+        "processed_at": "2024-12-06 14:57:56 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIHQ3JvYXRpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/c82b210082989a55/675310f4b6e4db7f3d17f5c3.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Croatia",
+        "location_used": "Croatia",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsgjRGs7bOCVskbwN2x07WU73yOWPpq65LL9E6HEdA0kvTfNzpCQtWbp1G4MEicrl1f4jym0",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsgjRGs7bOCVskbwN2x07WU73yOWPpq65LL9E6HEdA0kvTfNzpCQtWbp1G4MEicrl1f4jym0&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cA1_LM1TY-bKEvmRNk--BhDxeO8VDPm-LP2Fv0ipg-oyyxFg6Q",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cA1_LM1TY-bKEvmRNk--BhDxeO8VDPm-LP2Fv0ipg-oyyxFg6Q&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh1M3cBqGj84PYiNYjl6n8eAHtj0hqs40vWJRW1GDCR3nVKEuwU0NiyfLySV5iflLjjjfMYRXBPQmJIqzI0XwpdJxuFnx-soGCG9wg4I_wHToNBIofKSVXWio2BquaWIrANbCaDfo3SauNDNVmcYcG2yLqvw281FOR42GUrqfGCjyA1IzGKJjE27zzJHrjH4pbra3PdkkHwUtU8HwdNbKoufhhibveVRw9yn4ANt-bfzBQcoFe7ddAGZELzgbUSEoOEesXrycOI1bubz_VNcszr7q6GoA52GC56j02pugX_2EL9ViM6aYOcV3Q3g4Pa80H_9tCW",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+since+yesterday&uds=ADvngMh1M3cBqGj84PYiNYjl6n8eAHtj0hqs40vWJRW1GDCR3nVKEuwU0NiyfLySV5iflLjjjfMYRXBPQmJIqzI0XwpdJxuFnx-soGCG9wg4I_wHToNBIofKSVXWio2BquaWIrANbCaDfo3SauNDNVmcYcG2yLqvw281FOR42GUrqfGCjyA1IzGKJjE27zzJHrjH4pbra3PdkkHwUtU8HwdNbKoufhhibveVRw9yn4ANt-bfzBQcoFe7ddAGZELzgbUSEoOEesXrycOI1bubz_VNcszr7q6GoA52GC56j02pugX_2EL9ViM6aYOcV3Q3g4Pa80H_9tCW&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMiVUUyqYEMw_aBh5eSuxA1W7IXL-viElCmqeOU-uhyJvhdU0CWOL1A7fGXGG-6NGcLnvUx8cd9aOpuJ7JlVQ16M71z5NDi87nI6RIcgS791q2wCazyS4x1O01TPiV9I2mJPI6jDz9Tbz4ppcrz1QlVLhoUOR1CNJ22ckpt-x7CLKpZWQw7pSITEF_nj3ZlwW4qEfAJ0I1IQXMfZxYRuoiIP1M-dMSIVbo0PocHAqcZRpLAS4mdYHjI236UJPKivocEw_H_8Nveiy_yXeEzA9OoUC_Lpelvv7sh2Hs0tjuowqit0yQDVJOexUCJ1ngh1agQSRqTLw5Amh8Ozjju9QhmJIblqzg",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+3+days&uds=ADvngMiVUUyqYEMw_aBh5eSuxA1W7IXL-viElCmqeOU-uhyJvhdU0CWOL1A7fGXGG-6NGcLnvUx8cd9aOpuJ7JlVQ16M71z5NDi87nI6RIcgS791q2wCazyS4x1O01TPiV9I2mJPI6jDz9Tbz4ppcrz1QlVLhoUOR1CNJ22ckpt-x7CLKpZWQw7pSITEF_nj3ZlwW4qEfAJ0I1IQXMfZxYRuoiIP1M-dMSIVbo0PocHAqcZRpLAS4mdYHjI236UJPKivocEw_H_8Nveiy_yXeEzA9OoUC_Lpelvv7sh2Hs0tjuowqit0yQDVJOexUCJ1ngh1agQSRqTLw5Amh8Ozjju9QhmJIblqzg&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMhwrom3fRwajZxFCF93muopyo7g7jstiQoIMjfs5dBol9ZdoJ0iKdGkyWU9gmMg9M56EVBUUPPMvdEHLDXE-IkS5O_M-NJuGn52pj5sxV3_t9QDQo4004Kp2U8mP4LTUK5n8i-qJV3sCavUfUQw4Uo9xcVD6SvVyKLTXQ-zqKs3y9PltBp1QWJoGaYIwcSEccjDOUWRC80T2lQGJkN4PwaxAvjcMGL_Pg9BtrzPDTzcDUD5hY4LPV3iz-ccOcbwWGCGOn_F5GGpoReTAt4Fx5uljYbSGRs-3qRJLXj7GSk68OTbR-HG1NJfNy2f7fVwkU4T6h9Qy6mhnGRT5n1YbARRQP_-2g",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+week&uds=ADvngMhwrom3fRwajZxFCF93muopyo7g7jstiQoIMjfs5dBol9ZdoJ0iKdGkyWU9gmMg9M56EVBUUPPMvdEHLDXE-IkS5O_M-NJuGn52pj5sxV3_t9QDQo4004Kp2U8mP4LTUK5n8i-qJV3sCavUfUQw4Uo9xcVD6SvVyKLTXQ-zqKs3y9PltBp1QWJoGaYIwcSEccjDOUWRC80T2lQGJkN4PwaxAvjcMGL_Pg9BtrzPDTzcDUD5hY4LPV3iz-ccOcbwWGCGOn_F5GGpoReTAt4Fx5uljYbSGRs-3qRJLXj7GSk68OTbR-HG1NJfNy2f7fVwkU4T6h9Qy6mhnGRT5n1YbARRQP_-2g&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dswYHzmKvTyqD_yAlM_5LIIMwG9t42mx-6seRBYznKVlz6Bztn_0A4ba-11yLueFutrwFDqaYvXUJJp2_p1E1JudEGNW0ziPlQgq1BAagx2-GFMPQ6IFjbYQUF9jESuQG1-tD-5W__0EyMMSCy2Gr-5haGrePFMBcpXnnh4Pr5yUTYbcf0EcfREfUCCJYNMi5Lj-buBGzIpnQKt1a5GYQl5z3Wa5UquHJUzp_o4Jjp7jRRCETJDsXr70ijaHZ2ETQHbfL_ykZ44WwaB0mMgPgVpR7Qm4h3QkiKv-xNCZ30npfWJhj6i45mbNYqJkLK2oyUaiJxw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dswYHzmKvTyqD_yAlM_5LIIMwG9t42mx-6seRBYznKVlz6Bztn_0A4ba-11yLueFutrwFDqaYvXUJJp2_p1E1JudEGNW0ziPlQgq1BAagx2-GFMPQ6IFjbYQUF9jESuQG1-tD-5W__0EyMMSCy2Gr-5haGrePFMBcpXnnh4Pr5yUTYbcf0EcfREfUCCJYNMi5Lj-buBGzIpnQKt1a5GYQl5z3Wa5UquHJUzp_o4Jjp7jRRCETJDsXr70ijaHZ2ETQHbfL_ykZ44WwaB0mMgPgVpR7Qm4h3QkiKv-xNCZ30npfWJhj6i45mbNYqJkLK2oyUaiJxw&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpqO26ecSsMk_M3hQ7FiWsC3NDmIEivGS0tt7YN4UMeH__ngDE1BaQ7r_5l-fnxGP7o1dZk",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpqO26ecSsMk_M3hQ7FiWsC3NDmIEivGS0tt7YN4UMeH__ngDE1BaQ7r_5l-fnxGP7o1dZk&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTn85DXdH3TOauWwoAlBLoxXM7elidgESroRmrAdHPCMzA-4Ai-XEYhnvnzvKIOa5oTDZBph",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTn85DXdH3TOauWwoAlBLoxXM7elidgESroRmrAdHPCMzA-4Ai-XEYhnvnzvKIOa5oTDZBph&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNzRBzvzcEl7xri_Kl2xu0ABqRzkvfuByZjMk7OFloA_wzFzeus",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNzRBzvzcEl7xri_Kl2xu0ABqRzkvfuByZjMk7OFloA_wzFzeus&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl9_Jb8camUMzzMMoG6DN3Gl6SyUo2aHcCo1udlGCTH4piwgADlanXCcZZnzFGV0E5OY4HUDO",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl9_Jb8camUMzzMMoG6DN3Gl6SyUo2aHcCo1udlGCTH4piwgADlanXCcZZnzFGV0E5OY4HUDO&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0O0qwC0tm-6oo3GuXSOu-MsGfvBhUseug0L2k3v6ne0hkin-zRnPVT_kgaRBpSj9UrhrMUk",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0O0qwC0tm-6oo3GuXSOu-MsGfvBhUseug0L2k3v6ne0hkin-zRnPVT_kgaRBpSj9UrhrMUk&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76cc6Y6GK1XnM0o3RjPnKd4Nd_7uAxRYQQoikuhG2sHbNzUazzyYZAHaXusl5q1Ytwx0NdYZc",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76cc6Y6GK1XnM0o3RjPnKd4Nd_7uAxRYQQoikuhG2sHbNzUazzyYZAHaXusl5q1Ytwx0NdYZc&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPHPR6R9XKTqUkySWi_9ocAOaS5ee_2EjItTnY4-OlJXcVnNdzlzI2nKJ6dDFMUKDn_2l2iU",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPHPR6R9XKTqUkySWi_9ocAOaS5ee_2EjItTnY4-OlJXcVnNdzlzI2nKJ6dDFMUKDn_2l2iU&udm=8&sa=X&ved=2ahUKEwi5t9Lrs5OKAxUaE1kFHdGlL68QxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Endava",
+            "location": "Zagreb, Croatia",
+            "via": "Smart Recruiters Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=o0kzYF2ls6eBTntPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BzrdKKKJCC46iYrgJ7iUS3MkKTEX7kLp7Jeryxtf91l060vxwsnDjSbKXElgB092oIQyROACD-aQaXWOrVU9WauaTdCGLQ1m4LflQo5nO7LTP71GFKoZG_WH4342tYTN8l48TgipwAuDkNvCVfhX4BdpA6Y3hQAAAA&shmds=v1_AXX-3kFLYHq30I3zjSas3oUYDr4UdYLnwOZTkT_y_AVw8lYf_A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=o0kzYF2ls6eBTntPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb3373aed5179e3dd47d557da3a2a7a0f40b00d1950a8523d0b802.png",
+            "extensions": [
+                "9 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nTechnology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.\n\nBy combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.\n\nFrom prototype to real-world impact - be part of a global shift by doing work that matters.\n\nJob Description\n\nDevelopment is the largest discipline at Endava. Our developers design, build, and release software products in multiple programming languages, frameworks, and libraries. Always collaborating with cross-functional project teams, our developers are adaptable problem-solvers with a client-oriented mindset.\n\nWe are looking for a passionate and skilled Android Developer to join our team. You will be responsible for designing, developing, and maintaining high-quality Android applications that deliver an exceptional user experience. As part of a collaborative team, you will work closely with product managers, designers, and other developers to bring ideas to life.\n\nResponsibilities:\n• Design, develop, and release Android applications with clean, efficient, and maintainable code.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Ensure the performance, quality, and responsiveness of applications.\n• Identify and fix bugs, optimize application performance, and improve reliability.\n• Mentor and guide junior team members, fostering their professional growth.\n• Build strong, trusted partnerships with Endava customers by understanding their needs and delivering high-quality solutions.\n• Stay up-to-date with the latest Android development trends, tools, and technologies.\n• Maintain clear and organized documentation for projects.\n\nQualifications\n\nRequired:\n• Proven experience in Android development with Kotlin and/or Java.\n• Strong understanding of Android SDK, UI/UX principles, and design patterns (e.g., MVVM, MVP).\n• Experience with Jetpack libraries (e.g., LiveData, ViewModel, Navigation).\n• Familiarity with consuming RESTful APIs and third-party libraries (e.g., Retrofit, Glide, Ktor).\n• Knowledge of version control systems (e.g., Git).\n• Understanding of mobile app performance and optimization techniques.\n\nPreferred:\n• Experience with Jetpack Compose and modern UI development.\n• Experience with RxJava, Coroutines, or Kotlin Flow.\n• Proficiency in dependency injection frameworks like Dagger and/or Koin.\n• Knowledge of Kotlin Multiplatform (KMP).\n• Familiarity with CI/CD pipelines for Android apps.\n• Experience with Play Store submission process and app lifecycle management.\n• Knowledge of security best practices for Android (e.g., encryption, secure storage).\n\nAdditional Information\n\nWhy Join Us?\n• Opportunity to work on exciting, high-impact projects.\n• Collaborative and inclusive team culture.\n• Flexible working hours and hybrid work options.\n• Competitive salary and comprehensive benefits package.\n• Access to learning resources and professional growth opportunities.\n\nNot Sure if You Meet Every Requirement?\n\nWe encourage you to apply even if you don’t meet every criterion listed. At Endava, we value skills, potential, and a passion for learning. If you’re excited about the role and think you’d be a great fit, we want to hear from you!",
+            "apply_options": [
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/Endava/744000028817923-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/android-developer-at-endava-4084297444?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/android-developer-jobs/116B27EE2797F532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkVuZGF2YSIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoibzBrellGMmxzNmVCVG50UEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Endava",
+            "location": "Split, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=dVlyr5GnzRw5SzCwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BeJ0o4gmIrjoJCqCqx9QLsmRpsS7kAulq3-uLm983WfRrS8cqqQAN5ooS6EKO3iKAyWsfgBheIjETKvz0FrRk7Wq2URt2JI3Xt5WmJzMdhSnf3odsFLJ2Kg_HPezKRw3yzsHnBASw6vk1LZwrfIb8Atk-GgnhAAAAA&shmds=v1_AXX-3kECDJnrCpFmzwOPCqbU9aw0sulZYrk5drzoZIInBFsSUA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=dVlyr5GnzRw5SzCwAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb3373dbc4e9bba74d974d506d2957daa71908083931d8b93b4320.jpeg",
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nTechnology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.\n\nBy combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.\n\nFrom prototype to real-world impact - be part of a global shift by doing work that matters.\n\nJob Description\n\nDevelopment is the largest discipline at Endava. Our developers design, build, and release software products in multiple programming languages, frameworks, and libraries. Always collaborating with cross-functional project teams, our developers are adaptable problem-solvers with a client-oriented mindset.\n\nWe are looking for a passionate and skilled Android Developer to join our team. You will be responsible for designing, developing, and maintaining high-quality Android applications that deliver an exceptional user experience. As part of a collaborative team, you will work closely with product managers, designers, and other developers to bring ideas to life.\n\nResponsibilities:\n• Design, develop, and release Android applications with clean, efficient, and maintainable code.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Ensure the performance, quality, and responsiveness of applications.\n• Identify and fix bugs, optimize application performance, and improve reliability.\n• Mentor and guide junior team members, fostering their professional growth.\n• Build strong, trusted partnerships with Endava customers by understanding their needs and delivering high-quality solutions.\n• Stay up-to-date with the latest Android development trends, tools, and technologies.\n• Maintain clear and organized documentation for projects.\n\nQualifications\n\nRequired:\n• Proven experience in Android development with Kotlin and/or Java.\n• Strong understanding of Android SDK, UI/UX principles, and design patterns (e.g., MVVM, MVP).\n• Experience with Jetpack libraries (e.g., LiveData, ViewModel, Navigation).\n• Familiarity with consuming RESTful APIs and third-party libraries (e.g., Retrofit, Glide, Ktor).\n• Knowledge of version control systems (e.g., Git).\n• Understanding of mobile app performance and optimization techniques.\n\nPreferred:\n• Experience with Jetpack Compose and modern UI development.\n• Experience with RxJava, Coroutines, or Kotlin Flow.\n• Proficiency in dependency injection frameworks like Dagger and/or Koin.\n• Knowledge of Kotlin Multiplatform (KMP).\n• Familiarity with CI/CD pipelines for Android apps.\n• Experience with Play Store submission process and app lifecycle management.\n• Knowledge of security best practices for Android (e.g., encryption, secure storage).\n\nAdditional Information\n\nWhy Join Us?\n• Opportunity to work on exciting, high-impact projects.\n• Collaborative and inclusive team culture.\n• Flexible working hours and hybrid work options.\n• Competitive salary and comprehensive benefits package.\n• Access to learning resources and professional growth opportunities.\n\nNot Sure if You Meet Every Requirement?\n\nWe encourage you to apply even if you don’t meet every criterion listed. At Endava, we value skills, potential, and a passion for learning. If you’re excited about the role and think you’d be a great fit, we want to hear from you!",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/android-developer-at-endava-4083892073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkVuZGF2YSIsImFkZHJlc3NfY2l0eSI6IlNwbGl0LCBDcm9hdGlhIiwiaHRpZG9jaWQiOiJkVmx5cjVHbnpSdzVTekN3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzSnZZWFJwWVEifQ=="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Happening",
+            "location": "Zagreb, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=esKrqiV2qHa3buREAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvE8QhmyDaiuCik4gofoLLkfZCr0dNStLhPsAPV5c3vu6z6NYXHlTyADdOmYkUdvCUAEaocQRhuIukQsvz2Fq1k_dmxSVr2HJ0Ud5emILMfpJgf3obUakWbNQfjvvZVU6b1QNrJc6cIDO8MCmFLVxVfgt-AabbEVGHAAAA&shmds=v1_AXX-3kGFHGYR3G9iQ5-tR4sr9p1BjAKr_8uSRVSSrDm8pBv4-g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=esKrqiV2qHa3buREAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb33733c56a6bcfe07b8446506797657cdd07330946e9f99c45655.jpeg",
+            "extensions": [
+                "10 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an Android Engineer to join our team and contribute to the development of our product. You will have the opportunity to translate designs into reusable, maintainable, and high-quality code, participate in the feature development process from the start, and work alongside with the diverse team of engineers, product managers, products designers and others. You will be working in our Wide and Engaging Content tribe that is enabling our users to utilize statistics for different sport events and base their future decisions based on them.\n\nWhat you'll be doing:\n• Develop and maintain reusable, maintainable, and high-quality code for our Android applications.\n• Ensure code is optimized for performance, scalability, and security.\n• Collaborate closely with the product team to conceptualize, design, and implement new features and innovative experiments.\n• Actively participate in brainstorming sessions, providing technical insights to shape product ideas.\n• Contribute to the continuous improvement of our technology stack, adopting best practices and exploring new tools and frameworks.\n\nWe are looking for someone who has:\n• Proven experience in Android app development with a strong portfolio of applications.\n• Proficiency in Java or Kotlin, and a deep understanding of Android SDK.\n• Experience with RESTful APIs and third-party libraries.\n• Excellent knowledge of architectural and design patterns.\n• Strong experience working with Git versioning tools.\n• Commitment to code quality, testing, and documentation.\n\nBonus points:\n• Familiarity with Rx and coroutines for asynchronous programming.\n• Experience with dependency injection frameworks.\n• Proficiency with Jetpack Compose for modern UI development.\n• Strong skills in benchmarking and optimization to enhance app performance.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/android-engineer-at-happening-4009735326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/pl/job-openings/android-aosp-engineer-irc163207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Globalworkly.com",
+                    "link": "https://globalworkly.com/jobs.php?job=Android+engineer&country=Croatia&city=Zagreb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSGFwcGVuaW5nIiwiYWRkcmVzc19jaXR5IjoiWmFncmViLCBDcm9hdGlhIiwiaHRpZG9jaWQiOiJlc0tycWlWMnFIYTNidVJFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzSnZZWFJwWVEifQ=="
+        },
+        {
+            "title": "J2385958-SGA-Ukraine-Android BSP Developer",
+            "company_name": "Jabil Careers",
+            "location": "Croatia (+1 other)",
+            "via": "Jabil Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=dJvywogGqZ-z-D5vAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7BOJ0s5BGKoWqU61Q6CQU55K0RxqNuZAL0mfxaa3Lv3zwZ99NVnfFsSpPZSX6thaPV1TWo6j9FMlOcO3vcMMPOgoYQUBHGhhVHGcgDy2Rcbi7zCkFPkvJ7HLDSSU75iO9JXnUtMgnaf5n4FlFDE4lHIrysOTBm_22U9o6aFbByGA9NJHWg_oBZwSwb50AAAA&shmds=v1_AXX-3kFE_P9PnYwX8-q49u6uW9pMvdhu387xXZtOPmAzMaDJ1Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=dJvywogGqZ-z-D5vAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About our client\nOur client is designing the next generation of the UC (Unified Communication) product line for audio and video streaming. From the BSP perspective, the client needs help with board bring-up and support the functionality.\n\n‌\n\nMust have experience with:\n• Embedded Linux U-Boot/kernel development and customization, Linux Device Tree development, Android HAL (Hardware Abstraction Layer)\n• Embedded Linux device driver development, optimizations, bug fixing, adding new functionality ( display, power management, wifi, GPIO, etc )\n• Experience debugging issues within the Android Framework and Linux Kernel.\n• Ability to independently read and understand electrical schematics\n• Experience working with source control tools such as Git, Gerrit, GitHub, and with Android command line tools such as adb and fastboot.\n\nPreferred Qualifications:\n• Deep specialized experience in two or more of the following areas: BSP/Board Support Package, Operating Systems, Kernel, Android Kernel, Bootloader, Power Management, RTOS, Linux, Graphics and Display Drivers.\n• Demonstrated experience working collaboratively in cross-functional teams.\n• Familiarity with Android security model (SE Linux policy) and secure boot.\n• Experience with Google’s AOSP architecture developing Android framework services, Android Native applications (JNI / NDK) or system applications in JAVA or Kotlin.\n• Excellent verbal and written communication skills.\n• Must be persistent, possess strong problem-solving skills, and be willing to work with others to find solutions that avoid project stalls.\n• Must be responsible, self-motivated, creative, have a solid work ethic and have a desire to produce a quality product\n• Should have the ability to solve problems that span multiple disciplines, balancing technical and business needs.\n• Ability to handle multiple, competing priorities in a fast-paced environment\n• Ability to navigate ambiguity and deliver incrementally",
+            "apply_options": [
+                {
+                    "title": "Jabil Careers",
+                    "link": "https://careers.jabil.com/en/jobs/job/j2385958-sga-ukraine-android-bsp-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Foundit Malaysia",
+                    "link": "https://www.foundit.my/job/developer-2-programming-western-digital-batu-33005730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Foundit Indonesia",
+                    "link": "https://www.foundit.id/job/developer-2-programming-western-digital-batu-33005730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://my.linkedin.com/jobs/view/project-based-developer-at-%E4%B8%8A%E9%A5%B6%E6%BB%A1%E6%98%9F%E7%A7%91%E6%8A%80-4021876207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Foundit Gulf",
+                    "link": "https://www.founditgulf.com/job/software-developer-senior-junior-flexhr-penang-33256792?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/developer/3646404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Resume-Library.com",
+                    "link": "https://www.resume-library.com/job/view/206283172/certified-python-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/developer-programming-jobs/ED670769077050F9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKMjM4NTk1OC1TR0EtVWtyYWluZS1BbmRyb2lkIEJTUCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJKYWJpbCBDYXJlZXJzIiwiYWRkcmVzc19jaXR5IjoiQ3JvYXRpYSIsImh0aWRvY2lkIjoiZEp2eXdvZ0dxWi16LUQ1dkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Senior Android App Developer",
+            "company_name": "Bluestorm Design",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=EahXq-Czjh1P8sesAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE4HbqKNKC52qgqCq5tLSdojiaR34S5K38TXtS7_-P3Vd1EdHkiRBVoahOMAbc5wxQ8mziiwhTs7ULTSB2CCG7NPuGxCKVlPxqim2muxJfZ1z6NhQseTebHTfzoNVjAnW7DbH3dTncmvV-f0Ri0s4zzS6AkiwdN6QbeBi_CM2R91_9c2mgAAAA&shmds=v1_AXX-3kGbD6gIIkx7plP8_UdVxrUVRlt7ZXuQ5wS04OMx3rEkcg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=EahXq-Czjh1P8sesAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb337391aa1d2172c133ed1b44c89e5027789c2e981782634ee719.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Turkey, Poland, Romania, Malta, United Kingdom, Croatia, Serbia\n\nOur client is a global leader in Sportsbook and Online Casino and they are now looking at scaling up their European operations. They're seeking an experienced Senior Android App Developer to join their team.\n\nResponsibilities:\n\n• Develop features that can be readily tested and scaled, and analyze other engineers' work based on that attitude\n\n• Work cooperatively with a team of experienced engineers in a fast-paced environment\n\n• Maintain ongoing communication with team members and other stakeholders in order to match technical solutions to business goals, which may need attending product meetings and speaking up about the technical side of the story.\n\n• Contribute technical skills to feature design and act as a code and product quality watchdog.\n\n• Participate in task planning and estimation with your team.\n\n• Be in charge of the development process from start to finish, including prototype, validation, implementation, launch, and iteration.\n\n• Improve the codebase on a regular basis, discover bottlenecks, and share your suggestions for improving development efficiency with the team.\n\n• Create an application that is failsafe, high-quality, and responsive.\n\nRequirements:\n\n• 4-6 years of experience building Android applications in a variety of disciplines is required.\n\n• Strong knowledge of Kotlin and JVM\n\n• Knowledge of how to write code that is elegant, manageable, legible, and tested\n\n• Strong communication, collaboration, and problem-solving abilities; ability to confidently defend your technical conclusions to other team members\n\n• Having a thorough grasp of the benefits and drawbacks of various architectures and design patterns (Singleton, Builder, Factory, Strategy, and so on), as well as knowing how and when to use them.\n\nOur client and its brands are equal opportunity employers committed to hiring a diverse workforce and sustaining an inclusive culture. The client does not discriminate on the basis of disability, veteran status, or any other basis protected under federal, state, or local laws.\n\nThis offer from \"Bluestorm Design\" has been enriched by Jobgether.com and got a 75% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6633ea1a0e40d4c6714e01df-senior-android-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/pl-senior-android-engineer-waymo-app-androiddev-careers-jobboard-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBBcHAgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQmx1ZXN0b3JtIERlc2lnbiIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiRWFoWHEtQ3pqaDFQOHNlc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Recommend",
+            "location": "Zagreb, Croatia",
+            "via": "JOIN",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=fF9i81a-4MbyPJW6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRAAsb0niMWWIpqIYKOlomBpaXNs4pKc5LIhu8p9wH8bm2GKYbrvrFte0luVKpzpQ4lLsw3c2IEQVh-BM1yZQ6L5MaoWOVgrkkwQRR288TxazuR4si928kcvESuVhEr9br-dTMlhtbhTS0fKTxgyPDBUcms4VW4X_AGtKdmGiAAAAA&shmds=v1_AXX-3kHAb1xKJc1jn2k9mfk5gt1y-gZrznLxjw6COPHyn8tdFg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fF9i81a-4MbyPJW6AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb337363ee970817fd5d500b360a717d2bd818a5681a2fc782082c.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking a highly skilled and experienced Mobile Application Developer to join our team. The successful candidate will be responsible for designing, developing, and maintaining native mobile applications for both Android and iOS platforms.\n\nThe Mobile Application Developer will work closely with our product and design teams to understand user requirements and translate them into functional and intuitive mobile applications. They will also be responsible for testing and debugging code, as well as staying up-to-date with the latest mobile technologies and best practices.\n\nTasks\n• Develop, and maintain native mobile applications for both Android and iOS platforms.\n• Work closely with product and design teams to understand user requirements and translate them into functional and intuitive mobile applications.\n• Test and debug code to ensure high-quality and reliable applications.\n• Stay up-to-date with the latest mobile technologies and best practices.\n• Collaborate with cross-functional teams to deliver end-to-end solutions.\n• Optimize mobile applications for performance and scalability.\n• Troubleshoot and fix bugs and issues that arise in the mobile application.\n• Participate in code reviews and provide constructive feedback to improve code quality.\n• Contribute to the development of mobile application roadmaps and strategies.\n• Participate in sprint planning.\n\nRequirements\n• 3 or more years of hands-on experience in Flutter.\n• Experience in integrating complex services like Stripe, Paypal, secure chat functionalities, Firebase, Redis, and diverse social network APIs.\n• Exprience in Swagger, Git automations and Riverpod\n\nBenefits\n• Great office environment with private office space for teams and easy-to-reach location\n• Extra vacation days\n• Flexible working hours\n• Work from home\n• Holiday and Xmas bonus\n• ESOP bonus scheme",
+            "apply_options": [
+                {
+                    "title": "JOIN",
+                    "link": "https://join.com/companies/recommend/13010996-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJlY29tbWVuZCIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiZkY5aTgxYS00TWJ5UEpXNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Recommend",
+            "location": "Zagreb, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=eyyN3kvH-aDlIYGvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRAAsb0niMWWIpqIYKOlomBpaXNs4pKc5LIhu8p9wH8bm2GKYbrvrFte0luVKpzpQ4lLsw3c2IEQVh-BM1yZQ6L5MaoWOVgrkkwQRR288TxazuR4si928kcvESuVhEr9br-dTMlhtbhTS0fKTxgyPDBUcms4VW4X_AGtKdmGiAAAAA&shmds=v1_AXX-3kHAb1xKJc1jn2k9mfk5gt1y-gZrznLxjw6COPHyn8tdFg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=eyyN3kvH-aDlIYGvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb3373c013ccae4d90d77029e98a657db8cb2634a5f4f9024424fc.png",
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking a highly skilled and experienced Mobile Application Developer to join our team. The successful candidate will be responsible for designing, developing, and maintaining native mobile applications for both Android and iOS platforms.\n\nThe Mobile Application Developer will work closely with our product and design teams to understand user requirements and translate them into functional and intuitive mobile applications. They will also be responsible for testing and debugging code, as well as staying up-to-date with the latest mobile technologies and best practices.\n\nTasks\n• Develop, and maintain native mobile applications for both Android and iOS platforms.\n• Work closely with product and design teams to understand user requirements and translate them into functional and intuitive mobile applications.\n• Test and debug code to ensure high-quality and reliable applications.\n• Stay up-to-date with the latest mobile technologies and best practices.\n• Collaborate with cross-functional teams to deliver end-to-end solutions.\n• Optimize mobile applications for performance and scalability.\n• Troubleshoot and fix bugs and issues that arise in the mobile application.\n• Participate in code reviews and provide constructive feedback to improve code quality.\n• Contribute to the development of mobile application roadmaps and strategies.\n• Participate in sprint planning.\n\nRequirements\n• 3 or more years of hands-on experience in Flutter.\n• Experience in integrating complex services like Stripe, Paypal, secure chat functionalities, Firebase, Redis, and diverse social network APIs.\n• Exprience in Swagger, Git automations and Riverpod\n\nBenefits\n• Great office environment with private office space for teams and easy-to-reach location\n• Extra vacation days\n• Flexible working hours\n• Work from home\n• Holiday and Xmas bonus\n• ESOP bonus scheme",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/flutter-developer-at-recommend-4085340417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOIN",
+                    "link": "https://join.com/companies/recommend/10708499-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJlY29tbWVuZCIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiZXl5TjNrdkgtYURsSVlHdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Graduate Android Engineer (Student Contract)",
+            "company_name": "Tripadvisor",
+            "location": "Split, Croatia",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=2Hucc9g5MGc17EkEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CIJwo4o2IrjoJEUKrnUvaXKkkXgXLlfp6_im6vKP3199FlXTivWTVYQreeHo4UYhEqLAutPJIyk0TCrW6Qb2cOcBClpxIzBByxwSLi-jai5nY0pJdShqNbra8csw4cCzefJQ_unLaAVz-u364-kw15nCdvWQmK1_x8ICkaDLKeoOGuEfY7-6BRpUpAAAAA&shmds=v1_AXX-3kEnSMQRtS2pyKxrtlJ38OAdmvPTpQOzDYztrZwiATCgnQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=2Hucc9g5MGc17EkEAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb33737a522bebcd2def07f23b16956eaf353bfce087ae1d3ef99d.jpeg",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We believe that we are better together, and at Tripadvisor we welcome you for who you are. Our workplace is for everyone, as is our people powered platform. At Tripadvisor, we want you to bring your unique perspective and experiences, so we can collectively revolutionize travel and together find the good out there.\n\nWant to be part of a team working on the world’s largest travel platform? Tripadvisor aims to make everyone a better traveler by creating products that help people around the world plan and have the perfect trip. As part of the team responsible for our Flagship apps, you get to work on products impacting many millions of monthly active visitors worldwide.\n\nDuring the pandemic our engineering, product, and design teams went back to first principles and redesigned our Flagship mobile apps and the platforms they run on from the ground up. Our new apps are an engineer’s dream to work with: they embrace component-based server-driven UI and clean architecture. Come help us build upon a sound foundation and drive our next wave of growth!\n\nOur Mobile App Product Engineering team is responsible for building and maintaining features in our Flagship iOS and Android apps that delight millions of travelers around the world. This team is looking for a Graduate Android Engineer to join us on a Student Contract basis, preferably with experience designing, building, and maintaining Android apps. The ideal candidate would bring excellent communication skills, technical acumen, a product-mindset, and a desire to grow professionally.\n\nWhat you’ll do:\n• Deliver high-quality, scalable features to millions of travelers across many countries and languages.\n• Collaborate with designers, product managers, and other engineers to iterate on new features.\n• Practice, uphold, and promote high quality and reliability standards, respect clean code principles, implement unit and integration tests.\n\nWhat we’re looking for:\n• 0-3 years of professional experience.\n• Current enrollment in a degree program in Croatia studying Computer Science, Engineering, or a related technical field.\n• Strong Computer Science fundamentals.\n• Experience with Android development, preferably in Kotlin.\n• Knowledge of mobile architecture patterns (e.g., MVVM).\n• Good understanding of reactive programming.\n• Experience in shipping mobile products.\n• Previous work in an Agile environment.\n• User-centric mindset.\n• Great creativity.\n\nNice to haves:\n• Experience with Jetpack Compose.\n• Experience with Kotlin Coroutines.\n• Experience with Clean Architecture.\n• Experience with large, multi-module projects.\n• Experience with dependency injection.\n• GraphQL know-how.\n• Experience with server-driven UIs.\n\nIf you need a reasonable accommodation or support during the application or the recruiting process due to a medical condition or disability, please reach out to your individual recruiter or send an email to AccessibleRecruiting@Tripadvisor.com and let us know the nature of your request. Please include the job requisition number in your message.\n\n#LI-GW1",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/graduate-android-engineer-student-contract-at-tripadvisor-81?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJHcmFkdWF0ZSBBbmRyb2lkIEVuZ2luZWVyIChTdHVkZW50IENvbnRyYWN0KSIsImNvbXBhbnlfbmFtZSI6IlRyaXBhZHZpc29yIiwiYWRkcmVzc19jaXR5IjoiU3BsaXQsIENyb2F0aWEiLCJodGlkb2NpZCI6IjJIdWNjOWc1TUdjMTdFa0VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNKdllYUnBZUSJ9"
+        },
+        {
+            "title": "[BCP Ukraine] Croatia_Senior Android Developer  IRC154935",
+            "company_name": "GlobalLogic",
+            "location": "Zagreb, Croatia",
+            "via": "JOBITT",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=lciY9vJK6mcHVC7WAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXOvQrCMBRAYVz7CA5yZ9HWvw7qpBWK4lAUF0XKTXpJozE3JEF8K19RHVzO-HGSdyepLuuigtPdo7Z0hcIzRo31kaxmDyvbeNYNbOhJhh15gO2hGOez-TSHIexYQCD0sgW2UDIrQ91lG6MLiywLwaQqxK8nU8mPjC0JfmU3FuGXOrToyRmMVE_y0St1VvV7pWGBZs9KS9AWzqg8icH_6wMIXNRAsgAAAA&shmds=v1_AXX-3kFYfDrnfPWb4JvuOBoxCKUEMzsUt85-PqsnBXzYpxuJNA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=lciY9vJK6mcHVC7WAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb33738705a15c4e7c3b56f8076715facbe197001961104e66830f.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Description:The Client is one of the leaders in medical science for more than 40 years, who committed to solving the challenges that matter most – united by a deep caring for human life. The mission is to advance science for life and transform lives through innovative medical solutions that improve patient lives, create value for end-users, and support the employees and the communities in which the Client operates.So, choosing a career with our team isn’t just business, it’s personal.",
+            "apply_options": [
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/de/job-openings/bcp-ukraine-croatia-senior-android-developer-irc154935?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJbQkNQIFVrcmFpbmVdIENyb2F0aWFfU2VuaW9yIEFuZHJvaWQgRGV2ZWxvcGVyICBJUkMxNTQ5MzUiLCJjb21wYW55X25hbWUiOiJHbG9iYWxMb2dpYyIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoibGNpWTl2Sks2bWNIVkM3V0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Senior Android App Developer",
+            "company_name": "Bluestorm Recruitment by Dazzle",
+            "location": "Anywhere",
+            "via": "Bluestorm Recruitment By Dazzle - Teamtailor",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=A8DEgseGgYTQUKUSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU43izZScdGpWhAcdXMpSXqkkTQX7lKp_SC_U13e-IrPotjdMXpiqGPH5DuoU4IGXxgoIcMGrmRAULPtgSJciFzA5bHPOclBKZFQOsk6e1taGhRFNDSpJxn500qvGVPQGdtqv53KFN2qOoURJRMPcEPLo88DxgzmDY2e54DgIzy0YzRrODP9bv0F1_6G76kAAAA&shmds=v1_AXX-3kEXCN_m81k30JAtsSefcoH0vDpUm4Yia8IDETpdPBjtmA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=A8DEgseGgYTQUKUSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/675310f4b6e4db7f3d17f5c3/images/befe162d13bb33736f793850aadbfa29a28ca5181dcb6ef10ad2fc40be0eae16.png",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our client is a global leader in Sportsbook and Online Casino and they are now looking at scaling up their European operations. They're seeking an experienced Senior Android App Developer to join their team.\n\nResponsibilities:\n\n• Develop features that can be readily tested and scaled, and analyze other engineers' work based on that attitude\n\n• Work cooperatively with a team of experienced engineers in a fast-paced environment\n\n• Maintain ongoing communication with team members and other stakeholders in order to match technical solutions to business goals, which may need attending product meetings and speaking up about the technical side of the story.\n\n• Contribute technical skills to feature design and act as a code and product quality watchdog.\n\n• Participate in task planning and estimation with your team.\n\n• Be in charge of the development process from start to finish, including prototype, validation, implementation, launch, and iteration.\n\n• Improve the codebase on a regular basis, discover bottlenecks, and share your suggestions for improving development efficiency with the team.\n\n• Create an application that is failsafe, high-quality, and responsive.\n\nRequirements:\n\n• 4-6 years of experience building Android applications in a variety of disciplines is required.\n\n• Strong knowledge of Kotlin and JVM\n\n• Knowledge of how to write code that is elegant, manageable, legible, and tested\n\n• Strong communication, collaboration, and problem-solving abilities; ability to confidently defend your technical conclusions to other team members\n\n• Having a thorough grasp of the benefits and drawbacks of various architectures and design patterns (Singleton, Builder, Factory, Strategy, and so on), as well as knowing how and when to use them.\n\nOur client and its brands are equal opportunity employers committed to hiring a diverse workforce and sustaining an inclusive culture. The client does not discriminate on the basis of disability, veteran status, or any other basis protected under federal, state, or local laws.",
+            "apply_options": [
+                {
+                    "title": "Bluestorm Recruitment By Dazzle - Teamtailor",
+                    "link": "https://bluestorm.teamtailor.com/jobs/1491909-senior-android-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBBcHAgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQmx1ZXN0b3JtIFJlY3J1aXRtZW50IGJ5IERhenpsZSIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiQThERWdzZUdnWVRRVUtVU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMXB2VWtWWE4zTjVZMTlsVlRGR2FFSTJWVGczVW05MWIwNDRNVEpQUmkxNGRuTm9hVTFPVEdOT1pUWmtibkZ3V1ZOTE9YRlNkMkY1Y1ZwTFIxcFJlVlp6YnpnMWEzVm9WVE5XWVVsd2QxZzRORVJ5Ym1kTGFFRk1kMjFvYVdONVltUnhNRTVFYmtSak1qZFJjVkJhVEVGWWJEbFNhbXR5VEd4c1RrSmpUbVpQZUc1NFJrMDRNMFV3YWpKMGJIcEJWRGR5WkdsSk5YZG5VMmt4V25Sb1JFRXpjMHQ2WW5CRFJsaGFXRGRaYjJWWVNXeG5kME5OTVdzMWNrUjBNa0pTTURaUk4wUXpXRjg1UkZOaGJYSk5jMnBLUVRaT2FWVnFkWFE0VUdKaWNuTmFZMEZ5TVdvMk4zWnpNbWRUVG5ob1NrZGFWRWt3U1hWeVJIaHlhRTFYVVhwZlFUTXpWVko1UVRoeWVFMXNTbVJhYjNsRGFYQjZSRmxqY0VFU0Z6bENRbFJhTjI1MFJscHhiVFZPYjFBd1kzVXRMVkZ2R2lKQlJsaHlSV052TjI1WGRIWk5XV0ZrTmxneUxVVnRMWGxTVDI1M2ExUkZkR0ZuIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Croatia&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMXB2VWtWWE4zTjVZMTlsVlRGR2FFSTJWVGczVW05MWIwNDRNVEpQUmkxNGRuTm9hVTFPVEdOT1pUWmtibkZ3V1ZOTE9YRlNkMkY1Y1ZwTFIxcFJlVlp6YnpnMWEzVm9WVE5XWVVsd2QxZzRORVJ5Ym1kTGFFRk1kMjFvYVdONVltUnhNRTVFYmtSak1qZFJjVkJhVEVGWWJEbFNhbXR5VEd4c1RrSmpUbVpQZUc1NFJrMDRNMFV3YWpKMGJIcEJWRGR5WkdsSk5YZG5VMmt4V25Sb1JFRXpjMHQ2WW5CRFJsaGFXRGRaYjJWWVNXeG5kME5OTVdzMWNrUjBNa0pTTURaUk4wUXpXRjg1UkZOaGJYSk5jMnBLUVRaT2FWVnFkWFE0VUdKaWNuTmFZMEZ5TVdvMk4zWnpNbWRUVG5ob1NrZGFWRWt3U1hWeVJIaHlhRTFYVVhwZlFUTXpWVko1UVRoeWVFMXNTbVJhYjNsRGFYQjZSRmxqY0VFU0Z6bENRbFJhTjI1MFJscHhiVFZPYjFBd1kzVXRMVkZ2R2lKQlJsaHlSV052TjI1WGRIWk5XV0ZrTmxneUxVVnRMWGxTVDI1M2ExUkZkR0ZuIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

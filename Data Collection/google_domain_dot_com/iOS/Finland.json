@@ -1,0 +1,419 @@
+{
+    "search_metadata": {
+        "id": "67530ca4037756ea2d1429f1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4ff6a3ce3371e9da/67530ca4037756ea2d1429f1.json",
+        "created_at": "2024-12-06 14:39:32 UTC",
+        "processed_at": "2024-12-06 14:39:32 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIHRmlubGFuZA&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/4ff6a3ce3371e9da/67530ca4037756ea2d1429f1.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Finland",
+        "location_used": "Finland",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xW-eQRWuAGdt0onl61gHl-cGfPmX6EX2JM0YmDcv5rodXOhejjyJj-jAnBfFQrSekjOp5RKA&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIExAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+since+yesterday&uds=ADvngMgkZ2NWUNqMPCeIPTvlbJe1SJJL-povuLhIbIdSjCnf0tMT6j1gSLCB3oCd07KCgXxtpxvUjvHXVGIhGE5wFi1epTy04oAKeAag8nRa2BvieeCsirj3toZ_CW2x7ntAckF_JIwySf7HbWnN1_isREtLMpinG6M5xjWVoJYET-sbvsl7UwOo6QDxtNd6LolmO6VJVQdlwT3ZGuaWNbatYnQXKUeVzFyDz-1TgF9Fwu8JPvNdIHVkjouNWOX9yFbZkrlw4UDwyvXoqhcIaJQGfdk_pFXJtUbpbElTYY-HiKB0UTvSzymwQEx2QSA69jtj7_e3Qzw3&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8WKS6558MHwqyVZneCcmgpv0TyEE_Y7a47UzDXqBfkgVAiV_2miWUCbBQEztOik96KXOO5k7xPEesocOpwhzRqsR2r9QuiE0qn6SwKeDafO6af9d9b0rP3d8A7UlzyndJ-CxOX1FwKlPAnkYh0L00OZfdDhUYFGxbujcm97bOqit2VMy1VCzWzJ8ppPpaBFW46lzKRA4mxFJ9h1hBlNVbuHPyPnUzwtx6pJWXDDNfRPgAzAGWQfV7qDiYe-tAfF220nx7ianhytBXZePgDdGfwY2hKsAzV9caZzHsq9nVLiMVJiU&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dHO0sdlwiOpoAPoxvtj6e9aZ-SUuE0eSsE-yvE-2gNHSolGqBKB9uNlosTariX-zJlNyXvhFAnkwrBC85NPHFj-7UpmPY2UywRp-SiVszldZoiu_czC82Us7p2BfgtHDffzG2FYvhVeh3SFqbwgzGeWDPa4zkQHl1pmuY95UqpAHfVi31Z7_Uoy711XsdhnZMlR0hmRrG2W8GiIWSRzDWgnlNHRwb8SdtPLeKYEvq20fGqEi0N8bInMpLCLO7ww5mFvc2GdREr9qJXhJlRvJGywR7uiRAWN_GslhPd6RNIP2JNVwAgUAITz0SX0BoyTm3biNS9g&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWowU2FHkvs2aSG_iV-79VUaXQe5P4Nq2GR9Xs3f8ph_zw20UljzDEOQdJSbtscPXTV5bjVgIOetexL-siwWvYjkHj_2O2dYx6qjVC5VZrV9jJs_vfSyocICfCCF_LSFqPxrAGzdVRSV6QTJ2cw2I1DJah4XeTtp6mPPU2ahPzbcbEZssgr9kQePRY4U_ztA7Xg7zsx7gxXyFugzhKX4-lhYAjJrtZzaQSXgCjqTsCNYu9TRGqEC8C0K3ew4of9mSHNQ62jvLLl2l_rXxTVAJwqBgByzAYyiUxLgh52nwXOM8N1nbh9Yh8mtk7nNg50hQYpwgrA&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaKVPlSm1yZ2VZr_wew_rblFZtq7KFEynkhkpHBsnJqp97Vm1ms&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxSINiYl3KwR2ebIVitmP-qJ-8cZ-yt6o_WjjDsynbHs-qm-Pjs&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXQxtf-VfdJ5Vi__3Bqx_p0j4S9y77NtDBB-Ocrdms6MPopNoJB89zFiZHHf783y8ZUGOXRc&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWMk37lxGOrLxDvWEqgCBL2wPTqrMoECefWSALHS6f-nw_yTFwNiaHh6FvYzU9dzgimQ9GPk&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymPnebGxC2WhfKJ-N7vsw-FwPzV055zmQafYF0vMdNfpLDkbLVT5h9QVqNgRc40WhsWsDdV1A&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4Phj7jjGZMvjI96gC5EGZC2AfLWzI8B57fBQegPV5EpQLPlJKQ&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIFBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGEsCeFd4hc6Crf-ErEVUVgsFhCQ10Km5MQ-2b830DlK-_4vFWQ&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIJxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v8EfyedifUokyMPpmi8tXQ9rcZNi7zG8glPCXjXgZ_cDPRuDyXJPni8xWvG67R5yXJmGX9c&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Ios+developer+certification"
+        },
+        {
+            "name": "Job description",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU",
+                "q": "Ios developer job description"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+job+description&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2liGwKdONScv7RUGVaFmceQ2BbD-80yWzWmxsOp6tRIzGlD1t-xYeX7UmEFEBk-d8hCU7IM3fQPvvGfWhgiFcmNs_nsvsJccTF7PxM-5iGks8eHCGkAFsMhfZyLlxraBfurIlJfU&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Ios+developer+job+description"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=360d606574466e04&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zbCFsMVG0VmJqomk4BP8e8R8yLxG8LLJd4clYqBzsDPVCs4lNqowP6voAsq_N_u1Qgld5Co&udm=8&sa=X&ved=2ahUKEwicms7dr5OKAxUu6ckDHahZPJQQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Lead iOS Developer | Swift & SwiftUI | Helsinki-Based Startup",
+            "company_name": "Treamer",
+            "location": "Finland",
+            "via": "LinkedIn Suomi",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=9Yzz6dg4hwu7XqpwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yWOuwrCQBAAsU1pabWVhZBEBBvtRHwhWCTWYZOsyenl9rhdNYX_42-q2MzAVBO9B1F-JKzBnDJY04MsewrwguxpLgrjv8_7b9mRFeNuJl6hUA2ZYtC7hxgOXIIQhqoFdrBlbiyNlq2ql0WaitikEUU1VVJxl7Kjkvv0yqX8UEiLgbxFpWI2n_aJd81kmAfC7vthHGyMs-jqD9zZyVuqAAAA&shmds=v1_AXX-3kHR7xAi6hf6bWXegrCzpXrvAfIN9vh9mUWOdbTKZHP6IQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=9Yzz6dg4hwu7XqpwAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b2a1df6e65b70714772a54fa70bd8685ab66bc7532af344c73.jpeg",
+            "extensions": [
+                "1 month ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 month ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Treamer, we’re building the “LinkedIn for frontline workers,” a dedicated social and career growth platform aimed at empowering essential professionals.\n\nOur mission is to offer frontline workers a space for networking, creative expression, and professional development while businesses leverage Treamer to access fast, AI-driven hiring and hyper-targeted advertising within this engaged community.\n\nWith monthly revenues surpassing €200k and a fast-growing market share, we’re on track for exponential growth.\n\nAs our Lead iOS Developer based in Helsinki, you’ll play a critical role.\n\nYour Role at Treamer\n\nYou will lead the development of our iOS app, driving everything from core functionality to architectural improvements. Key responsibilities include:\n• Leading the design, development, and release of the Treamer iOS app.\n• Implementing unit and UI tests to ensure a seamless user experience.\n• Collaborating closely with the Product Manager, CTO, and colleagues on tradeoffs and options, on tech stacks and long-term improvements.\n• Making key technology decisions regarding our mobile apps architecture and APIs needed\n• Helping colleagues and receiving help\n\nWhat you’d need to feel great at Treamer\n\nWe appreciate deep skills, but being a startup particularly much we value wide interests, flexibility and interest in helping peers and getting help from them. It is a clear bonus if you are into trying new tech or other platforms-technologies-libraries, especially Kotlin Multiplatform that is on trial in one part of the app.\n\nHave interest in culture that encourages and expects improvements in the way we work and experimentation with both processes and solutions-prototypes. Discussions on short vs long term optimization, ability to scale if/when needed are very normal at Treamer\n\nHave interest in startups. We used to be a peer-to-peer odd jobs marketplace, then became a well known gig platform, now our aspirations are to become a LinkedIn for the frontline workers. We are constantly pushing for 10x growth and refining our Product-Market Fit. It helps if you are interested in growth and sharing success via stock options.\n\nWhat We Offer\n• Competitive salary and stock options package\n• A good startup environment and high trust level. You will be supported by UX, product management and peers, but you’ll have a lot of say in deciding how things should work, which tech to use. Collaboration on how our service should evolve will be appreciated and expected\n• Regular opportunities to work on what you think is needed for the service and not what product management thinks. We mean it and practice it\n• Competent development team that is still small enough for a single team feeling (less than 10 people in core development including designer and product manager)\n• Mostly decent code with Swift/SwiftUI and proper hardware equipment: laptop, phone, monitor, essential software, and any additional tools you need, plus a phone plan\n• Opportunity for in-office environment (few meters from Helsinki’s Kamppi mall) while hybrid mode is fine as well. We are flexible with vacation days, working hours and it is absolutely fine if you want to work from home several times a week, yet full remote is not well compatible with us\n• No-nonsense management. People at Treamer have several startups under their belt. We have worked on web services with millions of users (still running), we had our Android and iOS apps featured in the App Store and Google Play way more than once. Even some of our hobby projects sometimes dominate the less known app stores for months.\n• Access to exclusive housing loan deals and other special benefits from our financial partner Nordea, occupational healthcare with Terveystalo\n• Company events and gatherings: not just your usual Pikkujoulu and Juhannus, but also not so official afterwork events for those interested\n\nWhy Treamer?\n\nWhile office workers have an abundance of tools available, the frontline workers are overlooked in today’s digital landscape. Our target is to become the largest global technology company transforming the world of work for frontline workers. Join us as we scale our impact and capture a share of the €630B global market.\n\nThis is your chance to be part of a team that’s reshaping the digital landscape for an underserved community. If you’re passionate about using technology to transform the labor market and want to work in a fast-moving, purpose-driven company, we’d love to hear from you.\n\nApply now, or reach out with any questions to Artem Marchenko, Treamer CTO at artem@treamer.com",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Suomi",
+                    "link": "https://fi.linkedin.com/jobs/view/lead-ios-developer-swift-swiftui-helsinki-based-startup-at-treamer-4066748329?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIGlPUyBEZXZlbG9wZXIgfCBTd2lmdCBcdTAwMjYgU3dpZnRVSSB8IEhlbHNpbmtpLUJhc2VkIFN0YXJ0dXAiLCJjb21wYW55X25hbWUiOiJUcmVhbWVyIiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiOVl6ejZkZzRod3U3WHFwd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "Senior Mobile Developer (iOS/Android)",
+            "company_name": "Qvik",
+            "location": "Helsinki, Finland",
+            "via": "Levels.fyi",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=jy-9AM-Ivgl8CJPEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2B3rao4o2InhRL4KoCCLSB5SkWdq1cTdkQ-lLfK84hym-k-JYIZMkeIijgHDGAYNETDCnZ2VO7JOQX8Aa7uJA0aamA2G4irQBZ4cu56h7Y1RD2Wq2mZqykY8RRiejeYvTf7V2NmEMNmO93W3GMnK7nL4G6oEYbhiUuKcVXIiDZf8DsiaxUZkAAAA&shmds=v1_AXX-3kHRXaBstgJctrNKeNTb89Jt0OnmUxppczUhlLrNogCZtw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=jy-9AM-Ivgl8CJPEAAAAAA%3D%3D",
+            "extensions": [
+                "29 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Qvik, we are elbow-deep in the consultancy business, but above all in the people business. Since 2008, we at have been building mobile experiences for consumers, e.g. in the fields of media, finance, travel and mobility, and retail. We create digital solutions for millions of end users every day by doing design, development and consultation work with our clients. And not just any clients, but the most desirable ones in the consumer market – such as Suunto, Säästöpankki, Oura and Kesko, just to name a few.\nOur international community consists of 140+ designers, developers and consultants based in Helsinki and Stockholm. We've been rocking the industry for 16 years now. We are not a typical top-down corporation, but an inclusive work community where individuals can affect how we roll.\n\nAre you the one, a new Qvikie?\nAt Qvik, we hire talented people that are more than a pair of coding hands.\nThis means that, besides coding amazing software, you have the ability to discuss the best technology choices and solutions with clients, including in the sales phase of a project. We take pride in our work, have the curiosity to take our personal development to the next level, and want to share our know-how with our colleagues. We want to see the same kind of spark in you.\n\nBut let's talk about tech. Modestly put, we offer the best possible tech solutions for our B2C customers' needs. To be able to contribute to this, your tech skills should heavily rely on:\n\nSwift / Objective-C and/or Kotlin\n\nAlso experience with cross-platform technologies such as Flutter or React Native is considered a plus.\n\nExperience in any other languages, platforms, technologies or environments are a definite plus for you as a future Qvikie. Responsive design and native apps are the things that make you tick. Any apps already in the store will show a good case for your experience. Seniority in leading projects, mastering agile methodologies, and passion for solving multifaceted tech problems is a definite plus. You probably have comprehensive knowledge in a couple of the mentioned languages and frameworks but, more importantly, you have an interest in learning new ones too. Currently, we are searching for pros who are located in Finland, Uusimaa and are comfortable working in Finnish alongside English.\n\nThe people you work with will be from different backgrounds and have different strengths. This means that we cherish a culture of open-mindedness, equality and empathy toward all people. At the moment, we are reinventing our DEI practices on the company level to make Qvik the best place to work for everyone – but there’s always more work to be done, and we hope that you want to be a part of it.\n\nOh, those projects\nAt Qvik, you'll be working in small and autonomous tech teams. Our projects are typically a combination of application and web design and development (hybrid or native), and some APIs in the backend.\n\nYou work in our customers’ development teams, usually together with other Qvikies. The end products you are working with are something you can show to your family and friends – products you can and want to use yourself. We don’t deliver off-the-shelf tricks, but build new solutions from scratch to fit our customers' demands. So you will usually work with cutting-edge software and not so much with legacy – what could be better than that!\n\nOur offer\nWe want to care more. We are concentrating on creating an even more inspiring and safe culture, learning by doing, deepening our professionalism, and building an even stronger community.\n\nThe salary level in this position will be somewhere between 5,000 –6,500 €/month + bonuses.\nOur basic benefits package is also pretty nice: lunch, commuter, culture and sports benefits, and a bike benefit. Obviously, we provide you with the tools of your choice. We also offer occupational health care with extra health insurance, travel and accident insurance and many company-supported sports and hobby opportunities with other Qvikies.\n\nSupporting the Qvikies' health and work-life balance is essential for us. We offer a sick-child care service for smoother sailing over the flu season, as well as personal support for life challenges via the Auntie service. And don't forget the community glue, aka parties – we are pretty good at setting up some jams, too :)\n\nIn addition, we offer our low-hierarchy culture; flexible working hours; opportunities to try, fail and succeed; as well as a chance for you to concentrate on your actual work. Because that's what you are coming here to do, right?\n\nOk, what next?\n• Please apply through our recruitment system to ensure that all personal information is processed appropriately.",
+            "apply_options": [
+                {
+                    "title": "Levels.fyi",
+                    "link": "https://www.levels.fyi/jobs?jobId=104141193318671046&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAoaU9TL0FuZHJvaWQpIiwiY29tcGFueV9uYW1lIjoiUXZpayIsImFkZHJlc3NfY2l0eSI6IkhlbHNpbmtpLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJqeS05QU0tSXZnbDhDSlBFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "Senior Mobile Developer (iOS/Android)",
+            "company_name": "Qvik",
+            "location": "Helsinki, Finland",
+            "via": "LinkedIn Suomi",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=oEdu313op7Emp-5DAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2B3rao4o2InhRL4KoCCLSB5SkWdq1cTdkQ-lLfK84hym-k-JYIZMkeIijgHDGAYNETDCnZ2VO7JOQX8Aa7uJA0aamA2G4irQBZ4cu56h7Y1RD2Wq2mZqykY8RRiejeYvTf7V2NmEMNmO93W3GMnK7nL4G6oEYbhiUuKcVXIiDZf8DsiaxUZkAAAA&shmds=v1_AXX-3kHRXaBstgJctrNKeNTb89Jt0OnmUxppczUhlLrNogCZtw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=oEdu313op7Emp-5DAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b2222def7029739fe9885186649c3ee05291e22f7b6d18816c.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Qvik, we are elbow-deep in the consultancy business, but above all in the people business. Since 2008, we at have been building mobile experiences for consumers, e.g. in the fields of media, finance, travel and mobility, and retail. We create digital solutions for millions of end users every day by doing design, development and consultation work with our clients. And not just any clients, but the most desirable ones in the consumer market – such as Suunto, Säästöpankki, Oura and Kesko, just to name a few.\n\nOur international community consists of 140+ designers, developers and consultants based in Helsinki and Stockholm. We've been rocking the industry for 16 years now. We are not a typical top-down corporation, but an inclusive work community where individuals can affect how we roll.\n\nAre you the one, a new Qvikie?\n\nAt Qvik, we hire talented people that are more than a pair of coding hands.\n\nThis means that, besides coding amazing software, you have the ability to discuss the best technology choices and solutions with clients, including in the sales phase of a project. We take pride in our work, have the curiosity to take our personal development to the next level, and want to share our know-how with our colleagues. We want to see the same kind of spark in you.\n\nBut let's talk about tech. Modestly put, we offer the best possible tech solutions for our B2C customers' needs. To be able to contribute to this, your tech skills should heavily rely on:\n\nSwift / Objective-C and/or Kotlin\n\nAlso experience with cross-platform technologies such as Flutter or React Native is considered a plus.\n\nExperience in any other languages, platforms, technologies or environments are a definite plus for you as a future Qvikie. Responsive design and native apps are the things that make you tick. Any apps already in the store will show a good case for your experience. Seniority in leading projects, mastering agile methodologies, and passion for solving multifaceted tech problems is a definite plus. You probably have comprehensive knowledge in a couple of the mentioned languages and frameworks but, more importantly, you have an interest in learning new ones too. Currently, we are searching for pros who are located in Finland, Uusimaa and are comfortable working in Finnish alongside English.\n\nThe people you work with will be from different backgrounds and have different strengths. This means that we cherish a culture of open-mindedness, equality and empathy toward all people. At the moment, we are reinventing our DEI practices on the company level to make Qvik the best place to work for everyone – but there’s always more work to be done, and we hope that you want to be a part of it.\n\nOh, those projects\n\nAt Qvik, you'll be working in small and autonomous tech teams. Our projects are typically a combination of application and web design and development (hybrid or native), and some APIs in the backend.\n\nYou work in our customers’ development teams, usually together with other Qvikies. The end products you are working with are something you can show to your family and friends – products you can and want to use yourself. We don’t deliver off-the-shelf tricks, but build new solutions from scratch to fit our customers' demands. So you will usually work with cutting-edge software and not so much with legacy – what could be better than that!\n\nOur offer\n\nWe want to care more. We are concentrating on creating an even more inspiring and safe culture, learning by doing, deepening our professionalism, and building an even stronger community.\n\nThe salary level in this position will be somewhere between 5,000 –6,500 €/month + bonuses.\n\nOur basic benefits package is also pretty nice: lunch, commuter, culture and sports benefits, and a bike benefit. Obviously, we provide you with the tools of your choice. We also offer occupational health care with extra health insurance, travel and accident insurance and many company-supported sports and hobby opportunities with other Qvikies.\n\nSupporting the Qvikies' health and work-life balance is essential for us. We offer a sick-child care service for smoother sailing over the flu season, as well as personal support for life challenges via the Auntie service. And don't forget the community glue, aka parties – we are pretty good at setting up some jams, too :)\n\nIn addition, we offer our low-hierarchy culture; flexible working hours; opportunities to try, fail and succeed; as well as a chance for you to concentrate on your actual work. Because that's what you are coming here to do, right?\n\nOk, what next?\n• Please apply through our recruitment system to ensure that all personal information is processed appropriately.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Suomi",
+                    "link": "https://fi.linkedin.com/jobs/view/senior-mobile-developer-ios-android-at-qvik-4089336038?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAoaU9TL0FuZHJvaWQpIiwiY29tcGFueV9uYW1lIjoiUXZpayIsImFkZHJlc3NfY2l0eSI6IkhlbHNpbmtpLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJvRWR1MzEzb3A3RW1wLTVEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "iOS Engineer",
+            "company_name": "Oura",
+            "location": "Finland",
+            "via": "Top-Tier Software Developer Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gGzRXXePx4tZ22CRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L2Lu9OBm2AigovOKrh06AeUSzySk_Qu5CL086VveIMNBx4neEhiIWpwgrcGMMIWM6jASzUV2t9z79Vu3psVl6xj5-iiLl6Fgq7-q8G2ZsvYqBbsNF-u59VVScfd-GsILPBkKSifP2vQA2B1AAAA&shmds=v1_AXX-3kG7Wf0UyE85-1RybWdk5SjZv49sphnFeI8xn8JIXzSFow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gGzRXXePx4tZ22CRAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "“This is either a mid-level or senior position.”\n\nDescription\nOur mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped over a million people understand and improve their health by providing daily insights and practical steps to inspire healthy lifestyles.\nEmpowering the world starts with living and empowering our team. As a quickly growing company focused on helping people live healthier and happier lives, we ensure that our team members have what they need to do their best work — both in and out of the office.\nOura’s engineering organization consists of talented developers distributed across the EU and US. For day-to-day feature work, our engineers are organized into smaller cross-functional feature squads or teams. Our squads have a great deal of autonomy and are responsible for the development and architecture of their features. Squads take full ownership of their code and handle everything from concepting, design and implementation to release, maintenance and bug fixes.\nYour team, the Personalization Squad, is dedicated to building AI-driven user experiences and technology solutions for personalization. In this role, you would focus specifically on innovating user interface solutions related to AI and enhancing our app-side personalization-related architecture, including data models and computational architecture.\nWhile this role is primarily for an iOS engineer, if you possess both an interest in and technical experience working with cloud backend and LLM technologies, there are opportunities to engage in both app-side and server-side tasks.\nThis is an on-site or remote (hybrid) Finland-based role with a preference for candidates who are not fully remote and near our offices in Helsinki or Oulu.\nThis is either a mid-level or senior position.\nWhat you will do:\n• Work together with a passionate team of engineers, designers, and product manager creating stellar product experiences around AI.\n• Develop and maintain high-quality iOS code with a focus on personalization features.\n• Ensure high quality through code reviews, automatic testing, and engineering best practices.\n• Drive forward our AI, personalisation and app architecture together with other engineers.\n• Collaborate with other teams and experts such as app engineers, ML engineers, behavioural scientists, and content creators.\n\nWe would love to have you on our team if you have:\n• A minimum of 3 years of professional development experience shipping iOS apps.\n• Strong experience with Swift and UIKit, modern iOS app architectures, and common third-party libraries and frameworks.\n• Experience with collaborative development on complex shared codebases.\n• Proficiency with Git, branching, and standard code review workflows.\n• A focus on quality through unit tests and manual testing.\n• You deeply care about what you build as a whole, both from an engineering and end-user perspective.\n\nWe also appreciate if you have one or more of the following:\n• Experience building products on top of LLMs.\n• Experience with any of the following iOS technologies: Swift structured concurrency, Combine, SQLite/GRDB, CoreAnimation, CoreGraphics, PyTorch.\n• Experience building backend systems (Python and AWS).\n• Ability to mentor other engineers and increase developer productivity across teams.\n• Experience working asynchronously across countries and time zones.\n• Experience with health, wellness, or fitness products.\n• Strong systems architecture and performance optimization experience.\n• Deep computer science fundamentals and design patterns knowledge\n• Contributions to open-source projects or an impressive personal portfolio\n\nWhat we offer:\n• Competitive salary\n• Lunch benefit\n• Wellness benefit\n• Flexible working hours\n• Collaborative, smart teammates\n• An Oura ring of your own\n• Personal learning & development program\n• Wellness Time Off\n\nIf this sounds like the next step for you, please send us your application and CV as soon as possible, but by August 11th the latest. We aim to start interviewing as soon as possible but may be out for most of July.\nOura is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. Individuals seeking employment at Oura are considered without regards to age, ancestry, color, gender (including pregnancy, childbirth, or related medical conditions), gender identity or expression, genetic information, marital status, medical condition, mental or physical disability, national origin, socioeconomic status, protected family care or medical leave status, race, religion (including beliefs and practices or the absence thereof), sexual orientation, military or veteran status, or any other characteristic protected by federal, state, or local laws. We will not tolerate discrimination or harassment based on any of these characteristics.",
+            "apply_options": [
+                {
+                    "title": "Top-Tier Software Developer Jobs",
+                    "link": "https://www.devjobspro.com/jobs/104-ios-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJPdXJhIiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiZ0d6UlhYZVB4NHRaMjJDUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "SENIOR IOS DEVELOPER (Espoo, Finland)",
+            "company_name": "State Tech",
+            "location": "Espoo, Finland",
+            "via": "Työpaikat | Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=AoAWPYtGAHJ_EmzvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1WNsQrCMBQAce0niMMbVbQRwUUdjVIRI424lqQ-mkrMC30Z-iv-rXV0uem4yz6jbK_ltVAlFErDQT7kRd1kCVPJkWgBxzZ4E54zWMKZLDCarnZAAU5EjcfxzqUUeSsEs88bTia1dV7TW1BAS714keUfKnamw-hNwmq9WfV5DM18ogcf4Y5Dsg3wv_wC2dloz5wAAAA&shmds=v1_AXX-3kEMe_Ma6zk68C5BI93-7DJdIyYlra9B_ph1nT2ohrgUNA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=AoAWPYtGAHJ_EmzvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b2f0e910fc32a60f2debf4935f4b3f584f2685eb9b38c141f7.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for a senior iOS developer to help our client to develop their cloud platform. The client wants you to be the leading expert in relation to iOS development in the development team. Your responsibility is to develop a cloud gaming service for the iOS client. However, no game development or graphic experience is needed as the product is not a mobile game.\n\nFor this role, the senior-level experience is a minimum requirement for it is expected to be able to produce clean quality code that is scalable and to have a very good skillset regarding architecture in general. You are a good match if you are able to work rather independently, enjoy sharing your knowledge, and follow the latest technologies in software development.\n\nYour qualifications\n\nThe main requirements for this project are:\n\n– Senior-level experience with development projects in the iOS environment\n\n– Strong skills with Swift programming language\n\n– Good architecture know-how\n\n– You know what it takes to produce scalable, clean, quality code\n\nLocation: Espoo on-site, flexibility for remote work as well\n\nWork: Full-time\n\nStart date: ASAP, but negotiable\n\nDuration: Long-term, open duration (1-year contract to begin with)\n\nLanguage: Fluent English and/or Finnish\n\npay rate $40-50\n\nAre you interested?\n\nIf this opportunity interests you and you would like to know more, forward your CV immediately to\n\nInfo@statetech.net\n\nJob Features\n\nJob Category\n\nMobile Developer\n\nQualification\n\na:2:{s:5:\"label\";s:13:\"Qualification\";s:5:\"value\";s:5:\"Swift\";}\n\nExperience\n\na:2:{s:5:\"label\";s:10:\"Experience\";s:5:\"value\";s:7:\"3+ Year\";}\n\nPay Rate\n\na:2:{s:5:\"label\";s:8:\"Pay Rate\";s:5:\"value\";s:9:\"40-50 /hr\";}",
+            "apply_options": [
+                {
+                    "title": "Työpaikat | Indeed",
+                    "link": "https://fi.indeed.com/viewjob?jk=d6492454b4f9bed5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTRU5JT1IgSU9TIERFVkVMT1BFUiAoRXNwb28sIEZpbmxhbmQpIiwiY29tcGFueV9uYW1lIjoiU3RhdGUgVGVjaCIsImFkZHJlc3NfY2l0eSI6IkVzcG9vLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJBb0FXUFl0R0FISl9FbXp2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "iOS developer",
+            "company_name": "Lamia",
+            "location": "Finland",
+            "via": "Ite Wiki",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=VcGdeY2EF7E2WR_4AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P0mZ6cMToKtCC66eyCCgx9wpL3QVnpJaaLc54tveMNn2JXnC2b6UpVGHQ5wlwBK2GMGYRhFUqXtNZs1vXivWl1SQyvRRVm8MAVZ_VuC_ps0Y6dW0Wg6nY-ra5z2mwcuBaEw3ApX5PkHfqfy5ncAAAA&shmds=v1_AXX-3kG8hH4fokGKZDIf7gKUthFR1U3HNxj9vGanLsQq6CG5Yg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=VcGdeY2EF7E2WR_4AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Haluamme viedä digitaalisen palvelukokemuksen uudelle tasolle – myös mobiilissa. Siksi täydennämme nyt ohjelmistokehityksen tiimiämme osaavilla",
+            "apply_options": [
+                {
+                    "title": "Ite Wiki",
+                    "link": "https://www.itewiki.fi/rekryilmoitus/ios-developer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgZGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTGFtaWEiLCJhZGRyZXNzX2NpdHkiOiJGaW5sYW5kIiwiaHRpZG9jaWQiOiJWY0dkZVkyRUY3RTJXUl80QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "Senior Mobile Developer (Android/iOS)",
+            "company_name": "Nitor",
+            "location": "Helsinki, Finland",
+            "via": "Työpaikat | Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=sT8vSCh0Mu0WFylOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAwAUFz7CU4ZVbQngou6CKIiqEM_oNy1oY3G5Lgc0j_xd9Xlra_4jIpdhUKa4KqBGOGAb2SNmGCylzYptY7u1RQWcNEAhj41PajASbVjHG_7nKNtnDPjsrPsMzVloy-ngkEH99Bgf2rrfcLIPmO9Wi-HMko3G98o_2YSOCMbyZPmcCRhL-0X7dDrd5oAAAA&shmds=v1_AXX-3kEf1PLxjr-CWLPFhPcKP97wnM2ZAmphcESBkVp8p8ZE6A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=sT8vSCh0Mu0WFylOAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b287727a5542d807da71371d6dae5a8d64e682f89668d7b448.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Mobile Developerin roolista Nitorilla\n\nMobiilikehityksessä tärkeimmät kehitysalustamme ovat iOS ja Android. Kehitämme niin natiivi-sovelluksia Swiftillä, Objective-C:llä ja Kotlinilla kuin cross-platform ratkaisuja React Nativella. Pääset toteuttamaan itseäsi myös uusimmilla tekniikoilla kuten SwiftUI:lla ja Jetpack Composella.\n\nToimiva perusta on se, minkä päälle laadukas sovellus rakennetaan. Siksi pyrimme aina käyttämään parhaita mahdollisia ja moderneja arkkitehtuuriratkaisuja, kuten reactive programming, unidirectional dataflow, MVVM ja clean architecture. Kehitämme laajoja ja pitkäaikaisia sovelluksia, joten tässä roolissa saat vastuuta sovelluksen ylläpidosta ja laadun kehittämisestä pitkällä aikavälillä.\n\nMobiiliprojektiemme kesto on usein vuodesta useampaan vuoteen riippuen omista toiveistasi. Useimmissa projekteissa toimit osana asiakkaan kehitystiimiä, jossa on mukana myös useampi muu kokenut nitorilainen.\n\n✅ Mitä tarvitaan mobiilikehittäjänä menestymiseen Nitorilla?\n• Mobiiliprojektimme ovat tyypillisesti haastavia kokonaisuuksia, mikä edellyttää aikasi seuraamista ja ohjelmistokehityksen periaatteiden hyvää tuntemista. Ymmärrät esimerkiksi, miksi singleton on pahasta ja miksi dependency injection hyvästä. Asynkroninen ohjelmointi on sinulle tuttua.\n• Usean vuoden kokemusta ohjelmistokehityksestä erilaisten palvelujen/tuotteiden parissa, jotta pystyt toimimaan asiakasprojekteissasi lisäarvoa tuovana asiantuntijana. Asiakkaamme odottavat usein lähemmäs kymmentä vuotta relevanttia kokemusta.\n• Olet kirjoittanut yksikkötestejä ja kenties jonkun integraatiotestinkin. Kiinnostus pilviympäristöjä kohtaan, kuten AWS ja Firebase, katsotaan eduksi.\n• Tunnet alustariippumattomia ohjelmistokehyksiä, joilla voi toteuttaa sovelluksia eri päätelaitteille sekä ymmärrät ketterän laadunvarmistuksen käytäntöjen merkityksen mobiilikehityksessä.\n• Arvostamme intohimoista suhtautumista laadukkaan ohjelmakoodin tuottamiseen, testien kirjoittamiseen ja kykyä ottaa haltuun uusia varteenotettavia teknologioita.\n• Meille on tärkeää kyky tehdä töitä ketterästi tiimin yhteisten päämäärien saavuttamiseksi asiakaslähtöisessä ympäristössä. Tämän vuoksi arvostamme hyviä tiimityötaitoja sekä konsultatiivista ja asiakaslähtöistä ajattelutapaa. Sujuvaa suomen ja englannin kielen osaamista\n\nMiksi Nitorille?\nMielekkäiden projektien ja räätälöityjen ammatillisten kehittymismahdollisuuksien lisäksi tarjoamme sinulle henkilöstöetukokonaisuuden, joka todella tuntuu. Koko Nitor on rakennettu sen mukaan, että voimme tukea sinun urakehitystäsi sekä kestävää työtahtiasi ja hyvinvointiasi. Tässä esimerkkejä etupaketistamme:\n• Voit käyttää 10 % työajastasi omaan ammatilliseen kehittymiseesi yrityksen tukemana.\n• Haluaisitko osallistua johonkin alasi kiinnostavaan tapahtumaan? Voit käyttää vuodessa 5 työpäivää koulutus- tai konferenssimatkoihin missä päin maailmaa tahansa.\n• Työväline- ja kotitoimistohankintoihin sinulla on vapaasti käytettävissäsi 7100 € “Rautapankki”, joka täydentyy joka kuukausi.\n• Täydet lomat työsuhteesi alusta asti riippumatta siitä, mihin aikaan vuodesta aloitat.\n• Täydet kulttuuri- ja liikuntaedut, hierontaetu sekä työmatka- ja polkupyöräetu.\n• 500-2000 € bonus jokaisesta suorittamastasi sertifikaatista.\n• Todella laaja työterveyspaketti sekä terveysvakuutus, jotka kattavat mm. erikoissairaanhoidon palvelut, hammaslääkäripalvelut sekä mielenterveyden tuen\n• Yhteisöllisyyttä vaalimme muun muassa useilla vuosittaisilla yhteisillä matkoilla (olemme olleet mm. Pisassa, Berliinissä, Wienissä, Edinburghissa ja Dubrovnikissa sekä pohjoisen hiihtokeskuksissa), sesongin mukaisilla tapahtumilla ja viikoittaisilla yhteisillä kokoontumisilla ja aamiaisilla. Tervetuloa vaikkapa juoksuklubiin, viininmaistajaisiin, leffailtoihin, HIIT-treeneihin tai lautapelikerhoon!\n• Toimintatapamme perustuvat luottamukseen, avoimuuteen ja toistemme kunnioittamiseen; jokainen nitorilainen tuo oman lisänsä yrityksen toimintaan. Arvostamme ja vaalimme erilaisuutta sekä sen tuomaa lisäarvoa asiakkaillemme.\n\nTulevasta työnantajastasi\n\nNitor on vuonna 2007 perustettu digitaalinen insinööritoimisto, jossa työskentelee noin 300 tulevaisuuden liiketoiminnan rakentajaa. Jokainen nitorilainen on digitaalinen insinööri; pragmaattinen ja ratkaisukeskeinen tiimipelaaja, joka ei tyydy oletuksiin. Meille ominaista ovat todella korkea ammattitaito ja ylpeys niin omasta kuin kollegoidemmekin työstä. Työskentelemme yhdessä suurimpien suomalaisten yritysten kanssa ja autamme heitä onnistumaan paremman digitaalisen maailman rakentamisessa.\n\nKasvumme on vahvalla pohjalla: liikevaihtomme on kasvanut jokainen vuosi, vuonna 2023 kasvatimme liikevaihtoamme jo 17. peräkkäisenä vuotena yltäen 40 miljoonan euroon. Olemme jälleen vuonna 2023 saaneet Onwayn vertailussa IT-alan parhaan sijan asiakastyytyväisyydessä kahdettatoista vuotta putkeen, minkä lisäksi omat työntekijäkyselymme kertovat vuodesta toiseen todella korkeasta tyytyväisyydestä Nitoriin työnantajana. Tunnustuksena erinomaisesta työntekijäkokemuksestamme, meidät palkittiin vuoden 2023 vetovoimaisimpana työnantajabrändinä Suomessa. Poissaolollaan loistavat keskijohto, mikromanageeraus sekä itseään toistavat ja vaikutukseltaan marginaaliset asiakasprojektit. Nitorilla voit luottaa siihen, että saat keskittyä täysin omaan projektiisi meidän pitäessämme huolen kaikesta muusta.\n\nNitorilla avoin yrityskulttuuri ja läpinäkyvyys ovat oleellinen osa arkeamme. Yksi tärkeimmistä arvoistamme on yhteisöllisyys. Toimintatapamme perustuvat luottamukseen, avoimuuteen ja toistemme kunnioittamiseen. Jokainen Nitorilainen tuo oman mausteensa yrityksen toimintaan ja yhteisöön. Arvostamme ja vaalimme erilaisuutta sekä sen tuomaa lisäarvoa, täällä ei pakoteta ketään tiettyyn muottiin.\n\nKuulostaako lupaavalta? Lähetä meille LinkedIn-profiilisi tai CV:si ja jutellaan lisää siitä, mitä Nitor voisi sinulle mahdollistaa.\n\nNitorin rekrytointiprosessi\n\nRekrytointiprosessimme heijastelee arvojamme – kyseessä on selkeä ja avoin nelivaiheinen dialogi, jonka aikana pääset tapaamaan vähintään neljä nitorilaista. Tarjoamme sinulle kaiken mahdollisen tiedon, jota tarvitset tehdäksesi päätöksen seuraavasta työpaikastasi.\n\n1. Tutustuminen Nitoriin: Kartoitamme keskeisimmät uratoiveesi. People Partnerimme kertoo Nitorista, projekteistamme ja siitä, miltä työsi Nitorilla voisi näyttää.\n\n2. Tekninen haastattelu: Tapaat kaksi mobiilikehittäjäämme, joiden kanssa kartoitetaan teknisen osaamisesi vahvuudet ja laajuus. Saat myös ensikäden tietoa projekteistamme ja Nitorista työnantajana.\n\n3. Avoimet kysymykset: Tuplatsekkaamme, että olet saanut vastauksen kaikkiin mahdollisiin kysymyksiisi. Tarkennamme tulevaa rooliasi Nitorilla ja pohjustamme tulevaa työtarjoustasi.\n\n4. Tarjouksen esittely: Esittelemme tarjouksen joko toimistollamme tai online-tapaamisessa, jolloin voit kysellä heti lisätietoja tarjoukseen liittyen.\n\nKuulostaako lupaavalta? Haluatko olla mukana mahdollistamassa koodin ikitakuun, jonka asiakkaillemme annamme? Lähetä meille LinkedIn-profiilisi tai CV:si ja jutellaan lisää siitä, mitä Nitor voisi sinulle mahdollistaa.",
+            "apply_options": [
+                {
+                    "title": "Työpaikat | Indeed",
+                    "link": "https://fi.indeed.com/viewjob?jk=9d88dee755e71e9e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAoQW5kcm9pZC9pT1MpIiwiY29tcGFueV9uYW1lIjoiTml0b3IiLCJhZGRyZXNzX2NpdHkiOiJIZWxzaW5raSwgRmlubGFuZCIsImh0aWRvY2lkIjoic1Q4dlNDaDBNdTBXRnlsT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "Reaktor",
+            "location": "Helsinki, Finland",
+            "via": "No Whiteboard",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=S62YrqukRk-_0iu9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvE8QhmyDaiuCiq6gILv7A0dbQixeT0hS5D_DDxTe87jvrlneNxAgn_CBrwQobuGkEw1DTACpwUc2M8-PQWrGD92bssrXQKLmkb6-CUSf_0mj_ehtCxcKhYb_bbydXJK8WDwxj0wokcEU2kpHWcCbhIM8fC9FHz4cAAAA&shmds=v1_AXX-3kEj0Mpvyq-AXuo8clH66LppAKR4dDYd99Wgz5SxSjHkvA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=S62YrqukRk-_0iu9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b20dd5a0b526a3675002d26ccb7e1bd6a5ff7332c8b07e04c4.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "• Do you have a passion for well-functioning mobile apps?\n• Would you like to work in a multidisciplinary team of highly motivated professionals helping clients reach their full potential with mobile solutions?\n• Are you keen on building apps that make life better for millions of consumers every day?\n\nOur award-winning tech community is looking for talented Mobile Developers to join our office in Helsinki, Turku, Tampere or jump into our remote talent community spread across Finland.\n\nWhat you’ll do\n\nBuild digital services that improve people’s everyday lives\n\nYour daily tasks could include:\n• Creating mobile apps from scratch for either iOS or Android platforms. Our mobile developers usually focus heavily on designing the app's architecture and developing the back-end.\n• Various tasks regarding existing mobile apps. Your day-to-day may include reading through the code, evaluating the app architecture, and giving feedback.\n• Adding new features and functionalities to existing mobile apps. Not all of our projects include creating the mobile app from scratch but working on an existing one adding new features or improving its functionality.\n• Adding functionalities to the back-end of the app. Your job might not be to be responsible for the back-end yourself, but you should be able to at least understand the field to support the team who is.\n• Prototyping focusing on either excellent UX and visual identity or validating the functionalities in practice.\n\nWhat we’re looking for\n\nA mobile developer who lives for modern mobile development\n\nTo thrive in this position, you’ll need:\n• An ability to develop for either major platforms, iOS or Android, either natively or using cross-platform tools like Flutter or React Native. Experience from mobile development close to five years or more.\n• A good overall understanding of the modern mobile development landscape and different programming paradigms (e.g. unit and e2e testing, CI/CD, object-oriented and functional programming, UX, analytics, REST/GraphQL APIs)\n• Knowledge of app architecture, and state management.\n• A demonstrated ability to adopt new software engineering technologies and methods (e.g. side projects with different technologies indicates this nicely)\n• A flexible mindset. You don’t get scared if the project requires you to get familiar with e.g. web or back-end development or something else outside your core competences\n\nWhy join us?\n\nFor two decades, we’ve been developing qualities and capabilities for adapting, reacting, and supporting change – building Reaktor to hold up in a fast-paced environment while ensuring the well-being of our people.\n\nWhile working at Reaktor, we’ll provide you with:\n• The freedom to impact how you work. Your team chooses the approach, technologies, and methodologies you think will work best in any given situation.\n• A community with as much support as your heart desires\n• A team that’s not only experienced but considerate as well. Your coworkers are likely as experienced as you are, and they all want you to succeed.\n• A sustainable work-life balance and support for your daily life outside of work. ( E.g. free moving day, moving van & other cars to loan for free, sick child care services, office space to use for your private events, etc.).\n• An opportunity to grow as a professional. We offer +35 internal training events on average every month, +15 community events, and several 15-minute coffee breaks to discuss hot topics in tech and design.\n• A possibility to participate in academy-like studies like leading a team, delivering challenging projects, Cloud Academy, Mobile Academy, GraphQL Academy, UX Academy, and much more.\n• 300+ hobby clubs from winter swimming and running to knitting and archery that bring people together outside (and sometimes inside) of office hours. Many of these are supported by Reaktor.\n\nIn addition to our culture perks, we’re offering you an extensive benefit package including the following and more:\n• Extended healthcare services, with broad-spectrum specialist services included\n• Dental care up to 250€/year\n• 300€/year for exercise and relaxation\n• 200€/month lunch benefit on top of your salary\n• Travel and health insurance\n• Company shares\n• Bicycle benefit and commuting benefits\n• Subsidized massages\n• A phone of your choice with a phone subscription\n• Internet subscription of your choice\n• State-of-the-art working equipment you pick yourself\n• A program to support Open Source work\n• Support for possible relocations and help to acquire a residence permit if needed\n\nInterested? Drop us a line via the form below and introduce yourself.",
+            "apply_options": [
+                {
+                    "title": "No Whiteboard",
+                    "link": "https://www.nowhiteboard.org/jobs/62688e44f10425b221e31ea8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Findjob24h.com",
+                    "link": "https://fi.findjob24h.com/zh/mobile-application-developer-job9093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUmVha3RvciIsImFkZHJlc3NfY2l0eSI6IkhlbHNpbmtpLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJTNjJZcnF1a1JrLV8waXU5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=EuVsMxVnrvkmBvCYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsLCK5mLZiI6Ea3WkEXgj1ASeuQpKQzIZOW3seLGjf_8d7iV99V9WyQPCfwrwauOGPgiAl20ERDXpy-kQ2FpdRTCPDGkTMWe3AHgib1DpjgzmwDbi4u5yhnrUWCspJN9r3qedRM2PGiB-7kP604kzAGk7E9nPaLimS363Ipx8HMRuEEnqD2FAx9ftu-8RCmAAAA&shmds=v1_AXX-3kFPsQHOmywHdZW_qAIqSBfOhrIUhEzZGvWCXoMh5NkMCA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=EuVsMxVnrvkmBvCYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b21f2b96eaa31596e08c395efefc9a93447cd3bdbd5f483944.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiRXVWc014Vm5ydmttQnZDWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "Medior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=gmRlguypruzpJLusAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsLCK5mLZiI6Ea3WkERwR6gpO2QpKQzIZOW3seLWjf_8d7iF99V8Xxh5zmBf1dwxQkDR0ywgyoa8uL0jWxYuJRyDAE-OHDGxR7cgKBJrQMmuDPbgJuLyznKWWuRoKxkk32rWh40EzY8654b-U8tziSMwWSsD6f9rCLZ7Xq5lGNvJqNwBE9QegqGuh-jkt5hpgAAAA&shmds=v1_AXX-3kHibjuaGoppKNFRiiMrlQBXg0bDoFJctvKeevBj4fbI9Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gmRlguypruzpJLusAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67530ca4037756ea2d1429f1/images/8b76a06a800d92b2ed402f3d8c5f748c7e8487a58306de3289f1de58a9f0c4e5.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Medior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf791691db-medior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNZWRpb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiZ21SbGd1eXBydXpwSkx1c0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVWhCTldOUFF6TXpXa3R0YWkxaU1YWldVMVZQVVhrM1MwOTBOMDlJWkhKWU1uVXlWREJqVmt4MVIzRlBVRXhwTWpWclpUZG9XVkE1WkZSNFJGaDJOMFJ1ZW10bFJXdHFjMVJ5U205SFpVdDVTSEpNYWs1eVNrOWFSREJLU2swdGVqUnpaVkJxWmtJM1RGUTBablZpVkdGUk4xVnBkSE5pU2w5M04wRlViRFpKY0RoVGVITnNWWFZ0VjBjMVkwWm1NRmR3YnpWdmVFZDFYME5sUkRob05sWllUekZFWmtSblRGVmhRMnBoYVRabmVraHhVWGM1Wkdzd1ZsTTRTRkZIVTBkTGREZE1iMEZvTTJ4MU9WQlhkVTFuV2xBdFlTMXdaMjFDUkVkbE9EVmhRbTE0VW5jemJYZzFkRkkxTkRBNGQwUkpUVE5hWTFOaU1FeEZPRTkwVURoS2JEQXdjQklYY0ZGNFZGbzVlWHBETmpkVGNEZzBVSEZNVUhodlVXc2FJa0ZHV0hKRlkzRlRTVzFEZFRCeFdGOUxTMDF0ZDA1bFVITTFlVzVaUW1kMGNWRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVWhCTldOUFF6TXpXa3R0YWkxaU1YWldVMVZQVVhrM1MwOTBOMDlJWkhKWU1uVXlWREJqVmt4MVIzRlBVRXhwTWpWclpUZG9XVkE1WkZSNFJGaDJOMFJ1ZW10bFJXdHFjMVJ5U205SFpVdDVTSEpNYWs1eVNrOWFSREJLU2swdGVqUnpaVkJxWmtJM1RGUTBablZpVkdGUk4xVnBkSE5pU2w5M04wRlViRFpKY0RoVGVITnNWWFZ0VjBjMVkwWm1NRmR3YnpWdmVFZDFYME5sUkRob05sWllUekZFWmtSblRGVmhRMnBoYVRabmVraHhVWGM1Wkdzd1ZsTTRTRkZIVTBkTGREZE1iMEZvTTJ4MU9WQlhkVTFuV2xBdFlTMXdaMjFDUkVkbE9EVmhRbTE0VW5jemJYZzFkRkkxTkRBNGQwUkpUVE5hWTFOaU1FeEZPRTkwVURoS2JEQXdjQklYY0ZGNFZGbzVlWHBETmpkVGNEZzBVSEZNVUhodlVXc2FJa0ZHV0hKRlkzRlRTVzFEZFRCeFdGOUxTMDF0ZDA1bFVITTFlVzVaUW1kMGNWRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}
