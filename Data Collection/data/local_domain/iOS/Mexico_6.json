@@ -1,0 +1,292 @@
+{
+    "search_metadata": {
+        "id": "678508910232baf3931a51e0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d30f7e7cf9740f78/678508910232baf3931a51e0.json",
+        "created_at": "2025-01-13 12:35:29 UTC",
+        "processed_at": "2025-01-13 12:35:29 UTC",
+        "google_jobs_url": "https://www.google.com.mx/async/callback:550?q=iOS+developer&uule=w+CAIQICIGTWV4aWNv&udm=8&fc=EswCCowCQUpHOUprTWVpOU1ObDRKS2lOcWhYamk5LUF0dWFJcDUybUNMNWNuV3lZT0pxYmo5SDFQaDc3YWFWbDhyM3EtX3RtZ0F4NE5sbk5jMDg1RWtQR1djWjBtMnE4ZF9NaHlSQjhyM3NEY1JvMS1qRHFGd3VKaEJQWTZWeEROSDB3aXpjVlhXQm84ZlRJbFNRRmlHRFVhRHZpOTZZQUgwSi1KSllKOFJxbFJfLXlPRXl1MDNiZUpHMWUtZ2RydXIweGxnV3RKcVNnZE52amJUVi1aR2pBb1VaV2VtaVdCb1FSc2w5VDcyT294aklvWVJMTy1xU0txVG9RX2hMQ2NkQ0RZZ1BwU2NvSTQyTnhycBIXa0FpRlo4VHVGNlN2dXI4UGhkZU8tUUUaIkFGWHJFY3JUOFNCcXVRc0R3eWlBRnJ6ZHZiVzBKa2x1SkE&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/d30f7e7cf9740f78/678508910232baf3931a51e0.html",
+        "prettify_html_file": "https://serpapi.com/searches/d30f7e7cf9740f78/678508910232baf3931a51e0.prettify",
+        "total_time_taken": 0.76
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Mexico",
+        "location_used": "Mexico",
+        "google_domain": "google.com.mx",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUV1ZwT1UxT2JEUktTMmxPY1doWWFtazVMVUYwZFdGSmNEVXliVU5NTldOdVYzbFpUMHB4WW1vNVNERlFhRGMzWVdGV2JEaHlNM0V0WDNSdFowRjRORTVzYms1ak1EZzFSV3RRUjFkaldqQnRNbkU0WkY5TmFIbFNRamh5TTNORVkxSnZNUzFxUkhGR2QzVkthRUpRV1RaV2VFUk9TREIzYVhwalZsaFhRbTg0WmxSSmJGTlJSbWxIUkZWaFJIWnBPVFpaUVVnd1NpMUtTbGxLT0ZKeGJGSmZMWGxQUlhsMU1ETmlaVXBITVdVdFoyUnlkWEl3ZUd4blYzUktjVk5uWkU1MmFtSlVWaTFhUjJwQmIxVmFWMlZ0YVZkQ2IxRlNjMnc1VkRjeVQyOTRha2x2V1ZKTVR5MXhVMHR4Vkc5UlgyaE1RMk5rUTBSWloxQndVMk52U1RReVRuaHljQklYYTBGcFJsbzRWSFZHTmxOMmRYSTRVR2hrWlU4dFVVVWFJa0ZHV0hKRlkzSlVPRk5DY1hWUmMwUjNlV2xCUm5KNlpIWmlWekJLYTJ4MVNrRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Software Developer - iOS App Development",
+            "company_name": "Capital One",
+            "location": "Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=RUKVRWUOF3QVlJwJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXNsQrCMBCAYVy7uzjdLJiI4KKDiIIgSIc-QEnCmaakuaN3aF_E97UOLv_wLX_1WVSnhp76diPCFV-YiXGEDaS6gTPz3wYsOuudPAi6MXRABW5EMePq2KmyHKwVySaKOk3BBBosFfQ02Z68_NJKN184O8V2t99OhktcLy-Ok7oMdUFIBR44pUBfF9PlXZgAAAA&shmds=v1_AUFQtONHggb-Uh-EBgMQzbI5RZ0oROW58JIir95TUCqt5KQjiw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=RUKVRWUOF3QVlJwJAAAAAA%3D%3D",
+            "extensions": [
+                "21 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Capital One\n\nWe're on a mission to revolutionize banking through cutting-edge technologies like iOS mobile applications. Our engineers are passionate about delivering exceptional experiences, and we're looking for talented individuals to join our team.\n\nSalary: $120,000 - $180,000 per year",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/0dede0d0459c9aca4cfc12a8c0539293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXIgLSBpT1MgQXBwIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiQ2FwaXRhbCBPbmUiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28iLCJodGlkb2NpZCI6IlJVS1ZSV1VPRjNRVmxKd0pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Rivka Development",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=zITqJq882Zg4WXwFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXNsQoCMQwAUFzvE3TJ4CTYiuCiqyAIIugHHGkJbbXXlCYcHf10cXB56xs-i2Gd7k8400yZKzXYwpUdCGHzEbjAhTlkWp6iapWjtSLZBFHU5I3nyXIhx92-2MmPUSI2qhmVxv1h100tYbN6pPmN_2SiopAK3Kgnz1_C8FnUgwAAAA&shmds=v1_AUFQtONY3r7wKn2byA1Dygjn-0Vvj-U4NYIvMstKcP-5M8XU9A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=zITqJq882Zg4WXwFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508910232baf3931a51e0/images/6cf40a2ea3a8c24fde4995948eeae64b1b682b83201afa5a172276ecf3232ed2.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Latin America, Mexico\n\nLocation: Remote (Based in Latin America)\n\nAbout the Role:\nWe are seeking a talented and motivated iOS Developer to join our dynamic team. As an iOS Developer, you will play a key role in designing, developing, and maintaining innovative mobile applications that delight our users. This is a fully remote position, and we are looking for candidates based in Latin America to collaborate within our team across time zones effectively.\n\nKey Responsibilities:\n• Design, develop, and maintain high-performance, reliable, and scalable iOS applications.\n• Collaborate with cross-functional teams, including designers, product managers, and backend developers, to define and deliver new features.\n• Write clean, efficient, and maintainable code following best practices for iOS development.\n• Ensure the performance, quality, and responsiveness of applications through rigorous testing and debugging.\n• Stay up to date with the latest industry trends, tools, and technologies to continuously improve development processes.\n• Participate in code reviews to ensure high-quality standards and knowledge sharing within the team.\n• Optimize applications for maximum speed and scalability.\n\nQualifications:\n• Proven experience (3+ years) as an iOS Developer.\n• Proficiency in Swift and Objective-C for iOS development.\n• Strong understanding of iOS SDK, Xcode, and design patterns.\n• Experience working with RESTful APIs and third-party libraries.\n• Familiarity with version control systems such as Git.\n• Knowledge of mobile UI/UX standards and guidelines.\n• Experience with testing frameworks and debugging tools for iOS applications.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and teamwork skills.\n\nPreferred Qualifications:\n• Experience with SwiftUI.\n• Familiarity with CI/CD pipelines for mobile applications.\n• Knowledge of app performance optimization techniques.\n• Experience in agile development environments.\n\nBenefits:\n• Fully remote work environment.\n• Flexible working hours.\n• Opportunities for professional growth and development.\n• A supportive and inclusive team culture.\n\nIf you are passionate about building exceptional iOS applications and want to work in a remote, collaborative, and innovative environment, we would love to hear from you!\n\nThis offer from \"Rivka Development\" has been enriched by Jobgether.com and got a 80% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6759b83589ea74961a414b11-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUml2a2EgRGV2ZWxvcG1lbnQiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28iLCJodGlkb2NpZCI6InpJVHFKcTg4MlpnNFdYd0ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Senior Ios Developer",
+            "company_name": "Ntt Data",
+            "location": "Xico, Veracruz, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=oxTG8UWvl_42FvRcAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CU6Ho9ZEBBddC6KgiyBu5RqOJhJzIXdK8CP8ZnV5w2s-k2ZxoRS4wIEFOnpR5EwFlnDkAYSwOA-cYM88RpruvGqWrbUi0YyiqMEZxw_LiQau9s6D_OnFY6EcUalfb1bV5DTOZ2dV6FARQoJbcNzClQq68ny3cKL6my-ViSfokQAAAA&shmds=v1_AUFQtOPkYJWjzM7ptrtlVWla6HX1webfbQcbVe89DRCdhxRsPg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=oxTG8UWvl_42FvRcAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508910232baf3931a51e0/images/6cf40a2ea3a8c24f82188731e4ba11d6576b4231e705bb258230ea7496a7694e.gif",
+            "extensions": [
+                "1 day ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Senior iOS Developer (Remote)\n\nWe are currently seeking a skilled Senior iOS Developer to join our team in Mexico City, México. As a key member of our Emerging and Immersive Technology group, you will design and deliver elite digital solutions for our clients.\n\nThe ideal candidate will have extensive experience with iOS development, XCode, Objective C, Swift, UIKit, and Rest API integrations. A strong understanding of software architecture, agile methodologies, and cloud message APIs is also essential.\nKey Responsibilities:\n• Design, develop, and modify software systems using mathematical models to predict and measure possible outcomes.\n• Perform upgrades and maintenance while modifying existing software to improve performance, correct errors, and allow adaptation to new hardware.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Work with outside data sources and APIs.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\nRequirements:\n• 3+ Years' experience as an iOS developer.\n• 3+ Years' experience in XCode, Objective C, Swift 4, 5.\n• 3+ Years' experience in UIKit.\n• 1+ Years' experience in building MVC, MVVM, MVP architecture.\n• 3+ Years' experience in Rest API integrations.\n• Bachelor's Degree or equivalent combined work and education experience.\nPreferred Qualifications:\n• Android experience.\n• Experience in Cocoa framework.\n• Experience with various UI/UX designs.\n• Experience with offline storage such as SQLite, Core Data, Realm.\n• Experience in UI components like Core Animation, Auto layout, Size Classes, SnapKit.\n• Familiarity with cloud message APIs and push notifications.\n• Experience working in Agile and DevOps model.\nIdeal Mindset:\n• Lifelong Learner: Always seeking to improve technical and nontechnical skills.\n• Team Player: Willing to go the extra mile to help teammates succeed.\n• Listener: Prioritizes customer needs throughout development.\n• *Salary:** $80,000 - $110,000 per year",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/3f891a427b1a07031a5aeb166131738a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSW9zIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik50dCBEYXRhIiwiYWRkcmVzc19jaXR5IjoiWGljbywgVmVyYWNydXosIE1leGljbyIsImh0aWRvY2lkIjoib3hURzhVV3ZsXzQyRnZSY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Trabajo Desde Casa iOS Developer / Ref. 0047",
+            "company_name": "BairesDev LLC",
+            "location": "Mexico City, Mexico",
+            "via": "Computrabajo",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=NMUQh0QL80pudR0XAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVz7CE43OIk2RRRBNyMIUhHUvVzj2abEXMgFqW_kY1rB5Ydv-rPPKNO3iDV2DHuSO4FGQbDn68AXOQ4UQcGFHjkUxXINczhyDUIYTQvs4cDcOBpv25SCbJQScXkjCZM1ueGnYk8196rjWn6ppMVIwWGiarEq-jz4ZjrZoY0kwxDKUoP1cKLeGgZt03v2xxfXC27qqwAAAA&shmds=v1_AUFQtOOTT1B7G9Fy4700tM-WIwgeVJyHMj-JAGnhPC4kWb6J8A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=NMUQh0QL80pudR0XAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508910232baf3931a51e0/images/6cf40a2ea3a8c24f6b2ac29ecace6e58218226dc2f06da8ebaf67861df1ff15c.gif",
+            "extensions": [
+                "28 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países.Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev.\n\niOS Developer en BairesDev\n\nSer un Desarrollador Senior iOS en nuestro equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades sean una combinación de experiencia, conocimientos e independencia. Innovación también está en el corazón de la estrategia en BairesDev. Así que, si estás dispuesto a asumir las tareas más complejas y ser un maestro en tu pila de tecnología, para iOS, entonces tu eres probablemente uno de esos únicos que estamos buscando.\n\n¿Qué harás?\n\n- Crear excelentes aplicaciones móviles que se integren con servicios en la nube.\n- Participar en el ciclo de vida completa del desarrollo de producto, desde la ideación hasta la entrega y el soporte.\n- Trabajar dentro de un equipo de rápido movimiento para desarrollar diseños nítidos, crear un gran código y llevar productos al mercado rápidamente.\n- Liderar el desarrollo e implementación de nuevas mejoras claves.\n- Ayudarnos continuamente a evolucionar nuestros procesos y diseños para generar una ventaja competitiva.\n- Crear maquetas y prototipos para expresar ideas y recopilar feedback.\n- Compartir tus pensamientos e ideas de manera libre y constructiva, pero también escuchar bien a los demás.\n- Crear las mejores aplicaciones móviles para dispositivos iOS y relojes inteligentes.\n\n¿Qué Buscamos?:\n\n- 6+ años de experiencia trabajando como desarrollador.\n- 5+ años de experiencia en desarrollo iOS.\n- Experiencia con bases de datos SQL y NoSQL.\n- Experiencia con Microservicios y la Nube.\n- Conocimiento avanzado en algoritmos.\n- Conocimiento en infraestructura de TI.\n- Gestión de metodología ágil intermedia.\n- Sólida comprensión de las mejores prácticas, principios SÓLIDOS, código LIMPIO y soluciones escalables.\n- Conocimiento en diseño de patrones.\n- Experiencia desarrollando aplicaciones completas desde cero.\n- Experiencia en pruebas automatizadas, procesos CI/CD.\n- Experiencia sólida en control de versiones.\n- Experiencia comprobada en pruebas unitarias, pruebas integrales y cobertura de código.\n- Nivel Avanzado de Inglés.\n\nQué ofrecemos para que tu trabajo (y tu vida) sea más fácil:\n\n- Trabajo 100% remoto: trabaja desde tu casa o donde quieras.\n- Compensación en USD o en tu moneda local, como prefieras, muy por encima de la media del mercado.\n- Hardware y software.\n- Horarios flexibles\n- Licencias por mater/paternidad, vacaciones y días festivos nacionales pagos.\n- Ambiente laboral multicultural e innovador, perfecto para hacer amigos, colaborar y aprender de las personas más talentosas del mundo.\n- Oportunidades de crecimiento y desarrollo profesional a través de mentorías y entrenamientos.\n\n¡Únete a nuestro equipo global!.\n\n-Requerimientos- Educación mínima: Educación superior - Licenciatura\n5 años de experiencia\nPalabras clave: remoto, remote, teletrabajo, home, desarrollador, programador",
+            "apply_options": [
+                {
+                    "title": "Computrabajo",
+                    "link": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-ios-developer-ref-0047-en-miguel-hidalgo-D31AEBDD989A622C61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com.mx/details/4981170888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted",
+                    "link": "https://www.jobted.com.mx/job/a24508fe6a236c6ff7e040d12b3081f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJUcmFiYWpvIERlc2RlIENhc2EgaU9TIERldmVsb3BlciAvIFJlZi4gMDA0NyIsImNvbXBhbnlfbmFtZSI6IkJhaXJlc0RldiBMTEMiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJOTVVRaDBRTDgwcHVkUjBYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Android & Ios Developer",
+            "company_name": "Corporativo Lumston",
+            "location": "Guadalajara, Jalisco, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=Tp0cp3mUES3T98wSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBG4dhyBKupLIyC0dhoZTQxEj0DGZYJLFn23-wshPN4UrF53fuy7yrLb76JsA1t6AWlh0ziECTSnkrUpMLRdARPT6B1sr52KQW9FIWqy1tNnKzJDYYCXmrMRY9a_6m04yjBcZLqeD7MefDt9nRHDIjLM4He46Bpge1ij9yw454j76hkZ9VgRx-ZrcEPiI5mX6UAAAA&shmds=v1_AUFQtOOX3OIakTeuP7cfq7Y4bhgkYLTLyLCLF960kPHfsvVlMw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Tp0cp3mUES3T98wSAAAAAA%3D%3D",
+            "extensions": [
+                "8 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Lumston is a socially responsible Mexican company that values its team members.\n\nAs a major Amazon partner in Mexico, Lumston holds a prominent position in the industry.\n\nWe're looking for a skilled developer to join our dynamic and forward-thinking team.\n\nKey Responsibilities:\n\nImplement design patterns like MVVM.\n\nConsume REST API services.\n\nUtilize tools such as Dagger Hilt, Retrofit, Coroutines, LiveData, and DataBinding.\n\nWork with navigation components and Room (Android).\n\nImplement push notifications.\n\nReview and assess methodologies and technologies used in development, implementing new ones if necessary to improve product quality and client relations.\n\nRequirements:\n\nStrong understanding of software development principles.\n\nExperience with Swift and Kotlin.\n\nFamiliarity with MVVM and architectures like MVC.\n\nExperience in unit testing and app publication.\n\nBenefits:\n\nWelcome Kit\n\nHome Office\n\nFlexible Schedule\n\nBirthday off\n\nVacations from day one\n\nLife insurance\n\nInsurance for Major Medical Expenses (50% coverage)\n\nSaving fund (you save 6% of your monthly salary, and we match that 6% for you)\n\nSupport for remote work (Electricity and Internet)\n\nAWS Certifications\n\nFree courses or trainings\n\nEnglish Classes\n\nDining Room (Guadalajara only)\n\nSports fields (Guadalajara only)\n\nGym (Guadalajara only)\n\nSalary: $500,000 - $700,000 per year.\n\nLocation: Guadalajara, Mexico.\n\nLanguage: English (Intermediate).\n\nWork Mode: Full-time.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/cf69299a7ed8985f6aa1c8a55e5abedd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-867-c4a1028e0aec151ec5d9177fbae597fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFx1MDAyNiBJb3MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ29ycG9yYXRpdm8gTHVtc3RvbiIsImFkZHJlc3NfY2l0eSI6Ikd1YWRhbGFqYXJhLCBKYWxpc2NvLCBNZXhpY28iLCJodGlkb2NpZCI6IlRwMGNwM21VRVMzVDk4d1NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Mobile Developer - IOS  (Latam) BcB6920",
+            "company_name": "Nisum",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=Md-JKOw2ct87wNDGAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFy7uDvdqIJJKSio4FAEUawOfkBJwtFGklzIRclX-M3q8oZXfSbVoSNtHcIR3-goYoIVnO8PgPlVZeUX0Jp2s23qX19IA6NKZgQKcCIaHM72Y86Rd1IyOzFwVtkaYchLCqipyCdp_tPzqBJGpzL2zbouIoZhOb1ZfnmwATos1tAXIvKdSJEAAAA&shmds=v1_AUFQtOOCiiG5Bjkwv9QgszS4H3iLgF6eAQ45ljEWbxEWhPC53Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Md-JKOw2ct87wNDGAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508910232baf3931a51e0/images/6cf40a2ea3a8c24f52409fd0a5b420b06d36ca3f6369ebe5a6ed905744a535ad.gif",
+            "extensions": [
+                "CA$9.6K a year",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "CA$9.6K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Latin America\n\nNisum es una empresa global líder en comercio digital con sede en California, que ofrece servicios que abarcan estrategia y transformación digital, análisis y conocimientos, blockchain, agilidad empresarial y desarrollo de software personalizado. Fundada en el año 2000 con el lema centrado en el cliente “ Construyendo el Éxito Juntos® ” , Nisum ha crecido a más de 1,800 profesionales en los Estados Unidos, Chile, Colombia, India, Pakistán y Canadá.\n\nAsesor preferido de las principales marcas Fortune 500, Nisum permite a sus clientes lograr un crecimiento empresarial directo mediante la construcción de la tecnología avanzada que necesitan para llegar a los clientes finales en el mundo de hoy, con experiencias inmersivas y sin interrupciones a través de canales digitales y físicos.\n\nPara tener éxito en este cargo, esperamos que cuentes con los siguientes conocimientos y experiencias:\n• Debes residir en Latam.\n• Debes contar con al menos 5 años de experiencia desarrollando en iOS con Swift o experiencia previa en desarrollos propios o en entornos académicos.\n• Conocimiento de Git.\n• Formación en Ingeniería o experiencia equivalente en desarrollo de software.\n• Conocimiento de principios SOLID y CleanArchitecture.\n• Conocimientos de testing automático para aplicaciones móviles.\nConocimientos deseables:\n• Experiencia desarrollando con CleanArchitecture en Swift 5.\n• Experiencia con Bitrise, Apptimize, Firebase, AppDistribution, Amplitude, Appium.\n• Experiencia con Jira, Figma.¿Qué te ofrecemos?\n- Pertenecer a una empresa internacional y multicultural que apoya la diversidad.\n- Formar parte de proyectos internacionales con presencia en Norteamérica, Pakistán, India y Latam.\n- Entorno de trabajo con amplia experiencia en trabajo remoto y distribuido, usando metodologías ágiles.\n- Cultura de constante aprendizaje y desarrollo en tecnologías actuales.\n- Ambiente agradable y colaborativo, con foco en el trabajo en equipo.\n- Acceso a plataformas de aprendizaje, certificaciones Google Cloud, Databricks, Tech Talks, etc.\n- Formar parte de diversas iniciativas y participación continua en actividades internas y externas de innovación, hackathon, tecnología, agilidad, charlas, webinars, bienestar y cultura con posibilidades no solo de participar sino de ser expositor.\n- Al residir en Chile podrás disfrutas de los beneficios de nuestra sede!\n\nPara que tengas en cuenta :) Este puesto es full time.\n\nNisum es un empleador que ofrece igualdad de oportunidades y estamos orgullosos de nuestros esfuerzos continuos para promover la diversidad y la inclusión en el lugar de trabajo.\n\nThis offer from \"Nisum\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6741e0e9f9201d981e9f682f-mobile-developer---ios-latam-bcb6920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIC0gSU9TICAoTGF0YW0pIEJjQjY5MjAiLCJjb21wYW55X25hbWUiOiJOaXN1bSIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyIsImh0aWRvY2lkIjoiTWQtSktPdzJjdDg3d05ER0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Sr Ios Developer",
+            "company_name": "Go Sinergia",
+            "location": "Guadalajara, Jalisco, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=TfFUrTgArLDm00EdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAGYFz7CE63CVobEVx0FYoFpz5AucYjTYn5Qy5K38MXVpdv_KrPqtr0mW5QuspbApJk2lOHkVQ424kQqQVckPVlKiXp2RjV0DgtXLxtLJ4GUUYsZsaofwadOEsKXGQ4ng5Lk6Lb7lpQ76Nk55n873zxgwPPnLmmjoNXi5rusniLL9Gvq5GWAAAA&shmds=v1_AUFQtONyUKFWSIeJw80fgmZXW_W7-GfVWmIdrCkjVM4LbWGU9g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=TfFUrTgArLDm00EdAAAAAA%3D%3D",
+            "extensions": [
+                "11 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Senior IOS Developer\n\nThe primary objective is to create innovative digital experiences and drive business growth by exploring new products, features, and services.\n\nThis involves identifying opportunities, prototyping new products, and leveraging design, research, and engineering to recognize new digitalization strategies for the US market.\n\nAs part of the cross-functional product team, contribute to product success by developing iOS code and implementing engaging mobile experiences.\nResponsibilities:\n• Define, build, and iterate iOS experiences to support existing and new projects related to new experiences and digital lifestyles.\n• Own and become a resident expert in various pieces of iOS development and functionality within the team.\n• Collaborate with front-end and back-end engineers, as well as the rest of the cross-functional product team, in a fast-paced and multi-disciplinary environment.\n\nPlease share your app portfolio and some notable apps you've created.\nRequirements:\n• 7+ years of software development experience.\n• 5+ years of iOS development experience.\n• Strong understanding of front-end/UI design methodologies.\n• Automotive architectures, interfaces, and vehicle software knowledge is a plus.\n• Advanced English language skills (oral and written).\nEducation:\n• Bachelor's Degree in Software Engineering, technology, or similar.\nExperience:\n• Experience with writing mobile software in a fast-paced engineering team.\n• Extensive experience with Swift and mobile design patterns.\n• Experience with UI Constraints, Storyboards, Xcode unit, and UI testing.\n\nThe position is based in Guadalajara and will utilize a hybrid work model with in-office days and home-office days.\nCompensation:\n\nGross Salary: $130,000 - $140,000 per year.\nBenefits:\n• Attractive Benefits Package.\n• Substantial Perks and Employee Value Proposition.\n• 30 Days Christmas Bonus.\n• Food Coupons.\n• * Profit sharing.\n• Training expenses.\n\nJob Type: Full-time.\n\nWorking Hours: 8-hour shift.\n\nPrestaciones: Health insurance, Food coupons, Private Health Insurance, Profit sharing, Training expenses.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/f54f0d70e7d8c0747699a5af5d45fc85?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://mx.sercanto.com/detail/a/sr-ios-developer_guadalajara_1798515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-2863-0e2a7437a59eff2a8c47b598691dfc90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBJb3MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiR28gU2luZXJnaWEiLCJhZGRyZXNzX2NpdHkiOiJHdWFkYWxhamFyYSwgSmFsaXNjbywgTWV4aWNvIiwiaHRpZG9jaWQiOiJUZkZVclRnQXJMRG0wMEVkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Ios Developer",
+            "company_name": "Portomx",
+            "location": "Xico, Veracruz, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=TBiGkh6JHLGLKZEvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBQFUFz7CU5PcJKaiOCiqyAKgpO4lTQ8mpQ0N-RFCX6A360uZzjNZ9YszxA68osDEmda0wU9CZtsHSHSCRgCzw-ulCR7rUWCGqSY4q2ymDQi96h6RC9_OnEmcwqmcLfdbapKcVgtbsgFUyUf6eEtWrpzNjY_3y1duf7mC-DITGeJAAAA&shmds=v1_AUFQtOMXE8p9xg0lajhDXiUYtMiKLdRkHs3K_BkzvZ2S6qbApQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=TBiGkh6JHLGLKZEvAAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Desarrollador de Aplicaciones Nativas iOS\n\nLa empresa multinacional busca un profesional con experiencia en desarrollo y mantenimiento de aplicaciones nativas iOS para incorporarlo a su equipo.\nRequisitos\n• Experiencia mínima de 3 años en desarrollo de aplicaciones nativas iOS\nConocimientos técnicos\n• Objective C, Swift, Storyboards, Segues, GCD, KVO, SQLITE, Core Data, REST, A/B Testing, Frontend Tools\nBeneficios\n• Atractivo sueldo\n• Home Office\n• Prestaciones superiores de ley\n• Capacitación y certificaciones constantes\nValor anticipado del salario\n\nCuatrocientos veintinueve mil pesos anuales",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/e2f0250cdc117e24698a73761699384e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJb3MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUG9ydG9teCIsImFkZHJlc3NfY2l0eSI6IlhpY28sIFZlcmFjcnV6LCBNZXhpY28iLCJodGlkb2NpZCI6IlRCaUdraDZKSExHTEtaRXZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Jr Ios Developer",
+            "company_name": "Rmx Dev S De R L De C V",
+            "location": "Xico, Veracruz, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=iP6ChrG1bB_nSoJdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBRFce0nON1NEG1UcNFRQSy6VChuJQ2PtpLmhbwowT_xb22Xc-AsJ_vNskURcGXBmT5k2VPAGgU3ENLBdGCHC3NraX7sYvRyUErE5q1EHXuTGx4UO2o4qRc3MqGWTgfyVkeqd_tNyr1rl9tySNMCj5EocZt0QoXe4dkbXqGioE14f1e4UxrLH3QaDxycAAAA&shmds=v1_AUFQtOOfSkXHa-My-E5BVK4H_EnRkYn0JzyPb_ojuvQeoeE0Ng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=iP6ChrG1bB_nSoJdAAAAAA%3D%3D",
+            "extensions": [
+                "8 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Requirements:\n• Maintain scheduled days and hours with onsite presence\n• Lift up to 25 pounds, sit and stand for extended periods\n• Operate office equipment, computers, copiers, and other common office equipment\n• Develop strong oral and written communication skills, including speaking, writing and reading comprehension\n• Possess mental capacities such as achievement, active listening, adaptability, analytical thinking, attention to detail, and stress tolerance\n\nOur Commitment: We strive for excellence in customer service and associate satisfaction, offering a range of benefits for our associates and their families.\n\nAssociate Benefits:\n• Medical insurance for family\n• Life insurance\n• Food coupons\n• 10 days of vacation\n• 30-day year-end bonus\n\nEqual Opportunity Employer: We welcome diversity and inclusion, and are an equal opportunity employer, committed to fairness and equality in all aspects of our hiring practices.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/92fa232b08de3e6d2a47989853252bf9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKciBJb3MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUm14IERldiBTIERlIFIgTCBEZSBDIFYiLCJhZGRyZXNzX2NpdHkiOiJYaWNvLCBWZXJhY3J1eiwgTWV4aWNvIiwiaHRpZG9jaWQiOiJpUDZDaHJHMWJCX25Tb0pkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Trabajo Desde Casa iOS Developer / Ref. 0047",
+            "company_name": "BairesDev LLC",
+            "location": "Chihuahua, Mexico",
+            "via": "Jooble",
+            "share_link": "https://www.google.com.mx/search?ibp=htl;jobs&q=iOS+developer&htidocid=tARBIB3aHPuiUnfDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBAA8doneFo8ijZFFEFvVhCkIqh32cS1SYnZkI3SF_lOKwwDc5riOyrqW0KNHcOe5EFQoyC483XID3mOlEDBhZ4lVNVyDXM4sgYhTMYCBzgwt57GW5tzlI1SIr5sJWN2pjT8UhxIc6861vLXXSwmih4z3Rerqi9jaKeTHbpEMgyhaWpwAWrr7BsHZnCi3hn-AeX7mtWpAAAA&shmds=v1_AUFQtONHDv84_b19rYwACHPlUvxLbBE3B34pANwMLrnIklEOew&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=tARBIB3aHPuiUnfDAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508910232baf3931a51e0/images/6cf40a2ea3a8c24f3e55df459fa4a826e2e8021c50d393f666b98a1a7c33b5de.gif",
+            "extensions": [
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "description": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países.Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev.\n\niOS Developer en BairesDev\n\nSer un Desarrollador Senior iOS en nuestro equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades sean una combinación de experiencia, conocimientos e independencia. Innovación también está en el corazón de la estrategia en BairesDev. Así que, si estás dispuesto a asumir las tareas más complejas y ser un maestro en tu pila de tecnología, para iOS, entonces tu eres probablemente uno de esos únicos que estamos buscando.\n\n¿Qué harás?\n\n- Crear excelentes aplicaciones móviles que se integren con servicios en la nube.\n- Participar en el ciclo de vida completa del desarrollo de producto, desde la ideación hasta la entrega y el soporte.\n- Trabajar dentro de un equipo de rápido movimiento para desarrollar diseños nítidos, crear un gran código y llevar productos al mercado rápidamente.\n- Liderar el desarrollo e implementación de nuevas mejoras claves.\n- Ayudarnos continuamente a evolucionar nuestros procesos y diseños para generar una ventaja competitiva.\n- Crear maquetas y prototipos para expresar ideas y recopilar feedback.\n- Compartir tus pensamientos e ideas de manera libre y constructiva, pero también escuchar bien a los demás.\n- Crear las mejores aplicaciones móviles para dispositivos iOS y relojes inteligentes.\n\n¿Qué Buscamos?:\n\n- 6+ años de experiencia trabajando como desarrollador.\n- 5+ años de experiencia en desarrollo iOS.\n- Experiencia con bases de datos SQL y NoSQL.\n- Experiencia con Microservicios y la Nube.\n- Conocimiento avanzado en algoritmos.\n- Conocimiento en infraestructura de TI.\n- Gestión de metodología ágil intermedia.\n- Sólida comprensión de las mejores prácticas, principios SÓLIDOS, código LIMPIO y soluciones escalables.\n- Conocimiento en diseño de patrones.\n- Experiencia desarrollando aplicaciones completas desde cero.\n- Experiencia en pruebas automatizadas, procesos CI/CD.\n- Experiencia sólida en control de versiones.\n- Experiencia comprobada en pruebas unitarias, pruebas integrales y cobertura de código.\n- Nivel Avanzado de Inglés.\n\nQué ofrecemos para que tu trabajo (y tu vida) sea más fácil:\n\n- Trabajo 100% remoto: trabaja desde tu casa o donde quieras.\n- Compensación en USD o en tu moneda local, como prefieras, muy por encima de la media del mercado.\n- Hardware y software.\n- Horarios flexibles\n- Licencias por mater/paternidad, vacaciones y días festivos nacionales pagos.\n- Ambiente laboral multicultural e innovador, perfecto para hacer amigos, colaborar y aprender de las personas más talentosas del mundo.\n- Oportunidades de crecimiento y desarrollo profesional a través de mentorías y entrenamientos.\n\n¡Únete a nuestro equipo global!",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://mx.jooble.org/jdp/-5601828720672209188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJUcmFiYWpvIERlc2RlIENhc2EgaU9TIERldmVsb3BlciAvIFJlZi4gMDA0NyIsImNvbXBhbnlfbmFtZSI6IkJhaXJlc0RldiBMTEMiLCJhZGRyZXNzX2NpdHkiOiJDaGlodWFodWEsIE1leGljbyIsImh0aWRvY2lkIjoidEFSQklCM2FIUHVpVW5mREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVEZNVFc5UVpXUmhURVpKVW0xTGNXaEhTUzFRWW5nd1ZYaHJjWGh4VWxvMU4wbGlSbEoxV0MwMWFVNURURkpwYUd4elpURmhXVjlsUW5OZk9ITXRaR1pZY25CSE1WOUdTRmh3YjJrNU9HZEtVMnBRY1VkaWVtRlpiMUJvVWtsQk56bGtiVWxTTjJWWmNVNVBOVFJwTkMwNVlVTTJSa0ZtVTJOSWJtdElRVUpDU1VWWlJXUjFZM0JMWkVkVlExOVRNMWhrZDNnNFpGbHpja3hqUVcxaFVrSTFja1Y2VWpkTGQxSTVkbUV4UzJwWmVrRXlNM0JTWVhKbE5GZHpTbkZzTFVaVWExTlRhVTVpZGs5bFdGZ3lVMXByY1VGUVptWkxVV2hhZGpsbVdGQlZjRmg1WVd0YVdqbFlWVzVXVFc5S2IyNVlSbFF0WVU1TlpYRk9jakpsV0ZVdExYVlBNeElYYTFGcFJsbzFTQzFKY0hsb2ExQkpVSG81WmxWM1FWRWFJa0ZHV0hKRlkyOVhka3hJTmpkWVVrcEdZbGhwTVVFd09IaG9TRGsyU0U5bGJrRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.mx&location=Mexico&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVEZNVFc5UVpXUmhURVpKVW0xTGNXaEhTUzFRWW5nd1ZYaHJjWGh4VWxvMU4wbGlSbEoxV0MwMWFVNURURkpwYUd4elpURmhXVjlsUW5OZk9ITXRaR1pZY25CSE1WOUdTRmh3YjJrNU9HZEtVMnBRY1VkaWVtRlpiMUJvVWtsQk56bGtiVWxTTjJWWmNVNVBOVFJwTkMwNVlVTTJSa0ZtVTJOSWJtdElRVUpDU1VWWlJXUjFZM0JMWkVkVlExOVRNMWhrZDNnNFpGbHpja3hqUVcxaFVrSTFja1Y2VWpkTGQxSTVkbUV4UzJwWmVrRXlNM0JTWVhKbE5GZHpTbkZzTFVaVWExTlRhVTVpZGs5bFdGZ3lVMXByY1VGUVptWkxVV2hhZGpsbVdGQlZjRmg1WVd0YVdqbFlWVzVXVFc5S2IyNVlSbFF0WVU1TlpYRk9jakpsV0ZVdExYVlBNeElYYTFGcFJsbzFTQzFKY0hsb2ExQkpVSG81WmxWM1FWRWFJa0ZHV0hKRlkyOVhka3hJTmpkWVVrcEdZbGhwTVVFd09IaG9TRGsyU0U5bGJrRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

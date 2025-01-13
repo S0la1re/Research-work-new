@@ -1,0 +1,304 @@
+{
+    "search_metadata": {
+        "id": "678508de29fc59c2104c0549",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4f1c1df6fe8fb8dd/678508de29fc59c2104c0549.json",
+        "created_at": "2025-01-13 12:36:46 UTC",
+        "processed_at": "2025-01-13 12:36:46 UTC",
+        "google_jobs_url": "https://www.google.ch/async/callback:550?q=iOS+developer&uule=w+CAIQICILU3dpdHplcmxhbmQ&udm=8&fc=EuICCqICQUpHOUprTUlJeEdLcmM2UHU3Q0lDWkNsN2R4ZnoxY3JvWTRSSnBmVEg2alVDVWYzUlhkX3JxNVBhMHc2bkpsd1B4SWl1cDRlb0tnYmhPcUQ4TXBOdlNQVzlldjE0R1BsTWFodTZKQnEtQ2J1US1QMS1jOUZVMmhfVGNsYWFzV3hzbzRFWjlSRWV6a00tTDQ1bnV1SjFqeWU5Tm9wRm0xdVFkXzFYT3U5YnZOci1pNEpVYmRZNGc4Y3NueGsyazNQXzNuMUQyZEFjZlFsRWZCLTJvblFTZjNvLWdROG5MbUhNZ056bFQzMWM2N3oyNTR2dlZEeDdodmlXVHc3cm5rUXJJc2d3ZXNvU2tLUjU3S0ZVU0dOazQxN21kN3l0R0txa3cSFzNRaUZaNlRvTXRuazVOb1BoS25yMEE4GiJBRlhyRWNxbkJ5SEdwMVdlblhWTi1YdnRPQnZVZlcySVVB&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/4f1c1df6fe8fb8dd/678508de29fc59c2104c0549.html",
+        "prettify_html_file": "https://serpapi.com/searches/4f1c1df6fe8fb8dd/678508de29fc59c2104c0549.prettify",
+        "total_time_taken": 0.89
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Switzerland",
+        "location_used": "Switzerland",
+        "google_domain": "google.ch",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVWxKZUVkTGNtTTJVSFUzUTBsRFdrTnNOMlI0Wm5veFkzSnZXVFJTU25CbVZFZzJhbFZEVldZelVsaGtYM0p4TlZCaE1IYzJia3BzZDFCNFNXbDFjRFJsYjB0blltaFBjVVE0VFhCT2RsTlFWemxsZGpFMFIxQnNUV0ZvZFRaS1FuRXRRMkoxVVMxUU1TMWpPVVpWTW1oZlZHTnNZV0Z6VjNoemJ6UkZXamxTUldWNmEwMHRURFExYm5WMVNqRnFlV1U1VG05d1JtMHhkVkZrWHpGWVQzVTVZblpPY2kxcE5FcFZZbVJaTkdjNFkzTnVlR3N5YXpOUVh6TnVNVVF5WkVGalpsRnNSV1pDTFRKdmJsRlRaak52TFdkUk9HNU1iVWhOWjA1NmJGUXpNV00yTjNveU5UUjJkbFpFZURkb2RtbFhWSGMzY201clVYSkpjMmQzWlhOdlUydExValUzUzBaVlUwZE9helF4TjIxa04zbDBSMHR4YTNjU0Z6TlJhVVphTmxSdlRYUnVhelZPYjFCb1MyNXlNRUU0R2lKQlJsaHlSV054YmtKNVNFZHdNVmRsYmxoV1RpMVlkblJQUW5aVlpsY3lTVlZCIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "iOS App-Developer (m/f/d)",
+            "company_name": "A3M Mobile Personal Protection GmbH",
+            "location": "Switzerland",
+            "via": "StudySmarter - Talents",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=qGfdGF075tH-21FFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43qtCmVFx0KgiKUCz0A0qSnm0kzYXcoeLv-KPS5a0v-62y0t07qGPMz_hCTxETbGb1UMMWcriRAUad7AQU4EI0elyfJpHIR6WYfTGyaHG2sDQrCmjoo55keKHnSSeMXgv21aH8FDGMu6reN9CQcR6hxcQUtIc2kaAVtxyzuYIL0L2dfDF5HYY_9ry5VqYAAAA&shmds=v1_AUFQtOO6K-eccsztk5-oUD7xjksXvwGIaUds5DWKSlkavLqGJQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=qGfdGF075tH-21FFAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Berlin preferred, remote work from other locations possible (offices in Hamburg and Tübingen)\n\nTasks:\n• Building a new sub-unit of the development team to develop our mobile apps.\n• Further development of the app front end for iOS in Swift.\n• Further development of the app back end in Ruby on Rails and MySQL.\n• Shaping and brainstorming in the process of further development of our apps in close cooperation with our sales and support staff.\n\nYour skills – that’s what you bring to the table:\n• Experience in the development of mobile iOS apps.\n• Successfully completed university degree in computer science or comparable training or similar experience in at least one of the above areas.\n• Language skills in English, as our IT team communicates in English.\n• Strong analytical skills to identify and develop efficient solutions to complex problems.\n• Initiative and independent working style.\n• Passion for high quality teamwork.\n\nWhat we offer:\n• Flexible working hours and the possibility to work from home are a matter of course for us.\n• Work with the most modern technologies.\n• Your work space will be tailored to your needs.\n• A fair salary and 30 days’ holiday.\n• Free hot and cold beverages.\n• As a member of the DRV, you receive discounts within the tourism industry, e.g., for travel, hotel stays, and rail travel.\n\nWe are currently building up our mobile app developer team in Berlin. If you're passionate about apps and want to join a young, new team in a cool industry, you've come to the right place.\n\nWe look forward to receiving your application by e-mail, stating your salary expectations and the earliest possible starting date.\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/a3m-mobile-personal-protection-gmbh/ios-app-developer-m-f-d-596018/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgQXBwLURldmVsb3BlciAobS9mL2QpIiwiY29tcGFueV9uYW1lIjoiQTNNIE1vYmlsZSBQZXJzb25hbCBQcm90ZWN0aW9uIEdtYkgiLCJhZGRyZXNzX2NpdHkiOiJTd2l0emVybGFuZCIsImh0aWRvY2lkIjoicUdmZEdGMDc1dEgtMjFGRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxVM2RwZEhwbGNteGhibVEifQ=="
+        },
+        {
+            "title": "Senior iOS Engineer (f/m/x) – Corporate Bank Technology - Commercial Banking",
+            "company_name": "Deutsche Bank",
+            "location": "Suhr, Switzerland",
+            "via": "Recruit.net",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=BQLp4fCKR8pYbJ-lAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2OMU4EMQxFte0eYSuLChBM0Eo00C0gJBqK0I8ywSReMnZkZ8RAxR24FOfgJAwrmlf8V_y3_l6t0SOTKNCjhztOxIgKxy9udPMJ_Hx-wY1oFQ0NYRf4FZ4wZpYi6R3OFzeOqJFCOUjitIwPMoBh0JhBGO5FUsHNdW6t2pVzZqVL1kKj2EUZnTAOMru9DPaH3nJQrGX567eXF3NXOZ0e3eLULOb_BGLwU9Yz8G_UPlBL4OdfiP7a58sAAAA&shmds=v1_AUFQtOMB3UIoXMD3C2OHfVL-3hXwfMN-lSMmOkW9ep9CQJ_AJQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=BQLp4fCKR8pYbJ-lAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508de29fc59c2104c0549/images/3211f8fce013080712b36935c987b2226ac98850403464076d71e3e627e30288.gif",
+            "extensions": [
+                "10 days ago",
+                "Part-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Part-time"
+            },
+            "description": "Job Description:\n\nAbout the job\n\nDeutsche Bank Technology in Berlin\n\nDB Technology is a global team of tech specialists, spread across multiple trading hubs and tech centres. We have a strong focus on promoting technical excellence – our engineers work at the forefront of financial services innovation using cutting-edge technologies.\n\nOur Berlin location is our most recent addition to our global network of tech centres and growing strongly. We are committed to building a diverse workforce and to creating excellent opportunities for talented engineers and technologists. Our tech teams and business units use agile ways of working to create #GlobalHausbank solutions from our home market.\n\nCorporate Bank Technology - Commercial Banking\n\nOur team is a global team of 3000 coders (and growing!) across 30 countries. The primary businesses that Corporate Bank support are Cash Management, Securities Services, Trade Finance and Trust & Agency Services. CB Technology support these businesses through CIO aligned teams and by 'horizontals' such as Client Connectivity, Surveillance and Regulatory, Infrastructure, Architecture, Production, and Risk & Control.\n\nAs an iOS Developer (m/f/x), your role will involve working within an agile Scrum team to develop and implement new features for our products that are designed for small and medium-sized corporate clients within Deutsche Bank.\n\n-> You love this job but feel you cannot tick 100% of the boxes? Send us your CV anyway!\n\nYour key responsibilities\n• Actively contribute to the development of a shared codebase for our mobile applications targeting small and medium-sized corporations within Deutsche Bank\n• Utilize your engineering expertise in the development of new features and ensure the cleanliness and industry-standard compliance of the codebase\n• Prioritize the use of modern technologies, design principles, and agile methodologies in your daily work\n• Regularly participate in peer reviews with your team to ensure the quality, extensibility, and reusability of your code\n• Engage proactively within the engineering community, share your expertise, and establish a robust network\n\nYour skills and experiences\n• Possess a degree in a tech/scientific field or equivalent work experience\n• Extensive knowledge of native iOS development Swift, UIKit, SwiftUI, RxSwift/Combine/Swift concurrency and clean architecture, MVVM-C architecture patterns\n• Understand CI/CD concepts and hands-on experience with GitHub Actions\n• Possess a strong understanding of the software development lifecycle, write reusable and maintainable code, and have hands-on experience with Continuous Integration/Continuous Deployment (CI/CD), particularly using GitHub Actions\n• A team player, with strong (English) communication skills, who enjoys sharing knowledge and best practices, learns quickly, listens carefully, and is willing to mentor junior engineers\n\nWhat we offer\n\nWe provide you with a comprehensive portfolio of benefits and offerings to support both, your private and professional needs.\n• Emotionally and mentally balanced\nA positive mind helps us master the challenges of everyday life – both professionally and privately. We offer consultation in difficult life situations as well as mental health awareness trainings.\n• Physically thriving\nWe support you in staying physically fit through an offering to maintain personal health and a professional environment. You can benefit from health check-ups; vaccination drives as well as advice on healthy living and nutrition.\n• Socially connected\nNetworking opens up new perspectives, helps us thrive professionally and personally as well as strengthens our self-confidence and well-being. You can benefit from PME family service, FitnessCenter Job, flexible working (e.g parttime, hybrid working, job tandem) as well as an extensive culture of diversity, equity and inclusion.\n• Financially secure\nWe provide you with financial security not only during your active career but also for the future. You can benefit from offerings such as pension plans, banking services, company bicycle or “Deutschlandticket”.\n\nSince our offerings slightly vary across locations, please contact your recruiter with specific questions.\n\nThis job is available in full and parttime.\n\nIn case of any recruitment related questions, please get in touch with Binh Bui.\n\nContact Binh Bui: +49 030 34073081\n\nWe strive for a culture in which we are empowered to excel together every day. This includes acting responsibly, thinking commercially, taking initiative and working collaboratively.\n\nTogether we share and celebrate the successes of our people. Together we are Deutsche Bank Group.\n\nWe welcome applications from all people and promote a positive, fair and inclusive work environment.",
+            "apply_options": [
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/ios-engineer-corporate-bank-technology-jobs/3B264FE4474AF87D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIChmL20veCkg4oCTIENvcnBvcmF0ZSBCYW5rIFRlY2hub2xvZ3kgLSBDb21tZXJjaWFsIEJhbmtpbmciLCJjb21wYW55X25hbWUiOiJEZXV0c2NoZSBCYW5rIiwiYWRkcmVzc19jaXR5IjoiU3VociwgU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6IkJRTHA0ZkNLUjhwWWJKLWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "Mobile App Developer",
+            "company_name": "Swissels Engineering & Life Science Services",
+            "location": "Morges, Switzerland",
+            "via": "JobUp",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=YSP6-A24ZvgfBNwiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLTQ4BQRCG4dg6glWtLPzMiMSGlSASYeUA0tM-PSWtqtPVGeJSrojN-6ze_qfXH5-04Qhap0RbdIiakGlKB23I4LJvSYX2qiFisGpLSbasa7NYBSuusK-8PmoVNPqq79rYPxdrXUaKruAyX8xeVZIw2pyfbIZotJPAAmSWQEM68g109gzxP5E79jBioZPmAJvQ7ytv5Ojk-gXOrdO5sgAAAA&shmds=v1_AUFQtOPnMKCQgCFUKDMwh99YtNRAd8QQCDtl5ubUgpVUZ6yZBQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=YSP6-A24ZvgfBNwiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508de29fc59c2104c0549/images/3211f8fce013080776549f1644c1ba6a339d8508ec47db2d77bb4fe112237e7f.gif",
+            "extensions": [
+                "11 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "MOBILE Developer\n\n- Contribuer à l'organisation et à la facilitation des cérémonies scrum, y compris le standup, la planification du sprint, le backlog grooming, la rétrospective, les démonstrations.\n\n- Coder des sous-parties de notre logiciel d'applications mobiles.\n\n- Créer, maintenir et réviser l'architecture logicielle, les spécifications de conception, les descriptions d'interface et d'autres documentations logicielles.\n\n- Tester et améliorer le système logiciel afin d'en améliorer les performances et la fiabilité.\n\n- Gérer les sous-projets logiciels.\n\n- Travailler en étroite collaboration avec les autres membres de l'équipe afin d'amener avec succès les prototypes à l'étude clinique.\n\n- Veiller au respect des politiques de l'entreprise, y compris en matière de protection de la vie privée et de la confidentialité des données (HIPAA), ainsi que des autres exigences légales et réglementaires.\n\nSolides connaissances en développement iOS pour appareils mobiles à l'aide de Swift.\n\nFamiliarité avec les frameworks iOS tels que RxSwift, Core Data et SwiftUI.\n\nUne expérience avérée avec BLE est essentielle.\n\nComprendre le contrôle des changements, le contrôle de la conception et la gestion du cycle de vie du développement logiciel dans le contexte du développement d'applications iOS.\n\nLa connaissance des cadres et outils de tests automatisés pour le développement iOS, tels que XCTest, est essentielle.\n\nFamiliarité avec les outils d'analyse statique du code comme Sonar Cloud.\n\nConnaissance avancée de CI/CD et de l'automatisation.\n\nMaîtrise de l'anglais et du français (de préférence).\n\nUne expérience en Flutter/Dart est un plus.\n\nUne connaissance approfondie et une expérience du cycle de vie formel des logiciels de dispositifs médicaux est un plus.\n\nFormation :\n\nUne licence en ingénierie, en informatique ou dans un domaine connexe, ou une combinaison équivalente d'études et d'expérience professionnelle.\n\nPlus de 5 ans d'expérience dans le domaine du développement de logiciels mobiles pour les appareils médicaux ou dans un domaine connexe.\n\nPlus de 2 ans d'expérience dans les frameworks IoS tels que RxSwift, Core Data et SwiftUI.\n\nLa connaissance des normes ISO 13485, ISO 14971, ISO 62366, ISO 62304 et des orientations en matière de cybersécurité et de protection des données est un atout.",
+            "apply_options": [
+                {
+                    "title": "JobUp",
+                    "link": "https://www.jobup.ch/fr/emplois/detail/fda4a27d-63a0-4e8a-bf17-3df5d8609012/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs.ch",
+                    "link": "https://www.jobs.ch/en/vacancies/detail/7497af69-5299-4ff7-8c56-cbd4954b6806/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobScout24",
+                    "link": "https://www.jobscout24.ch/en/job/mobile-app-developer/9379915/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ch.jooble.org/jdp/-6409700958546330068?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ictcareer.ch",
+                    "link": "https://ictcareer.ch/en/job/13592330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/swissels-engineering-life-science-services/mobile-app-developer-1007684/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ingjobs.ch",
+                    "link": "https://ingjobs.ch/de/job/13592330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ch",
+                    "link": "https://www.monster.ch/fr/offres-demploi/mobile-app-developer-h-f-morges-vd--9a298a93-f56b-403d-b79a-5ae131dd8f0b?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlN3aXNzZWxzIEVuZ2luZWVyaW5nIFx1MDAyNiBMaWZlIFNjaWVuY2UgU2VydmljZXMiLCJhZGRyZXNzX2NpdHkiOiJNb3JnZXMsIFN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJZU1A2LUEyNFp2Z2ZCTndpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Senior Android / iOS Developer (m/w/d)",
+            "company_name": "Digital Engineering Jobs",
+            "location": "Bern, Switzerland",
+            "via": "Digital-Engineering-Jobs.ch",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=UWeYc_Gy2Hbk9hZIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43qthGBBfFQakILg79gJI2R3qS3oVcsOIv-ZPS5a2v-C2Kc4NMkuDCLgk5MEDPBmp8Y5CICVajmYxbQwkP6UDRpn4AYbiL-IDL05Bz1KMxqqHymm2mvuplNMLYyce8pNOZVgebMAabsd0fdp8qst-UNXnKNsCNPTFiIvZzo0AMV0y8hWai_MUULLs_f2FfD64AAAA&shmds=v1_AUFQtOPp3OO4rUzq3rVXW-JFnbBVA-KWNP4x2XTCY3zkrNDhOQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=UWeYc_Gy2Hbk9hZIAAAAAA%3D%3D",
+            "extensions": [
+                "24 days ago",
+                "CHF 110K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "CHF 110K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Möchten Sie Ihre Expertise in der Entwicklung von Android / iOS weiter ausbauen und in einer neuen beruflichen Herausforderung unter Beweis stellen? Suchen Sie nach einem Partner, der nicht nur über das erforderliche Fachwissen verfügt, sondern auch engagiert Ihre Jobsuche unterstützt? Dann ist es Zeit, den nächsten Schritt mit uns zu gehen!\n\nUnsere Business Unit Digital Engineering, als spezialisierter Bereich der bruederlinpartner-Gruppe, vernetzt täglich Fach- und Führungskräfte aus dem Digital Engineering in der gesamten Schweiz! Dabei legen wir besonderen Wert darauf, nicht nur passende Positionen zu finden, sondern auch Ihre individuelle Karriereentwicklung zu fördern.\n\nFür unseren Kunden in der Region Bern (BE) suchen wir Sie in der Position als: Senior Android / iOS Developer (m/w/d)\n\nDiese Tätigkeiten begeistern Sie:\n• Erfahrung in der Entwicklung von nativen und/oder Cross-Platform-Apps\n• Verständnis für mobile Usability und Design-Prinzipien\n• Fähigkeit zur Problemanalyse und -lösung\n• Kenntnisse in der Veröffentlichung von Apps in App-Stores\n• Teamfähigkeit und Kommunikationsstärk\n\nDas zeichnet Sie aus:\n• Entwicklung mobiler Anwendungen für iOS und/oder Android\n• Kenntnisse in Swift, Kotlin, HTML5-Entwicklung mit ReactJS / Redux oder React Native\n• Erfahrung in der Arbeit mit mobilen APIs\n• Optimierung der App-Performance und -Sicherheit\n• Testen und Debuggen mobiler Apps\n\nDies ist genau das, was Sie als neue Herausforderung suchen? Bitte kontaktieren Sie uns – wir würden Sie gerne kennenlernen und Ihnen dabei mehr über Ihren nächsten Traum-Job erzählen! Wenn Sie weitere Fragen zur Stellenausschreibung haben, dann melden Sie sich direkt bei Herr Honisch unter der Nummer: +41 41 544 12 46.\n\nWarum Sie mit uns Ihren nächsten Karriereschritt machen\n\nWir sind als KMU im Familienbesitz seit über 20 Jahren die spezialisierte Partnerin für die Besetzung von Fach- und Führungskräften. Die Firmengruppe ist in verschiedene Fachbereiche unterteilt und verfügt in jedem Segment über fundierte, fachliche Kompetenz. Wer sich bei uns bewirbt muss den Anspruch haben, einen nächsten Karriereschritt erreichen zu wollen.\n\nDass unsere Bewerber über die nötigen fachlichen Voraussetzungen für eine ausgeschriebene Position verfügen, setzen wir voraus. Durch diese sehr engmaschige Selektion schaffen wir die Möglichkeit, für unsere Kandidatinnen und Kandidaten mehr Zeit zu haben. Zeit für eine ausführliche Beratung und umfangreiche Betreuung.\n\nWir gestalten die Zukunft mit\n\nDie Unternehmensgruppe verfügt über innovative Software-Tools, die unseren Kandidatinnen und Kandidaten eine hervorragende Marktübersicht bietet. Unser Anspruch ist es, für Sie den besten aktuell verfügbaren Job zu finden.\n\nHinweis: Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen – unabhängig von Geschlecht, sozialer Herkunft, Religion/Weltanschauung, Alter und Identität. Ausschreibungen der bruederlinpartner - Gruppe umfassen z.T. mehrere Kundenanfragen für ähnliche Positionen in der Region. Wir finden die am besten geeignete Position für Sie anhand Ihrer Fähigkeiten, Erfahrungen und Ausbildungen.\n\nWeitere Interessante Jobs auf: www.digital-engineering-jobs.ch",
+            "apply_options": [
+                {
+                    "title": "Digital-Engineering-Jobs.ch",
+                    "link": "https://www.digital-engineering-jobs.ch/job/746486/senior-android-ios-developer-mwd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/digital-engineering-jobs/senior-android-ios-developer-m-w-d-889670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SEO For Jobs",
+                    "link": "https://www.seo-for-jobs.com/companies/bruederlinpartner/8920006-senior-android-ios-developer-mwd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://ch.talent.com/view?id=3f184f5d6219&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCAvIGlPUyBEZXZlbG9wZXIgKG0vdy9kKSIsImNvbXBhbnlfbmFtZSI6IkRpZ2l0YWwgRW5naW5lZXJpbmcgSm9icyIsImFkZHJlc3NfY2l0eSI6IkJlcm4sIFN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJVV2VZY19HeTJIYms5aFpJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Senior dÃ©veloppeur iOS UIKit/Swift UI | Berne, CH",
+            "company_name": "Brixio",
+            "location": "Bern, Switzerland",
+            "via": "EFinancialCareers CH",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=V6a2DlAk3VwxM_y-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3NPQrCQBBAYWxzBG2mFs2KYKNdLPxJYRGswyYZk5F1Z9kdNYidhxGvoRcz2jxe90XPXpRmaIk9VJ_H-3VBw87h2QPtMthvUhKVXekg3cMdEvQWR7Bcwxi2XEBA7csG2MKKuTbYXzQiLsyVCsHEdRAtVMYlnxRbLLhVRy7CL3lotEdntGA-nU3a2Nl6OEg8tcRA9g-NoJPlht5oW30B3wjTS6oAAAA&shmds=v1_AUFQtONpIQvq2vEzqWJvIUFx2Mu_JPOFmxugpmYw-Cf0Sdd6YQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=V6a2DlAk3VwxM_y-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508de29fc59c2104c0549/images/3211f8fce0130807bf23cc4b5766179c5bedbf24a8f7c924c40014c5160d412c.gif",
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior dÃ©veloppeur iOS UIKit/Swift UI\n\nLieu : Suisse - En distanciel avec dÃ©placements possibles Ã la demande du client.\n\nLangue : FranÃ§ais\n\nExpÃ©rience requise : Minimum 10 ans en dÃ©veloppement iOS, avec expertise avancÃ©e en Swift et SwiftUI\n\nDescription du Poste\n\nNous recherchons un DÃ©veloppeur iOS Senior pour rejoindre notre Ã©quipe dynamique et internationale, spÃ©cialisÃ©e dans le dÃ©veloppement d'applications mobiles innovantes. En tant qu'expert en UIKit et SwiftUI , vous jouerez un rÃ´le clÃ© dans la conception, le dÃ©veloppement et la maintenance d'applications iOS hautement performantes.\n\nCe poste s'adresse Ã un passionnÃ© de la technologie mobile avec une solide expÃ©rience en Swift et des compÃ©tences avÃ©rÃ©es pour dÃ©velopper des interfaces utilisateur modernes et fluides.\nResponsabilitÃ©s\n\n• Concevoir, dÃ©velopper et maintenir des applications iOS en utilisant UIKit et SwiftUI.\n• Traduire des concepts fonctionnels en interfaces utilisateur intuitives et performantes.\n• Collaborer avec les Ã©quipes de produit, de design et d'ingÃ©nierie pour garantir une expÃ©rience utilisateur optimale.\n• RÃ©aliser des revues de code pour maintenir une qualitÃ© de code irrÃ©prochable et conforme aux standards de l'industrie.\n• Optimiser les performances des applications et assurer leur stabilitÃ©.\n• IntÃ©grer des API RESTful et d'autres services tiers pour enrichir les fonctionnalitÃ©s des applications.\n• ÃŠtre un rÃ©fÃ©rent technique sur les meilleures pratiques en Swift et SwiftUI.\n• Former et accompagner les dÃ©veloppeurs moins expÃ©rimentÃ©s au sein de l'Ã©quipe.\nProfil recherchÃ©\n\n• Minimum 10 ans d'expÃ©rience en dÃ©veloppement iOS.\n• Expertise avancÃ©e en Swift, UIKit et SwiftUI (critÃ¨re indispensable).\n• Connaissance approfondie des concepts de programmation orientÃ©e objet et fonctionnelle.\n• ExpÃ©rience confirmÃ©e dans l'optimisation des performances et la gestion de la mÃ©moire.\n• Solide comprÃ©hension des architectures mobiles (MVC, MVVM, VIPER).\n• MaÃ®trise des outils de versioning (Git, GitLab/GitHub).\n• Connaissance des outils CI/CD pour l'intÃ©gration et le dÃ©ploiement des applications.\n• Bonne maÃ®trise des tests unitaires et fonctionnels (XCTest, Quick, Nimble).\n• Francophone avec une excellente communication orale et Ã©crite en franÃ§ais.\n• RÃ©sidence en Europe pour des raisons de compatibilitÃ© horaire et lÃ©gales.\nRequirements\n\nQualifications souhaitÃ©es\n\n• ExpÃ©rience de travail dans des environnements Agile/Scrum.\n• Connaissance des normes et pratiques d'accessibilitÃ© iOS.\n• ExpÃ©rience des notifications push, des soumissions Ã l'app store et des meilleures pratiques en matiÃ¨re de sÃ©curitÃ© iOS.",
+            "apply_options": [
+                {
+                    "title": "EFinancialCareers CH",
+                    "link": "https://www.efinancialcareers.ch/jobs-Schweiz-Bern-Senior_d%C3%A9veloppeur_iOS_UIKitSwift_UI.id22185200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgZMODwql2ZWxvcHBldXIgaU9TIFVJS2l0L1N3aWZ0IFVJIHwgQmVybmUsIENIIiwiY29tcGFueV9uYW1lIjoiQnJpeGlvIiwiYWRkcmVzc19jaXR5IjoiQmVybiwgU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6IlY2YTJEbEFrM1Z3eE1feS1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "iOS Mobile Developer (m/w/d)",
+            "company_name": "Röcken Ag",
+            "location": "Allmendingen bei Bern, Switzerland",
+            "via": "Jooble",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=nNMdqkzepS9bcdzgAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIQQrCMBAAQLz2CZ72qKJNUbzoSREEQQT7gJK0Sxrd7oYk2OJ7fIMf8GPqZQ6TvUbZyl1KOItxhHDAB5J4DDDpVK-aKSzgJAYi6lC3IAxHEUs43rYp-bhRKkbKbUw6uTqvpVPCaGRQNzHxTxVbHdCTTlgt18WQe7az4vp513dk2FlwP4k65Max_ZVBB3sMPIeyd-mJgTQ3X3UYL2anAAAA&shmds=v1_AUFQtOPWCsU80hSce8vs0QKw6EO272oXx6lVGlzgL9oNrs993Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=nNMdqkzepS9bcdzgAAAAAA%3D%3D",
+            "extensions": [
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Informationen zum Unternehmen\n• Team size\n\n1-15\n• Kategorien\n\nDein Aufgabenbereich\n• Du hast eine solide Ausbildung als Software-Entwickler/in und bringst fundierte technische Kenntnisse mit.\n• Du hast Erfahrung in der native Mobile Entwicklung für iOS (mit Swift ) und/oder Android (mit Kotlin ).\n• Du arbeitest mit deklarativem UI wie Swift UI (für iOS) und/oder Jetpack Compose (für Android).\n• CI/CD und automatisiertes Testing sind dir vertraut und ein Vorteil für die Qualitätssicherung.\n• Du kannst elegante Lösungen nach Best Practices und Standards entwickeln.\n• Deine Denkweise ist kundenorientiert , mit einem starken Servicegedanken .\n• Du sprichst Deutsch verhandlungssicher und beherrschst Fach-Englisch.\n\nDeine Skills\n• Du baust Mobile Apps nach einem agilen Vorgehensmodell (basierend auf Scrum ).\n• Du arbeitest in einem agilen Entwicklungsprozess mit modernen Technologien und Tools.\n• Du unterstützt und förderst einen intensiven Austausch mit deinem Team von Entwickler und User Experience Designer und sorgst damit dafür, dass die Kundenlösungen stetig besser werden.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ch.jooble.org/jdp/-3838552964260331136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgTW9iaWxlIERldmVsb3BlciAobS93L2QpIiwiY29tcGFueV9uYW1lIjoiUsO2Y2tlbiBBZyIsImFkZHJlc3NfY2l0eSI6IkFsbG1lbmRpbmdlbiBiZWkgQmVybiwgU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6Im5OTWRxa3plcFM5YmNkemdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMTQrCMBBGcdsj6GbWgomIbnTrD-hCMAcoaR2alGkmZNIqXshrGjff473FV31n1c1g8JzA3w0ccULiiAlWYKINXpw-hY4KSzmPRPDAgTMWu3IDgja1DjjAhbkjnB9czlH2WouQ6iTb7FvV8qA5YMNv3XMj_6nF2YSRbMZ6s1u_VQzdclEuZdvbySocwQcwL58_mMiG5w_tg0S6qgAAAA&shmds=v1_AUFQtOOgMWXzWDrjNb3sNNuTZYH9X5LWkwLBa6sWDIRe3rsArg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508de29fc59c2104c0549/images/3211f8fce01308075799fa3498425fd0ae8c6b939ead596b6a98cfe39407137d.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6IkRZS2RuVGpvVXg1eWIyMDlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "Urgent Opening For The Post Of Ar Vr Ios Android App Developer (Remote)",
+            "company_name": "Pataak It",
+            "location": "Switzerland",
+            "via": "StudySmarter - Talents",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=iDD-w_5P4sdx9yonAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIv2oCQRAHYNL6BCHVr9RA7kIgjVYHYtBGMX9KZe9usrdxnVlmBiO-mK9n0nzFN7rejXafGokd60KcOGIhio-BsBH7y280ii_FUgwN9yqpR1MK5nSiLIUU4y0dxWmCJ6ykhVHQboAw3kRipofZ4F5sWtdmuYrmwVNXdXKshamVc_0jrf2ztyEolRyc9i-vz-eqcHy83wQP4YClIzHef5NfSHPg_gaPRGlHugAAAA&shmds=v1_AUFQtOPtEGKfI1hcc7YfesaxRC_4EAWVd6k1JegB3pTQzt_-Bg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=iDD-w_5P4sdx9yonAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Urgent Opening For The Post Of AR/VR iOS/Android App Developer (Remote)\n\nUrgent Opening For The Post Of AR/VR iOS/Android App Developer | Pataak IT | Worldwide\n\nWe seek a talented AR/VR iOS/Android Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and maintaining high-quality AR/VR applications for iOS and Android platforms. This role requires a strong understanding of mobile development and AR/VR technologies, and a passion for creating captivating user experiences.\nKey Responsibilities:\n• Collaborate with cross-functional teams to define, design, and develop AR/VR applications for iOS and Android platforms.\n• Implement cutting-edge AR/VR features and functionalities using industry-leading frameworks and technologies.\n• Optimize applications for performance, scalability, and efficiency across different devices and platforms.\n• Integrate AR/VR experiences with backend services and APIs to enable seamless data exchange and functionality.\n• Conduct thorough testing and debugging to ensure the stability and reliability of AR/VR applications.\n• Stay updated on emerging trends and technologies in AR/VR development to continuously improve our products and processes.\n• Work closely with designers, artists, and developers to deliver immersive and visually stunning user experiences.\nRequirements:\n• Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent work experience).\n• Proven experience in mobile application development for iOS and Android platforms, focusing on AR/VR technologies.\n• Proficiency in programming languages such as Swift, Objective-C, Java, and Kotlin.\n• Strong understanding of AR/VR frameworks and SDKs, such as ARKit, ARCore, Unity, or Unreal Engine.\n• Experience with 3D graphics programming, shaders, and rendering techniques.\n• Familiarity with version control systems (e.g., Git) and agile development methodologies.\n• Excellent problem-solving skills and attention to detail.\n• Ability to work effectively in a fast-paced, collaborative environment.\n• Strong communication and interpersonal skills.\nPreferred Qualifications:\n• Experience with multiplayer AR/VR applications and networking protocols.\n• Knowledge of machine learning and computer vision algorithms for AR/VR applications.\n• Previous experience in developing applications for wearable AR/VR devices.\n• Contributions to open-source AR/VR projects or communities.\n\nKind Regards,\nCharmi\nAsst. Manager – HR\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/pataak-it/urgent-opening-for-the-post-of-ar-vr-ios-android-app-developer-remote-875220/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJVcmdlbnQgT3BlbmluZyBGb3IgVGhlIFBvc3QgT2YgQXIgVnIgSW9zIEFuZHJvaWQgQXBwIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IlBhdGFhayBJdCIsImFkZHJlc3NfY2l0eSI6IlN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJpREQtd181UDRzZHg5eW9uQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Mobile App Developer (m/f/d)",
+            "company_name": "Log in to view company",
+            "via": "Gotthe/Job",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=e6sw7xBj0DklIWVaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRAAQGzvARZWW6pgIoqNVoIgiL7hSOKaRHLZ5XY5zy_4arWZbprPpNneyOeCcGSGEw5YiLGHeWcf9r6AFVzIg6DrQwKqcCaKBWeHpMqyt1akmCjqNAcTqLNU0dNon-TlTyvJ9cjFKbab3Xo0XONyeqUIuYISDBlf8Hvs6vsL7tbn8I0AAAA&shmds=v1_AUFQtOM0wNfngRYYS1y84Dfhn-_e-dW0hJt6ygOomdfE6jPXIw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=e6sw7xBj0DklIWVaAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are one of the leading international recruitment agencies for the procurement of highly qualified experts in fields such as IT lifecycle management, SAP, engineering, commerce and specialist consultancy.\n\nFor our client we are currently looking for a\n\nMobile App Developer (m/f/d)\n\nGeneral information\n\nReference: 158552\n\nLocation: Remote / Onsite Zurich Area\n\nStart: 05.09.2022 / ASAP\n\nVolume: full-time\n\nDuration: 02.2023 +\n\nLanguages: English, German (nice to have)\n\nYour Skills\n\n– Several years experience in native app development (Android (Kotlin, Kotlin Coroutines) OR iOS (Swift, RxSwift)).\n\n– Agile project experience (Scrum)\n\n– Nice to have: Experience in the financial or banking environment\n\nYour Tasks\n\n– Developing native mobile apps according to the requirements of the digitalisation strategy in Android or Apple environment.\n\n– Working in an agile team\n\nInterested?\n\nWe look forward to receiving your application documents in electronic form.",
+            "apply_options": [
+                {
+                    "title": "Gotthe/Job",
+                    "link": "https://gotthejob.co/job/mobile-app-developer-m-f-d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciAobS9mL2QpIiwiY29tcGFueV9uYW1lIjoiTG9nIGluIHRvIHZpZXcgY29tcGFueSIsImh0aWRvY2lkIjoiZTZzdzd4QmowRGtsSVdWYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxVM2RwZEhwbGNteGhibVEifQ=="
+        },
+        {
+            "title": "Flutter – React native, Firebase, iOS native app development, Swift, Android native app development",
+            "company_name": "Haley Hooper",
+            "location": "Switzerland",
+            "via": "StudySmarter - Talents",
+            "share_link": "https://www.google.ch/search?ibp=htl;jobs&q=iOS+developer&htidocid=Z6pmdCl1w06Xe-XOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_3WOMQrCQBREsc0RtPm1aCKCjVY2MdgI5gDhJ_kmK5v9y-43RrHwDl7O2pOYgK3NzDDMwAveo-AR64sIOfg8X3AkLAQMimppBrFylKPvkzqkvxbQWiipJc22ISMzSK_q1NvWlI5V-WcGc9hzDp7QFTWwgR1zpWm8qUWsX0eR9zqsvPTnIiy4idhQzl105twPkvkaHVmNQtlytehCa6rpJEFNN0iYbc-vzIAid3IaTfkF1b6do9sAAAA&shmds=v1_AUFQtOOi97HqnDfHPX6kKFeT4c66U8DFTtIkm8C4kMOpSGLasw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Z6pmdCl1w06Xe-XOAAAAAA%3D%3D",
+            "extensions": [
+                "23 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We need help deploying two apps to the app store. We will start with one called Club Spot and if that works then we will proceed to another one. If you do really well, then we'll take your help in deploying to Google too. Here are the steps: 1) run through the readme instructions and through zoom screenshare remote control, run the app on Haley's computer with Expo 2) review the real time database 3) and make sure the Expo app is actually using (i.e. making API calls to) the Firestore Realtime Database 4) test through and confirm on Haley's Expo that all the frontend functionality is working as expected 5) Help her deploy to the apple app store 6) Ensure that the latest versions of the Apple Transport App and XCode are on Haley's computer 7) You will need to work with Haley to go into her developer.apple.com account and app store connect account 8) Follow these steps to upload the React Native app to iOS Testflight 9) use remote control over zoom, go into Haley's and then make sure the app identifiers, certificates, devices, profiles are setup correctly 10) also go into her app store connect and and set up her app (i.e. bundle ID, SKU, etc.) 11) Haley and other testers will need to download the apple Testflight app 12) thoroughly have all testers test the app using testflight 13) make sure you have followed all the steps there so the app is accepted by Apple Repeat the same for Make sure to do all the submission work using zoom screenshare on her computer, so her device is signing, and so all the provisioning profiles, certificates, etc. are on her machine. Only if you need to debug the React Native or Flutter app then you can use your computer but push to git in that case. Please provide an estimate of how many hours the above steps will take for 1 app to go to Testflight. And for it to go to Apple App Store review. You should have experience deploying to the Apple App Store.\n\nYears: Any\n\nLocation: Anywhere\n\nRequested on: 2022-10-24\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/haley-hooper/flutter-react-native-firebase-ios-native-app-development-swift-android-native-app-development-1268674/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIOKAkyBSZWFjdCBuYXRpdmUsIEZpcmViYXNlLCBpT1MgbmF0aXZlIGFwcCBkZXZlbG9wbWVudCwgU3dpZnQsIEFuZHJvaWQgbmF0aXZlIGFwcCBkZXZlbG9wbWVudCIsImNvbXBhbnlfbmFtZSI6IkhhbGV5IEhvb3BlciIsImFkZHJlc3NfY2l0eSI6IlN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJaNnBtZENsMXcwNlhlLVhPQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa3R6VDBSaGNIbEZVVEYxY1VsS1RqTkVjR0pFUzNoQmRFVmtabTlUWVMxbldtOU5Ua0Z3UTBaV01qTkJXVlZXVGtSRVIweFBUWHBpTjAxaVlsVjFZVFZ0Y0c1a1Z6SlRlRTF0Wm5oU1VFWllOV2x6TWt4YVFXMUNPR05QUnpWcFVGUlhUWGxHZFdwdmEzbFdNRVI0VTBzeFNVSTVXV2hIYWxkR2FVUm1WM2xzV0hoTFNUZFVUa0p4YUY5c1VWZDJhV1JTYTNGZlkxSlpNekJMZFRkM1FWVkdVRmhTV2poV1JrRldjamxpUmpGbloybDJZa0p2ZVRWVVMwbFVjM3BGZDFOb1RtaHliRkpSWTNWU01tRnBTRlZvTWxOM2FFSlFlV2RhTlU5a1pEZHZMVWRrZFdacVNuUnJSR3RQY1VST1lrUlZkMlpETlhOMlkxcHFTbnB3ZVhoeFpFNUZSUklYTTJkcFJsbzBYMjFNTlRkUGQySnJVR3ROVkdjd1FVVWFJa0ZHV0hKRlkyOVphWGxQWnpFMGVVZHBkV1ZrWDBsVk9YSmZUa2xGYWtaSmVWRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ch&location=Switzerland&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa3R6VDBSaGNIbEZVVEYxY1VsS1RqTkVjR0pFUzNoQmRFVmtabTlUWVMxbldtOU5Ua0Z3UTBaV01qTkJXVlZXVGtSRVIweFBUWHBpTjAxaVlsVjFZVFZ0Y0c1a1Z6SlRlRTF0Wm5oU1VFWllOV2x6TWt4YVFXMUNPR05QUnpWcFVGUlhUWGxHZFdwdmEzbFdNRVI0VTBzeFNVSTVXV2hIYWxkR2FVUm1WM2xzV0hoTFNUZFVUa0p4YUY5c1VWZDJhV1JTYTNGZlkxSlpNekJMZFRkM1FWVkdVRmhTV2poV1JrRldjamxpUmpGbloybDJZa0p2ZVRWVVMwbFVjM3BGZDFOb1RtaHliRkpSWTNWU01tRnBTRlZvTWxOM2FFSlFlV2RhTlU5a1pEZHZMVWRrZFdacVNuUnJSR3RQY1VST1lrUlZkMlpETlhOMlkxcHFTbnB3ZVhoeFpFNUZSUklYTTJkcFJsbzBYMjFNTlRkUGQySnJVR3ROVkdjd1FVVWFJa0ZHV0hKRlkyOVphWGxQWnpFMGVVZHBkV1ZrWDBsVk9YSmZUa2xGYWtaSmVWRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

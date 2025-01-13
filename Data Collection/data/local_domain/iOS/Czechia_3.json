@@ -1,0 +1,284 @@
+{
+    "search_metadata": {
+        "id": "67850839448a303221cb9897",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fefe185ab225d023/67850839448a303221cb9897.json",
+        "created_at": "2025-01-13 12:34:01 UTC",
+        "processed_at": "2025-01-13 12:34:01 UTC",
+        "google_jobs_url": "https://www.google.cz/async/callback:550?q=iOS+developer&uule=w+CAIQICIHQ3plY2hpYQ&udm=8&fc=EswCCowCQUpHOUprTkpZTlUxSzNGMTZscU9kOU9POGg2Y1pDVElYZVRuaEQzNHFPa3hkVEQ2RU4ydFIxVHlmUm1rQ3BQUUdodjBNWTlIdVNmenllUXd4cVpSOUJiWlJBM2hSRmlnOEFETjNibElqYmxHZFNiVGw3MGZFbXpRejBhNkROQ1czV0VZT1ZaYXRVMFE0bGhnbFRBaS1VMnQ4VTFQNFRrX0hBdmJRLVZiMjFnXzZGQkpadmlSYjJWdmFvQ1hYc29rajNacEJEdUYzWEJ0cHJ1bGNfZmFQWk1PaWRJX2RORGlwVkdnTlAzWFYyeUdyRzh2RkZPUFd1WHZMQjh3YW51VGI2cHc4QWFzRmhXYRIXT0FpRlo2WENKT0hXcHRRUHc0dm80UW8aIkFGWHJFY29ncjZoWmphS3owZklJTnFid3NZQXJnYlpYYnc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/fefe185ab225d023/67850839448a303221cb9897.html",
+        "prettify_html_file": "https://serpapi.com/searches/fefe185ab225d023/67850839448a303221cb9897.prettify",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Czechia",
+        "location_used": "Czechia",
+        "google_domain": "google.cz",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa3BaVGxVeFN6TkdNVFpzY1U5a09VOVBPR2cyWTFwRFZFbFlaVlJ1YUVRek5IRlBhM2hrVkVRMlJVNHlkRkl4VkhsbVVtMXJRM0JRVVVkb2RqQk5XVGxJZFZObWVubGxVWGQ0Y1ZwU09VSmlXbEpCTTJoU1JtbG5PRUZFVGpOaWJFbHFZbXhIWkZOaVZHdzNNR1pGYlhwUmVqQmhOa1JPUTFjelYwVlpUMVphWVhSVk1GRTBiR2huYkZSQmFTMVZNblE0VlRGUU5GUnJYMGhCZG1KUkxWWmlNakZuWHpaR1FrcGFkbWxTWWpKV2RtRnZRMWhZYzI5cmFqTmFjRUpFZFVZeldFSjBjSEoxYkdOZlptRlFXazFQYVdSSlgyUk9SR2x3VmtkblRsQXpXRll5ZVVkeVJ6aDJSa1pQVUZkMVdIWk1RamgzWVc1MVZHSTJjSGM0UVdGelJtaFhZUklYVDBGcFJsbzJXRU5LVDBoWGNIUlJVSGMwZG04MFVXOGFJa0ZHV0hKRlkyOW5jalpvV21waFMzb3daa2xKVG5GaWQzTlpRWEpuWWxwWVluYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Software Development Engineer - Core OS Biometrics",
+            "company_name": "Apple",
+            "location": "Czechia",
+            "via": "Next Level Jobs EU",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=RbmxYiAsbjQ7kZkTAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce3k7HSzYCOCi05aRXRx6AeUNJxJJL0LuUOLn-LXWpc3vDe86jurri0_9G0LwglfmDgPSApn8pEQC6yg4andWzhGHlBLdDLJG_cgaIsLwAQXZp9wsQ-qWXbGiKTai1qNrnY8GCbseTRP7uWPTsL0y8kqdpvteqwz-eX8kHNCiATNB12I9geArZwbnQAAAA&shmds=v1_AUFQtOMaoaOWuYbhznpLTm-bKDuyKjBr29-3fNvJUjHodMzikA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=RbmxYiAsbjQ7kZkTAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a51371dd1f3207f5137444dec483f32be2ec32bdc411fa36fd.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Requirements\n• Master degree in Computer Science or equivalent skills\n• Excellent C programming skills\n• Experience with Objective-C or Swift\n• Solid OS fundamentals (experience with iOS or macOS as a developer)\n\nNice to Haves\n• Creative and critical thinking capabilities and troubleshooting skills\n• Excellent teamwork\n• Experience with writing and debugging drivers and related frameworks\n• Experience with kernel and embedded development\n• Passion for test driven development\n• Knowledge of cryptography and data security\n• Proven track record in driving engineering excellence and quality on large scale projects\n\nWhat You'll Be Doing\n• Help with the architecture and design of biometric technologies for Apple platforms\n• Write code that will run on iOS, iPadOS, macOS, visionOS, and/or embedded platforms\n• Bring up biometric technologies on future Apple products\n• Work cross-functionally with teams throughout Apple on different technologies",
+            "apply_options": [
+                {
+                    "title": "Next Level Jobs EU",
+                    "link": "https://nextleveljobs.eu/companies/apple/jobs/66eac0d28cc28614e0cec0db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciAtIENvcmUgT1MgQmlvbWV0cmljcyIsImNvbXBhbnlfbmFtZSI6IkFwcGxlIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiUmJteFlpQXNialE3a1prVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "IOS Developer / Vývojáři softwaru",
+            "company_name": "Applifting s.r.o.",
+            "location": "Prague, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=j9E4yvIPRPG6ddRDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCMBQAUFx7BKc_OIkmIrjYSRREFwXBtaTlN0mJ-SE_rcWbuOlBnIr3Et_wstcoyw-nC-ywQ0cBI0i4Dp-OmuH9fVpgqtNdxRbmcKQSGFWsDJCHPZF2OM5NSoHXUjI7oTmpZCtR0U2Sx5J62VDJ_wo2KmJwKmGxXC16EbyeTjYhOFsn6zWwiIIEWA_nqHSLM9g-sDJW_QBpLAADowAAAA&shmds=v1_AUFQtOP491PxPYSz2szG74ijfpdnAAzXxg29gXPMlruh7CErYA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=j9E4yvIPRPG6ddRDAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a5de513979801d03f1b2bcb8756a3d2c9740ad8a4303be5585.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "KONTAKT - Kristýna Filadelfi, tel.: Zobrazit telefonní číslo na pracomat.cz, e-mail: Zobrazit email na pracomat.cz\n\nAngličtina na úrovni B2.\n\nJazyky Swift.\n\nZnalost dalších jazyků výhodou.\n\nPožadujeme:\nminimální požadované vzdělání: ÚSO s maturitou (bez vyučení)\n\nNabízíme:\nmzda (plat): od 50 000 Kč\ntyp pracovního úvazku: HPP\nsměny: pružná pracovní doba\ndatum nástupu: 15. 11. 2024\n\nDalší důležité informace o nabídce práce:\npočet volných pracovních míst: 1\ndatum zveřejnění nabídky práce: 05. 11. 2024\njméno zaměstnavatele: Applifting s.r.o., IČ: 02542072",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/1817914319185656225?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pracomat",
+                    "link": "https://www.pracomat.cz/prace/30380400777-vyvojari-softwaru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIC8gVsO9dm9qw6HFmWkgc29mdHdhcnUiLCJjb21wYW55X25hbWUiOiJBcHBsaWZ0aW5nIHMuci5vLiIsImFkZHJlc3NfY2l0eSI6IlByYWd1ZSwgQ3plY2hpYSIsImh0aWRvY2lkIjoiajlFNHl2SVBSUEc2ZGRSREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "iOS Software Engineer: Transforming Ideas into Innovative Mobile Experiences",
+            "company_name": "AVENGA",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=TE61GUCUArb1pjM_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce3m6nSzYCuCi05FSqmgDhXXksZrGknvQi7U4n_5f9blbY_3ku8i0fZWQ81dfKuAUJCxhBgOcA-KpOMwWDJQPVEJWIoMFRGPKtoR4cKtdbMzeQwWSaPABs7cgqAKugcmKJmNw9Wxj9HLIctEXGokzr5ONQ8ZE7Y8ZS9u5Y9G-vnCOxWx2e23U-rJrJf5o7iW-ZyH0wd1b9UP7EYNU7gAAAA&shmds=v1_AUFQtOMorGX7qQtKsR5rDLxDjzs8gE7glERVr5R_fmCID3PbKg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=TE61GUCUArb1pjM_AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a58771d4befb838068e19ed517e180fd0df67bce2e246a4762.gif",
+            "extensions": [
+                "30 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "30 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking an experienced iOS software engineer to join our team at AVENGA. As a strong team player, you will be working closely with cross-functional teams to design and develop high-quality mobile applications.\n\nKey Responsibilities:\n• Design and implement scalable, efficient, and user-friendly iOS applications using Swift and UIKit frameworks.\n• Develop reusable code modules and ensure high-quality coding standards.\n• Work collaboratively with designers and product managers to understand project requirements and deliver innovative solutions.\n• Maintain and improve existing codebases, ensuring they are up-to-date with the latest technologies and best practices.\n• Participate in code reviews, unit testing, and integration testing to ensure the quality of delivered products.\n\nRequirements:\n• 3+ years of experience in developing iOS applications using Swift and UIKit.\n• Excellent knowledge of Design Patterns (MVVM, MVP, Unidirectional Flow) and their implementation.\n• Familiarity with Scrum Agile methodology and experience working in a fast-paced environment.\n• Strong understanding of Bluetooth connectivity and its application in mobile devices.\n• Experience with Unit Tests, RestAPI, GraphQL, and other relevant technologies.\n\nBenefits:\n• A competitive salary range of $120,000 - $180,000 per year, depending on experience.\n• Sport subscription for employees and their families.\n• International projects and opportunities for growth and development.\n• Private healthcare and insurance options.\n• Cafeteria system and free beverages.\n• Free coffee and bike parking facilities.\n• Modern office space with no dress code restrictions.\n• Free parking facilities for employees.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-463671ab35d2554981b87476a3898140?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU29mdHdhcmUgRW5naW5lZXI6IFRyYW5zZm9ybWluZyBJZGVhcyBpbnRvIElubm92YXRpdmUgTW9iaWxlIEV4cGVyaWVuY2VzIiwiY29tcGFueV9uYW1lIjoiQVZFTkdBIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiVEU2MUdVQ1VBcmIxcGpNX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "iOS Developer @ Flexion Mobile Plc Magyarországi Fióktelepe",
+            "company_name": "Flexion Mobile Plc Magyarországi Fióktelepe",
+            "location": "Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=8yMWj3V1C3GJQ2MqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_5XOMQoCMRBAUWz3CFZTC25EEEQbQVlBWBS0l2wYktGYCZkg697GM3iErb2TegSb3z34xXtQnGh_hA3e0XPEBCuoPLbEAWpuyCMcvIFa24dOnKTrn5agov51zegxIoxhxw0I6mQcfNWW2XocLl3OURZKifjSStaZTGn4pjhgw626cCO_nMXphNHrjOfpbNKWMdjR_L8FCrDu0DjSH5DcqxjQAAAA&shmds=v1_AUFQtONHWQwUKo-UAH7JEdJUZ9HNw1ju5ki3YNvumFjLh-GqzA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8yMWj3V1C3GJQ2MqAAAAAA%3D%3D",
+            "extensions": [
+                "25 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "O pozici / o projektu\nPůvodní popisek.\n\nWe are seeking an experienced iOS Developer to play a key role in helping Flexion expand into the iOS ecosystem with a primary focus on payment integration and implementing payment SDKs. You will drive the development of iOS solutions, mirroring the success of our Android products, while developing features, conducting R&D, understanding the full ecosystem, and approaching challenges with an entrepreneurial and doer mindset.\n\nYou will also work with frameworks such as Unity Engine to deliver seamless, high-quality solutions. Collaboration with cross-functional teams is essential for success in this role.\nOdpovědnosti\nPůvodní popisek.\n• Design, build, and maintain iOS applications, focusing on payment integrations and payment SDKs.\n• Conduct R&D and develop features to explore and implement innovative solutions for iOS.\n• Develop and integrate features using frameworks like Unity Engine.\n• Collaborate with cross-functional teams to design, implement, and optimize new features.\n• Identify and resolve performance bottlenecks, bugs, and issues within payment flows.\n• Maintain high-quality, clean, and well-organized code.\nUkázat vše (7) Detail pracovní nabídky\n• Jazyk náboru: Maďarština&Angličtina\n• Ihned\n• Dlouhodobá spolupráce\n• Práce na dálku po dobu 2 dnů v týdnu\nMetodika práce\n• Agile management Agile\n• Issue tracking tool Github\n• Code reviews Bitbucket\n• Version control system\nVýhody v kanceláři\n• Bezplatná káva\n• Bezplatné občerstvení\n• Bezplatné nápoje\n• Mobilní telefon\n• Bezplatné parkování\n• Vnitřní školení\n• Moderní kancelář\n• Atmosféra startupu\n• Bez požadavku na dress code\nVýhody\n• Mezinárodní projekty",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/-5647962509126128812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIEAgRmxleGlvbiBNb2JpbGUgUGxjIE1hZ3lhcm9yc3rDoWdpIEZpw7NrdGVsZXBlIiwiY29tcGFueV9uYW1lIjoiRmxleGlvbiBNb2JpbGUgUGxjIE1hZ3lhcm9yc3rDoWdpIEZpw7NrdGVsZXBlIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiOHlNV2ozVjFDM0dKUTJNcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Developer Support Engineer",
+            "company_name": "RevenueCat",
+            "location": "Anywhere",
+            "via": "Built In Toronto",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=h64GvhFeO7yrtKaVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWy3t7GaWjBRwUbLVQRLPcCShCGJxJmQmZXFC3ht1-YXr_ndd9HtzvjGwhUbPMZauSlcKGbCGTZwYw-CroUETHBljgVXp6Ra5WitSDFR1GkOJvDLMqHnyT7Zyz-DJNewFqc47A_byVSK6-V9_tGIvVPIBP0HQ8ruB2qCbOmKAAAA&shmds=v1_AUFQtONKhFUG895o6CkU8I3o3zKoxMsm7dZhxN1L5a7PIWSGHw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=h64GvhFeO7yrtKaVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a5f2c709c64830b81a12725ea4ab76761cc93c3f2f8d2f69a5.gif",
+            "extensions": [
+                "18 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About us:\n\nRevenueCat makes building, analyzing, and growing mobile subscriptions easy. We launched as part of Y Combinator's summer 2018 batch and today are handling more than $4B of in-app purchases annually across thousands of apps.\n\nWe are a mission driven, remote-first company that is building the standard for mobile subscription infrastructure. Top apps like ChatGPT, VSCO, Notion, and ClassDojo count on RevenueCat to power their subscriptions at scale.\n\nOur 80 team members (and growing!) are located all over the world, from San Francisco to Madrid to Taipei. We're a close-knit, product-driven team, and we strive to live our core values: Customer Obsession, Always Be Shipping, Own It, and Balance.\n\nThe Role\n\nIf you’re looking to jumpstart your career in tech and have a direct impact on apps used by billions of end-users, the Developer Support Engineer (DSE) role at RevenueCat is a fantastic opportunity. This is one of the few entry-level positions we offer, and it has proven to be an incredible stepping stone—our current Support Lead, a Product Manager, and a Technical Account Manager each started out as DSEs.\n\nIn this role, you’ll help developers integrate the RevenueCat SDK into their apps, troubleshoot tricky edge cases, and unlock new possibilities in subscription monetization. You’ll provide hands-on support for some of the biggest apps in the world—imagine helping the teams behind ChatGPT, VSCO, PhotoRoom, Notion, and others get the best out of RevenueCat. You’ll be empowered to own the support experience, build out internal tools, and identify improvements that shape how developers everywhere use RevenueCat.\n\nIn 2024, our DSEs spoke at conferences in Berlin, Logroño, New York, London, and Tokyo. This is optional, but if you're interested, you can meet RevenueCat customers face to face, have fun working our booth, and share your knowledge with developers worldwide.\n\nWhat you’ll be responsible for\n• Supporting developers daily. You’ll debug issues, untangle complex code paths, and guide developers through onboarding so they can ship subscription features confidently.\n• Collaborating cross-functionally. You’ll partner closely with Engineering and Product to influence the developer experience—everything from our documentation to new features.\n• Building tooling and processes. You’ll craft or improve the internal apps and dashboards that make troubleshooting faster and easier, both for you and your teammates.\n• Driving user success. From investigating stack traces to clarifying best practices, you’ll ensure developers can move from “blocked” to “shipped” without missing a beat.\n\nWithin your first month, you’ll:\n• Deep-dive into the frustrations and roadblocks developers face, helping them get unblocked so they can launch their apps.\n• Familiarize yourself with our support tools and processes.\n• Propose and implement quick wins in our documentation and support articles to reduce common developer pitfalls.\n• Work alongside our engineering team to resolve complex issues and learn the ins and outs of subscription infrastructure.\n\nWithin your first 3 months, you’ll:\n• Spot opportunities for product improvements that will reduce developer friction.\n• Build out test apps and reproducible environments to tackle issues head-on.\n• Own onboarding and solution engineering for new developers using RevenueCat, providing a seamless start-to-finish experience.\n\nWithin your first 6 months, you’ll:\n• Identify recurring blockers and implement targeted improvements—both in our products and in your own support workflows.\n• Craft (and refine) internal dashboards and tooling that accelerate the DSE team’s efficiency.\n• Make meaningful, self-directed contributions to how we scale support for an ever-growing developer community.\n\nAfter 12 months, you’ll have:\n• Gained super-hero level intuition for diagnosing the root causes of even the trickiest tickets.\n• Led the charge on hiring, mentoring, and growing our support engineering team.\n• Found new ways to delight developers, turning frustrating subscription problems into smooth, joyful experiences.\n\nAbout you\n• You’re eager to learn and grow; this is one of the few entry-level positions at RevenueCat and has historically launched multiple careers within our company.\n• You have 2-3 years of experience in an engineering or technical role, or have built and shipped a mobile app that integrates RevenueCat.\n• You’re comfortable with either iOS (Swift / Objective-C) or Android (Java / Kotlin) and have a grasp of app development and release processes.\n• You can debug code with minimal info, diagnosing issues from cryptic logs or stack traces.\n• You thrive in an environment that requires creative problem-solving and a “get it done” mentality.\n• You have strong written and verbal communication skills, and you’re empathetic towards the developer journey.\n\nWhat you’ll need to be successful\n• Technical curiosity and a willingness to learn new tools and frameworks.\n• Resourcefulness in figuring out solutions when the path isn’t obvious.\n• Clear communication skills to translate complex issues into helpful, actionable steps.\n• Outcome-oriented mindset, ensuring your support leads to measurable developer success—fewer tickets, better documentation, and happier customers.\n• Collaboration and comfort with a fully remote, asynchronous setup using tools like Slack, Zoom, Linear, and Notion.\n\nWhat we offer:\n• $112,000 USD Salary regardless of your location\n• Competitive equity in a fast-growing, Series B startup backed by top tier investors including Y Combinator\n• 10 year window to exercise vested equity options\n• Fully remote work environment that promotes autonomy and flexibility\n• Suggested 4 to 5 weeks time off to recharge and focus on mental, physical, and emotional health\n• $2,000 USD to build your personal workspace\n• $1,000 USD annual stipend for your continuous learning and growth\n\nCurious about the interview process? Discover more in our blog post about how we hire and learn tips to help you succeed.",
+            "apply_options": [
+                {
+                    "title": "Built In Toronto",
+                    "link": "https://builtintoronto.com/job/developer-support-engineer/3641684?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgU3VwcG9ydCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlJldmVudWVDYXQiLCJhZGRyZXNzX2NpdHkiOiJDemVjaGlhIiwiaHRpZG9jaWQiOiJoNjRHdmhGZU83eXJ0S2FWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "Senior iOS Software Engineer for Dynamic Solutions",
+            "company_name": "Experis Polska",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=Vv8UNTEWCvcNdnnZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7BjrdLNiI4KKjFtFFoQ9Q0nBNT9O7kItYfR1f1Lr8yzf8xXdWnGtkkgR0raGWLr9sQqjYEyMm6CY5vtkO5CYNz0zCCiu4SAuKNrkehOEk4gMu9n3OUXfGqIbSa7aZXOlkMMLYymju0uo_jfbTJAabsdls12MZ2S_n1RgxkcJNgj4sEMPhg64n-wN7ZybJpgAAAA&shmds=v1_AUFQtOPqSv01caEiMTkh725JtXe6lvqD-pPl2dcg0S1bcN_LLQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Vv8UNTEWCvcNdnnZAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a507917513250e1fc422b0958d397f6db21df210b6de608da8.gif",
+            "extensions": [
+                "18 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking an experienced Senior iOS Software Engineer to join our team in Wrocław or remotely. As a key member of our development team, you will play a vital role in the growth and maintenance of innovative solutions for a dynamic industry.\nKey Responsibilities\n• Develop new features to enhance our application's functionality.\n• Maintain and improve existing functionality to ensure seamless user experiences.\n• Ensure the highest standards of code quality through rigorous testing and code reviews.\n\nThe ideal candidate will have a strong background in iOS development using Swift, with experience in UIKit and SwiftUI. Familiarity with design patterns such as MVVM, MVP, and Unidirectional Flow is also essential. In addition, expertise in Bluetooth, REST APIs, and GraphQL is required. Unit testing skills are a must.\nWhat We Offer\n• A competitive salary range of 90,000 - 110,000 PLN per annum (approximately $22,500 - $27,500 USD), depending on experience.\n• A comprehensive benefits package, including B2B via Experis, MultiSport Plus, Group insurance, Medicover Premium, and an e-learning platform.\n• The opportunity to work with a well-maintained codebase in an environment that values continuous improvement.\n• A collaborative and supportive team dedicated to excellence.\n\nExperis Polska is a global leader in IT recruitment and management consulting. We offer competitive salaries, a dynamic work environment, and opportunities for career growth. If you are passionate about iOS development and collaboration, we encourage you to apply.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-1b6aee238fe7aecece3f5d8e5b2b3fcb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIFNvZnR3YXJlIEVuZ2luZWVyIGZvciBEeW5hbWljIFNvbHV0aW9ucyIsImNvbXBhbnlfbmFtZSI6IkV4cGVyaXMgUG9sc2thIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiVnY4VU5URVdDdmNOZG5uWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "AR/iOS @",
+            "company_name": "Visible Magic",
+            "location": "Czechia",
+            "via": "BeBee",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=-ECQJQsz4i94wZMiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P2-QFzMLNiK4KKL4iAIIii4HmkJbY7alEuG4teLb3hDH1bnp-fHC06wgZsEUMI5ZpAKV5FUaHnMZk0P3qsWl9TQOLooHy-VgnQ_SdB_o2acqRU0Gnf7bXetpvXizcqhENwxcQSucPlSzIw_SJUyqHoAAAA&shmds=v1_AUFQtONIlXpTwscKGQuP5aIq7S1WAMKS3HeKCeYIy1dbIa7TLg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=-ECQJQsz4i94wZMiAAAAAA%3D%3D",
+            "extensions": [
+                "11 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "About Visible Magic\n\nWe create and deliver innovative blockchain and Web3 products for the US market.\nJob Title: AR/iOS Developer\n\nWe are seeking a talented and passionate AR/iOS Developer to join our team. In this role, you will create cutting-edge augmented reality applications for iOS platforms, leveraging ARKit and the latest technologies to deliver immersive user experiences.\nKey Responsibilities:\n• Develop and maintain AR applications for iOS devices using ARKit and Swift.\n• Collaborate with cross-functional teams, including designers and product managers, to understand requirements and deliver features on time.\n• Integrate AR solutions with existing applications and backend systems.\n• Optimize applications for performance and usability across various iOS devices.\n• Stay up-to-date with the latest trends and technologies in AR, iOS development, and Apple ecosystems.\n• Write clean, maintainable, and well-documented code following best practices.\n• Debug and resolve technical issues, ensuring the stability and performance of applications.\nRequirements:\n• Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).\n• Proven experience in iOS development with a strong portfolio of released apps.\n• Hands-on experience with ARKit and developing AR applications.\n• Proficiency in Swift and Xcode.\n• Strong understanding of iOS frameworks (UIKit, Core Animation, etc.).\n• Familiarity with 3D graphics frameworks like SceneKit, RealityKit, or Unity for AR development.\n• Experience working with APIs and integrating third-party SDKs.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication skills and ability to work collaboratively in a team environment.\nWhat We Offer:\n• Independent Contractor Agreement (ICA) employment with a U.S. company.\n• Working hours - Full-time.\n• Remote working opportunities.\nEstimated Salary:\n\n$120,000 - $180,000 per year.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://cz.bebee.com/job/3b2c8ab22e60a9b25590812408e23d41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBUi9pT1MgQCIsImNvbXBhbnlfbmFtZSI6IlZpc2libGUgTWFnaWMiLCJhZGRyZXNzX2NpdHkiOiJDemVjaGlhIiwiaHRpZG9jaWQiOiItRUNRSlFzejRpOTR3Wk1pQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "iOS Developer - senior",
+            "company_name": "SHARRY EUROPE s.r.o.",
+            "location": "Prague, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=33-TAu23S86saH5yAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBCAYVz7CE63CWITEVx0Ei2KS0uLg1NJw5FEYi7kohTfw_fVLj_fX3xnRenqDk74Rk8RE5TAGBxNuNLwH5W0BQpwJjIe53ubc-SdlMxeGM4qOy00PSUFHGiUDxp4Ss9WJYxeZew32_UoYjDLRXc5tO0dqltbNxWwSIIEuABNUuaFKzh-UFunfmLQWD2YAAAA&shmds=v1_AUFQtOMqLWPjwKRLCwbafrMpTLwpqbC0uTcslAxR8wL-h8YUqg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=33-TAu23S86saH5yAAAAAA%3D%3D",
+            "extensions": [
+                "CZK 40K–CZK 80K a month",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "CZK 40K–CZK 80K a month",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Jestli už Tě nebaví vyvíjet průměr a raději bys byl u něčeho s velkým potenciálem co u nás ještě nikdo nedělá, pak patříš k nám.\n\nJsme středně velká digitální agentura a vyvíjíme mobilní aplikace pro inteligentní kancelářské budovy. V Evropě jsme pyšní zejména na spolupráci s největšími developery, jako je SKANSKA nebo HB REAVIS, s americkým trhem nás pojí tamní developerská špička - společnost LENNAR - a její residenční projekt na Floridě. Abychom to všechno zvládali, potřebujeme i Tebe. Jsme sehraný tým a hledáme dalšího hráče - iOS vývojáře (seniora).\n\nCo Ti můžeme nabídnout:\n• projekty zaměřené na IoT, indoor navigaci (beacony, VLC), řešení pro vstup do budov na bázi BLE, NFC\n• příjemné pracovní prostředí a klimatizované kanceláře blízko metra Anděl\n• pružnou pracovní dobu, občasnou možnost home office\n• adekvátní platové ohodnocení\n• mimopracovní aktivity\n• přátelský tým kolegů a svobodnou firemní kulturu\n• práci na zajímavých projektech pro významné klienty\n\nKoho hledáme:\n• kolegu s proaktivním přístupem k řešení problémů, zodpovědného a spolehlivého\n• parťáka, který má touhu se rozvíjet a umí pracovat v týmu\n\nJaké jsou benefity?\n\nVolná pracovní doba, svobodná firemní kultura, kvalitní technologické zázemí pro vývoj mobilních aplikací, vývoj mobilních aplikací budoucnosti a podílení se na vymýšlení konkrétních řešení, možnost firemního mobilního tarifu.\nProč si vybrat tuto nabídku?\n\nCo Ti můžeme nabídnout:\nProjekty zaměřené na IoT, indoor navigaci (beacony, VLC), řešení pro vstup do budov na bázi BLE, NFC; příjemné pracovní prostředí a klimatizované kanceláře blízko metra Anděl; pružnou pracovní dobu; občasnou možnost home office; adekvátní platové ohodnocení; přátelský tým kolegů a svobodnou firemní kulturu; práci na zajímavých projektech pro významné klienty.\nHledáme\n• Znalost Objective-C/Swift\n• Znalost a internetových protokolů\n• Zkušenosti s REST API\n• Verzování přes GIT\n• Možnost být s námi v kanceláři na fulltime\n• Proaktivní přístup\n• Zodpovědnost\n• Spolehlivost\n• Česky -\ndomluvit se\n• Anglicky -\nčtení dokumentace\n• Úroveň: Senior\n• VŠ Vzdělání\n• VŠ student\nVýhodou\n• znalost SQL a databází",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/6137214899763948691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HitPrace.cz",
+                    "link": "https://www.hitprace.cz/prace-detail/ios-developer-senior-praha-js59f1f98315dea/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gc2VuaW9yIiwiY29tcGFueV9uYW1lIjoiU0hBUlJZIEVVUk9QRSBzLnIuby4iLCJhZGRyZXNzX2NpdHkiOiJQcmFndWUsIEN6ZWNoaWEiLCJodGlkb2NpZCI6IjMzLVRBdTIzUzg2c2FINXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Flutter Mobile Developer",
+            "company_name": "Raketech",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=sFyaL7yuGTdSdI4NAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMsQpCMQwAcX2rm1NmwVYEFx0VBcHFH3i0JbTV2JQmysPVH7cux3HDDd_ZYE_0UsUGV_aZEI74RuLawwou7EHQtZCAC5yZI-Fin1Sr7KwVIRNFneZgAj8tF_Q82Tt7-WOU5BpWcorjZrueTC1xOb-5Byr2YS5w-HTJ7gdcuYFshgAAAA&shmds=v1_AUFQtOOKIyRj7Xx1IgHqkWvy2SM5F7b4vH1y0Sg4N-k7RgS4-w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=sFyaL7yuGTdSdI4NAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a587cd21cd2d8d1bff7205137e4f5881b50425d383c59c2b0b.gif",
+            "extensions": [
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe, Portugal\n\nThe role is restricted to those physically located in Europe, while this is a remote position, we cannot consider candidates that are not based in such region. Preference will be given to candidates based in Portugal, Spain or Malta.\n\nWe are looking for an enthusiastic Flutter Mobile Developer to help maintain and develop our sports mobile applications.\n• As a Flutter Mobile Developer you are expected to …\n• Write clean, well-documented, and maintainable code for Flutter application\n• Develop and maintain technical documentation for the applications\n• Identify the causes of the most complex issues and implement practical and efficient technical solutions\n• Implement both backend and front-end features\n• Coordinate with UX/UI designers, developers, and test engineers in an Agile environment\n• Abide by industry and company software development standards\n• Conduct code reviews and give feedback to other developers\n• Understand the big picture and offer insightful advice about technologies and projects\n• Be proactive in identifying and communicating potential risks and issues to the team and stakeholders\n• Participate in sprint planning, estimation, and retrospective meetings\n• Keep up-to-date with the latest mobile app development trends and technologies\n• Work in close partnership with cross-functional teams and management\n• Ensure code quality by writing tests, using SonarQube, etc.\n• Success in this role means...\n• Collaborating towards a team effort to improve the overall user experience of our applications.\n• Developing DRY, clean, maintainable and scalable code that can be comprehended and worked on solely through documentation created.\n• Increasing the performance, scalability and security of our mobile applications.\n• You have acquired proficient communication skills in the English language through team collaboration.\n\nThis offer from \"Raketech\" has been enriched by Jobgether.com and got a 86% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66e4d25a5ae7155b1774745b-flutter-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIE1vYmlsZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJSYWtldGVjaCIsImFkZHJlc3NfY2l0eSI6IkN6ZWNoaWEiLCJodGlkb2NpZCI6InNGeWFMN3l1R1RkU2RJNE5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Highly Skilled Flutter Developer Wanted for Remote Role",
+            "company_name": "The Software Smith",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.cz/search?ibp=htl;jobs&q=iOS+developer&htidocid=_GtR5fGnGl_GNb2kAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7CIJws2AjgouOioqDQys4lrRek-g1F5JTq8_kQ1qXnx--7DvKTgdnLL2hvDsivMKOHiIYYYtPJA7DXbSXAVqOUGDHglAwIczgyDUk1LGxwB72zIZwvLYiIa2USolyk0SLa_KGO8Uea-7Vjev0T5WsjhhIC1aL5bzPgzfTydkilNzKazAoOycWnIfNBxvr9A9SNz8erwAAAA&shmds=v1_AUFQtOM_ZoQen6lyk6hUiUYYhX7K2sSFFuJUCOkNXS9QGgpn9w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=_GtR5fGnGl_GNb2kAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850839448a303221cb9897/images/30c9631b72dfa2a5c434c402c4bdc9dc23a6ec67017b4b1482ab6f954e0a247d.gif",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Overview:\n\nWe are The Software Smith, a fast-paced consulting agency seeking an experienced Senior Flutter Engineer to join our team. This fully remote role offers flexibility and autonomy while working on cutting-edge technology in an international environment.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-49cfe2354dc55ac96b8bc46a8a619d6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJIaWdobHkgU2tpbGxlZCBGbHV0dGVyIERldmVsb3BlciBXYW50ZWQgZm9yIFJlbW90ZSBSb2xlIiwiY29tcGFueV9uYW1lIjoiVGhlIFNvZnR3YXJlIFNtaXRoIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiX0d0UjVmR25HbF9HTmIya0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbnBrV0cwMVZYTnpkek5GVmtVeFN5MWxTa1Z6T0dSR1lrMVFXRFpJTkdsTFEwSnZVbTFmYlcxaU5XdHhia3RmYmswelZEQjZNWEZaY1VKdU5uRnJMV1Y2TWtsVlVWWlVXVkZ3ZGtwSVltOHRhVGQ2UlVKYWJUTlpOV0l5YXkwelNXUXdlakk1Wm1oUlpXUnNMVkpzWkdSMlVIQmtZWFJLWkV0eGJXRTNiMDVKZVhGaVFtNU9ZbU50YmxWUmMwUTBjamhSZVRabmRqbGthaTF3VWxOa09VeG5aamM0TkdKdWFFdGFkRm8yT1dwM1YyWjZVR2N0VGkxdVptOXVXR1ZOUWpGd1drdG1jamQ2WWpRME1WUnVMVE51YVV0RWNsWjBSbkZNY3poTVYxVnlXbDl3ZURsVmFHRldPWGd4YnpSd2FEZ3dlWEpyYkVGWUxVZG9RbkJ5Y21sdmQxSjZaVkF6WlUwNFdXWmhXUzFOVEdWV1JTMVFZbFYwZVZFU0YwOW5hVVphTkVNelFtVjZPSEIwVVZCNWMybHJNRUZSR2lKQlJsaHlSV054U0RSMmJYTldXRTVvVlhGT1FYcHVUMkZrTm05blQyeEhTWGxSIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.cz&location=Czechia&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbnBrV0cwMVZYTnpkek5GVmtVeFN5MWxTa1Z6T0dSR1lrMVFXRFpJTkdsTFEwSnZVbTFmYlcxaU5XdHhia3RmYmswelZEQjZNWEZaY1VKdU5uRnJMV1Y2TWtsVlVWWlVXVkZ3ZGtwSVltOHRhVGQ2UlVKYWJUTlpOV0l5YXkwelNXUXdlakk1Wm1oUlpXUnNMVkpzWkdSMlVIQmtZWFJLWkV0eGJXRTNiMDVKZVhGaVFtNU9ZbU50YmxWUmMwUTBjamhSZVRabmRqbGthaTF3VWxOa09VeG5aamM0TkdKdWFFdGFkRm8yT1dwM1YyWjZVR2N0VGkxdVptOXVXR1ZOUWpGd1drdG1jamQ2WWpRME1WUnVMVE51YVV0RWNsWjBSbkZNY3poTVYxVnlXbDl3ZURsVmFHRldPWGd4YnpSd2FEZ3dlWEpyYkVGWUxVZG9RbkJ5Y21sdmQxSjZaVkF6WlUwNFdXWmhXUzFOVEdWV1JTMVFZbFYwZVZFU0YwOW5hVVphTkVNelFtVjZPSEIwVVZCNWMybHJNRUZSR2lKQlJsaHlSV054U0RSMmJYTldXRTVvVlhGT1FYcHVUMkZrTm05blQyeEhTWGxSIiwiZmN2IjoiMyJ9&q=iOS+developer"
+    }
+}
