@@ -1,0 +1,506 @@
+{
+    "search_metadata": {
+        "id": "6784f5a9cec4f8474dca0c18",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/11ac0eca6720c3a2/6784f5a9cec4f8474dca0c18.json",
+        "created_at": "2025-01-13 11:14:49 UTC",
+        "processed_at": "2025-01-13 11:14:49 UTC",
+        "google_jobs_url": "https://www.google.com.cy/search?q=Android+developer&uule=w+CAIQICIGQ3lwcnVz&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/11ac0eca6720c3a2/6784f5a9cec4f8474dca0c18.html",
+        "total_time_taken": 1.11
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Cyprus",
+        "location_used": "Cyprus",
+        "google_domain": "google.com.cy"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwj71sPsyPKKAxVxRjABHS_tJ58QxKsJegQIIhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Simple",
+            "location": "Limassol, Cyprus",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=MqsGo_vfRSkup_RjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uFk1EcNFJFARx6weUJD3SkyR35KLUX_CrxTe87rvq7ICFuMK5TJVpgiu-MbFghS3c2YOiq2EGLnBjjgn709ya6NFa1WSiNtcomMDZckHPi32y13-jzq6iJNdw3B92i5ES1_1AWRICFXhQdqqcNnD5SH3pDw1JLm-NAAAA&shmds=v1_AUFQtONNM9INOCnsogUutcNHWDrfOVeTTSAncKHaodDyaZRDEg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=MqsGo_vfRSkup_RjAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "SIMPLE is a successful mobile product with over 15 million unique downloads, more than 300K 5-star reviews, and over 50% year-over-year revenue growth.\n\nIt offers judgment-free, gentle guidance toward balanced nutrition, a healthy relationship with food, and ultimately, improved health and well-being. Built with flexibility and convenience in mind, the app is a safe and supportive space to get actionable feedback, learn, and increase confidence. SIMPLE’s method is shaped by a global team of nutrition, behavior change, digital health, and medical experts. The journey is enhanced through Avo, a personal wellness assistant within the app that provides timely suggestions and real-time answers.\n\nWith SIMPLE as a partner in their pocket, users feel cared for and empowered to embrace — and stick to — new healthy habits. To learn more, visit simple.life.\n\nRight now we are looking for a talented Senior Android Developer who will join our team and help us grow.\n\nPush the pace of innovation and build a future of a healthier world with us!\n\nWhat You’ll Do:\n• Feature Development: Build and implement a wide range of product features to enhance user experience and functionality;\n• Lifecycle Involvement: Actively participate in the entire feature lifecycle, from ideation and prototyping to design, development, and analytics;\n• Proactivity: Take initiative in identifying opportunities for improvement and proposing innovative solutions to drive product success;\n• Flexibility: Adapt quickly to changing priorities, new challenges, and evolving project needs in a dynamic environment;\n• Collaboration: Work closely with cross-functional teams to bring creative ideas to life.\n\nWhat We Look For:\n• You know Android SDK, have experience with Kotlin and Java, understand material guidelines, and have expertise in developing complex interfaces, custom views, and animations;\n• You are interested in creating a helpful product and understand the importance and impact of development on users;\n• You have 5+ years of experience in a product development team;\n• You know how to estimate the development time and timely communicate any problems that may affect the execution;\n• You are a team player, and you know how to handle feedback. You are open to other’s ideas and suggestions;\n• High level of autonomy and ability to work in uncertainty;\n• Fluency in Russian and English languages.\n\nOur tech stack:\n• Kotlin\n• MVI/MVVM Architectures\n• Coruoutines\n• Room\n• Dagger 2\n• Multimodule\n• Jetpack Compose\n\nPerks and Benefits:\n• Competitive salary package commensurate with experience, plus stock options;\n• Relocation package (Cyprus);\n• The equipment you need to do your job;\n• A premium Palta Family subscriptions (Simple, Flo, Zing etc.);\n• 21 days annual leave, plus bank holidays;\n• Support to learn English, should you need (or want) to;\n• Office in Limassol. Hybrid format ( 3+ day in office).",
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/simple/jobs/5396261004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote",
+                    "link": "https://remote.com/jobs/simple-c1n3yur9/senior-android-developer-j1raploq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/palta/senior-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Geekjob",
+                    "link": "https://geekjob.ru/vacancy/651bbbf87b70155ae50fa4d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Getmatch",
+                    "link": "https://getmatch.io/vacancies/3414-senior-html-markup-developer?s=offers&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/113041/php-drupal-developer-vac-19693n?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/113041/php-drupal-developer-vac-19693n?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Geekjob",
+                    "link": "https://gkjb.ru/vacancy/65c37fcc260103f34309ba7c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTaW1wbGUiLCJhZGRyZXNzX2NpdHkiOiJMaW1hc3NvbCwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJNcXNHb192ZlJTa3VwX1JqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Palta",
+            "location": "Limassol, Cyprus",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=2BOB1U7MnQb7lbvuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvB1ptLZqIYKOVKAhiIfiAY5NbkkguG3ajnE_w1-IU031nnX1QSSxwLINwGuBMb8pcSWANV3aghOIjcIELc8i0OMTWqu6tVc0maMOWvPE8Wi7keLJPdvqv14hCNWOjfrvbTKaWsJzfMTeEVOCWRlTlvILTp8pLf_LX3ISMAAAA&shmds=v1_AUFQtONSSPB9rbqfATIbn-IGxi25EAKERGZbOzHg9Lil5xlF6Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=2BOB1U7MnQb7lbvuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a9cec4f8474dca0c18/images/770d117c49ebe972a3460067a1de79e2c816a2ead31340b958f85d1e2b1385c8.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "SIMPLE is a successful mobile product with over 15 million unique downloads, more than 300K 5-star reviews, and over 50% year-over-year revenue growth.\n\nIt offers judgment-free, gentle guidance toward balanced nutrition, a healthy relationship with food, and ultimately, improved health and well-being. Built with flexibility and convenience in mind, the app is a safe and supportive space to get actionable feedback, learn, and increase confidence. SIMPLE’s method is shaped by a global team of nutrition, behavior change, digital health, and medical experts. The journey is enhanced through Avo, a personal wellness assistant within the app that provides timely suggestions and real-time answers.\n\nWith SIMPLE as a partner in their pocket, users feel cared for and empowered to embrace — and stick to — new healthy habits. To learn more, visit simple.life.\n\nRight now we are looking for a talented Senior Android Developer who will join our team and help us grow.\n\nPush the pace of innovation and build a future of a healthier world with us!\n\nWhat You’ll Do:\n• Feature Development: Build and implement a wide range of product features to enhance user experience and functionality;\n• Lifecycle Involvement: Actively participate in the entire feature lifecycle, from ideation and prototyping to design, development, and analytics;\n• Proactivity: Take initiative in identifying opportunities for improvement and proposing innovative solutions to drive product success;\n• Flexibility: Adapt quickly to changing priorities, new challenges, and evolving project needs in a dynamic environment;\n• Collaboration: Work closely with cross-functional teams to bring creative ideas to life.\n\nWhat We Look For:\n• You know Android SDK, have experience with Kotlin and Java, understand material guidelines, and have expertise in developing complex interfaces, custom views, and animations;\n• You are interested in creating a helpful product and understand the importance and impact of development on users;\n• You have 5+ years of experience in a product development team;\n• You know how to estimate the development time and timely communicate any problems that may affect the execution;\n• You are a team player, and you know how to handle feedback. You are open to other’s ideas and suggestions;\n• High level of autonomy and ability to work in uncertainty;\n• Fluency in Russian and English languages.\n\nOur tech stack:\n• Kotlin\n• MVI/MVVM Architectures\n• Coruoutines\n• Room\n• Dagger 2\n• Multimodule\n• Jetpack Compose\n\nPerks and Benefits:\n• Competitive salary package commensurate with experience, plus stock options;\n• Relocation package (Cyprus);\n• The equipment you need to do your job;\n• A premium Palta Family subscriptions (Simple, Flo, Zing etc.);\n• 21 days annual leave, plus bank holidays;\n• Support to learn English, should you need (or want) to;\n• Office in Limassol. Hybrid format ( 3+ day in office).",
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/paltaltd/jobs/5396266004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MetaQuotes",
+                    "link": "https://www.metaquotes.net/en/company/vacancies/android?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/simple/android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://jobs.workable.com/view/qCEQCKpTdXqBdpmoHF1LpE/android-developer-(relocation)-in-limassol-at-seliuk-ltd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/79412/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/112830/android-developer-vac-19644m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/105653/android-developer-in-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/93699/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJQYWx0YSIsImFkZHJlc3NfY2l0eSI6IkxpbWFzc29sLCBDeXBydXMiLCJodGlkb2NpZCI6IjJCT0IxVTdNblFiN2xidnVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTNsd2NuVnoifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Paltaltd",
+            "location": "Cyprus",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=uegBBcEX7l1eQJ6JAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQoCMQwA4P1GR6eMItiK4KKTKAhOvsHRn9BWck1popz48ip8fMNnWJ1q7FwiXPCFxA07bODGHgRdDxm4wpU5ES6PWbXJwVoRMknUaQkm8GS5oufZPtjLv1Gy69jIKY67_XY2rab14u5IfyKUCud360_5AmnYI-V9AAAA&shmds=v1_AUFQtOM7qnML8VKmiahNniZrtK8VnT4StqdD7C52xqrve3FAgQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=uegBBcEX7l1eQJ6JAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Palta is a multi-product tech platform developing several mobile apps focused on health and well-being with a combined audience of more than 60 million monthly active users. Our portfolio includes such successful companies as Flo (global leader in female health), Simple (a nutrition and wellness app with over 15m downloads), Zing (personal fitness trainer), and more.\nThe rapid portfolio growth was fueled by the recently raised $100 million Series B round led by VNV Global, and the group’s revenue is currently sustainably growing 50% YoY.\n\nSimple is a successful mobile product that has a user base of over 15 million people and has over 100% year-over-year revenue growth. It helps people improve their nutritional habits through personalized programs, meal tracking, and health insights, which allows them to lead healthier and happier lives.Now, we are taking the next big step and working on a new revolutionary AI product that helps each person improve their health in a fun and engaging way.\n\nWe are looking for a talented Android Developer who will join our tech team and help us further develop and grow the application.\n\nPush the pace of innovation and build a future of a healthier world with us!\n\nWhat we look for:\n• You know Android SDK, have experience with Kotlin and Java, understand material guidelines, and have expertise in developing complex interfaces, custom views, and animations;\n• You are interested in creating a helpful product and understand the importance and impact of development on users;\n• You have 3+ years of experience in a product development team;\n• You know how to estimate the development time and timely communicate any problems that may affect the execution;\n• You are a team player, and you know how to handle feedback. You are open to other’s ideas and suggestions;\n• High level of autonomy and ability to work in uncertainty;\n• Fluency in Russian and English languages.\n\nOur tech stack:\n• Kotlin\n• MVI/MVVM Architectures\n• RxJava2 / Coroutines\n• Room\n• Dagger 2\n• Multimodule\n• Jetpack Compose\n\nPerks and benefits:\n• Competitive salary package commensurate with experience, plus stock options;\n• Relocation package (Cyprus);\n• The equipment you need to do your job;\n• A premium Palta Family subscriptions (Simple, Flo, Zing etc.);\n• 21 days annual leave, plus bank holidays;\n• Support to learn English, should you need (or want) to;\n• Office in Limassol. Hybrid format ( 3+ day in office).\n\nPlease read our privacy notice in respect of your application\n\nPlease note that your personal data will be stored for one year, as reasonably necessary to resolve any disputes within the hiring process, if any occur.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-developer-at-paltaltd-715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlBhbHRhbHRkIiwiYWRkcmVzc19jaXR5IjoiQ3lwcnVzIiwiaHRpZG9jaWQiOiJ1ZWdCQmNFWDdsMWVRSjZKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Plum Fintech",
+            "location": "Nicosia, Cyprus",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=qFCYrIFR0sLuVcJFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CS7eJogmIrjoJKKCg_gHJU2P5CS9C7kU6hf42-ryxtd8Zs3yxH0R6uHCgRixwAbu0oGiKz6CMNxEQsL5Mdaa9WCtajJBq6vkjZfBCmMnk31Jp39aja5gTq5iu9tvJ5M5rBbPNA5wJa74S4nhQV6U3BrO71xG_QJWZc_ligAAAA&shmds=v1_AUFQtOMwZ5EH2YGEHpgl99WFWrFu3YHk0WYAYhMbjAkxVwCa0Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=qFCYrIFR0sLuVcJFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a9cec4f8474dca0c18/images/770d117c49ebe97263a623576c42185d7ecbabc5c8b40a1105c565fc5b488655.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Plum, we're on a mission to maximise wealth for all. We’re making saving money effortless and turning investing into something everyone can do. Our journey began back in 2017, when we became one of the first to use artificial intelligence and automation to simplify personal finance. Fast forward to today, and we've already helped people save £2 billion across 10 European markets.\n\nNamed the UK's fastest-growing fintech in the Deloitte Technology Fast 50, our success is down to the passion and dedication of our diverse team. Based in our London, Athens and Nicosia offices, 170 talented people work together to empower people to do more with their money. And now, the team is growing!\n\nThe Role\n\nWe’re looking for a user-focused Android Engineer to join our engineering team. You'll be building Plum on Android from its early days, giving our current and prospective customers a more intimate way to interact with their money.\n\nOur Engineering Approach\n\nWe value good engineering principles, imagination, quirkiness and healthy curiosity. We take a conservative approach to using external frameworks and we aspire to write simple, well-tested code, delivered in rapid iterations.\n\nHow We Work\n\nWe work in \"squads\" – a more startup-appropriate name for saying small, cross-functional teams. Each squad has a mission and a set of KPIs to monitor and improve. As an engineer you'll be working in a squad, but you can also reach out to and work with anyone in the company. You will also be part of a Mobile engineering team, consisting of Mobile Product Engineers who share the same vision and passion of building an exceptional mobile team that will help people be financially better off.\n• Please note we are following a hybrid work model, in which we visit our office 2 times per week. #LI-Hybrid\n\nValue You'll bring\n\n• You want to build a product that makes people better off\n• You’re excited about programming in Kotlin\n• Yet, you still have intimate knowledge of the full Android stack and Android architecture patterns\n• You want to collaborate on a cutting-edge Android project\n• You’re a designer's best friend. You love being part of the design process and enjoy turning the design into a well-crafted and delightful experience\n• You’re a product person too — you understand the value and impact of your work\n\nFist-bumps 👊 if you have\n\n• Solid experience with Kotlin programming language\n• Hands-on experience with DI and Android architecture components\n• Sound understanding of Git strategies, continuous integration setup, and automation\n• Experience with unit testing\n• An eye for design that you can transform into Material Design!\n• Jetpack compose experience\n• A genuine interest in agile development processes\n• Solid experience working with remote data via REST and JSON\n\nWhat to expect from our hiring process\n\nAt Plum, we value a lot the time you devote to the hiring process, this is why we are always trying to make the process as fast and smooth as possible.\n\n2. 30 min. Call with our Recruitment Team. So we understand better your career plan and what motivates you. ⚙️\n4. 45 min. Call with our Engineering Lead. Brief technical discussion about the role and your skills. 🏄\n6. Task. You will be given a task for us to better to understand your skills. No hard deadlines! 🕹️\n8. 90 min. Consisting of two steps:\na. Call with two people from our Android team. We'll go over the task and introduce you to your future colleagues and to get a glimpse of Plum's culture. 🧬\nb. Call with a Product Manager and an Engineering Manager for you to understand the business and envision yourself as part of Plum.\n10. Offer 💸\n\nPlum's Perks\n\n• We're all in this together! Own part of the company through stock options 💷\n• Annual training budget\n• Private Life Insurance - Ethniki Asfalistiki\n• Provident Fund - Ancoria Bank\n• Free Plum Premium subscription (normally £9.99 a month).\n• Free parking slots\n• 25 days holiday a year, excluding public holidays\n• Employee referral scheme up to €4000\n• Flexible approach to remote working, though we encourage at least 2-3 days a week in our beautiful office in Nicosia for optimal collaboration.\n• 45 days work from anywhere\n• Team lunch on Thursdays in the office, as well as a plentiful supply of fruit, snacks and coffee.\n• 1 day paid leave for volunteering, supporting you giving back to society.\n• 2 weeks paid sabbatical after four years of service.\n• Team trip to secret destinations once a year ✈️\n• A vibe that’s 🦄🌈💯\n\nIf you think this sounds like a bit of you then don’t hesitate to get in touch!\n\nThanks,\n\nPlum Τeam 💜\n• Plum is an Equal Opportunity Employer. Plum does not discriminate on the basis of age, race, religion, sex, gender identity, sexual orientation, non-disqualifying physical or mental disability, national origin or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit and business need.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-engineer-plum-fintech-4847057?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Cyprus",
+                    "link": "https://cy.linkedin.com/jobs/view/android-engineer-at-plum-3761708171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://hirestreamglobal.com/jobs.php?job=Android+engineer&country=Cyprus&city=Nicosia&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiUGx1bSBGaW50ZWNoIiwiYWRkcmVzc19jaXR5IjoiTmljb3NpYSwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJxRkNZcklGUjBzTHVWY0pGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Senior Android Developer (Kotlin) (Cyprus)",
+            "company_name": "FaceApp",
+            "location": "Limassol, Cyprus",
+            "via": "hh.ru",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=BxwQ_Oe8yhEHWN0ZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXNsQrCMBAAUFz7Cbrc2Io2IrjUqSgK6uYHlDQ92kh6d-Si1I_xX0Vc3vqyzyyr70ieI9TURfYdHPGFgQUj5FdOwVMB-eEt8akFrOHCLSja6AZggjNzH3C-H1ISrYxRDWWvySbvSsejYcKWJ_PgVn80OtiIEmzCZrvbTKVQv1ycrMNaBDzBzY9WlcMK_uMXTUw-o6AAAAA&shmds=v1_AUFQtON50epuSkrOBxZeBwe7ur_wLzT6uAWGn3yn9quvQiKxYw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BxwQ_Oe8yhEHWN0ZAAAAAA%3D%3D",
+            "extensions": [
+                "17 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "FaceApp is a global innovator in portrait perfection - blending advanced neural network technology with ease of use.\n\nOur team has leading expertise in machine learning and mobile interfaces, and our goal is to make mobile photography readily accessible to all mobile users beyond those with artistic professional skills. Our mission is to create the best yet easy-to-use selfie and portrait editor. Our workplace is a creative environment for developing high-quality products. We are looking for like-minded people who are ready to join our friendly and passionate team in Limassol (Cyprus).\n\nFaceApp is the most popular selfie editing app and the top app with more than 750M+ downloads. It offers a fantastic set of highly photorealistic filters with “simple for you and complicated in the background” photo processing achieved via single taps. The app is available in 34 languages for free and as a subscription on iOS and Android devices.\n\nA few facts about us:\n• TOP app at 154 countries for iOS and at 99 countries for Android (including USA, Great Britain, EU, Brazil, South East Asia);\n• App of the Year at AppStore and Google Play;\n• State-of-art technology photo editing.\n\nWe really appreciate our team and the relationships within it, and we hope that you, too, know how to build work in the key of a trusting and friendly atmosphere.\n\nIf you are tech-savvy, ready to learn and grow as a professional - the FaceApp team is waiting for you! Now we are looking for an experienced Senior Android Developer.\n\nResponsibilities: Development of the image editor itself. The app has many screens and features that help users to interact with the editor.\n\nThe tasks here are:\n• Development of infrastructure subsystems for the operation of the editor;\n• Improving app performance and sustainability;\n• Implementing features across the whole app to enhance user engagement;\n• Implementing new tools and improving the existing ones.\n\nOur requirements:\n• Experience in development and a deep understanding of the Android platform;\n• Higher education in mathematics or computer science;\n\nDesirable (will be a plus):\n• Experience using Kotlin and RxJava2;\n• At least an intermediate level of English.\n\nWhy work at FaceApp?\n• Above market wages, formal employment and white wages;\n• Cozy office with sea view;\n• Health insurance;\n• Compensation of costs for professional literature;\n• Sports compensation;\n• Compensation for the purchase of a mobile phone (once a year, 50% of the cost is compensated);\n• Flexible start of the working day;\n• Relocation to Cyprus (Limassol);\n• Comfortable working conditions, a positive atmosphere, an open, informal corporate culture, and a friendly team;\n• An excellent opportunity, together with a professional team, to solve interesting and complex problems, to create a product that is used by millions of people.",
+            "apply_options": [
+                {
+                    "title": "hh.ru",
+                    "link": "https://m.hh.ru/vacancy/110642890?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKEtvdGxpbikgKEN5cHJ1cykiLCJjb21wYW55X25hbWUiOiJGYWNlQXBwIiwiYWRkcmVzc19jaXR5IjoiTGltYXNzb2wsIEN5cHJ1cyIsImh0aWRvY2lkIjoiQnh3UV9PZTh5aEVIV04wWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        },
+        {
+            "title": "Mobile App Developer / Engineer (Android / iOS)",
+            "company_name": "Axiom Consulting Ltd.",
+            "location": "Nicosia, Cyprus",
+            "via": "Cyprus Consultants",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=RxcLFD23xelRN5XeAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXISwrCMBCAYdx6BFezVNFGBDe6KvUB4mPhASRNh3QknQmZKPVUXlHd_Hz8w89guD9LTQGhjBG2-MIgERMY2LEnxh_HJTdJqPk9ut4mMIej1KBok2tBGA4iPuBo0-YcdW2Maii8ZpvJFU46I4y19OYhtf5z19YmjMFmvC9Xi76I7KfjsifpoBLWZ8jEHk65KYAYLuREyc6gesf01C9rp09PsgAAAA&shmds=v1_AUFQtOOsLjycL2S1qhpobokvZxzxjIO3Xmbs2lkNo2bsbaw9Ww&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=RxcLFD23xelRN5XeAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mobile App Developer / Engineer (Android / iOS)\n\nREF# 2017-01-APP\n\nHeadquartered in Nicosia, Axiom (www.axiomc.com) offers strategic marketing consulting and information technology solutions for customer loyalty management and relationship marketing.\n\nAxiom’s award-winning software platform is used by prestigious corporations in 12 countries, in 3 continents.\n\nWe are looking for a highly motivated individual to join our Mobile Innovation team on a full-time basis as a Mobile App Developer / Engineer.\n\nDuties and responsibilities\n\nYou will be responsible to:\n\n§ Develop and maintain Android and iOS codebase for apps used by hundreds of thousands of users.\n\n§ Help define and build new features using clear, modular and well documented code.\n\n§ Work to resolve application issues reported by users.\n\nTo succeed in this position, you should:\n\n§ Be willing to learn and work outside of your comfort zone, with platforms you are not currently familiar with.\n\n§ Work as a team player, following guidelines on coding practices, while at the same time be willing to propose your ideas.\n\n§ Be an effective collaborator with both non-technical and technical team members.\n\n§ Be ready to receive and give implementation feedback in the form of code reviews.\n\n§ Be motivated, hard-working, with attention to detail and passion for quality.\n\nRecruitment process\n\nAxiom’s recruitment follows the following steps:\n\n1. If your CV is shortlisted, you will be invited to sit for Technical and Communication tests (3 hours).\n\n2. Interview with Team leaders (1 hour)\n\n3. Interview with Company Director (0.5-1 hour)\n\n4. Additional final activity. A technical presentation on a topic of your choice, to evaluate presentation skills (0.5 hour).\n\nTo apply\n\nSubmit a resume and cover letter to info@axiomc.com. Applications will be treated with strict confidentiality. For inquiries regarding the position please call +357 22 878900 and ask for Job Vacancy App Developer.\n\nWe look forward to receiving your application.",
+            "apply_options": [
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/45387/mobile-app-developer-engineer-android-ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/22255/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/46484/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/22255/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciAvIEVuZ2luZWVyIChBbmRyb2lkIC8gaU9TKSIsImNvbXBhbnlfbmFtZSI6IkF4aW9tIENvbnN1bHRpbmcgTHRkLiIsImFkZHJlc3NfY2l0eSI6Ik5pY29zaWEsIEN5cHJ1cyIsImh0aWRvY2lkIjoiUnhjTEZEMjN4ZWxSTjVYZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        },
+        {
+            "title": "Mobile Android Developer VAC-17694M",
+            "company_name": "StaffMatters Recruitment",
+            "location": "Limassol, Cyprus",
+            "via": "Cyprus Cinema",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=_1a2yutvGeE6-ueNAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEzQqCQBAAYLr6CJ3mHKYV_ZCdxCCIvBR0lXUddWPdWXbGsCfqNaPv8EXfWZSVVBuLkLsmkGngjG-05DHAMy-W68P-uC1hCVeqgVEF3QM5uBB1FuenXsRzlqbMNulYlBidaBpScljTlL6o5n8V9yqgt0qw2uxWU-Jdt4gfotq2VCIYGO6ow2hkQCdgHNzMoJjJxlB8fBj5B3P2mUCqAAAA&shmds=v1_AUFQtOOfP_xm9eTZ0SPnqV6KcTgjIQMWGRubhRZbKLNugdUHxw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=_1a2yutvGeE6-ueNAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "For a Software development company in Limassol we are looking for a skilled Mobile Developer with prior developing experience to create and maintain mobile applications for Android. Your primary focus will be creating a prototype and later on developing an application which can replace the application currently in use. This application currently is - and your successor then will - be used by one of the leading full-service providers for a complete inventory service in the German-speaking market. Using a handheld device every member of the team, executing the inventory, will use the application to track his progress and to send the collected data to an online-service.\n\nYou'll be developing a new mobile product which will replace the existing application developed for Windows CE. The app you work on will be used daily by a large European workforce enabling them to work smarter and faster. You'll be working in a team of highly skilled software craftsmen of various disciplines, always on the lookout for the smartest solutions that make the workday of our customers easier.\n\nActivities and Responsibilities\n\nDrive the initial creation and architecture of a new mobile app\n\nImplement new features\n\nUnderstand business requirements from user stories, perform story refinement and estimation\n\nPlan the tasks together with the product owner and team\n\nPlan and perform testing together with QA automation engineers\n\nArchitectural design\n\nIntegrate mobile applications in the continuous integration and continuous release processes\n\nDo 2nd and 3rd level support and bug fixing",
+            "apply_options": [
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/98050/mobile-android-developer-vac-17694m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/98050/mobile-android-developer-vac-17694m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/98050/mobile-android-developer-vac-17694m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/98050/mobile-android-developer-vac-17694m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQW5kcm9pZCBEZXZlbG9wZXIgVkFDLTE3Njk0TSIsImNvbXBhbnlfbmFtZSI6IlN0YWZmTWF0dGVycyBSZWNydWl0bWVudCIsImFkZHJlc3NfY2l0eSI6IkxpbWFzc29sLCBDeXBydXMiLCJodGlkb2NpZCI6Il8xYTJ5dXR2R2VFNi11ZU5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTNsd2NuVnoifQ=="
+        },
+        {
+            "title": "Android Developers (Fresh Graduates may apply)",
+            "company_name": "T.T. Connections Recruitment Services",
+            "location": "Nicosia, Cyprus",
+            "via": "CyprusNet",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=1lHEbIxwNb9aM1-GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CE43qmgqgiA6SdWCg4O6S5oebSS9C3ep2Jfz2dTlHz_-7DPKjnuqhX0NB3xh4IiiMDkJagul2Lq3CRU6O4CNMQxTWMCZK1C04lpggpK5CTjetSlF3ea5ajCNJpu8M467nAkrfudPrvSfh7ZWMIYf-1itl28TqZlt7uZuoGAidMkzKVzRSe9Th5TghvLy7nfhCS7esXo7h2KI0usXPxl7fsEAAAA&shmds=v1_AUFQtOOp_7twJ5GiMn4RUNkA31AeFj8s0OgG6g5WLsk0ygk_9Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=1lHEbIxwNb9aM1-GAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our client, a well-established consulting and information technology solutions provider is looking for talented Android developer (all levels) to join their growing team in Nicosia!\n\nWe are looking for Juniors, Intermediates & Seniors! The team and working environment is awesome!!!\n\nKey duties and responsibilities:\n\n- Develop and maintain applications used by large organizations worldwide\n\n- Help define and build new features using clear, modular and well documented code, based on object-oriented concepts and multi-tier architecture\n\n- Work to resolve application issues reported by users\n\n- Document or assist in documentation of your work at technical and business level.",
+            "apply_options": [
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/108633/android-developers-fresh-graduates-may-apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/108633/android-developers-fresh-graduates-may-apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/108633/android-developers-fresh-graduates-may-apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/108633/android-developers-fresh-graduates-may-apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/108633/android-developers-fresh-graduates-may-apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlcnMgKEZyZXNoIEdyYWR1YXRlcyBtYXkgYXBwbHkpIiwiY29tcGFueV9uYW1lIjoiVC5ULiBDb25uZWN0aW9ucyBSZWNydWl0bWVudCBTZXJ2aWNlcyIsImFkZHJlc3NfY2l0eSI6Ik5pY29zaWEsIEN5cHJ1cyIsImh0aWRvY2lkIjoiMWxIRWJJeHdOYjlhTTEtR0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        },
+        {
+            "title": "Mobile Developer (React Native)",
+            "company_name": "IT Jobs Worldwide",
+            "location": "Larnaca, Cyprus",
+            "via": "JOIN",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=uQ_j7ORp9ZDmViyMAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE43OKhoI4IddFQQRR1EcCyX9GgjMRdysdZn8WW1yz99_Nl3kBVn1tYR7Kglx4EijK-EJsEFk21pAnM4sgYhjKYB9rBnrh0NN01KQdZKibi8lvTXJjf8VOxJc6cerKVPKQ1GCg4TlcvVosuDr6ejw62_Ctw5uuptKwLr4YTRo8EZbD8hvuQHFxYKcZ4AAAA&shmds=v1_AUFQtOM3SzZBVjcF_LCJ94y3LfQMKGvPI6wRUwW5YjkIrJWx1w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=uQ_j7ORp9ZDmViyMAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a9cec4f8474dca0c18/images/770d117c49ebe9721e9a0b52350046f8d176bbccde5f32d07686f3b97cea3d2c.png",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "• Competitive Salary + Benefits Package\n• Hybrid Model – 2 Day’s from Home\n• Birthday Leave, Gym Membership & much more\n\nUnmissable opportunity for a Mid-level Mobile Developer experienced in React Native to join a leading Forex Trading Company based in the beautiful coastal city of Larnaca. Are you Mobile Developer with 2 -4 Years experience ? Do you want to join an Industry giant whilst enjoying a truly comprehensive benefits package? If so then this role is for you!\n\nTasks\n• Participate in the development of new or existing Mobile apps.\n• Implement fluent user interfaces in React Native.\n• Implement native features in Swift/SwiftUI for iOS and/or Kotlin/Jetpack Compose for Android.\n• Implement reusable UI components.\n• Accompany changes with a good suite of automated tests.\n• Provide full analysis and documentation according to the software development life cycle.\n• Troubleshoot issues that arise during the day-to-day operation of the business.\n\nRequirements\n• BSc/BA in Computer Science/ Computer Engineering, or a related field.\n• 2+ years of React Native experience with apps for IOS and Android.\n• Experience with CI/CD environment.\n• Experience with developing native Android and IOS would be considered an advantage.\n• Experience with automated testing for mobile apps would be considered an advantage.\n• Experience in any of the following Python Frameworks - FastApi, Tornado, or Flask would be considered an advantage.\n\nBenefits\n• Attractive remuneration package\n• 22 days of Annual Leave (reaching up to 30 days per year based on years’ service)\n• Hybrid Work Mode\n• Friday afternoons off in Summer (July & August)\n• Birthdays are always a day off!\n• Referral Bonus – refer a candidate we would all enjoy to work with!!\n• Participation in the Company’s Medical Scheme from day one!\n• Participation in the Company’s Group Discount Scheme\n• Free Gym Membership (Larnaca)\n• Unlimited snacks, fruits, and beverages\n• Complimentary periodic lunches at the office\n• Fun team-building activities & Corporate events\n• Lifelong Learning Allowance plus paid Educational Leave\n\nIT Jobs Worldwide is a professional recruitment company that focuses on connecting IT talents with the most exciting vacancies worldwide. We specialize in specific IT areas including Java, PHP, .NET, Python, JavaScript, Swift, Objective-C, Kotlin, Dart, QA and Testing, Data and BI, and Infrastructure.\n\nIT Jobs Worldwide is part of the Worldwiders brands, with more than 80 colleagues all over Europe. We have offices in Oslo, Tallinn, Malaga, Malta, and Lisbon. With over 300 clients in over 30 countries, our recruitment solutions are tailormade and set up to add value that benefits the matchmaking process.",
+            "apply_options": [
+                {
+                    "title": "JOIN",
+                    "link": "https://join.com/companies/itjobsworldwide/13347788-mobile-developer-react-native?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIChSZWFjdCBOYXRpdmUpIiwiY29tcGFueV9uYW1lIjoiSVQgSm9icyBXb3JsZHdpZGUiLCJhZGRyZXNzX2NpdHkiOiJMYXJuYWNhLCBDeXBydXMiLCJodGlkb2NpZCI6InVRX2o3T1JwOVpEbVZpeU1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTNsd2NuVnoifQ=="
+        },
+        {
+            "title": "Kotlin Multiplatform Developer",
+            "company_name": "Wrike",
+            "location": "Nicosia, Cyprus",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=Android+developer&htidocid=4PgyqVQBJ-TUv3DqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7BOJ0s2giQhcdFQRFV8eShDOJprmQu0p9CZ9Zu_zj9zffWdNeSFLMcB2SxJKMPKj2cMQ3JipYYQ1nssBoqgtAGU5EPuFiH0QK77RmTsqzGIlOOeo1ZbQ06idZntJxMBUnF7ttuxlVyX45v9f4Qvhfb9ERR7OCw6fUgX8wZXILkQAAAA&shmds=v1_AUFQtOMV9irHq4dnYidIlf1vmRY5AN1zsk7Dt2VPHuEFdfozqA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4PgyqVQBJ-TUv3DqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a9cec4f8474dca0c18/images/770d117c49ebe972f7f266828e10a8b08f251a998dc1969a78dea221234e01ba.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.\n\nOur vision: A world where everyone is free to focus on their most purposeful work, together.\n\nReady to become a Wriker?Wrike is an enterprise-ready, cloud-based collaborative work management platform for managing cross-functional work at scale that is fully configurable and enables contextual collaboration in a secure environment. Enterprises use Wrike to offer a single digital workplace for all of their departments and teams.\n\nThe Wrike platform has the power needed to support the most complex workflows, all managed through an intuitive and easy-to-use and adopt interface. The Wrike platform can be customized to any user, team, department, or project so your teams can make requests, plan projects, assign tasks, collaborate with team members, track progress on work, and more.\n\nKnow more about your teamProduct Teams within Mobile Unit are high-standard teams, delivering value to our customers who are using Wrike Mobile. Our teams are organised around customer problems to solve and consist of iOS, Android and back-end engineers, manual and automation QA, product manager, and product designer and analyst. You will work closely with your Scrum team to make sure that the solutions we deliver to our customers are feasible, valuable and usable.\n\nOur application is large and complex; we support several languages, offline mode, adaptive navigation, and we’ve developed a system of visual themes and our own library of UI elements for the app.\n\nOur Tech Stack• Kotlin, Kotlin Coroutines, Flow, ViewModel, Compose, Ktor, Dagger\n• Kotlin Multiplatform and Compose Multiplatform for the new features\n\nHow You’ll Make an Impact:• Working on complex mobile applications\n• Developing new features from the concept and design to implementation and release, take ownership of them\n• Maintaining existing features, fix bugs and performance issues\n• Making sure we solve the right problems with the right solutions - perform code review and actively participate in Android and iOS platform sync\n• Communication with team members (developers, QA, product designers and product manager) and other teams\n\nYou’ll achieve your best if you have:• 5+ years of relevant software development experience and a Bachelor/Master’s degree\n• Confident knowledge of Kotlin and Android SDK\n• Good knowledge of asynchronous programming with Kotlin Coroutines and Flow\n• Understanding of UI design patterns (MVVM or any other MVx)\n• Experience in UI development using Jetpack Compose\n• Experience in developing client-server applications; basic knowledge of SQL\n\nYou will stand out with:• Experience in creating complex and performant UI components\n• Experience in iOS development (Swift, SwiftUI)\n• Experience in writing unit and UI tests\n• Experience in working with large projects\n\nInterpersonal Skills:• Good communication skills: present one’s point of view, listen to colleagues and find consensus\n• Good skills in prioritization and argumentation of technical solutions\n• Passion about the product and the team\n\nPerks of working at Wrike• Health insurance which covers your whole family\n• SIM card with unlimited internet access for employees (provided during your employment)\n• 21 paid vacation days\n• 5 uncertified sick days per year\n• Two fully paid weeks of sick leave\n• Office Lunch Allowance\n• School allowance of up to €600 per month (for children at pre-school and school age)\n• Support with the Annual Tax reconciliation (only applicable for the year of relocation)\n• Up to 18 weeks of fully-paid maternity leave\n• 2 weeks of fully paid paternity leave. Enhanced four weeks of fully paid paternity leave\n\nWhat’s next?• Interview with a Recruiter\n• Technical interview\n• Cultural interview\n\nYour recruitment buddy will be Pavel Kucera, Sr. Talent Acquisition Specialist\n\n#LI-PK1\n\nWho Is Wrike and Our CultureWe’re a team of innovators and creators who solve the complex work problems of today and tomorrow.\n\nHybrid work mode\n\nWrike promotes a hybrid work mode for those that live near an office hub, we meet in the office 2-3 times a week. This work mode supports our culture of collaboration and solving problems fast to deliver business outcomes and win together.\nOur persona 💡 Smart: We love what we do, and we’re great at it because this is our domain. Our combined knowledge in this space is unmatched.\n💚 Dedicated: We get up every day focused on helping our customers win. We’re committed to helping our teammates win, too!\n🤗 Approachable: We're friendly, easy to get along with, considerate, and helpful.\nOur culture and Values 🤩 Customer-Focused\n\nWe care about our customers. We understand the customer journey, experience, and value derived from Wrike. Decision-making and action-taking are done with the customer in mind.\n\n🤝 Collaborative\n\nWe work as one and win together, each bringing unique strengths that contribute to diversity of thought for better outcomes. Leveraging our own work management platform, we foster an environment of creative collaboration and shared achievement.\n\n🎨 Creative\n\nWe strive to succeed through continuous innovation. It’s our pursuit of novel concepts that helped us create a market category. We continue to cultivate a workplace that fosters creative thinking as a means of transcending conventional boundaries and empowers us to break new ground to deliver extraordinary work management solutions.\n\n💪 Committed\n\nWe believe in ownership at all levels of the organization, by owning workflows from start to finish. Each member of our team is an integral part of this commitment, establishing work as a platform for personal growth and transformation, as well as collective success and growth.\n\nCheck out our LinkedIn Life Page, Instagram, Wrike Engineering Team, Medium, Meetup.com, Youtube for a feel for what life is like at Wrike.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/kotlin-multiplatform-developer-wrike-6045991?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Cyprus",
+                    "link": "https://cy.linkedin.com/jobs/view/kotlin-multiplatform-developer-at-wrike-4096490417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The SaaS Jobs Board - Cobloom",
+                    "link": "https://jobs.cobloom.com/jobs/100145198-kotlin-multiplatform-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/kotlin-multiplatform-developer-jobs/644E3BE7F9CDFBD4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJLb3RsaW4gTXVsdGlwbGF0Zm9ybSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJXcmlrZSIsImFkZHJlc3NfY2l0eSI6Ik5pY29zaWEsIEN5cHJ1cyIsImh0aWRvY2lkIjoiNFBneXFWUUJKLVRVdjNEcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMGxXZEZvemJDMUhZVk5hTWs4MVNIQnVhWGRKU0ZaZlVUUjJXbk5UU1Mxa04ybG1lV1pYYm0xaGFHSXlUazlLWTBWNkxVUTFNSFZIUlRocU1sOWFUWHB6YzBSSVdUUjBlV3B5YkZvNVIwSnZYM0kwWmpjMlQyNVNhM0UyWjBwWVRHNDBOVGxUV0hjME9FUTFXRXhNTjA5a2JFeFdVRTE2YnpneVVVbEViVzgwYlRaYVJEZEhlVFZ3WDBoamVHUXlkMXBLVWtGMVVtdDJYMmRUVTJkU2RHTmhXbGgzV0hWZllVNU5RWGhzUWxCU1ptZHFPVW90YzI5V1dUVXpiMlZRZEZOalUwNVdiSFpMWkZWb2EzTmxXSFpXYWtkT05tZGlWVFYwUlhwM1NESnZaRTFCZDJWbFVFVjBaVVZqVm1OVlJWcHpObXhSWTNsTU1tbDVabGhXYmxNMGNVbDBNMGd4ZEdWUWQwMWZTMGhOVjFsa09XTXlhSG8yZEZFU0YzRjJWMFZhWDNaYVNIWkhUWGRpYTFCeU9YRm1MVkZyR2lKQlJsaHlSV053VVZSeWNWbGFVMlJmZUZoMGNWWkpVVmhyYVVOU1pEZEJibE5CIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMGxXZEZvemJDMUhZVk5hTWs4MVNIQnVhWGRKU0ZaZlVUUjJXbk5UU1Mxa04ybG1lV1pYYm0xaGFHSXlUazlLWTBWNkxVUTFNSFZIUlRocU1sOWFUWHB6YzBSSVdUUjBlV3B5YkZvNVIwSnZYM0kwWmpjMlQyNVNhM0UyWjBwWVRHNDBOVGxUV0hjME9FUTFXRXhNTjA5a2JFeFdVRTE2YnpneVVVbEViVzgwYlRaYVJEZEhlVFZ3WDBoamVHUXlkMXBLVWtGMVVtdDJYMmRUVTJkU2RHTmhXbGgzV0hWZllVNU5RWGhzUWxCU1ptZHFPVW90YzI5V1dUVXpiMlZRZEZOalUwNVdiSFpMWkZWb2EzTmxXSFpXYWtkT05tZGlWVFYwUlhwM1NESnZaRTFCZDJWbFVFVjBaVVZqVm1OVlJWcHpObXhSWTNsTU1tbDVabGhXYmxNMGNVbDBNMGd4ZEdWUWQwMWZTMGhOVjFsa09XTXlhSG8yZEZFU0YzRjJWMFZhWDNaYVNIWkhUWGRpYTFCeU9YRm1MVkZyR2lKQlJsaHlSV053VVZSeWNWbGFVMlJmZUZoMGNWWkpVVmhyYVVOU1pEZEJibE5CIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

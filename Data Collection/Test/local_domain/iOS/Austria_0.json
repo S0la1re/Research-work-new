@@ -1,0 +1,511 @@
+{
+    "search_metadata": {
+        "id": "6784f521c521e13eb4b28042",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9f18012c3b71d453/6784f521c521e13eb4b28042.json",
+        "created_at": "2025-01-13 11:12:33 UTC",
+        "processed_at": "2025-01-13 11:12:33 UTC",
+        "google_jobs_url": "https://www.google.at/search?q=iOS+developer&uule=w+CAIQICIHQXVzdHJpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/9f18012c3b71d453/6784f521c521e13eb4b28042.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Austria",
+        "location_used": "Austria",
+        "google_domain": "google.at"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwjzvaGryPKKAxUdmbAFHSnBG2wQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "Mohemian Services Gmbh",
+            "location": "Innsbruck, Austria",
+            "via": "DEVjobs.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=zZpMH-ooGRhgG7uaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OElNRHDRSRCKgjj0A0oSjiQ1vQu5tPQ3_GPxDa_5bppdfPdwxwUTZyxwgCdbEDTFBWCCjtkn3F5DrVkuWosk5aWaGp1yPGkmtLzqka38GySYgjmZisPpfFxVJr9vXxxwioagx7JEhwLdZANEggeR2DK7Twu3WWqJ5geo5KyulAAAAA&shmds=v1_AUFQtOO-KSbRJ-ICTlLO-MSbhzdbESlSjUlALqjgzo9-oKOqQA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=zZpMH-ooGRhgG7uaAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d849f20177eac75825021135813a45ace66fef4e2ff875be860.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Your role in the team\n• Work closely with a small, autonomous team of product owners, designers and developers to build new and innovative applications for iOS\n• Implement custom native user interfaces leveraging the latest iOS programming techniques and frameworks like SwiftUI and Combine\n• Build reusable iOS software components for interfacing with our back-end platforms (REST APIs)\n• Analyze and optimize your application code for quality, efficiency, and performance\n• Engage in rigorous code review processes\n• Work with your team and co-define the architecture\n• Continuously develop and work with an automated releases and test infrastructure\n• Improve tooling for general developer productivity\n• Become a valued member of an autonomous, multi-functional team\n• You have a great ability to learn, and you are eager to expand your areas of expertise\n• You have a strong quality approach and care for the overall performance of the product\n\nTechnologies and skills\n• iOS\n• swiftUI\n• RESTful API\n• Objective-C\n• Swift\n• C++\n• Python\n\nOur expectations:\n\nQualifications\n• Interested in building high-quality, maintainable and testable code bases, including API design and unit testing techniques\n• You have a proactive attitude and take ownership for your code\n• Solid understanding of the full mobile development life cycle\n• Ability to understand business requirements and translate them into technical requirements\n• You are fluent in English\n• Eagerness to work with agile development practices (Scrum, Kanban)\n\nExperience\n• You have 3+ years of experience in developing applications with Objective-C and/or Swift - other languages such as C++, Python, low level programming or productivity tools is a bonus\n\nBenefits\n• Flexible Working Hours\n• Fresh Fruit\n• Summer and Christmas Bonus\n• * Coffee, Tea, etc.",
+            "apply_options": [
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://en.devjobs.at/job/80856833439269620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTW9oZW1pYW4gU2VydmljZXMgR21iaCIsImFkZHJlc3NfY2l0eSI6IklubnNicnVjaywgQXVzdHJpYSIsImh0aWRvY2lkIjoielpwTUgtb29HUmhnRzd1YUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Bitpanda GmbH",
+            "location": "Vienna, Austria",
+            "via": "DEVjobs.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=_1P1nQoD9-pmeSAXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OIkmIrjopAgVFwfBtVzi0UbSu5A7pT_gf4tveM131izS7Q5n-lCWQhXWcJUASljjAMLQivSZ5ofBrOjee9XsejW0FF2U0QtTkMm_JOi_TgesVDIaddvdZnKF-yWckhXkJ0I7hgskhkciZlzB8a1WE_4AO5u8yYgAAAA&shmds=v1_AUFQtOMQVi7-dUnhA4PtheJ4blpBrjurEFffiG2sKQoq1Mn7gA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=_1P1nQoD9-pmeSAXAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Your role in the team\n• Design, develop, and maintain advanced features for the iOS platform, collaborating closely with cross-functional teams to deliver a smooth, user-centric trading experience.\n• Ensure code quality through extensive testing to meet functional requirements and uphold our quality standards.\n• Own and enhance your area of the app by addressing bugs, monitoring and optimizing performance, and implementing improvements to trading functionalities.\n• Stay updated on development trends, integrating new techniques and tools to continuously refine the app.\n\nTechnologies and skills\n• UIkIt\n• Swift\n• swiftUI\n\nOur expectations:\n\nQualifications\n• Proficient in Swift with strong knowledge of iOS best practices, software architecture patterns, UIKit, and SwiftUI.\n• Strong UI/UX & design orientation.\n• Takes ownership of your work, proactively enhancing and adding value beyond initial requirements.\n\nExperience\n• Passionate about mobile platforms and skilled at translating complex requirements into a streamlined, user-friendly trading experience.\n• Experienced in building, testing, and refining mobile applications, with a proven track record.\n\nBenefits\n• Fitness Offers\n• Flexible Working Hours\n• * Fresh Fruit\n• Meal Vouchers\n• Snacks, Sweets\n• Team Budget for Free Use\n• * Excellent Traffic Connections\n• Company Phone for Private Use",
+            "apply_options": [
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://en.devjobs.at/job/c44e480c9eff05b547296cf382a5967b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/6553548922560626007/iOS-Developer-Wien?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQml0cGFuZGEgR21iSCIsImFkZHJlc3NfY2l0eSI6IlZpZW5uYSwgQXVzdHJpYSIsImh0aWRvY2lkIjoiXzFQMW5Rb0Q5LXBtZVNBWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        },
+        {
+            "title": "Android & iOS Developer",
+            "company_name": "ventopay",
+            "location": "Hagenberg, Austria",
+            "via": "Ventopay",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=S8nFwLt5g2mIIjh8AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5yk4NoIoKLTgVBcXHwA8qlPdJIvAu5s-hH-M_iG17znTWu5aFKGmAJ6XaHE02UpVCFDVwlgBLWfgRhOIvETPPjaFb04L1qdlENLfWul6cXpiBv_5Cg_zodsVLJaNTt9tu3KxxXi4nYpOAHEsMFI3GgGtfQvtRqwh-JxgihkAAAAA&shmds=v1_AUFQtOObtzxffOfybc4bbrnQd4NRlJZO15sVONqiJosta27rOg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=S8nFwLt5g2mIIjh8AAAAAA%3D%3D",
+            "extensions": [
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Was sind deine Aufgaben?\n• Du gestaltest attraktive Module und Softwareprojekte für unsere Kundenbegeisterungs-App und dazugehörige Backend-Solutions und setzt diese agil um\n• Deine aktive Mitarbeit im gesamten Entwicklungs-Lifecycle, von technischer Analyse über Entwurfserstellung bis zu Code Reviews und Systemtests tragen zur erfolgreichen Implementierung bei\n• Um die hohen Qualitätsansprüche an unsere Applikationen sicher zu stellen, leitest du diese nach der Entwicklung in die Testabteilung über\n• Du kümmerst dich um erfolgreiche Einreichungen in den jeweiligen App-Stores\n\nWas bringst du mit?\n• Eine abgeschlossene IT-Ausbildung (HTL/FH/Uni)\n• Berufserfahrung in der Entwicklung von nativen Android und/oder iOS-Apps ist von Vorteil\n• Sehr gute Kenntnisse in den gängigen Sprachen (Java/Swift/C#) sind ein Muss\n• Kenntnisse der notwendigen Werkzeuge (Android Studio/Xcode/Git) und einen sicheren Umgang mit relationalen Datenbanken und TSQL\n• Teamgeist und Einsatzfreude sowie methodische, genaue und effiziente Arbeitsweise\n\nWas kannst du von uns erwarten?\n• Wir sind ein stabiles, inhabergeführtes Unternehmen mit mehr als 20 Jahren Branchenerfahrung. Als Marktführer mit internationalen Topkunden setzen wir neueste Technologien ein und sind technologischer Spitzenreiter.\n• Flexible Arbeitszeitmodelle mit Teilzeit und Homeoffice, als auch Zeitausgleich für Überstunden bieten dir die notwendige Flexibilität.\n• Wir sind ein junges und top motiviertes Team mit flachen Hierarchien, kurzen Abstimmungswegen und großem Zusammenhalt. Wir schätzen ein offenes und wertschätzendes Miteinander – mitgestalten und der Blick über den Tellerrand sind erwünscht und begrüßt!\n• Weiterentwicklung ist dir wichtig? Uns ebenso. Wir erkennen Potenziale, stärken deine Stärken und schaffen Möglichkeiten, dich zu fördern.\n• Einen täglichen Essenszuschuss von EUR 6,-, monatliche Teamevents, gratis Kaffee, Tee und Obst gibt es in der vollausgestatteten Küche.\n• Der Standort Hagenberg bietet eine gute Verkehrsanbindung, kostenlose Parkplätze, E-Tankstellen und Poolautos für Dienstreisen.",
+            "apply_options": [
+                {
+                    "title": "Ventopay",
+                    "link": "https://ventopay.com/career/android-ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Informatikjobs.at",
+                    "link": "https://www.informatikjobs.at/jobs/job-detail/stellenausschreibung/122368/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/hagenberg-muehlkreis-android-ios-developer-118208025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/android-ios-developer-hagenberg-im-muhlkre-ventopay-gmbh-14-1587015/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFx1MDAyNiBpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoidmVudG9wYXkiLCJhZGRyZXNzX2NpdHkiOiJIYWdlbmJlcmcsIEF1c3RyaWEiLCJodGlkb2NpZCI6IlM4bkZ3THQ1ZzJtSUlqaDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "PlanRadar GmbH",
+            "location": "Vienna, Austria",
+            "via": "DEVjobs.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=nwTsphDt-NyVcXHXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU4nOIkmIrjoJAgVF0XBtVzqkUTSu5CL0i_wu8U3vOY7aebxcocjfShJpgIrOIsDJSx9AGFoRXyi6T7UmnVnrWoyXivW2JteBitMTkb7Eqf_Og1YKCes1G2269Fk9ovZNSHf8IkF2sGdIDI8IjHjEg5vrSXiD4Tqk9OJAAAA&shmds=v1_AUFQtOP5CtWYCmSJtZk74BrsgLqkWiH-F6j-amdLc8NeSIiF4A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=nwTsphDt-NyVcXHXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d84285f763aa6a85fd3379b3a8cc4ec8e9f482650ba89cbb3be.png",
+            "extensions": [
+                "€52.5K–€63K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "€52.5K–€63K a year",
+                "schedule_type": "Full-time"
+            },
+            "description": "Your role in the team\n• As a member of our Development Team, you are responsible for further developing our product and help create and implement new and exciting features.\n• Help to improve the PlanRadar iOS app (smartphone, tablet).\n• Write code that's readable, well documented, and has meaningful tests.\n• Build new features and improve the existing codebase.\n• Collaborate with the whole team and get involved in planning new features, improving existing features, and architectural decisions.\n• Spend time on getting things done correctly and focus on quality.\n• Development, selection, and integration of new technologies.\n\nTechnologies and skills\n• UIkIt\n• XCTest\n• Core Data\n• swiftUI\n• Swift\n• Objective-C\n\nOur expectations:\n\nQualifications\n• You have a deep and intimate understanding of developing native iOS apps with modern tools and frameworks.\n• You have a solid background in writing code in Swift and Objective-C.\n• You are familiar with the following frameworks: UIKit, SwiftUI, Combine, Core Data, XCTest.\n• You obtained knowledge on how to write clean and robust code.\n• You have excellent English language skills, German is a plus.\n• Your approach to problem-solving is pragmatic.\n• You offer excellent communication skills and understand the importance of team cohesion.\n\nExperience\n• You have at least 3 years of experience as an iOS Developer.\n• Experience with TDD or BDD is a big plus.\n• You feature a good sense for crafting the perfect user experience and performance.\n\nEducation\n• Ideally you have an MSc. or BSc. in Computer Science or a similar education.\n\nBenefits\n• Excellent Traffic Connections\n• * Company Notebook for Private Use\n• Fresh Fruit\n• Flexible Working Hours\n• Additional Insurance\n• Snacks, Sweets\n• Coffee, Tea, etc.\n• * Relocation Support",
+            "apply_options": [
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://en.devjobs.at/job/80b57b7fd15dc2bf947c2308c4561c74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/-832272139371041281/iOS-Developer-Wien?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://at.trabajo.org/stellenangebot-2028-efc55da4b15d75833afcde39c7bee8da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/planradar/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/ios-developer-vienna-osterreichische-post-5aa0ffbcef/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUGxhblJhZGFyIEdtYkgiLCJhZGRyZXNzX2NpdHkiOiJWaWVubmEsIEF1c3RyaWEiLCJodGlkb2NpZCI6Im53VHNwaER0LU55VmNYSFhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "IOS Developer / AR & JavaScript & UI/UX Allrounder (m/f/x)",
+            "company_name": "INTERACTIVE PAPER GmbH",
+            "location": "Vienna, Austria",
+            "via": "Stepstone.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=fag45_SK-MyHkTtfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBRAUVz7CU5vEivaiOCiU9BS66C1VXGTtD7bSJoXkij9N3_Oulw4cIPvIDilxwK2-EFFBi0w4DmMYC8-oqisNL7HJWWXG3ClLL31o5_GLXuyLoQZ7KkEh8JWDZCGhKhWOFw33hu3Ysw5FdXOCy-rqKKWkcaSOvai0v1zd42waJTweF8s511kdD0J08M5zvnmnF5jyHgW55C05Q6khqtErcUU-Nt5K8UPaYr4Ob4AAAA&shmds=v1_AUFQtOOk-auuhtJZI7fgtpFocuSb_V3LGqrmY8F_ufaYFiPsGg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=fag45_SK-MyHkTtfAAAAAA%3D%3D",
+            "extensions": [
+                "12 hours ago",
+                "Full-time and Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 hours ago",
+                "schedule_type": "Full-time and Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Introduction\n\nInteractive Paper , a leading-edge technology firm based in Austria, is at the forefront of redefining the intersection between digital and analog experiences, with a focus on delivering transformative, immersive marketing solutions . We invite you to join a high-impact, fast-growing environment where your technical expertise will be instrumental in shaping the future of interactive marketing for global brands .\n\nTasks\n• UI/UX Design & Development: Take full ownership of designing and implementing exceptional UI/UX for iOS applications, utilizing Figma or Adobe XD to ensure a cohesive and captivating user experience.\n• Augmented Reality (AR) Integration: Spearhead the development of sophisticated AR-driven functionalities within iOS, leveraging ARKit to produce dynamic and engaging interactive experiences.\n• JavaScript Application Development: Drive enhancements for web-based applications using SvelteKit, ensuring seamless interactivity that aligns with the broader vision of our platform.\n• Product Innovation & Enhancement: Strategically lead the evolution of our core products by introducing advanced features, integrating new technologies, and supporting both hardware and software product development.\n• Quality Assurance & Optimization: Execute rigorous product testing and troubleshooting to uphold our standards of excellence in performance, reliability, and user experience.\n\nYour profile\n\nRequirements\n• Technical Expertise: Extensive experience in iOS development (Swift) with demonstrated proficiency in ARKit and JavaScript, as well as advanced use of development tools like XCode and design tools such as Figma or Adobe XD.\n• Augmented Reality & 3D Modeling: Solid foundation in 3D modeling and AR technologies, with hands-on experience in creating immersive AR applications.\n• Leadership in Design & Problem Solving: A visionary problem-solver with an acute sense of design, capable of independently driving complex projects to completion.\n• Experience Level: A skilled professional with a robust, hands-on approach, ideally suited for a mid- to senior-level role within a dynamic and innovative startup environment.\n\nBenefits\n• Strategic Role with Global Impact: Engage directly with some of the world’s leading brands, shaping impactful, cutting-edge marketing experiences in a high-scaling environment.\n• Collaborative & Flexible Work Environment: Benefit from a flexible working model that accommodates both on-site and remote work, within a culture that prioritizes growth, creativity, and autonomy.\n• Competitive Rewards & Growth Opportunities: Enjoy a comprehensive compensation package, including team bonuses of up to €10,000 per year, alongside ample opportunities for professional advancement and skill development.\n• Permanent, Full-Time Role in a Leading Team: Join one of Europe’s most focused and innovative tech teams on a permanent, full-time basis, where a positive and relaxed working atmosphere fosters collaboration and excellence.\n• Engaging Company Culture: Experience a unique company culture that values connection, with regular after-work gatherings and monthly team activities that enhance camaraderie and team spirit.\n• Pioneering Technology Platform: Work with groundbreaking products that leverage data-driven insights, first-party integration, and innovative content creation tools to drive high-value engagement.\n\nWe look forward to hearing from you!\n\nThe Interactive Paper Team",
+            "apply_options": [
+                {
+                    "title": "Stepstone.at",
+                    "link": "https://www.stepstone.at/stellenangebote--IOS-Developer-AR-JavaScript-UI-UX-Allrounder-m-f-x-Vienna-INTERACTIVE-PAPER-GmbH--865690-inline.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOIN",
+                    "link": "https://join.com/companies/interactivepaper/13315367-ios-developer-ar-and-javascript-and-ui-ux-allrounder-m-f-x?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/wien-ios-developer-ar-javascript-ui-ux-allrounder-127232271?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/6459767862229359950/IOS-Developer-%2F-AR-%26-JavaScript-%26-UI%2FUX-Allrounder-(m%2Ff%2Fx)-Wien?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://at.linkedin.com/jobs/view/ios-developer-ar-javascript-ui-ux-allrounder-m-f-x-at-interactive-paper-4100811403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/interactive-paper/ios-developer-ar-javascript-ui-ux-allrounder-m-f-x-727149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/ios-developer-ar-javascript-ui-ux-allrounder-vienna-interactive-paper-10683fe256/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://at.talent.com/view?id=76f02597a485&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIC8gQVIgXHUwMDI2IEphdmFTY3JpcHQgXHUwMDI2IFVJL1VYIEFsbHJvdW5kZXIgKG0vZi94KSIsImNvbXBhbnlfbmFtZSI6IklOVEVSQUNUSVZFIFBBUEVSIEdtYkgiLCJhZGRyZXNzX2NpdHkiOiJWaWVubmEsIEF1c3RyaWEiLCJodGlkb2NpZCI6ImZhZzQ1X1NLLU15SGtUdGZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "Senior iOS Developer (Remote)",
+            "company_name": "Neybox Digital",
+            "location": "Anywhere",
+            "via": "Wellfound",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7BzrdqIKNiC51EgqCg4L9gJKEIz1JcyF3Sv0Jv1ld3vSqz6zad5iIC9CtgxZfGDljgeUdR1ZcwQYu7EDQFj8AJzgzh4iL46CapTFGJNZB1Cr52vNoOKHjyTzYyZ9eBlswR6vY7w7bqc4prOdXfP8StBRIbQRKcHqKFrJfkXpZVJEAAAA&shmds=v1_AUFQtOOck1Sh_8VUJqv5DM-ohtT_5MCFexXTsjyIu-24VuMbIA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d845d5cdd7b98f31d687ba2f8380ce8ca5eb374270be99bdb97.jpeg",
+            "extensions": [
+                "24 days ago",
+                "80K–120K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "80K–120K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 What's the position?\n\nThis is a Full-time Senior iOS Developer position at Neybox for talented individuals who want to work on cutting-edge applications that positively impact the well-being of individuals worldwide.\n\n💫 What will I be working on?\n\nYou'll be working on our two apps: Pillow, a sleep-tracking app, and Today, which is a quantified-self wellness app.\n\nBoth apps have won an Editors' Choice distinction and have been featured multiple times in press and media. They have millions of users worldwide and a great roadmap ahead.\n\n🧑‍💻 What will be my role and responsibilities?\n\nAs a senior developer you will be responsible for\n• Building new features\n• Fixing bugs\n• Maintaining the existing codebase\n• Writting Unit Tests for existing and new features\n• Making sure the documentation of the project is accurate and helpful\n• Doing research on new technologies and frameworks\n• ⚠️This is a position that requires a commitment of 40 hours per week. This is not a part-time position.\n\n🛠️ What's the tech stack?\n\nIn a nutshell:\n\nBoth our apps are written in Swift (MVVM and MVC).\n\nThe UI is written in SwiftUI and UIKit.\n\nWe write Unit Tests; the code is clean and well-documented.\n\nWe make extensive use of various frameworks and machine learning.\n\nBoth apps are available for iOS only.\n\n🌍 Can I work remotely?\n\nOf course! Our team is 100% remote. We have flexible working hours, but a good overlap between our time zones is required.\n\n🙌 What is it like working at Neybox?\n\nOur team is small by design (6-8 people). However, we work closely together every day (Mon-Fri). For coordination, we use Slack and Jira and keep meetings at a minimum.\n\nThere's no middle management to get in the way, and we encourage new ideas and close collaboration.\n\n💼 What are the requirements?\n• 4+ years of iOS development experience in Swift\n• Experience in HealthKit, CoreML SwiftUI, UIKit, Core Animation, GCD, Core Data, and WatchKit.\n• Experience working with Git version control, Unit testing, and Continuous Integration\n• Experience in performance profiling with Instruments on Xcode.\n• Proficient use of English, both writing and speaking.\n• Willingness to learn and experiment with new technologies.\n• References from previous employers in written or spoken form may be required from previous employers.\n• Proficient in usage of MacOS and iOS.\n\n📥 Great! How can I apply?\n\nJust hit \"Apply\" button below!\n\n⚠️ Please note that this is the only acceptable way to apply. All other ways of contacting Neybox about the position (social media, LinkedIn, email etc.), will result in immediate rejection.",
+            "apply_options": [
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/2604342-senior-ios-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/-6598440506116100990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pangian",
+                    "link": "https://pangian.com/job/senior-wordpress-developer-remote-65/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik5leWJveCBEaWdpdGFsIiwiYWRkcmVzc19jaXR5IjoiQXVzdHJpYSIsImh0aWRvY2lkIjoiRTJTQ3JmOVpxTVhnVG42QUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        },
+        {
+            "title": "Ios App Development",
+            "company_name": "Eastern Techno Solutions Pty",
+            "location": "Austria",
+            "via": "Trabajo.org - Stellenangebote, Arbeit",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=uYlTXaogdljTs8iYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU63CQUTEVx0Kiiik6B7ScLRpKR3IXeV-ht-sfiG13xXTXtjga4UOOMbM5cJSWELd_Yg6GqIwARX5iHj-hRVixytFclmEHWaggk8WSb0vNiRvfzrJbqKJTvFfn_YLabQ0G4uThQrwQtDJIYn51kTk8BDP5AIulm0JvcDnwgmopUAAAA&shmds=v1_AUFQtONSuvLoFCMxmVbKgpqtDdBb9Ym2L4EnPYxYhk26RhghBQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=uYlTXaogdljTs8iYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d842e35e9e2aad3ae1978a84c64f4543a67cb1fdd6158163a33.png",
+            "extensions": [
+                "9 hours ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 hours ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Developer Job Description:We are looking for an iOS developer who will be responsible for the development of iOS apps for a range of iOS devices.\nThe candidate should be able to develop iOS applications and their integration with back-end services.\nYou will be working alongside other developers on different layers of the infrastructure.\nA commitment to collaborative problem solving, sophisticated design, and the creation of top-quality products is required.\niOS Developer Duties & Responsibilities:Design and develop iOS mobile apps.Work together with cross-functional teams to analyze, design, and deliver new features.Publish iOS applications in app stores.Implement the latest technologies to improve application performance.Recognize and correct bottlenecks and resolve bugs.Develop clear, concise, and well-documented code.Work with other members to understand and implement specified requirements.Maintain existing applications with regards to enhancements and bug fixes.Migrate solutions to the latest technologies to remain up to date with industry best standards.Integrate iPhone and iPad applications with server-side APIs.Develop innovative products and maintain high performance quality.Collect requirements and design technical solutions.Implement Apple's design principles and interface guidelines.iOS Developer Requirements (Skills) and Qualifications:Expertise with Objective-C and iOS SDK.Knowledge of iOS frameworks like Core Data, Core Animation, Core Graphics, and Core Text.Experience with offline storage, threading, and performance tuning.Understanding of RESTful APIs to connect iOS applications to back-end services.Understanding of other web technologies and UI/UX standards.Knowledge of cloud message APIs and push notifications.Experience working with iOS Swift.Understanding of the full mobile development life cycle.Should have published iOS apps in the app stores.Knowledge of code versioning tools like Git, Mercurial, or SVN.Knowledge of Cocoa Touch and Cocoapods.Familiarity with continuous integration.Knowledge of low-level C-based libraries is preferred.History of successfully completed projects.Skilled in GUI programming and multithreaded applications.Convenient working with agile methodology and tools.Why Join Us?Get a chance to contribute and get recognition from Day 1.The 3rd Saturday of every month will be a day off.Every alternate Saturday will be knowledge sharing sessions among employees to help improve/grow IT skills.A friendly, supportive, professional, and achievement-oriented management team.Education assistance.Extra activities (birthday celebrations, outdoor picnics, team lunch parties).Recreational activities (during break time) such as board games, video games, etc.Work from home in case of any personal emergency.Apply for this positionFull Name*:\nEmail*:\nResume (Please provide your CV in pdf, word, odt, or rtf format)*:\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://at.trabajo.org/stellenangebot-3127-af21314c2d3d99ca6f0897e64373ff0f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJb3MgQXBwIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiRWFzdGVybiBUZWNobm8gU29sdXRpb25zIFB0eSIsImFkZHJlc3NfY2l0eSI6IkF1c3RyaWEiLCJodGlkb2NpZCI6InVZbFRYYW9nZGxqVHM4aVlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "iOS Developer (d/m/w) (m/w/d)",
+            "company_name": "Raiffeisen Software GmbH",
+            "location": "Linz, Austria",
+            "via": "StudySmarter - Talents",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=MwPt-uWyQ6upur28AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7CU43tqKNiC46CUJFBMF-QEnaa3uS5kIu2uLH-K3q8qaXfGbJlm4lnPCFlj0GSBs1qDGD9KdqMljBhQ0I6lD3wA4K5s7i_NDH6GWvlIjNO4k6Up3XPCh2aHhSDzbyp5JeB_RWR6w2u_WUe9ctsrumtkUSdFByG8dfgWIwZyAHV3LvJRyfEgPpL0iFOUihAAAA&shmds=v1_AUFQtONuQiB5SLZpYeBtcdIQL_nHpJY3Hauvjbccca3OFXrwTA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=MwPt-uWyQ6upur28AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d846d85b9439a7f7c5b9200537d8a8a49cc63c6b0ac1516168d.jpeg",
+            "extensions": [
+                "€45.8K–€64.2K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "€45.8K–€64.2K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Developer (d/m/w) Kreiere die Zukunft des Bankings - als iOS Developer für die Mein ELBA App! Ort Linz Anstellung Vollzeit Work from Home Bis zu 60% Homeoffice Die Raiffeisen Software GmbH als ein Teil der Raiffeisen Bankengruppe Österreich beschäftigt rund 950 Mitarbeiter:innen an den Standorten Innsbruck, Leoben, Linz, Salzburg und Wien. Unser Ziel ist es, die digitale Zukunft des Bankwesens maßgeblich mitzugestalten. Aktuell betreuen wir mehr als 800 maßgeschneiderte Softwarelösungen - und es werden stetig mehr. Das Aufgabengebiet der Raiffeisen Software GmbH ist daher vielfältig und reicht von der Entwicklung benutzerfreundlicher Anwendungen für den täglichen Einsatz in Bankfilialen über leistungsstarke Meldetools im Hintergrund bis hin zur beliebten Mein ELBA-App. Als Softwarehaus der Raiffeisen Bankengruppe Österreich gestalten wir das Bankgeschäft der Zukunft aktiv mit. Im Team ELBA App suchen wir einen iOS Developer (d/m/w). Was ist dein Beitrag im Team? Du * wirkst an der Weiterentwicklung der Mein ELBA App für 2,8 Millionen Kund:innen mit und hältst diese am Laufen. * entwickelst für unsere Kund:innen eine ansprechende, moderne und barrierefreie Oberfläche um ihre täglichen Bankgeschäfte zu erledigen. * sorgst mit deiner sorgfältigen und sicherheitsbewussten Arbeitsweise dafür, dass sich unsere Kund:innen beim Online Banking gut aufgehoben fühlen. * programmierst IOS - native in Swift neue Features für die größte Banking App Österreichs. * nimmst dir die Anliegen der Stakeholder zu Herzen und bist bemüht für sie rasch eine zufriedenstellende Lösung zu finden. Was bringst du dafür mit? Du * verfügst über mehrjährige Erfahrung in der App Entwicklung mit iOS (Swift ). * bist vertraut mit Continuous Integration mit Jenkins und Gradle. * zeichnest dich durch lösungsorientiertes Denken, eigenständiges & verantwortungsbewusstes Arbeiten sowie Teamfähigkeit aus. * kannst gut zuhören, hinterfragen und beschreiben. * entwickelst die Mein ELBA App - das Tool, das in jede Tasche passt. Ob die Großmutter, die ihre Zahlungen im Handumdrehen erledigt, oder das Kind mit dem ersten Jugendkonto, das seine Finanzen organisiert - mit der Mein ELBA App wird alles möglich: Zahlungen, Wertpapiertransaktionen und vieles mehr - schnell, einfach und überall. * hast sowohl gute Deutsch- als auch Englischkenntnisse in Wort und Schrift und kannst diese im beruflichen Alltag anwenden. Was bieten wir dir? Du * wirst Teil eines eingespielten Teams, das jederzeit füreinander einsteht. * kannst beim Onboarding und darüber hinaus auf das Wissen und die Unterstützung deiner Teamkolleg:innen zählen. * bringst dich in einem agilen Unternehmen ein, wo Teamwork, Technologie-Austausch und Spaß am Programmieren (z.B. interne Entwicklerkonferenz, Hackathon) gelebt wird. * profitierst von fairen und flexiblen Rahmenbedingungen (Home Office, Gleitzeitmodell ohne Kernarbeitszeit, keine All-In Vereinbarung). * erhältst auch gerne mehr als das Mindestgehalt von 3.828,00 EUR, wenn du erfahrener und qualifizierter bist. smart bewerben Dein Kontakt Für Rückfragen steht dir Caroline Nagl telefonisch unter der Nummer +43 732 6929 69468 gerne zur Verfügung. Folge uns auch auf unseren Social-Media-Kanälen, um keine Neuigkeiten zu verpassen! Caroline Nagl HR Specialist Unsere Benefits Bei uns zählt das Gesamtpaket. Leistungen werden belohnt - nicht nur mit dem Gehalt! Mehr Details findest du dazu hier. * Flexible Arbeitszeiten * Familienfreundlich * Homeoffice Ausstattung * Mitarbeiter:innen- restaurant mit Zuschuss * Umfangreiche Aus- und Weiterbildungen * Willkommen an Bord * Sonderkonditionen für Mitarbeiter:innen * Geschenke für Mitarbeiter:innen * Gesundheit und Fitness * Barrierefreiheit * Firmenevents * Community Wie läuft die Bewerbung ab? Unser Bewerbungsprozess ist klar definiert. So stellen wir sicher, dass deine Bewerbung sofort zur richtigen Ansprechperson gelangt und dadurch schnell bearbeitet werden kann. Zum Bewerbungsprozess Worauf wartest du noch? Bewirb dich jetzt! smart bewerben",
+            "apply_options": [
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/raiffeisen-software-gmbh/ios-developer-d-m-w-m-w-d-945670/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted.at",
+                    "link": "https://www.jobted.at/job/6ad2ead7c43367a2e57dcb225c2524d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIChkL20vdykgKG0vdy9kKSIsImNvbXBhbnlfbmFtZSI6IlJhaWZmZWlzZW4gU29mdHdhcmUgR21iSCIsImFkZHJlc3NfY2l0eSI6IkxpbnosIEF1c3RyaWEiLCJodGlkb2NpZCI6Ik13UHQtdVd5UTZ1cHVyMjhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "iOS App Developer",
+            "company_name": "DiniTech GmbH",
+            "location": "Sankt Stefan im Rosental, Austria",
+            "via": "DEVjobs.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=xh-d8lkI1PrJhFxuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CU4ZRbQnBRedCoWKi2DdS1pie3pNjkuU_os_qy5vfNlnka38pYEyRqjoTUEiJdjCWTpQwtSPIAy1yBBoeRzNoh6cUw35oIbm-7yXyQlTJ7N7SKd_Wh0xUQxo1Bb73ZxHHtZF5dnf6BfWU3cCz9AgPw0aozsy-AmuosSGYQPlSy15_AKydOfAngAAAA&shmds=v1_AUFQtOMF7MMRHBvoUMioAfMBQK2_BfJz-Qc35uzB3gVE6HTKyw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=xh-d8lkI1PrJhFxuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d840abad5e53323f03dff57fc24f8a02ee37b78fd51c6d1d016.png",
+            "extensions": [
+                "€42K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "€42K a year",
+                "schedule_type": "Full-time"
+            },
+            "description": "Your role in the team\n• You are eagerly following the latest keynote and are excited about the latest developments in the smartphone market\n• You find creative solutions to transform the extensive possibilities of the various platforms into unique features for our customers\n• Your creative talent turns even complex functions into easy-to-use interfaces\n\nTechnologies and skills\n• Swift\n• Android\n• swiftUI\n• Git\n• iOS\n\nOur expectations:\n\nQualifications\n• Must-have: creative & solution-oriented thinking, independent & responsible work as well as the ability to work in a team, motivation and great interest in new technologies\n• Versioning systems (Git)\n\nExperience\n• Several years of experience in app development with iOS (Swift and SwiftUI)\n• Nice-to-have: Experience in one or more areas:\n• Experience in UI/UX design\n• Experience with other mobile platforms (Android) is an advantage\n\nEducation\n• Completed training (high school diploma or university degree) in the field of software\n\nBenefits\n• * Company Notebook for Private Use\n• Flexible Working Hours",
+            "apply_options": [
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://en.devjobs.at/job/b57307b16bf9c0872ad443d89104ad2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgQXBwIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkRpbmlUZWNoIEdtYkgiLCJhZGRyZXNzX2NpdHkiOiJTYW5rdCBTdGVmYW4gaW0gUm9zZW50YWwsIEF1c3RyaWEiLCJodGlkb2NpZCI6InhoLWQ4bGtJMVBySmhGeHVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "iOS Developer Up3 (f/m/d)",
+            "company_name": "Drei Österreich",
+            "location": "Vienna, Austria",
+            "via": "MyAbility.jobs",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=iOS+developer&htidocid=TaXpzMNXEUkEU_IQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE4HLiqaFMVFJ6EguDiIriWtZxJJcyF3Sh9EfCFfzLr8fNNfvEdF6U9nqPCFgRJmuKQ1TO-607cZLOFIDTCa3DqgCAciG3C8cyKJt1ozB2VZjPhWtdRpithQrx_U8D81O5MxBSNYrzZlr1K080mV0cP3w4J50DD2Ea4eYzQL2D9Zsjc_2PZwhZcAAAA&shmds=v1_AUFQtOP-gxqO-O2Fdol63JgzxaEwTNeZ1ryqzYR1nSps-P5iTw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=TaXpzMNXEUkEU_IQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f521c521e13eb4b28042/images/2443ba51479c0d84794b47be275f367ca1175d85ad00d62c4f1971684dc5b0ad.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Do you want to push the frontier of digital services in telecommunication? Are you passionate about cutting edge user experience? Do you love to build relevant User Experiences for a broad audience? Then you are exactly right with Drei. Join our mission and become part of Team “Up3” at Drei, we have a very special team spirit. Together we set ourselves ambitious goals and enjoy the challenge.\n\nWas du bei uns machst.\n• Develop the iOS app of our fully digital product line Up3\n• Code reviews with colleagues\n• Evolve our coding and development standards in the team\n• Architecture and design of the app\n• Analyze user stories with the product owner and the team\n• Implement features and user stories as requested\n• Analysis of requirements and technical advice to stakeholders\n• Close cooperation with the product owner and the operations team\n\nDas bringst du mit.\n• At least 3 years of experience as iOS developer\n• Deep knowledge of the iOS features and ecosystem\n• Expert knowledge in Swift\n• Familiarity with the Atlassian tool suite (JIRA, Confluence, Bitbucket, Bamboo)\n• A high demand on the quality of your work\n• Drei, makes it simply happen! We also expect this hand-on mentality from you.\n\nDeine Vorteile & Benefits bei Drei.\n\nWir wollen uns jeden Tag neuen Herausforderungen stellen und innovative Ideen entwickeln. Dafür geben wir unseren Mitarbeiter:innen aber auch jeden Tag etwas zurück:\n• Jahreskarte (AT) bzw. Jobticket (DE) für die öffentlichen Verkehrsmittel\n• 2 zusätzliche Urlaubstage ab dem 2. Dienstjahr (AT)\n• Open Office Infrastruktur inkl. Gratis Kaffee und Sodawasser\n• Monatlicher Essenszuschuss\n• Umfassendes Equipment und Internet fürs Homeoffice (AT)\n• Familienfreundlicher Arbeitgeber\n• Persönliche und fachliche Weiterbildung über die Drei Academy\n• Gesundheitsaktionen und Arbeitsmedizin\n• Rabatte, Firmenevents und Sportaktivitäten\n• Flexible Arbeitszeiten (wo möglich) und Mobiles Arbeiten\n• Meetings im Lifestyle-Garten im HQ möglich (AT)\n• Jährliche Ist-Lohnerhöhung oder Freizeitoption (AT)\n\nWas wir bieten.\n\nYour advantages and benefits at Drei. We want to face new challenges and develop innovative ideas every day. In return, we also give something back to our employees every day:\n• Top mobile phone of your choice incl. employee tariff and selected additional packages\n• Annual pass for public transport or company car park\n• 2 additional days of vacation from the 2nd year of working\n• Annual actual salary increase or additional days off\n• Open office infrastructure incl. free coffee and soda water\n• Internal canteen and lifestyle garden\n• Lunch Allowance\n• Hybrid workmodel with base HQ Vienna (mobile working up to 60% possible)\n• Comprehensive equipment and internet for home office\n• Family-friendly employer with childcare options\n• Personal and professional development via the Drei Academy\n• Employee discounts, company events and sports activities\n• Health campaigns and company doctor\n\nWe will agree your salary based on your qualifications and experience in line with the market. The gross annual salary according to the collective agreement for telecom companies is at least € 47.792,92 (38,5 hours/week). You can find details about everyday life at Drei on our website under Careers in the \"Work @ Drei\" section. “We are actively living gender equality and diversity and are happy to receive your application.\n\niOS Developer Up3 (f/m/d)\n• 1210, Wien, Österreich\n• Vollzeit\n• Präsenz / Mobil\n\nVerena Pantzer\n\nWir nehmen nur Bewerbungen durch dieses Tool an. Deine Bewerbung ist in wenigen Steps erledigt - 1, 2, 3 und du bist dabei!",
+            "apply_options": [
+                {
+                    "title": "MyAbility.jobs",
+                    "link": "https://www.myability.jobs/at/job/ios-developer-up3-f-m-d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Drei.",
+                    "link": "https://karriere.drei.at/stellenangebot.html?yid=107&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://at.linkedin.com/jobs/view/ios-developer-up3-f-m-d-at-drei-%C3%B6sterreich-4103691020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Grizzly.jobs",
+                    "link": "https://www.grizzly.jobs/c/drei-osterreich/ios-developer-up3-f-m-d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted.at",
+                    "link": "https://www.jobted.at/job/c3f42f9f97238da399bdb6703f116de8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFVwMyAoZi9tL2QpIiwiY29tcGFueV9uYW1lIjoiRHJlaSDDlnN0ZXJyZWljaCIsImFkZHJlc3NfY2l0eSI6IlZpZW5uYSwgQXVzdHJpYSIsImh0aWRvY2lkIjoiVGFYcHpNTlhFVWtFVV9JUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVR0ZyVUhCaVVuZzRjMDB6ZG5VeGJ5MTJiVEI0V25GNWFqRnRabEUzTTBGbmRFVmpNa0pxTkhkTVptVm9ObmRXVkhKbVVqTjBWRTFITTI5SlgyTjRNemczU25GblRFRkVVVmxIUzJ0b2EyZzNXRkZaU1Rkbk1rSjVUbEpCU0ZWYVUzUTJVRFpmZW05S1VsTnFkVmRMUjNaTmVFSlJaREo1UXpSeE5rSjVUV2hZVVd4SlQxYzJNMEk0TTNSTVZpMUVZakk1WTJJeVozZENPRkJ6WjFobVVtNUJOakZ3U21wMU0xTmpSREJoUTNwQlUxWXpNWEpGV0hwVE9UVkNOVVl5VWxWRlJHbFVPSFYzTUU1NFIyTjNhMjlKZW5wNVNGVlRVM3BFTUhrMWVqWlpkbE5vVWt3dGJHYzJYemgwZW14MFJWZHpjMUZSU0dSak5ITkRVV1ExTkVOTk1WZ3RVQklYU1daWFJWbzNUM0JLY0RKNWQzUXdVSEZaVEhZMFFWa2FJa0ZHV0hKRlkzSTJOMFE0T1VOQ1ZrUmpVVGMwZWw5U2NYQlhhVEZsVFdZeVpVRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVR0ZyVUhCaVVuZzRjMDB6ZG5VeGJ5MTJiVEI0V25GNWFqRnRabEUzTTBGbmRFVmpNa0pxTkhkTVptVm9ObmRXVkhKbVVqTjBWRTFITTI5SlgyTjRNemczU25GblRFRkVVVmxIUzJ0b2EyZzNXRkZaU1Rkbk1rSjVUbEpCU0ZWYVUzUTJVRFpmZW05S1VsTnFkVmRMUjNaTmVFSlJaREo1UXpSeE5rSjVUV2hZVVd4SlQxYzJNMEk0TTNSTVZpMUVZakk1WTJJeVozZENPRkJ6WjFobVVtNUJOakZ3U21wMU0xTmpSREJoUTNwQlUxWXpNWEpGV0hwVE9UVkNOVVl5VWxWRlJHbFVPSFYzTUU1NFIyTjNhMjlKZW5wNVNGVlRVM3BFTUhrMWVqWlpkbE5vVWt3dGJHYzJYemgwZW14MFJWZHpjMUZSU0dSak5ITkRVV1ExTkVOTk1WZ3RVQklYU1daWFJWbzNUM0JLY0RKNWQzUXdVSEZaVEhZMFFWa2FJa0ZHV0hKRlkzSTJOMFE0T1VOQ1ZrUmpVVGMwZWw5U2NYQlhhVEZsVFdZeVpVRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

@@ -1,0 +1,483 @@
+{
+    "search_metadata": {
+        "id": "6784f536d92cc45e5aef83ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2871d7e923ccae6f/6784f536d92cc45e5aef83ac.json",
+        "created_at": "2025-01-13 11:12:54 UTC",
+        "processed_at": "2025-01-13 11:12:54 UTC",
+        "google_jobs_url": "https://www.google.gr/search?q=iOS+developer&uule=w+CAIQICIGR3JlZWNl&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/2871d7e923ccae6f/6784f536d92cc45e5aef83ac.html",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Greece",
+        "location_used": "Greece",
+        "google_domain": "google.gr"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.gr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwibzp61yPKKAxWGHjQIHazEGD8QxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer in Athens",
+            "company_name": "Accenture",
+            "location": "Athens, Greece",
+            "via": "Accenture",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=KS037mpYtREWoGs2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XNMQoCMRAFUGz3CNpMLZqIYKPVgrBgY-EBliR8kpVsJmRG2TN4arGyee3rPqvOTPcHXfFG5opGU6FeE4rQnm7sSeBaSMSFBuaYsb4k1Spna0WyiaJOp2ACz5YLPC_2yV5-jJJcQ81OMR5Ph8XUErebPgQUfTX8ox0NDQj4AuIOr5WNAAAA&shmds=v1_AUFQtOPvK5dLwLZyUl9rxOEWA8ijEykld8oFR_VHeTUKMVelqg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=KS037mpYtREWoGs2AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "ARE YOU READY to step up to the New and take your technology expertise to the next level?\n\nThrough unmatched industry experience, leading technologies from our ecosystem partners and startups, and the largest delivery network in the world, we provide a powerful range of capabilities that can be tailored to our client’s most complex business needs. With over 100 innovation hubs deployed around the world, we help clients continuously innovate at speed and at scale so they can outpace their peers. You will bring innovation, intelligence and industry experience together with the newest technologies to help clients innovate at scale and transform their businesses.\n\nTechnology is one of four services that make up one Accenture –the others are Strategy and Consulting, Interactive and Operations.\n\nWORK YOU’LL DO\n\nAs an iOS Developer, you will be responsible for delivering large-scale, complex programs that marry processes with technology to help our clients achieve high performance by leveraging the most current Mobility trends. You will envision, estimate, define, build and deploy Accenture's Mobility solutions using standard delivery assets to improve clients' delivery approach.\n\nResponsibilities:\n• Documenting business requirements and re-engineering business and/or IT processes\n• Performing application design activities (e.g., designing user interface, usability testing)\n• Assisting in conducting gap analysis between business requirements and software\n• Creating functional requirements as an input to application design and Assisting with build, test, and deploy activities\n• Proposing ideas for using digital and mobile technologies to address client issues and challenges",
+            "apply_options": [
+                {
+                    "title": "Accenture",
+                    "link": "https://www.accenture.com/gr-en/careers/jobdetails?id=R00005013_en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=2d25506ba71c9d3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/-5857328715587241111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/ios-developer-id-1024-skroutz-sa-5884688?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MeetFrank",
+                    "link": "https://meetfrank.com/jobs/skroutz/ios-developer-id-1024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IG@Work",
+                    "link": "https://www.igwork.gr/view/fknLrWfddMRT3iin7iGmSS/ios-developer-in-athens-in-athens-at-accenture-greece?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/greece/job/full-time/others/senior-ios-developer-sid-1224-137335485?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/senior-ios-developer-sid-1224-at-skroutz-4100009707?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIGluIEF0aGVucyIsImNvbXBhbnlfbmFtZSI6IkFjY2VudHVyZSIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJLUzAzN21wWXRSRVdvR3MyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Novibet",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=OzA92Fa-EKJB8DgJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAF0H5voNUUVqKJCDZaCcKChRYeYEnCJ4nETMgMy1aeXXzFG77DJj9fdMOMwg2d9nRnTwLXQyKuNDLHgvUlqTY5WytSTBR1moMJ_LFc4Xmxb_byb5LkOlpxiul4Oiym1bhdPXjOHkq50lUTquxo7EDADyIN6WqAAAAA&shmds=v1_AUFQtOMOlJQ90mtFPbgMgqLXWma0b_tV9wZTMACue0Z9xICHuQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=OzA92Fa-EKJB8DgJAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "📢 Join Novibet as an iOS Developer !\n\nAre you ready to take on a key role in a dynamic, fast-growing company? If you have a passion for iOS technologiesand thrive in a fast-paced environment, this could be the right opportunity for you.\n\nWho We Are\n\nFounded in 2010, Novibet is a leading GameTech company with a strong international presence. We operate in diverse markets, including Greece, Cyprus, Ireland, Canada, Brazil, Mexico, Chile, Ecuador, Finland, Italy, and New Zealand. With offices in Greece, Malta and Brazil, our mission is to deliver unparalleled sports betting and online gaming experiences to our rapidly expanding customer base.\n\nTech Stack: Our project is written in Swift and we use both UIKit and SwiftUI. We also use the MVVM architecture with modularization, Fastlane and Team City for continuous integration and Firebase for remote config and monitoring.\n\nWhy Novibet\n\nAt Novibet, we are proud to be certified as a Great Place to Work, consecutively since 2021, reflecting our commitment to developing a positive, inclusive, and supportive work environment. Join us, and you will be part of a team of over 1,000 people worldwide that values collaboration, innovation, and personal growth.\n\nWhat you will work on\n• Design, build and maintain applications for the iOS platform\n• Ensure the performance, quality, and responsiveness of applications\n• Collaborate with a team to define app features\n• Identify and fix bugs\n• Help maintain code quality, organization, and automatization\n• Contribute to frequent releases by improving our testing and deployment tools\n\nWhat you bring\n• At least 3 years of experience developing iOS applications\n• University and/or Postgraduate Degree in a relevant field\n• Solid experience in Swift, UIKit and SwiftUI\n• Familiarity with RESTful APIs to connect iOS applications to back-end services\n• Understanding of Apple's design principles and interface guidelines\n• Understanding of code versioning tools such as Git\n• Constantly learn, improve on your skills, share knowledge and adapt to processes and conventions\n• Creating self-contained, reusable, and testable modules and components\n• Analytical thinking and problem-solving capabilities\n\nDesired Technical Skills\n• Experience working with web sockets\n• Experience with testing (Unit/Integration/UI Automation)\n• Familiarity with continuous integration\n• Familiarity with functional programming principles\n• Experience with protocol oriented programming\n• Familiarity in algorithms and complexity\n\nWhat we offer\n\nWe truly value our people at Novibet! Within our vibrant, dynamic, and fast-paced environment, we encourage everyone to reach their full potential while enjoying every step of the journey. Here’s how we make that happen:\n• 💰Competitive Compensation: Attractive salary and bonus scheme\n• 🧑‍⚕️Health insurance: Group health & medical insurance package\n• 💻Top-Notch Equipment: All the tools you need for your role\n• 🚀Career Growth: Focused career development, performance management, and training opportunities\n• 🚗Alternative Transportation: Shuttle buses & Carpooling options\n• 🌍Inclusive Environment: A welcoming, international, and multicultural team\n• 🎉Engaging Activities: Exciting events, sports, and team-building activities\n\nAt Novibet we value diversity and are committed to an inclusive and equitable workplace. All decisions regarding recruitment, hiring, promotion, compensation, employee training and development, and all other terms and conditions of employment, are made without regard to race, religious beliefs, color, gender identity, sexual orientation, marital status, disability or chronic disease, age, ancestry or place of origin.",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/novibet/j/DEB317B414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/959495559643838659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgreek.com",
+                    "link": "https://jobgreek.com/de/ios-developer-job95082?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTm92aWJldCIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJPekE5MkZhLUVLSkI4RGdKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Revotech",
+            "location": "Thessaloniki, Greece",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=cLkE20JH2bwMznZyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQoCMRAFUGz3CFZTWIkmIthoKyzYCGq_JOGzicZMyAzLXsB7q80rX_dZdKt0vdMZEzJXNNrShT0JXAuRuFDPPGYsT1G1ytFakWxGUacpmMBvywWeZ_tkL38Gia6hZqcY9ofdbGoZ13TDxIpfmAo9IkRc5pJeaUN9AwK-9Vk_DogAAAA&shmds=v1_AUFQtOPGJzb4RUGYsZIpZKkwLqYpKp1r9Yh-9t6ecLWIfs_d6g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=cLkE20JH2bwMznZyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f536d92cc45e5aef83ac/images/fe078b60dbdefa9449a2202768099fc6eac3598551fc05377fc7a826d153631a.jpeg",
+            "extensions": [
+                "2 hours ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 hours ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Revotech is a technology company dedicated to innovatively combining the latest technologies to catalyse the development of next-generation solutions. Our mission is to enhance human life by radically improving the experience of the services provided within the industries we operate in. We begin by imagining the future, then we build it\n\n“Building exceptional apps, one line at a time”\n\nWe are seeking a passionate iOS Developer to join our engineering team!\n\nYour Responsibilities Will Include\n• Design, develop, and maintain iOS applications that align with the company’s vision and user needs\n• Collaborate with designers to transform Figma designs into polished, user-friendly interfaces\n• Proactively suggest improvements to the app’s architecture and user experience as UI/UX is critical for us\n• Safeguard the projects’ documentation with the utmost caution against any information breach\n• Optimize app performance and troubleshoot issues across a range of iOS devices and OS versions\n• Ensure robust functionality and reliability\n• Stay informed about Apple’s ecosystem updates, including new APIs, frameworks, and best practices\n• Present progress upon request during a meeting with the business/tech stakeholders\n• Be readily available to discuss features and code details upon request\n• Document processes, workflows, and codebase changes for future reference and team clarity\n• Other tasks as assigned\n\nWhat You Will Need\n• 3+ years of professional iOS development experience\n• Proficiency in Swift and SwiftUI is a must\n• Experience working with Swift Data or Core Data\n• Strong understanding of integrating RESTful APIs and working with JSON\n• Knowledge of design patterns like MVC and MVVM, and best practices for app architecture\n• Experience with performance tuning and optimizing apps for a seamless user experience\n• Familiarity with Apple’s Human Interface Guidelines and App Store submission process\n• Working knowledge of version control systems such as Git\n• A degree in Computer Science, Engineering, or a related field is considered a plus\n\nRevotech Perks\n• Competitive compensation package\n• Company provided equipment\n• An exciting high-growth career trajectory\n• Private health insurance plan\n• Hybrid position for Athens or Thessaloniki\n• Continuous training\n• Part of a youthful talented team striving for innovation\n\nReports to: Chief Technology Officer",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/ios-developer-at-revotech-4124570480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUmV2b3RlY2giLCJhZGRyZXNzX2NpdHkiOiJUaGVzc2Fsb25pa2ksIEdyZWVjZSIsImh0aWRvY2lkIjoiY0xrRTIwSkgyYndNem5aeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSM0psWldObCJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "SILVARE",
+            "location": "Athens, Greece",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=IzeozqXYAJiWxOmbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBQF0L1_oNMbnEQTEVx0KihFEQQLriUNlyQl5oW8IJ38dvEMp_k2q_Do6YwPImcU2tKNRxKYYj1xoo7ZRSxPvtYsR61FonJSTQ1WWX5rThh51hOP8m8QbwpyNBXD_rCbVU5uveiv91f7vFBI1FaPJBvqCmDxAz0i7giAAAAA&shmds=v1_AUFQtOMEKhY1tNSVIsyWd0vsFxykVUNncbQ8L2bty-kqEH5sIg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=IzeozqXYAJiWxOmbAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At SILVARE, we’re a small team achieving remarkable results. We’ve built a reputation for delivering fast, impactful results that keep our clients coming back—many of whom are some of the biggest names in tech. What makes us different? We’re easy to talk to, we get straight to the point and we’re all about making things happen. \n\nWe’re proud of the strong relationships we build, both with our clients and our team. We believe in keeping our people happy, whether it’s through improving benefits, having open conversations about their projects or just being there when they need us. It’s this supportive environment that helps us—and our people—thrive.  \n\nIf you’re ready to work on exciting projects, grow alongside industry leaders and make a real impact, we’d love to have you join us at SILVARE. \n\nThe Role in a Nutshell \n\nDo you love creating smooth, intuitive, and visually stunning iOS apps? Are Swift or Objective-C your go-to tools? If you’re a creative problem-solver who’s passionate about mobile development, we’d love to have you onboard as our next iOS Developer!\n\nYour Day-to-Day \n\n🔹 Developing beautiful, high-performance iOS apps that users can't put down\n\n🔹 Working closely with a team of fun, collaborative designers and developers\n\n🔹 Writing clean, efficient code in Swift or Objective-C\n\n🔹 Optimizing app performance and adding awesome new features\n\n🔹 Troubleshooting, debugging, and ensuring the app is flawless\n\nYour Key Strengths\n\n🔹 2+ years of iOS development experience\n\n🔹 Proficiency in Swift and/or Objective-C\n\n🔹 Solid understanding of Apple’s design principles and interface guidelines\n\n🔹 A creative mind with strong problem-solving skills and a team-first attitude\n\nWhy You’ll Love Working with Us \n\n💸 Performance Pays Off: Annual bonus based on how you shine throughout the year! \n\n🍽️ Lunch is On Us: Monthly allowance to fuel up with your favorite meals. \n\n🏥 Health First: Private health and life insurance—because your well-being matters. \n\n💻 Gadgets Galore: Get your own laptop and mobile device, complete with a phone plan to keep you connected. \n\n📚 Learn Without Limits: Unlimited access to Udemy and all the training you need to grow and thrive. \n\n🚀 Career Rocket Fuel: Personalized coaching and mentorship to level up your skills and hit your career goals. \n\n🎯 Work with the Best: Step up your game by collaborating with industry-leading clients. \n\n🌈 Celebrate Diversity: Join a team that values and thrives on different perspectives. \n\nEager to Join Us? Jump in and apply today—we’re excited to see what you can bring to our team!\n• SILVARE Consulting is an Equal Opportunity Employer. SILVARE does not discriminate on the basis of age, race, religion, sex, gender identity, sexual orientation, non-disqualifying physical or mental disability, national origin or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit and business need. #LI-Hybrid",
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/embed/job_app?for=silvare&token=4417908101&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=9f8d58223f5246fe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/7443245270131380764?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/ios-developer-at-desquared-4089955944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU0lMVkFSRSIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJJemVvenFYWUFKaVd4T21iQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "Mobile Apps - iOS Developer",
+            "company_name": "Betsson Group",
+            "location": "Athens, Greece",
+            "via": "Indeed",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=Gz6Ok98I_cC9k26hAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMsQoCMRAFsb1PsHFr0Ysc2Gh1IgiCWPgBRxIel0jMhuwq9x1-sV4zMFNM81003Y1dTKC-FKEtxfuDzvggcUH9-5UdCWz1gTjThXlMWB6DapGDMSKpHUWtRt96fhnOcDyZJzuZMUiwFSVZxdDtd1Nb8rhenaAi86zyu1DM1GtAls0_AB4_Tiry9ZUAAAA&shmds=v1_AUFQtOMi_f89Iu32ZZjRYdzhpqR8o1fol8So7pvDjW7lHGiCkA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Gz6Ok98I_cC9k26hAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f536d92cc45e5aef83ac/images/fe078b60dbdefa94718304bd34b959cf1a82375b831512c37a05f8870a54fcb9.jpeg",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for Mid and/or Senior iOS Developers to join our Product Development Department. You will be part of the Mobile Apps team and together we will build the best native experience in the industry!\n\nThe Wow\n\nAt Betsson Group, we strive to deliver the best customer experience in the industry. We are one of the market leaders in iGaming, offering online gaming products in several markets, both through our own gaming sites as well as several partner brands.\n\nYou will be part of a passionate team, which is building an industry leading, scalable, multi-brand platform to support 25+ online brands! Our brands are used by hundreds of thousands of users and growing.\n• You will be working side by side with some of the greatest talents in the industry.\n• You will be working on applications dealing with high traffic reaching worldwide audiences.\n• You will be able to feel strong ownership of the things we deliver and our success.\n• A friendly and supportive environment; professional development programmes and training that will help you achieve your goals and grow both technically as well as professionally.\n• In addition to all of this, you will be part of the multi-cultural Betsson community.\n\nGreat if you have\n• Swift, Xcode and expert in Apple's frameworks and possibilities with native\n• Firebase and all tools included such as analytics, Crashlytics, Firestore, Remote configuration, cloud-messaging, in-app-messaging.\n• Being data driven and excellent knowledge in structuring tracking in app\n• RESTful APIs and using Postman.\n• Github pipeline setup\n• An eye for making high quality iOS views and animations.\n• Scalable and performant applications\n• Design and implement clean, scalable, and high-quality code with unit testing experience.\n• Solving problems and have good software architecture knowledge.\n• Being a Team player.\n• Agile development.\n• Coaching and mentoring other developers.\n\nA taster of what you will be involved with\n\nWe want to be pioneers in a highly competitive market, so we continuously strive for technical and product excellence. As part of our team, you will be building new products and features using latest technologies; actively contributing to a state-of-the-art native, which is supporting our core brands.\n\nOur iOS Mobile Apps are built in Swift; and consumes RESTful APIs.\n\nAs an iOS Developer, you will be responsible for software development in a very self-leading Agile team with responsibility in everything from DevOps pipeline to production monitoring and support. You will be contributing directly to the success of our products by close collaboration with UX-designers, QA engineers, data analysts and other area teams. You have a strong sense of customer value and will participate in the whole value-chain discussion to contribute the how and what to make our products successful.\n\nWhat we offer\n• Monthly Allowance for Lunch\n• Private & Life Plan Insurance for you and your family\n• Annual Wellness Allowance\n• Team Building Budget\n• Corporate Travel Insurance\n• Events and initiatives both Local (Quarterly Meetings) and Global\n• Professional Development Programs & Internal Career Opportunities\n• Milestone Birthday\n\nMuch like riding a rollercoaster, sometimes life at Betsson can be lightning fast with twists and turns but always FUN! Then again, what else would you expect from a business 75% millennial and 1900 strong, spread across 7 offices! We recognise it may not be for the faint-hearted, but if you're a go-getter, initiator and always striving to push the boundaries and challenge yourself, then you'll fit right in.\n\nWe offer numerous challenges where your skills will be put to good use! We encourage innovation, independence and celebrate success where you will be part of multi-cultural and diverse company, with people from all over the world.\n\nChallenge Accepted?\n\nIf you are interested to learn more, please apply with your CV in English.\n\nCheck out the Betsson Group Blog to find out what our employees are talking about\n\nBy submitting your application, you understand that your personal data will be processed as set out in our Privacy Policy.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=98c0e6f96eb911ec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/mobile-apps-ios-developer-at-betsson-group-4121128288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwcyAtIGlPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJCZXRzc29uIEdyb3VwIiwiYWRkcmVzc19jaXR5IjoiQXRoZW5zLCBHcmVlY2UiLCJodGlkb2NpZCI6Ikd6Nk9rOThJX2NDOWsyNmhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "iOS Developer (Hybrid or On-site)",
+            "company_name": "Viva.com",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=PxHXG1AznZ0-EWHqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7CbrcqGIbEQTRVagI0kFwLUk82pOYC3ex1P_wg6XLm17xmxUHau5wxgEDJxRYXr5O6Aks0MRSKeMKSriyA0UrvgeOUDN3AeenPuekR2NUQ9Vptpl85fltOKLj0bzY6USrvRVMwWZsd_vtWKXYrRcPGuy0gSLcrPBHaQO1IHr8A4j1CXGXAAAA&shmds=v1_AUFQtONkFBf4k3XbpsiDmi-OHzn9_iagIjkalq4PRkNDc5D-Cg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=PxHXG1AznZ0-EWHqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f536d92cc45e5aef83ac/images/fe078b60dbdefa94637d9eef34f2d22c5590ca5b5234863f9aadd5d85a4922e6.png",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Viva.com is Europe’s first acquirer powering merchant payments acceptance across 24 countries and 1.165+ devices. With an ECB approved banking license and presence in 24 European markets, Viva.com’s Tap on Any Device technology for in-store payments, Smart Checkout payment gateway for online payments, and marketplace payment solution, help European businesses of any size to accept and manage payments how they want. All of Viva.com’s technology is built in-house over MS Azure, and is fully scalable, supporting any payment checkout journey.\n\nViva.com provides a seamless, conversion-boosting omnichannel payments platform, featuring acceptance of 40+ payment methods across 17 languages and 9 currencies. Viva.com’s ever-expanding financial services' suite includes value added features such as Real-Time Settlement; Offline Payments minimising chances of losing a sale; a Viva.com business debit card to manage corporate expenses, while reducing acceptance fees to as low as 0%; and Merchant Advance.\n\nThe Team\nThe Mobile Apps team’s purpose is to keep Viva.com systems and apps for mobile devices healthy and secure, enhance the codebase with tools, libraries and tweaks that improve performance and increase productivity, providing competitive advantages to the platform, and offer a unique experience to our customers.\n\nThe Role\nAs an iOS Developer, you will be responsible for a multitude of projects and expected to be able to work independently, assist their teammates and mentor junior developers. You will also be expected to collaborate across multiple workstreams and roles like architects, product management leads and engineering leads across the Technology Group.\n\nResponsibilities\n• Design, build, test, and maintain efficient, reusable, and reliable code.\n• Be a team player. Offer your help, listen and seek to understand. Step up & take initiatives.\n• Research innovative technologies to find new and efficient ways to solve day-to-day challenges.\n\nTech stack\nWe develop our libraries and applications using native iOS tools written in Swift. We use GitHub for code versioning, and the Atlassian stack for tickets and documentation. We write extensive unit tests using XCTEst.\n\nTo be considered you should have:\n• Experience developing production-level mobile apps;\n• Knowledge of Swift, Xcode and iOS frameworks;\n• Good understanding in web service architectures; JSON and RESTful APIs;\n• Passion about mobile platforms and solid understanding of the full mobile development life cycle;\n• Experience in payments technologies, EFTPOS systems and standards, EMV will be a strong plus.\n\n💸 Competitive compensation package;\n\nAnnual bonus based on your performance and targets’ achievement;\n\n🏥Private health insurance for you and your family;\n\n💻Top of the Line tools and equipment;\n\n🏃🏽‍♂️Employee Wellness Program like Daily group sessions led by professional coaches;\n\n📚Career development and regular feedback to develop your skills.",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/viva/j/A0B521B704?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/ios-developer-hybrid-or-on-site-at-viva-com-4112645606?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=8278c6f637821812&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Newjobs",
+                    "link": "https://www.newjobs.gr/view/r5RJ7ARqnknD2cbmHKdhEx/hybrid-ios-developer-(id-1024)-in-athens-at-skroutz-s.a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIChIeWJyaWQgb3IgT24tc2l0ZSkiLCJjb21wYW55X25hbWUiOiJWaXZhLmNvbSIsImFkZHJlc3NfY2l0eSI6Ik1hcm91c2ksIEdyZWVjZSIsImh0aWRvY2lkIjoiUHhIWEcxQXpuWjAtRVdIcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSM0psWldObCJ9"
+        },
+        {
+            "title": "Senior iOS Developer (E-Wallet Product, Fully Remote)",
+            "company_name": "ManpowerGroup Greece",
+            "location": "Athens, Greece",
+            "via": "Jooble",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=HO9SqbUevzYWmMMbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3IvQrCMBQGUFz7CE53EpX-iOCik6AWRFHs4Chp_GgraW5IbrU-ly8ogssZTvQZRIcCtmFPzamgDZ4w7OBpvE2uyhgInT3fOy0x7Tpj3nRBy4IJJbTnkgKU1zWxpZy5MhiuahEXllkWgkmrIEoanWpuM7Youc8eXIYft1ArD2eU4DZfzPrU2Wo6Oirr-AWfe-4c5R7QoMbSWmrYEP_nC0vXBQO2AAAA&shmds=v1_AUFQtOMdInY7UZ2wQHsQ-0SyZ7CrQMyYKN1ovQf5mLSgY5s91Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HO9SqbUevzYWmMMbAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "• Do you have experience as an iOS Developer and would like to contribute to the development of innovative mobile wallet applications?\n• Would you be interested in joining a fully remote team in Greece, contributing to a product that focuses on secure digital identities and mobile driving licenses?\n\nManpowerGroup Greece, on behalf of its client, an International Technology Services Provider, with focus at offering ISO-compliant Mobile Driving Licenses, Mobile IDs and overall, Wallet Apps, is looking for a Senior iOS Developer to join their Product Team.\n\n📌 Location: Athens Greece\n\n📍 Working Model: Fully Remote (you need to be based in Greece and holder of a valid EU Work Permit)\n\n🖋️ You will be reporting to: CTO\n\nWhat you will do:\n\nAs a Senior iOS Developer for an innovative E-Wallet product, you will play a crucial role in the design and development of secure mobile wallet applications. Working remotely, you will collaborate with a dedicated team in Greece to enhance features that focus on secure digital identities and mobile driving licenses. Your expertise in iOS development will contribute to creating cutting-edge solutions for ISO-compliant Mobile Driving Licenses, Mobile IDs, and comprehensive Wallet Apps.\n\nYour main responsibilities will be:\n• Designing and building advanced applications for the iOS platform\n• Collaborating with cross-functional teams to define, design, and ship new features\n• Mentoring junior developers, leading by example in terms of code quality and engineering best practices\n• Conducting thorough unit and UI tests to identify malfunctions, ensuring robustness and reliability\n• Staying up-to-date with new technology trends, applications, and protocols within the mobile landscape, especially regarding Android development\n• Evaluating and implementing new technologies to maximize development efficiency\n\nRequirements\n• Bachelor's degree in Computer Science, Software Engineering, or a related field\n• 6+ years experience as an iOS Developer with a focus on delivering high-quality applications\n• Proficiency in Swift and familiarity with Objective-C\n• Strong knowledge of iOS frameworks such as Core Data, Core Animation, Core Graphics, and Core Text\n• Experience with RESTful APIs to connect iOS applications to back-end services\n• Familiarity with iOS design principles, patterns, and best practices\n• Solid understanding of mobile app security principles\n• Experience with version control systems, particularly Git\n• Excellent problem-solving skills and a proactive mindset\n• Strong communication and collaboration skills\n\nBenefits\n• An attractive compensation package\n• To be employed as Contractor (preferably for a long-term commitment) - or as an employee\n• Home Office Allowance of €1,000\n• A MacBook and work screen provided for your convenience\n• A friendly and collaborative working environment\n• Opportunities for professional development and career advancement\n\nRecruitment Process:\n• If you’re interested in this role, feel free to apply directly. Our consultants will contact the candidates who meet the profile’s requirements to arrange an interview.\n• As for the next step, there will be 2 more interview round with the Hiring Manager\n\nYou can always check all our IT/Technology Roles here: IT Jobs | ManpowerGroup Greece - (manpowergreece.gr)\n\n#Empoweringtalent #WebelieveinTalent #ManpowerGroupGreece",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/-3476440434222804488?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoRS1XYWxsZXQgUHJvZHVjdCwgRnVsbHkgUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik1hbnBvd2VyR3JvdXAgR3JlZWNlIiwiYWRkcmVzc19jaXR5IjoiQXRoZW5zLCBHcmVlY2UiLCJodGlkb2NpZCI6IkhPOVNxYlVldnpZV21NTWJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "IOS DEVELOPER FRESHER/EXPERIENCED",
+            "company_name": "KeyLogic Infotech",
+            "location": "Chora, Greece",
+            "via": "Indeed",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=Lg5BijxpGTuC9Ov7AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE6Ho2gjgiA6tmetFpUWxK2k4UwqNVeSDPVZfFnr8sO3_NF3Em3zawUp3rG43rCEQ4nVEUuBj1E5XhJMYQknbsCTdMoAW8iYdUfTvQmh9zshvO9i7YMMrYoVvwVbangQL278P7U30lHfyUD1erMa4t7q-exMn4J1qyC3Tw40nlsLiWEnF5A5IkU_vbTZs54AAAA&shmds=v1_AUFQtOPX2J5hepydEvS3JlEZwHHqJSolwX-z8fvEhYjuUSSl5g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Lg5BijxpGTuC9Ov7AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f536d92cc45e5aef83ac/images/fe078b60dbdefa94e30b085596eb55456259067266e96ff4e4ca9ede3df3388c.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "We are looking to hire a talented iOS developer to design, build, and maintain the next generation of iOS applications. Your primary focus will be developing high-end iOS applications for the latest Apple mobile devices. Your duties may include collaborating with the design team for new application features, identifying and fixing application bottlenecks, maintaining the core code, and updating applications published on the App Store.\n\nResponsibilities:\n• Designing and building mobile applications for Apple’s iOS platform.\n• Collaborating with the design team to define app features.\n• Ensuring quality and performance of the application to specifications.\n• Identifying potential problems and resolving application bottlenecks.\n• Fixing application bugs before the final release.\n• Publishing application on App Store.\n• Maintaining the code and atomisation of the application.\n• Designing and implementing application updates.\n\nRequirements:\n• Bachelor’s degree in computer science or software engineering.\n• Proven experience as an app developer.\n• Proficient in Objective-C, Swift, and Cocoa Touch.\n• Extensive experience with iOS Frameworks such as Core Data and Core Animation.\n• Knowledge of iOS back-end services.\n• Knowledge of Apple’s design principles and application interface guidelines.\n• Proficient in code versioning tools including Mercurial, Git, and SVN.\n• Knowledge of C-based libraries.\n• Familiarity with push notifications, APIs, and cloud messaging.\n• Experience with continuous integration.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=f9681009d8c0ef14&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgREVWRUxPUEVSIEZSRVNIRVIvRVhQRVJJRU5DRUQiLCJjb21wYW55X25hbWUiOiJLZXlMb2dpYyBJbmZvdGVjaCIsImFkZHJlc3NfY2l0eSI6IkNob3JhLCBHcmVlY2UiLCJodGlkb2NpZCI6IkxnNUJpanhwR1R1QzlPdjdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "Senior iOS Engineer",
+            "company_name": "Plum",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=w6-Njs3noLiA3aZoAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAGYFz7AA5ONxdNRHDRyUEKLgp9gJKGnySS3oVchK6-ufgNX_fddP0ITlIpPUe6c0gMVDrQQ2ZSuOojCdMgEjJ219ha0Yu1qtkEba4lb7wsVhizrPYts_6bNLqKkl3DdDofV1M49NtX_iyUmG4tgnVPQwU8fmnQV6aEAAAA&shmds=v1_AUFQtOMYZkbQfAdQvA34UfI0_Q26Zvc3qaUNlVusXoGIdGVdfA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=w6-Njs3noLiA3aZoAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f536d92cc45e5aef83ac/images/fe078b60dbdefa94e53a8701d7236e5b425be3a6f909fc766a82b6a09618864e.jpeg",
+            "extensions": [
+                "£3,840–£19,200 a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "£3,840–£19,200 a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Greece\n\nAt Plum, we're on a mission to maximise wealth for all. We’re making saving money effortless and turning investing into something everyone can do\n\nOur journey began back in 2017, when we became one of the first to use artificial intelligence and automation to simplify personal finance. Fast forward to today, and we've already helped people save £2 billion across 10 European markets.\n\nNamed the UK's fastest-growing fintech in the Deloitte Technology Fast 50, our success is down to the passion and dedication of our diverse team. Based in our London, Athens and Nicosia offices, 180 talented people work together to empower people to do more with their money. And now, the team is growing!\n\nThe Role\n\nWe’re looking for a user-focused Senior iOS Engineer to join our engineering team. Plum has been featured multiple times by Apple, has been named App of the Day and currently rated 4.7 stars with over 59,000 ratings. You'll be building Plum on iOS from its early days, giving our current and prospective customers a more intimate way to interact with their money.\n\nOur Engineering Approach\n\nWe value good engineering principles, imagination, quirkiness and healthy curiosity. We take a conservative approach to using external frameworks and we aspire to write simple, well-tested code, delivered in rapid iterations.\n\nHow We Work\n\nWe work in \"squads\" – a more startup-appropriate name for saying small, cross-functional teams. Each squad has a mission and a set of KPIs to monitor and improve. As an engineer you'll be working in a squad, but you can also reach out to and work with anyone in the company. You will also be a part of a Mobile engineering team, consisting of Mobile Product Engineers who share the same vision and passion of building an exceptional mobile team that will help people be financially better off.\n\nWhat we look for\n\nTechnical knowledge is critical but we are a startup treading in uncharted territory so attitude is even more important. We're looking for people that like uncertainty and want to figure out how to do things that haven’t been done before. You're a true team player and inherently positive. Where others see problems, you see solutions.\n• You have a strong understanding of the iOS SDK and its frameworks\n• You’re well versed in Swift and stay up-to-date with the latest changes\n• You’re proficient in writing robust, testable code with a comprehensive understanding of the testing pyramid\n• You have extensive experience in shipping and iterating upon apps in the App Store\n• You’re not afraid to take ownership and collaborate effectively with cross-functional teams, including designers, product managers and other engineers.\n• You’ve mentored junior engineers helping them enhance their skills and grow professionally\n• You’re a product person too — you understand the value and impact of your work\n• You go the extra mile to add the awesome sprinkles\n\nFist-bumps if you have 👊\n• Experience in continuous integration setup and automation\n• Taken part in open-source projects\n• Experience with backend technologies\n• Experience with The Composable Architecture and SwiftUI\n• Experience with Combine and async/await\n• Experience with E2E testing\n\nWhat to Expect from Our Hiring Process\n\nAt Plum, we value a lot the time you devote to the hiring process, this is why we are always trying to make the process as fast and smooth as possible.\n• 30 min. Call with our Talent Acquisition Team. So we understand better your career plan, tell you more about Plum and the role. ⚙️\n• 45 min. Call with our Engineering Lead. Brief technical discussion about the role and your skills. 🏄\n• Task. You will be given a task for us to better to understand your skills. No hard deadlines! 🕹️\n• Team Interviews\na. Call with two people from our iOS team. We'll go over the task and introduce you to your future colleagues and to get a glimpse of Plum's culture. 🧬\nb.Call with a Product and Engineering Manager for you to understand the business and envision yourself as part of Plum.\n• Offer 💸\n\nPlum's Perks\n• We're all in this together! Own part of the company through stock options 💷\n• Annual training budget\n• Private Health & Life Insurance\n• Free Plum Premium subscription (normally £9.99 a month).\n• Free parking slots\n• Flexible approach to remote working, though we encourage at least 2-3 days a week in our beautiful office in Athens for optimal collaboration\n• 25 days holiday a year, excluding public holidays (34 in total)\n• Employee referral scheme up to €4000\n• 45 days work from anywhere\n• Team breakfast on Tuesdays and team lunch on Thursdays in the office, as well as a plentiful supply of fruit, snacks and coffee\n• 1 day paid leave for volunteering, supporting you giving back to society\n• 2 weeks paid sabbatical after four years of service\n• Team trip to secret destinations once a year ✈️\n• Great office location in the heart of Athens (Syntagma square), with an amazing view!\n• A vibe that’s 🦄🌈💯\n\nIf you think this sounds like a bit of you then don’t hesitate to get in touch!\n\nThanks,\nPlum Τeam 💜\n• Plum is an Equal Opportunity Employer. Plum does not discriminate on the basis of race, religion, sex, gender identity, sexual orientation, non-disqualifying physical or mental disability, national origin or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit and business need.\n\nThis offer from \"Plum\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/662a4d20296907ec10ff7c8e-senior-ios-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Newjobs",
+                    "link": "https://www.newjobs.gr/view/7SmEGZi9HsSPhPDE7gAosC/hybrid-senior-ios-engineer-in-athens-at-plum-fintech?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiUGx1bSIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJ3Ni1OanMzbm9MaUEzYVpvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "IOS Developer - Hybrid Athens",
+            "company_name": "DT-tech",
+            "location": "Athens, Greece",
+            "via": "Indeed",
+            "share_link": "https://www.google.gr/search?ibp=htl;jobs&q=iOS+developer&htidocid=vJyylb5MZ2Jh8C_qAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2NsQrCMBBAce0f6HSz2EREFzsJhaqLg-4liUdSibmQO6T-hN9sBZcHb3mv-syq7elyhRZfGCljgRqOb1uGOxwkYOLJz2SB0RQXgBJ0RD7iogkimfdaM0flWYwMTjl6akpoadQPsvxDz8EUzNEI9pvdelQ5-eW8vdWCU29I_80KuoLo8AtqaXLJkQAAAA&shmds=v1_AUFQtONkhmj84DcjDP9n8AgUJHLVB8IGLqcxMwv5XR14SFOiyQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=vJyylb5MZ2Jh8C_qAAAAAA%3D%3D",
+            "extensions": [
+                "14 days ago",
+                "€1.4K–€2.5K a month",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "14 days ago",
+                "salary": "€1.4K–€2.5K a month",
+                "schedule_type": "Full-time"
+            },
+            "description": "IOS Developer- Hybrid Athens\n\nWe challenge and innovate to connect people, businesses, and\n\ncommunities across the world. Delighting our customers and earning their\n\nloyalty drive us, and we experiment, learn fast and get it done, together.\n\nWith us, you can truly be yourself and belong, share inspiration, embrace\n\nnew opportunities, thrive, and make a real difference.\n\nWe are seeking a talented IOS developer to join our growing team.\n\nEducation, Training, and Experience\n• University or College Degree in Computer Science, Software Engineering or relevant technology-related field\n• At least three (3) years of working experience in a similar position\n• Proven experience in Swift, SwiftUI and iOS SDK\n• Familiarity with the development of different form factors (tablets, phones), iOS versions\n• Understanding of Apple’s design principles and interface guidelines, as well as of AppStore publish process\n• Good experience in Design Patterns like MVC, MVVM, etc.\n• Experience with iOS frameworks such as Core Location, Core Animation, Realm etc.\n• Memory Management understanding\n• Familiarity with RESTful APIs to connect iOS applications to back-end services\n• Proven ability to ship apps throughout their lifecycle.\n• Familiarity in using version control software such as Git\n• A plus will be to have knowledge of the gambling industry (any of the Lottery, Casino, Sportsbook)\n• Excellent command of the Greek & English language, both written and spoken\n• Completed military obligations for male candidates\n\nDuties and Responsibilities\n• In charge of various technical issues, like coding of modules using provided specifications, debugging and fixing defects that may come up\n• Responsible to ensure that our applications are properly integrated with various APIs and interfacing with a variety of related systems\n• Handle data and web service, including JSON, REST and Sockets\n\nWhat's in it for you:\n• Competitive pay, remuneration package\n• Hybrid role\n• Access to learning resources and trainings.\n• Special employee offers and discounts.\n\nΕίδος Εργασίας: Πλήρης απασχόληση\n\nΑμοιβή: 1.400,00€ - 2.500,00€ ανά μήνα",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=53480f860a1f98dc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIC0gSHlicmlkIEF0aGVucyIsImNvbXBhbnlfbmFtZSI6IkRULXRlY2giLCJhZGRyZXNzX2NpdHkiOiJBdGhlbnMsIEdyZWVjZSIsImh0aWRvY2lkIjoidkp5eWxiNU1aMkpoOENfcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSM0psWldObCJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVGx0VDFaS1ZISTRSRUZaUVZCQ1IxbHNkSEpuVXpGRWRYWmhUR0Z1Ykd0aVdFdHRaemRYTUdGRGVscGlka2RhYzI1QlVVWk1RVTVrTkdsbFkxZGhSbFJGTVhsTGJGTjBNRXhXZFZrMlkyTnJaVlo1TlRWVmFVNUNSMll0VFZOT1pXb3lNbXgwVTBkMlprNW1aa3h4ZUZGTE1XbDRkWGRqWjAwdFdFNWFSVlZLYVhoUk9GbzJZa1ExTjBkc1FXWkpXRXRoWjFsak5VZzVkR2g2VUVzemJrRjFRMmxIZW5Ob1JWZHhNME0xWjJsNFFXNTZVWGQ1UkUxaE0yTTFVVXBwYURCMllXdDFOa1YzVGpseU5IQXRlV0o0ZEdoNVFXUndTV1o1ZDB3emVDMDRZV1JyWWtneVREZGxXRFpQVVd4dGMwWmlNRFU1UWkxUFYySm5VSEV6TVd0bVQyNWhReElYVG5aWFJWbzFkbUpKV1dFNU1GQkZVSEpKYm1vdFFVMGFJa0ZHV0hKRlkzRkROelpPVjJoNlFqUnVXbUpwU25sUFQzaHRWamRpYVY5T1RtYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.gr&location=Greece&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVGx0VDFaS1ZISTRSRUZaUVZCQ1IxbHNkSEpuVXpGRWRYWmhUR0Z1Ykd0aVdFdHRaemRYTUdGRGVscGlka2RhYzI1QlVVWk1RVTVrTkdsbFkxZGhSbFJGTVhsTGJGTjBNRXhXZFZrMlkyTnJaVlo1TlRWVmFVNUNSMll0VFZOT1pXb3lNbXgwVTBkMlprNW1aa3h4ZUZGTE1XbDRkWGRqWjAwdFdFNWFSVlZLYVhoUk9GbzJZa1ExTjBkc1FXWkpXRXRoWjFsak5VZzVkR2g2VUVzemJrRjFRMmxIZW5Ob1JWZHhNME0xWjJsNFFXNTZVWGQ1UkUxaE0yTTFVVXBwYURCMllXdDFOa1YzVGpseU5IQXRlV0o0ZEdoNVFXUndTV1o1ZDB3emVDMDRZV1JyWWtneVREZGxXRFpQVVd4dGMwWmlNRFU1UWkxUFYySm5VSEV6TVd0bVQyNWhReElYVG5aWFJWbzFkbUpKV1dFNU1GQkZVSEpKYm1vdFFVMGFJa0ZHV0hKRlkzRkROelpPVjJoNlFqUnVXbUpwU25sUFQzaHRWamRpYVY5T1RtYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

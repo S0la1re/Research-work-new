@@ -1,0 +1,437 @@
+{
+    "search_metadata": {
+        "id": "6784f52a01b5f7bda18d40ef",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2f9b2df74b73bbf0/6784f52a01b5f7bda18d40ef.json",
+        "created_at": "2025-01-13 11:12:42 UTC",
+        "processed_at": "2025-01-13 11:12:42 UTC",
+        "google_jobs_url": "https://www.google.hr/search?q=iOS+developer&uule=w+CAIQICIHQ3JvYXRpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/2f9b2df74b73bbf0/6784f52a01b5f7bda18d40ef.html",
+        "total_time_taken": 2.29
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Croatia",
+        "location_used": "Croatia",
+        "google_domain": "google.hr"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.hr/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwiF54WwyPKKAxVtHUQIHTAkDr4QxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Repsly",
+            "location": "Zagreb, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=oS6Io0SOAbRqrRjrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMOwoCMRAAUGz3BlpN7ScRwUZLBcFGcDubZRKGJEvMhJkg6wG8t9q88nWfWbfqqSQWSLcezvSizJUENnBlB0ooPgIXuDCHTItjbK3qwVrVbII2bMkbz0_LhRxPdmSnfwaNKFQzNhp2--1kagnL-Z2q5jekAg8MQm4NJ-FfgV-gm3TxiAAAAA&shmds=v1_AUFQtOOKyfJg4qjpuw2GDhnQgnoThzzfIUw_P2oY27jMFbb70w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=oS6Io0SOAbRqrRjrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9f3bd83f5f98b2b8757343338957a8066682bb73491cd11b46.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Repsly\n\nRepsly is a global SaaS vendor for retail execution. Our product is used by over 800 CPG and Retail Service companies around the world, built to help field teams achieve top-notch execution in retail sales, merchandising, and promotion plans. Our customers are some of the most exciting and innovative brands and retail service organizations across the world, including Kraft-Heinz, Dyson, Keurig Dr. Pepper, Fenty Beauty, Nutrabolt, Anheuser-Busch, Core-Mark, and Crossmark, to name a few.\n\nOur headquarters are in Zagreb (Croatia) & Boston (USA), with partners worldwide.\n\nIf you are seeking an opportunity to combine your skills, passion, and positive energy to play a meaningful part in the growth of a world-class global SaaS company, then join our team.\n\nJob description\n\nAs an iOS Developer, you will have the opportunity to collaborate as a member of one of our international cross-functional product teams and engage with a complex product that challenges your technical and organizational skills, fostering personal growth. Responsibilities include refining feature requirements architecture, implementing, deploying, and tracking their usage and impact on the system.\n\nAt Repsly, we place a strong emphasis on ownership and engagement. We utilize Scrum to effectively organize and enhance our processes, alongside OKRs to ensure alignment across the company at all levels.\n\nOur stack\n\nOur iOS mobile application was rewritten in 2022 from the ground up in UIKit on MVVM architecture using CoreData and Swift Package Manager with robustness and high usage integrated into the codebase. As a consequence, there is no legacy code that requires maintenance. As our users need to work in areas with low connectivity, we support offline mode. This means all user inputs are stored locally and synced with the system when possible.\n\nWe use pull requests with SonarCloud feedback to improve the code before we deploy it to testing using Bitrise. CI/CD makes testing and releasing the app as simple as possible.\n\nWe utilize feature flags to decrease the risk of introducing breaking changes. A suite of E2E tests helps us check that the latest changes haven’t broken any core functionality. Incremental releases give us time to fix any issues that come up. All of this allows us to seamlessly make changes, move faster, and keep our stack up-to-date with the latest version. So far, it has paid off as we have 99% crash-free users with weekly deployments and great user feedback. We are still trying to improve by reviewing the latest technologies and seeing what can help us move one step further.\n\nIf you join our team you will\n• Work closely with the team to shape the evolution of our SaaS product\n• Implement new features using Swift and UIKit\n• Implement feature flags using LaunchDarkly to enable controlled and seamless deployment of changes\n• Help us improve test coverage\n• Seek feedback from SonarQube and fellow team members through the pull request process, fostering a culture of collaboration and continuous improvement\n• Write risk analysis on system changes, empowering our QA team to better understand the impact and test accordingly\n• Utilize our streamlined CI/CD pipeline to quickly test and deploy the application\n• Monitor system performance and health using Firebase Crashlytics and Analytics to proactively identify any issues.\n\nRequired skills\n• Extensive knowledge of Swift programming language\n• Extensive knowledge of MVC and MVVM architecture\n• Extensive knowledge of UIKit, Core Data, Combine\n• Understanding of Apple’s design principles and interface guidelines\n• Experience in writing unit tests and familiarity with other testing levels (integration tests, UI tests)\n• Experience in Agile software development\n• Excellent English spoken and written\n• Strong communication skills, proactive engagement for long-term goals and full ownership over deliveries\n• 6+ years of experience in software development using Swift, REST services, SQLite and Core Data with strong knowledge of unit and integration testing frameworks\n\nPreferred skills\n• Experience with SwiftUI\n• Experienced in designing iOS applications, setting coding rules and leading the solution to be scalable, highly performant and aligned with Repsly coding standards\n• Experience with offline storage, threading, and performance tuning\n• Experienced in software quality assurance principles and DevOps\n• Worked in team using Agile development methodologies including Scrum\n• Experience with REST APIs\n• Experience with Core data or Combine\n\nWe are offering\n• Continuous education and professional development\n• Choose your location, work remotely or in the office\n• Enjoy a pet-friendly working atmosphere\n• Company events and team buildings\n• A culture that is not afraid to try, fail and learn from mistakes",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/senior-ios-developer-at-repsly-4121169870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJlcHNseSIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoib1M2SW8wU09BYlJxclJqckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "iOS Software Engineer",
+            "company_name": "Sofascore",
+            "location": "Zagreb, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=U5_KbOA2sl_iEk-GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7COJws9REBBcdRQQXh24u5RLONCXehVzAvoJvbVz-8fu776rr42OAQV71g4XgyiEyUYEd3MWBEhY_gTDcREKi9XmqNevJWtVkglas0RsvbytMThY7i9N_Rp0alxNWGg_H_WIyh-2mbVC9tE9keGIo5Hq4FGkK_gDJalNLjAAAAA&shmds=v1_AUFQtOOP39r8y36ETDl2Iok8dq7VMECvwAMpl8w0JSe2jiHg0A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=U5_KbOA2sl_iEk-GAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9f3174da7a6f783f1e9371bb52c998042751a83e3317f17b6d.png",
+            "extensions": [
+                "21 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Place of work: Zagreb Office\n\nABOUT SOFASCORE\n\nSofascore is a leading provider of advanced sports insights and the benchmark for fastest live scores. Some tell stories with words, and we tell ours with numbers.\n\nWe developed a mobile app and a website that covers over 20,000 tournaments in 25 sports in 40+ languages. Our goal is to give sports fans superior insights about their favorite player, club, league, or competition.\n\nThe info we provide — whether it's results, stats, or data, is delivered as it unfolds, so you never miss a beat. It's your seat at the world's biggest stadium. 🏟️\n\nSofascore team counts more than 300 experts, primarily in our homecourt in Croatia but also worldwide. 🇭🇷 🌐\n\nABOUT THE ROLE\n\nOur app is rated 4.9 on the App Store, which is the bar we're all aiming for. We're constantly on the lookout for innovation and improvements, as well as developing our existing products. Our iOS team is one of the teams that make our product visible and usable for 25 million monthly active users worldwide.\n\nWe're looking for an iOS Software Engineer, who would participate in the maintenance and development of the application with their ideas. Join us and be a part of this extraordinary digital journey!\n\nYour tasks and responsibilities\n• Participating in the maintenance of the existing features and the development of new ones\n• Sharing ideas about application features\n• Keeping in touch with the latest iOS & Swift upgrades that can be used in the application\n• Having the opportunity to be a mentor and to participate in colleagues' onboarding process\n\nWhat you bring to the team\n• 2+ years of experience in Swift\n• Results-oriented and high-quality work\n• Willingness to openly share knowledge and opinions with teammates\n• Quick code reviews without compromising quality\n\nWhat we use\n• Swift 5 - the standard foundation on which the best iOS applications are built\n• UIKit & SwiftUI\n• MVVM and Combine - currently in the process of moving from MVC to MVVM with Combine\n• CocoaPods & SPM - dependency management\n• SnapKit\n• Alamofire - the best networking library available; with async/await paradigm\n• Firebase - analytics, remote config, crashlytics, performance\n• SQLite, CoreData - database\n• GitHub Actions - CI/CD for seamless integration with our QA and easy release process\n\nWhat we offer\n• Competitive salary range\n• Possibility of equity options\n• Flexible working hours\n• Family benefits package\n• Education - internal and through international conferences and workshops\n• Top quality equipment (MacBook Pro, budget for mobile phone)\n• Paid package of general physical examination once a year\n• 10% of your weekly time to work on anything you want\n• Sofascore Canteen (lunch options)\n• Sofascore Bar (coffee and drinks on us)\n• Numerous other benefits that we would verbally communicate to you\n\nSounds good? It gets even better!\n\nSend us your CV in English or Croatian\n\nLooking forward to hearing from you. Let’s get the ball rolling! 🔥",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/ios-software-engineer-at-sofascore-4108479355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU29mdHdhcmUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJTb2Zhc2NvcmUiLCJhZGRyZXNzX2NpdHkiOiJaYWdyZWIsIENyb2F0aWEiLCJodGlkb2NpZCI6IlU1X0tiT0Eyc2xfaUVrLUdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNKdllYUnBZUSJ9"
+        },
+        {
+            "title": "Senior iOS Developer (Remote)",
+            "company_name": "Neybox Digital",
+            "location": "Anywhere",
+            "via": "Wellfound",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCQAwAUFz7CU4Zq2ArootuUlAcFOwHlLSGa-SaHJejVP_Ff1WXN73sM8u2NQlrBL7VUNFIXgNFyO80aKIFrOCiLRhh7HpQgZOq8zQ_9CkF25elmS-cJUzcFZ0OpQq1OpVPbe1PYz1GCh4TNZvdeiqCuGV-pdcvQcWOE3pggaOaMALKA84U3-R0ZMEvtSM806AAAAA&shmds=v1_AUFQtOMqTZT54iHfAVgv6nKLmp74Y0A4TXydQqFj50Vh70RK_g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9f6b0697a85518cb3f87ed9b6b9216b127b2a272ab3ee51d65.jpeg",
+            "extensions": [
+                "24 days ago",
+                "80K–120K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "80K–120K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 What's the position?\n\nThis is a Full-time Senior iOS Developer position at Neybox for talented individuals who want to work on cutting-edge applications that positively impact the well-being of individuals worldwide.\n\n💫 What will I be working on?\n\nYou'll be working on our two apps: Pillow, a sleep-tracking app, and Today, which is a quantified-self wellness app.\n\nBoth apps have won an Editors' Choice distinction and have been featured multiple times in press and media. They have millions of users worldwide and a great roadmap ahead.\n\n🧑‍💻 What will be my role and responsibilities?\n\nAs a senior developer you will be responsible for\n• Building new features\n• Fixing bugs\n• Maintaining the existing codebase\n• Writting Unit Tests for existing and new features\n• Making sure the documentation of the project is accurate and helpful\n• Doing research on new technologies and frameworks\n• ⚠️This is a position that requires a commitment of 40 hours per week. This is not a part-time position.\n\n🛠️ What's the tech stack?\n\nIn a nutshell:\n\nBoth our apps are written in Swift (MVVM and MVC).\n\nThe UI is written in SwiftUI and UIKit.\n\nWe write Unit Tests; the code is clean and well-documented.\n\nWe make extensive use of various frameworks and machine learning.\n\nBoth apps are available for iOS only.\n\n🌍 Can I work remotely?\n\nOf course! Our team is 100% remote. We have flexible working hours, but a good overlap between our time zones is required.\n\n🙌 What is it like working at Neybox?\n\nOur team is small by design (6-8 people). However, we work closely together every day (Mon-Fri). For coordination, we use Slack and Jira and keep meetings at a minimum.\n\nThere's no middle management to get in the way, and we encourage new ideas and close collaboration.\n\n💼 What are the requirements?\n• 4+ years of iOS development experience in Swift\n• Experience in HealthKit, CoreML SwiftUI, UIKit, Core Animation, GCD, Core Data, and WatchKit.\n• Experience working with Git version control, Unit testing, and Continuous Integration\n• Experience in performance profiling with Instruments on Xcode.\n• Proficient use of English, both writing and speaking.\n• Willingness to learn and experiment with new technologies.\n• References from previous employers in written or spoken form may be required from previous employers.\n• Proficient in usage of MacOS and iOS.\n\n📥 Great! How can I apply?\n\nJust hit \"Apply\" button below!\n\n⚠️ Please note that this is the only acceptable way to apply. All other ways of contacting Neybox about the position (social media, LinkedIn, email etc.), will result in immediate rejection.",
+            "apply_options": [
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/2604342-senior-ios-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/-6598440506116100990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pangian",
+                    "link": "https://pangian.com/job/senior-wordpress-developer-remote-65/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik5leWJveCBEaWdpdGFsIiwiYWRkcmVzc19jaXR5IjoiQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYSIsImh0aWRvY2lkIjoiRTJTQ3JmOVpxTVhnVG42QUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "iOS Developer (Mid/Senior), Full-time employment/Freelance",
+            "company_name": "KNIGHTX Ltd.",
+            "location": "Croatia",
+            "via": "Jooble",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=FqT7nQbFuKiOADsMAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvQrCMBAAYFz7AoLTjSo2EcFFR6X1X6QObiVtjzaS5EJyij6Sb6ku3_gln15y0ecC1vhEQx4DDI-6kQU6TWE0gexhTMraIqD1ht4WHcssIBrlaoQUdlRBRBXqDshBTtQaHCw7Zh8XUsZoRBtZsa5FTVaSw4pe8k5V_FPGTgX0RjGWs_n0Jbxrx_39aZtvrjc4cCNAO1gF-gXqC7WNTdWsAAAA&shmds=v1_AUFQtOOdAaef6tWSJOJwISwxZevTqJv9ES6x1INcr39r0JSe1w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=FqT7nQbFuKiOADsMAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an iOS Developer!\n\nThis position opens up an opportunity for a skilled and experienced iOS developer to work on our existing e-commerce projects and participate in developing new ones.\n\nMATCHING SKILLSET FOR THIS POSITION:\n• Knowledge of Swift\n• Knowledge of application architecture (MVVM)\n• Knowledge of UIKit framework - writing UI layer trough code\n• Knowledge of reactive programming (RxSwift or Combine)\n• Knowledge of libraries used in iOS development (UIKit, Alamofire)\n• Understanding of object-oriented programming\n• Knowledge of GIT\n• Proficiency in English (in speech and writing).\n\nADVANTAGES:\n• Knowledge of Objective-C\n• Knowledge of application architecture (MVP, MVC, MVI)\n• Knowledge of other libraries used in iOS development ( Realm, SwiftUI)\n• Implementation of CI/CD for mobile applications\n• Basic knowledge of Android/Google stack\n• Experience with Jira, Figma\n• Finished courses, certificates, and workshops in the field of work.\n\nCORE JOB PURPOSE:\n\nDevelopment and maintenance of iOS mobile applications in accordance with the project plan and guidelines of your Team Lead.\n\nYOU WILL BE RESPONSIBLE FOR:\n• Development of iOS mobile applications following agreed standards\n• Functionality of the logic and operations of the software solution\n• Solving the assigned tasks in the agreed time frame.\n\nYOUR MAIN TASKS & DUTIES:\n• Development of software solution, verification, and preparation of supporting documentation through appropriate software\n• Documenting the execution of tasks and entering working hours into the appropriate software\n• Communication with testers related to the created software solution\n• Participation in project meetings (daily meetings, reviewspective...)\n• Coordination of work and status of tasks according to the project plan with the Team Lead, the responsible Project Manager and Product Owner, and other development teams (Android, Web).\n\nCOMPENSATION:\n• 2.000,00 - 3.200,00 EUR gross one salary (depending on the level of experience and skill set)\n• Additional 66,00 - 100,00 EUR net monthly salary supplements\n• Monthly flexi perk (by own choice) worth 66,00 EUR.\n\nFor us, it's important that you're great at what you do, but also, it's essential that we make a perfect fit. Every KNIGHTX team member should strive for:\n• Big picture & critical thinking\n• Effective communication\n• Team player attitude\n• Professional work approach\n• Efficiency\n• Striving for innovation\n• Quality assurance\n• Customer-oriented mindset\n\nThis position is open until we find a match for it.\n\nFill out the application form, and our HR will get back to you shortly, informing you about possible opportunities.\n\nEven if you do not meet all the criteria for this position, feel free to apply or fill out the Open Job Application.\n\nFor any further questions, find us anytime at Pogledajte adresu e-pošte na knightx.talentlyft.com .",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://hr.jooble.org/jdp/-2573705714659870225?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIChNaWQvU2VuaW9yKSwgRnVsbC10aW1lIGVtcGxveW1lbnQvRnJlZWxhbmNlIiwiY29tcGFueV9uYW1lIjoiS05JR0hUWCBMdGQuIiwiYWRkcmVzc19jaXR5IjoiQ3JvYXRpYSIsImh0aWRvY2lkIjoiRnFUN25RYkZ1S2lPQURzTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "iOS TV Application Developer",
+            "company_name": "RT-RK",
+            "location": "Osijek, Croatia",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=stxlnouo_i3QkyJcAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBQAce0XiNObxSaiuNhJFAQdCrW4ljQ8ktSYF_KC9CP8aONyy3FXfRfV3rUP6J9witE7rbKjABf8oKeICWq40QiMKmkLxVyJjMdVY3OOfJSS2QvDuWRaaHpLCjjSLCca-Y-BrUoYvco47A7bWcRg1suur7s7uAAtuwlfGzgnKgf1A6KZc76PAAAA&shmds=v1_AUFQtOPQYcDHpPKIzUcdSYfSjocbPXE-AvJ0NBuvTbbyKsH1lw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=stxlnouo_i3QkyJcAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9fb6950490b7741747aa4f8f6e62c9500a8ca42f6e2c8f628c.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Osijek\n\nYour Role Would Include\n• Technical lead on the development and maintenance of the TV UX for major European telecom operator on iOS, iPadOS, and Apple TV or other Apple’s platforms\n• Advanced design and implementation in Clean Architecture, using the VIP design pattern\n• Supervision and mentoring of less experienced developers\n• Active participation in architectural and technological decisions\n• Ensuring code quality: review, unit testing, and continuous integration\n• Contributing to performance evaluations and optimization proposals\n\nRequirements\n• University degree in computer technology or computer science\n• 5+ years of experience in iOS development\n• Advanced proficiency in Swift and SwiftUI\n• Expertise in Clean Architecture (SOLID principles – naming and usages)\n• Expertise in writing and executing unit tests\n• Ability to share your knowledge and supervise other developers\n• Autonomous, capable of taking initiatives and quickly adapting\n• Good knowledge of English language\n\nPreferred Skills And Knowledge\n• Proven experience with video players\n• Use of the VIP design pattern\n• Knowledge and practical experience with the Apple TV environment\n\nWhy You Will Love Working Here\n• Always growing: We invest in your growth by providing opportunities for continuous learning and professional development – technical and soft skills trainings, English language courses, e-learning, library with a significant collection of professional literature\n• Feel Good, Work Better: We prioritize your well-being by providing private health insurance coverage (supplementary and additional health insurance) and medical health check-ups\n• Your Time, Your Way: Enjoy a work-life balance with full remote and flexible working hours to meet your personal and professional needs (start any time from 8-11 AM)\n• Mix it up: Embrace flexibility with our hybrid working model, offering a blend of in-office and remote work options\n• Global Adventures: Enjoy the chance to travel and work abroad, gaining exposure to diverse cultures and perspectives\n\nIn RT-RK We Value\n• Expertise: At the core of our identity is expertise. It's not just a buzzword; it's the foundation of how we operate. We're committed to consistently exceeding expectations and delivering top-notch quality in every facet of our work.\n• Dedication: When we say dedication, we mean it. It's woven into the fabric of every project we take on. Our team goes the extra mile, driven by a shared passion that fuels our collective effort to innovate, learn, and achieve exceptional results.\n• Lifelong Learning: We've been in the business of shaping engineers for over 30 years. Join us, and let's continue this tradition of lifelong learning together.\n\nWhat are the next steps?\n• Expect an email confirming we got your application\n• HR interview via MS teams - usually lasts up to 40 minutes\n• Technical interview with Lead Programmers - make sure to leave your calendar free for 40-50 minutes",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/ios-tv-application-developer-at-rt-rk-4095606667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgVFYgQXBwbGljYXRpb24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUlQtUksiLCJhZGRyZXNzX2NpdHkiOiJPc2lqZWssIENyb2F0aWEiLCJodGlkb2NpZCI6InN0eGxub3VvX2kzUWt5SmNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNKdllYUnBZUSJ9"
+        },
+        {
+            "title": "Senior iOS Engineer - Contractor (Croatia)",
+            "company_name": "Goodnotes",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=NCzS3NBSZiV2CIUIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2NsQrCQBBEsc0niMWWKpoTwUYrCSLYWKSzCXfncjmJu2F3i3yN3-oJNlPMG95Un1l1bpEyC-R7CxdKmRAFttAwmfhohSwbYW_Zr0p94wCKXmIPTHBlTgPOT73ZqEfnVIc6qZVxrCO_HRMGntyLg_6i094LjoM37PaH3VSPlNaLInkSGypkgodPgmED_8sv8NKA1qEAAAA&shmds=v1_AUFQtOM-Yx_ZFSCozdrFUTtSdCgcD6WssmdaP13AIyZE5840Ng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=NCzS3NBSZiV2CIUIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9f6ebf5801ed4e6b76db6e399fdd0e15434e7dc002b4b68194.jpeg",
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We want to make work and study more efficient and enjoyable, by providing the best digital paper solution possible. We plan to be the go-to tool for all forms of notes. Our digital paper and learning ecosystem inspires anyone to take notes, share what they know, collaborate with others, and learn as a community\n\nWe are looking for iOS Engineers to join our core mobile team to plan and drive our new initiatives. Our app has been featured by Apple several times and is loved by millions of users globally. This is a great opportunity to work with some of the best iOS engineers on a category-leading application.\n\nRole Overview\n• Build and own the entire lifecycle of new user-facing features, leveraging technologies unique to the latest frameworks\n• Collaborate with cross-functional teams, including Product, Design, and QA, focused on delivering the best features for our users\n• Continuously improve the development practices through research, automation, documentation and testing\n• Opportunity to own and improve our release process, application architecture, and developer experience\n\nRequirements\n• Expertise in Swift programming. Knowledge of SwiftUI is advantageous\n• Strong understanding of computer science fundamentals\n• Excellent problem solving, communication, and storytelling skills\n• A love of software craftsmanship\n• A strong desire for self-improvement through side projects and sharing\n• Strong sense of the best tools for any task\n• Shipped one or more non-trivial iOS apps on respective app stores\n• Big plus if you have experience cross-compiling codebase on different mobile platforms\n\nNote: Employment is contingent upon successful completion of background checks, including verification of employment, education, and criminal records.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/senior-ios-engineer-contractor-croatia-at-goodnotes-4119689102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIC0gQ29udHJhY3RvciAoQ3JvYXRpYSkiLCJjb21wYW55X25hbWUiOiJHb29kbm90ZXMiLCJhZGRyZXNzX2NpdHkiOiJaYWdyZWIsIENyb2F0aWEiLCJodGlkb2NpZCI6Ik5DelMzTkJTWmlWMkNJVUlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNKdllYUnBZUSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Bluestorm Design",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=6cy0sZQzW8pbS1NYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWz3CFYDWokmIthop4JgY2FnsyRhSCLZTJgZZY_gsV2bX77ffWfdMt8fcMEPFmrIsIEbeRB0HBJQhStRLDg_JtUmB2tFiomiTnMwgQZLFT2N9kVe_uklOcZWnGK_229H02pcLU7ljaLEwzSSHCvkCk8XGf0azkwT5n4kWG4NiwAAAA&shmds=v1_AUFQtOPa-VAv8ACoULBMQKHOHCRq2JhOQKEJMhiENypKB_i0vA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=6cy0sZQzW8pbS1NYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9fd9a4ae9bfc87044d80e7dd2f3bff7f7b9bb0a3dcc901e0e5.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Turkey, Estonia, Poland, Romania, Malta, United Kingdom, Croatia, Serbia\n\nOur client is a leading mobile sportsbook operator having global domination with huge investment. This is a unique opportunity to be involved in a business at such a pivotal stage in its development and to become an integral part of the ambitious growth business is set to achieve.\n\nResponsibilities:\n• Design and build advanced applications for the iOS platform\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Unit-test code for robustness, including edge cases, usability, and general reliability.\n• Work on bug fixing and improving application performance.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nGoals Within a fortnight,\n• Familiarize with the current codebase and workflow of the iOS application.\n• Understand relations between product features and codebase.\n\nWithin the first month,\n• Ready to be included in the software development cycle.\n\nWithin six months,\n• Analyze and determine which sections of the codebase to be refactored.\n\nRecursively,\n• Writing unit and functional tests for developed features.\n• Researching new technologies and libraries to improve the application.\n• Refactor old codebase to improve overall performance and health of the application\n\nRequirements:\n• At least 4 years of experience with Swift.\n• Deep familiarity with Cocoa touch, async calls, and web sockets.\n• Experience with using 3rd party libraries and APIs.\n• Understanding Backend requirements and performance pitfalls.\n• Experience working with remote data via REST and JSON\n\nThis offer from \"Bluestorm Design\" has been enriched by Jobgether.com and got a 75% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6633ea1a0e40d4c6714e01d7-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "link": "https://67.205.130.133/jobs/view/viseven-ios-developer-1971933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQmx1ZXN0b3JtIERlc2lnbiIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiNmN5MHNaUXpXOHBiUzFOWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Recommend",
+            "location": "Zagreb, Croatia",
+            "via": "JOIN",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=eyyN3kvH-aDlIYGvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRAAsb0niMWWIpqIYKOlomBpaXNs4pKc5LIhu8p9wH8bm2GKYbrvrFte0luVKpzpQ4lLsw3c2IEQVh-BM1yZQ6L5MaoWOVgrkkwQRR288TxazuR4si928kcvESuVhEr9br-dTMlhtbhTS0fKTxgyPDBUcms4VW4X_AGtKdmGiAAAAA&shmds=v1_AUFQtOOwVkWNpuMXh1jbSzaNq4tRWJ2KY9ApQuX6TZe8ljJDgg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=eyyN3kvH-aDlIYGvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9f1ec103dee5f83e2d08aa9a45cdbc1edeb40dbe3185863c42.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking a highly skilled and experienced Mobile Application Developer to join our team. The successful candidate will be responsible for designing, developing, and maintaining native mobile applications for both Android and iOS platforms.\n\nThe Mobile Application Developer will work closely with our product and design teams to understand user requirements and translate them into functional and intuitive mobile applications. They will also be responsible for testing and debugging code, as well as staying up-to-date with the latest mobile technologies and best practices.\n\nTasks\n• Develop, and maintain native mobile applications for both Android and iOS platforms.\n• Work closely with product and design teams to understand user requirements and translate them into functional and intuitive mobile applications.\n• Test and debug code to ensure high-quality and reliable applications.\n• Stay up-to-date with the latest mobile technologies and best practices.\n• Collaborate with cross-functional teams to deliver end-to-end solutions.\n• Optimize mobile applications for performance and scalability.\n• Troubleshoot and fix bugs and issues that arise in the mobile application.\n• Participate in code reviews and provide constructive feedback to improve code quality.\n• Contribute to the development of mobile application roadmaps and strategies.\n• Participate in sprint planning.\n\nRequirements\n• 3 or more years of hands-on experience in Flutter.\n• Experience in integrating complex services like Stripe, Paypal, secure chat functionalities, Firebase, Redis, and diverse social network APIs.\n• Exprience in Swagger, Git automations and Riverpod\n\nBenefits\n• Great office environment with private office space for teams and easy-to-reach location\n• Extra vacation days\n• Flexible working hours\n• Work from home\n• Holiday and Xmas bonus\n• ESOP bonus scheme",
+            "apply_options": [
+                {
+                    "title": "JOIN",
+                    "link": "https://join.com/companies/recommend/13329896-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://hr.linkedin.com/jobs/view/flutter-developer-at-recommend-4109877895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJlY29tbWVuZCIsImFkZHJlc3NfY2l0eSI6IlphZ3JlYiwgQ3JvYXRpYSIsImh0aWRvY2lkIjoiZXl5TjNrdkgtYURsSVlHdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMPQrCQBBGsc0RrKayEMyKaKOd-IcWgjlAmMRhs2Ezs-xsQvBYntDYfI_3ii_7zrJHQewkgnsWcKKBvASKsIIiIDttzJmtnziVS-89vKiTRJPdpQIljHUDwnAVsZ7mhyaloHtjVH1uNWFydV5LZ4SpktG0Uul_Sm0wUvCYqNzs1mMe2C4X06VuWxwwpx4cw1GUHQLyG24UP2RlcIw_ct1UzbUAAAA&shmds=v1_AUFQtOOFmHJyjxob3xAbKMJf2UzSflJ5_L5ZzMXF6YmCdsfPQw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52a01b5f7bda18d40ef/images/df1f78ba7470ae9fe65090a37104aa22e45ea44cff89bb967075ea9415b3ecfa.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYSIsImh0aWRvY2lkIjoiRFlLZG5Uam9VeDV5YjIwOUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM0p2WVhScFlRIn0="
+        },
+        {
+            "title": "iOS TV Application Developer",
+            "company_name": "RT-RK",
+            "location": "Croatia",
+            "via": "Jooble",
+            "share_link": "https://www.google.hr/search?ibp=htl;jobs&q=iOS+developer&htidocid=UUWNbHi7RWdLijY1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVw7OTvdLLQRxUWnoiDoINTiWpJwJJGYO3JB-gA-uHH5l5-v-S6aXbg_YHxCzxyD1SVQgjN-MBJjhhauZEBQZ-uhnguRi7g6-lJYDkqJxM5Jqcx2lt6KEhqa1YuM_DOJ1xk56oLTdr-ZO05uvRzGdrhBSHDKVKX-ASVxbBCHAAAA&shmds=v1_AUFQtOOx_bLym2j49aCJzjwpknWbeAX3r63HmDb-0a1kWyyo4w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=UUWNbHi7RWdLijY1AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Location : Osijek\n\nYour role would include:\n• Technical lead on the development and maintenance of the TV UX for major European telecom operator on iOS, iPadOS, and Apple TV or other Apple’s platforms\n• Advanced design and implementation in Clean Architecture, using the VIP design pattern\n• Supervision and mentoring of less experienced developers\n• Active participation in architectural and technological decisions\n• Ensuring code quality: review, unit testing, and continuous integration\n• Contributing to performance evaluations and optimization proposals\n\nRequirements:\n• University degree in computer technology or computer science\n• 5+ years of experience in iOS development\n• Advanced proficiency in Swift and SwiftUI\n• Expertise in Clean Architecture (SOLID principles – naming and usages)\n• Expertise in writing and executing unit tests\n• Ability to share your knowledge and supervise other developers\n• Autonomous, capable of taking initiatives and quickly adapting\n• Good knowledge of English language\n\nPreferred skills and knowledge:\n• Proven experience with video players\n• Use of the VIP design pattern\n• Knowledge and practical experience with the Apple TV environment\n\nWhy you will love working here :\n• Always growing : We invest in your growth by providing opportunities for continuous learning and professional development – technical and soft skills trainings, English language courses, e-learning, library with a significant collection of professional literature\n• Feel Good, Work Better : We prioritize your well-being by providing private health insurance coverage (supplementary and additional health insurance) and medical health check-ups\n• Your Time, Your Way: Enjoy a work-life balance with full remote and flexible working hours to meet your personal and professional needs (start any time from 8-11 AM)\n• Mix it up : Embrace flexibility with our hybrid working model, offering a blend of in-office and remote work options\n• Global Adventures : Enjoy the chance to travel and work abroad, gaining exposure to diverse cultures and perspectives\n\nIn RT-RK we value:\n• Expertise : At the core of our identity is expertise. It's not just a buzzword; it's the foundation of how we operate. We're committed to consistently exceeding expectations and delivering top-notch quality in every facet of our work.\n• Dedication: When we say dedication, we mean it. It's woven into the fabric of every project we take on. Our team goes the extra mile, driven by a shared passion that fuels our collective effort to innovate, learn, and achieve exceptional results.\n• Lifelong Learning: We've been in the business of shaping engineers for over 30 years. Join us, and let's continue this tradition of lifelong learning together.\n\nWhat are the next steps?\n• Expect an email confirming we got your application\n• HR interview via MS teams - usually lasts up to 40 minutes\n• Technical interview with Lead Programmers - m ake sure to leave your calendar free for 40-50 minutes",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://hr.jooble.org/jdp/2644589994725695116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgVFYgQXBwbGljYXRpb24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUlQtUksiLCJhZGRyZXNzX2NpdHkiOiJDcm9hdGlhIiwiaHRpZG9jaWQiOiJVVVdOYkhpN1JXZExpalkxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzSnZZWFJwWVEifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUWGxvUTBwTWRHZHJVVGR4WldkTGVDMUtTRTU2UTE5a2FIa3RhMDFJYlhWc1QzRnJPVGcyZUhkeFpHWXlaM1ZRVG5NNFRtVnJSMjlYTkdrdFNuRlZOa1V0WkVGNVQxSlNiRzgzYzNRNWRFRTNaWGMyVlZCWGFVOVRia1IyVFdOSmRsUlpTa1ZYWTFOeFdsOTNVWEJMYTBwcVJ6VmpTalJZUldsb1ZYRllNaTF5WW5KTWVrZFhla1prV1RWT1REaFhSa3RXUjBkTmVHMWhibWh2U21OWWFFSktka2xFVWtwUVNIWjFjM1pLTm5sSVlrRlRNVXRETmxkclRrcDNVbGxDZUdaRFExQlVibHBwVDJSZlYydE5WMU5yVDJsaWJGUjFhVzkxUjJkNlJXMXJOaTB6ZFhONFdraFlTRGQyVVZOV1F5MTZaV0ZyWVZZNFFXbzBla0pITjFGQ2NqVllNaElYUzE5WFJWbzRWMnhMVHpJMmExQkpVSE5OYVRRNFFYTWFJa0ZHV0hKRlkzSmpNR0kzWjFKNE1VbElOVzAyWXpsb2RTMHRhME5CV0cxVlowRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.hr&location=Croatia&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUWGxvUTBwTWRHZHJVVGR4WldkTGVDMUtTRTU2UTE5a2FIa3RhMDFJYlhWc1QzRnJPVGcyZUhkeFpHWXlaM1ZRVG5NNFRtVnJSMjlYTkdrdFNuRlZOa1V0WkVGNVQxSlNiRzgzYzNRNWRFRTNaWGMyVlZCWGFVOVRia1IyVFdOSmRsUlpTa1ZYWTFOeFdsOTNVWEJMYTBwcVJ6VmpTalJZUldsb1ZYRllNaTF5WW5KTWVrZFhla1prV1RWT1REaFhSa3RXUjBkTmVHMWhibWh2U21OWWFFSktka2xFVWtwUVNIWjFjM1pLTm5sSVlrRlRNVXRETmxkclRrcDNVbGxDZUdaRFExQlVibHBwVDJSZlYydE5WMU5yVDJsaWJGUjFhVzkxUjJkNlJXMXJOaTB6ZFhONFdraFlTRGQyVVZOV1F5MTZaV0ZyWVZZNFFXbzBla0pITjFGQ2NqVllNaElYUzE5WFJWbzRWMnhMVHpJMmExQkpVSE5OYVRRNFFYTWFJa0ZHV0hKRlkzSmpNR0kzWjFKNE1VbElOVzAyWXpsb2RTMHRhME5CV0cxVlowRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

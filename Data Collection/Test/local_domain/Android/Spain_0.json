@@ -1,0 +1,498 @@
+{
+    "search_metadata": {
+        "id": "6784f5d18f148a52ee58d741",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a277edd8bd969ffd/6784f5d18f148a52ee58d741.json",
+        "created_at": "2025-01-13 11:15:29 UTC",
+        "processed_at": "2025-01-13 11:15:29 UTC",
+        "google_jobs_url": "https://www.google.es/search?q=Android+developer&uule=w+CAIQICIFU3BhaW4&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/a277edd8bd969ffd/6784f5d18f148a52ee58d741.html",
+        "total_time_taken": 1.78
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Spain",
+        "location_used": "Spain",
+        "google_domain": "google.es"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.es/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjf7N3_yPKKAxWEMlkFHS-PEcMQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Sr Android Developer",
+            "company_name": "Solera Center of Excellence, S.L.",
+            "location": "Seville, Spain",
+            "via": "Workday",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=Jaw-grRo-4zV8U-2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQ7CMAxAYbH2CEye-UkQiIVOCBASYssBqjQ1bZCxoziqehuuSlne8C2v-i6qtctw5i5L7OCKI5IkzLCFh7Sg6HMYQBjuIj3hsh5KSXqyVpVMr8WXGEyQjxXGVib7llb_aXTwGRP5gs3-uJtM4n51cEKYPVyQy7yQF9ymgETIATfgzNNAZHA4xtlmSD7yDxP81aWiAAAA&shmds=v1_AUFQtOMKdAF8phwGo3dF0PaOrZEC9zVR5Eh4-7icIhLRCib1kA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Jaw-grRo-4zV8U-2AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Android Developer Who We Are Digidentity is a leading provider of cutting-edge digital identity and authentication solutions, empowering individuals and organizations to navigate the digital world securely and efficiently. Established with a commitment to pioneering innovation and enhancing online trust, we have become a trusted partner for businesses, government agencies, and individuals seeking seamless and robust identity verification. At Digidentity, our mission is to shape the future of digital identity. We believe that everyone should have the confidence to interact and transact online, assured of their privacy and security. We are dedicated to simplifying the complex world of digital identities while ensuring that our solutions adhere to the highest standards of data protection and compliance. For more information, please visit www.digidentity.eu. The Role A Senior Android Developer is a critical role within a company's technology team, responsible for designing, developing and maintaining advanced applications for the Android platform. Key responsibilities include writing clean and efficient code, collaborating with cross-functional teams to define and design new features, troubleshooting and debugging to optimize performance, and ensuring the best possible performance, quality, and responsiveness of the applications. Additionally they are expected to stay updated with the latest industry trends and technologies to continuously improve the development process. Qualified candidates for this position should possess extensive experience in Android development, a strong understanding of Android SDK, different versions of Android, and how to deal with different screen sizes. Proficiency in Java and Kotlin programming languages is essential, along with experience in using RESTful APIs to connect Android applications to back-end services. Excellent problem-solving skills, attention to detail, and the ability to work effectively in a team are also crucial. This position is important for the company because the Senior Android Developer plays a pivotal role in delivering high-quality mobile applications that meet the users' needs and drive the company's growth. Their expertise ensures that the applications are robust, scalable, and user-friendly, contributing significantly to the company's success in the competitive mobile app market. What You'll Do - Develop and maintain Android applications. - Utilize Java and Kotlin programming languages. - Implement UI/UX designs provided by the design team. - Collaborate with product owners to define project requirements and scope. - Partner with designers to ensure the visual aspects align with the intended design. - Collaborate with back-end developers to integrate RESTful APIs and other services. - Troubleshoot and debug issues to enhance application performance. - Conduct code reviews to ensure adherence to best practices and coding standards. - Optimize applications for maximum security and scalability. - Stay updated with the latest developments in the Android ecosystem. - Explore new technologies and frameworks to improve development processes. - Write unit and UI tests to identify malfunctions. - Work with QA engineers to ensure comprehensive testing and quality assurance. - Maintain detailed documentation for application development processes. - Document code changes and updates for future reference. - Provide mentorship and guidance to junior developers. What You'll Bring - Minimum of 5 years of professional experience in Android development. - Proficiency in Kotlin programming languages. - Strong understanding of Android SDK and handling different screen sizes. - Experience with RESTful APIs to connect Android applications to back-end services. - Proficiency with Android Studio and version control systems, particularly Git. - Excellent problem-solving and analytical skills. - Strong communication and collaboration skills. - Attention to detail and commitment to delivering high-quality work. - Continuous learner with a passion for keeping up-to-date with the latest industry trends and technologies. Solera is the global leader in vehicle lifecycle management software-as-a-service, data, and services. Through four lines of business – vehicle claims, vehicle repairs, vehicle solutions and fleet solutions – Solera is home to many leading brands in the vehicle lifecycle ecosystem, including Identifix, Audatex, DealerSocket, Omnitracs, LoJack, Spireon, eDriving/Mentor, Explore, CAP HPI, Autodata, and others. Solera empowers its customers to succeed in the digital age by providing them with a “one-stop shop” solution that streamlines operations, offers data-driven analytics, and enhances customer engagement, which Solera believes helps customers drive sales, promote customer retention, and improve profit margins. Solera serves over 300,000 global customers and partners in 100+ countries. For more information, visit www.solera.com.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://solera.wd5.myworkdayjobs.com/en-US/Global_Career_Site/job/Sr-Android-Developer_JR-017164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNvbGVyYSBDZW50ZXIgb2YgRXhjZWxsZW5jZSwgUy5MLiIsImFkZHJlc3NfY2l0eSI6IlNldmlsbGUsIFNwYWluIiwiaHRpZG9jaWQiOiJKYXctZ3JSby00elY4VS0yQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Senior Software Engineer Android",
+            "company_name": "Kindred",
+            "location": "Madrid, Spain (+1 other)",
+            "via": "Kindred Group",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=QEcDHgSIjWFQ2lNAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BeJ0s2giggh2chBBceoHlKQ5k5N6F3IB-xl-snV542u-i-bYIZMU6ORZP64gXDgSIxY4cyhCAbZwEw-KrgwJhOEqEkdctanWrCdrVUcTtbpKgxnkbYXRy2Rf4vVPr2lu8-gq9vvDbjKZ43p5p3nHAMTwcKFQ2ECXHfEP8M2BrZMAAAA&shmds=v1_AUFQtONDC6CoLTa4AnQ-YtiaCc1-0ENZLChD_q5hHc3e0kS6JA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=QEcDHgSIjWFQ2lNAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b15b127e4e898e06c8abfda8264560256b9b9fa82f13923550.png",
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "The role\n\nThis position is for an exceptional Android developer who is keen to work on Native Apps. You'll be working with great colleagues from diverse backgrounds who are passionate about what they do. This passion will ignite your creativity in a fast-paced yet fun, Agile environment where technology and problem solving are key.\n\nKey accountabilities:\n• Develops high quality code using the most appropriate techniques e.g. design patterns\n• Designs solutions to meet the requirements (business and tech). Able to challenge and proactively suggest improvement to requirements\n• Contributes to best practice, pro-actively looks to improve status quo e.g. can the team improve logging, performance testing etc.\n• Focused and engaged in team commitments, takes ownership to help the team reach their goals\n• Constructively critique solutions and code of peers\n• Actively seeks to automate where relevant with a shift left mindset (catch bugs early during development)\n• Follows and implements good practices in quality assurance\n• Confidently makes decisions affecting the team\n\nWe use: Skills & Technologies:\n• Kotlin\n• Android Jetpack components\n• Jetpack Compose\n• MVVM design pattern\n• Modular architecture\nHilt for dependency injection\n• Git\n• Continuous delivery\n• Best development practices\n• Agile & lean values\n\nYour experience:\n• As an experienced Android software engineer, you can drive technical solutions from design to production.\n• You are well-versed in modern Android technologies and have written applications in Kotlin.\n• You have good knowledge of Kotlin Coroutines, Coroutine Flow, and StateFlow.\nYou have good knowledge of Git.\n• You have experience with Android Jetpack components and Jetpack Compose.\n• You have experience with the MVVM design pattern.\n• You have experience with Continuous Integration and Continuous Delivery tools (an advantage).\n• You have good knowledge of Hilt for dependency injection.\n• You help mentor and onboard new team members.\n• You build scalable software and ensure your code works correctly using unit and UI tests.\n• You are proactive in communication towards all stakeholders, including the team.\n\nAn advantage:\n• Experience using Agile methodologies\n• Knowledge of programming design\n• Use of Atlassian tools such as BitBucket, JIRA and Confluence\n\nWhat do we offer?\n• A great team with passionate developers\n• Mix of Spanish and Swedish culture in an English speaking environment\n• Awesome location at Spaces Rio in central Madrid\n• Twenty five days paid vacation plus days off for Christmas and New Year's Eve\n• Wellbeing allowance\n• Pension contributions\n• Work from home days each week\n\nLI-HYBRID #LI-ML1 #LI-MM1",
+            "apply_options": [
+                {
+                    "title": "Kindred Group",
+                    "link": "https://careers.kindredgroup.com/jobs/vacancy/senior-software-engineer-android-madrid/10563/description/?utm_source=eventbrite&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/senior-software-engineer-android-at-kindred-group-plc-4061269634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IktpbmRyZWQiLCJhZGRyZXNzX2NpdHkiOiJNYWRyaWQsIFNwYWluIiwiaHRpZG9jaWQiOiJRRWNESGdTSWpXRlEybE5BQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Kodly",
+            "location": "Mondariz, Spain",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=9GbusIfGFLF8LDfsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvC8Qpo4i2IrjoJAiC4uQHHGkbej1qUpoip5t_Lr7hdd9ZtzxxqJICnOlFWQpV2MBVHChh9QMIw0UkZloch9aKHqxVzSZqw5a88fK0wuRksqM4_dfrgJVKxkb9br-dTOG4mt8k5DckhrtwwJo-a3gUTPwD6nAxVoQAAAA&shmds=v1_AUFQtONJ-1U8Lk-NaEdeNKt9PSE91xMY00urzcFQSKzEAbRjxw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=9GbusIfGFLF8LDfsAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b1d93528cdd5758cf4eb8aad874279372595e6bce536d305f4.jpeg",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "AboutServicesCareersCase StudiesPartnersEventsBlogContacts Copyright 2025 © Kodly. All Rights Reserved.\n\nAndroid Developer\n\nPorto; Portugal | Remote | Full-time\n\nAPPLY\n\nYour Responsibilities\n\nWe are looking for an Android Developer to join our team and be part of the IT development team of a high-scalable e-commerce platform for a worldwide Spanish brand.\n\nSkills & Experience\n• 2+ years of experience developing applications with Android\n• Experience with Kotlin\n• Git Knowledge\n• TDD knowledge\n• Have worked with CI tools\n• Degree in computer engineer or similar\n• Good team player, responsible and hard worker\n• Fluent in English\n\nMain Benefits\n• Competitive salary package and benefits\n• Career development\n• Possibility of participation in international projects\n• Health Insurance\n• Happy, fun and self-driven team\n• Fruit and coffee\n• MacBook Pro or similar\n• Suitable training\n• Flexible working options\n\nWhy work with us?\n\nWant to work with us? Let's get the ball rolling.\n\nHow Did You Find Out About Kodly\n\nThrough a friendGoogle searchTeamlyzer PageLinkedIn PageNet-EmpregosPublic event / job fairOther\n\nHow did you find about Kodly?I accept the Privacy Policy\n\nOTHER Opportunities\n\nWe are always looking for the best people to join us.Desire to collaborate, learn from others, share and mentor are must-haves to be a part of our team.\n\nDevOps EngineerFull-time Anywhere/Remote\n\nBackend Software EngineerFull-time Anywhere/Remote\n\nIT Support SpecialistFull-time Anywhere/Remote\n\nSalesforce Service Cloud AdminFull-time Anywhere/Remote\n\nSalesforce Commerce Cloud Tech LeadFull-time Porto; Portugal\n\nNext.JS DeveloperFull-time Anywhere/Remote\n\nIntegration Specialist- MuleSoftFull-time Anywhere/Remote\n\nDynatrace SpecialistFull-time Anywhere/Remote\n\nDevOps SpecialistFull-time Anywhere/Remote\n\nSecurity SpecialistFull-time Anywhere/Remote\n\nSalesforce Commerce Cloud EngineerFull-time Porto; Portugal\n\nJunior Java DeveloperFull-time Porto; Portugal\n\nUnited Kingdom840 Ibis Court, Centre ParkWarringtonCheshireWA1 1RL PortugalRua 5 de Outubro, 2454100-175, PortoPortugal SpainGran Via de Carles III, 8408028, BarcelonaEspaña\n\nLinkedin\n\nManage CookiesPrivacy PolicyComplaint BookAlternative Dispute Resolution\n\nWe use cookies to make sure you have a smooth experience while navigating our website. Please read our Privacy Policy\n\nMANAGEOK",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/android-developer-at-kodly-4119767083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IktvZGx5IiwiYWRkcmVzc19jaXR5IjoiTW9uZGFyaXosIFNwYWluIiwiaHRpZG9jaWQiOiI5R2J1c0lmR0ZMRjhMRGZzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Android Developer  in Madrid",
+            "company_name": "www.cardandpaymentjobs.com",
+            "location": "Madrid, Spain",
+            "via": "Card And Payment Jobs",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=iOLI7_Rn_UxF7KHdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0WNPQrCQBBGsc0RrKb2Z1cUG60EQRCsPECY7A7Jhs3MsrOYeBqvqqlsvuLxHl_1WVSHC_sswcOVXhQlUQYIDA_0-Qe3cJcGlDC7DoThJtJGWp67UpKerFWNptWCJTjjZLDC1Mhke2l0nlo7zJQiFqr3x91kErer9TiOxmH2yD7heyAusz_3_-cNPBMG_gJVU3i8ogAAAA&shmds=v1_AUFQtOPUyVfcm28TeWZEdfYVmk4oCP5Gjs8eazJB5TLJs9UNRw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=iOLI7_Rn_UxF7KHdAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "ANDROID DEVELOPER\n\nAndroid, Kotlin, Java, Mobile development\n\nOur client is a global fintech offering a cutting edge solution.\n\nThey are seeking an Android Developer to join them as they grow. This is a fully remote role offering generous holiday and shares.\n\nPosition overview\n\nTech stack includes:\n• 100% Kotlin\n• Architecture components\n• RxJava, Coroutines, Flow\n• Dagger, Koin\n• Kotlin Multiplatform\n• Compose\n\nAs an Android Developer you will collaborate closely with your fellow team members from product, backend, design and QA.\n\nAs Android Developer, day to day you will be responsible for building components of our mobile app that will enable users all over the world to send, spend, save, and receive money and Bitcoin safely and globally.\n\nThis is a great opportunity if you are a passionate, enthusiastic engineer interested in revolutionizing banking\n\nRequirements\n• 3+ years experience in Android development.\n• Experience in Kotlin.\n• Experience working with code sharing, pull requests and code reviews (Git).\n• Experience working with teams in an agile environment (Jira).\n• Passion for clean code where re-usability, testability and readability are a must (SOLID).\n• Experience with the tech stack described above.\n• Great communication skills in English.\n\nNice to have\n• Experience in CI/CD, Gradle and static code quality analytics.\n• Experience in UI tests.\n• Experience in Kotlin Multiplatform.\n• Experience in material design and animations.\n• Experience or willingness to learn some Swift\n• Open source contributions.",
+            "apply_options": [
+                {
+                    "title": "Card And Payment Jobs",
+                    "link": "https://www.cardandpaymentjobs.com/details/android-developer/93121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAgaW4gTWFkcmlkIiwiY29tcGFueV9uYW1lIjoid3d3LmNhcmRhbmRwYXltZW50am9icy5jb20iLCJhZGRyZXNzX2NpdHkiOiJNYWRyaWQsIFNwYWluIiwiaHRpZG9jaWQiOiJpT0xJN19Sbl9VeEY3S0hkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Android Developer (Madrid or Seville)",
+            "company_name": "Digidentity",
+            "location": "Seville, Spain",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=S5o_wF_uJWvqvS4aAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXNsQrCMBCAYVz7CIJwo4o2Irioi1AQBKc-QEmbIzmJdyE5Sn0Vn1YdXP7hW_7qPavOF3ZZyEGDI0ZJmGF5ty5_RTK0OFKMuIIt3KSHgjYPAYThKuIjzk9BNZWjMaXE2he1SkM9yNMIYy-TeUhffulKsBlTtIrd_rCb6sR-vWjIk0NW0hcQ_2cbaJMl_gDpEnbXnQAAAA&shmds=v1_AUFQtOMen0T83rlHeMsV-hWg5Bv-6XLOJbmFT_0IjA1vWVUSbw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=S5o_wF_uJWvqvS4aAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b1d0b557f00e2c2d36fd32a49fc93dd6c1f47f79c424ceabb3.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Who We Are\n\nDigidentity is a leading provider of cutting-edge digital identity and authentication solutions, empowering individuals and organizations to navigate the digital world securely and efficiently. Established with a commitment to pioneering innovation and enhancing online trust, we have become a trusted partner for businesses, government agencies, and individuals seeking seamless and robust identity verification. At Digidentity, our mission is to shape the future of digital identity. We believe that everyone should have the confidence to interact and transact online, assured of their privacy and security. We are dedicated to simplifying the complex world of digital identities while ensuring that our solutions adhere to the highest standards of data protection and compliance.\n\nFor more information, please visit www.digidentity.eu.\n\nThe Role\n\nAn Android Developer is a critical role within a company's technology team, responsible for designing, developing and maintaining advanced applications for the Android platform. Key responsibilities include writing clean and efficient code, collaborating with cross-functional teams to define and design new features, troubleshooting and debugging to optimize performance, and ensuring the best possible performance, quality, and responsiveness of the applications. Additionally they are expected to stay updated with the latest industry trends and technologies to continuously improve the development process.\n\nQualified candidates for this position should possess extensive experience in Android development, a strong understanding of Android SDK, different versions of Android, and how to deal with different screen sizes. Proficiency in Java and Kotlin programming languages is essential, along with experience in using RESTful APIs to connect Android applications to back-end services. Excellent problem-solving skills, attention to detail, and the ability to work effectively in a team are also crucial.\n\nThis position is important for the company because the Senior Android Developer plays a pivotal role in delivering high-quality mobile applications that meet the users' needs and drive the company's growth. Their expertise ensures that the applications are robust, scalable, and user-friendly, contributing significantly to the company's success in the competitive mobile app market.\n\nWhat You'll Do\n• Develop and maintain Android applications.\n• Utilize Java and Kotlin programming languages.\n• Implement UI/UX designs provided by the design team.\n• Collaborate with product owners to define project requirements and scope.\n• Partner with designers to ensure the visual aspects align with the intended design.\n• Collaborate with back-end developers to integrate RESTful APIs and other services.\n• Troubleshoot and debug issues to enhance application performance.\n• Conduct code reviews to ensure adherence to best practices and coding standards.\n• Optimize applications for maximum security and scalability.\n• Stay updated with the latest developments in the Android ecosystem.\n• Explore new technologies and frameworks to improve development processes.\n• Write unit and UI tests to identify malfunctions.\n• Work with QA engineers to ensure comprehensive testing and quality assurance.\n• Maintain detailed documentation for application development processes.\n• Document code changes and updates for future reference.\n• Provide mentorship and guidance to junior developers.\n\nWhat You'll Bring\n• Minimum of 3 years of professional experience in Android development.\n• Proficiency in Kotlin programming languages.\n• Strong understanding of Android SDK and handling different screen sizes.\n• Experience with RESTful APIs to connect Android applications to back-end services.\n• Proficiency with Android Studio and version control systems, particularly Git.\n• Excellent problem-solving and analytical skills.\n• Strong communication and collaboration skills.\n• Attention to detail and commitment to delivering high-quality work.\n• Continuous learner with a passion for keeping up-to-date with the latest industry trends and technologies.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/android-developer-madrid-or-seville-at-digidentity-4119115030?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoTWFkcmlkIG9yIFNldmlsbGUpIiwiY29tcGFueV9uYW1lIjoiRGlnaWRlbnRpdHkiLCJhZGRyZXNzX2NpdHkiOiJTZXZpbGxlLCBTcGFpbiIsImh0aWRvY2lkIjoiUzVvX3dGX3VKV3ZxdlM0YUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "TradingView",
+            "location": "Málaga, Spain",
+            "via": "Indeed",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=mYHIX2kICi3De8ipAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvCYKwpYheRLDxKkEQBCvF9thLliQSd0M26L3Af_gWPyZOMc170sz37IpEBwd6UpJMBVZwkgGUsNgAwnAU8YmmXag1684Y1dR6rVijba08jDANMpq7DPqv14CFcsJK_Wa7HtvMfjG7FnSR_S3SCyLD-ftJ6HEJl4yRf_o7SleJAAAA&shmds=v1_AUFQtOPwVDMSFZDfvAsEZ3b140aSxNlu7TE89BHDu50rnuxZ2w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=mYHIX2kICi3De8ipAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b1aa40637d0af3d1ae0bdf8916b707c2519ad095adf0f955e4.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About us!\n\nOur open source charts and commercial libraries are used by tens of thousands of financial sites across the planet, including whales like: CME, Refinitiv, Investopedia, Crunchbase, Binance, Bitcoin.com and many many others. We’re also one of the world’s biggest websites (#61 to be exact, according to Alexa Rankings), visited by 100s of millions of people every year. So if you’re interested in finance, chances are you’ll have already seen us around the place.\n\nOur mission is to help millions of people succeed in life, whatever that means for them, by providing the highest quality information in the smartest way so they can make the best-informed decisions possible. To do this, we’re looking for individuals to join a team where product quality means everything, where you’ll be given the opportunity to develop your best work, and where the fruits of your labor will be seen by millions of people each and every day.\n\nJoin our Spanish team\n\nWe’ve got people all over the world, but our new Spanish office is the heart of our tech operations. So, if you’re looking for a start-up, get stuck-in vibe, but with all the resources and firepower of a major scale-up, then look no further, this is the place for you! If you enjoy it, this is your place! It’s an exciting time to be part of team Spain as we continue our growth here. It’s an exciting time to join Team Spain as we continue to grow and innovate.\n\nOur tech stack - Work with cutting-edge technologies\n\nWe are using the latest technologies, ensuring our team works on innovative and challenging projects: JavaScript, ReactJS, TypeScript with NodeJS and Python, Django on the backend\n\nYour mission:\n\nWe are looking for a hands-on Android team lead or Senior Android developer who is ready to become a lead. We plan to form a new team in the future which you will build and develop.\n\nWhat will you do:\n• 3+ years of Android application development experience\n• Strong knowledge of Kotlin\n• Experience and knowledge in rendering complex UI\n• Experience optimizing application performance\n• Have strong design skills and understanding of the Android platform\n• Focused on team success\n\nWhat you bring:\n\nExperience with the following technologies:\n\n100% Kotlin, Jetpack Compose, Coroutines/Flow\n\nIt’ll also be an advantage if you have experience in:\n• Finance experience or knowledge of Trading\n• Knowledge of TradingView\n\nAdditional information\n\nThis is a hybrid role based in our Málaga office located in Muelle Uno, offering you the opportunity to work in a vibrant culture and enjoy an excellent quality of life.\n\nTradingView is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. With 500 employees from 40 nationalities speaking nearly 20 languages, with 5 global offices where we foster inclusive and collaborative work environments.\n\nJoin us and take part in innovative projects that shape the future of financial analysis and trading, making an impact in the fintech space!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://es.indeed.com/viewjob?jk=a348f234d1de1030&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TradingView Career Site - Teamtailor",
+                    "link": "https://tradingview.teamtailor.com/jobs/4669624-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/android-developer-at-tradingview-3966716650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-1885-9a9c294a5148ccdce104a0f875f85266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.es/job/Wjb8t7qubBdsPMFPoMoQKhVCwRhvfIC4yaZbcT727NVpGzDPsC3Vgw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlRyYWRpbmdWaWV3IiwiYWRkcmVzc19jaXR5IjoiTcOhbGFnYSwgU3BhaW4iLCJodGlkb2NpZCI6Im1ZSElYMmtJQ2kzRGU4aXBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCJ9"
+        },
+        {
+            "title": "Android Software Development Engineer | 100 % remote",
+            "company_name": "UST",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=hGU4M2_Ek5R-B7YQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFw7Oznd4iLaVMGlTqIi6FidS9qeaSS9C8mhRfwY_RZ_TF3e-pLXIDmuqQlsGyj4IncdELZ4Q8e-QxLYkbGEGOAJ8yyDMQTsWBBmcOAKIupQt8AEe2bjcLRqRXzMlYrRpSaKFlunNXeKCSvu1ZWr-KeM7W_yTguWi2XWp57MZHguTmAJNp93Yx9TKLy29AVuW8IkowAAAA&shmds=v1_AUFQtOMWvWU6oIjF8K37gCXFUMpQLKW9vthegPRUpFBk_9Puow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=hGU4M2_Ek5R-B7YQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b1e4ca6f1ba0c430dcd3093b9df063f400605a0601b1843db0.png",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Spain\n\nJob Description\n\nWe are looking for the very Top Talent…and we would be delighted if you were to join our team!\n\nMore in details, UST is a multinational company based in North America, certified as a Top Employer company with over 29.000 employees all over the world and presence in more than 30 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies. **\n\nWhat are we looking for?**\n\nWe're looking for an Android Software Development Engineer, this role will support the Dev Teams working as part of a multidisciplinary Engineering Team, delivering best-of-class software for our customers to use on their mobile devices; changing the way they interact with their finances. With excellent programming skills in a couple of languages and extensive commercial experience developing software for the Android platform (Kotlin/Java) - in an Agile environment - you’ll be collaborating with product owners and designers on feature development, as well as mentoring other engineers and advising managers\n\n100% remote position for candidates based in Spain **\n\nMain Functions**\n• You’ll work as part of a self-organised Mobile Engineering Team to design and develop software features that are delightful and vital to the lives of credit card consumers across all walks of life\n• Your focus is on a major portion of existing or new team software (e.g., significant component, set of features, mid-size application or service)\n• You’ll work to achieve the goals and vision shared by Product Management and your Tribe Leadership\n• Innovate within your team, initiative area and contribute within your technical domain\n\nMain Skills Required\n• Very strong programming skills with a good working knowledge of Kotlin or Java and modern Android toolsets like Android Studio, JUnit and Espresso\n• Experience with AWS Services\n• People who can effectively communicate and work together across different engineering areas\n• People with proven ability to deliver high quality applications at scale\n• You’re an advocate for quality and can support the team leveraging approaches such as Pair Programming, TDD and BDD What you’ll get to learn (previous experience is a plus)\n• Working with the cloud/AWS and the opportunities that it brings in depth\n• Solving real world problems and being comfortable working in a complex regulated environment\n• Fluent in English\n\nValuable and desirable: being entitled of Disability Certificate (at least 33% score) **\n\nWhat can we offer?**\n• 23 days of Annual Leave plus the 24th and 31st of December as discretionary days!\n• Numerous benefits (Health Care Plan, teleworking compensation, Life and Accident Insurances).\n• `Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Health Care Plan…)\n• Free access to several training platforms\n• Professional stability and career plans\n• UST also, compensates referrals from which you could benefit when you refer professionals.\n• The option to pick between 12 or 14 payments along the year.\n• Real Work Life Balance measures (flexibility, WFH or remote work policy, compacted hours during summertime…)\n• UST Club Platform discounts and gym Access discounts\n\nIf you would like to know more, don’t hesitate to apply and we’ll get in touch to fill you in detail. We are waiting for you!\n\nThis offer from \"UST\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65c62975bc35f3de83b31907-android-software-development-engineer-100-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-3206-5d4d69cb68499e4cf5edb3c426ba436b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Kit Empleo",
+                    "link": "https://www.kitempleo.es/empleo/132802894/bv-770-principal-software-engineer-android-iy-017-barcelona/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIERldmVsb3BtZW50IEVuZ2luZWVyIHwgMTAwICUgcmVtb3RlIiwiY29tcGFueV9uYW1lIjoiVVNUIiwiYWRkcmVzc19jaXR5IjoiQ8OhZGl6LCBTcGFpbiIsImh0aWRvY2lkIjoiaEdVNE0yX0VrNVItQjdZUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "TravelPerk",
+            "location": "Barcelona, Spain",
+            "via": "TravelPerk",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=46BgL0dGgbz_MrbJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvExwkmyDaiuCik4IIToLuR9oLbbUmpSlyX-B3q8sbX_eZdPMDD1XSACcOiYkqrOAiDpSw-gjCcBYJmab72FrRnbWq2QRt2JI3Xl5WmJyM9iFO__QasVLJ2KjfbNejKRwWs3vFN-Ur1SckhuPvpiyMS7gVTPwFkFsd-IkAAAA&shmds=v1_AUFQtOMtdzBUCAgGfnEoMtkjVaFml9LTBmqnvh_b0bmnAVcOvw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=46BgL0dGgbz_MrbJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d18f148a52ee58d741/images/4cacbeb3a51f10b15431bebc201d093f020b0df158bdc598c10946f72f414ccb.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We have some really unique problems to solve here, like building a scalable design system for our mobile app, to help us we need an Android Engineer to join the team. You’ll get to be part of a small cross functional team (design, product, web and mobile) that is in charge of supporting platform engineering projects for the rest of the business, helping to ideate new features, improve processes, and have a significant effect on the end user’s experience.\n\nWe’re not looking for stack experts or X years with Y framework, we like meeting kind, smart people who can learn the right tools and processes to make our product the best in show!\n\nAs an Android Engineer, this position involves:\n• Product development in Android (Kotlin), supporting customer-facing and platform features\n• System architecture design, implementation, and testing\n• Working in an Agile environment with attention to detail, quality and continuous integration\n• Working closely with people, helping those who need help, contributing to a positive and healthy engineering environment\n\nAnd also the possibility to get exposure to:\n• The ability to develop different parts of our product and do secondments in other teams\n• Product development of Backend for Frontend components\n• Integrations between our product to 3rd party APIs\n• Other cultures and teams across our other hubs in Barcelona, Berlin, London and more\n\nRequired skills and experience:\n• \"Product Engineering\" mindset\n• Knowledge of Kotlin\n• Pragmatism - simplicity, efficiency, and performance\n• The desire for quality and testing\n• A willingness to learn new technologies and frameworks\n• Good communication in English\n\nWhat do we offer?\n\n💰 Competitive compensation, including equity in the company;\n\n🌴 Generous vacation days so you can rest and recharge;\n\n💊 Health perks such as private healthcare or gym allowance, depending on location;\n\n🧩 \"Flexible compensation plan\" to help you diversify and increase the net salary;\n\n🥳 Unforgettable TravelPerk events, including travel to one of our hubs;\n\n💙 A mental health support tool for your well-being;\n\n📈 Exponential growth opportunities;\n\n🫶 VolunteerPerk - We offer 16 paid hours per year that you can use to give back to society by volunteering for a charity of your choice;\n\n🌎 \"Work from anywhere\" in the world allowance of 20 working days per year;\n\n📚 IRL English or Spanish Lessons are held in the Barcelona office;\n\n👶 Parental leave: 12 to 16 weeks, based on location and eligibility factors.\n\nOur Vision is for a world where TravelPerk serves as the platform for human connection in-real-life (IRL). We take an IRL-first approach to work, where our team works together in-person 3 days a week. As such, this role requires you to be based within commuting distance of one of our hubs. We fundamentally believe in the value of meeting in-real-life to improve connectivity, productivity, creativity and ultimately making us a great place to work.\n\nTravelPerk is a global company with a diverse customer base—and we want to make sure the people behind our product reflect that. We’re an equal opportunity employer, which means you’re welcome at TravelPerk regardless of how you look, where you’re from, or anything else that makes you, well, you.\n\nLearn more about our Builders organization here on our blog.",
+            "apply_options": [
+                {
+                    "title": "TravelPerk",
+                    "link": "https://www.travelperk.com/job-application/?gh_jid=3560402&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adevinta",
+                    "link": "https://adevinta.com/jobs/android-engineer-10/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/embed/job_app?for=travelperk&token=3560402&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/android-engineer-at-adevinta-4102306206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://es.indeed.com/viewjob?jk=f2a42eec79195afe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-engineer/3061476?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.es/job-listing/android-engineer-adevinta-JV_IC2547194_KO0,16_KE17,25.htm?jl=1009568966171&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-engineer-travelperk-2512033?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVHJhdmVsUGVyayIsImFkZHJlc3NfY2l0eSI6IkJhcmNlbG9uYSwgU3BhaW4iLCJodGlkb2NpZCI6IjQ2QmdMMGRHZ2J6X01yYkpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCJ9"
+        },
+        {
+            "title": "Software Developer (Android & iOS)",
+            "company_name": "Oowlish Technology",
+            "location": "Anywhere",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=wo9i4PvN1cn47QyKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBQAUFx7BKe_KCraiOCgTqIguHSoe0nSbxKJ-SE_2HoaD-ERvJi6vPEVr0GxqemaO5kQjvhATxETTPahTeRaGIOr6iks4EwKGGXSFijAich4HO5szpG3QjD70nCW2elS011QQEW9uJHiPw3b3x-9zNis1su-jMHMRhV13rGFC2obyJN5ggtw-LxTS0rOoY7ShS-Qpv-gogAAAA&shmds=v1_AUFQtOOVtarN8xYNd_60nJJVyS_HmtvisYBzi-A77Yw8n-o2vg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wo9i4PvN1cn47QyKAAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Our Team\n\nOowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.\n\nAs a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact.\n\nWe offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence.\nRequirements\n\n• 5+ years of experience developing mobile applications for both Android (Java/Kotlin) and iOS (Swift/Objective-C).\n• Strong understanding of mobile app architecture, design principles, and UI/UX standards.\n• Familiarity with RESTful APIs and third-party libraries/integrations.\n• Knowledge of app deployment processes for Google Play Store and Apple App Store.\n\nNice to Have:\n\n• Experience with cross-platform development frameworks like Flutter or React Native.\n\nBenefits & Perks:\n\nHome office;\nFlexible Hours\nCompetitive compensation based on experience;\nCareer plans to allow for extensive growth in the company;\nInternational Projects;\nOowlish English Program (Technical and Conversational);\nOowlish Fitness with Total Pass;\nConnecting You (Internet allowance);\nAnniversary bonus;\nWedding gift;\nPet adoption incentive;\nNew baby Oowl bonus;\nBack to School bonus;\nStreaming Subscription;\nPTO Bonus;\nGames and Competitions;\nEnjoy your national Holidays.\n\nYou can also apply here:\n\nWebsite: https://www.oowlish.com/work-with-us/\nLinkedIn: https://www.linkedin.com/company/oowlish/jobs/\nInstagram: https://www.instagram.com/oowlishtechnology/\n\n#LI-LM1\n#LI-CD1\n#LI-EA1\n#LI-TC1\n#LI-ET1\n#LI-TT1\n#LI-JH1\n#LI-DP1\n#LI-LS1\n#LI-AB1\n#LI-KN1\n#LI-SR1\n#LI-JS1\n#LI-FZ1",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/software-developer-android-ios-oowlish-technology-6079379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/es/job/software-developer-android-ios--cordoba--e3efbb774a4baafc79c77d7f2ff1a2485?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/mobile-developer-android-ios--spain-nextbitt-make-your-3f6651e0c3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.es/details/4983516111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Kit Empleo",
+                    "link": "https://www.kitempleo.es/empleo/130364385/mobile-developer-android-ios-pc-074-espana/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXIgKEFuZHJvaWQgXHUwMDI2IGlPUykiLCJjb21wYW55X25hbWUiOiJPb3dsaXNoIFRlY2hub2xvZ3kiLCJhZGRyZXNzX2NpdHkiOiJDw7NyZG9iYSwgU3BhaW4iLCJodGlkb2NpZCI6IndvOWk0UHZOMWNuNDdReUtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCJ9"
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "Pearson",
+            "location": "Spain",
+            "via": "Pearson Jobs",
+            "share_link": "https://www.google.es/search?ibp=htl;jobs&q=Android+developer&htidocid=zCRdDDuwpqTnj0r_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAA0L2Ts9PNgokILjo5SMFJ6AeUJD2Sk3gX7jJ089etyxvf8B3chEyicOdFhRZ4cCZGVDjCUyIYBk0FhGEUyRX3t9J7s6v3ZtVl66FTckk-XhijrP4t0f7MVoJiq6HjfL6cVtc4H3avrbMtI4apBeIfKKV1K4EAAAA&shmds=v1_AUFQtON1n6BSVWuAjrWdAcRl7ILvjbSZakE5Q0b8QnEvNDAt6w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=zCRdDDuwpqTnj0r_AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Mondly by Pearson\n\nEnglish Language Learning Division\n\nJob Description\n\nSenior Android Developer\n\nLocation: Spain, Remote\n\nPearson\n\nAt Pearson, we’re committed to a world that’s always learning and to our talented team who makes it all possible. We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and inspires us to always be better. With a rich heritage that combines 150 years of experience in publishing with the latest learning technology and digital services, we help people learn whatever, wherever and however they choose.\n\nRole Overview\n\nThe Senior Android Developer will design and develop mobile applications for the company’s line of learning products. To be successful in this essential role you must have strong knowledge in Android development and the ability to work autonomously. The Employee will have proven experience in applying new technologies and solutions to drive engaging consumer-grade applications, ideally in a learning environment.\n\nThe Senior Android Developer will be part of an Agile development team responsible for building innovative, high-performance, scalable native applications using latest technologies and frameworks and integrating third-party SDKs. The Employee will be responsible for the development and maintenance of applications aimed at a range of Android devices including mobile phones and tablets.\n\nThe Employee will report to the Engineering Manager and operate as part of the Technology team, unless the Employer determines otherwise.\n\nKey Responsibilities\n• Technical Excellence:\n• Design, develop, unit test, and deploy medium and high complexity Android based solutions using common standards and frameworks.\n• Create & execute automation test strategy for mobile apps across Android platforms.\n• Ensure the performance, quality, and responsiveness of applications.\n• Organize peer code- reviews to spot problems and ensure quality of the product. Offer guidance to less senior members of the team on how to improve code quality and efficiency.\n• Participate in and champion a highly collaborative, customer-centric, data-driven culture that challenges norms with a bias to action; support diversity of thoughts, experiences, and approaches to solve issues.\n• Duly observe all applicable health and safety laws and regulations.\n• Collaboration:\n• Collaborate with the product delivery team to define, design, and ship new features.\n• Work with designers, backend engineers and product managers to deliver an optimized product and exceptional user experience.\n• Collaborate with the product delivery team to ensure technical feasibility for new features and enhancements to the existing features.\n• Collaborate with product managers and designers to create prototypes for new and enhanced features.\n• Promote a culture of partnership, teamwork, innovation and diversity, equity, and inclusion.\n• Partner with other Senior iOS Developers in solving complex challenges in building best-in-class features and product enhancements.\n• Delivery:\n• Manage concurrent project efforts, and work both independently and in a team environment.\n• Scale the Android team processes; improve release pipeline, build automation and monitoring.\n• Demonstrate solid knowledge and understanding of continuous integration.\n• Prioritize and estimate tasks efficiently, ensuring that scheduled launches happen according to planning. Help more junior team members with their time estimations if needed.\n\nQualifications & Skills\n\nEssential Skills\n• More than 4 years of experience in Android development, with a proven track record of building successful mobile applications.\n• Strong object-oriented design, programming, and debugging skills.\n• Ability to identify blockers and solve them with the appropriate stakeholders.\n• Experience working in an Agile/Scrum environment.\n• Deep understanding of Kotlin, as well as Coroutines and Flow.\n• Experience with the MVVM architecture pattern and Clean Architecture.\n• Great experience in both XML layouts and Compose.\n• Knowledge of the Firebase platform.\n• Experience with Android data repositories and libraries such as SQLite and Room.\n• Experience with Retrofit.\n• Solid understanding of the full mobile development life cycle.\n• Excellent fluency in English, both spoken and written.\n\nDesirable\n• Degree in Informatics, Computer Science, or equivalent combination of education, training, and experience.\n• Deep understanding of Dependency Injection, with a special focus on Dagger Hilt.\n• Experience with SQLCypher, Protobuf and gRPC.\n• Familiarity with continuous integration, continuous deployment, and automated testing.\n\nWhat to expect from Pearson\n\nDid you know Pearson is one of the 10 most innovative education companies of 2022?\n\nAt Pearson, we add life to a lifetime of learning so everyone can realize the life they imagine. We do this by creating vibrant and enriching learning experiences designed for real-life impact. We are on a journey to be 100 percent digital to meet the changing needs of the global population by developing a new strategy with ambitious targets. To deliver on our strategic vision, we have five business divisions that are the foundation for the long-term growth of the company: Assessment & Qualifications, Virtual Learning, English Language Learning, Workforce Skills and Higher Education. Alongside these, we have our corporate divisions: Digital & Technology, Finance, Global Corporate Marketing & Communications, Human Resources, Legal, Strategy and Direct to Consumer. Learn more at We are Pearson.\n\nWe value the power of an inclusive culture and also a strong sense of belonging. We promote a culture where differences are embraced, opportunities are accessible, consideration and respect are the norm and all individuals are supported in reaching their full potential. Through our talent, we believe that diversity, equity and inclusion make us a more innovative and vibrant place to work. People are at the center, and we are committed to building a workplace where talent can learn, grow and thrive.\n\nPearson is an Affirmative Action and Equal Opportunity Employer and a member of E-Verify. We want a team that represents a variety of backgrounds, perspectives and skills. The more inclusive we are, the better our work will be. All employment decisions are based on qualifications, merit and business need. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We strive for a workforce that reflects the diversity of our communities.\n\nTo learn more about Pearson’s commitment to a diverse and inclusive workforce, navigate to: Diversity, Equity & Inclusion at Pearson.\n\nIf you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing TalentExperienceGlobalTeam@grp.pearson.com.\n\nNote that the information you provide will stay confidential and will be stored securely. It will not be seen by those involved in making decisions as part of the recruitment process.\n\nJob: TECHNOLOGY\n\nOrganization: English Language Learning\n\nSchedule: FULL_TIME\n\nWorkplace Type: Remote\n\nReq ID: 16397\n\n#LI-REMOTE",
+            "apply_options": [
+                {
+                    "title": "Pearson Jobs",
+                    "link": "https://pearson.jobs/virtual-esp/senior-android-engineer/5CE3498D9E8C4441ADB65DC40C313186/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://es.indeed.com/viewjob?jk=9b98d48dfcb2d928&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/senior-android-engineer-at-feverup-525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/senior-android-engineer-at-adaptiq-4091419751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/senior-android-engineer-pearson-JV_KO0,23_KE24,31.htm?jl=1009377555114&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-3206-c278b179df6907b5dd2492e606fad735?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/senior-android-engineer--pearson-pearson3-16397/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/en_internet/ti_tecnologia/3851184554/s/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlBlYXJzb24iLCJhZGRyZXNzX2NpdHkiOiJTcGFpbiIsImh0aWRvY2lkIjoiekNSZEREdXdwcVRuajByX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMGhFUWs0NWMwRkJUamRpTW5Cc1QyczJMVmM0UVMxd2NXRk9WbUp0TkRoM1lsTm1jR2R1T0VRdFQyZFhXRlExU210blpHbGxSWFZYU0V4QmNVeEtaM2RtTkhJMGQyTk1XbFJFYmtOeVdUSmFPUzFDYkhkcVIyNU9Ubkl3YTJoYVJuQlBWMWh4VjNKVGNsOVVhV05wWVhSTVYwZFFTSGRST1hobWRVc3hWRUY0T1hoRFZHZGFiMU5SVDNseWVtMURiazF1TUU4NWQwMVZTV3R1WjBwUGVsQm5aelpJUjNCd04zSnVaREpGYVhGMVdqSkJVM1JXZFVWWVNEY3lNbUY0V21OSGVsQXpNREpHZDBKQ2RuaFVUREpVWlVaMVdIRldNVlpVV25OUFF6QjFNbVpEUWs5WFYzQllOR1Y2WjAwMk1XdFVaMU5xTVV3eVRGSmhTVzVmTlROMk9ERkJjMFJIYVRSa2JVdEJaRnBEY2xSRGJEUXhObTR0UW1jU0Z6QjJWMFZhT1MwM1REUlViRFZPYjFCeU5UZEhiVUYzR2lKQlJsaHlSV054U0Y4NFJVRjRXa1Y0U2pobVpIaEhWelExZGxwVE0zVlhOMWxCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.es&location=Spain&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMGhFUWs0NWMwRkJUamRpTW5Cc1QyczJMVmM0UVMxd2NXRk9WbUp0TkRoM1lsTm1jR2R1T0VRdFQyZFhXRlExU210blpHbGxSWFZYU0V4QmNVeEtaM2RtTkhJMGQyTk1XbFJFYmtOeVdUSmFPUzFDYkhkcVIyNU9Ubkl3YTJoYVJuQlBWMWh4VjNKVGNsOVVhV05wWVhSTVYwZFFTSGRST1hobWRVc3hWRUY0T1hoRFZHZGFiMU5SVDNseWVtMURiazF1TUU4NWQwMVZTV3R1WjBwUGVsQm5aelpJUjNCd04zSnVaREpGYVhGMVdqSkJVM1JXZFVWWVNEY3lNbUY0V21OSGVsQXpNREpHZDBKQ2RuaFVUREpVWlVaMVdIRldNVlpVV25OUFF6QjFNbVpEUWs5WFYzQllOR1Y2WjAwMk1XdFVaMU5xTVV3eVRGSmhTVzVmTlROMk9ERkJjMFJIYVRSa2JVdEJaRnBEY2xSRGJEUXhObTR0UW1jU0Z6QjJWMFZhT1MwM1REUlViRFZPYjFCeU5UZEhiVUYzR2lKQlJsaHlSV054U0Y4NFJVRjRXa1Y0U2pobVpIaEhWelExZGxwVE0zVlhOMWxCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

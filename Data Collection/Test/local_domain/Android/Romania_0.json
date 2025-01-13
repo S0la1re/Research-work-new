@@ -1,0 +1,23 @@
+{
+    "search_metadata": {
+        "id": "6784f5ce2dc5ef281839bd68",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/97c46420a0d0d5a3/6784f5ce2dc5ef281839bd68.json",
+        "created_at": "2025-01-13 11:15:26 UTC",
+        "processed_at": "2025-01-13 11:15:26 UTC",
+        "google_jobs_url": "https://www.google.ro/search?q=Android+developer&uule=w+CAIQICIHUm9tYW5pYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/97c46420a0d0d5a3/6784f5ce2dc5ef281839bd68.html",
+        "total_time_taken": 0.46
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Romania",
+        "location_used": "Romania",
+        "google_domain": "google.ro"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

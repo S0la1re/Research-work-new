@@ -1,0 +1,447 @@
+{
+    "search_metadata": {
+        "id": "6784f5babb558d9b32ced351",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7188de1fdc2aa776/6784f5babb558d9b32ced351.json",
+        "created_at": "2025-01-13 11:15:06 UTC",
+        "processed_at": "2025-01-13 11:15:06 UTC",
+        "google_jobs_url": "https://www.google.ie/search?q=Android+developer&uule=w+CAIQICIHSXJlbGFuZA&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/7188de1fdc2aa776/6784f5babb558d9b32ced351.html",
+        "total_time_taken": 0.82
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Ireland",
+        "location_used": "Ireland",
+        "google_domain": "google.ie"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.ie/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjZqav0yPKKAxXktokEHTUSAvkQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Engineer (Mid Level)",
+            "company_name": "Ding",
+            "location": "Dublin, Ireland",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=voZKRYzlD9ZBQSqjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHQQrCMBAAQLz2A4KnPapoIkovehIqougbSpIuSSTuhmyU_sFPq5eBaT6TZnekoXAc4EQ-EmKB-f23G74xLWANV7YgaIoLwARnZp9wdgi1ZtlrLZKUl2pqdMrxUzOh5VE_2MqfXoIpmJOp2G_bzagy-eW0i-QhEnQvmyKt4FIwGRq-kzmL-I4AAAA&shmds=v1_AUFQtOMTWyH3ZK8SyTtokk86r_7ilB7BWIhGRAviKHbG_ZWp6Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=voZKRYzlD9ZBQSqjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5babb558d9b32ced351/images/0f0d2c53d1b756117781804e4225abddc6b5454d333960e7c332e2cd87d73aae.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "As Android Engineer you will report to Engineering Team Lead and be responsible for designing, developing, testing, and maintaining high-quality Android applications that provide an exceptional user experience. You will collaborate with cross-functional teams, including product managers, designers, and backend engineers, to deliver robust and scalable solutions.\n\nWhat we need you to do:\n• Design and develop advanced Android applications using Kotlin/Java, following best practices and coding standards.\n• Collaborate with cross-functional teams to define project requirements, specifications, and deliverables.\n• Participate in architectural and design discussions, providing valuable insights and recommendations.\n• Write clean, maintainable, and efficient code, ensuring proper documentation and adherence to coding standards.\n• Conduct thorough testing and debugging of applications, addressing any issues or bugs promptly.\n• Optimize application performance, ensuring smooth and efficient operation on various Android devices.\n• Stay up to date with the latest Android development trends, tools, and frameworks, and share knowledge with the team.\n• Continuously improve development processes and workflows to enhance productivity and quality.\n• Collaborate with backend engineers to design and integrate APIs and web services into Android applications.\n• Work closely with UX/UI designers to implement intuitive and visually appealing user interfaces.\n• Participate in code reviews, providing constructive feedback to peers and maintaining code quality standards.\n• Troubleshoot and resolve software defects and production issues as they arise.\n\nWhat we are looking for:\n• Bachelor's or master’s degree in computer science, Software Engineering, or a related field.\n• Proven experience as an Android Engineer, with a strong portfolio of Android applications.\n• Proficiency in Kotlin and/or Java programming languages.\n• Solid understanding of Android SDK, Android Studio, and related development tools.\n• Experience with version control systems, such as Git.\n• Strong knowledge of object-oriented programming principles and design patterns.\n• Familiarity with RESTful APIs and integration of backend services into Android applications.\n• Understanding of mobile UI/UX design principles and best practices.\n• Experience with automated testing frameworks for Android applications (e.g., Espresso, Robolectric).\n• Knowledge of performance optimization techniques and tools.\n• Ability to work collaboratively in a fast-paced, agile environment.\n• Strong problem-solving and debugging skills.\n• Excellent communication and interpersonal skills.\n\nDing is committed to creating equal employment opportunities in the workplace. We know that experience looks different for everyone – if you believe your proven experience would suit this role and is what we are looking for we encourage you to apply.\n\nLife at Ding:\n\nAt Ding, we are striving to grow and nurture a culture that is inclusive, global, and equitable but most of all fun! In addition, to your basic salary and bonus there are many benefits also available across Ding. Some are recent additions, some have been enhanced and others have been there all along!\n• YOLO days & Dingversary Leave: additional holidays the year of your 4th/7th/10th/13th Anniversary\n• Flexible & Hybrid Working: we recognise the need to use space and working practices in ways that best support you\n• Work Abroad Programme: the opportunity to work for 30 days from another country each year\n• Tax Free Remote Working Allowance: of up to €70 per month\n• Wellness Programme: with monthly events, both virtual and in-person\n• Ding Dollars: flexible benefit allowance allowing you to tailor your benefit choice\n• Referral Fees\n• Enhanced Family Policies\n\nOur aim is to build and run the safest, simplest, most effective and convenient top-up technology, in partnership with the best operators and platforms. Now more than ever we realise the importance of keeping in touch and here at Ding we believe a little goes a long way.\n\nDing’s recruitment privacy notice is available at https://www.ding.com/recruitment-privacy-notice",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ie.linkedin.com/jobs/view/android-engineer-mid-level-at-ding-4118622587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIChNaWQgTGV2ZWwpIiwiY29tcGFueV9uYW1lIjoiRGluZyIsImFkZHJlc3NfY2l0eSI6IkR1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoidm9aS1JZemxEOVpCUVNxakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Android Java Software Developer",
+            "company_name": "Metric TristarInc Ltd",
+            "location": "Cork, Ireland",
+            "via": "Indeed",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=rO1L0vZfxdqXobYTAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE43OYg2IuigkyhIi066lzQ5m2jMhctR-zK-q3X5t-8vvpNie4iWyVuoda_hRg_5aEY4YY-BEjIsoaYWMmo2DijCmagLON07kZR3SuUcyi6LFm9KQ29FEVsa1JPa_E-T3fhLQQs2681qKFPs5rMrCnsDd_aj5CoauIgFH-FI_FpAxRh0tD8HP3xJoAAAAA&shmds=v1_AUFQtOPFIn-53Vlu80UnEAa0W3XFKmXip09OHbcPrAA__XIHZg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=rO1L0vZfxdqXobYTAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Title: Android Java Software Developer\n• Reporting To Senior Program Manager.\n• Location Douglas, Cork, Ireland\n\nWho we want\n\nAndroid developer with 1+ years’ experience of developing and delivering production level applications to customers. Full stack experience, file manipulation and storage, DB, UI, business logic.\n\nOverall Description\n• Develop Android-based smart ticket machine products in a demanding environment.\n• Learn how the electronic payments are applied to the ticketing industry in Transportation.\n• Integrate with the National Card Schemes in Ireland, Germany, and the UK.\n• Integrate and support Visa and Mastercard Payments on Transport and Ticketing.\n• Position is office based, with some small flexibility for remote work on occasion.\n\nMain Duties\n\nDesign and development of leading-edge smart ticketing applications on Android, following the Agile-based software lifecycles, to ensure successful introduction of new Electronic Ticketing Machines into production and end customers, including:\n• Lead low-level Android and embedded Linux developer in the team, working alongside Android Application and Enterprise Java developers.\n• Learn how to Create detailed technical specifications.\n• Collaborate with European-based development teams.\n• Complying with company’s quality procedures to meet expectations of product quality and reliability.\n• Working closely with the mechanical and electronics development teams to ensure products achieve the highest standards.\n• Where necessary, to provide reasonable support to other departments within the company.\n• Learn how the Card Payments are integrated.\n• Work with the Customer Support department in helping diagnose issues in the fields.\n\nPerson Spec\n• Ability and willingness to adapt and learn modern technologies and development techniques.\n• Motivated and flexible individual who can work to deadlines when under pressure.\n• Ability to work on own initiative and as part of a team.\n• Good understanding of business and commercial issues within a market driven organisation.\n• Ability to take project lead on assigned projects.\n• Excellent organisational skills and a demonstrated ability to multitask and manage time efficiently.\n• Great academic record.\n\nEssential Skills (Technical Skills)\n• Good Knowledge of Android and Java\n• Good knowledge of Processes, threads, IPC, file systems on Android/Linux.\n• Object oriented design and design patterns.\n• Good knowledge about Security\n\nOther Desirable (Technical Skills)\n• Relational databases (MySQL and SQLite)\n• Network programming: TCP/IP, sockets, HTTP, XMPP\n• Knowledge of serial communications protocols (I2C, SPI, RS232)\n• Payment card schemes (credit/Chip & PIN, ISO7816, contactless card schemes, etc.)\n• Secure operating systems (SELinux)\n\nHealth & Safety Statement\n\nUnder the health & Safety at work Act, everyone has a legal responsibility for their own welfare and for the health and safety of others. Any queries you may have relating to health & safety matters should be raised in the first instance with your supervisor, your manager or a member of Human Resources Department.\n\nEqual Opportunities Statement\n• MetricTristarInc is an Equal Opportunities Employer and will promote regardless\n\nof sex, sexual orientation, marital status, disability, religion, beliefs, colour, race,nationality, gender reassignment, ethnic or national origin.\n• Our aim is to ensure that no job application or employee received less favourable treatment or is disadvantaged by employment conditions or requirements which cannot be shown to be justifiable.\n\nJob Types: Full-time, Permanent\n\nPay: From €26,416.00 per year\n\nSchedule:\n• 8 hour shift\n• Day shift\n• Monday to Friday\n• No weekends\n\nApplication question(s):\n• Will you now or in the future require sponsorship for employment visa status?\n• Are you comfortable working in an onsite setting?\n• Are you currently living within 50km of Douglas, Cork City?\n\nExperience:\n• Android development: 2 years (required)\n\nLanguage:\n• English at a Professional Level (required)\n• English Fluently (required)\n\nWork authorisation:\n• Ireland (required)\n\nWork Location: In person\n\nReference ID: FF10",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ie.indeed.com/viewjob?jk=325d5a2794a5f87a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEphdmEgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTWV0cmljIFRyaXN0YXJJbmMgTHRkIiwiYWRkcmVzc19jaXR5IjoiQ29yaywgSXJlbGFuZCIsImh0aWRvY2lkIjoick8xTDB2WmZ4ZHFYb2JZVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Mobile App Developer - Android",
+            "company_name": "Tapadoo",
+            "location": "County Dublin, Ireland",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=2alcz9VQFsL8bDMCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAAUFz7CU7nKpqI0EWnYkEU3NxL0hxtJN4duVTql_i76vJ41WdR1Tf2MSE0ItDiCxMLZthCQyFzDL9d2YOiy_0ITHBmHhIuj2MpogdrVZMZtLgSe9Pz0zKh59k-2OufTkeXUZIr2O3r3WyEhvXq7sQFZogEJ56ovKGdfIq0gUvG5Ch8AXUgKWyaAAAA&shmds=v1_AUFQtOOo9kRK2dGhUO0LW5d_18bfHLvmoE8Y-7j_BbOKhO-yJA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=2alcz9VQFsL8bDMCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5babb558d9b32ced351/images/0f0d2c53d1b7561189762b360e3f10e5870757c4cc1c9c7300e3a2ee26f6fe7a.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Due to an increase in demand for our services, Tapadoo are now looking for a mid-level Android Developer.\n\nWe've a number of new interesting projects booked, and need to continue to expand our team.\n\nWe are based in our offices in Dublin City centre, in Strand Street Great, just near the Ha'penny bridge and Dublin's Italian Quarter. This role is office based.\n\nRequirements\n\nWe're not hung up on education or qualifications. Yeah, we'll read it, but we're much more interested in what you've done.\n\nWe'd like to see some examples of your work. Specifically, apps you've worked on that are in the Play Store.\n\nWe want enthusiastic, motivated people who like to build apps and have a keen eye for UI/UX. Our projects are built with Kotlin and using the latest Jetpack Compose and Material Design Components. Experience in test driven development and managing CI/CD pipelines is a plus, but not necessary, you’ll have plenty of opportunity to learn as you go.\n\nWe use git for source control, YouTrack for bug tracking and TeamCity for continuous integration - But if you don't know these, we can help.\n\nDue to Tapadoo’s requirements for visa and work eligibility compliance in Ireland, we are only able to consider candidates who are EU/EEA citizens or those who have current visa and work permit. We are not considering relocation or sponsorship for this role.\n\nBenefits\n\nSalary will be in line with experience. Tapadoo offer a generous health plan to all employees upon completion of a probation period, and a generous company matched pension package too.\n\nHere's what we see as a major benefit:\n\nMobile apps are our core business. We eat, sleep and drink mobile apps. We're design led, and keep apace of what's going on in this industry. When you work at Tapadoo, you'll be able to showcase your efforts as they end up in the Play Store. Your contributions will be valued, and visible. You won't be \"the mobile app developer\" in a company whose core business is something completely different, left to work on a single app forever. Instead, you'll work on new and interesting projects on an ongoing basis.\n\nSo get in touchWe believe that a diverse team makes for better products and a better workplace. Our team come from all over the world and from a variety of backgrounds, cultures and life experiences. If you like the look of the job, but feel you don't meet all the requirements, feel free to drop us a mail at recruiting@tapadoo.com; We're happy to discuss the role and see if it may be a fit for you.\n\nApplicants please note that we are not considering relocation for this role.\n\nSorry Recruiters, we're not looking for help with this.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/mobile-app-developer-android-tapadoo-5907448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciAtIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJUYXBhZG9vIiwiYWRkcmVzc19jaXR5IjoiQ291bnR5IER1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoiMmFsY3o5VlFGc0w4YkRNQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Staff Android Developer",
+            "company_name": "Cpl Healthcare",
+            "location": "County Dublin, Ireland",
+            "via": "Jobrapido.com",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=l7I0arWKuMELbKAXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJOw7CMAwAULH2CEweEYIEIbHAhFqJz8oBqqR1myBjR4mL4CRcF1je8qrPrDI3dcMAR-6zxB4afCJJwgxruIqHgi53AYThJDISzg9BNZW9taWQGYs6jZ3p5GGF0cvL3sWXP20JLmMip9hud5uXSTwuF3UiOKMjDd1vITLUMrG-oZk8RV7BJSM57r-uy29AmgAAAA&shmds=v1_AUFQtON_aobQBD5O5nzBaxSNyPVu_X4w_zSF69fWO4UzFSi5Pg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=l7I0arWKuMELbKAXAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Who We Are:\n\nCpl is partnering up with SiriusXM and its brands (Pandora, SXM Media, AdsWizz, Simplecast, and SiriusXM Connected Vehicle Services) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n\nWe are proud to be launching a new state-of-the-art technology facility in Dublin, Ireland. The Dublin-based team will play a critical role in our continued digital transformation and will function as a center of excellence for SiriusXM’s global Product and Technology organization.\n\nSiriusXM’s new Dublin facility will comprise a workforce primarily focused on software development, automotive technology and engineering, AdTech, data science, and analytics. Talent based in the new technology hub will be charged with developing and implementing best-in-class standards for high-quality, scalable software deliveries for SiriusXM’s streaming and in-vehicle audio entertainment platforms.\n\nHow you’ll make an impact:\n\nThe Senior Software Engineer will be responsible for development, maintenance, and new features for Satellite and IP features for SiriusXM client applications running on Android, Linux, and Windows platforms.\n\nThe ideal candidate will have a proven track record of participating in an embedded SW development team, designing, implementing, and testing sophisticated software architectures, and will have been directly responsible for developing software.\n\nWhat you’ll do:\n• Design, document, and implement customer and reference application software to bring SAT and IP streaming audio, data, and advanced features to automotive.\n• Support the full software development lifecycle from initial feature definition through software release and in-field customer support.\n• Perform analysis of internal and third-party product requirements and specifications, understanding software framework architectures and designs to meet internal and external customer needs.\n• Participate in software design and review sessions with the software team and other stakeholders.\n• Author software application notes, programming manuals, and training materials for distribution and presentation to SiriusXM partners.\n• Author software components, ensuring they meet functional and quality requirements.\n• Utilize best practices in implementing software deliverables.\n• Assist in supporting end-users of the software deliverables, providing support as needed.\n• Perform special projects, lab/field testing, and other duties as necessary.\n• Assist in the development of user interface software specifications and software for SiriusXM Radio receiver products.\n• Assist in the development of advanced Infotainment and Telematics features for SiriusXM Radio receiver products.\n• Provide regular and accurate reports to the Senior Manager – OEM Validation and perform special projects, lab/field testing, and other duties as necessary.\n• Perform other duties as assigned.\n\nWhat you’ll need:\n• BS Software Engineering or equivalent experience required. Masters in Software Engineering is desired.\n• 5+ years of expertise in software development with Java or Kotlin.\n\nDesired experience:\n• 5+ years of expertise in software, framework, and application development for embedded consumer or automotive products.\n• Experience in one or more of these areas:\n• Consumer or Automotive audio and infotainment products (radio head units, navigation systems, MP3 connectivity, CD players, telematics systems, etc.)\n• Digital communications\n• Client/server communications (e.g. PC/device)\n• Protocols: BLE, WiFi, CAN, LIN, or Ethernet.\n• Internet Protocol products and technology\n• IPC Mechanisms – Sockets, Message Queues, Shared Memory, etc.\n• Experience with any of the following: Android, AAOS, Linux, AMZ Digital Cockpit\n• Experience with advanced software development environments (IDE, compilers, operating systems, source management tools, CI/CD, and test tools)\n• Expertise in C/C++11 and/or Rust in an embedded environment\n• Experience with Qt / QML framework\n• Knowledge in object-oriented methodologies, and system software design concepts\n• Experience in participating in formal documentation and source code reviews, providing relevant and insightful feedback to team members\n• Working knowledge with REST HTTP protocols\n• Familiarity with formal software design and agile processes\n• Familiarity with configuration management and defect tracking tools (GitHub, Jira)\n• Familiarity with unit testing best practices\n• Familiarity with both Windows and Unix-like Operating Systems\n\nOur goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism, and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n\nThe requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n\n#LI-ML5\n\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ie.jobrapido.com/jobpreview/7891806616020844544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNwbCBIZWFsdGhjYXJlIiwiYWRkcmVzc19jaXR5IjoiQ291bnR5IER1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoibDdJMGFyV0t1TUVMYktBWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Senior Android Software Engineer, Emerging Markets",
+            "company_name": "Reddit",
+            "location": "Dublin, Ireland",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=iiRGap9-wXQfKrKxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzA62mlpgVwUYrwSARbMwBwiY7blY3M2F2xNzHixqbz-t-9l1kVY0UWOBETjg4qPmhHysIJflAiJJDOaDM9nCz8kJNsIErt5DQStcDE1yYfcTVsVcd08GYlGLhk1oNXdHxYJiw5ck8uU3_NKmfB2O0is1uv52Kkfx6eUfngkIgOL_bGCiHSjBacj-duru-pgAAAA&shmds=v1_AUFQtOMXdDhfb4nJg3UOSVtBP6cBoDPb0k3WWZlP8axaevO7_Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=iiRGap9-wXQfKrKxAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 97M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.\n\nThe Emerging Markets product team works on high impact initiatives to fuel Reddit international growth in markets like India, Brazil, the Philippines etc. You will work on product experiences that help users discover and engage with their communities to daily active users growth. Your work will help the next 500 million Redditors find communities, belonging, and empowerment on Reddit.\n\nHow You'll Have Impact:\n\nYou will contribute to shaping and improving existing features. You’ll own projects from ideation to production instead of being stuck making small incremental gains on enterprise systems. You’ll work with a super-talented, cross-functional team to solve hard problems to create experiences that users will love. We are a team of builders that value impact, personal growth, openness, and kindness.\n\nYour role:\n• Design, build, and ship features, experiments and products for millions of users to support our international growth.\n• Communicate effectively, within the team and across disciplines. Work closely with product managers and designers to craft compelling user experiences.\n• Contribute meaningfully to our team’s strategy. We give everyone a seat at the table and encourage active participation in planning our future. Don’t just come along for the ride.\n• Participate in product reviews and team meetings, providing technical insight. Help scope, estimate, and prioritize between conflicting needs.\n• Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.\n• Participate with a team of thoughtful, fast-moving, and motivated engineers. Contribute to standards that improve developer workflows, recommend best practices, and help mentor engineers on the team to grow their technical expertise.\n• Continuously learn and improve your technical and non-technical abilities.\n\nWhat we are looking for:\n• Minimum 5+ years of post-internship, full-time, hands-on, professional software development experience developing user-facing Android mobile native applications at scale, using Java or Kotlin\n• You’re a champion of software engineering best practices such as unit/integration/end-to-end testing, design documents, CI/CD, A/B testing, code reviews, and documentation.\n• Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.\n• Excellent communication skills. You collaborate effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.\n• Experience with modern Android development frameworks such as Jetpack Compose and Kotlin coroutines.\n• You love to build new things and thrive in ambiguity and even failure. You have a strong drive to create value, whether for users or the company.\n• Additional knowledge around GraphQL, REST, HTTP basics, and the ability to design maintainable APIs is a plus.\n\nBenefits:\n• Private Medical, Dental and Vision Benefits\n• Retirement Savings plan with matching contributions\n• Workspace benefits for your home office\n• Personal & Professional development funds\n• Family Planning Support\n• Commuter Benefits\n• Flexible Vacation & Reddit Global Days Off\n\nReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/senior-android-software-engineer-emerging-markets-at-reddit-1250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-android-software-engineer-reddit-5963538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ie.jooble.org/jdp/8645242565593852649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employbl",
+                    "link": "https://www.employbl.com/jobs/senior-android-software-engineer-reddit-854604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ie.jobrapido.com/jobpreview/1865755122189991936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ie.trabajo.org/job-2078-5faf7387d5ee9346ed8419774da985df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBTb2Z0d2FyZSBFbmdpbmVlciwgRW1lcmdpbmcgTWFya2V0cyIsImNvbXBhbnlfbmFtZSI6IlJlZGRpdCIsImFkZHJlc3NfY2l0eSI6IkR1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoiaWlSR2FwOS13WFFmS3JLeEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Mobile Android Engineer",
+            "company_name": "Yassir",
+            "location": "Dublin, Ireland",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=kVHIzBhAgOct9hpfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3BlpNLZqIYKOVoIiCB7Ba8hmSWeJMyETYI3hs8RVv-C4G8xRPBeHMsQlFuHIiRmywhYd4UHQtZBCGm0gquDrl3qserVUtJml3nYIJ8rbC6GW2k3j9N2p2DWtxHcf9YTebymm9fDlVakAMl48vxBu4NyyO4w-Yvcw7iwAAAA&shmds=v1_AUFQtOOTR9suXs5m0xgsPx2VabPDCUaVCRcNHPbcmwDL8K3I3g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=kVHIzBhAgOct9hpfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5babb558d9b32ced351/images/0f0d2c53d1b756112a213d1fda677f8073d775e790875f5ab16627893bc50401.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Yassir is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in 45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa. It is backed (~$200M in funding) by VCs from Silicon Valley, Europe and other parts of the world.\nWe offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.\nHelping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nABOUT THE ROLE\nIn this role, you will be part of our engineering team, working with a high quality code base and the latest tools, where you will promote your skills to be an expert in complex frontend development in Android (kotlin) native platforms. Your primary focus will be development of mobile applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure. Therefore, a commitment to a highly dynamic environment, where root cause analysis and rapid collaborative problem solving, sophisticated design, and the creation of quality products are required.\nTASKS\n• Design and build mobile applications for Android.\n• Ensure the performance, quality, and responsiveness of applications\n• Collaborate with a team to define, design, and ship new features\n• Identify and correct bottlenecks and fix bugs\n• Help maintain code quality, organization, and automatization\n• Participate in brainstorming sessions and contribute ideas to our technology, algorithms and products.\n• Work with the engineering and design teams to understand end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution\n• Dive into difficult problems and successfully deliver results on schedule\nREQUIREMENTS\n• Must have technical skills\n• A minimum of 2 years of experience\n• Language: Android, Kotlin\n• Familiarity with cloud message APIs and push notification\n• Web architecture: Rest and restful APIs, micro-services\n• Version control: GIT\n• Nice to have technical skills (Strongly advised)\n• Containers: Docker, kubernetes\n• Caching, Redis server\n• Scaling, Web load balancing\n• Experience in a rapidly growing company in the mobility, on-demand, or fintech space is a plus\n• BSc/MSc in Engineering, Computer Science or relevant field\nBENEFITS\n• Great compensation and bonuses including stock options.\n• Ground floor opportunity with the team; shape the strategic direction of the company\n• Sharp, motivated co-workers in a fun office environment or in remote\n• Paid company holidays\n• Full social coverage\nWHY YOU SHOULD JOIN YASSIR\n• Join one of the fastest-growing tech companies in North Africa\n• Have a lasting impact on our company's culture\n• Make a real impact on the world by helping us bring affordable financial and on-demand services to millions of Africans\n• Work on some really hard technical challenges from identity infrastructure for Africans, digital payment networks to complex mapping and routing systems across the continent.\n• We are the first Algerian startup to go through Y Combinator program and we’re backed by top investors including Unpopular Ventures, Rebel Fund and DainTree.VC\nAt Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.\n\nDon't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.\n\nWe look forward to receiving your application!\n\nBest of luck,\nYour Yassir TA Team",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/mobile-android-engineer-at-yassir-191?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ie.trabajo.org/job-2078-f2404131bcc1beb27a1108256f3feb35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ie.jobrapido.com/jobpreview/57377782367256576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6Illhc3NpciIsImFkZHJlc3NfY2l0eSI6IkR1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoia1ZISXpCaEFnT2N0OWhwZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Staff Android Developer (1/11/2025 A)",
+            "company_name": "Cpl Healthcare",
+            "location": "Dublin, Ireland",
+            "via": "Jobrapido.com",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=-d4rv-6ri4oqsAxnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJPQ6CMBQA4LhyBKfnpkYpkLCgC5HEn9UDkLY8aM2zr2mr4TSeVV2-5cs-i-x4T3IcoXVDYDtAh28k9hhgXYqyFFVR1dBuYA83VhBRBm2AHZyZJ8LlwaTkYyNEjJRPMclkda75Kdih4lk8WMU_fTQyoCeZsK_qYs69m7arkye4oKRk9G_BOuheiqzbwTUgSTd8ASSxYqehAAAA&shmds=v1_AUFQtONVCEli78y8H3mH6yEWb-YiFRbQYQwHFojNZvzJ3LzYUA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=-d4rv-6ri4oqsAxnAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Who We Are:\n\nCpl is partnering up with SiriusXM and its brands (Pandora, SXM Media, AdsWizz, Simplecast, and SiriusXM Connected Vehicle Services) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n\nWe are proud to be launching a new state-of-the-art technology facility in Dublin, Ireland. The Dublin-based team will play a critical role in our continued digital transformation and will function as a center of excellence for SiriusXM’s global Product and Technology organization.\n\nSiriusXM’s new Dublin facility will comprise a workforce primarily focused on software development, automotive technology and engineering, AdTech, data science, and analytics. Talent based in the new technology hub will be charged with developing and implementing best-in-class standards for high-quality, scalable software deliveries for SiriusXM’s streaming and in-vehicle audio entertainment platforms.\n\nHow you’ll make an impact:\n\nThe Senior Software Engineer will be responsible for development, maintenance, and new features for Satellite and IP features for SiriusXM client applications running on Android, Linux, and Windows platforms.\n\nThe ideal candidate will have a proven track record of participating in an embedded SW development team, designing, implementing, and testing sophisticated software architectures, and will have been directly responsible for developing software.\n\nWhat you’ll do:\n\n1. Design, document, and implement customer and reference application software to bring SAT and IP streaming audio, data, and advanced features to automotive.\n2. Support the full software development lifecycle from initial feature definition through software release and in-field customer support.\n3. Perform analysis of internal and third-party product requirements and specifications, understanding software framework architectures and designs to meet internal and external customer needs.\n4. Participate in software design and review sessions with the software team and other stakeholders.\n5. Author software application notes, programming manuals, and training materials for distribution and presentation to SiriusXM partners.\n6. Author software components, ensuring they meet functional and quality requirements.\n7. Utilize best practices in implementing software deliverables.\n8. Assist in supporting end-users of the software deliverables, providing support as needed.\n9. Perform special projects, lab/field testing, and other duties as necessary.\n10. Assist in the development of user interface software specifications and software for SiriusXM Radio receiver products.\n11. Assist in the development of advanced Infotainment and Telematics features for SiriusXM Radio receiver products.\n12. Provide regular and accurate reports to the Senior Manager – OEM Validation and perform special projects, lab/field testing, and other duties as necessary.\n13. Perform other duties as assigned.\n\nWhat you’ll need:\n\n1. BS Software Engineering or equivalent experience required. Masters in Software Engineering is desired.\n2. 5+ years of expertise in software development with Java or Kotlin.\n\nDesired experience:\n\n1. 5+ years of expertise in software, framework, and application development for embedded consumer or automotive products.\n2. Experience in one or more of these areas:\n\n1. Consumer or Automotive audio and infotainment products (radio head units, navigation systems, MP3 connectivity, CD players, telematics systems, etc.)\n2. Digital communications\n3. Client/server communications (e.g. PC/device)\n4. Protocols: BLE, WiFi, CAN, LIN, or Ethernet.\n5. Internet Protocol products and technology\n6. IPC Mechanisms – Sockets, Message Queues, Shared Memory, etc.\n7. Experience with any of the following: Android, AAOS, Linux, AMZ Digital Cockpit\n8. Experience with advanced software development environments (IDE, compilers, operating systems, source management tools, CI/CD, and test tools)\n9. Expertise in C/C++11 and/or Rust in an embedded environment\n10. Experience with Qt / QML framework\n11. Knowledge in object-oriented methodologies, and system software design concepts\n12. Experience in participating in formal documentation and source code reviews, providing relevant and insightful feedback to team members\n13. Working knowledge with REST HTTP protocols\n14. Familiarity with formal software design and agile processes\n15. Familiarity with configuration management and defect tracking tools (GitHub, Jira)\n16. Familiarity with unit testing best practices\n17. Familiarity with both Windows and Unix-like Operating Systems\n\nOur goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism, and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n\nThe requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n\n#LI-ML5\n\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ie.jobrapido.com/jobpreview/7176635874803712000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBbmRyb2lkIERldmVsb3BlciAoMS8xMS8yMDI1IEEpIiwiY29tcGFueV9uYW1lIjoiQ3BsIEhlYWx0aGNhcmUiLCJhZGRyZXNzX2NpdHkiOiJEdWJsaW4sIElyZWxhbmQiLCJodGlkb2NpZCI6Ii1kNHJ2LTZyaTRvcXNBeG5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIU1hKbGJHRnVaQSJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "PlaceMe",
+            "location": "Galway, Ireland",
+            "via": "PlaceMe - ICIMS",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=TfPNdE0yjQ47ImMOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvE27KKKKtCC46CYIoCP7BkbahPYlNaYqesz-uLm983WfWzQ85VBkDHOlJLIUqrOAiDpSw-gSS4SQSmfp9aq3ozlpVNlEbttEbLw8rmZxM9i5O_wyasFJhbDRstuvJlBwX_Y3R05Vg_H3IL3wv4VyJMYcvcCsE5YYAAAA&shmds=v1_AUFQtONQWIbYoa7Or2id28jUGXdXefmmheR3zzm70z3-eAsVyg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TfPNdE0yjQ47ImMOAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Overview\n\nThe successful candidate will work in the ever-growing IoT space, developing products to work in conjunction with IoT devices, wireless technology, server and database solutions. An excellent career opportunity for anyone looking to be part of the big data revolution. We are looking for an individual with a demonstrated interest in android development, who thrives on the challenges of learning new technologies and enjoys working as part of a highly skilled team.\n\nMy client run projects in a close team environment, resulting in excellent experience opportunities, exposure to evolving technologies, project methodologies and dedicated talent development programs with opportunities for future career opportunities.\n\nQualifications\n• 3-5+ years Java & Kotlin programming skills experience required along with a relevant 3rd level qualification.\n• Proven experience developing and debugging mobile applications.\n• Understanding of the Android operating system and programming environments.\n• Strong coding skills with proven ability to write well documented, maintainable, and testable code.\n• Excellent problem-solving skills and the ability to demonstrate logical troubleshooting steps when working on software bugs\n• A genuine passion and interest in technology and software development with a thorough knowledge of best practices and new technologies.\n• Self-management skills, particularly in respect to prioritization and execution\n• Detail-oriented individual with the ability to rapidly learn and take advantage of new concepts, business models, and technologies.\n• Have the ability to communicate technical concepts to non-technical people.\n\nResponsibilities\n• Design – working with Product Management, Project Management and end user stories on new product design architecture.\n• Development – taking designs and making them happen. Writing and testing code using strict development methodologies including code reuse, maintainability, testing and documentation.\n• Building high volume platforms - linking millions of users worldwide at the same time.\n• Quality Assurance – developing test cases in line with best practice methodology.\n• Project Environment - Working in a cross-functional agile team to develop features with collaboration across the software stacks.",
+            "apply_options": [
+                {
+                    "title": "PlaceMe - ICIMS",
+                    "link": "https://jobs-placeme.icims.com/jobs/1909/android-developer/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Ireland Jobs Expertini",
+                    "link": "https://ie.expertini.com/jobs/job/android-developer-galway-placeme-recruitment-da82bcd9f9/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter Ireland",
+                    "link": "https://www.ziprecruiter.ie/jobs/357439038-android-developer-at-placeme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://globalworkly.com/jobs.php?job=Android+app+developer&country=Ireland&city=Galway&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlBsYWNlTWUiLCJhZGRyZXNzX2NpdHkiOiJHYWx3YXksIElyZWxhbmQiLCJodGlkb2NpZCI6IlRmUE5kRTB5alE0N0ltTU9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIU1hKbGJHRnVaQSJ9"
+        },
+        {
+            "title": "Senior Android Developer - Kotlin",
+            "company_name": "Cross Border Talents",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=12Drim1G-_ki7xV-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE63CaKNCILopBZEHXUvSXO0kXgX7qL0cXxU4_Lzb1_1nVTbO1JggQN54eChwQ9GTiiwhBvnGKjMlR0oWukGYIIzcx9xuh9yTrozRjXWvWabQ1d3_DJM6Hg0T3b6T6uDFUzRZmzXm9VYJ-rns5OwKhxZfKEeNiJlhYI1b1fMBVwEoyX_A2ZasImjAAAA&shmds=v1_AUFQtOP_qSZI_oPYL3p_zPCJFdkZis2YP04EOowDmIhEhHFmHw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=12Drim1G-_ki7xV-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5babb558d9b32ced351/images/0f0d2c53d1b756112b08dd9f2aba913f7789721e61439441289a7f8683ecb453.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Ireland\n\nWe are looking for an Android developer responsible for the development and maintenance of\n\napplications aimed at a vast number of diverse Android devices. Your primary focus will be the\n\ndevelopment of Android applications and their integration with back-end services. You will be\n\nworking along-side other engineers and developers working on different layers of the\n\ninfrastructure. Therefore, commitment to collaborative problem solving, sophisticated design,\n\nand creating quality products is essential.\n\nResponsibilities\n\n● Writing clean and efficient code for Android applications\n\n● Monitoring the performance of live apps and work on optimizing them at the code level\n\n● Identifying and resolving bottlenecks, rectifying bugs and enhancing application\n\nperformance\n\n● Performing unit and instrumentation tests on code\n\n● Collaborating with cross-functional teams to define and design new features\n\n● Staying up to date with new mobile technology trends, applications, and protocols\n\nRequirements\n\nYou have prior experience as an Android Developer using Kotlin, Java, Android SDK and\n\nreactive programming\n\n● Knowledge of SOLID principles\n\n● You have experience in publishing an application on the Google Play store\n\n● Proven work experience in design patterns mobile architecture using frameworks such\n\nas MVVM/MVC/MVP\n\n● Familiarity with firebase integrations\n\n● Familiarity with RESTful APIs to effectively integrate Android applications\n\n● Understanding of Google’s Android design principles and interface guidelines\n\n● Proficient understanding of code versioning tools such as Git\n\n● Familiarity with continuous integration (Bitrise, Fastlane, etc)\n\n● Familiarity with various testing tools\n\n● You are a problem solver with good analytical skills\n\nThis offer from \"Cross Border Talents\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/663cc21b62352cab8d2b3fab-senior-android-developer---kotlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://ie.sercanto.com/detail/a/senior-android-developer-kotlin_ireland_5208766?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter Ireland",
+                    "link": "https://www.ziprecruiter.ie/jobs/357438188-senior-android-developer-kotlin-at-cross-border-talents?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Ireland Jobs Expertini",
+                    "link": "https://ie.expertini.com/jobs/job/senior-android-developer-kotlin-ireland-confidential-e6eea7fec2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgLSBLb3RsaW4iLCJjb21wYW55X25hbWUiOiJDcm9zcyBCb3JkZXIgVGFsZW50cyIsImFkZHJlc3NfY2l0eSI6IkR1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoiMTJEcmltMUctX2tpN3hWLUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Software Engineer II, Android",
+            "company_name": "Toast",
+            "location": "Dublin, Ireland",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=IdXSm5suGNZtT-k0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BeJ0s9RGRBc7CYrEVfeStGcaiXchd2J_wn9Wlze-6jOrtle-69sVhBOFSIgFrK3hQEPhOMAKLuxB0JV-BCY4M4eEi3ZUzbI3RiQ1QdRp7Juen4YJPU_mwV7-dDL-6pycYrfZracmU1jOb-xEIRIcXz5FqsEWTI6GL1ohGjeQAAAA&shmds=v1_AUFQtOMoD2SXyIm0U0N7rSIAdsOLCtMN8HjiyhezuxQWFvmzlw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=IdXSm5suGNZtT-k0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5babb558d9b32ced351/images/0f0d2c53d1b75611ebefe7ea506c4178fd1db3ca173aa97322034fe6d6bf58e5.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Toast is driven by building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love. Because our technology is purpose-built for restaurants, by restaurant people, restaurants can trust that we’ll deliver on their needs for today while investing in experiences that will power their restaurant of the future.\n\nAre you bready* for a change?\n\nAre you interested in using the latest technology to help our customers build amazing relationships with their guests? Does the idea of developing products that help people cherish their best moments in life sound exciting to you? As an engineer on the Guest Engagement team, your mission will be creating the next generation of engagement experiences that help bring new guests into the restaurants, and turn them into regulars. You will work closely with UX, PM and QA to help deliver some real impact on real people.\n\nAbout this roll* (Responsibilities)\n\n• Design, build and maintain high performing, flexible and scalable solutions\n• Build great UX using best practices of modern Android development\n• Create products and features that help restaurants run best in class guest experience\n• Collaborate with team members and other engineers across the company\n\nDo you have the right ingredients*? (Qualities & Essential Skills)\n\n• Proficient in Android development\n• Familiar with modern backend technologies (Java, Kotlin, or equivalents)\n• Interested in working across the technology stack to solve real world problems\n• Enjoys building well-engineered, usable and accessible systems\n• Passionate about making users happy and seeing people use your product in the wild\n• Ready to embrace an agile mindset focused on delivering usable software\n• Proficient in Software Development best practices (code quality, unit tests, clean code)\n\nWhat we use to make our dish (Our Tech Stack)\n\n• A core of Java & Kotlin based backend services.\n• React SPAs leveraging Tailwind, GraphQL and Storybook.\n• Android app built in Java & Kotlin running in the restaurant.\n• PostgreSQL and DynamoDB as core persistence.\n• Pulsar, Camel and RabbitMQ for message-based integrations.\n• And many more technologies that help us build a top class platform.\n\nOur Spread* of Total Rewards\nWe strive to provide competitive compensation and benefits programs that help to attract, retain, and motivate the best and brightest people in our industry. Our total rewards package goes beyond great earnings potential and provides the means to a healthy lifestyle with the flexibility to meet Toasters’ changing needs. Learn more about our benefits at https://careers.toasttab.com/toast-benefits.\n• Bread puns encouraged but not required\n\n#LI-HYBRID\n\nWe are Toasters\n\nDiversity, Equity, and Inclusion is Baked into our Recipe for Success.\n\nAt Toast our employees are our secret ingredient. When they are powered to succeed, Toast succeeds.\n\nThe restaurant industry is one of the most diverse industries. We embrace and are excited by this diversity, believing that only through authenticity, inclusivity, high standards of respect and trust, and leading with humility will we be able to achieve our goals.\n\nBaking inclusive principles into our company and diversity into our design provides equitable opportunities for all and enhances our ability to be first in class in all aspects of our industry.\n\nBready* to make a change? Apply today!\n\nToast is committed to creating an accessible and inclusive hiring process. As part of this commitment, we strive to provide reasonable accommodations for persons with disabilities to enable them to access the hiring process. If you need an accommodation to access the job application or interview process, please contact candidateaccommodations@toasttab.com.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/software-engineer-ii-android-toast-5948968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Useparallel.com",
+                    "link": "https://www.useparallel.com/app/candidate/job/670c5fee1fa1e0c1447f01a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Play",
+                    "link": "https://startupplay.com/job/software_engineer_ii_android_toast_dublin_ireland_2970745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSSwgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IlRvYXN0IiwiYWRkcmVzc19jaXR5IjoiRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJJZFhTbTVzdUdOWnRULWswQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbEJIYm1kUWNsZEViVmRITlZCWVZuUldWVE4xUjE5aVZqZFRZV0ZWU0VGaGNIbHhOVUZLVjJKWVRFZ3RPV2hqWW01NFMzQnVUUzAxVW5RdFkzQTNVR3hSVUVOdk5HVjJPRWsxVUVZMWJtMUdaV0Y0Ym1aU2N6ZDFkbm94TlVNelVIbHdhVk5OYjNnMVprdFZhR3RaVWtRd05rTnhWMGx2UldSVWNHTTRiR05NTTFSckxWVkRMVVJhUTNaTGJHMW9VWEYwUWpVNGNERmZiV3c0TTFkUVRVaFROREJ2UTB4blRqVkdNbVJsWTFsclRYUllPR3BZVVRCdU5EVkJiMFJvY0d4Q1kzbG9VbU5OYlZGWk0wZHVaakJOYW1vdExXUm5TV2wxWDBwbFh6QnNXbGxMYWxsa1NYSkJlWFV4TTAxNmFtVjRhV1UwWTBzNU9IWkNWVkJuU0ZoclRVaE1ZVkpKU1hsbUxUZEtkSGd3U0VaR05qSjZiMjFJVFZFU0YzVjJWMFZhT1c1clRtVlVkSEIwVVZCMFlWTkplVUU0R2lKQlJsaHlSV053U21Jd01ubzVPVVF4T1dKNlZuUlphak5hWVVGV01VTnRjVmRCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbEJIYm1kUWNsZEViVmRITlZCWVZuUldWVE4xUjE5aVZqZFRZV0ZWU0VGaGNIbHhOVUZLVjJKWVRFZ3RPV2hqWW01NFMzQnVUUzAxVW5RdFkzQTNVR3hSVUVOdk5HVjJPRWsxVUVZMWJtMUdaV0Y0Ym1aU2N6ZDFkbm94TlVNelVIbHdhVk5OYjNnMVprdFZhR3RaVWtRd05rTnhWMGx2UldSVWNHTTRiR05NTTFSckxWVkRMVVJhUTNaTGJHMW9VWEYwUWpVNGNERmZiV3c0TTFkUVRVaFROREJ2UTB4blRqVkdNbVJsWTFsclRYUllPR3BZVVRCdU5EVkJiMFJvY0d4Q1kzbG9VbU5OYlZGWk0wZHVaakJOYW1vdExXUm5TV2wxWDBwbFh6QnNXbGxMYWxsa1NYSkJlWFV4TTAxNmFtVjRhV1UwWTBzNU9IWkNWVkJuU0ZoclRVaE1ZVkpKU1hsbUxUZEtkSGd3U0VaR05qSjZiMjFJVFZFU0YzVjJWMFZhT1c1clRtVlVkSEIwVVZCMFlWTkplVUU0R2lKQlJsaHlSV053U21Jd01ubzVPVVF4T1dKNlZuUlphak5hWVVGV01VTnRjVmRCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}
