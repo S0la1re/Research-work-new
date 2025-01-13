@@ -1,0 +1,433 @@
+{
+    "search_metadata": {
+        "id": "67850a1bed3894374b8977cc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b8be56e56980fd2f/67850a1bed3894374b8977cc.json",
+        "created_at": "2025-01-13 12:42:03 UTC",
+        "processed_at": "2025-01-13 12:42:03 UTC",
+        "google_jobs_url": "https://www.google.ca/async/callback:550?q=Android+developer&uule=w+CAIQICIGQ2FuYWRh&udm=8&fc=EuECCqICQUpHOUprTjBlUEpOV01ydHJacEJDOXQ1YVNCV0xVN0x5bmdaM2VCa2V2aGFNV1JnNWhZY01ERTNGZEp3T0FKajRQYTl4YXZBUkozbWZOLTViOUpadnVBbzFrYXEyZUVtRWNENmJMVW5scmlPdmhucUxyRWZLNHFydGZoUFBob2pkVmZsT0xTZFdhRUh6ejJIbXhQVnJBWXVrelNBcDctenpmV3M4MUwybEJUVEhaS3JnUnQ5MEVaaXNRVU80SE84bXRpUlBQU3dQdjVpS2dYYW1fZTVFcUtEZk5YZmFqa2pQRTBzRUticTZvUWxQTFZobTNsREpZc0c2R3lxNkhrRlNEc3RNaVlnZGFubmc2V0VIQ1A5Zlg5MVhEU0RJVHNNZncSFkd3cUZaOGJ0QzRLaDVOb1A3S251UUEaIkFGWHJFY3JqMTVzYlhWQ1Qtd25GMHRBZEdmSi1rRGxIWHc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/b8be56e56980fd2f/67850a1bed3894374b8977cc.html",
+        "prettify_html_file": "https://serpapi.com/searches/b8be56e56980fd2f/67850a1bed3894374b8977cc.prettify",
+        "total_time_taken": 2.13
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Canada",
+        "location_used": "Canada",
+        "google_domain": "google.ca",
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUakJsVUVwT1YwMXlkSEphY0VKRE9YUTFZVk5DVjB4Vk4weDVibWRhTTJWQ2EyVjJhR0ZOVjFKbk5XaFpZMDFFUlROR1pFcDNUMEZLYWpSUVlUbDRZWFpCVWtvemJXWk9MVFZpT1VwYWRuVkJiekZyWVhFeVpVVnRSV05FTm1KTVZXNXNjbWxQZG1odWNVeHlSV1pMTkhGeWRHWm9VRkJvYjJwa1ZtWnNUMHhUWkZkaFJVaDZlakpJYlhoUVZuSkJXWFZyZWxOQmNEY3RlbnBtVjNNNE1Vd3liRUpVVkVoYVMzSm5VblE1TUVWYWFYTlJWVTgwU0U4NGJYUnBVbEJRVTNkUWRqVnBTMmRZWVcxZlpUVkZjVXRFWms1WVptRnFhMnBRUlRCelJVdGljVFp2VVd4UVRGWm9iVE5zUkVwWmMwYzJSM2x4TmtoclJsTkVjM1JOYVZsblpHRnVibWMyVjBWSVExQTVabGc1TVZoRVUwUkpWSE5OWm5jU0ZrZDNjVVphT0dKMFF6UkxhRFZPYjFBM1MyNTFVVUVhSWtGR1dISkZZM0pxTVRWellsaFdRMVF0ZDI1R01IUkJaRWRtU2kxclJHeElXSGMiLCJmY3YiOiIzIn0="
+    },
+    "jobs_results": [
+        {
+            "title": "Mobile Application Developer - Vancouver",
+            "company_name": "Yeah! Global",
+            "location": "Vancouver, BC, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=Rf4uW320SVZTilMtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0WNsQrCMBRFce0nOD0HF6mNCC46iFYoCK6CU3mJjybyzAtJLP0h_9Pq4nI5w-Hc4j0p9hfRjgkOIbAzmJ14OFFPLIEiLOGK3sir__FZNCTCaCyMViPSMU13NueQtkqlxFWX8pgwlZGnEk9aBvUQnb7TJouRAmOmdr1ZDVXw3WJ-I7QzaFg0Mjj_vyvhWJdQo8c7fgAW_GUSqAAAAA&shmds=v1_AUFQtOMpSGRBVqAi7EI5JC4L2pAWtBknAzi1NprNRkMLMR2cXg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Rf4uW320SVZTilMtAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Note: This position does not offer any Visa sponsorship. We are only looking for applicants who are either local to Vancouver, Canada, or ready to relocate to the employer's location.\n\nJob Summary: Our Client is looking for a creative and skilled Mobile Application Developer to join their team. You will be responsible for designing, developing, and maintaining high-quality mobile applications for both iOS and Android platforms. Your role will involve close collaboration with cross-functional teams to deliver innovative mobile solutions that enhance user experience.\n\nKey Responsibilities:\n• Develop and maintain advanced applications for both iOS and Android platforms.\n• Collaborate with cross-functional teams to define, design, and implement new features.\n• Integrate mobile applications with backend services, ensuring seamless data flow and performance.\n• Optimize application performance, quality, and responsiveness.\n• Identify and resolve bugs, and improve application reliability.\n• Continuously explore and implement new technologies to enhance development efficiency.\n• Write clean, maintainable, and well-documented code.\n• Participate in code reviews and provide constructive feedback to peers.\n• Stay informed about the latest industry trends and technologies to ensure the applications are up-to-date.\n\nQualifications:\n• Bachelors degree in Computer Science, Information Technology, or a related field.\n• 3+ years of proven experience as a Mobile Application Developer or in a similar role.\n• Proficiency in programming languages such as Swift, Objective-C, Java, and Kotlin.\n• Experience with mobile development frameworks like React Native or Flutter.\n• Strong understanding of the full mobile development lifecycle, including design, coding, testing, and deployment.\n• Excellent knowledge of UI/UX principles and best practices.\n• Familiarity with RESTful APIs to connect mobile applications to backend services.\n• Strong problem-solving and analytical skills.\n• Excellent communication and teamwork abilities.\n\nPreferred Skills:\n• Experience with CI/CD practices and tools.\n• Knowledge of mobile app security best practices.\n• Familiarity with cloud services and mobile backend-as-a-service (MBaaS) platforms.\n• Certification in mobile application development (e.g., Certified iOS Developer, Android Developer).",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Yeah!-Global/Job/Mobile-Application-Developer-Vancouver/-in-Vancouver,BC?jid=c85029f223d36fad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career Page",
+                    "link": "https://www.careers-page.com/yeah-global/job/QYXX6865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/4286205883749182111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/mobile-application-developer-vancouver-vancouver-bc--b01c9578-1e25-4da5-989c-cb4fba0e5ba3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/fdad64dd-e974-43b8-81fa-c4541c896201?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/mobile-application-developer-vancouver-at-yeah%21-global-4086234180?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career Beacon",
+                    "link": "https://www.careerbeacon.com/en/job-9/1739031/yeah-global/mobile-application-developer-vancouver/vancouver-bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/mobile-application-developer-vancouver-jobs/D0337746FC44BD2E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwbGljYXRpb24gRGV2ZWxvcGVyIC0gVmFuY291dmVyIiwiY29tcGFueV9uYW1lIjoiWWVhaCEgR2xvYmFsIiwiYWRkcmVzc19jaXR5IjoiVmFuY291dmVyLCBCQywgQ2FuYWRhIiwiaHRpZG9jaWQiOiJSZjR1VzMyMFNWWlRpbE10QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Développeur Android (PNC)",
+            "company_name": "LGS, une Société IBM / an IBM Company",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=ljp6G6Q0QZU-tWLQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3GQQ7BQBQA0Ng6gtVfItVBYsOKSoSoEAeQ3-lPW5n-P5mZSh2pB3CCXkzYvLzhZzBc7PvuRUaspcbBlnMnVQ7j6yWZwAxOkoEndLoEYTiIFIZGmzIE69dKeW_iwgcMlY611EqYMmnVUzL_4-FLdGQNBnosV_M2tlxMk_PhHkHDBHfRVd-FvoPjLgUFyP8kUlvkN1QMqXBwhCaCW0MZ6QgSZMzxC6mTZwC4AAAA&shmds=v1_AUFQtOMbToVo5c6gvms0qgj4k8IL9dcPH43y4dQtjVFfizoeMw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ljp6G6Q0QZU-tWLQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a1bed3894374b8977cc/images/74512f59c90cdc2df7465dfd6d30aec6f09e1e71d2397021b8f4147073218ff6.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "At LGS, we strive to provide a workplace that values your professional growth. Our company culture fosters diversity and inclusivity, and we welcome talents from both local and international backgrounds.\n\nAs a team member, you will play a crucial role in driving major projects that propel our clients’ businesses forward and improve people’s lives. You will be at the heart of collaborative large-scale digital transformation projects in both the public and private sectors.\n\nThe IBM Client Innovation Centre Quebec (CIC), at LGS, employs professionals who collaborate on projects within technology practices, offering local and remote services. Our employees, regardless of their level of experience, are paired with a coach to support their professional growth. As part of IBM’s global network, we have offices in Montreal, Gatineau, Rimouski, and Quebec City.\n\nThe benefits of joining our team:\n• Learn every day: access IBM's intellectual capital and trainings on a diverse range of cutting-edge technologies.\n• For your well-being: a group insurance bundle including telemedicine, a retirement savings plan with employer’s contribution, access to IBM shares at discounted rates, and a wellness package!\n• To enjoy quality time: annual vacations, additional company days off and special life events leaves!\n• To have fun with your colleagues: an active community and a social committee with regular activities to keep us all connected!\n\nJoin our team as an Android Developer!\nHere's how you'll be involved\n• Participate in the development of customer projects: new applications, development of new functionalities on existing applications and maintenance. Help our customers build scalable applications.\n• You're comfortable with Kotlin\n• You care about user interaction, usability and, of course, the beauty of the user interface.\n• Have worked with REST and JSON APIs\n\nYour experience\n• Bachelor's degree in computer science, computer engineering or software engineering (other educational backgrounds are considered if combined with the required experience and if the candidate's personality makes him or her a great technical leader!)\n• Knowledge of white-label applications\n• Android Studio/Kotlin\n• Git / Source code management (GitHub, GitLab, ...)\n• Good understanding of software architecture (MVVM)\n• Reactive programming (RxJava, Coroutines)\n• User interface frameworks (XML and mainly Jetpack Compose UI)\n• Bilingualism in French and English, as you will be collaborating with resources outside the province of Quebec.\n\n#CICJOBS #IBMJOBS #LI-IO1\n\nJoin our team as an Android Developer!\nHere's how you'll be involved\n• Participate in the development of customer projects: new applications, development of new functionalities on existing applications and maintenance. Help our customers build scalable applications.\n• You're comfortable with Kotlin\n• You care about user interaction, usability and, of course, the beauty of the user interface.\n• Have worked with REST and JSON APIs\n\nYour experience\n• Bachelor's degree in computer science, computer engineering or software engineering (other educational backgrounds are considered if combined with the required experience and if the candidate's personality makes him or her a great technical leader!)\n• Knowledge of white-label applications\n• Android Studio/Kotlin\n• Git / Source code management (GitHub, GitLab, ...)\n• Good understanding of software architecture (MVVM)\n• Reactive programming (RxJava, Coroutines)\n• User interface frameworks (XML and mainly Jetpack Compose UI)\n• Bilingualism in French and English, as you will be collaborating with resources outside the province of Quebec\n\n#CICJOBS #IBMJOBS #LI-IO1",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://emplois.ca.indeed.com/viewjob?jk=ad58e678d107275f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dayforce",
+                    "link": "https://can242.dayforcehcm.com/CandidatePortal/en-US/lgs/Posting/View/1208?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/d%C3%A9veloppeur-android-pnc-lgs-une-soci%C3%A9t%C3%A9-ibm-an-ibm-company-JV_IC2296722_KO0,23_KE24,58.htm?jl=1009274504018&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "House Of Talent Job Board",
+                    "link": "https://talent.thenextweb.com/job/developpeur-android-pnc-at-lgs-une-societe-ibm-an-ibm-company?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://fr.simplyhired.ca/job/44TKg-QvK5sAOHxs1ZfADBk1DJf--r6Gybly8EUxiccEgiVtibC77A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/-1688228967293729254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ca.bebee.com",
+                    "link": "https://ca.bebee.com/job/6c43fa8884093ecbbd79406561614a8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/d-veloppeur-android-lgs-montreal-qc_77016091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEw6l2ZWxvcHBldXIgQW5kcm9pZCAoUE5DKSIsImNvbXBhbnlfbmFtZSI6IkxHUywgdW5lIFNvY2nDqXTDqSBJQk0gLyBhbiBJQk0gQ29tcGFueSIsImFkZHJlc3NfY2l0eSI6Ik1vbnRyZWFsLCBRdWViZWMsIENhbmFkYSIsImh0aWRvY2lkIjoibGpwNkc2UTBRWlUtdFdMUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Mobile Application Development (iOS/Android) Xamarin",
+            "company_name": "Information Engineering Group",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=3Yq3e1cHqgF3WnP6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yWOwQ4BMRRFY-sTrN4SGVORWGAliCAiYmMnr52nU-m817QlftB_GbG5u3PO7X463cNRtPMEyxC8M5idMKzpRV5CQ5yh704XteQqiqsGcMUGo2MYwV40JMJoamiJrYj11FvUOYc0VyolX9qUW50pjTRKmLS81UN0-s0t1RgpeMx0m0zH7zKwHc52fJfY_C9s2DomalsWtlGeAdrqUThHQl_A-UmaTAErZKzwC98BIATIAAAA&shmds=v1_AUFQtOOnKO_m-FHGx1xOWh47gp7zvgSZredbmG1G4OT9aeJsEg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=3Yq3e1cHqgF3WnP6AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for a Mobile Application developer in a full time lead role within our development team. Our firm primarily develops CRM Applications for the passenger airline industry, both desktop and mobile. Our applications enable our Clients to manage their operations while enhancing their customer “passengers” travel experience.\n\nWe have recently embarked on a mobile development strategy to complement our traditional desktop applications. We have adopted Xamarin as the development platform with our flagship application targeting the Android device. Migrating to iOS is the next step along with new mobile app development.\n\nYou will be joining our development team at the start, as our mobile strategy gets launched. If you ever wanted to join an upstart then our firm’s mobile division is something to consider. We are open to new ways of thinking, especially those that will contribute to your personal growth and overall success of the company.\nWhat you'll Need\n• Excellent knowledge of Design Patterns\n• Plenty of experience on .NET framework\n• Very strong interest in Xamarin\n• Cross platform app development (iOS, Android)\n• Work experience in an agile and iterative development context\n• Enjoy working in a team and be comfortable interacting with a multidisciplinary team members\n• Excellent communication skills\n• Passion for creating best-in-class apps\n\nWhat we’ll empower you with:\n• Collaborating and/or lead within mobile app development from applications built in .NET and C#\n• Analyzing project needs and creating proof of concepts\n• Implementing system architectures and validating their efficiency\n• Developing patterns to ensure that builds are robust, reliable and secure\n\nWhy IEG:\n• You’ll have the opportunity to join a team At The Start.\n• Huge reward potential as the division expands.\n• You will work in an environment driven by results – you make your schedule aligned with the need to collaborate with the team.\n• We work within the fascinating travel industry where the end customer needs and results are clearly identifiable.\n• Location: Eligible to work in Montreal, Canada\n• Position: Full time.\n\nLocation: Montreal, Canada",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=43d0bc6684ec6fa2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/mobile-application-development-ios-android-xamarin-information-engineering-group-JV_IC2296722_KO0,50_KE51,80.htm?jl=1006238956253&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/mobile-application-development-ios-android-xamarin-at-ieg-business-solutions-3607558822?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://fr.simplyhired.ca/job/htLZJzeHlcb7U6WCP5lOGzj0Icy4ExKhgpJPYuAUMBR8kh6ZptVUSQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Canada Meet Opportunities",
+                    "link": "https://ca.bebee.com/job/a6fb9fad25816f2955b995e4cf0d659f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwbGljYXRpb24gRGV2ZWxvcG1lbnQgKGlPUy9BbmRyb2lkKSBYYW1hcmluIiwiY29tcGFueV9uYW1lIjoiSW5mb3JtYXRpb24gRW5naW5lZXJpbmcgR3JvdXAiLCJhZGRyZXNzX2NpdHkiOiJNb250cmVhbCwgUXVlYmVjLCBDYW5hZGEiLCJodGlkb2NpZCI6IjNZcTNlMWNIcWdGM1duUDZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Senior Full stack Java Developer",
+            "company_name": "Axelon Services Corporation",
+            "location": "Mississauga, ON, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=oGipphJ3ogCUQCstAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsjuJq11EYEFXQlFYWCuvAAZRqHNBozIZOWnsozGuHxFw_-K76zYvcgbznCeXAOJKF-Q4MjwolGchwowhIa7kAIo-6BPVyYjaP5oU8pyF4pEVeZ_ExWV5o_ij11PKkXd_KfVnqMFBwmateb1VQFbxbb45TrHh4UR6tJoOYYOOZGltbD1YpkcDBYwv1WQo0en_gDdU1KILEAAAA&shmds=v1_AUFQtOPcD4A4DBU-ZCgOg39TMx9REzapXG5d7PVQZc8RdP2ytw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=oGipphJ3ogCUQCstAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a1bed3894374b8977cc/images/74512f59c90cdc2dc1c95188525311cf2ae0a594e56a38b7316a617c40c06bd8.gif",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Global Financial Firm located in MISSISSAUGA, ON has an immediate contract opportunity for an experienced Senior Full stack Java Developer\n\n\"This role is currently on a Hybrid Schedule.\nYou will need to have reliable internet, computer and android or iphone for remote access into the client systems during remote work.\nWe will be expected in the office weekly 3 days depending on the team requirement.\n• ***Video/ f2f interviews are required prior to all offers.\n\nWe are looking to hire a Senior Full stack Java Developer with strong analytical and technical ability with 5+ years of full stack experience in developing applications using HTML5/CSS3/Javascript/React/Java.\nAble to work independently, good communication skills.\nHas experience in working on complex and medium to large projects\n\nJob Background/Context:\nThe position is based in Mississauga, Canada and is required to review the day to day\ndelivery work, ensuring a robust process implementation, identifying project/program\ndelivery risks and work on risk mitigation.\n\n• This role will work with the global stake holders (business and technology) across multiple locations\n• Candidate will work independently and is highly self-motivated. Applies skills and knowledge of the business to develop creative solutions to meet client and business needs\n•The candidate will work with complex and variable issues with substantial potential impact, weighing various alternatives and providing recommendations. Requires good analytical skills in order to filter, prioritize and validate potentially complex material from multiple sources\n\nKey Responsibilities:\n• Responsible for applications systems analysis and programming activities. • Requirement gathering & understanding, effort estimation, technical design, project planning and monitoring.\n• Consults with users, clients and other technology groups on issues and recommends solutions\n• Accountable for all phases of development process—analysis, design, construction, testing and implementation; provides user and operational support on applications to business users.\n• Work proactively & independently to address project requirements and articulate issues/challenges with enough lead time to address project delivery risks.\n• Providing expertise in technical analysis and quickly solve technical issues during project delivery.\n• Customer interfacing - understand customer requirements, propose technical solutions.\n• Full Software Development Lifecycle.\n• Solves / works complex problems / projects through in-depth evaluation of business processes, system processes and industry standards; performs root cause analyses. Provide technical guidance to junior resources.\n\nQualifications:\n• 5+ Years of project experience as a full stack Software developer. Excellent knowledge of Web technologies including HTML5, CSS3, Javascript/typescript, JQuery, Responsive Webdesign. Very Good knowledge of Angular/Reactjs framework\n•Experience in using browser dev tools and extensions for development · Experience in Java and J2EE with Spring, Oracle, Maven (dependency management, versioning, releaseplugin), Linux, ORM (Mybatis)\n•Very good analytical, problem solving and technical debugging skills · Good verbal and\nwritten communication skills in English · MS (in computers, information technology or\nengineering).\n•Ability to work as part of team and independently · Interpersonal skills to interact with team members and clients\n\nDesired Skills:\n· Knowledge of Nodejs and Github libraries\n· Design patterns/Functional Programming paradigm\n· Unit testing frameworks and test driven development methodology\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Axelon-Services-Corporation/Job/Senior-Full-stack-Java-Developer/-in-Mississauga,ON?jid=fe441f81b49a50bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/-2860969729818188095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/senior-full-stack-java-developer-at-open-systems-technologies-4039389604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SitePoint",
+                    "link": "https://www.sitepoint.com/jobs-for-developers/presto-recruiting-solutions/senior-full-stack-java-developer-1330558/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Canada Meet Opportunities",
+                    "link": "https://ca.bebee.com/job/182a19560f5d68590e54c362ac6ef46b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ca.trabajo.org/job-166-9bcf7657a54e57ac293befdf14cd29fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/canada/job/full-time/others/senior-full-stack-java-developer-1736088032632206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbCBzdGFjayBKYXZhIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkF4ZWxvbiBTZXJ2aWNlcyBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6Ik1pc3Npc3NhdWdhLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJvR2lwcGhKM29nQ1VRQ3N0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Gestionnaire, Développement Android / Manager, Android Development",
+            "company_name": "Touchtunes Music Corporation",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=KTNIQszfYVko5NxEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2OOwrCQBBAsfUIVlNLzIogiFaiIAgpBCsbmWyGZGWdWXYm4pU8h0fwQn4Km1c8XvGGr8HwtCO1IMwYMhWwfT5uFCUluhIbrLnJEhpwUCFjS7n4qy39wl82gb3UoITZdyAMO5E20mjVmSVdOqcay1YNLfjSy9UJUy13d5Favzhrh5lSRKPzbD69l4nb8eIove-sZ1Koeg0eNpKTZPzeQmCohC0TxgIOPdXkC9h8Hht8A3TpRU7WAAAA&shmds=v1_AUFQtONCFDqx_DRiEfVVXyE-YdlLc1TSu8dO3s7VV_62ZMJXRg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=KTNIQszfYVko5NxEAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "English version will follow\n• ️ Hub technologique hybride de Montréal\n• Ta mission au sein de l'équipe Android :\n• Diriger, inspirer et encadrer ton équipe de développement, en favorisant un environnement performant.\n• Définir et optimiser les processus de travail pour les aligner aux meilleures pratiques de l'industrie.\n• Collaborer avec les gestionnaires produits et les architectes pour offrir la meilleure expérience client et définir la feuille de route et les objectifs de ton équipe.\n• Travailler en partenariat avec l'équipe backend pour exploiter pleinement les APIs et créer des applications fiables et à haute performance.\n• Promouvoir l'amélioration continue au sein de l'équipe en cultivant une culture de rétroaction, d'apprentissage et de responsabilité.\n• Construire une infrastructure évolutive avec des composants logiciels réutilisables et robustes.\n• Notre stack :\n• Kotlin\n• APIs\n• Agile\n• Ton profil :\n• Plus de 4 ans d'expérience dans un rôle de leadership ou dans des fonctions de gestion avec une équipe de développement\n• Quelques années de formation et d'expérience de haut niveau en programmation\n• Bonne compréhension des modèles de conception logicielle pour un code propre, cohérent, simple et efficace\n• Solides compétences en résolution de problèmes et de pensée critique\n• Passion pour la qualité et l’attention aux détails\n• Solides compétences en développement d'interfaces utilisateur pour applications mobiles.\n• Bilingue (Français et Anglais)\n\n❤️Nos avantages:\nTravail flexible : Environnement de bureau hybride (télétravail et au bureau) et possibilité de travailler à partir de n’importe où dans le monde, jusqu’à 2 mois par an.\nFormation : Accès à notre plateforme e-learning ainsi que la possibilité d’assister à des conférences dans le domaine qui t’intéresse\nSanté : Assurance maladie compétitive, application Dialogue et jours de maladie illimités.\nTransports en commun : 50 % de réduction sur OPUS ainsi qu’une réduction pour le train EXO\nBureau : Facile d’accès pour les personnes ayant une limitation fonctionnelle\n...contribution au REER, assurances vie/invalidité, collations saines, un comité culturel actif et bien PLUS!\n• TouchTunes\n\nPrésent dans plus de 65 000 bars, restaurants et autres lieux de rencontre en Amérique du Nord et en Europe, TouchTunes rassemble les gens grâce à des solutions musicales et de divertissement amusantes et interactives, améliorant ainsi la façon dont les gens interagissent entre eux et avec leur environnement. Nos applications mobiles natives et nos jukes sont vus et entendus par des millions de personnes chaque jour à travers le réseau et la communauté TouchTunes.\n\nNous sommes convaincus que notre équipe doit être aussi diversifiée que la musique que nous écoutons.\n• TouchTunes est un fier allié de QueerTech.\n\n_______________________________________________________________\n\nManager, Android Development\n• ️ Hybrid Montreal tech hub\n• Your mission in the Android team:\n• Lead, inspire, and mentor your development team, fostering a high-performing environment.\n• Define and optimize work processes to align with industry best practices.\n• Collaborate with Product Managers and Architects to create the most enjoyable customer experience and define your team’s roadmap and goals.\n• Partner with the backend team to fully leverage APIs to build high-performance and reliable applications.\n• Promote continuous improvement within the team by cultivating a culture of feedback, learning and accountability.\n• Build a scalable infrastructure with reusable and robust software components.\n• Our stack:\n• Kotlin\n• APIs\n• Flavored-Agile\n• Your profile:\n• 4+ years of experience in a leadership role or leadership functions with a development team\n• A few years of top-notch programming training and experience under your belt\n• Good understanding of software design patterns for clean, consistent, simple, and efficient code\n• Strong problem-solving and critical thinking skills\n• Passion for quality and attention to detail\n• Strong mobile application UI development skills\n\n❤️Our perks:\nFlexwork: Hybrid WFH-office environment and work anywhere around the globe up to 2 months/year\nLearning: E-learning access and the ability to attend conferences in the field of your choice!\nHealth: Competitive health insurance, Dialogue App and unlimited sick days policy\nCommute: 50% off OPUS and a discount on the EXO train\nOffice: Accessibility to people with disabilities\n.... RRSP matching, Life/LT/ST Disability coverage, healthy snacks, Active Culture Collective and MUCH more!\n• TouchTunes\n\nFound at over 65,000 bars, restaurants and other social venues across North America and Europe, TouchTunes is bringing people together with fun, interactive music and entertainment solutions, enhancing the way people interact with each other and their environment. Our native mobile apps and jukes are seen and heard by millions daily across the TouchTunes network and community.\n\nWe firmly believe that our team should be as diverse as the music we listen to.\n• TouchTunes is a proud ally of QueerTech.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=e64802fd81c9ce07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/gestionnaire-d%C3%A9veloppement-android-manager-android-development-at-touchtunes-4103388374?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/rjdp/-7729106034938095233?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Companies | TA Associates Job Board - TA Associates",
+                    "link": "https://careers.ta.com/jobs?q=Gestionnaire,+d%C3%A9veloppement+Android+/+Manager,+Android+Development&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Eluta.ca",
+                    "link": "https://www.eluta.ca/spl/gestionnaire-d%C3%A9veloppement-android-manager-android-development-189fdac0325f48ebceb0a52372f03f83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs - Getro",
+                    "link": "https://queertech.getro.com/jobs?q=Gestionnaire,+D%C3%A9veloppement+Android+/+Manager,+Android+Development&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.ca/job/e-rOqIXT11xOSYUjEZeN3jQhxiLaJRkca324nPb6ph6iW0BUAGTMkQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobOffer.com",
+                    "link": "https://joboffer.com/jobs/Gestionnaire-Dveloppement-Android-Manager-Android-Development-fcdc914641f10c7e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJHZXN0aW9ubmFpcmUsIETDqXZlbG9wcGVtZW50IEFuZHJvaWQgLyBNYW5hZ2VyLCBBbmRyb2lkIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiVG91Y2h0dW5lcyBNdXNpYyBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6Ik1vbnRyZWFsLCBRdWViZWMsIENhbmFkYSIsImh0aWRvY2lkIjoiS1ROSVFzemZZVmtvNU54RUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Big Data Developer",
+            "company_name": "Axelon",
+            "location": "Mississauga, ON, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=uB9TQo9t0zqZpPlCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMQQrCMBBAUdz2CK7GpVITEdzYlVoQBPUIZVKHJBIzIRMld_DSVvi85W--s2Z59BZ6LAg9fShwogxruLABIcyjA45wZraB5p0rJclea5GgrBQsflQjvzRHMlz1k438GcRhphSw0LDdbapK0a4WhzrdI_gIVy8yhW-LLdxvLZww4gN_ASs6ko4AAAA&shmds=v1_AUFQtOOOQDzTsjTldKxI2K8nHZWNsIluXI1Ck2KxLXskTf_zHg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=uB9TQo9t0zqZpPlCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a1bed3894374b8977cc/images/74512f59c90cdc2d9b7fbae44d9be55493e92d3bf91900ec0a0fc204c26119dd.gif",
+            "extensions": [
+                "26 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Global Financial Firm located in MISSISSAUGA, ON has an immediate contract opportunity for an experienced Big Data Developer\n\n\"This role is currently on a Hybrid Schedule.\nYou will need to have reliable internet, computer and android or iphone for remote access into the client systems during remote work.\nWe will be expected in the office weekly 3 days depending on the team requirement.\n• ***Video/ f2f interviews are required prior to all offers.\n\nJob Description:\nPySpark , Big Data Developer - 2\n10+ years of hands on experience in big data development using PySpark\nProve experience in building and optimizing large scale data processing applications\nProficiency in PySpark and Spark ecosystem\nStrong programing skill in PySpark/Python\nSolid understanding of Hadoop, Hive and HDFS\nProficiency in SQL writing and Query optimization",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Axelon/Job/Big-Data-Developer/-in-Mississauga,ON?jid=f9df9b65132c5d11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Iitjobs",
+                    "link": "https://www.iitjobs.com/job/big-data-developer-mississauga-on-canada-clifyx-39716?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/big-data-developer-mississauga-on--0e778367-c29e-4238-aa0e-aab4d7b01f63?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Canada Meet Opportunities",
+                    "link": "https://ca.bebee.com/job/0389bfc61fe49436935794449bc6d9ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ca.trabajo.org/job-3239-dd9ac9483752222fafae71d8fb130726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/mississauga/canada/info_technology/3640735618/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MNC Jobs Canada - Jobs",
+                    "link": "https://ca.mncjobz.com/jobs/big-data-developer-mississauga-2231594?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobtome",
+                    "link": "https://ca.jobtome.com/job/big-data-developer/e52377c7e3bd821a45aaa30d003d0501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJBeGVsb24iLCJhZGRyZXNzX2NpdHkiOiJNaXNzaXNzYXVnYSwgT04sIENhbmFkYSIsImh0aWRvY2lkIjoidUI5VFFvOXQwenFacFBsQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Senior Application Developer",
+            "company_name": "Axelon",
+            "location": "Mississauga, ON, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=Cxxl3YbPFXFG2IfAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsjuBq3UhtR3NhVURAEdeEByjQOaSTOhEyUXsT7GuHzNo_3q--s2t6JvSToYgzeYvbCcKQPBYmUYAVnGUAJkx2hmJOICzRvx5yj7o1RDY3TXDLbWHkZYRpkMk8Z9I9eR0wUA2bqN7v11ER2y0U3lXcGz3DxqmX4dljD7VrDARkf-AM0mYOmmAAAAA&shmds=v1_AUFQtOMV0o4G5TpkKw53i5xctA5YZtjDzetZf2nVqYdAK0DQAQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Cxxl3YbPFXFG2IfAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a1bed3894374b8977cc/images/74512f59c90cdc2d498d1c12e352180590224e3ca318701c87e213db3be9b4de.gif",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Global Financial Firm located in MISSISSAUGA, ON has an immediate contract opportunity for an experienced Senior Application Developer.\n\n\"This role is currently on a Hybrid Schedule.\nYou will need to have reliable internet, computer and android or iphone for remote access into the client systems during remote work.\nWe will be expected in the office weekly 3 days depending on the team requirement.\n• ***Video/ f2f interviews are required prior to all offers.\n\nWe are seeking a Senior Application Developer with strong hands-on experience in developing server-side components in Java. Candidate must have experience in developing enterprise application using Java/J2EE & Spring. The work will include strategic state-of-the-art solutions using new stack development using Agile/ DevOps high standard/ Micro services/ Docker for application hosting. Candidate will be working on fast-paced, highly visible, and challenging projects. Candidate is expected to be a self-starter and someone who loves technology in general and excels when challenged.\n\nResponsibilities:\nResponsible for systems analysis, Design, Coding, Unit Testing and other SDLC activities.\nCode reviews, exposure to continuous integration, test case reviews and ensure code developed meets the requirements\nExplore existing application systems, determines areas of complexity, potential risks to successful implementation\nCommunicate continually with the client and project teams - Clarify client's needs, present tech team ideas and explains progress on the development efforts.\nContributes to continual improvement by suggesting improvements to software architecture, software development process and new technologies etc.\nPerform code & design reviews consistently.\nEnsure essential procedures are followed and help define operating standards and processes\nMonitor and control all phases of development process and analysis, design, construction, testing, and implementation as well as provide user and operational support on applications to business users\nUtilize in-depth specialty knowledge of applications development to analyze complex problems/issues, provide evaluation of business process, system process, and industry standards, and make evaluative judgement\nRecommend and develop security measures in post implementation analysis of business usage to ensure successful system design and functionality\nConsult with users/clients and other technology groups on issues, recommend advanced programming solutions, and install and assist customer exposure systems\nEnsure essential procedures are followed and help define operating standards and processes\nHas the ability to operate with a limited level of direct supervision.\nCan exercise independence of judgement and autonomy.\nActs as SME to senior stakeholders and /or other team members.\n\nTechnology Skills:\nMust have expert level (hands-on) knowledge and understanding in JAVA/J2EE spring boot, spring framework stack\nMust have Deep understanding of Microservice and Microservices best practices, patterns- Spring boot microservices is highly preferred\nNice to have Hands-on MongoDB knowledge / experience\nMust have experience in SCMs like GIT; and tools like JIRA\nGood understanding of OpenShift & Docker\nGood understanding of Kafka is highly desirable\nAgile/Scrum methodology experience is required.\nStrong systems analysis, Unit Testing and other SDLC activities\nStrong communication skills, should be able to communicate effectively with business and other stakeholders\n\nQualifications:\n7-10 years of relevant experience\nExperience in systems analysis and programming of software applications\nExperience in managing and implementing successful projects\nAbility to work under pressure and manage deadlines or unexpected changes in expectations or requirements",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Axelon/Job/Senior-Application-Developer/-in-Mississauga,ON?jid=610c3fdb6707b812&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/senior-application-developer-mississauga-on--a8e8fba2-1e68-4066-8268-6eca921b2994?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://ca.trabajo.org/job-3051-331a9ad375e4dceb6989eb165be18841?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.ca/job/wqbV-CsgmCF2vA6BebiEURuhVltPaoH_liYJXU7wMiPXLMfeoPoRHw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/mississauga/canada/software_development/3768398141/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXBwbGljYXRpb24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQXhlbG9uIiwiYWRkcmVzc19jaXR5IjoiTWlzc2lzc2F1Z2EsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6IkN4eGwzWWJQRlhGRzJJZkFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Java Full Stack Developer",
+            "company_name": "Axelon Services Corporation",
+            "location": "Anywhere",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=AkQPiF2JgtkJQjFWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8doneNqz1KYIetCTVBQK6sEHlG1c0mjMhmxa-iO_aYRhDnOY4rso6hYnhPPoHDwS6jecaCLHgSKsoeUehDDqAdjDhdk4Wh6GlILslRJxlZGEyepK80exp55n9eJe_upkwEjBYaJus63nKniz2h3nfPfwoDhZTQINx8AxP3K0Hq5WJIOjwRLutxIa9PjEH9MInFSqAAAA&shmds=v1_AUFQtOPKGyMj8kVldWH2jVoa-J0RGx5tQP-QnudzjbZ5yMPDYw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AkQPiF2JgtkJQjFWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a1bed3894374b8977cc/images/74512f59c90cdc2daebc93b4dc1d28a21637d764b5889fb12cfde2cc43d0a9bd.gif",
+            "extensions": [
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Global Financial Firm located in MISSISSAUGA,ON has an immediate contract opportunity for an experienced Java Full Stack Developer\n\n\"This role is currently work-from-home and will move to the office environment after the COVID-19 restrictions are lifted.\" You will need to have reliable internet, computer and android or iphone for remote access into the client systems during remote work\n\nVideo/ f2f interviews are required prior to all offers.\n\nJOB DESCRIPTION:\n\nClient Global Spread Products technology is seeking a highly motivated candidate for Full Stack/Web development team that serves Financing and Securitization (F & S) business. We are looking for a talented professional with a solid technical acumen to partner with onshore and offshore teams and design and deliver innovative technology solution for the front office Client Capital Markets. The candidate will be a core member of the technology team responsible implementing projects to automate many processes and flows within F & S division. Excellent opportunity to immerse in and learn within the GSP F & S Division and gain exposure to technology initiatives targeted to maintain lead position among its competitors.\n\nResponsibilities\n\nDesign and develop web based applications, cloud services in Java/Spring/Hibernate stack\nWork closely with our stakeholders in a highly collaborative environment\nPromote and follow solid agile software development practices\nBuild for highly reliable, scalable, and maintainable Applications\nProvide leadership in research, design and implementing improvements to platform technology solutions.\nDevelop front end web interfaces with Angular framework in case of Angular experience\n\nRequirements\n\n5-8 years of relevant experience\nHands on experience in building an enterprise scale highly componentized application using Java, Hibernate, and Spring Framework\nExperience working with SOA & Micro-services utilizing REST, SOAP etc.\nExperience with Java Messaging (JMS).\nExperience with design and implementations of cloud-ready applications and deployment pipelines on large-scale container platform clusters is a plus\nExperience working in a Continuous Integration and Continuous Delivery environment and familiar with Jenkins, TeamCity, Code Quality Tools SonarQube, etc.\nProficient in industry standard best practices such as Design Patterns, Coding Standards, Coding modularity, Prototypes etc.\nExperienced in RDBMS and SQL/PLSQL\nUnit testing frameworks JUnit, Mockito\nUnderstanding of the SDLC lifecycle for Agile & Waterfall methodologies\nExcellent written and oral communication skills\nExperience developing application in Financial Services industry is preferred\n\nNice to haves\n\nRecent experience with modern UI development using Angular v4, 5, 6, or 7\nExperience working with Java Script framework such as Reactive Programming concepts (RxJs), Angular4.0+, TypeScript, SCSS and HTML5\nExperience in debugging, tuning and optimizing UI components\nExperience with Kafka.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Axelon-Services-Corporation/Job/Java-Full-Stack-Developer/-in-Mississauga,ON?jid=2287f4e3c08c4506&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Prolifics | Careers - ICIMS",
+                    "link": "https://careers-prolifics.icims.com/jobs/7707/full-stack-java-developer/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66c4be3bb7394dd03ef2df96-full-stack-java-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/java-full-stack-developer-two95-international-inc-3930671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/-7796922343145247148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/full-stack-java-developer--89e7d541-b3a2-4fd6-8a43-419cf923c6be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://fr.glassdoor.ca/job-listing/full-stack-java-developer-toronto-on-asb-infotech-JV_KO0,36_KE37,49.htm?jl=1009587893104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/full-stack-java-developer-toronto-on-asb-infotech-JV_KO0,36_KE37,49.htm?jl=1009587893104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIEZ1bGwgU3RhY2sgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQXhlbG9uIFNlcnZpY2VzIENvcnBvcmF0aW9uIiwiYWRkcmVzc19jaXR5IjoiTWlzc2lzc2F1Z2EsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6IkFrUVBpRjJKZ3RrSlFqRldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Sr Android Developer (12-month contract) | Tier 1 Bank",
+            "company_name": "Nucleo Digital",
+            "location": "Toronto, ON, Canada",
+            "via": "UN Jobs",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=nnylIUWzq0INRqaKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOOwrCQBRGYWxdgtXfCCp5mICNVj5AENTC9OFmcklGJ3PDzCgW7soNGpuvOc0Zf0fj881ha2snusaBX2ykZ4dZlsed2NBCDTpSYY4PCj2kDDuyD8Q4SQXP5FQLsTiKNIYnmzaE3q_T1HuTND5Q0CpR0qViuZJ3epfK_yl9S457Q4HLfLV8J71tFtPLUxkWHHSjAxloi0LcMCARrpcIe7JU0w-oXldDtgAAAA&shmds=v1_AUFQtONs6RN-O1AZM8XAeGTP_wkdKIdaOuARst_VRc93CmnmKQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=nnylIUWzq0INRqaKAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "Job title:\n\nSr Android Developer (12-month contract) | Tier 1 Bank\n\nCompany\n\nNucleo Digital\n\nJob description\n\nJob Description:We are looking for an Android Developer who possesses a passion for pushing mobile technologies to the limits. This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications. Android programming works closely with other app development and technical teams.***This requires 3x/week onsite near Union***Responsibilities\n• Design and build advanced applications for the Android platform\n• Collaborate with cross-functional teams to define, design, and ship new features\n• Work with outside data sources and APIs\n• Unit-test code for robustness, including edge cases, usability, and general reliability\n• Work on bug fixing and improving application performance\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency\n\nRequirements:\n• BS/MS degree in Computer Science, Engineering or a related subject\n• Proven software development experience and Android skills development with Kotlin\n• Proven working experience in Android app development and\n• Have published at least one original Android app\n• Experience with Android SDK\n• Experience working with remote data via REST and JSON\n• Experience with third-party libraries and APIs\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle.\n\nExpected salary\n\nLocation\n\nToronto, ON\n\nJob date\n\nThu, 18 Apr 2024 05:36:30 GMT\n\nTo help us track our recruitment effort, please indicate in your email/cover letter where (un-jobs.net) you saw this job posting.",
+            "apply_options": [
+                {
+                    "title": "UN Jobs",
+                    "link": "https://un-jobs.net/job/sr-android-developer-12-month-contract-tier-1-bank/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBBbmRyb2lkIERldmVsb3BlciAoMTItbW9udGggY29udHJhY3QpIHwgVGllciAxIEJhbmsiLCJjb21wYW55X25hbWUiOiJOdWNsZW8gRGlnaXRhbCIsImFkZHJlc3NfY2l0eSI6IlRvcm9udG8sIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6Im5ueWxJVVd6cTBJTlJxYUtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzc0NDb3dDUVVwSE9VcHJUM2RsYkdSNWJqbFVTbU5WTWxaaGEyczJRbUZHT0RORk1WVktXV3R3TFRaSmFUSjZkMFJZTTFFNFFVaFRXRmxLVDFoSlRqSlNWMjlHTVVsU2MybFVTVzFOVnpkU05qTTRWSFF3YUhRNFNYUmlOak10WXpoRE5raERTMGxuZG5OV2JFbFlja2RKYlZodlNVazJRaTFVYlZGcGMzb3RjSEIwYW1obmN6VklibFZUZWxSdGEyUXplRk5OVUd3MmJXRkphSE14Y0dkMFRWWjRaelk0ZUVsSU1rOUdaMk4wYkVwcExWcHdjelpwU2xsUE5XNXlTMDlvYlZoVFNsTlZRWGRMZDNWNFlYSjNVVWRTYXpOUU9IQnZha3R2TVUxS1FrTjZMVGhtWm5kT2J6TmZTRkJyWkZwTVpIUm1Oa1pYU0Y4d1VWUmlhbmxqVUVkdGEwUlRkRTk2Wm5admJYWldiUklXU0ZGeFJsbzJjbWhIY2t0V2QySnJVRFJ4WmxWaFFSb2lRVVpZY2tWamIxOW9Weko1T0RWM2JHeG1jM1l6VVhScE5HNHhjRXBDUjA1d1FRIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ca&location=Canada&next_page_token=eyJmYyI6IkVzc0NDb3dDUVVwSE9VcHJUM2RsYkdSNWJqbFVTbU5WTWxaaGEyczJRbUZHT0RORk1WVktXV3R3TFRaSmFUSjZkMFJZTTFFNFFVaFRXRmxLVDFoSlRqSlNWMjlHTVVsU2MybFVTVzFOVnpkU05qTTRWSFF3YUhRNFNYUmlOak10WXpoRE5raERTMGxuZG5OV2JFbFlja2RKYlZodlNVazJRaTFVYlZGcGMzb3RjSEIwYW1obmN6VklibFZUZWxSdGEyUXplRk5OVUd3MmJXRkphSE14Y0dkMFRWWjRaelk0ZUVsSU1rOUdaMk4wYkVwcExWcHdjelpwU2xsUE5XNXlTMDlvYlZoVFNsTlZRWGRMZDNWNFlYSjNVVWRTYXpOUU9IQnZha3R2TVUxS1FrTjZMVGhtWm5kT2J6TmZTRkJyWkZwTVpIUm1Oa1pYU0Y4d1VWUmlhbmxqVUVkdGEwUlRkRTk2Wm5admJYWldiUklXU0ZGeFJsbzJjbWhIY2t0V2QySnJVRFJ4WmxWaFFSb2lRVVpZY2tWamIxOW9Weko1T0RWM2JHeG1jM1l6VVhScE5HNHhjRXBDUjA1d1FRIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

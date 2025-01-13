@@ -1,0 +1,325 @@
+{
+    "search_metadata": {
+        "id": "67850aabeb79861a0ab05c41",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b1fd19ca32c98df3/67850aabeb79861a0ab05c41.json",
+        "created_at": "2025-01-13 12:44:27 UTC",
+        "processed_at": "2025-01-13 12:44:27 UTC",
+        "google_jobs_url": "https://www.google.si/search?q=Android+developer&uule=w+CAIQICIIU2xvdmVuaWE&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/b1fd19ca32c98df3/67850aabeb79861a0ab05c41.html",
+        "total_time_taken": 1.38
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Slovenia",
+        "location_used": "Slovenia",
+        "google_domain": "google.si"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQxKsJegQIExAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQxKsJegQIHxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.si/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjR_Ifx3PKKAxUcjYkEHXqEMUIQxKsJegQIIBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.si&location=Slovenia&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Junior Android Developer",
+            "company_name": "Sportradar",
+            "location": "Ljubljana, Slovenia",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=slokRn5u7sBDw72OAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEwQrCMAwAULzuEzzFq2grghc9CYIwvO0DRrqFraNLStKN_YZ_LL7Dq767ytcLR1F4cq8Se3jRSkkyKZyhlgBGqN0IwvAWGRLtH2Mp2e7emyU3WMESO9fJ7IUpyOYnCfavtRGVcsJC7fV22Vzm4XhosmhR7FEhMnymJaQJGU_QJFmJI_4Ag1ObLZQAAAA&shmds=v1_AUFQtOMGhsU_vHpXlGl2OLkLyKD6oB-FnMoPpYjYUgnJGPc6dw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=slokRn5u7sBDw72OAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850aabeb79861a0ab05c41/images/6e6b22c780acac7bad96d59bf43cbeb2820b6ffee659249cfed612bbbe97ec3b.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "OVERVIEW\n\nAs one of Android developers in Sportradar's Mobile Unit your responsibility will be to develop Android Mobile applications with superior UX for sport fans worldwide.\n\nTHE CHALLENGE\n\n• Develop state-of-the-art Android mobile applications leveraging Sportradar’s data.\n\n• Use newest development principles and frameworks recommended.\n\n• Cooperate with designers, testers and other developers to meet the required goals.\n\nYOUR PROFILE\n\n• Experience with native Android development.\n\n• You understand basic development standards and concepts.\n\n• You understand Android development concept and know how to use Android SDK.\n\n• You know how to use GIT.\n\n• You are familiar with Java and Kotlin.\n\n• You are always on the look for new technologies and are eager to try them out.\n\n• You are fluent in English.\n\nOUR OFFER\n\n• A collaborative environment with colleagues from all over the world (Engineering offices in Europe, Asia and US).\n\n• Ability to shape your own workday and career via a clearly defined professional and personal development plan.\n\n• Opportunity to work with senior leadership team and develop yourself within an inspiring and fast-growing company.\n\n• Vibrant and inclusive community, including Women in Tech and Pride groups which welcome all participants.\n\n• Hybrid work model.\n\n• New office with several additional benefits.\n\nAt Sportradar, we celebrate our diverse group of hardworking employees. Sportradar is committed to ensuring equal access to its programs, facilities, and employment opportunities. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. We encourage you to apply even if you only meet most of the requirements (but not 100% of the listed criteria) – we believe skills evolve over time. If you’re willing to learn and grow with us, we invite you to join our team!",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/junior-android-developer-sportradar-6011670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTcG9ydHJhZGFyIiwiYWRkcmVzc19jaXR5IjoiTGp1YmxqYW5hLCBTbG92ZW5pYSIsImh0aWRvY2lkIjoic2xva1JuNXU3c0JEdzcyT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVMnh2ZG1WdWFXRSJ9"
+        },
+        {
+            "title": "Software Developer: Mobile (Android)",
+            "company_name": "Devrev",
+            "location": "Ljubljana, Slovenia",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=T3KStIottpqb-rSGAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CYJwo4o2Iri0kyAIolM_oFzas00570ISa3_Fv7Uub33Zd5GVlT7TBwPBhUZi9RQKeKh1TLA-SxvUtRvYw00tRMLQ9KACV9WOaVn2KflYGBMj511MmFyTN_oyKmR1MoPa-KeO_Tx4xkT18XSYci_ddjWHgUZwAvfhbXlAwR1UrCOJwx_MMtCtnAAAAA&shmds=v1_AUFQtOMz7y8rNjbzYjGPfTTC1dtAsNALnjmP9LV1pOWKR1jzZg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T3KStIottpqb-rSGAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850aabeb79861a0ab05c41/images/6e6b22c780acac7b9b23c704fb140a228e5460b590afc9d86668c72118683519.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "DevRev\n\nDevRev is a platform purpose-built for SaaS and technology companies, helping back-office development match the rapid pace of front-office customer relationships. Our mission is to bring end users, support engineers, product managers, and developers together, making it effortless to do what matters most — and creating a company-wide culture of product and customer-centricity.\n\nUnlike generic tools, DevRev took a blank canvas approach to collaboration, search, GenAI, and analytics, enabling SaaS companies to ship faster for the largest business impact — with continuous development, roadmapping, prioritization, customer engineering, and more. DevRev is used across departments in thousands of companies and can coexist with or replace your tools, bringing information symmetry, streamlining collaboration, and converging teams.\n\nDevRev was founded in October 2020 and raised over $100 million in seed money from investors such as Khosla Ventures and Mayfield, making it the largest in the history of Silicon Valley. It is led by its co-founder and CEO, Dheeraj Pandey, who was previously the co-founder and CEO of Nutanix, and by Manoj Agarwal, DevRev's co-founder and former SVP of Engineering at Nutanix. DevRev is headquartered in Palo Alto, California, and has offices in seven global locations.\n\nJob Description\n\nWe are looking for ambitious and authentic software developers who are excited to bring fresh ideas from all areas to their work, including artificial intelligence, natural language processing, UI design, mobile, information retrieval, distributed computing, large-scale system design, networking and data storage, security, and more. As an Android Software Developer at DevRev, you’ll play a key role in crafting high-quality mobile applications. You’ll collaborate with a talented global team to deliver impactful solutions to our users.\n\nQualifications and Requirements:\n• Bachelor’s degree in Computer Science or related field, or equivalent practical experience.\n• Proficiency in coding using Kotlin for Android development.\n• 3+ years of industry experience developing Android apps, with a strong portfolio showcasing your work.\n• Experience with Android frameworks and libraries such as Retrofit, Room, Dagger, Koin, and Ktor.\n• Familiarity with architectural patterns like MVVM and MVI, and a commitment to writing clean, maintainable code.\n• Knowledge of mobile UI/UX best practices and a keen eye for detail.\n• Strong problem-solving skills and the ability to troubleshoot and debug complex issues.\n• Experience with Kotlin Coroutines for asynchronous programming.\n• Excellent communication skills and the ability to work collaboratively in a team environment.\n\nCulture\n\nThe foundation of DevRev is its culture -- our commitment to those who are hungry, humble, honest, and who act with heart. Our vision is to help build the earth’s most customer-centric companies. Our mission is to leverage design, data engineering, and machine intelligence to empower engineers to embrace their customers.\n\nThat is DevRev!",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/software-developer-mobile-android-at-devrev-784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXI6IE1vYmlsZSAoQW5kcm9pZCkiLCJjb21wYW55X25hbWUiOiJEZXZyZXYiLCJhZGRyZXNzX2NpdHkiOiJManVibGphbmEsIFNsb3ZlbmlhIiwiaHRpZG9jaWQiOiJUM0tTdElvdHRwcWItclNHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbVZ1YVdFIn0="
+        },
+        {
+            "title": "Izkušeni Android razvijalec – Java/Kotlin (m/ž) / Senior Android Developer",
+            "company_name": "MESI, Ltd.",
+            "location": "Slovenia",
+            "via": "MESI Medical",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=K4FERKKPGbpqd-fkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2OMQ6CQBAAY8sDLKy2VKOcMbHRykRjQK14gFlgA4fHLbk7CaHyD77Afxg7PuJLxMZmusmM9xp4FLTXW_ckLWGrU8MyBYNtLQtUlMDn_oAQaxRHdkpqGJeie09AQNQLbP7KjmpSXJGBOYQcgyU0SQ6s4cCcKRptcucquxbCWuVn1qGTiZ9wKVhTzI0oOLY_XGyOhiqFji7L1aLxK51Nh-d9FMzg5FIf-olIcd3n8QtMpbYTvwAAAA&shmds=v1_AUFQtOMoLdizoT2t1g18DK6uL8bFTfCfNW916SX3BYKhxrAtVA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=K4FERKKPGbpqd-fkAAAAAA%3D%3D",
+            "extensions": [
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Vam je pomembno, da ste del področja, ki prispeva k skupnemu dobremu? Bi vas motiviralo delo v podjetju, ki pomaga pri zgodnjem odkrivanju bolezni in tako rešuje življenja? Se vidite v preoblikovanju konvencionalnega medicinskega okolja z uvedbo naprednih tehnologij? Potem smo pravi za vas!\n\nMESI je inovativno podjetje, specializirano za razvoj naprav, ki pomagajo zaposlenim v medicini in zdravstvu. Razvili smo različne diagnostične module, ki se brezžično povezujejo z našo tablico MESI mTABLET. Meritve se sinhronizirajo z našo spletno storitvijo MESI mRECORDS in zdravniki si lahko takoj ogledajo rezultate na računalniku ter skupaj z vpogledom v zgodovino pacienta izvedejo hitro in učinkovito diagnostiko.\n\nZa našo inovativno razvojno ekipo iščemo Razvijalca/-ko programske opreme. Pridružite se nam!\n\nVaše delovne naloge:\n• oblikovanje in izdelava aplikacij za platformo Android,\n• sodelovanje z medfunkcionalnimi ekipami za definiranje, oblikovanje in implementacijo novih funkcionalnosti,\n• testiranje kode za robustnost, uporabnost in splošno zanesljivost,\n• prepoznavanje in odprava hroščev ter izboljšava delovanja aplikacij,\n• nenehno odkrivanje, ocenjevanje in uvajanje novih tehnologij za večjo učinkovitost razvoja.\n\nKljučna znanja:\n• najmanj 5 let izkušenj na področju Android-programiranja;\n• poznavanje Kotlin, Java, Gradle, MVVM, SQLite, Coroutines, Retrofit, Android lifecycle;\n• objektno usmerjeno programiranje;\n• sposobnost agilnega, postopnega razvoja;\n• poznavanje orodij za nadzor različic: Git, SVN.\n\nPrednost bodo imeli kandidati s poznavanjem:\n• Python;\n• CI;\n• Android OS;\n• postopkov testiranja mobilnih aplikacij;\n• modelov razvoja programske opreme;\n• razvoja na podlagi testiranja;\n• načrtovanja arhitekture;\n• dobrih varnostnih praks.\n\nPonujamo:\n• delo v dinamični mednarodni ekipi, ki ustvarja vrhunske rešitve v družini prijaznem in spodbudnem okolju;\n• fleksibilen delovni čas;\n• zaposlitev za nedoločen čas s poskusno dobo 6 mesecev;\n• veliko ustvarjalnosti;\n• neodvisnost in timsko delo s sodelavci, navdušenimi nad razvojem visokokakovostnih strojnih in programskih rešitev;\n• obilo priložnosti za učenje in napredovanje;\n• odlično kavo, sadje in ostale pomembne malenkosti za dober delovni dan;\n• druge prednosti, ki vam jih z veseljem predstavimo na razgovoru.\n\nSvojo prijavo lahko oddate tukaj",
+            "apply_options": [
+                {
+                    "title": "MESI Medical",
+                    "link": "https://www.mesimedical.com/about-us/careers/razvijalec-programske-opreme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJemt1xaFlbmkgQW5kcm9pZCByYXp2aWphbGVjIOKAkyBKYXZhL0tvdGxpbiAobS/FvikgLyBTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJNRVNJLCBMdGQuIiwiYWRkcmVzc19jaXR5IjoiU2xvdmVuaWEiLCJodGlkb2NpZCI6Iks0RkVSS0tQR2JwcWQtZmtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtVnVhV0UifQ=="
+        },
+        {
+            "title": "Development | Android/Java developer",
+            "company_name": "MESI, Ltd.",
+            "location": "Slovenia",
+            "via": "MESI Medical",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=5BlAOH0YlFEht-t7AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXJsQrCMBAAUFz7AQ5ON4smIrjYqaCIRad-QEmbo42kdyF3lA5-hV8s4vKWV3xWRXnBGSOnCUnhDRX5zMHb2s0O_L8wwx5q7kDQ5X4EJrgxDxE35aia5GytSDSDqNPQm54ny4QdL_bFnfxoZXQZU3SK7fF0WEyiYbt-Xpv7Dh7qDQSCJvKMFNwXmOFzb5UAAAA&shmds=v1_AUFQtOPsE-VFsAIFgj4Sw0ccAFvJ5-h2Id8jZ5Nvl5omctZ29A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=5BlAOH0YlFEht-t7AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Is it important for you to work in an industry that contributes to the common good? Would it motivate you to work for a company that focuses on early disease detection and thus saves lives? Do you see yourself in transforming the conventional medical environment by implementing advanced technologies? Then look no further!\n\nMESI is an innovative company specializing in the development of devices that assist medical professionals. Our innovations are used in 50 countries worldwide and have received a number of awards and certifications. The pinnacle of our products is the MESI mTABLET, which connects wirelessly to various diagnostic modules. It collects all diagnostic measurements in one place and the patient’s medical history for quick and effective diagnostics.\n\nWe are looking for an Android developer to join a team responsible for the operating system and commercial applications on our MESI mTABLET. We have big plans for it, as we will be adding many new features to the system and developing APIs for external developers that will further increase the value of the mTABLET. We are unique in what we do and look forward to becoming even better with your help.\n\nPosition tasks:\n• Design and build applications for the Android platform.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Test code for robustness, including edge cases, usability, and general reliability.\n• Identify and resolve bottlenecks, rectify bugs and enhance application performance.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nKey requirements:\n• Java\n• Kotlin\n• Activity-lifecycle concepts\n• Retrofit\n• SQLite\n• ORMlite\n• At least 1-2 years of prior experience (Java or Android development)\n\nEven better if you have experience with:\n• Android OS\n• JUnit\n• Jira\n• Git\n• OpenGL\n\nWhat we offer:\n• A dynamic international team creating top-quality solutions in a family-friendly, supportive environment.\n• Initial fixed-term employment with the possibility of permanent employment later on.\n• Ample creativity.\n• Independence as well as teamwork with colleagues dedicated to developing high-quality software solutions.\n• Plenty of opportunity to learn and advance.\n• Competitive payment.\n• Flexible work hours.\n\nInterested in getting to know us? Then press that Send button and get in touch! We are looking forward to receiving your CV at jobs@mesimedical.com subject: » Android/Java developer «.",
+            "apply_options": [
+                {
+                    "title": "MESI Medical",
+                    "link": "https://www.mesimedical.com/it/chi-siamo/carriera/android-java-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wbWVudCB8IEFuZHJvaWQvSmF2YSBkZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJNRVNJLCBMdGQuIiwiYWRkcmVzc19jaXR5IjoiU2xvdmVuaWEiLCJodGlkb2NpZCI6IjVCbEFPSDBZbEZFaHQtdDdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtVnVhV0UifQ=="
+        },
+        {
+            "title": "Software (mobile) Engineer",
+            "company_name": "Rekrutech",
+            "location": "Kranj, Slovenia",
+            "via": "Rekrutech - Rekrutech.si",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=BCpRvrpSlCk6Kb8LAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAwAQLH2CYjBIyBoAKkLzAgJNvqAKqlMmpLaUWygr-DNlOXGK76zYl_zQz82IywHdiHiCs7kAyFm2MKVHQja3HbABBdmH3F-6lSTHI0RiaUXtRrasuXBMKHj0fTs5E8j3fSmaBWbQ7Uby0R-vbjjM78UpzEQ3LKlfgN15DdSsD9xjynikQAAAA&shmds=v1_AUFQtONkj-cwCCUOavN2tzRn9UHR3LH6MVKx5mS-tpVahg0DHQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BCpRvrpSlCk6Kb8LAAAAAA%3D%3D",
+            "extensions": [
+                "24 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Responsibilities\n\nAs a Mobile Developer, you will:\n• Be an active member of an agile development team, collaborating with product managers, designers, and QA specialists.\n• Design, develop, and maintain product, ensuring secure and scalable transaction processing.\n• Implement new features and enhance existing functionality while meeting performance and regulatory requirements.\n• Write clean, maintainable, and secure code in compliance with industry standards.\n• Conduct code reviews and develop unit tests to uphold software quality and security.\n• Troubleshoot complex issues, debug code, and optimize the app to improve the user experience.\n• Focus on security and compliance with regulatory requirements for trading and data storage.\n\nWhat We Expect\n\nTechnical Skills:\n• Proficiency in React Native and TypeScript\nfor mobile application development.\n• Experience with native development for iOS\n(Objective-C/Swift) and Android (Java/Kotlin).\n• Familiarity with Redux and RxJS\nfor state management and reactive programming.\n• Expertise in version control systems like Git.\n• Hands-on experience with testing frameworks such as Jest or Detox.\n\nKnowledge and Experience:\n• Understanding of mobile development principles, best practices, and user experience (UI/UX) optimization.\n• Analytical problem-solving skills for debugging and improving applications.\n• Familiarity with finance, trading, or cryptocurrency is a plus.\n\nWhat We Offer You\n• The chance to work in the exciting and rapidly growing Crypto & Digital Assets sector.\n• A dynamic role with opportunities for professional growth and development.\n• Salary range from 4.000 - 6.000+ monthly.\n• Learning and development budget with ample possibilities for growth.\n• Access to cutting-edge equipment.\n• Regular team events fostering a collaborative environment.\n• Office located near Kranj Slovenia.\n• Option for partial remote work - 3/4 times per week.\n• 30 days of paid vacation.",
+            "apply_options": [
+                {
+                    "title": "Rekrutech - Rekrutech.si",
+                    "link": "https://careers.rekrutech.si/jobs/5373524-software-mobile-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://si.linkedin.com/jobs/view/software-mobile-engineer-at-rekrutech-by-rekruter-4106253506?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSAobW9iaWxlKSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlJla3J1dGVjaCIsImFkZHJlc3NfY2l0eSI6IktyYW5qLCBTbG92ZW5pYSIsImh0aWRvY2lkIjoiQkNwUnZycFNsQ2s2S2I4TEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVMnh2ZG1WdWFXRSJ9"
+        },
+        {
+            "title": "Senior Mobile Cross-Platform Developer (Firebase)",
+            "company_name": "Proxify",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=D-4ZUrqFUmW5FnU3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOMQrCQBBGYWzT2llNqUISEWy0VFQEIZADhN0wSVY2-y8zS4h38bBq89rvZZ9Fdq85OAg9YZ1nOgtU88qb1EFGuvDEHpGF1lcnbI3yhnJ6wJKykXYgBLoBvefVaUgp6rEsVX3RazLJtUWLsURgi7l8weo_jQ5GOP4IbvaH3VzE0G-XlWB23ZtcoNpj-k2ZL5UXasWfAAAA&shmds=v1_AUFQtOPEAplwYbJYGN1ELWdRM-G6xiyXPugcEXRC4LKx5BZ5Vw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=D-4ZUrqFUmW5FnU3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850aabeb79861a0ab05c41/images/6e6b22c780acac7b1fc6738683572dd2891cbc588d06aa61d0f5f0958beacaef.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: EMEA\n\nAbout us:\n\nTalent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂\n\nSince our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 3500+ talented developers trust Proxify and its network to fulfil their dreams and objectives.\n\nProxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success.\n\nThe Role:\n\nWe are looking for a Senior Mobile Cross-platform Developer with strong proficiency with Firebase for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.\n\nWhat we’re looking for:\n• Minimum of 5 years of experience in mobile application development with a strong portfolio of released applications.\n• Extensive experience with Firebase services and integrations in mobile applications.\n• Proficiency in mobile development frameworks and languages such as Flutter, React Native, Swift, Kotlin, and Java.\n• Strong knowledge of testing frameworks and debugging tools for mobile applications.\n• Excellent analytical and problem-solving skills with a proactive approach to identifying and resolving issues.\n\nResponsibilities:\n• Design, develop, and maintain high-performance mobile applications for both iOS and Android platforms using Flutter, React Native, or native languages (Swift, Kotlin).\n• Implement and manage Firebase services such as Authentication, Firestore, Realtime Database, Cloud Functions, Cloud Messaging, and Crashlytics to enhance mobile applications.\n• Write clean, maintainable, and efficient code with a focus on reusability and best practices. Conduct unit testing, integration testing, and end-to-end testing to ensure application stability and performance.\n• Identify and troubleshoot performance bottlenecks in mobile applications and optimise for maximum performance and user experience.\n\nWhat Proxify offers\n• Career-accelerating positions at cutting-edge companies\n• Discover exclusive long-term remote engagements at the world's most interesting product companies.\n• Hand-picked opportunities, just for you\n• Skip the typical recruitment roadblocks and biases with personally matched engagements.\n• Fast-track your independent developer career\n• Start small and gain more freedom to take on new engagements as you build your independent developer career.\n• A recruitment process that values your time\n• Only one hiring process with the possibility of several positions, without any additional tests.\n\nThis offer from \"Proxify\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66becfd9b7394dd03ed0d048-senior-mobile-cross-platform-developer-firebase?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIENyb3NzLVBsYXRmb3JtIERldmVsb3BlciAoRmlyZWJhc2UpIiwiY29tcGFueV9uYW1lIjoiUHJveGlmeSIsImFkZHJlc3NfY2l0eSI6IlNsb3ZlbmlhIiwiaHRpZG9jaWQiOiJELTRaVXJxRlVtVzVGblUzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbVZ1YVdFIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Scale3C",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.si/search?ibp=htl;jobs&q=Android+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAA0L2rm9ONIpiI4qKjouDaDyiXcCSVay7kztLBj1eXx-s-3ebObzNqcKOZWOpvO3hKACVsMYMUeIgkpvUlm1U9e6_KLqmhjdFFmbwUCrL4lwT9M2jGRpXRaDic9ourJW1XfUSm4xXGAj3LTGXEL7qnqpd-AAAA&shmds=v1_AUFQtOMqOEs19t8fX7eo0Xnu26BToUrSQUaugdrCns96aHhMJw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850aabeb79861a0ab05c41/images/6e6b22c780acac7b6f3fce1738ba094d25b5d4bfc31fb487f983a35f58d7ebd4.jpeg",
+            "extensions": [
+                "21 days ago",
+                "€192K a year",
+                "Work from home",
+                "Internship",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "salary": "€192K a year",
+                "work_from_home": true,
+                "schedule_type": "Internship",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union\n\nWho we are\nWe’re an award-winning development agency at the heart of Vilnius City with clients all around the world. Being a premier development agency we only work for the best, with the best. We specialize in web & mobile development and bespoke UX/UI design. No matter how big or small our client’s organization and budgets are, we’ve got a solution for them. This means you have a chance to work with both small and medium-sized businesses. We also provide outsourcing & outstaffing services to our clients.\nWhat we are looking for\nLooking for a Flutter developer for a full-time job as a contractor in our clients team.\n\nDay to Day\n• Flutter application development\n• Working together with other developers, project manager and UX/UI designer to build smooth & scalable app\n• Learn best software development practises with your colleagues\n• Contribute to quality by identifying spots of improvements\n• Experience with REST API, HTTPS\nYou are someone who has...\n• At least 2 years experience as a Software Developer\n• At least 2 year experience with Flutter SDK and Dart language\n• Rich experience in different screens layouting/supporting\n• Experience in building at least 1 Android and/ or iOS application using Flutter\n• Understanding and experience with state-management patterns: Provider, BLoC / MobX\n• Strong experience with Git / Git Flow\n• Strong communication, problem-solving skills\n• Fluency in English language\n• Experience (as an advantage) with Flutter for Web, Flutter for Desktop/ Flutter Platform Channels; in Android development (Android SDK)/ iOS development (Xcode, iOS SDK); with Agile methodologies (Scrum, Kanban)\nWhy you’ll love working with Scale3C\n• Work with some of the world’s leading and most recognized brands\n• Have the opportunity to work 100% remote from any country around Europe\n• Office in Vilnius city center\n• Cool and vibrant work environmentInterested in the position? We are looking forward to your application, to connect and talk more!\n\nBest regards,\nTalent acquisition team\n\nThis offer from \"Scale3C\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677c07d256373d87f2b9cbc6-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNjYWxlM0MiLCJhZGRyZXNzX2NpdHkiOiJTbG92ZW5pYSIsImh0aWRvY2lkIjoibFNMUWRlZ3c2WlE4RllkUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVMnh2ZG1WdWFXRSJ9"
+        }
+    ]
+}

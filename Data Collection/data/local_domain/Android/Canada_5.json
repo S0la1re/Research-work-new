@@ -1,0 +1,460 @@
+{
+    "search_metadata": {
+        "id": "67850a0b869df2441c16195f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6b7cc50af4d83d6c/67850a0b869df2441c16195f.json",
+        "created_at": "2025-01-13 12:41:47 UTC",
+        "processed_at": "2025-01-13 12:41:47 UTC",
+        "google_jobs_url": "https://www.google.ca/async/callback:550?q=Android+developer&uule=w+CAIQICIGQ2FuYWRh&udm=8&fc=EswCCowCQUpHOUprTTV4U1RobDJwQW4zVi1sTUV4djBFSDJoMkl1dkZFMmpSTjFfZWFLMGU1NE9iLTluTURvZ2F6Q1h1LWd4ZXM5VWFpaExfMENUbVhfenZQRXFZajFlWTZ5S25wZjlqQ3ZhMmJVZ01ZbUJxWjdZempCT3RJamxuZTJlRWdvSzROblFNeEtzcUFqamNXdFNJVGs5bElMZS1XVnR6Zlg5RU5iV0lud0l1T3FnX1hKOV96dkI0N0JpOXRvTnVQbXlaSm9rcWhTM0hSWlZ6czIyaUJQLXpjWFdSc29pTlBIMWpwR01DOXE0N21IYUVfYUlmWG9JVFdKc1hoS2xIRno0UUo0MkZaRlhqYhIXQ3dxRlotUDlENEdpNU5vUG5ycW02QUUaIkFGWHJFY3FhVEhDdVpzX2F3dkhsRkNBRy1NZlEzMW43amc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/6b7cc50af4d83d6c/67850a0b869df2441c16195f.html",
+        "prettify_html_file": "https://serpapi.com/searches/6b7cc50af4d83d6c/67850a0b869df2441c16195f.prettify",
+        "total_time_taken": 5.75
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Canada",
+        "location_used": "Canada",
+        "google_domain": "google.ca",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVFY0VTFSb2JESndRVzR6Vmkxc1RVVjRkakJGU0RKb01rbDFka1pGTW1wU1RqRmZaV0ZMTUdVMU5FOWlMVGx1VFVSdloyRjZRMWgxTFdkNFpYTTVWV0ZwYUV4Zk1FTlViVmhmZW5aUVJYRlphakZsV1RaNVMyNXdaamxxUTNaaE1tSlZaMDFaYlVKeFdqZFplbXBDVDNSSmFteHVaVEpsUldkdlN6Uk9ibEZOZUV0emNVRnFhbU5YZEZOSlZHczViRWxNWlMxWFZuUjZabGc1UlU1aVYwbHVkMGwxVDNGblgxaEtPVjk2ZGtJME4wSnBPWFJ2VG5WUWJYbGFTbTlyY1doVE0waFNXbFo2Y3pJeWFVSlFMWHBqV0ZkU2MyOXBUbEJJTVdwd1IwMURPWEUwTjIxSVlVVmZZVWxtV0c5SlZGZEtjMWhvUzJ4SVJubzBVVW8wTWtaYVJsaHFZaElYUTNkeFJsb3RVRGxFTkVkcE5VNXZVRzV5Y1cwMlFVVWFJa0ZHV0hKRlkzRmhWRWhEZFZwelgyRjNka2hzUmtOQlJ5MU5abEV6TVc0M2FtYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Android Kotlin Developer - Waterloo, Canada",
+            "company_name": "Forhyre",
+            "location": "Waterloo, ON, Canada",
+            "via": "Jobs At Forhyre",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=gM66skhtGWGxFpNvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XNsQrCQBCEYWzzCDZuLZoTwUarqCgoaGkZNsmSi5w3x-0h8XV8UmMhNlP8xXzZe5RtC99EdA2dkVznaS9PcQgSaU43ThIdMKMde254SCdUpMKxtgRPR6B1Mt7YlIKujVF1eauJU1fnNR4GXir05o5Kv1Oq5SjBDbflcrXo8-Db6eSAaF9RaMD_4PXyQz9IzvkQpQAAAA&shmds=v1_AUFQtOOPdlwP9Tv8SShCgPXcuevQcWi_x01Q7fsJ4JjDy1RAwQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gM66skhtGWGxFpNvAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an Android Developer who possesses a passion for pushing mobile technologies to the limits. This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications.\n\nAndroid programming works closely with other app development and technical teams.\n\nResponsibilities\n• Good understanding of the Android Architecture and preferably Android-O or later\n• Programming experience in Kotlin\n• Work Experience in Android code base - Application layer and Application Framework\n• Work experience in Android App Development (Content providers, Receivers, Android Framework / Managers etc.)\n• Work experience from Mobile or other Domains also ok but Android expertise Must\n• Good knowledge in Android Services/Framework layer and its debugging\n• Good understanding of Android programming environment using Binders, Shared memory, IPC mechanisms, etc.\n• Preferably expertise in Vehicle Interface & knowledge on Infotainment systems\n• Preferably Application development for Android Infotainment systems covering following areas - Navigation, Connectivity (WiFi, BT), Projection (Android Auto, Carplay), Tuner (AM/FM)\n• Tools: GIT & Gerrit, JIRA, Android source build system, Android debugging tools.gging tools.\n\nExperience\n• 3 - 15 Years\n\nLocation\n• Waterloo, Canada",
+            "apply_options": [
+                {
+                    "title": "Jobs At Forhyre",
+                    "link": "https://jobs.forhyre.com/android-kotlin-developer-waterloo-canada-30525/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Forhyre/Job/Android-Kotlin-Developer-Waterloo,-Canada/-in-Waterloo,ON?jid=63ab430c8056a522&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/android-kotlin-developer-waterloo-canada-waterloo-on--6404c13d-d9e2-4003-aeca-d782e0844287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career Beacon",
+                    "link": "https://www.careerbeacon.com/en/job-9/1751642/forhyre/android-kotlin-developer-waterloo-canada/waterloo-on?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEtvdGxpbiBEZXZlbG9wZXIgLSBXYXRlcmxvbywgQ2FuYWRhIiwiY29tcGFueV9uYW1lIjoiRm9yaHlyZSIsImFkZHJlc3NfY2l0eSI6IldhdGVybG9vLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJnTTY2c2todEdXR3hGcE52QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Android Application Developer",
+            "company_name": "Nano Magnetics Ltd.",
+            "location": "Toronto, ON, Canada",
+            "via": "Brightspark Ventures",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=6dLIlIA1iIiBuj_sAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE43l5qI6KJTURBE6-JerumRRuJdyAXxbXxV6_IvP1_1XVTblscsYYQ2pRgcliAMJ3pTlEQZVnCRAZQwuwnmcxbxkZaHqZSke2tVo_FaZuaMk5cVpkE-9imD_tPrhJlSxEL9Zrf-mMS-rjtkgRt6ppkpXMtoIDA8JAsXaeDeNXBExhF_hwqaTqIAAAA&shmds=v1_AUFQtONVjTQzX6lwIxJDkkWZaUIN_yobupwcXJC1pVY9q2HuXQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=6dLIlIA1iIiBuj_sAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a253479ebf4d4e47a7444dd8500101a01d3c9459ca562b0a6984.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Android Engineer\n\nHome   Careers   Android Engineer\n\n(Kernel, Driver, Application)\n\nNanoport enables new types of hardware and exciting new applications. We are looking for developers inspired to create new ways for people to interact with mobile devices. Your role goes beyond building applications, and includes developing platforms and extensions to the Android system itself.\n\nTo be our ideal candidate you must love hard challenges. You will be working on core framework features. You should have experience working with and modifying the kernel and using drivers up through the HAL layer.\n\nThis is your opportunity to break new ground and define new areas of Android functionality!\n\nWhat You Need To Know/Have…\n• Bachelor's Degree in Computer Science, Software Engineering or related knowledge and experience\n• Minimum 2 years of Android and/or Java development experience\n• Experience with Android Studio and the Android SDK / NDK\n• Sincere passion for mobile devices and emerging technologies with a track record of execution\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.\n\nBonus\n• Experience making or using custom Android ROMs\n• Experience adding features or functionality to Android framework\n• Be able to work well, be open minded, and remain excited to learn new things with others in a fast-paced environment.\n\nSounds like you? Shoot us a line to discuss at careers@nanomagnetics.com",
+            "apply_options": [
+                {
+                    "title": "Brightspark Ventures",
+                    "link": "https://careers.brightspark.com/companies/nano-magnetics-ltd-2/jobs/6215070-android-application-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Canadajob24h.com",
+                    "link": "https://canadajob24h.com/ko/android-application-developer-job120748?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEFwcGxpY2F0aW9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik5hbm8gTWFnbmV0aWNzIEx0ZC4iLCJhZGRyZXNzX2NpdHkiOiJUb3JvbnRvLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiI2ZExJbElBMWlJaUJ1al9zQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Principle Software Engineer- Android and Cloud Development",
+            "company_name": "Zebra Technologies",
+            "location": "Mississauga, ON, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=jHUZIz-RVQaB1MB0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQoCMRBAYWz3CFZTi7srgo1WoiII_qGVjcwmYzYSZ0Imq97Oq6nw-NpXfHrF8ZA8Gx8DwUlu-YWJYMXOM1EqYc42ibeAbGERpLOwpCcFiQ_iDCVspAElTKYFYViLuED9WZtz1Gldq4bKacbsTWXkUQtTI-_6Lo3-uWr7u8WAma7jyehdRXaD8kJNQjiTaVmCOE8KnmHrVX9h53AI-90QFsho8Qt2I5bXwgAAAA&shmds=v1_AUFQtONrrJSa1iMkEdhiDp4vXiO05wFBMQXo7K2hz-jmBymEdw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jHUZIz-RVQaB1MB0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a2530d237f66eb59c25d656f121d7547101258ffd48df3300173.gif",
+            "extensions": [
+                "23 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Remote Work: No\n\nOverview:\n\nAt Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n\nBeing a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n\nYou have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.\n\nLet’s create tomorrow together.\n\nWe are looking for a highly experienced and skilled Senior Software Engineer specializing in Android and Cloud Full Stack Development to work closely with enterprise customers in defining use cases, requirements, architecting, designing, and developing high-performance, scalable, real-time mobile devices and cloud solutions for Zebra Mobile Computers and their peripherals. The successful candidate must be an innovative hands-on expert in Android OS stack, Android SDK and application development, barcode and document capture, RFID and NFC technologies, and Bluetooth for precise location tracking. Additionally, this role requires full-stack cloud development experience on Enterprise Cloud Platform, real-time device notifications, and the ability to design robust, and scalable databases for Enterprise use cases.\n• **Location: Onsite in Mississauga, Canada- Hybrid.\n\nResponsibilities:\n• Collaborate with Customers: Work closely with clients to define use cases, gather requirements, and develop customized software solutions for mobile devices and cloud environments.\n• Software Architecture & Development: Design and develop high-performance BSP and application level software solutions for Android devices and cloud platforms, focusing on key technologies such as android SDK, application development, cloud services, and real-time solutions.\n• Cloud Solutions: Develop scalable and efficient cloud-based Enterprise solutions using cloud platforms, ensuring high availability, performance, and integration with mobile devices.\n• API & Peripheral Integration: Build APIs and interfaces for seamless integration with various peripherals such as scanners, printers, bluetooth accessories and other devices.\n• Real-Time Location & Notification Systems: Develop and optimize systems for real-time location tracking and device notifications, ensuring timely and accurate communication across platforms.\n• Mobile Device Configuration: Implement solutions for remotely configuring mobile devices and managing their lifecycle, using tools and technologies to enable secure access and integration with enterprise systems.\n• Profile Management: Design and implement services that automate device profile switching based on application context, user interaction, or specific workflows.\n• Troubleshooting & Support: Identify, troubleshoot, and resolve technical issues, ensuring that solutions are provided in a timely manner and meet customer needs.\n• Full-Stack Development: Contribute to both the backend and frontend components of software solutions, ensuring the creation of robust, scalable, and maintainable systems.\n• Team Collaboration: Work effectively with global team, collaborating with both technical and non-technical stakeholders to deliver high-quality software solutions on time.\n• Mentorship & Knowledge Sharing: Provide mentorship to global team members, helping them grow their technical skills and ensuring best practices are followed.\n• Maintains keen awareness of competitor products and development direction to help direct designs to surpass the competition.\n• Uses status as a developer of novel and creative solutions to build business and bring positive attention to technologies and services.\n• With other engineering disciplines, develops next generation ideas and solutions to meet client needs before the competition.\n• Analyzes competitor intellectual property and participates in activities related to protecting intellectual property.\n• Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results.\n• May supervise the activities of others.\n• Creates formal networks involving coordination among groups.\n• Serves as organization spokesperson on specialized projects or programs.\n• Acts as prime consultant on large projects that affect the organization’s long-term goals and objectives.\n\nQualifications:\n\nMinimum Qualifications:\n• Bachelor’s degree in Computer Science, Information Technology, or related field\n• 10+ years of related experience\n• Hands-on expertise in Android OS customization (GMS and AOSP), Android OEM SDK development, and application development, particularly for OEM-specific features, with mandatory coding proficiency in C, C++, Java, and Kotlin.\n• Expertise in creating and automating Android services for profile switching based on active applications in the foreground, visible screens, user context, and voice integration, specifically for shared device environments.\n• Expertise in architecting scalable, multi-tenant, real-time cloud solutions, managed services, and microservice architectures on cloud platforms such as GCP, with a focus on APIs, real-time data syncing, and push notifications to Android devices, with mandatory coding proficiency in JavaScript and Java.\n• Expertise in full-stack development from device to cloud solutions using Google-managed cloud and microservices, including Firebase, Firestore, Realtime Database Cloud Functions, BigQuery, PostgreSQL, and Cloud Storage.\n• Proven expertise in building tools and SDKs for barcode, image, and document capture technologies, including OCR, UDI, and image processing.\n\nPreferred Qualifications:\n• Master’s degree preferred.\n• Proven expertise in building communication APIs, especially for Bluetooth, BLE, RFID, and NFC technologies, and integrating Android services for profile automation based on app context and voice integration\n• Proficient in designing and developing location tracking and notification solutions using Bluetooth and RFID technologies.\n• Proficient in designing and developing with real-time push notifications for android mobile devices and peripherals, nearby device notifications, virtual tethering technologies.\n• Proficiency in user and device authentication, including roles and claims, and generating email automated and on demand reports on cloud platforms.\n• Expertise in customizing and collecting logs on Android devices across various applications, OS and services.\n• Solid understanding of networking principles, security best practices for Android devices and cloud platforms, and cloud architecture patterns\n\nZebra is an equal opportunity/affirmative action employer committed to a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, ancestry, marital status, age, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. If you are an individual with a disability and need assistance in applying for a position, please contact us at workplace.accommodations@zebra.com.\n\nThe EEO is the Law poster is available here: https://www.zebra.com/content/dam/zebra/compliance/eeoisthelawposter.pdf.\n\nThe EEO is the Law poster supplement is available here: https://www.zebra.com/content/dam/zebra/compliance/ginasupplement.pdf.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.\n\nTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=877e7faa5d9e8ee8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Zebra/Job/Principle-Software-Engineer-Android-and-Cloud-Development/-in-Mississauga,ON?jid=24e0fe9af7a9fb27&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Careers At Zebra - Zebra Technologies",
+                    "link": "https://careers.zebra.com/careers/job/343623363060-principle-software-engineer-android-and-cloud-development-mississauga-ontario-canada?domain=zebra.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/principle-software-engineer-android-and-cloud-development-zebra-technologies-JV_IC2280741_KO0,57_KE58,76.htm?jl=1009574151926&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/8651025979731417783?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://fr.simplyhired.ca/job/j-4Ne4rBKeFfjfgZxWYv-yTU1-v7FlnAiS7i8ZRiYBkY6SNnzWzi6Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.ca",
+                    "link": "https://www.monster.ca/job-openings/principle-software-engineer-android-and-cloud-development-mississauga-on--befa589c-68bf-4da2-9c05-e2cfacb39ff6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Eightfold.ai",
+                    "link": "https://zebra.eightfold.ai/careers?domain=zebra.com&pid=343623363060&src=srm_linkedin_jb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwbGUgU29mdHdhcmUgRW5naW5lZXItIEFuZHJvaWQgYW5kIENsb3VkIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiWmVicmEgVGVjaG5vbG9naWVzIiwiYWRkcmVzc19jaXR5IjoiTWlzc2lzc2F1Z2EsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6ImpIVVpJei1SVlFhQjFNQjBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Sr. Android Developer",
+            "company_name": "General Motors Canada",
+            "location": "Markham, ON, Canada",
+            "via": "HackerX",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=plVLgloI35Yo8J3XAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3IsQrCMBAAUFz7CU43S0xEcNFJFApCdfADyrU9mmp6F-6C-Cv-rQgub3jVZ1G5u3o48qAyDXCmFyXJpLCGi3RghNpHEIZaZEy0PMRSsu1DMEt-tIJl6n0vcxCmTt7hIZ39aC2iUk5YqN3uNm-feVy5mpgUEzRSRA1OyDggTAwN6jPi7OB2df_-Ag86z5OcAAAA&shmds=v1_AUFQtONQgAJrMF1WvGQY-bUlctUk74x0s7tlmiQy4_puh9Wt6w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=plVLgloI35Yo8J3XAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a2534eff7a2d4ba9ed0d2477bc87499513334f8d34b9f5049256.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Do you have what it takes to reinvent an industry?\n\nThe auto industry is developing today’s cutting edge technologies in the fields of connectivity, multimedia, self-driving and much more. You can be part of a growing, young, dynamic team of multi-disciplinary software developers and engineers that are reinventing the industry as we speak. General Motors is leading the pack in this field.\n\nIf you want to make history happen, bring your skills and energy to General Motors’ Canadian Technical Centre’s Software Infotainment team today and be part of a revolution.\n\nWe are waiting to be wowed.\n\nThe Opportunity\n\nCore application developers and engineers will contribute to the development of GM’s Infotainment systems. Your contribution will enable customers to connect their personal consumer devices to vehicle infotainment systems. The Core Application developer will be responsible for feature development and maintenance of core applications and services such as: calling, contacts, settings, and messages.\n\nWhat We Need You To Do\n\nContribute as designer and developer to building infotainment solutions for consumer devices. Responsible for the entire life cycle of the assigned domain, including requirements, system design, development, deployment, and maintenance of the infotainment software\n\nParticipate in the design of a best-in-class in-vehicle platform for GM infotainment systems\n\nParticipate in architecture, requirements, and design, code, and test case reviews\n\nParticipate in new feature development, maintenance of existing features and bug fixes\n\nParticipate in feature requirement and design reviews and all regular software development activities\n\nParticipate in test case design reviews and make bug prevention proposals\n\nProvide clear and complete documentation based on the definition of the software development process\n\nCollaborate with team members in software development activities using the Scrum/Agile development process\n\nSenior members will take ownership of each project, need to make design and implementation decisions autonomously and mentor junior members\n\nQualifications\n\nWho We Are Seeking\n\n5+ years of experience programming in Java, C++ or Object C\n\n3+ years of experience developing applications or middleware for mobile platforms like Android or iOS\n\nObject-oriented software development experience with a solid grasp of algorithms and data structures\n\nExperience working with large code bases, developing entirely new code and maintaining existing code\n\nExperience providing guidance, leadership, and mentoring to team members\n\nExperienced working with SCM tools like GIT, SVN or ClearCase\n\nExperienced working with Agile/Scrum development process and tools\n\nAbility to perform diagnostic and investigate issues based on limited information\n\nExcellent verbal and written communication skills\n\nCreative, disciplined, strong sense of responsibility, delivery and schedule commitment\n\nStrong leadership and interpersonal communication skills are required for senior position\n\nBachelor’s degree in Computer Science, Software Engineering or equivalent field\n\nAdvanced degrees preferred\n\nOther Skills Preferred\n\nExperienced with Android Open Source Project development\n\nSoftware development experience in Linux platform\n\nSoftware development experience in a variety of embedded system\n\nExperience with scripting, tool development and test automation framework\n\nExperience with the development of automotive infotainment solutions\n\nExperience with vehicle communication network protocols including CAN, MOST",
+            "apply_options": [
+                {
+                    "title": "HackerX",
+                    "link": "https://hackerx.org/job/general-motors-canada-markham-2-recruiter/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJHZW5lcmFsIE1vdG9ycyBDYW5hZGEiLCJhZGRyZXNzX2NpdHkiOiJNYXJraGFtLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJwbFZMZ2xvSTM1WW84SjNYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Android Developer Intern",
+            "company_name": "Waygo Visual Translator",
+            "location": "Toronto, ON, Canada",
+            "via": "Jobbio",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=VsTzKZryK0wGJ9aiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCQAwAUFz7CU6Zpd6J4KKTKIgOuhQdS9qG9uRMjuSU-jN-q7q86RWfSeG33KmEDvb0oiiJFI6cSRnmcJIGjFDbAYThINJHmm6GnJOtvTeLrreMObSulYcXpkZGf5fG_tQ2oFKKmKlerhajS9zP3A3fvcA12BMjVIpsvyAKgaESFc5SwuVcwg4ZO_wCEeb3c6EAAAA&shmds=v1_AUFQtOMLBrtgkae9gU4XLqk-QXTpeTuDrodyHRgLS_-iRPDU6A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=VsTzKZryK0wGJ9aiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a2535cfda6128675132500babc4e9dd78105581743ba94a2f518.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Android Developer Intern Job Description We are looking for an Android intern to help build and improve Waygo for Android. This is an unpaid internship but the hourly commitment is flexible and you can get college credit! Waygo app has already helped our users make over 3.5M translations. Your contribution will directly improve a Waygo user’s experience traveling abroad. All of our software engineers have around 10 years of experience developing and are eager to help you learn and reach your education/career goals. You’ll be working under an experienced developer that will help you along the way. If you perform well, there is an opportunity for a full-time position after graduation. This is a remote position as we are a distributed team of 6 so the majority of communication will be through email and video chat. Qualifications Android SDK experience Java experience Git experience Excellent communication skills Ability to meet deadlines Passion for startups, travel, and mobile technology Apply Now!",
+            "apply_options": [
+                {
+                    "title": "Jobbio",
+                    "link": "https://jobbio.com/companies/waygo-visual-translator/jobs/android-developer-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJXYXlnbyBWaXN1YWwgVHJhbnNsYXRvciIsImFkZHJlc3NfY2l0eSI6IlRvcm9udG8sIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6IlZzVHpLWnJ5SzB3R0o5YWlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Lorven Technologies",
+            "location": "Calgary, AB, Canada",
+            "via": "Talent.com",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=4iXza3xhtwyMvOcFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CU43SqmNCC46VQVBHN3LNT2SlHgXcqHU7_CH1eXBqz6ratPxmCWMcKWZoiTKsIW7DKCE2XoQhpuIi7Q--VKSHo1Rja3TgiXY1srLCNMgi5lk0D-9esyUIhbq94fd0iZ2df2QPBPDk6xnieICKQSGC0aH-d1Ad25-YRzxC07svOqWAAAA&shmds=v1_AUFQtON-BpaVzaXF30_MaeWbWH_F1Pmz6RxEw_fCe7nSnAEEeA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4iXza3xhtwyMvOcFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a253f8415b4a49d655bd5f1586d440da86067a0e440d011acb82.gif",
+            "extensions": [
+                "CA$55–CA$65 an hour",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "CA$55–CA$65 an hour",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our client is looking Android developer for long term project in Calgary, AB - CAN (Onsite) Below is the detail requirement.\n\nRole : Android developer\n\nLocation : Calgary, AB - CAN\n\nJob description\n• 6+ years of Mobile app development experience\n• Strong proficiency with Android application development, Kotlin programing language\n• Hands on experience with Android Studio, Mobile application debugging\n• Proficient understanding of code versioning tools, such as GitHub and Bitbucket\n• Knowledge of cordova plug ins, node modules, mobile web view will be a plus.\n• Experience in high volume production scenario\n• Understanding accessibility and security compliance",
+            "apply_options": [
+                {
+                    "title": "Talent.com",
+                    "link": "https://ca.talent.com/en/view?id=9a33ca0309ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Venus Consultancy",
+                    "link": "https://venushiring.ca/job/android-developer-in-calgary/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Canada Meet Opportunities",
+                    "link": "https://ca.bebee.com/job/c9b76c4a974646aba111545f423c4718?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/calgary/canada/software_development/3824473810/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobdash.ca",
+                    "link": "https://jobdash.ca/job/android-developer-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Edajobs.com",
+                    "link": "https://ca.edajobs.com/job/23047/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkxvcnZlbiBUZWNobm9sb2dpZXMiLCJhZGRyZXNzX2NpdHkiOiJDYWxnYXJ5LCBBQiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiI0aVh6YTN4aHR3eU12T2NGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Finix",
+            "location": "Toronto, ON, Canada (+1 other)",
+            "via": "Lever",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=enTo0108fHEXKHTMAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CeJwmyA1EcHFTiIqOOjiXi7tkZzUu5DL0A_ww8U3vOa7aNYnGYvyCBeJLEQFtnDXAEZYhgQqcFONEy27VGu2o_dmk4tWsfLgBv14FQo6-7cG-9dbwkJ5wkr9_rCbXZa4WV1ZeAYWeGlRqdrC89HCGQVH_AF6_JhghwAAAA&shmds=v1_AUFQtON3D_nEfKnCio7dZeK0-B0BrmQQvuINVDBN51GbDE0Ajg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=enTo0108fHEXKHTMAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Us\n\nMove money. Make money. Finix processes billions of dollars every year for leading SaaS, marketplace, and e-commerce platforms. With one developer-friendly API, Finix helps companies accept payments, manage payouts, and onboard merchants—everything you need to enable payment processing, and grow revenue.\n\nFinix has raised over $100M from American Express Ventures, Bain Capital Ventures, Homebrew, Inspired Capital, Lightspeed Venture Partners, Sequoia Capital, Visa, and others.\n\nAbout the role\n\nThe mobile engineer owns the development of mobile apps and SDK responsible for enabling transactions on Android-compatible devices. This specific role will implement and develop an SDK that integrates with Finix APIs and payment providers to collect payments using various terminals. This role will be involved in developing SDK for developing accepting credit card, ACH, and Google Pay payments.\n\nYou Will\n• Work with product management to create specifications.\n• Work with various vendors to understand specifications and implement their libraries.\n• Work with native payment methods, Bluetooth functionality, Storage, location, and various features.\n• Own the implementation, best practices, and infrastructure within your domain. Develop close relationships with product management and peer engineers.\n• Proactively improve our architecture, frameworks, tooling, automation, and best practices.\n\nYou Are\n• Comfortable continuously delivering code, infrastructure, and tests throughout the product development lifecycle.\n• Able to lead proposals, design, and architect systems through research into use cases\n• Obsessed with finding edge cases, understanding requirements, and design implications.\n• Proactive in monitoring running systems and troubleshooting production issues.\n• Committed to communicating and working cross-functionally with other teams to ensure the delivery of quality code and features.\n\nYou Have\n• 3+ years of experience working on mobile applications development\n• Professional experience developing publicly available Android apps using Kotlin/Java supported by RESTful web services\n• Participation from inception to launch using automated tooling of at least one publicly available app\n• Experience with Dependency Injection with tools such as Koin\n• Experience with memory storage, management, and persistence\n• Experience with Jetpack Libraries, Navigation, and Compose\n• Experience with Test Driven Development, and Test Automation\n• Experience working on developing Android SDK/libraries\n• Experience developing MVVM + Clean Architecture applications and developing libraries suited for varied app architectures\n• AOSP experience is a bonus\n\nFinix is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected class.\n\nRole: Android Engineer\n\nLevel: IC3\n\nLocation: San Francisco\n\nBase Salary Range: $120,000/yr to $160,000/yr + equity + benefits\n\nOur salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries at our headquarters in San Francisco, California. Individual pay is determined by work location, job-related skills, experience, and relevant education or training.\n\n#LI-EH1",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Comfortable continuously delivering code, infrastructure, and tests throughout the product development lifecycle",
+                        "Able to lead proposals, design, and architect systems through research into use cases",
+                        "Obsessed with finding edge cases, understanding requirements, and design implications",
+                        "3+ years of experience working on mobile applications development",
+                        "Professional experience developing publicly available Android apps using Kotlin/Java supported by RESTful web services",
+                        "Participation from inception to launch using automated tooling of at least one publicly available app",
+                        "Experience with Dependency Injection with tools such as Koin",
+                        "Experience with memory storage, management, and persistence",
+                        "Experience with Jetpack Libraries, Navigation, and Compose",
+                        "Experience with Test Driven Development, and Test Automation",
+                        "Experience working on developing Android SDK/libraries",
+                        "Experience developing MVVM + Clean Architecture applications and developing libraries suited for varied app architectures",
+                        "AOSP experience is a bonus"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Base Salary Range: $120,000/yr to $160,000/yr + equity + benefits",
+                        "Our salary ranges are determined by role, level, and location"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Finix processes billions of dollars every year for leading SaaS, marketplace, and e-commerce platforms",
+                        "The mobile engineer owns the development of mobile apps and SDK responsible for enabling transactions on Android-compatible devices",
+                        "This specific role will implement and develop an SDK that integrates with Finix APIs and payment providers to collect payments using various terminals",
+                        "This role will be involved in developing SDK for developing accepting credit card, ACH, and Google Pay payments",
+                        "Work with product management to create specifications",
+                        "Work with various vendors to understand specifications and implement their libraries",
+                        "Work with native payment methods, Bluetooth functionality, Storage, location, and various features",
+                        "Own the implementation, best practices, and infrastructure within your domain",
+                        "Develop close relationships with product management and peer engineers",
+                        "Proactively improve our architecture, frameworks, tooling, automation, and best practices",
+                        "Proactive in monitoring running systems and troubleshooting production issues",
+                        "Committed to communicating and working cross-functionally with other teams to ensure the delivery of quality code and features"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/finix/f7b16796-2332-4934-bb73-83199dbdcc23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=8813d19e8e714f84&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Finix/Job/Android-Engineer/-in-Toronto,ON?jid=c3ad81d6bde49208&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-engineer-at-finix-151?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/android-engineer-at-finix-3995452460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/android-engineer-capgemini-JV_IC2281069_KO0,16_KE17,26.htm?jl=1009460317134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/jdp/-818192303258621207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/canada/job/full-time/others/android-engineer-137295033?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiRmluaXgiLCJhZGRyZXNzX2NpdHkiOiJUb3JvbnRvLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJlblRvMDEwOGZIRVhLSFRNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Android Software Developer - Automotive Infotainment",
+            "company_name": "CIeNET International",
+            "location": "Markham, ON, Canada",
+            "via": "Ladders",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=wM9tr3kQxp7vAGieAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNPQ8BQRBAo_UTVFP7uBWJhkoQQVDQy9zduFt2Zza749w_8_ec5jUvL6__7fWPKy6j2BKu8tAPRoINNeQkUIQJrN4qXtQ2BHt-iKJlT6ydOUgOiTAWNQjDTqRyNFjWqiEtjEnJZVVSVFtkhXgjTLm05il5-uOe6u4UHCrdZ_NpmwWuhqP1ns7bWzdSitylwujAMpwwvmr0Y7icx7BGxhJ_CawI4boAAAA&shmds=v1_AUFQtONbMcC2g2TeoOjd5yeY4r66dqq0ptVvABza1OYB9EIZXg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wM9tr3kQxp7vAGieAAAAAA%3D%3D",
+            "extensions": [
+                "86,732–130,099 a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "86,732–130,099 a year",
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Markham, Ontario, Canada\n\nPosition Title: Android Software Developer - Automotive Infotainment\n\nCIeNET is a mobile, automotive, telecom and enterprise software services and solutions research, engineering and development company founded in the U.S. in the year 2000. We currently have over 2,400 employees worldwide, supporting customers in North America, Asia and Europe. We have over ten locations across US, Canada, Mainland China and Taiwan. CIeNET has been named Global Outsourcing 100 in fifteen consecutive years. CIeNET has become an ALTEN Group Company in 2021.\n\nCIeNET is expanding its presence in Canada to better serve our industry leading customers in the automotive industry. We are working on state-of-the-art technologies and products that will bring automotive information and entertainment, mobile internet, telematics services and ADAS to life in the years to come.\n\nCIeNET Canada is looking for intelligent, creative, enthusiastic and diligent professionals to join our team and shape the great future of your career with us.\n\nRole SummarySoftware developers will contribute to the development of the advance Infotainment systems. Their contribution will enable customers to connect their personal consumer devices to vehicle infotainment systems. These software developers and engineers will be important members of a fast growing software group in Canada, which is part of the larger global Engineering team across continents.\n\nWe accept applications across several technical domains including connectivity, user interface and core application and services, framework and personalization, and multimedia and audio, diagnostics. You are encouraged to apply for these positions if you have expertise in any one of the following domains:\n\no User Interface and core applications and services:\n\nThe developer for this domain will be responsible for feature development and maintenance of core applications and services such as calling, contacts, settings, and messaging. Prior UI/UX experience is required to develop user friendly applications\n\no Framework and Personalization:\n\nThe framework developer will be responsible for the customization and enhancement of Android framework components such as, windows manager, activity manager, package manager, system UI and customization widgets, to realize the automotive requirements and features. The developer/engineer for personalization will own the development and maintenance of the Android multi-user framework and all personalization related features\n\no Multimedia:\n\nThe developer for this domain will enhance the entertainment sub-system based on the existing Android multimedia framework, including audio/video playback, controlling the vehicle by voice command, and operating a mobile phone via the vehicle infotainment system. This developer/engineer will leverage their prior software development experience in industry standard multimedia solutions, such as playback engine, audio system, codec, camera, speech, and screen casting, to implement the In-vehicle infotainment multimedia system\n\no Connectivity:\n\nThe developer for this domain will enhance Bluetooth, Wifi, USB sub-systems based on the existing Android source code and 3rd part code, including Voice Call and Music Stream over Bluetooth, Discovery, connect and disconnect Wifi AP, provide Wifi hotspot, supporting connect mobile phone via USB connection. These developers will leverage their prior software development experience in industry standard Bluetooth, Wifi, USB solutions to implement the In-vehicle infotainment system\n\nKey Responsibilities\n• Contribute to develop infotainment solutions for In-vehicle devices. Responsible for the deliverables of the assigned domain such as requirements, system design, development, deployment, and maintenance of the infotainment software\n• Participate in the design of a best-in-class in-vehicle platform for automotive infotainment systems\n• Participate in architecture, requirements, and design, coding and test case reviews\n• Participate in new feature development, maintenance of existing features and bug fixes\n• Participate in feature requirement and design reviews and all relevant software development activities\n• Participate in test case design reviews and conceive bug prevention proposals\n• Provide clear and complete documentation based on the definition of the software development process\n• Collaborate with team members in software development activities using the Scrum/Agile development process\n• Senior member resumes ownership of each project, propose technical solutions, make design and implementation decisions and coach junior members\n\nRequirements\n\nQualifications\n\nRequired Skills and Experiences:\n• Minimum three years of software development experience in related domains\n• Minimum two years of software development experience in Android platform\n• Software development experience in Linux platform\n• Software design and implementation experience in an object-oriented environment\n• Development experience with Java, C++, C, Android Application frameworks\n• Development experience with unit test frameworks such as AndroidTestFramework, monkeyrunner, Robolectric\n• Development experience with Android development toolkit and process\n• Experience with Development tools such as Eclipse IDE and ADT plug-in, Android Studio\n• Experience with software build tools such as makefile, ant, maven, gradle\n• Experience with SCM tools such as GIT, Gerrit, Jenkins, JIRA, or ClearCase\n• Practice with Scrum/Agile software development process\n• Ability to perform diagnostic and investigate issues based on limited information\n• Experience in developing and deploying commercial products in global market is a plus\n• Excellent verbal and written communication skills\n• Creative, disciplined, strong sense of responsibility to delivery result to meet schedule and commitment\n• Good team player with strong interpersonal skills to work effectively in a geographically dispersed environment\n• Effective communication skills and a strong problem solver\n\nRequired Domain Knowledge and Experiences\n• User Interface and core applications and services\n\no Experience in Android application and user interface development\n\no Excellent knowledge of Android core applications and services (telephone, message etc.)\n\no Prior UI/UX development experience of consumer product\n• Framework & Personalization domain:\n\no Development experience in Android UI framework, system UI and widgets\n\no Development experience with Android window manager, activity manager, and package manager.\n\no Android multi-user domain knowledge and development experience\n• Multimedia domain\n\no Development experience in Android Multimedia framework\n\no Solid working knowledge of current Android platform technologies, including media playback engine, streaming, codec, media capturing, audio framework, voice recognition, and screen sharing\n\no Demonstrated in-depth and breadth understanding of software technologies, including rendering, simulation, relational database, and user interface development\n• Connectivity\n\no Development experience with implementing Bluetooth Stack, Chipset and Firmware\n\no Development experience with Android/Linux Wifi Stack including wpa_supplicant, wifi and network driver, chipset and firmware\n\no Development experience with Android/Linux USB Stack\n\no Demonstrated in-depth and breadth understanding of low level software technologies, such as driver, dma, interrupt, I/O, serial port etc.\n\no Solid working knowledge of Linux platform\n\no Experience with BSP development is a plus\n\nPreferred Skills and Experiences:\n• Software development experience in a variety of OS environments is a plus\n• Experience with the integration of Android framework and device bring up is a plus\n• Experience with the porting of Android ROM is a plus\n• Experience with the development of automotive infotainment solutions is a plus\n• Experience with automotive and/or portable consumer electronic devices is a plus\n• Successful Track record in applying advanced technology to enhance the usability of complex systems is a plus\n\nEducation and Training:\n• Bachelor's degree in Computer Science, Software Engineering, or related field.\n• Graduate degree is preferred\n• Professional Engineering designation is a plus\n\nBenefits\n\nGroup Insurance, Employer RRSP match, 15 days annual vacation.\n\nCIeNET offers equal opportunities to people. Accommodation is available for applicants with disabilities upon required. We would like to thank all applicants for expressing interest. However only those selected for interviews will be contacted. Reference check of certain positions will be conducted with your permission.",
+            "apply_options": [
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/android-software-developer-automotive-infotainment-ci-dot-net-international-markham-on_69479587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Mobot, Inc.",
+                    "link": "http://mobotinc.com/office/job/android-software-developer-automotive-infotainment-at-cienet-international-markham-on-ZE00Rm9kVmVyYlhDYzY1Z1ZncEdIdnFDcHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Audio Mint",
+                    "link": "https://audiomint.net/library/job/android-software-developer-automotive-infotainment-at-cienet-international-markham-on-N0MxQ2VmdGpWbXBhY3JmcVlxVnpPSzV2SkE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GeoMati Systems",
+                    "link": "https://geomatisystems.com/library/job/android-software-developer-automotive-infotainment-at-cienet-international-markham-on-VC92SENvVVZYMis0UG5TUU1UU1htQ2prUEE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIERldmVsb3BlciAtIEF1dG9tb3RpdmUgSW5mb3RhaW5tZW50IiwiY29tcGFueV9uYW1lIjoiQ0llTkVUIEludGVybmF0aW9uYWwiLCJhZGRyZXNzX2NpdHkiOiJNYXJraGFtLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJ3TTl0cjNrUXhwN3ZBR2llQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Mobile Developer (iOS/Android)",
+            "company_name": "Fortinet",
+            "location": "Ottawa, ON, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=rONrwfqlw9d-Gnh1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CQ6SUaX2RHDRSRQFQTv4ASXXhvbkTI5L0H6IHyy-4RXfSbG9iQ-R4ERvipIowzzUD3fgLkvoFrCCq3hQwtwOIAwXkT7SdD-YJd05pxqrXg0ttFUrLydMXkb3FK__Gh0wU4po1Gy267FK3C9nZ8kWmAwCQ22GHyyhvpdwRMYOfzxpxQuXAAAA&shmds=v1_AUFQtOMQC61kT5pmtdejHTE42p7TZmT3CShKQFrpfeX-AN2jKA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=rONrwfqlw9d-Gnh1AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a2538556a61b16d24e72321e3b36669b7c02a56a7fe1b5e6bd75.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Fortinet is growing and we are looking to hire a Mobile Developer (iOS/Android) for our FortiRecorder team in Ottawa. At Fortinet, you will be involved in the full development life cycle of software and product development, you will have opportunity to make your skills and expertise a difference. The ideal candidate will have a passion for development and learning new technologies.\n\nJob Skills Required:\n• Software / application development in iOS and Android required\n• Experience with Objective C/Swift, Java, Kotlin, Javascript\n• Experience in C/C++ is an asset for the middle layer of this development\n• Ability to learn new software and technologies quickly\n• Excellent written and verbal communication skills\n• Ability to follow instructions and work in a team environment\n• Conscientious, detail-oriented and hard-working\n\nOne or more of the following experience is a plus\n• Software development experience.\n• Experience with Video codec, WebRTC, Websocket, etc. considered an asset\n• Experience with high performance applications an asset.\n• Beginner knowledge or experience with cloud services considered an asset\n• Excellent problem solving, troubleshooting & communication skills.\n• Experience with container networking on Docker.\n• Experience with application deployment by using CI/CD.\n• bonus: TCP/IP and networking knowledge\n\nEducational Requirements\n\nBachelor's Degree in Computer Science or engineering or equivalent\n\nFortinet strives to provide you and your family with a comprehensive benefits package. Benefits eligibility starts on your first day of hire and comprises of 100% company paid medical, dental, and vision coverage, including a Health Spending Account and a Personal Spending Account that gives you flexibility to spend where you need it the most. Our Employee & Family Assistance Plan (EFAP) offers you and your family access to various services like counseling, legal advice, mental health resources etc. We also provide critical illness, disability, and life insurance, as well as a Group Registered Retirement Savings Plan (RRSP) with a company match to help you save faster for retirement. We offer competitive Paid Time Off and flexible leave policies, including paid health days, to help you take care of yourself and your family members.\n\nAll roles are eligible to participate in the Fortinet equity program. Bonus eligibility is reviewed at time of hire and annually at the Company’s discretion.\n\nWhy Join Us:\n\nWe encourage candidates from all backgrounds and identities to apply. We offer a supportive work environment and a competitive Total Rewards package to support you with your overall health and financial well-being. Embark on a challenging, enjoyable, and rewarding career journey with Fortinet. Join us in bringing solutions that make a meaningful and lasting impact to our 660,000+ customers around the globe.\n\n#LI-KL1\n#GD",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=bbf3602ae4891501&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Fortinet/Job/Mobile-Developer-(iOS-Android)/-in-Ottawa,ON?jid=a53dc45ccaaf755d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs.ca",
+                    "link": "https://www.jobs.ca/offer/mobile-developer-ios-android/3082a92c-87c3-4b4e-a047-5f15699623b2_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Itjobs.ca",
+                    "link": "https://www.itjobs.ca/en/offer/on/ottawa/mobile-developer-ios-android/3082a92c-87c3-4b4e-a047-5f15699623b2_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Eluta.ca",
+                    "link": "https://www.eluta.ca/spl/mobile-developer-ios-android-82a29347403658d919ce4b8184b92401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Oracle",
+                    "link": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/17215/?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/mobile-developer-ios-android-fortinet-JV_IC2286068_KO0,28_KE29,37.htm?jl=1009453205509&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.ca/job/ZrDHWFf8Vf7MRXojUTUFDB3u7j0qNRuAtRJDV0tmCSPLfqfFABdqlA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIChpT1MvQW5kcm9pZCkiLCJjb21wYW55X25hbWUiOiJGb3J0aW5ldCIsImFkZHJlc3NfY2l0eSI6Ik90dGF3YSwgT04sIENhbmFkYSIsImh0aWRvY2lkIjoick9OcndmcWx3OWQtR25oMUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Software Engineer, Android",
+            "company_name": "DoorDash Canada",
+            "location": "Toronto, ON, Canada",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.ca/search?ibp=htl;jobs&q=Android+developer&htidocid=b8BxdjyNsv86iAdFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3MMQrCQBBGYWxzBKupLCRmVbDRSowIFlpoHybJZnclzh92FsxRPK4KNq_4ipe9J9nqhi69OFo6igtibcxpL21EaGlBZ9SklmPjCUInwPV2uvMpDbo1RrUvnCZOoSkaPA3E1hjNA7X-Uqn_foeek63Wm-VYDOLmsxKIJaunAwu3TEHojghJyOl6yf_8AQqawRGbAAAA&shmds=v1_AUFQtOPrRiqF1jxLG7EWP9hcNUKxQ0ZIIgDoKVIARPuKuTcvsw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=b8BxdjyNsv86iAdFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a0b869df2441c16195f/images/0ddccaf58e39a25352bfc7532b148232cd373ca1ec4b870184db3bb7e7f20234.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "About the Team\n\nDoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.\n\nAbout the Role\n\nWe're looking for Android engineers who want to work on an app used by millions of people. We've seen significant growth, in our codebase and number of developers, and we'd love for you to bring a piece of your culture and experience into ours so that we can continue to improve our processes and architecture. Whether you're an engineer interested in scaling our Android infrastructure or building awesome product features, we'd love to talk to you!\n\nYou're excited about this opportunity because you will...\n• Develop the architecture of our Android applications\n• Scale our test infrastructure and automate releases\n• Introduce tools and best practices that accelerate our development process\n• Build awesome product features to improve our marketplace\n\nWe're excited about you because you have...\n• B.S., M.S., or PhD. in Computer Science or equivalent\n• 2+ years developing with Android SDK in a production environment\n• Systems and OOP knowledge\n• Expert knowledge of Android testing frameworks and best practices for testing\n• High bar for code quality\n\nNotice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only\n\nWe use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024.\n\nThe Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey",
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/doordashcanada/jobs/5619611?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/3166180-software-engineer-android?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=65e6fc9dff8213ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "RippleMatch",
+                    "link": "https://app.ripplematch.com/v2/public/job/b6995282?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Puck",
+                    "link": "https://app.careerpuck.com/job-board/lyft/job/7753860002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Lyft/Job/Software-Engineer,-Android/-in-Toronto,ON?jid=a111955e1b8454c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/doordash/software-engineer-android-ad5b7c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/Square/743999909392183-android-software-engineer-retail-grocery?trid=386b24f8-f995-4ef6-bfdb-197532f544ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IkRvb3JEYXNoIENhbmFkYSIsImFkZHJlc3NfY2l0eSI6IlRvcm9udG8sIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6ImI4QnhkanlOc3Y4NmlBZEZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMjlUVkhOeE9VVnNPSEZDY2pGVlkwMDBUa2N4TUVGWVpYTnVVVkprTTFNMk9YWmthSEY1VEdaUFdYbFlObUpHTWxKMVRHMWpSRkF3WkUwdE5rVk5XbVY0WVV3M1YwSXhaVkF6TWpRd01UbHRkMHd4Um1GRmVFdHpWbVJJUlMxTmVVZG1hbTl0TW1oU2VuSk5XRmxMVkVWUWJtRkJjbUZQWDBwcFZFVkVaamR2V1Mxb2EwVjBZMUp6YlRKRlNXdDRVVUZzY25aV09VOVliMUZaYjB3MVduRXlZMHh2YzFsd05VUlNjSE41TlZrNFYwSmpSamxZWVRsWFpYQk9Oa28xV0VKTk0ycE5ZVTVsVG1GV00xUnJkR2RyUWpCUVJuQlNSVlZEUlZOb2QwNTZTMm8zYVdSS00ybHBkMWRSU2tkblJHZ3lSVEU0Wmt0V1EwMVJNazlLV0RnMFlrZFhVM2wxYUd3eGJEUnBPVmhoU1dZNVMydHJUVFZ5YTNjU0YwVkJjVVphTm5aWVRuTm1jM0IwVVZCMlRIbFZiMUZaR2lKQlJsaHlSV054UmtKdU5uUkRjMUZIWVZaU2VrZDFVbEkwYUhCYU1sTktSR3AzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ca&location=Canada&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMjlUVkhOeE9VVnNPSEZDY2pGVlkwMDBUa2N4TUVGWVpYTnVVVkprTTFNMk9YWmthSEY1VEdaUFdYbFlObUpHTWxKMVRHMWpSRkF3WkUwdE5rVk5XbVY0WVV3M1YwSXhaVkF6TWpRd01UbHRkMHd4Um1GRmVFdHpWbVJJUlMxTmVVZG1hbTl0TW1oU2VuSk5XRmxMVkVWUWJtRkJjbUZQWDBwcFZFVkVaamR2V1Mxb2EwVjBZMUp6YlRKRlNXdDRVVUZzY25aV09VOVliMUZaYjB3MVduRXlZMHh2YzFsd05VUlNjSE41TlZrNFYwSmpSamxZWVRsWFpYQk9Oa28xV0VKTk0ycE5ZVTVsVG1GV00xUnJkR2RyUWpCUVJuQlNSVlZEUlZOb2QwNTZTMm8zYVdSS00ybHBkMWRSU2tkblJHZ3lSVEU0Wmt0V1EwMVJNazlLV0RnMFlrZFhVM2wxYUd3eGJEUnBPVmhoU1dZNVMydHJUVFZ5YTNjU0YwVkJjVVphTm5aWVRuTm1jM0IwVVZCMlRIbFZiMUZaR2lKQlJsaHlSV054UmtKdU5uUkRjMUZIWVZaU2VrZDFVbEkwYUhCYU1sTktSR3AzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}
