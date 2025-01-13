@@ -1,0 +1,499 @@
+{
+    "search_metadata": {
+        "id": "678502850729ae3832d005cb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6d74802ac00d9199/678502850729ae3832d005cb.json",
+        "created_at": "2025-01-13 12:09:41 UTC",
+        "processed_at": "2025-01-13 12:09:41 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIGRnJhbmNl&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/6d74802ac00d9199/678502850729ae3832d005cb.html",
+        "total_time_taken": 0.39
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "France",
+        "location_used": "France",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIDRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIDRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIDRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQkbEKegQIDRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQxKsJegQICxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwisqOKN1fKKAxX2L1kFHexVGWYQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior Android Developer, KMP - Point-of-Sale Tribe",
+            "company_name": "SumUp",
+            "location": "Paris, France",
+            "via": "SumUp",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=TlVvsIGGE5DtisnZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7AQ5ON4ttRHDRSRCFilCoziVpzzaS3oW7KP0d_1Rd3vCyzywrayTPAgfqhH0HR3xj4Iiygsu1ghwq9pRyfuS1DQg38Q5_W7IDRSvtAExwZu4DLvZDSlF3xqiGotdkk2-LlkfDhI4n82SnfxodrGAMNmGz2a6nIlK_nNev8R7BE1RWvK7gJJZa_AIdgguopAAAAA&shmds=v1_AUFQtOOB0j36w9kkm-x0ez4XjrRYE1L7h-WMJZLtDzZyjOJO9A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TlVvsIGGE5DtisnZAAAAAA%3D%3D",
+            "extensions": [
+                "27 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About the team\n\nSumUp’s Point-of-Sale (POS) solution empowers cafes, shops, bars, hair salons, and other businesses to operate efficiently and grow. It offers a wide range of features, including product catalogs, inventory management, business analytics, compliance support, and loyalty tools.\n\nOur POS solution integrates seamlessly into the SumUp SuperApp, which supports both our proprietary register hardware and mobile devices like tablets and phones.\n\nAs a Senior Android Developer, you’ll collaborate with a dynamic, cross-functional team of Product Managers, Product Designers, Engineering Managers, and fellow engineers.\n\nYou’ll contribute to the Item Catalog value stream - a core component serving the needs of almost all teams at SumUp.\n\nAbout the role\n\nWe’re evolving toward a Kotlin Multiplatform (KMP) strategy, enabling shared development across Android and iOS. In this role, you’ll learn, refine, and help implement this technology, shaping the future of our mobile apps.\n\nYou’re a developer who values user-centric design, precision, and seamless collaboration. You bring structure to communication and thrive in a cross-functional environment.\n\nThis role is on-site in Paris, where face-to-face interactions spark innovation and teamwork.\n\nWhat you’ll do\n• Build new features for the item catalog within the SumUp SuperApp\n• Help improve the architecture of the application\n• Enhance and maintain our unified android app, distributed across 60+ countries, ensuring high-quality, scalable solutions\n• Shape the product’s evolution by identifying opportunities for improvement and contributing to daily decision-making\n• Write thorough documentation and implement robust testing for features before shipping\n• Collaborate closely with Designer, Product Manager and Android engineers to deliver a unified UX experience across platforms\n• Coach and mentor other engineers\n\nYou’ll thrive in this role if:\n• You have 5+ years experience in mobile engineering with Android/Kotlin.\n• You have 2+ years of experience working with Jetpack Compose.\n• You have a solid understanding of software design patterns (e.g., MVVM, MVP) and expertise in building modular, scalable app architectures.\n• You have good knowledge of reactive programming (Flow, Coroutines and Concurrency).\n• You have a strong grasp of testing best practices: knowing what to test, why, and how to write resilient tests.\n• You strive for clean code, and you are flexible to balance pragmatism and perfection.\n• You have a keen interest in multi-platform development using Kotlin Multiplatform.\n\nWhy you should join SumUp\n• The opportunity to work on large scale fintech products used by millions of small businesses around the world\n• A dedicated annual Learning & Development budget for attending conferences and/or advancing your career through further education\n• Enrollment onto our virtual stock ownership program - you will own a stake in SumUp’s future success\n• You’ll attend global offsites and/or hackathons.\n• SumUp Sabbatical : 30 days leave after 3 years in the company\n\nAbout SumUp\n\nBe empowered to do more that matters.\n\nAt SumUp, we're on a mission to empower small businesses across the globe by providing simple and affordable tools that allow them to thrive. Today, over 4 million businesses in 36 markets rely on SumUp as their financial partner to manage payments, finance and customer relationships.\n\nOur commitment to small businesses is reflected in our diverse team of over 3,000 SumUppers from over 90 nationalities, united by global collaboration and an innovative mindset. Our core values lay the foundation for who we are and what we stand for, shaping our work culture and driving our success. We foster inclusivity and a continuous learning culture, providing a safe space for personal and professional growth. Our differences make us unique and strong as we strive to create an environment where everyone belongs and feels supported, no matter how they identify.\n\nSumUp is proud to be an Equal Employment Opportunity employer, actively seeking and embracing diversity in our workforce. We don't make hiring or employment decisions based on race, colour, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable laws or prohibited by company policy. Our commitment extends beyond recruitment to creating a safe and respectful workplace where harassment of any form is strictly prohibited.\n\nExplore career opportunities with us and join a team driven by collaboration, innovation, and a shared vision of creating a world where everyone can build a thriving business. Discover more about our vibrant and inclusive work culture and how we work on our careers website, and follow our journey on LinkedIn and Instagram.\n\nSumUp is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. SumUp does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age, or any other basis protected by applicable laws or prohibited by company policy. SumUp also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.\n\nSumUp will not accept unsolicited resumes from any source other than directly from a candidate.",
+            "apply_options": [
+                {
+                    "title": "SumUp",
+                    "link": "https://www.sumup.com/careers/positions/paris-paris-france/android/senior-android-developer-kmp-pointofsale-tribe/7780779002/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Welcome To The Jungle",
+                    "link": "https://www.welcometothejungle.com/sk/companies/tiller-systems-1/jobs/senior-android-developer-kmp-point-of-sale-tribe_paris?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-android-developer-kmp-point-sale-tribe/3703510?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/senior-android-developer-kmp-point-of-sale-tribe-at-sumup-4103732666?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "B2venture Job Board",
+                    "link": "https://jobs.b2venture.vc/companies/sumup-2/jobs/43923724-senior-android-developer-kmp-point-of-sale-tribe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Play",
+                    "link": "https://startupplay.com/job/senior_android_developer_kmp__pointofsale_tribe_sumup_paris_paris_france_5905642002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/android-developer-kmp-point-sale-jobs/19AD4CE8AC17D020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/fr-paris-senior-android-developer-kmp-point-sale-tribe-sumup-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIsIEtNUCAtIFBvaW50LW9mLVNhbGUgVHJpYmUiLCJjb21wYW55X25hbWUiOiJTdW1VcCIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6IlRsVnZzSUdHRTVEdGlzblpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Senior Android Developer (W/M/D)",
+            "company_name": "AVIV Group",
+            "location": "Paris, France",
+            "via": "Smart Recruiters Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=yeMJBIfgNwmwnT_VAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEwQrCMAwAULzuE_SSo4quIoigp8FwKAiCMI-j68JWqUlJquw__GHxHV72nWT7O5JngYI6Yd9BiR8MHFFg_jBXUy5gDRduQdGKG4AJKuY-4PQ4pBT1YIxqyHtNNnmXO34ZJmx5NE9u9V-jgxWMwSZstrvNmEfql7OiPtdQCb8jeIKbFa8rOIklhz_ZnmnzlgAAAA&shmds=v1_AUFQtOOSweREuKmOc58adH8wt83aklWOvrlrlbOoi7eZTM4kpg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=yeMJBIfgNwmwnT_VAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502850729ae3832d005cb/images/0d9d6397ce806065d160cc0307c90af27de956a71816241cc6596fd27e0987bd.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nYou'll be joining one of the world’s largest privately owned real estate tech companies and a subsidiary of Axel Springer. Our mission is to unlock everyone’s perfect place!\n\nYou'll work across some of Europe’s best known digital real estate brands including: 🇫🇷 Meilleurs Agents, 🇫🇷 Groupe SeLoger, 🇧🇪 Immoweb, 🇩🇪 Immowelt, 🇪🇸 Housell and 🇮🇱 Yad2.\n\nJob Description\n\nAs a Senior Android Engineer within the AVIV Group, you will benefit from great flexibility and true experts in native technologies within a team of more than 60 mobile developers (android, ios, back-end).\n• Attached to the Mobile Experience Team, you will be in charge of:\n• Design and develop Android mobile applications for the Group's different brands\n• Continuously improve the quality and performance of applications\n• Ensure the monitoring and maintenance of the applications produced\n• Be a force for proposals to implement new innovative features (virtual/3D tour, voice recognition, geofencing, etc.)\n• Monitoring and creation of prototypes around new technological opportunities (connected watches, TV applications, Google Home, etc.)\n\nOur technical stack :\n• Android Studio 4.1 / Kotlin 1.6\n• Partial tooling based on the Atlassian suite (Jira, Confluence)\n• GitHub as source code controller\n• MVVM + Clean Archi application architecture\n• Responsive programming “coroutines Flow”\n• Jetpack tools (navigation component, compose, viewmodel, room datastore,...)\n• White label: Design System, Atomic Design & Backend Driven Design approach\n• Modular feature\n• Dagger for dependency injection\n• Nexus as package manager\n• CI/CD via Cloud\n• Unit testing with JUnit and source code analysis with Sonarqube\n• Automated UI Testing with Espresso\n• Crash management with Crashlytics\n• Management of application tracking with GTM\n• Firebase for Remote Config or A/B Testing\n\nQualifications\n\nThe skills we are looking for:\n• Significant experience in developing native applications on Android (Kotlin + Compose)\n• Solid foundations in the particularities and constraints of application development\n• You love automation and dream of your code coverage\n• Your autonomy combined with your desire to learn and share your knowledge make you the ideal candidate for this position.\n• You like working in a team, are organized and know how to stay light to join a friendly and fun team.\n• Your obsession: damaging the Crashfree!\n• Good knowledge of the use of REST services, the implementation of the MVVM pattern and mobile application architecture in general\n• Mastery of local data storage\n• Working in a high-load environment (several hundred thousand users each day)\n• Good ability to express yourself in English\n\nAdditional Information\n\nWhat we offer you :\n• We are one of the leading PropTech platforms in Europe. If you’ve ever rented or purchased a property then you may have used one of our classified portals. This is a great time to join us to help elevate our AVIV brand.\n• The opportunity to work hybrid within our operating footprint with international travel to our locations in France, Belgium and Germany.\n• The freedom to tell us which tools you need to be successful in your job so we can set you up to make it happen.\n\nAt Aviv, we are an equal opportunities employer and an organisation where everyone is welcomed to be their authentic selves. We strongly encourage individuals with visible and non visible disabilities, all educational backgrounds, people from minority backgrounds, those from the LGBTQIA+ community and parents and carers to apply. If you need reasonable adjustments at any point in the application or interview process, or wish to discuss part time or flexible working requirements, please let us know.\n\nIn your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).\n\nOur ambition is to be the leading Employer in PropTech across Europe and this is a pivotal time to join us and unlock your perfect job !",
+            "apply_options": [
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/AVIVGroup/744000027187826-senior-android-developer-w-m-d-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=2a2a03eb8503ca44&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://fr.bebee.com/job/2c66052a27a3f834438cc9887ecd6c14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://fr.jooble.org/jdp/-6329255169272299664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-2893-1ed9d5b05185ee90b90abdefcdb51e9e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-senior-developer-at-matchgroup-1020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/senior-developer-h-f-at-sollers-consulting-4101118643?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Okko Jobs",
+                    "link": "https://okkojobs.com/android-senior-developer-payment-match-group-8pkZ9jy3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKFcvTS9EKSIsImNvbXBhbnlfbmFtZSI6IkFWSVYgR3JvdXAiLCJhZGRyZXNzX2NpdHkiOiJQYXJpcywgRnJhbmNlIiwiaHRpZG9jaWQiOiJ5ZU1KQklmZ053bXduVF9WQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "AB Tasty",
+            "location": "Paris, France",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=IqxEAyOfpNScHK9DAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvD3TKKKKtCC46nYiCk4P7kfZCW6lJaYqcq18uvuF131m37HmskkY405uyFKqwgZs4UMLqIwjDVSRkWhxja0UP1qpmE7RhS954eVlhcjLZpzj9N2jESiVjo2G3306mcFjN-xM8UNsHEsMda9I1XCqypx-31SLXhQAAAA&shmds=v1_AUFQtON5fpLGJGRLWEH_TIIFTycMLHi2pU76iSH8lodPJlaj7w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=IqxEAyOfpNScHK9DAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502850729ae3832d005cb/images/0d9d6397ce8060658fcc04e4c9ca73a566298223b677cec1eb7e32ff053b99f2.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "The company : AB Tasty\n\nAn innovative and dynamic start-up with the highest growth in Silicon Sentier, rewarded by French Tech, AB Tastyabtasty.com) created a programme for website optimisation using A/B testing and personalization.\n\nWe are the leader in the French market and work with a lot of large clients such as: Cartier, Allianz, Kreditech, Etam, Axa, Smartbox, Vente-privée, Tchibo…\n\nAB Tasty is a young and dynamic team of 80 (numbers have doubled in 1 year) who concentrate on three areas: performance, efficiency and innovation, in a relaxed working atmosphere.\n\nThe position : Android Developer\n\nWithin the technical team you will have the task of adapting our AB Testing technology for use on Android platforms. You’ll be in charge of our SDK which allows our clients to test their mobile apps without needing to publish them on the Play Store.\n\nThe aim of this SDK is to present different versions of one app to different users so as to determine which version is the most profitable.\n\nTherefore you’ll have to manage two responsibilities:\n• Knowing how to remotely apply modifications on our clients’ apps\n• Having an excellent knowledge of the problems related to mobile data collection\n\nWorking under the mobile manager, you will be the lead developer on this SDK and will adapt the R&D projects for use with the SDK.\n\nDesired profile and requirements for the position:\n\nIn order to be successful in this position it is necessary to have an excellent knowledge of the development of Android apps.\n\nMasters or equivalent level education in a field relating to engineering or I.T. with 2 years of experience within a web-based business.\n\nExcellent interpersonal skills, enthusiastic and motivated personality.\n\nIn-depth knowledge of AB Tasty before the interview.\n\nPayment & Benefits:\n\nFixed and variable payment.\n\nHealth insurance, lunch vouchers.\n\nSyntec collective bargaining agreement.\n\nXbox, aperitif on the first Thursday of every month.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=1b96dfa840ef2496&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.fr/details/4801539738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/android-developer-ab-tasty-JV_IC2881970_KO0,17_KE18,26.htm?jl=1007542559381&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/hinge/android-developer-fhx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WIRED HIRED",
+                    "link": "https://jobs.wired.co.uk/job/native-javascript-developer-lZXC88S3cb-at-paratus-people-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Thundersoft.freshteam.com",
+                    "link": "https://thundersoft.freshteam.com/jobs/y-v3ytNmCHiY/android-driver-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://fr.jooble.org/jdp/-3172975213308421138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://fr.bebee.com/job/9d8b1339d8bc73ca2933191eb7703fa7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFCIFRhc3R5IiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoiSXF4RUF5T2ZwTlNjSEs5REFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Embedded Android Developer",
+            "company_name": "Kuba",
+            "location": "Besançon, France",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=EA9-_9JMEP-QB1Y_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEywkCMRAAULxuB3qas-hGBS96UvyAFrFMkiFZyc6ETJTtwUIsxMbEd3jNe9Ksz4Ml78nDgX2R3sOJXpQkU4El3MSCEhYXQRiuIiHRbB9rzbozRjW1QSvW3rVOBiNMVkbzEKv_Oo1YKCes1G22q7HNHObT-9Mi9AxHUuTvR3gBl4Ls6AeEpwcejgAAAA&shmds=v1_AUFQtOMCCa8HIDKBQMqW7bSrC9r6Br7C-jqHKzuKoKwiYcGxMg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=EA9-_9JMEP-QB1Y_AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join KUBA as an Embedded Android Developer to create innovative ticketing solutions and shape the future of passenger transport technology.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/kuba/embedded-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFbWJlZGRlZCBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikt1YmEiLCJhZGRyZXNzX2NpdHkiOiJCZXNhbsOnb24sIEZyYW5jZSIsImh0aWRvY2lkIjoiRUE5LV85Sk1FUC1RQjFZX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "SAS GoodBarber",
+            "location": "Ajaccio, France",
+            "via": "GoodBarber",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Z0jTHzpqqeYn6hQnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWz3CFZjJ6KJCDZaRUTBdg-wTJIhmyVmQibInsFT6za_fL_7rrqtyb5y9HCnDyUuVOEAL7YghNWNwBmezCHR-jq2VuSitUhSQRq26JTjt-ZMlmc9sZUlg4xYqSRsNJzOx1mVHHab3vQL5G9Y7f8RM5gJnYu8h0fF7OgHJ6NXwY0AAAA&shmds=v1_AUFQtOPIo6JH3KN_75zGD_e7JFu8CQaL-pa1ta0gtQg3Oxd88Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Z0jTHzpqqeYn6hQnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502850729ae3832d005cb/images/0d9d6397ce80606529c3cd30d0f487978f4d9b1c22cf45386b032c06bd289a7b.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Notre équipe d'ingénieurs Frontend recherche un développeur Android prêt à nous rejoindre.\n\nGoodBarber étant un App Builder, vous ne travaillerez pas sur une app en particulier, mais sur le moteur permettant de créer des milliers d'applications uniques ! Vous travaillerez étroitement avec l'équipe produit et design pour spécifier, construire, tester et déployer de nouvelles fonctionnalités pour GoodBarber.\n\nVous participerez au développement de multiples projets, sur des sujets très vastes. Si vous aimez le challenge, il pourra également vous être proposé de développer sur d'autres technologies comme iOS, ou Angular.\n\nNotre équipe est répartie dans ces deux villes :\n• Ajaccio (Corsica)\n• Taille : 40 personnes\n• Départements : Administration, Développement produit, Ingénierie, Marketing, Support Client\n• Localisation : https://goo.gl/maps/JMD8Dna3BEPzsmgz9\n• Coimbra, Portugal 🇵🇹\n• Taille : 5 personnes\n• Départements : Ingénierie, Support Client\n• Localisation : https://goo.gl/maps/s736wPjzKHKJnLN17\n\nEn rejoignant notre équipe sur Ajaccio, vous vivrez dans un contexte d'une entreprise internationale et donc en communication proche avec nos équipes à Coimbra.\n\nN'hésitez pas à venir nous dire bonjour au CampusPlex!\n\nMissions & Responsabilités\n• Construire de nouvelles fonctionnalités pour le moteur Android de GoodBarber\n• Analyser les cahiers des charges fonctionnels d'un projet et élaborer les spécifications techniques.\n• Identifier les solutions techniques et définir l'architecture technique dans le moteur.\n• Apporter des solutions aux problèmes rencontrés\n• Optimiser le code existant pour améliorer les performances ou l'UX\n• Etre force de proposition et d'initiatives pour améliorer le projet\n• Veille technologique\n• Travailler en équipe\n• Amener de la bonne humeur à l'équipe :)\n\nCe que vous trouverez à GoodBarber?\n• Localisation (https://goo.gl/maps/s736wPjzKHKJnLN17)\n• Une ambiance de travail amicale et d'entraide\n• Un contexte et une équipe internationale\n• Politique de télétravail Hybride\n• Matériel de bureau complet : MacBook Pro, écran 27\", entre autres\n• Travailler dans un open space dynamique (CampusPlex)\n• Opportunité d'apprendre et travailler sur d'autres technologies Frontend\n• Prendre part à la construction de notre propre produit\n• Avoir un vrai impact dans une entreprise à taille humaine.\n• Au moins 2 ans d''expérience avec le SDK Android\n• Maitrise de Kotlin\n• Des notions en JAVA sont attendues\n• Maitrise des LiveData, Observable, et ViewModels\n• Expérience sur la consommation d'API REST\n• Etre à jour sur les dernières technoilogies dans l'écosystème Android\n• Haut niveau de communication en Anglais parlé et écrit\n• Maitrise de GIT\n• Attitude positive et d'entraide avec les autres membres de l'équipe\n• Etre force de propositions de solutions\n• L'expérience de travail avec la méthodologie SCRUM est un plus",
+            "apply_options": [
+                {
+                    "title": "GoodBarber",
+                    "link": "https://careers.goodbarber.com/o/android-developer-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNBUyBHb29kQmFyYmVyIiwiYWRkcmVzc19jaXR5IjoiQWphY2NpbywgRnJhbmNlIiwiaHRpZG9jaWQiOiJaMGpUSHpwcXFlWW42aFFuQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Software Engineer - Android",
+            "company_name": "Too Good To Go",
+            "location": "Paris, France",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=w_rZiFwOeVOG84xvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nuHizaCMFF506qOAk2L2kyZlG6l24C9jv8Ittlvfe9Krfqmqe_MpfKwgXCpEQBfbQkheOfqk7D6BoxY3ABDfmMOH6POac9GSM6lQHzTZHVzv-GCYceDZvHrSg13EZp8lm7JvjYa4The2mYy4jD10xRIKHlag7uIolh3-dnHsMlQAAAA&shmds=v1_AUFQtOP-T2LJknyCViwAUPE8Rj5P189gdyc70sQqdHuHLK9J5w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=w_rZiFwOeVOG84xvAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Too Good To Go as an Android Software Engineer and help fight food waste by developing innovative solutions for retailers.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/too-good-to-go/software-engineer-android/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/software-engineer-android-too-good-to-go-5875155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/software-engineer-android-at-toogoodtogo-1175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emprego.pt",
+                    "link": "https://www.emprego.pt/jobs/show/31605788077497869481611343464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAtIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJUb28gR29vZCBUbyBHbyIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6IndfclppRndPZVZPRzg0eHZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Senior Android Developer (All Genders)",
+            "company_name": "Dailymotion",
+            "location": "Paris, France",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=qKilPOtW3cgJFl-aAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CeKQUUV7IrgoDoViwUnwA8r1GtqTNDmSQ_RX_Fp1eeMrPrPifEeOolBxrxJ7qPGJJAkVlhURNMg9qq1gC1fpwNBrGEEYGpGBcH4ac052dM6MysGyzzGUQSYnjJ283EM6-9Pa6BUT-Yzt_rB7lYmH9aL2kd6T5PgLI8PNa7QNXNRzwC8VL5TqnQAAAA&shmds=v1_AUFQtOMuBNDnA53ia_EnEGuk00VQwkyX1-ayWiCt5fvxwTZFqA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=qKilPOtW3cgJFl-aAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are currently seeking a talented Android Developer to join our team. The successful candidate will be creative, experienced in building apps for millions of users with a focus on native video players, and attached to develop features in a collaborative way.\n\nKey Responsibilities:\n\n• Design and build advanced applications for the Android platform.\n• Work closely with our product and design teams to customize the video experience for the Android platform.\n• Focus on user experience, reliability, usability.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n\n• Excellent knowledge of Android SDK\n• A deep experience with Kotlin, coroutines, and flows\n• Experience working with ExoPlayer\n• Experience with third-party libraries and APIs\n• Solid experience with MVI, MVVM, Clean archi\n• Solid understanding of the full mobile development life cycle\n• Good communication skills and ability to work effectively in a small fast-paced team.\n• Be self-motivated to explore new technologies, apps, tools and frameworks.\n\nPreferred Qualifications:\n\n• Basics in Design System approach\n• Experience in video streaming, buffering\n• Experience with JetPack Compose\n• Experience in UI/UX, Pixel perfect animations\n\n• Location: Full remote or Flex remote in Paris\n• Start Date: depending on your availabilities\n• Contract Type: Permanent\n\n🔍 Want to learn more about us:\n\n• Dailymotion.com\n• New-York office - BuiltIn\n• Offices in France - Welcome to the Jungle\n• Our articles\n\nFor French Offices 🇫🇷\n\n💰 Saving Plan Vivendi\n\n🕶️ Living Employee Culture (Events / Trainings / Partys / All hands / Dailymotion tradition…)\n\n🚀 Career development support (training / internal mobility / compensation cycle / 360 quarter feedback review …)\n\n🏥 High-end Health Insurance and Personal Services Vouchers (CESU)\n\n⛱️ Paid Time off – RTT and Saving time plan (CET)\n\n✅ Meal Vouchers – Public Transport and Bike refund\n\n🎡 European Economic and Social Committee (sport membership/cinemas vouchers/gift vouchers/discount)",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-android-developer-all-genders-dailymotion-5168080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://fr.talent.com/view?id=d1e5ac30d9ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ivy Exec",
+                    "link": "https://ivyexec.com/jobs-and-research-studies-search/job/9533133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Okko Jobs",
+                    "link": "https://okkojobs.com/senior-it-operations-engineer-all-genders-payfit-aIITU9fn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKEFsbCBHZW5kZXJzKSIsImNvbXBhbnlfbmFtZSI6IkRhaWx5bW90aW9uIiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoicUtpbFBPdFczY2dKRmwtYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "TEST Software Engineer - Android",
+            "company_name": "Toogoodtogo",
+            "location": "Paris, France",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=P4Oye2aUCAP44fkdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7COJws2gjggg6OVTBSWj3kqRnGql3IXdgH8QHNi4f__RX30V17Jq2g5af-rEZoaEQCTHDFi40ZI5DqTs7ELTZj8AEN-Yw4fI8qiY5GSMy1UHUavS157dhQsezebGTP72MZZwmq9jvD7u5ThTWq65MmActQiR42BxlA9dsyeMPECO57ZcAAAA&shmds=v1_AUFQtOMFDidngm9JgdmJS-WZ5ZATgF47qfIrZeBj9N4KMDbK6g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=P4Oye2aUCAP44fkdAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together.\n\nMore than 40% of all food produced in the world is wasted and retailers lose between 1-3% of their annual sales due to food waste, all of this waste has a huge impact on the health of our planet, with 10% of greenhouse gas emissions coming from food waste.\n\nThe Retail Technologies teams at Too Good To Go are working on our new software solution, the Too Good To Go Platform, used directly by Retailers to track and redistribute surplus food seamlessly. This B2B app, connected to our consumer marketplace, helps stores better manage expiry dates by; detecting products that are about to expire, recommending what to do with them, and facilitating their redistribution (via discounting for in-store customers, donations to charities, or sales on the marketplace). This business app is already used by tens of thousands of store employees every day, and soon to be hundreds of thousands by the end of the year in several countries.\n\nWe’re more than an app: we are a certified B Corporation with a mission to empower everyone to take action against food waste, so alongside our marketplace app, we create educational tools, explore new business solutions - such as our Retail Technologies offering, and influence legislation to help reduce food waste.\n\nWe are growing fast, with a community of 103 million users in 19 countries. Together, we have saved more than 373 million meals from going to waste since we started - but there’s still a lot more we want to achieve.\n\nThe Role\nWe are looking for an Android Software Engineer to be a part of our Product Teams that define, build and deliver our product features. Working in a product team means you will work towards specific outcomes with the freedom and responsibility to figure out the best route to achieve them together with the other Engineers and Product members of the Team.\nYour mission will be to help refine, design, implement, deliver and maintain various product features. You will be one of several developers, working as part of a multidisciplinary team and will bring your knowledge and expertise to the table.\nYou will work to deliver an international top-class product, ensuring quality, maintainability, and sustainability. Supported by more experienced colleagues who will guide, train and encourage you to push limits, and improve.\n\nThe Tech Stack\nWe have an Android App written in Kotlin using a MVVM Design Pattern. A lot of our UI is written in Jetpack Compose. Some of the libraries we use :\n\nRoom\nKotlin Coroutines and Flow\nRetrofit\nGlide\nKoin\nOur CI/CD runs on GitHub actions and includes Unit Tests, lint checks with Detekt and automatic build on App Center.\n\nResponsibilities\n• Develop new features, whilst maintaining and improving existing code for the Retail Technologies Solution.\n• Release new versions and continuously monitor app performance and detect areas for improvement\n• Keeping user experience at the forefront of your work, at all times\n• Strive to deliver top-class international products with maximum quality, maintainability and scalability\n• Actively participate in your team’s agile development processes with a continuous improvement mindset.\n• Strive to deliver international top-class products with maximum quality, maintainability and scalability.\n• Take on additional tasks outside your current boundaries with help from your team to continue to grow and expand your skills.\n\nThe Ideal candidate\n• Proficiency in programming in Java, Kotlin or both.\n• You already have worked as an android developer in a commercial set-up\n• Natural ability to identify great solutions to ever-arising challenges, and act on them in a timely manner.\n• Proactive mindset and ability to work well in a team environment.\n• Experience with building scalable solutions.\n• Enjoys actively participating in a cross-functional product team.\n• Takes pride in writing quality code.\n• Relevant degree in software engineering.\n\nWhat we offer\n• An opportunity to have a huge impact, knowing what you help design will be used daily by hundreds of thousands of store employees daily, enabling them to save millions of food items per day.\n• A rare opportunity to work in a global social impact company (and certified B Corp!) where you can see a real and tangible impact in your role.\n• An autonomous environment, with several opportunities to contribute, build on experience and take ownership of your work in a way that works for you.\n• A nice bunch of colleagues in the Paris office 🙂 (~100+ people) and beyond them 1,300+ colleagues across 19 countries that are on the same important mission.\n• Opportunity to influence our product, design and ways of working, every day.\n• An informal atmosphere, with a strong, values-driven team culture where we celebrate successes and socialise with colleagues that care to offer\n• Relative flexibility at work and advanced employee benefits\n\nOur values\n• We win together: Food waste is a big beast to fight. We can do it if we win together as Waste Warriors with no ego. We believe in a #oneteam.\n• We raise the bar: We always push for more. We work smart, smash barriers and elevate one another.\n• We keep it simple: Our ambitions are bold but our solutions are simple.\n• We build a legacy: We’re proud of the change we’re driving.\n• We care: We always look out for each other. Caring is also about the way we do\nbusiness. We do the right thing.\n\nHow to apply\nWe take recruitment very seriously, so please carefully read everything we have written above. Please also check our website and international media in order to get a good overview of Too Good To Go.\nSubmit your CV and Cover letter in English.\nPlease note that we only accept applications coming through our platform. No CV or Cover Letter will be accepted by email or LinkedIn direct messaging.\n\nJob Ref: #LI-TC1\n\n#LI-Hybrid\n\nA Movement for Everyone\nWe want to inspire and empower everyone to fight food waste together. With that mission, it’s only natural that we want to build a diverse and inclusive team of highly capable individuals who are passionate about doing things in a better way. We strongly believe we all excel and are more creative when we’re allowed to be ourselves, and we’re committed to a culture where all of us belong.\nWe are an equal opportunity employer and all employment is decided on the basis of qualifications, merit and business need. If you need reasonable accommodation at any point in the application or interview process, please let us know.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/test-software-engineer-android-at-toogoodtogo-1231?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJURVNUIFNvZnR3YXJlIEVuZ2luZWVyIC0gQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IlRvb2dvb2R0b2dvIiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoiUDRPeWUyYVVDQVA0NGZrZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Android Developer (F/M) | Puteaux, FR",
+            "company_name": "Worldline",
+            "location": "Puteaux, France",
+            "via": "EFinancialCareers FR",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Jed0i5k9HpsljhSFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_03NsQrCMBAAUFz7CeJwo4omIrioiyAVBEFcHEuaHE0k3oVcKh38Ef9W3Fze-qrPqNofyGUODo74wsgJM0xrfZnBG659QdMPC6hvsIQztyBosvXABCfmLuJ450tJstVaJKpOiinBKstPzYQtD_rBrfxoxJuMKZqCzXqzGlSibj65c44uBkII9LdlQxa_o9dyY5wAAAA&shmds=v1_AUFQtONAyc5cGGcSLI2I8F3pqKfYNk4LTxN78JfidVsGzo_big&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Jed0i5k9HpsljhSFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502850729ae3832d005cb/images/0d9d6397ce8060650f429edac46f9f910e6ac7172fb1ed8bccae4fe9020a0e40.jpeg",
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer (F/M)\n\nAndroid Developer (F/M)\n\nAndroid Developer (F/M)\n[Paris - La Defense or Rennes]\n\nThis is Worldline\n\nWe are the innovators at the heart of the payment technology sector, shaping how the world conducts transactions. The solutions our team implements today are the outcomes of the growth of millions of businesses of tomorrow, ranging from your local coffee shop to startups and international banks, from Paris to San Francisco. We have a global presence, spanning all sectors of commerce across the world. Just as we assist our clients in accelerating their business, we are committed to helping our employees accelerate their careers. Together, we are shaping the evolution\n\nThe O pportunity\n\nInside the Android team of In Person Payment - Gateway, your work will be to develop and maintain the brand new Android payment device that Worldline is preparing to serve its customers which are some of the biggest European retailers.\n\nYou will be part of this exciting challenge to create the very first release as well as the upcoming ones over the coming years.\n\nYou will work in collaboration with the French development team as well as the Indian development and QA teams.\n\nWe thus needs someone able to bring his/her payment and Kotlin skills as well as his/her team spirit.\n\nHe/she will be fluent in technical English to work collaboratively with our Indian colleagues.\n\nDay-to-Day Responsibilities\n\n• You participate to daily meetings to share progress and blocking points with your peers.\n• You understand the detailed requirements which are to be developed by your team.\n• You define the best strategy to create the code answering those requirements.\n• You wrote both code and unit tests to achieve good code quality.\n• You deliver a runnable software to testers and make sure that your delivery is full meeting the requirements.\n• You will prepare and organize the demo to other stakeholders (Product Owner, Technical Leader...).\n• You actively contribute to the success of releases.\n• You proactively propose some technical enhancements to the team as well as to the Product Owner.\n• You make sure that the continuous integration is kept up and running and that you respect the Definition of Done defined by the team.\n• You actively participate into all the Agile processes.\nWho Are We Looking For\n\n• Master 2 in computer science or equivalent.\n• At least 5 years of experience in Software development with an expertise in Kotlin on Android.\n• At least 3 years of experience in payment device development.\n• Knowledge of Android development environment such as Android Studio.\n• Knowledge of Gradle on Android.\n• Excellent knowledge of source control tool such as Gitlab.\n• Knowledge of Agile processes such as SCRUM\n• Excellent technical English, both spoken and written\nAdditional skills :\n\n• Ability to work fast and with quality inside an international environment.\n• Ability to share his/her knowledge with others.\n• Able to understand the needs of Worldline and translate them into technical specifications\n• Be flexible and adaptable to the challenges of the delivery.\n• Willingness to increase his/her experience in Payment and/or Android.\n• Autonomous and able to self-organize in his/her day to day work.\n• Strong team spirit and excellent relationship.\nBenefits\n\nAs a future Worldliner, you'll have the chance to be at the heart of the global payment technology sector and shape the way the world makes payments.\n\nIn addition to this, you will also:\n\n• Be part of a company driven by a strong desire to do good and recognised as one of the top 1% most sustainable companies across all sectors globally.\n• Work with inspiring colleagues and have the opportunity to learn, develop and accelerate your career (access to the e-Learning training platform, etc.).\nYou'll also enjoy a wide range of benefits, including\n\n• Annual bonuses (end-of-year, holiday, profit-sharing)\n• 32 days' paid holiday and a convertible 13th month's holiday\n• 50% reimbursement of public transport costs\n• Very active works council (evenings, trips, cultural and leisure subsidies, etc.)\n• Participation in sporting events (Corporate Games, races, etc.)\n• Teleworking agreement\n• Subsidised company restaurant\n• Health and provident insurance\n• Wellbeing@Worldline approach\nShape the evolution\n\nWe are on an exciting journey towards the next frontiers of payments technology, and we look for big thinkers, people with passion, can-do attitude and a hunger to learn and grow. Here you'll work with ambitious colleagues from around the world, take on unique challenges as a team, and make a real impact on the society. With an empowering culture, strong technology and extensive training opportunities, we help you accelerate your career - wherever you decide to go. Join our global team of 18,000 innovators and shape a tomorrow that is yours to own.\n\nLearn more about life at Worldline at jobs.worldline.com\n\nInformation at a Glance",
+            "apply_options": [
+                {
+                    "title": "EFinancialCareers FR",
+                    "link": "https://www.efinancialcareers.fr/emploi-France-Puteaux-Android_Developer_FM.id22257912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoRi9NKSB8IFB1dGVhdXgsIEZSIiwiY29tcGFueV9uYW1lIjoiV29ybGRsaW5lIiwiYWRkcmVzc19jaXR5IjoiUHV0ZWF1eCwgRnJhbmNlIiwiaHRpZG9jaWQiOiJKZWQwaTVrOUhwc2xqaFNGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Android Engineer Apprentice",
+            "company_name": "Backmarket",
+            "location": "Paris, France",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Xb7ZevLrE0ES1XGSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKMQ7CMAwAQLH2CbB4RtCgSiwwFQmQmPhB5aZWmja1IztDX8GbgeWmqz6bqml5UIkD3DlEJlJoc1biEj3BEV7SgxGqH0EYniIh0fY6lpLt4pxZqoMV_OXay-KEqZfVTdLbn85GVMoJC3XN-bTWmcN-d0M_L6gzFYgMb9RoB3gosqcvZ2taH5EAAAA&shmds=v1_AUFQtONWx4J973wFWYV93RxOZuefeMf0_nz2OJuaQIAGkyl-aQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Xb7ZevLrE0ES1XGSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502850729ae3832d005cb/images/0d9d6397ce806065cfe976b236fae970c7cef5e72d5676c1ba9d796614ebdd6e.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Back Market is the world’s leading refurbished electronics marketplace with a team of 650 people, powering operations in 21 countries (and counting!).\n\nNamed one of the World's Most Innovative Companies by Fast Company in 2019 and again in 2021, our mission is simple: empowering people to consume tech sustainably by offering folks a high quality, accessible, and more eco-friendly alternative to buying new electronics. Why? Refurbished tech helps lower our collective environmental impact. We have indeed contributed to avoid the production of more than 1,000,000 tons of CO2e worldwide since our launch in 2014.\n\nBe part of an exciting and growing international adventure that will change the way the world consumes tech.\n\nBy providing more features & services on native apps in 2024 for our users, we are offering you the opportunity to join the mobile engineering teams, composed of 16 iOS & Android engineers. During your apprentice journey, you’ll join two different squads from Platform to Product scope.\n\nThe goal of Mobile Core (Platform) is to build a developer-first platform that empowers mobile teams, ensuring scalable and reliable frameworks/tools to enhance customer-centric product experiences with minimal effort. By doing mobile DevOps development, you’ll contribute to streamlining app delivery and improving overall efficiency for mobile engineers.\n\nThen, by joining a product squad (Customer Journey), you’ll be able to build new features and UI for our users. The icing on the cake: you’ll use the engineering tools you will contribute to during your first steps on the platform side. The circle is complete!\nYour Missions (If You Accept It):\n• Developer Experience development: You will do engineering for engineers. As an Intern Mobile Engineer in the Mobile Core squad, you’ll contribute to improving the mobile developer experience by providing tools for en.\n• Feature development: You’ll implement new debug features for engineers to help them develop app features faster. Thanks to a dedicated debug menu feature, you can manipulate system logs, display SDK information, network & environment management, and offer a way of using mocks to override API calls with fake data.\n• Mobile Engineering: You will learn how to develop these new product features on iOS and/or Android, learn code in Swift or Kotlin, or even work on some automation scripts. Your mentor, as a senior engineer, will give you the opportunity to grow technically and collaborate with a team.\nYou’re At The Right Place If:\n• Looking for a 12-months apprenticeship\n• Specialization in Software Development: Mobile is preferred, or Backend/Frontend.\n• Good skills in one of these programming languages: Kotlin, Swift, or Java.\n• Demonstrated interest in Mobile Apps through student or personal projects.\n• Detail-oriented / scientific rigor.\n• Ability to work in an international environment.\n• You are fluent in English.\nAbout the apprenticeship:\n• Duration: 12 months apprenticeship\n• Location: Paris, France\n• You must be enrolled in a work-study program (formation en alternance) with a French school.\nWhat We Offer:\n• The opportunity to work on real-world problems in a leading tech environment.\n• A collaborative team of experts to guide your professional growth.\n• A vibrant office culture in the heart of Paris.\n• A competitive salary regarding the market.\nRecruitment Process:\n• Video-call Interview with the Talent Acquisition Specialist\n• Technical interview with one or two Mobile Engineers - Q&A or Live coding\n• Team fit interview with an Engineering Manager\nWHY SHOULD YOU JOIN US ? ✌🏼\n\n- A meaningful job: through hard work, you will help avoid thousands of tons of electronic waste and fight against planned obsolescence. It counts!\n- An attractive salary, multiple benefits (meal tickets, health insurance, etc...), internal events, etc…\n- Be in an environment where you can make a difference: you will have the freedom to innovate and adopt new ideas!\n- A booming scale-up: our environment is rapidly growing in Europe, the USA and in Asia!\n- We embrace work life balance which includes flexible working hours and the opportunity to work from home.\n- A lot of fun: you will have the opportunity to work in a fast-paced, open-minded and friendly environment.\n\nBack Market is an Equal Opportunity Employer for any minority, disability, gender identity or sexual orientation.\n\nBack Market is helping to address one of the biggest challenges of our time: climate change. We take this so seriously that we were awarded status as a “Société à Mission”, or company with a social mission, by the French government. We know we can’t tackle a global problem without a globally representative team so we are committed to embedding diversity, equity and inclusion principles in every aspect of our organization. But more importantly, being One Loving & Free Spirited Tribe is in our DNA as it is one of the five foundational values of our company since we got started way back in 2014. We are committed to hiring and supporting diverse teams of people from all backgrounds, experiences, and perspectives. We know our lofty goals cannot be reached unless everyone has a seat at the table along with the resources and opportunity to grow.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-engineer-apprentice-at-backmarket-472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/fr-paris-android-engineer-apprentice-backmarket-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIEFwcHJlbnRpY2UiLCJjb21wYW55X25hbWUiOiJCYWNrbWFya2V0IiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoiWGI3WmV2THJFMEVTMVhHU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVkJ6VW5wUlVVSlhkbE5yUzFWYVJtUnNVRlpmWTB0cWRsZENhMUV3TlZwMGRrMUdTMTlKUjNaemNIZ3dUMWxuTTJwTGNuWXpURXRWYjFkUFkyZ3ljbVpUVUZoWU9EQTVZall4VlY5R2VuRjZTR3BNTTFGV2VESjZPRk5JVjFWMFNqVm5iWFppYkUxdVFsQTViWGRMWVZCR2FrTklUM2h6WVVkeFp6Y3lla2N3Y0hWUlJVOXRPRzVPZW1SSVRVNWxTeTFJWTFaRGNtOXFSMjVCV1RKRVpHUTJkRlYzZEdKRWNrWTJlREV4TWxNdFpuaDVVRGg2Y0dOYVNsQTFjM1pVYVdKbFZrMU9VazR3VUV0dU5XcEpMVk5tUlhkNGF6Y3RaVEpHZWpGM1F6VldRMnRQZDJVMlp6azNabVU0Tkhkc1JHZFljM1ppTWpVdFRtVXRlbkUyT0ZaVWVubHFWRWhHUWpVd1dtTXdXWGR1YW5GWVJsOXpTVzg1ZUZFU0YyaFJTMFphTFhwU1IzWmlaalZPYjFBM1MzWnNjMEZaR2lKQlJsaHlSV052U1hkcE5XZFpjRTV3TTNGa1lVMDNiVVZWUW5oVlJtRjRNV2wzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVkJ6VW5wUlVVSlhkbE5yUzFWYVJtUnNVRlpmWTB0cWRsZENhMUV3TlZwMGRrMUdTMTlKUjNaemNIZ3dUMWxuTTJwTGNuWXpURXRWYjFkUFkyZ3ljbVpUVUZoWU9EQTVZall4VlY5R2VuRjZTR3BNTTFGV2VESjZPRk5JVjFWMFNqVm5iWFppYkUxdVFsQTViWGRMWVZCR2FrTklUM2h6WVVkeFp6Y3lla2N3Y0hWUlJVOXRPRzVPZW1SSVRVNWxTeTFJWTFaRGNtOXFSMjVCV1RKRVpHUTJkRlYzZEdKRWNrWTJlREV4TWxNdFpuaDVVRGg2Y0dOYVNsQTFjM1pVYVdKbFZrMU9VazR3VUV0dU5XcEpMVk5tUlhkNGF6Y3RaVEpHZWpGM1F6VldRMnRQZDJVMlp6azNabVU0Tkhkc1JHZFljM1ppTWpVdFRtVXRlbkUyT0ZaVWVubHFWRWhHUWpVd1dtTXdXWGR1YW5GWVJsOXpTVzg1ZUZFU0YyaFJTMFphTFhwU1IzWmlaalZPYjFBM1MzWnNjMEZaR2lKQlJsaHlSV052U1hkcE5XZFpjRTV3TTNGa1lVMDNiVVZWUW5oVlJtRjRNV2wzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

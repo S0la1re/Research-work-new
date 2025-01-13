@@ -1,0 +1,296 @@
+{
+    "search_metadata": {
+        "id": "678502f040a54cb6dc103878",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3863ab06973be81/678502f040a54cb6dc103878.json",
+        "created_at": "2025-01-13 12:11:28 UTC",
+        "processed_at": "2025-01-13 12:11:28 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIHUm9tYW5pYQ&udm=8&fc=EuECCqICQUpHOUprTUY1RS1QV1AwYTNzWVBoakQ1Qm5QM0RMSE4tUWFrU2JpcEdNUnhfWTMwNHB4WW05NU4tYV81TUVWNVJLSDhwcDhVa1Yyc3I3Y29nTzU3OG91T3BXNDdnRUF4TkwzbGZDX3UyajhVS0NGbGdyS3RZUmo3S2hjdm1CMDNuMUVzRFQzQXlWXzFYNUs2OW9CdzR0QjFpZTJqMmxhbUdiWGNLMUVfMXBpcUlkWkREWnFtcU9Jd3p5Z0RBVlBYYTVjUGdBcFpHNjJJWkN3X2kzUWVremVyb2RxcGFRYnQ4WUZZOThZcmU0MV9zMUpnVldKT0ltbjdWNjhVNFUzOExKQThiQ0U5WDdJb254c0haaklzSzBubjRydVFUeTRGNVESFjd3S0ZaXy0ySTlUb3dONFBuOEduV1EaIkFGWHJFY3J5VE5LRHRkRjJ3aTJjcHRlYWdwV19MeEp6MFE&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/f3863ab06973be81/678502f040a54cb6dc103878.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3863ab06973be81/678502f040a54cb6dc103878.prettify",
+        "total_time_taken": 1.03
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Romania",
+        "location_used": "Romania",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUVVkxUlMxUVYxQXdZVE56V1ZCb2FrUTFRbTVRTTBSTVNFNHRVV0ZyVTJKcGNFZE5VbmhmV1RNd05IQjRXVzA1TlU0dFlWODFUVVZXTlZKTFNEaHdjRGhWYTFZeWMzSTNZMjluVHpVM09HOTFUM0JYTkRkblJVRjRUa3d6YkdaRFgzVXlhamhWUzBOR2JHZHlTM1JaVW1vM1MyaGpkbTFDTUROdU1VVnpSRlF6UVhsV1h6RllOVXMyT1c5Q2R6UjBRakZwWlRKcU1teGhiVWRpV0dOTE1VVmZNWEJwY1Vsa1drUkVXbkZ0Y1U5SmQzcDVaMFJCVmxCWVlUVmpVR2RCY0ZwSE5qSkpXa04zWDJrelVXVnJlbVZ5YjJSeGNHRlJZblE0V1VaWk9UaFpjbVUwTVY5ek1VcG5WbGRLVDBsdGJqZFdOamhWTkZVek9FeEtRVGhpUTBVNVdEZEpiMjU0YzBoYWFrbHpTekJ1YmpSeWRWRlVlVFJHTlZFU0ZqZDNTMFphWHkweVNUbFViM2RPTkZCdU9FZHVWMUVhSWtGR1dISkZZM0o1VkU1TFJIUmtSakozYVRKamNIUmxZV2R3VjE5TWVFcDZNRkUiLCJmY3YiOiIzIn0="
+    },
+    "jobs_results": [
+        {
+            "title": "Sr. Android Engineer",
+            "company_name": "ITExpert",
+            "location": "Romania",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=BhD90dVSsNX5GZkFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEoQ7CMBAAUD-LQ52G0BISDCjEQkACfmm7S9ulu2t6J-r4dcITb_gO-3czcKO5cZ5hpJgJscEBnuxB0LWQgAnuzLHg9ppUq1ysFSkmijrNwQReLRN67nZhL_8mSa5hLU5xOp2P3VSKu83jM_aKTSETvHh1lN0PbWKY9IEAAAA&shmds=v1_AUFQtOPTv1u8OFTIMts0GgxPfs6-wV2YPHTsAg_BuyA0tWDAyw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BhD90dVSsNX5GZkFAAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Fingerprint empowers developers to stop online fraud at the source.\n\nWe work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies. We are a globally dispersed, 100% remote company with a strong open-source focus. Our flagship open-source project is FingerprintJS (20K stars on GitHub).\n\nWe have raised $77M and are backed by Craft Ventures (previously invested in Tesla, Facebook, Airbnb ), Nexus Venture Partners (previously invested in Postman , Apollo.io, MinIO , Druva) and Uncorrelated Ventures (previously invested in Redis, Rollbar &Gradle ).\n\nWho We Are Looking For: We are looking for a Senior Android Engineer with a solid background in Information Security. The ideal candidate will have experience building Android applications or libraries from scratch and will be skilled in security frameworks, cryptography, and network protocols. The role requires strong expertise in Kotlin, and familiarity with Jetpack Compose is preferred.\n\nKey Responsibilities:\n• Design, develop, and optimize native Android applications and libraries, focusing on security, scalability, and performance.\n• Collaborate with cross-functional teams to implement security protocols and ensure that applications align with best security practices.\n• Build developer tools that enhance productivity and streamline the development process.\n• Contribute to the maintenance and advancement of security frameworks for mobile applications.\n• Provide mentorship to junior team members and contribute to their technical development.\n\nRequirements:\n• Education: Degree in Computer Science, Information Security, or equivalent experience.\n• Experience:\n• 5+ years as a Senior Android Engineer (prior experience in a Senior Android role is required).\n• Strong Information Security background, with practical experience in:\n• Network protocols and secure coding practices\n• Cryptography and security framework development\n• Proven experience in building Android applications from the ground up, with expertise in Kotlin and vanilla Android SDKs. Experience with Jetpack Compose is preferred.\n• Experience with Android NDK is a plus.\n• Contributions to Open Source projects on GitHub are a bonus.\n\nOffers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.\n\nDue to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location .\n\nWe are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.\n\nIf you are applying as a resident of California, please read our CCPA notice here\n\nIf you are applying as a resident of the EU, please read our GDPR notice here",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/-2217799687651850587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IklURXhwZXJ0IiwiYWRkcmVzc19jaXR5IjoiUm9tYW5pYSIsImh0aWRvY2lkIjoiQmhEOTBkVlNzTlg1R1prRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "Senior Android Framework Developer",
+            "company_name": "Luxoft",
+            "location": "Romania",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=M_r8Xx9Kx0tOGlFvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCQBAFUGzT2VpNLZgVwUKtBFEQKz1AmCRjsrrZv8ysmjt4afEVr_hOis1NoofSPrYK39JReZAP9EkHeUtAEqUFnVGTCWvTEyKdgC7IbNfnnGzrnFkoO8ucfVM2GByi1BjdA7X9q6xnlRQ4S7VaL8cyxW4-vbxG3DP5SFcMHD3_AMw8VeWOAAAA&shmds=v1_AUFQtOMsuR_nWgmchCW-1jqjGl7NDwSWK9JAAHPbOrKkWropGg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=M_r8Xx9Kx0tOGlFvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf075708771de7109655574f2262f62f5d310b7ff8dc08781fe8f79.gif",
+            "extensions": [
+                "1 month ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 month ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Remote Romania, Romania\n\nAndroid\n\nAutomotive Industry\n\n08/01/2025\n\nReq. VR-110254\n\nProject description\n\nThis is a good opportunity to participate in the new in-vehicle infotainment (IVI) project for one of the biggest European car maker. This is a very fast growing project which requires talented software developers and test engineers who likes challenges and new cutting edge technologies. Applicant will have the possibility to gain experience in development or integrating/testing of different functionalities. Candidate will be part of the international team and have the opportunity to work with the latest software technologies like Android Automotive OS.\n\nResponsibilities\n\nAs an Android Framework Developer for Android IVI, you will be involved to collaborate and develop solutions for Car Framework & V-HAL development on an embedded environment, which are robust and reusable.\n\nDevelop Embedded Android services and components with AOSP middleware for IVI system\n\nDevelop Java middleware Car services to support embedded Android applications\n\nDevelop HAL for Vehicle specific components\n\nRoot cause defects and provide robust software solutions\n\nParticipate in design, documentation, and unit testing to develop software components\n\nSkills\n\nMust have\n\nJava programming language experience 5y+\n\nC++ programming language experience 5y+\n\nAndroid Development experience (AOSP) developing or enhancing Android Framework services to support Android Applications interfaces\n\nHands-on experience in addition of Vendor specific properties in V-HAL\n\nSoftware development experience on embedded, mobile, or consumer electronic platforms\n\nExperience with AOSP internals and Android NDK APIs\n\nExperience implementing Android Native Daemon services\n\nNice to have\n\nExperience & knowledge of Android Automotive\n\nExperience in Automotive Infotainment systems\n\nOther\n\nLanguages\n\nEnglish: C1 Advanced\n\nSeniority\n\nSenior",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=3e030b9116099ecd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/6939814790953950772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBGcmFtZXdvcmsgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTHV4b2Z0IiwiYWRkcmVzc19jaXR5IjoiUm9tYW5pYSIsImh0aWRvY2lkIjoiTV9yOFh4OUt4MHRPR2xGdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "Staff Android Engineer - Financial Services",
+            "company_name": "Yassir",
+            "location": "Bucharest, Romania (+12 others)",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=k7MkPHiJ_6CiAGBSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCQAyAYVz7COKQWbQngotOFlRwtJNTSa9pG7km5XJK38ZX1S7_8PFn30VWlAnbFs7SROUGLtKxEEXYwpUFxTMGKCl-2JP98a41GGH0PajATbULtDz1KY12dM4s5J0lTOxzr4NToVon99La5lTWY6QxYKJqf9hN-SjdevVEM47AAsXbz4OlDTx0QGH8ARy1vEWiAAAA&shmds=v1_AUFQtOOyNjqBK-_iz1xyQR4lru4xjcv_dJ4LkdhegeFTPD75mQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=k7MkPHiJ_6CiAGBSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf0757082af980862e2ed4d14159002dc5fba1f3b4519c0a909ccc0.gif",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "Yassir is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in 45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa. It is backed (~$200M in funding) by VCs from Silicon Valley, Europe and other parts of the world.\n\nWe offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.\n\nHelping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nAbout your role\n\nAs an Android Staff Engineer, you will drive the technical standards for the Android applications across our consumer domain, working with multiple squads inside the domain. You will lead Android engineers with tech roadmaps, architecture decisions, and feature development and release cycle. You will mentor junior developers. You will contribute to scaling up Android engineers in multiple squads and bringing great talents on board by conducting technical interviews.\n\nResponsibilities\n• Design, build and maintain features for the domain applications\n• Provide technical leadership and manage dependencies\n• Conduct design and code reviews\n• Help the domain team members with technical blockers supporting them and helping them grow\n• Continuously discover, evaluate, and implement new technologies to maximize efficiency\n• Participate in architecture and design discussions\n• Participate strongly in building the technical roadmap\n• Conduct technical interviews\n• Help Improving engineering standards, tooling, and processes\n\nRequirements\n• BSc/MSc in Engineering, Computer Science or relevant field\n• At least 8 years of Android mobile engineering experience. 3 years of which with Kotlin\n• Excellent communication skills\n• Enjoy solving problems and helping others meet their goals\n• Solid understanding of the full mobile development lifecycle\n• Substantial experience with Git in a team environment\n• Hands-on experience with mobile DevOps CI/CD tools\n• Experience working with different architectures\n• Experience writing testable code and unit tests\n• Have published many Android applications to the Store\n• Experience in a fast-growing startup in a the on-demand services space is a plus\n\nAt Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.\n\nDon't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.\n\nWe look forward to receiving your application!\n\nBest of luck,\n\nYour Yassir TA Team",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/Yassir/19bc3b7e-b193-49e2-ace5-7d19f343cc1b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBbmRyb2lkIEVuZ2luZWVyIC0gRmluYW5jaWFsIFNlcnZpY2VzIiwiY29tcGFueV9uYW1lIjoiWWFzc2lyIiwiYWRkcmVzc19jaXR5IjoiQnVjaGFyZXN0LCBSb21hbmlhIiwiaHRpZG9jaWQiOiJrN01rUEhpSl82Q2lBR0JTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFVtOXRZVzVwWVEifQ=="
+        },
+        {
+            "title": "Android Developer / CTS Expert",
+            "company_name": "Luxoft",
+            "location": "Romania",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=klXXdqp2lFjux10zAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAAUFy7uTrdLJiI0EUnqSKIk7qXJD2bSJoLuVPyB_62ujxe85k17T4NhcIAB3xjpIwFNHT3Gxzr7wIrOJMFRlOcB0pwIhojLnZeJPNWa-aoRhYjwSlHk6aElqp-kuU_PXtTMEcj2G_adVU5jcv55VXpIRASXGkyKZgvVAbLuYoAAAA&shmds=v1_AUFQtOOCNLaH_9QcU6s2zxb-h4O_lQZID3th04tJl41C827Rsw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=klXXdqp2lFjux10zAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf07570543eacb671ffa260a1f1cb05728ba73cce0ccadbe314ff1d.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Remote Romania, Romania\n\nAndroid\n\nAutomotive Industry\n\n30/12/2024\n\nReq. VR-109743\n\nProject description\n\nOur new Android Automotive IVI project is looking for an Expert Automotive HAL Developer for an agile project development team. It is an ongoing development project for one of our OEM customers, which is featuring state of the art and innovative functionalities and technologies.\n\nOur team:\nGlobal team of professionals in the automotive industry with experience in innovative development.\n\nResponsibilities\n\nWork inside an intercultural team of many layers and competencies around software engineering, architecture and development.\n\nPrimarily responsible for analysing results of Google's CTS tests\n\nIdentify any issues that impact the successful execution of CTS\n\nSkills\n\nMust have\n\nDeep expertise in Google CTS tests\n\nStrong Android skills\n\n5+ years experience\n\nStrong C++ skills\n\n5+ years experience\n\nStrong Java skills\n\n5+ years experience\n\nExperience working with Git\n\nNice to have\n\nUseful skills include:\n\nDocker\n\nAUTOSAR (AUTomotive Open System ARchitecture)\n\nLinux\n\nGerrit\n\nGitHub\n\nAOSP\n\nAtlassian Confluence\n\nAtlassian Jira\n\nOther\n\nLanguages\n\nEnglish: C1 Advanced\n\nSeniority\n\nLead",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=f4d253dacad455a4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/4665057741266441054?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ro.linkedin.com/jobs/view/android-developer-cts-expert-at-luxoft-4101110562?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAvIENUUyBFeHBlcnQiLCJjb21wYW55X25hbWUiOiJMdXhvZnQiLCJhZGRyZXNzX2NpdHkiOiJSb21hbmlhIiwiaHRpZG9jaWQiOiJrbFhYZHFwMmxGanV4MTB6QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFVtOXRZVzVwWVEifQ=="
+        },
+        {
+            "title": "Computer Scientist (m/f/d) as App Developer for iOS / Android",
+            "company_name": "RIWA GmbH",
+            "location": "Romania",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=DvkqE3_7RFiPs4pXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFw7OzndqIKNCC46FYWqi9AKjpKm1zaS5ELulP6Sf6kub3rZZ5LdDuTjSzBBbSwGsSww96pT7QI0QxEjHPGNjuKvdJTAXmtQUIQ2kW1hBRdqgFEnMwAFKIl6h7P9IBJ5pxSzy3sWLdbkhryigA2N6kkN_3nwoBNGpwUfm-16zGPol9PqfC-g9M0JbICKvA5WfwH1HarbrAAAAA&shmds=v1_AUFQtOMIhvGDhQtn-18yn-xt0N-EWtHy7lxUa1C2ydi1ze4lzg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=DvkqE3_7RFiPs4pXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf075702db4e922a66e8f0a8cf03bc8f25ee5834e97593c3e19334b.gif",
+            "extensions": [
+                "13 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "13 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Computer Scientist (m/f/d) as App Developer for iOS / Android\nRIWA - All geoinformation becomes a digital experience\n\nRIWA GmbH is a leading company in the field of geoinformation and municipal specialist processes with over 25 years of experience and market leader in Bavaria. Our team develops innovative solutions for the digital transformation of cities and municipalities, in particular through geographic information systems (GIS). We also create digital twins of municipalities for construction planning, energy management and sustainable urban development. We offer customized solutions and attach great importance to close cooperation.\n\nBecome part of our team in one of our branches in Augsburg, Memmingen or Kempten im AllgÃ¤u. After training, you can also work from home.\nThese are your tasks\n• Further development of our native RIWA GIS Android app\n• Implementation of our previous apps for Apple iOS with Kotlin & Compose Multiplatform\n• Quality assurance through code reviews, unit tests and automated test procedures\n• Technical conceptualization of functional requirements from product management\n• Advising product management on development issues\nYou know your way around this\n• Completed studies in computer science or equivalent training\n• Sound knowledge in the development of Android apps (Kotlin, Java, Android SDK). Basic knowledge of iOS development advantageous (Swift)\n• Ideally experience with Jetpack Compose, Kotlin Multiplatform and Compose Multiplatform\n• Expertise with automated tests, CI/CD processes and agile software development\n• Knowledge of designing appealing user interfaces is a plus\n• Independent working style, ability to work in a team and a high level of self-motivation\nWhat we offer you\n• A great team - #GernePerDu - and a varied job in the office and home office\n• Attractive salary, 13 monthly salaries, capital-forming benefits and a performance bonus\n• Family-friendly working time models with flexible working hours (flexitime)\n• Corporate benefits such as a job bike, drinks flat rate or employee discounts with over 1,500 providers\n• Intensive training in the field of activity and regular further training\n• An exciting environment with varied tasks\n• A secure, modern workplace close to the city center with future prospects\nHave we piqued your interest?\n\nPlease send us your complete application documents directly online via our applicant management system, stating your salary expectations and the earliest possible starting date.\nRIWA GmbH\n\nAn der NeumÃ¼hle 5, 87700 Memmingen\nEveryone is welcome at RIWA. Diversity and equal opportunities are an integral part of our company. We see the uniqueness of each individual, and therefore the diversity of our teams, as the driving force behind our daily work and innovations. - We look forward to meeting you.\n\n+\n\nOnline application",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/-7080879568877085983?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBTY2llbnRpc3QgKG0vZi9kKSBhcyBBcHAgRGV2ZWxvcGVyIGZvciBpT1MgLyBBbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiUklXQSBHbWJIIiwiYWRkcmVzc19jaXR5IjoiUm9tYW5pYSIsImh0aWRvY2lkIjoiRHZrcUUzXzdSRmlQczRwWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        },
+        {
+            "title": "Senior Mobile iOS Developer",
+            "company_name": "Showpad",
+            "location": "Bucharest, Romania",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Y4mJcTB5-H2jWIsJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKwQoCIRAAULruJwTBnKM0FrrULYIgiCA_YBltUMN1xLHaz-iTYy_v9LrfousN5cgVbmxjIoh3A2f6UOJCFbZwZQtCWF0AznBh9omWx9BakYPWIkl5adiiU45HzZksT_rFVmYGCVipJGw09PvdpEr265UJ_C34hJjh9HbzkLaBB4-YI_4BMDvG7JMAAAA&shmds=v1_AUFQtONE9dL9rp8BE0uoBvzyeqMYGdQEIBv0s2o74c8n2IMboQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Y4mJcTB5-H2jWIsJAAAAAA%3D%3D",
+            "extensions": [
+                "20 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "20 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior iOS Developer position at Showpad, focusing on building high-performance mobile applications with Swift and SwiftUI in a hybrid work environment.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/showpad/senior-mobile-ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIGlPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTaG93cGFkIiwiYWRkcmVzc19jaXR5IjoiQnVjaGFyZXN0LCBSb21hbmlhIiwiaHRpZG9jaWQiOiJZNG1KY1RCNS1IMmpXSXNKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFVtOXRZVzVwWVEifQ=="
+        },
+        {
+            "title": "Middle/Senior Mobile Flutter Software Engineers",
+            "company_name": "IDT Corporation",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=T1xvtljJncd1ou0aAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CJ1uFmxEcNFRrSh0se4lac80kt6F3Im-jm9qXf7t_4rvoqibMAwRTYsUOEPDLkSEOr5UMUPLD33bjHAiHwgxC6zgyg4Ebe5HYIIzs49Y7kfVJDtjRGLlRa2Gvup5Mkzo-GOe7OSfTsbZS9Eqdpvt-lMl8svycrzDgXPiPH8zGghuPFkK9gf7Lm86pAAAAA&shmds=v1_AUFQtOMSGlkFDcAbygUhgIzja7_34fSzxGgvicAOLB44cPFqpA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T1xvtljJncd1ou0aAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf07570cb9e9e043e1a9cbeb1ab93d00ae7e379a7f403d9c97ad312.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe, Belarus, Poland, Kazakhstan\n\nWe are looking for experienced Middle/Senior Mobile Flutter Software Engineers to join our core product – BOSS Revolution.\n\nYou have a chance to work with a team of outstanding professionals on a challenging product.\n\nYou will never be bored—our team is dynamic, as are our products. Be ready to face thrilling professional challenges and use your strong hard and soft skills to solve them as a Team player.\n\nYour primary responsibility is end-to-end development and support of our user experience in our customer-facing apps.\n\nJoin us if you want to:\n• Have a unique work experience with a really strong engineering team!\n• Become a part of a multinational and cross-functional team.\n• Boost your career with a big international product company and have new growth opportunities.\n• Work on new innovative features and bug fixes in a Scrum Team.\n• Take responsibility for the full software development life-cycle.\n• Collaborate with business stakeholders and be a part of the product development team.\n• Demonstrate your technology-agnostic positive attitude with the ability to learn and desire to implement solutions using various technologies.\n• Work on high-performing, mission-critical, scalable, and resilient applications and services.\n• Drive aggressive technical debt reduction in close collaboration with developers and automation test engineers.\nJoin us, if you have:\n• Have around one year of Flutter cross-platform development experience.\n• Have 5+ years of hands-on mobile development experience (Android and/or iOS).\n• Are truly passionate about mobile development.\n• Can communicate in English (B2+).\n• Are a constant learner.\nYou can please us with:\n• Experience in configuring mobile CI pipelines.\n• Knowledge and experience beyond mobile stack.\nWe offer you:\n• An exciting and challenging job with talented people around.\n• Really good hardware (a laptop with 32 GB RAM and 512 GB SSD).\n• Competitive salary and growth opportunities.\n• Remote work opportunity (with the opportunity to work from offices in Minsk and Warsaw).\n• Superb English lessons.A few words about us:\n\nIDT Corporation is a global communications company founded in 1990 and headquartered in Newark, New Jersey. We are industry leaders in prepaid communication and payment services and one of the largest international voice carriers. We are listed on the NYSE, employ over 1800 people across 20 countries, and have over $1.5 billion in revenues.\n\nWe are not ”another big IT corporation”— we encourage and support in-house entrepreneurs in developing their ideas into business actions.\n\nOur flagship brand, Boss Revolution, offers Money Transfer, International Calling, and Mobile Top-Up services and supports IDT’s mission of enabling people to keep in touch and share resources with family and friends worldwide.\n\nIf you are here, it seems like you are interested, so let’s chat! 😉\n\nThis offer from \"IDT Corporation\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6731f2266fb8bf4a04ae961d-middle-senior-mobile-flutter-software-engineers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWRkbGUvU2VuaW9yIE1vYmlsZSBGbHV0dGVyIFNvZnR3YXJlIEVuZ2luZWVycyIsImNvbXBhbnlfbmFtZSI6IklEVCBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6IlJvbWFuaWEiLCJodGlkb2NpZCI6IlQxeHZ0bGpKbmNkMW91MGFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "Android Platform Architect",
+            "company_name": "Luxoft",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=xQ6URFgKudnrn0IBAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVy7uTrdLJio4KJTJ0EcxBcoSZqmKcldyJ2Q3Re3Lv_wDX_33XSnHsdKcYRXMjJRzdBXN0fxTuAAD7LA3qwChHAnCsnvbrNI4avWzEkFFiPRKUdZE3pLTS9k-Z-BZ1N9Wb9-OF-OTRUM--3z02gSiAhvygaj-QGmtgQ5hgAAAA&shmds=v1_AUFQtOPU19jvn_AxkVCK8sZVT73ZId-gJ9L6XH_b0GA4dZqEGQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=xQ6URFgKudnrn0IBAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf07570ecddea8dd9a37f97681e5b5c612cde5b89c52abad15271fb.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Luxoft is the major independent Software Services company world-wide. We deliver professional software products and services in multiple business verticals, especially Automotive. The Digital Cockpit practice as part of Luxoft automotive delivers stunning user experience to our customers. Our project develops a cutting-edge ready-to-use IVI systems platform, to be used by leading OEMs. We develop our outstanding pixel-to-silicon solutions by applying agile methodologies and well-established Automotive SPICE practices, achieving the highest degree of quality and standards compliance in our delivered product.\n\nResponsibilities\n\nDefinition and implementation of the software architecture for an automotive IVI platform.\n\nSkills\n\nMust have\n\nAOSP, Android Architecture, C/C++, Android HAL\n\nNice to have\n\nASPICE\n\nOther\n\nLanguages\n\nEnglish: C1 Advanced\n\nSeniority\n\nRegular",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ro.jooble.org/jdp/-8613903667319232629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ro.linkedin.com/jobs/view/android-platform-architect-at-luxoft-romania-4119725254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ro.indeed.com/viewjob?jk=1e6593bac5e93eed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFBsYXRmb3JtIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6Ikx1eG9mdCIsImFkZHJlc3NfY2l0eSI6IlJvbWFuaWEiLCJodGlkb2NpZCI6InhRNlVSRmdLdWRucm4wSUJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "Senior PHP Developer - Online team",
+            "company_name": "Gameloft",
+            "location": "Bucharest, Romania",
+            "via": "GameJobs.co",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=pa_P2Of4LU_PzTA-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCQAwA8eoTPEjOol0RPKg3ESpeLPqAkpbYruwmyyZKn-JzbS8DAwMz_83mhyexlwzVtYILfSlIogwbuHPwTGCEcbSbNKCEue1BGEqRLtDi1JslPTqnGopODc23RSvRCVMjg3tLoxNq7TFTCmhU7_bboUjcrZYlxnH2MvAM5087JWpreEhE9vgHkz07uZsAAAA&shmds=v1_AUFQtOO3NvfeCn1-ZZjdNRs1AvjKNNjf6zT9_vT2hry7ZcIAuA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=pa_P2Of4LU_PzTA-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502f040a54cb6dc103878/images/c802e7b73cf07570d0dbf72c98dd1744694a102aae9f7a94776cfe50b4eec20e.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nGameloft Online Team provides a solid API for all the features that connect to our main servers. They enhance the games and allow users to play via multiplayer, compete in leader boards, get rewarded for their activity and last but not least to stay in touch.\nGameloft Bucharest is looking for 2 new Senior PHP Developers to join our Online Games Team.\nWhy join us:\n• How would you like to be part of the team powering up triple A Titles on Android Market or Appstore?\n• Improve your programming skills and techniques to meet the demands of millions of users;\n• Work with large scale user databases (hundreds of millions of daily new entries);\n• Improve your skills on database optimization, caching, service architecture, data mining and cutting edge noSQL technologies\nOverall responsibility:\n• Online developers must be focused on finding simple enough solutions so that other teams can easily use the API but in the same time robust enough to support the heavy traffic we experience each day. Backend optimization and low level programming skills are a must.\nKey areas of responsibility:\n• Develop new features for existing projects;\n• Database and project design for new projects based on specifications;\n• Maintenance and support for existing features.\n\nQualifications\n• Experienced with PHP 5, MySQL5 and database optimization techniques;\n• Good knowledge of HTML, JavaScript , jQuery and mobile web is a plus;\n• Experience with Python and Linuxpackaging is considered a big plus\n• Good English speaking and writing;\n• Communication skills and ability to integrate quickly in a team;\n• Passionate and innovative, thinking outside of the box when needed;\n• Rigor, autonomy and organizational skills are essential.\nAdditional Information\n• Motivating salary and a merit based pay system;\n• Lunch tickets;\n• Medical insurance package, in partnership with Regina Maria Clinic;\n• Supportive working climate, a young and dynamic team with a free communication style and also the possibility to make outstanding performances fairly rewarded;\n• Get the chance to work in a multinational team;\n• Expand your professional knowledge and career very fast;\n• A modern office complex including:\n• Cafeteria with hot food open during working hours\n• Gym facilities\n• Relaxation area with pool tables, ping pong tables, darts, foosball\n• Kickboxing classes in the gym facility free for employees\n• Dance classes (beginner and advanced groups) in the gym facility free for employees;\n• Free access to football court and basketball court – 2 hours, once a week, both courts are close to the office.\n• Please forward your CV and motivation letter to the following email address: ancaemilia.mihaila [at]gameloft.com\nCompany Description",
+            "apply_options": [
+                {
+                    "title": "GameJobs.co",
+                    "link": "https://gamejobs.co/Senior-PHP-Developer-Online-team-at-Gameloft?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/GameloftSRL/84539235-senior-php-developer-online-team?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUEhQIERldmVsb3BlciAtIE9ubGluZSB0ZWFtIiwiY29tcGFueV9uYW1lIjoiR2FtZWxvZnQiLCJhZGRyZXNzX2NpdHkiOiJCdWNoYXJlc3QsIFJvbWFuaWEiLCJodGlkb2NpZCI6InBhX1AyT2Y0TFVfUHpUQS1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIVW05dFlXNXBZUSJ9"
+        },
+        {
+            "title": "React Native - JavaScript Mobile Developer",
+            "company_name": "Swazm",
+            "location": "Bucharest, Romania",
+            "via": "JavaScript Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=LRWcn6Xxma_3jsMpAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CLrcLNqI4KKTIgiCDu0DlEs42pQ0F3JnLb6L76pd_uWDv_guinNF6BSeqH4k2MIdR6xd9knhwdYHgiuNFDhRnpUtCGF2HXCEG3MbaHnqVJMcjREJZSv6X7nS8WA4kuXJ9GxlTiMdZkoBlZr9YTeVKbbrVf3GzwA-wuXlZhfdQMUDRo8_UIt33qAAAAA&shmds=v1_AUFQtOOQZMh3x69iSg-OhKQBZ949WxYLnRR9mXgaJaLxM5Lieg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LRWcn6Xxma_3jsMpAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for a new team member for our tech team at Swazm! We need you to be a passionate JavaScript Mobile Developer to join us in new adventures in the exciting world of blockchain infrastructure.\n\nJob Overview\n\nAs a team member, you will be involved in developing mobile apps for our in-house projects. You would be learning everything on this list that you don’t already know and much more.\n\nResponsibilities and Duties\n• Implement and test mobile apps that meet design specifications\n• Ensure that an application meets performance requirements (technical, functional and user interface)\n• Participate in identifying configuration changes to applications so that they meet business requirements\n• Integrate technical and application components\n• Maintain, tune and repair applications in order to keep them performing according to technical and functional specifications\n• Perform preventive maintenance activities\n\nRequirements\nTechnical:\n• Strong JavaScript experience is required\n• Experience with React Native\n• Experience with Flexbox\n• Experience in working with APIs\n• Experience in architecting appropriate Git workflows for a project\n\nNice to have:\n• IOS/Android Native Development\n• Experience with Parse\n• Experience with Electron\n\nPersonal:\n• Passionate about programming with the desire to learn new technologies\n• Strong communication and interpersonal skills\n• Good organizational and analytical skills\n• Proactive and detail-oriented\n• Able to work both independently and in team environments\n• Able to understand complex business requirements\n\nWhat we offer:\n• Your health is our priority - That’s why we offer to you and your beloved ones access to a premium subscription to a private medical system at Regina Maria\n• The blockchain world brings many benefits - for our employees, we also offer access to a company reward pool in cryptocurrencies\n• We want you to feel great at the office, so there are various utilities as a large Cafeteria and a recreation room with a PS4 to enjoy in your well-deserved breaks\n• Our office is situated in the central area of Bucharest, in Romana Square, 2 minutes away from the Subway station. We also have some underground parking spaces.\n• Most of all, we guarantee you’ll enjoy our vibrant and innovative working environment!",
+            "apply_options": [
+                {
+                    "title": "JavaScript Jobs",
+                    "link": "https://jsjobs.ro/jobs/5680835088875520/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBOYXRpdmUgLSBKYXZhU2NyaXB0IE1vYmlsZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTd2F6bSIsImFkZHJlc3NfY2l0eSI6IkJ1Y2hhcmVzdCwgUm9tYW5pYSIsImh0aWRvY2lkIjoiTFJXY242WHhtYV8zanNNcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhVbTl0WVc1cFlRIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVmxCYlRKVGRITkNVVk5UTW1RelVWSlVaRlZNWmxobE1Ya3pRWFJHYUU1Nk16QTNlbVpQTWtkNWVtTnJOa05aYVVad056QlFNMEZxVEhSVWVsUnlNMFZKZW5GMU5uaE5PVWs1TlRKZlRYUXhRMHBoV2tkb1psTmxTM0ppTW1OeVQycHpZVGhpVWs5U1drMUphbFYzZFZaNVNVUldTblpJYUVsR2REVkZTbnBDT0VneWNYaHlVbkpQVG5sblpFNVJkRUZzV1RVME5HTjNSV05WYzBkU1RsUnpjRkpPVUdGRFdGOXNiRWxrV2pVMVVUQlNUMFZWYTFKaFduTTBURXRxTm5sdGJISnlRVUV6YzA1bmRtNVBSMEpNZFd4VVkxRmFjWGxXT1ROSFpqTTNaRkJLU0d0eFFUTlZPREZzUm1OdVNVRnBVR3RNYlVOYVlXNTRla1JqZERCek1tZzVVMjE2UTFaSmNHMXBVRTR5WkVsaVppMTJPWFpzYm1jU0Z6aEJTMFphTlVSM1RHVnlRWEE0TkZCME4zWjJlVUV3R2lKQlJsaHlSV053VUZoUFFuTmtja1k0TTNKdlFteGphWGw0WlZaUk0yRmlialJCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Romania&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVmxCYlRKVGRITkNVVk5UTW1RelVWSlVaRlZNWmxobE1Ya3pRWFJHYUU1Nk16QTNlbVpQTWtkNWVtTnJOa05aYVVad056QlFNMEZxVEhSVWVsUnlNMFZKZW5GMU5uaE5PVWs1TlRKZlRYUXhRMHBoV2tkb1psTmxTM0ppTW1OeVQycHpZVGhpVWs5U1drMUphbFYzZFZaNVNVUldTblpJYUVsR2REVkZTbnBDT0VneWNYaHlVbkpQVG5sblpFNVJkRUZzV1RVME5HTjNSV05WYzBkU1RsUnpjRkpPVUdGRFdGOXNiRWxrV2pVMVVUQlNUMFZWYTFKaFduTTBURXRxTm5sdGJISnlRVUV6YzA1bmRtNVBSMEpNZFd4VVkxRmFjWGxXT1ROSFpqTTNaRkJLU0d0eFFUTlZPREZzUm1OdVNVRnBVR3RNYlVOYVlXNTRla1JqZERCek1tZzVVMjE2UTFaSmNHMXBVRTR5WkVsaVppMTJPWFpzYm1jU0Z6aEJTMFphTlVSM1RHVnlRWEE0TkZCME4zWjJlVUV3R2lKQlJsaHlSV053VUZoUFFuTmtja1k0TTNKdlFteGphWGw0WlZaUk0yRmlialJCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

@@ -1,0 +1,648 @@
+{
+    "search_metadata": {
+        "id": "6785032d09504114664837ff",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c712b6049ebacce5/6785032d09504114664837ff.json",
+        "created_at": "2025-01-13 12:12:29 UTC",
+        "processed_at": "2025-01-13 12:12:29 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&udm=8&fc=EowFCswEQUpHOUprUFExbVJBVFdTQkZFUXBJRzJPTXo1dXQ2YTVBTUo5M05YZk5vdnpzOUpMQVNtV3ZuR21vM21sc28tN0l5T3NZcTZsc2VLSlByMm9PZFpXQmVHZURTTElPSnNxOXo0UlZfaUo3Nk9rdXNHT1NPa3loZzh6NURUYk40UkFsSW4xQXctUkZBNEl0SEhpRWVXdWdsV2NFekFqUVdaR1h3OHRWVFppekhwVzJjQnZOWmNZZXBVbTg1R2kzM2xrT0o1bkhXaUJQRWtoSHlXMVpwbVo3ZjhuOHBmTXo3d0c2T2UtbEFld0huMVA1VnJ3dUdhVTNWU1ozSy13bC0zTlZnVHFRNGNzcU1KeG92aGloa0tJR3YxRTlIbGp0WG1fZHdtWlhTdHRzdF9VaUZDMldNWVh2U2l6X0hXdHdvekNpaWN4LWpGN0VYVmJweWpFOFczQUdJSkYxN01Eazdoc3FTaVBRMktLQVo0d251TDExWXlJai1KaWxEbUtKbDRoZERJYkV5ZF8zTEg3WWd6YlM0aXhrLWRIOUEybGFuQnVjWDdGZlZ6cUxxRHhuLU43eWI5X0U3RXNTTXYtX1FjZEpJTl92RkFuRUhhWWdzVFlfekJBY2E0QTBrUW5oc0pkWGVLenNaOG1VZnVzcWxKMDN1VUllMnlSaFNpS1RhVzBlT2lUOVgxdzBCNWwyaXEyRU1iUmtuYllPb3N1XzZvUTV3QUViVUdfc0o1ZlJKMHBsX3VhNDN6THZaTGpDcjNBcFFGcmJHYjJXdVJHEhdMUU9GWjV2RUM5YW81Tm9QeEozZThRZxoiQUZYckVjb0xrLWtSM0F0b1VLTmU2MDRaLXI4M1B4c2gzUQ&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/c712b6049ebacce5/6785032d09504114664837ff.html",
+        "prettify_html_file": "https://serpapi.com/searches/c712b6049ebacce5/6785032d09504114664837ff.prettify",
+        "total_time_taken": 0.36
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVvd0ZDc3dFUVVwSE9VcHJVRkV4YlZKQlZGZFRRa1pGVVhCSlJ6SlBUWG8xZFhRMllUVkJUVW81TTA1WVprNXZkbnB6T1VwTVFWTnRWM1p1UjIxdk0yMXNjMjh0TjBsNVQzTlpjVFpzYzJWTFNsQnlNbTlQWkZwWFFtVkhaVVJUVEVsUFNuTnhPWG8wVWxaZmFVbzNOazlyZFhOSFQxTlBhM2xvWnpoNk5VUlVZazQwVWtGc1NXNHhRWGN0VWtaQk5FbDBTRWhwUldWWGRXZHNWMk5GZWtGcVVWZGFSMWgzT0hSV1ZGcHBla2h3VnpKalFuWk9XbU5aWlhCVmJUZzFSMmt6TTJ4clQwbzFia2hYYVVKUVJXdG9TSGxYTVZwd2JWbzNaamh1T0hCbVRYbzNkMGMyVDJVdGJFRmxkMGh1TVZBMVZuSjNkVWRoVlROV1Uxb3pTeTEzYkMwelRsWm5WSEZSTkdOemNVMUtlRzkyYUdsb2EwdEpSM1l4UlRsSWJHcDBXRzFmWkhkdFdsaFRkSFJ6ZEY5VmFVWkRNbGROV1ZoMlUybDZYMGhYZEhkdmVrTnBhV040TFdwR04wVllWbUp3ZVdwRk9GY3pRVWRKU2tZeE4wMUVhemRvYzNGVGFWQlJNa3RMUVZvMGQyNTFUREV4V1hsSmFpMUthV3hFYlV0S2JEUm9aRVJKWWtWNVpGOHpURWczV1dkNllsTTBhWGhyTFdSSU9VRXliR0Z1UW5WaldEZEdabFo2Y1V4eFJIaHVMVTQzZVdJNVgwVTNSWE5UVFhZdFgxRmpaRXBKVGw5MlJrRnVSVWhoV1dkelZGbGZla0pCWTJFMFFUQnJVVzVvYzBwa1dHVkxlbk5hT0cxVlpuVnpjV3hLTUROMVZVbGxNbmxTYUZOcFMxUmhWekJsVDJsVU9WZ3hkekJDTld3eWFYRXlSVTFpVW10dVlsbFBiM04xWHpadlVUVjNRVVZpVlVkZmMwbzFabEpLTUhCc1gzVmhORE42VEhaYVRHcERjak5CY0ZGR2NtSkhZakpYZFZKSEVoZE1VVTlHV2pWMlJVTTVZVzgxVG05UWVFb3paVGhSWnhvaVFVWllja1ZqYjB4ckxXdFNNMEYwYjFWTFRtVTJNRFJhTFhJNE0xQjRjMmd6VVEiLCJmY3YiOiIzIn0="
+    },
+    "jobs_results": [
+        {
+            "title": "Android Developer - Senior",
+            "company_name": "CIBER",
+            "location": "Auburn Hills, MI",
+            "via": "Ladders",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=c9ZADZ3ET3vJoayjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGSwrCMBAAUNz2BrqatWiighu7qh-0ghs9QEnaoYnEmZBJpXfw0tLN4xW_WbGtqEvsOzjjFwNHTLCGF5LnKXe2IGhS64AJrsx9wEXpco5y0FokqF6yyb5VLX80E1oe9ZutTDTiTMIYTMZmt9-MKlK_nJ_q4-UJnqAa7JAIbj4EWcGj_gNlivhvjgAAAA&shmds=v1_AUFQtOMundT_pNSlCWjsIUWYEd0o_xAZ6Z93eV-XDmI_9odprQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=c9ZADZ3ET3vJoayjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785032d09504114664837ff/images/f9af4681102ec213fdd7b5d76d404e99dbe72cfb61024fb7c169a078c7591850.gif",
+            "extensions": [
+                "101,014–131,319 a year",
+                "Full-time",
+                "No degree mentioned",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "salary": "101,014–131,319 a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "paid_time_off": true,
+                "dental_coverage": true,
+                "health_insurance": true
+            },
+            "description": "HTC Global Services wants you. Come build new things with us and advance your career. At HTC Global you'll collaborate with experts. You'll join successful teams contributing to our clients' success. You'll work side by side with our clients and have long-term opportunities to advance your career with the latest emerging technologies.\n\nAt HTC Global Services our consultants have access to a comprehensive benefits package. Benefits can include Paid-Time-Off, Paid Holidays, 401K matching, Life and Accidental Death Insurance, Short & Long Term Disability Insurance, and a variety of other perks.\n\nSkills and Experience (Years of Experience: 5):\n• Experience developing native mobile applications.\n• Understanding of security related concepts/concerns in mobile applications.\n• Experience using Fastlane.\n• Android: Comfortable within Google Play Console.\n• Android: Experience creating and maintaining Gradle build files.\n• Android: Experience creating and configuring flavors.\n• Android: Experience in Kotlin 1.7+, Seeking Senior level Kotlin experience.\n• Android: API level 30+.\n• Android: Experience with Android Studio.\n• Android: Knowledge of Jetpack architecture components (LiveData, ViewModel, Lifecycles, Navigation, ViewBinding, etc.).\n• Android: Experience with Coroutines.\n• Experience with integration to REST web services.\n• Experience using git.\n• Experience working in agile/scrum methodology.\n• Collaborated with cross-functional teams to define, design and ship new features.\n• Experience with participating in code reviews.\n• Can demonstrate knowledge of software design patterns and conventions.\n• Experience developing unit tests and UI tests.\n• Experience in security of data on devices and in transit.\n• Knowledge around continuous and automated deployments of mobile applications.\n• Experience localizing mobile applications for global markets.\n• Experience presenting ideas, concepts and POCs to executive teams and stakeholders.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience developing native mobile applications",
+                        "Understanding of security related concepts/concerns in mobile applications",
+                        "Experience using Fastlane",
+                        "Android: Comfortable within Google Play Console",
+                        "Android: Experience creating and maintaining Gradle build files",
+                        "Android: Experience creating and configuring flavors",
+                        "Android: Experience in Kotlin 1.7+, Seeking Senior level Kotlin experience",
+                        "Android: API level 30+",
+                        "Android: Experience with Android Studio",
+                        "Android: Knowledge of Jetpack architecture components (LiveData, ViewModel, Lifecycles, Navigation, ViewBinding, etc.)",
+                        "Android: Experience with Coroutines",
+                        "Experience with integration to REST web services",
+                        "Experience using git",
+                        "Experience working in agile/scrum methodology",
+                        "Collaborated with cross-functional teams to define, design and ship new features",
+                        "Experience with participating in code reviews",
+                        "Can demonstrate knowledge of software design patterns and conventions",
+                        "Experience developing unit tests and UI tests",
+                        "Experience in security of data on devices and in transit",
+                        "Knowledge around continuous and automated deployments of mobile applications",
+                        "Experience localizing mobile applications for global markets",
+                        "Experience presenting ideas, concepts and POCs to executive teams and stakeholders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "You'll work side by side with our clients and have long-term opportunities to advance your career with the latest emerging technologies",
+                        "At HTC Global Services our consultants have access to a comprehensive benefits package",
+                        "Benefits can include Paid-Time-Off, Paid Holidays, 401K matching, Life and Accidental Death Insurance, Short & Long Term Disability Insurance, and a variety of other perks"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/android-developer-senior-ciber-auburn-hills-mi_73701424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIFNlbmlvciIsImNvbXBhbnlfbmFtZSI6IkNJQkVSIiwiYWRkcmVzc19jaXR5IjoiQXVidXJuIEhpbGxzLCBNSSIsImh0aWRvY2lkIjoiYzlaQURaM0VUM3ZKb2F5akFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Android Developer (Must speak Spanish)",
+            "company_name": "Hire Orbitt",
+            "location": "Anywhere",
+            "via": "Glassdoor",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=tNnWJPV3d-qdioySAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJwowo2IrgoDoKgCOJQnEvSHkk03oXcKf0Wv1Zd3viqz6ja7akvHHs44BsTZywwvbxEQTLaBzTZUpQwgwWc2YGgLV0AJjgy-4TjbVDNsjFGJNVe1Grs6o6fhgkdD-bOTv60EmzBnKxiu1ovhzqTn09OsSBci4uqEAluFBV7aH4LyhdLQhasnQAAAA&shmds=v1_AUFQtOOJjKa0b1TkR70MVbDQzDWuBRQvLE6kjNRzw-KJ1rK48A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=tNnWJPV3d-qdioySAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "60–70 an hour",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "salary": "60–70 an hour",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "Job Title: Android Developer (Must speak Spanish)\n\nLocation: Remote\n\nCompany: Banking and Financial Services\n\nPay: $60 – 70 an hour\n\nPosition Overview:\n\nJob Brief: We are looking for an Android Developer who possesses a passion for pushing mobile technologies to the limits. This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications. Android programming works closely with other app development and technical teams.\n\nResponsibilities:\n\n· Design and build applications for the Android platform.\n\n· Collaborate with cross-functional teams to define, design, and ship new features.\n\n· Work with outside data sources and APIs.\n\n· Unit-test code for robustness, including edge cases, usability, and general reliability.\n\n· Work on bug fixing and improving application performance.\n\n· Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nRequirements:\n\n· BS/MS degree in Computer Science, Engineering, or a related subject.\n\n· Proven software development experience and Android skills development.\n\n· Proven working experience in Android app development and have published at least one original Android app.\n\n· Experience with Android SDK.\n\n· Experience working with remote data via REST and JSON.\n\n· Experience with third-party libraries and APIs.\n\n· Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.\n\n· Solid understanding of the full mobile development life cycle.\n\nJob Type: Full-time\n\nPay: $60.00 - $70.00 per hour\n\nBenefits:\n• Health insurance\n\nCompensation Package:\n• Hourly pay\n\nExperience:\n• iOS: 1 year (Preferred)\n• SDKs: 1 year (Preferred)\n• Android: 1 year (Preferred)\n\nWork Location: Remote",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Android programming works closely with other app development and technical teams",
+                        "BS/MS degree in Computer Science, Engineering, or a related subject",
+                        "Proven software development experience and Android skills development",
+                        "Proven working experience in Android app development and have published at least one original Android app",
+                        "Experience with Android SDK",
+                        "Experience working with remote data via REST and JSON",
+                        "Experience with third-party libraries and APIs",
+                        "Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies",
+                        "Solid understanding of the full mobile development life cycle"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay: $60 – 70 an hour",
+                        "Pay: $60.00 - $70.00 per hour",
+                        "Health insurance",
+                        "Compensation Package:",
+                        "Hourly pay"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design and build applications for the Android platform",
+                        "Collaborate with cross-functional teams to define, design, and ship new features",
+                        "Work with outside data sources and APIs",
+                        "Unit-test code for robustness, including edge cases, usability, and general reliability",
+                        "Work on bug fixing and improving application performance",
+                        "Continuously discover, evaluate, and implement new technologies to maximize development efficiency"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/android-developer-must-speak-spanish-hire-orbitt-JV_KO0,36_KE37,48.htm?jl=1009591211103&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoTXVzdCBzcGVhayBTcGFuaXNoKSIsImNvbXBhbnlfbmFtZSI6IkhpcmUgT3JiaXR0IiwiYWRkcmVzc19jaXR5IjoiVW5pdGVkIFN0YXRlcyIsImh0aWRvY2lkIjoidE5uV0pQVjNkLXFkaW95U0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Concentrix",
+            "location": "Lenexa, KS",
+            "via": "Concentrix Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=XJL2NVYcghFNmmo4AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvBWK1tWgigo1WoiCo3T3gSHJLEom7YTdInuCzxSlm-C4GOyJlFjjTLJxnuOIHC1cU2MKdPSg6CQmY4MYcC65OqbWqR2tVi4naXMvBBH5bJvTc7Yu9_ps0OcFaXMNpf9h1UymulxemgNQkd8gETyTsbgOP8QdKMoSniwAAAA&shmds=v1_AUFQtON0QnnNeKoWpEn7bDomBMTSU0L76pRtYJeiyLsfG9BvfQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=XJL2NVYcghFNmmo4AAAAAA%3D%3D",
+            "extensions": [
+                "29 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "Job Title:Senior Android DeveloperJob DescriptionWe’re Concentrix. A new breed of tech company — Human-centered. Tech-powered. Intelligence-fueled.We create game-changing solutions across the enterprise, that help brands grow across the world and into the future. We are trusted by clients across all major sectors, from up-and-coming success stories to iconic Fortune Global 500 brands in over 70 countries spanning 6 continents.Our game-changers:* Challenge Conventions* Deliver outcomes unimagined* Create experiences that go beyond WOWIf this is you, we would love to discuss career opportunities with you.In our Concentrix Catalyst team, you will work with the engine that powers the experience design and engineering capabilities at Concentrix. A leading global solutions company that reimagines everything CX through strategy, talent, and technology. We combine human-centered design, powerful data, and strong tech to accelerate CX transformation at scale. You will be surrounded by the best in the world providing market leading technology and insights to modernize and simplify the customer experience. Within our professional services team, you will deliver strategic consulting, design, advisory services, market research, and contact center analytics that deliver insights to improve outcomes and value for our clients. Hence achieving our vision.Concentrix provides eligible employees with an opportunity to enroll in many benefit programs, generally including private medical plans, great compensation package, retirement savings plans, paid learning days, and flexible workplaces. Specific benefits plans will vary by country/region.We’re a remote-first company looking for the absolute best talent in the world. Experience the power of a game-changing career.#LI-OnsiteQualifications:Proficiency in Kotlin and Java programming languages for Android development.Strong understanding of Android SDK, Jetpack libraries, and MVVM/MVP architecture patterns.Experience integrating RESTful APIs, GraphQL, or WebSocket.Familiarity with dependency injection frameworks such as Dagger or Hilt.Expertise in version control systems, particularly Git.Experience with continuous integration/continuous deployment (CI/CD) pipelines and associated tools.Knowledge of telecom-specific protocols or services, including VoIP, messaging, or billing integration, is an advantage.Responsibilities:Lead the design, development, and deployment of high-quality Android applications that align with business objectives and user needs.Develop new features and optimize existing functionalities for improved performance and user experience.Implement necessary APIs, SDKs, and other third-party tools, especially those required for telecom-related services.Collaborate closely with cross-functional teams, including UI/UX designers, product managers, back-end developers, and QA engineers.Participate in Agile ceremonies such as sprint planning, stand-ups, and retrospectives to contribute to project planning and execution.Identify performance bottlenecks, resolve bugs, and enhance the overall quality and responsiveness of applications.Ensure the application meets telecom and industry-specific security standards and compliance requirements.Engage in comprehensive testing, including unit testing, integration testing, and debugging to ensure application stability and performance.Implement automated testing practices to improve application reliability and reduce manual testing efforts.Lead technical discussions and innovation sessions to introduce new technologies and methodologies to enhance development processes.Ensure that applications adhere to telecom and industry-specific security standards, implementing necessary measures to protect user data and privacy.#LI-Onsite#ConcentrixCatalystLocation:USA Lenexa 14121 West 95th St., Santa Fe 95 Business ParkLanguage Requirements:Time Type:Physical & Mental Requirements: While performing the duties of this job, the employee is regularly required to operate a computer, keyboard, telephone, headset, and other office equipment. Work is generally sedentary in nature.If you are a California resident, by submitting your information, you acknowledge that you have read and have access to the Job Applicant Privacy Notice for California ResidentsConcentrix is an Equal Opportunity/Affirmative Action Employer including Disabled/Vets.For more information regarding your EEO rights as an applicant, please visit the following websites: •English•SpanishTo request a reasonable accommodation please click here.If you wish to review the Affirmative Action Plan, please click here.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience the power of a game-changing career.#LI-OnsiteQualifications:Proficiency in Kotlin and Java programming languages for Android development",
+                        "Strong understanding of Android SDK, Jetpack libraries, and MVVM/MVP architecture patterns",
+                        "Experience integrating RESTful APIs, GraphQL, or WebSocket",
+                        "Familiarity with dependency injection frameworks such as Dagger or Hilt",
+                        "Expertise in version control systems, particularly Git",
+                        "Experience with continuous integration/continuous deployment (CI/CD) pipelines and associated tools",
+                        "Knowledge of telecom-specific protocols or services, including VoIP, messaging, or billing integration, is an advantage.Responsibilities:Lead the design, development, and deployment of high-quality Android applications that align with business objectives and user needs"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Concentrix provides eligible employees with an opportunity to enroll in many benefit programs, generally including private medical plans, great compensation package, retirement savings plans, paid learning days, and flexible workplaces",
+                        "Specific benefits plans will vary by country/region.We’re a remote-first company looking for the absolute best talent in the world"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be surrounded by the best in the world providing market leading technology and insights to modernize and simplify the customer experience",
+                        "Develop new features and optimize existing functionalities for improved performance and user experience",
+                        "Implement necessary APIs, SDKs, and other third-party tools, especially those required for telecom-related services",
+                        "Collaborate closely with cross-functional teams, including UI/UX designers, product managers, back-end developers, and QA engineers",
+                        "Participate in Agile ceremonies such as sprint planning, stand-ups, and retrospectives to contribute to project planning and execution",
+                        "Identify performance bottlenecks, resolve bugs, and enhance the overall quality and responsiveness of applications",
+                        "Ensure the application meets telecom and industry-specific security standards and compliance requirements",
+                        "Engage in comprehensive testing, including unit testing, integration testing, and debugging to ensure application stability and performance",
+                        "Implement automated testing practices to improve application reliability and reduce manual testing efforts",
+                        "Lead technical discussions and innovation sessions to introduce new technologies and methodologies to enhance development processes",
+                        "Ensure that applications adhere to telecom and industry-specific security standards, implementing necessary measures to protect user data and privacy.#LI-Onsite#ConcentrixCatalystLocation:USA Lenexa 14121 West 95th St., Santa Fe 95 Business ParkLanguage Requirements:Time Type:Physical & Mental Requirements: While performing the duties of this job, the employee is regularly required to operate a computer, keyboard, telephone, headset, and other office equipment"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Concentrix Jobs",
+                    "link": "https://jobs.concentrix.com/australia/job/phn-phn-15593960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Concentrix-Corporation/Job/Senior-Android-Developer/-in-Lenexa,KS?jid=7d6f3e2ff44d0cc5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "American Veteran Jobs",
+                    "link": "https://americanveteranjobs.com/lenexa-ks/senior-android-developer-onsite-overland-park-ks/C30095B8557741AEA14BAE8BBB5D2B0F/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJDb25jZW50cml4IiwiYWRkcmVzc19jaXR5IjoiTGVuZXhhLCBLUyIsImh0aWRvY2lkIjoiWEpMMk5WWWNnaEZObW1vNEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Next Level Business Services, Inc.",
+            "location": "Redwood City, CA",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=VMtPQ9zESsi8rRwQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43imgigg461QqiiIN-QEmTo43Eu5CLtX6Nvypd3vqK36SYleQSewdH7DFwxARLuHADgibZDpjgxNwGnO67nKPstBYJqpVssrfK8kszYcODfnIjI7V0JmEMJmO93qwGFamdb284ZLiOBxze4glF4IGp9xZlAWeyCjzBHd2H2UHl83cBVfkHoZAzHaIAAAA&shmds=v1_AUFQtONqTFeitcmSc3dnJsMfSp3lzoWpAa6WbEbCyBFlQ213yw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=VMtPQ9zESsi8rRwQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785032d09504114664837ff/images/f9af4681102ec21307ef7a4bc9f45b764215284c981260b8e06bf6740aeb5940.gif",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "Company Description\n\nNLB Services offers a wide-range and best-in-class suite of value-based business solutions comprising of IT services, HR solutions, On-site & Off-site Outsourcing and Consulting services that are built on its robust process domain and people management expertise.\n\nAt NLB Services, we believe in a work culture that is open and energetic. Our operational methodology is clear and object oriented, blended with flexibility and a proactive attitude to help us focus on developing the right expertise that is required to deliver an unmatched set of services and products. Our team of experts works 24/7 to add value to your existing business and help you grow exponentially.\n\nJob Description\n\nRole: Android Developer\n\nLocation: Redwood City, CA\n\nDuration: 6+ months\n\nRate: DOE\n\nQualifications\n\n12+ years applications development experience\n\n4+ years mobile applications development experience\n\n4+ years native mobile experience in Android and iOS is a plus\n\nCurrently have apps deployed in the Android Google Play store and a plus would be apps in the iOS Apple App Store\n\nA plus is Salesforce.com development experience - knowledge of the Force.com platform, Apex, Visualforce, SOQL\n\nExperience with developing HTML5, Hybrid apps, and using cross platform mobile development tools\n\nBachelor's degree in IS, CS or equivalent experience in industry\n\nMobile & tablet design and development experience covering the Android ecosystem and iOS would be a plus\n\nExperience designing and developing apps that access and or utilize cloud based frameworks (e.g. Google App Engine, Amazon AWS Services/SDKs, etc.)\n\nExperience coding apps that support multiple languages and comply with accessibility standards\n\nAble to strongly contribute to technical mobile design and feasibility planning\n\nPassion for researching new or emerging trends and technologies in the mobile platform space\n\nExceptional written and verbal communication skills\n\nStrong teamwork and collaboration skills\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "12+ years applications development experience",
+                        "4+ years mobile applications development experience",
+                        "Experience with developing HTML5, Hybrid apps, and using cross platform mobile development tools",
+                        "Bachelor's degree in IS, CS or equivalent experience in industry",
+                        "Experience designing and developing apps that access and or utilize cloud based frameworks (e.g",
+                        "Google App Engine, Amazon AWS Services/SDKs, etc.)",
+                        "Experience coding apps that support multiple languages and comply with accessibility standards",
+                        "Able to strongly contribute to technical mobile design and feasibility planning",
+                        "Passion for researching new or emerging trends and technologies in the mobile platform space",
+                        "Exceptional written and verbal communication skills",
+                        "Strong teamwork and collaboration skills"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Next-Level-Business-Services,-Inc./Job/Android-Developer/-in-Redwood-City,CA?jid=6fdb76bc5251a1f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SmartRecruiters Job Search",
+                    "link": "https://jobs.smartrecruiters.com/NextLevelBusinessServicesInc2/84421729-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/android-developer-jobs/2D6E6D7D04C3CB5A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-2402-a0ad31eaa97cb61cd71eca6d08528ae0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://us.bebee.com/job/83bb0ffe3f391e29637ef0f163e8d5eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/redwood-city/california/info_technology/3837296595/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-ca-redwood-android-developer-next-level-business-services-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik5leHQgTGV2ZWwgQnVzaW5lc3MgU2VydmljZXMsIEluYy4iLCJhZGRyZXNzX2NpdHkiOiJSZWR3b29kIENpdHksIENBIiwiaHRpZG9jaWQiOiJWTXRQUTl6RVNzaThyUndRQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "Embedded Android Developer",
+            "company_name": "Xoriant Corporation",
+            "location": "Newark, CA",
+            "via": "Dice",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=fw1e-z67AbHFDdNfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE7nKpqo4GKnUkVwcHYrSXM00TQX7oL2PXxh6_Jv3199F9X-Mlp0Dh00yTEFB2d8Y6SMDFu4kQVBw70HSnAlGiIua19KlpPWIlENUkwJvepp1JTQ0qSfZOWfTrxhzNEU7A7H3aRyGtarB3EwqUBLnIlnO49Dgjt-DL820DY_xPRYzJYAAAA&shmds=v1_AUFQtOO3HbM_PZBgVaK0dDQL_IqUo2PpLDiC3BSwURggu9oK9A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fw1e-z67AbHFDdNfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785032d09504114664837ff/images/f9af4681102ec2135ff2afec173bf850e4ecbe4939ed6adc86feef410bfd5fbc.gif",
+            "extensions": [
+                "58–70 an hour",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "salary": "58–70 an hour",
+                "schedule_type": "Contractor"
+            },
+            "description": "Title: Senior Android Framework Engineer\n\nWork location: Newark, CA\n\nDuration: 6+ months contract\n\nRate: $68/hr on W2 without benefits\n\nDescription\n• We're seeking Android embedded software engineer to develop and to support Android Automotive OS for our infotainment system.\n• Design, implement, and deliver Android system and framework components for in-vehicle software system.\n• Work with application software engineers and user experience team to create a modular and extensible system Diagnose, analyze, and resolve relevant issues based on testing, and user validation.\n\nRequirements\n• A minimum of 5+ years of industry experience in Android development, and proven industry experience of shipping Android software products.\n• Experience with Android AOSP, Android frameworks or Android HAL\n• Domain knowledge and experience of software development on the Android system, and have worked with multiple area of Android SDK.\n• Experience with software design and architecture of components in complex system\n• Proficiency in C++ and Java programming to write clean and well structured code.\n• Experience with IDEs, source code management, unit testing, code review, issue tracking, and performance analysis tools.\n• Ability to communicate technical ideas clearly and effectively.\n• BS minimum in the areas of Computer Science, Computer engineering, Electrical engineering or other related fields",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A minimum of 5+ years of industry experience in Android development, and proven industry experience of shipping Android software products",
+                        "Experience with Android AOSP, Android frameworks or Android HAL",
+                        "Domain knowledge and experience of software development on the Android system, and have worked with multiple area of Android SDK",
+                        "Experience with software design and architecture of components in complex system",
+                        "Proficiency in C++ and Java programming to write clean and well structured code",
+                        "Experience with IDEs, source code management, unit testing, code review, issue tracking, and performance analysis tools",
+                        "Ability to communicate technical ideas clearly and effectively",
+                        "BS minimum in the areas of Computer Science, Computer engineering, Electrical engineering or other related fields"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Duration: 6+ months contract",
+                        "Rate: $68/hr on W2 without benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We're seeking Android embedded software engineer to develop and to support Android Automotive OS for our infotainment system",
+                        "Design, implement, and deliver Android system and framework components for in-vehicle software system",
+                        "Work with application software engineers and user experience team to create a modular and extensible system Diagnose, analyze, and resolve relevant issues based on testing, and user validation"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/72b214e2-b9b8-47a5-9c9e-80ef9249a0eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFbWJlZGRlZCBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlhvcmlhbnQgQ29ycG9yYXRpb24iLCJhZGRyZXNzX2NpdHkiOiJOZXdhcmssIENBIiwiaHRpZG9jaWQiOiJmdzFlLXo2N0FiSEZEZE5mQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "JOB | F2F Mobile/Android Developer | San Leandro, CA (Hybrid) | W2 Only-",
+            "company_name": "Sibitalent Corp",
+            "location": "San Leandro, CA",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=5PzC_6i2jAay59xiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_13OsQrCMBCAYVz7CE6Hk4ptpOCiU61UEaVDB8eStEcbiXchCdKCT-eTqavLv3zLH70nUX0u9_CCIi3gykobFBm1jnULB3yiYYvuy5UkuKD8yQryDOanUTndLr50S6EkM8YQw5kVeJSu6YEJjsydwemuD8H6rRDem6TzQQbdJA0_BBMqHsSdlf-l9r10aI0MWKeb9ZBY6pazSisdpEEKkLOzoOn_5QNxNyfBxQAAAA&shmds=v1_AUFQtONx3HF5uI2jBwQa6FehjTGg3bcjAF0kzS6DXXCoj-WJ6g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=5PzC_6i2jAay59xiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785032d09504114664837ff/images/f9af4681102ec213ad4cb033c939d7e5eb28b387968591071290e4fd9d45e4c3.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Greeting\n\nHope you are doing great!!\n\nMy name is Utkarsh, and I am an IT Recruiter at Sibitalent Corp.\n\nI am reaching out to you on an exciting job opportunity with one of our clients\n\nFinal Round - Face to Face | In-Person interview only-\n\nJob Title: Mobile/Android Developer (W2 Only-)\n\nLocation: San Leandro, CA (Hybrid – 3 days onsite a week)\n\nDuration: 6+ Months contract\n\nMOI: Hacker rank test and final onsite interview.\n\nThe Ideal Candidate Will Have\n\nProven Experience: Hands-on mobile development experience.\n\nApp Store Presence: Experience with publishing applications in mobile app stores.\n\nAndroid Expertise: Android development within an enterprise environment.\n\nKotlin Mastery: Experience with Kotlin, Reactive Programming, Constructs, Coroutines, Dependency Injection (Dagger), Retrofit, and Jetpack Architecture components.\n\nTechnical Skills: Proficiency in Java, Kotlin, and other relevant programming languages.\n\nProblem-Solving: Strong analytical and problem-solving skills.\n\nCollaboration: Ability to work effectively in a collaborative team environment.\n\nSkills Required\n• 5-7 development experience.\n• 2-3 Android development experience\n• Fin Tech / Banking experience (nice but not necessary)\n• Example apps in the stores\n• 5-7 years' experience on native dev\n• Experience with Reactive Programming (RxJava), Dependency Injection (Dagger), Retrofit and Kotlin\n• Technical degree or additional experience\n\nThanks & Regards\n\nUtkarsh Kumar | Sr. Technical Recruiter\n\nDirect # (972) 736-8317 | Ext – 317\n\nEmail: ukumar@sibitalent.com\n\nLinkedIn: https://www.linkedin.com/in/utkarsh-kumar21\n\nWebsite: www.sibitalent.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proven Experience: Hands-on mobile development experience",
+                        "App Store Presence: Experience with publishing applications in mobile app stores",
+                        "Android Expertise: Android development within an enterprise environment",
+                        "Kotlin Mastery: Experience with Kotlin, Reactive Programming, Constructs, Coroutines, Dependency Injection (Dagger), Retrofit, and Jetpack Architecture components",
+                        "Technical Skills: Proficiency in Java, Kotlin, and other relevant programming languages",
+                        "Problem-Solving: Strong analytical and problem-solving skills",
+                        "Collaboration: Ability to work effectively in a collaborative team environment",
+                        "5-7 development experience",
+                        "2-3 Android development experience",
+                        "Fin Tech / Banking experience (nice but not necessary)",
+                        "Example apps in the stores",
+                        "5-7 years' experience on native dev",
+                        "Experience with Reactive Programming (RxJava), Dependency Injection (Dagger), Retrofit and Kotlin",
+                        "Technical degree or additional experience"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/job-f2f-mobile-android-developer-san-leandro-ca-hybrid-w2-only-at-sibitalent-corp-4081412042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKT0IgfCBGMkYgTW9iaWxlL0FuZHJvaWQgRGV2ZWxvcGVyIHwgU2FuIExlYW5kcm8sIENBIChIeWJyaWQpIHwgVzIgT25seS0iLCJjb21wYW55X25hbWUiOiJTaWJpdGFsZW50IENvcnAiLCJhZGRyZXNzX2NpdHkiOiJTYW4gTGVhbmRybywgQ0EiLCJodGlkb2NpZCI6IjVQekNfNmkyakFheTU5eGlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "Android developer",
+            "company_name": "BosLeo",
+            "location": "Thousand Oaks, CA",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=HaNHoFynBgXcZTqdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBQFUFz7Cbq8UUQTEVzsVB0EEVzcS9I8mmjMDXlR-gF-uHiG03xnzbJLriA4cvzhiMyFNnSBJWFTBk9IdAbGyPPW15rloLVIVKNUU8OgBrw0EltM-gEr_3rxpnCOpnK_228nldO4WhwhVwaFRHePt5jk6GaesqZT9wNRmRirhwAAAA&shmds=v1_AUFQtOPzWD50g_GT1-255XIkp3mgjdVsiiqJBTFIxZXYEFwVTQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HaNHoFynBgXcZTqdAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices. Your primary focus will be the development of Android applications and their integration with back-end services. You will be working side-by-side with other developers in an emerging agile environment including practices such as continuous integration, TDD, retrospectives, refactoring skills and more.\n\nResponsibilities\n\nTranslate designs and wireframes into high quality code\n\nShould have experience in JUnit, Mockito.\n\nDesign, build, and maintain high performance, reusable, and reliable code\n\nEnsure the best possible performance, quality, and responsiveness of the application\n\nIdentify and correct bottlenecks and fix bugs\n\nHelp maintain code quality, organization, and automatization",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Should have experience in JUnit, Mockito"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Your primary focus will be the development of Android applications and their integration with back-end services",
+                        "You will be working side-by-side with other developers in an emerging agile environment including practices such as continuous integration, TDD, retrospectives, refactoring skills and more",
+                        "Translate designs and wireframes into high quality code",
+                        "Design, build, and maintain high performance, reusable, and reliable code",
+                        "Ensure the best possible performance, quality, and responsiveness of the application",
+                        "Identify and correct bottlenecks and fix bugs",
+                        "Help maintain code quality, organization, and automatization"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=5b1c2b493af0bc88&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/android-developer-bosleo-JV_IC1146976_KO0,17_KE18,24.htm?jl=1006253473018&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MightyRecruiter",
+                    "link": "https://applicant.mightyrecruiter.com/jobs/apply/android-developer-at-bloom-solutions-in-thousand-oaks-ca-77de879343eef6bd3c2ba763e53fd23b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/4KELxwOzyG5nWjTyLsujF0x4noPifAf0QrGnfscrGmWdQ4NOnGv62A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkJvc0xlbyIsImFkZHJlc3NfY2l0eSI6IlRob3VzYW5kIE9ha3MsIENBIiwiaHRpZG9jaWQiOiJIYU5Ib0Z5bkJnWGNaVHFkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "Staff Android Developer",
+            "company_name": "Insight Global",
+            "location": "Houston, TX",
+            "via": "Insight Global",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Hy0Ms3QJB8iTwQGRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CYJws2gigotOglB11cGtJO01icS7kDulH-FHi294zXfWmJu6cYQjDZXTACf8YOaCFdZwZQ-CrvYRmKBlDhnnh6haZG-tSDZB1GnqTc8vy4SeJ_tkL_86ia5iyU6x2-42kykUlosLSQpRoc3sXYZEcOa3KNMK7o8fCBnzs48AAAA&shmds=v1_AUFQtONv1wCwHW_sHoge8AoLaEWxyd25U858IwlAZgYN35Z1KQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Hy0Ms3QJB8iTwQGRAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Insight Global is looking for a remote Staff Android Engineer! You will be joining a Mobile engineering team that runs on an agile model, and is responsible for the maintenance, upgrades and troubleshooting of existing Android and iOS mobile applications. This team is specifically in charge of the ordering/checkout segment of the existing applications. You will also help drive technical/architectural decisions for the team and across teams.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to HR@insightglobal.com.\n\nTo learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/ .",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be joining a Mobile engineering team that runs on an agile model, and is responsible for the maintenance, upgrades and troubleshooting of existing Android and iOS mobile applications",
+                        "This team is specifically in charge of the ordering/checkout segment of the existing applications",
+                        "You will also help drive technical/architectural decisions for the team and across teams"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Insight Global",
+                    "link": "https://jobs.insightglobal.com/jobs/find_a_job/texas/houston/staff-android-developer/job-363932/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Frontier-Technologies-LLC/Job/Android-Developer/-in-Houston,TX?jid=56f69e61599dbf08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/FrontierTechnologiesLLC1/106060228-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OPTnation",
+                    "link": "https://www.optnation.com/android-developer-job-in-houston-tx-view-jobid-37620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-developer-at-frontier-technologies-588?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Iitjobs",
+                    "link": "https://www.iitjobs.com/job/android-developer-houston-tx-usa-xceed-technologies-20726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-1751094533126393849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/android-developer_3a401a2d-a394-453a-9e9d-5833c020773d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikluc2lnaHQgR2xvYmFsIiwiYWRkcmVzc19jaXR5IjoiSG91c3RvbiwgVFgiLCJodGlkb2NpZCI6Ikh5ME1zM1FKQjhpVHdRR1JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "ApTask",
+            "location": "Frisco, TX",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=MAVPRqEYF_f0qDmEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQvCMBAG0L2zk9ONIpqI4KJTQRScO7iVJD2S1Jgv5IJ08b-Lb3jdt9v0eaqIE135wwmFK-3pAUvCprpAyHQHfOL1JbRW5Ky1SFJemmnRKYe3RmaLRc-w8m-UYCqXZBqPx9NhUSX77aovg5EXxUy3GsVhR8PzB6PHNDR_AAAA&shmds=v1_AUFQtOMK_PAcE5D8QtPlFYuF5n2NZmL8uk4fonyOtzMb1sNMfg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=MAVPRqEYF_f0qDmEAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Client:\nThe Client is a leading global IT services and consulting company, providing a wide range of services to clients in various industries, including banking, financial services, retail, manufacturing, healthcare, and more. It is one of the largest employers in the IT industry and has a vast and diverse workforce. The company places a strong emphasis on employee training and development. Client is known for its commitment to innovation and invests in research and development to stay at the forefront of technological advancements.\nIt offers a comprehensive set of services, including:\nIT Services: Application development, maintenance, and testing.\nConsulting: Business consulting, IT strategy, and digital transformation.\nBusiness Process Outsourcing (BPO): Outsourcing of business processes to improve efficiency.\nEnterprise Solutions: Implementation and support of enterprise-level software solutions. Digital Services: Services related to digital technologies, such as analytics, cloud, and IoT.\n\nSalary Range: $120K-$130K/Annum\n\nJob Description:\n• Strong understanding of Android Programming.\n• Strong Debugging skills: Experience with ADB commands.\n• Stays up to date on the latest trends / Google recommendations.\n• Has worked with various architecture patterns including MVVM and MVP.\n• Strong Kotlin Skills.\n• Working knowledge of RX Java.\n• DI framework such as Dagger 2 or Hilt.\n• Experience with Room / Realm.\n• Experience with MySQL or any relational db.\nNice to Have:\n• Knowledge of Angular is a plus.\n• Cross Platform framework experience with Xamarin, Ionic, or React Native.\n• Good sense of UI / UX.\n• Familiar with Linux environments / docker.\n\nAbout ApTask:\nApTask is a leading global provider of workforce solutions and talent acquisition services, dedicated to shaping the future of work. As an African American-owned and Veteran-certified company, ApTask offers a comprehensive suite of services, including staffing and recruitment solutions, managed services, IT consulting, and project management. With a focus on excellence, collaboration, and innovation, ApTask provides unparalleled opportunities for professional growth and development. As a member of the ApTask team, you will have the chance to connect businesses with top-tier professionals, optimize workforce performance, and drive success across diverse industries. Join us at ApTask and be part of our mission to empower organizations to thrive while fostering a diverse and inclusive work environment.\n\nApplicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued ID during each interview.\n\nCandidate Data Collection Disclaimer:\nAt ApTask, we prioritize safeguarding your privacy. As part of our recruitment process, certain Personally Identifiable Information (PII) may be requested by our clients for verification and application purposes. Rest assured, we strictly adhere to confidentiality standards and comply with all relevant data protection laws. Please note that we only collect the necessary information as specified by each client and do not request sensitive details during the initial stages of recruitment.\n\nIf you have any concerns or queries about your personal information, please feel free to contact our compliance team at businessexcellence@aptask.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong understanding of Android Programming",
+                        "Strong Debugging skills: Experience with ADB commands",
+                        "Stays up to date on the latest trends / Google recommendations",
+                        "Has worked with various architecture patterns including MVVM and MVP",
+                        "Strong Kotlin Skills",
+                        "Working knowledge of RX Java",
+                        "Experience with Room / Realm",
+                        "Experience with MySQL or any relational db",
+                        "Cross Platform framework experience with Xamarin, Ionic, or React Native",
+                        "Good sense of UI / UX",
+                        "Familiar with Linux environments / docker"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary Range: $120K-$130K/Annum"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "IT Services: Application development, maintenance, and testing",
+                        "Consulting: Business consulting, IT strategy, and digital transformation",
+                        "Business Process Outsourcing (BPO): Outsourcing of business processes to improve efficiency",
+                        "Enterprise Solutions: Implementation and support of enterprise-level software solutions",
+                        "DI framework such as Dagger 2 or Hilt"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/ApTask/Job/Android-Developer/-in-Frisco,TX?jid=626347c07c9601d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OPTnation",
+                    "link": "https://www.optnation.com/android-developer-job-in-frisco-tx-view-jobid-34612?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CorpZop - Job Portal",
+                    "link": "https://us.corpzop.com/jobs/senior-android-developer-job-in-frisco-texas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFwVGFzayIsImFkZHJlc3NfY2l0eSI6IkZyaXNjbywgVFgiLCJodGlkb2NpZCI6Ik1BVlBScUVZRl9mMHFEbUVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "Android Developer (Locals f2f is required)",
+            "company_name": "AYR Global IT Solutions Inc",
+            "location": "Seattle, WA",
+            "via": "Smart Recruiters Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=t9N7SvqxGlQxjOelAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCQBAFUGw9gtUvNWgiARutAoIoVkYQq7DZjMnKuBN3NpJDeUjxFW_6nUyLwjdBXIM9fYilp4D5WaxhxSN_wCkCvQcXqFlghZPUUDLBdhCPg0jLNNt1Mfa6zTJVTluNJjqbWnll4qmWMXtKrf8q7Uygnk2kKt-sx7T3bZIU9wsOLLVhHK8ohYfoxCuO3sJ5lGRiZFriVvwAdfK5uq8AAAA&shmds=v1_AUFQtOMZyy5AX5tddfX3m0OFIZz-W9WTswa-SXOd96TPdA3qiQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=t9N7SvqxGlQxjOelAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "Company Description\n\nAYR Global IT Solutions is a national staffing firm focused on cloud, cyber security, web application services, ERP, and BI implementations by providing proven and experienced consultants to our clients. Our competitive, transparent pricing model and industry experience make us a top choice of Global System Integrators and enterprise customers with federal and commercial projects supported nationwide.\n\nJob Description\n\nAndroid Developer\n12 + month contract\nSeattle, WA local candidates only\n\nQualifications\n\nWhat are the MUST have skills that you are looking for in a candidate?\nBachelor's degree in Computer Science or related field\n5-7 years of development experience, 3-4 of which must be mobile\nDeep understanding of mobile, client-server development\nKnowledge of Material Design\nExperience with Android test automation & CI frameworks;\nExperience developing consumer apps\nReleased apps into the Play store (or open source)\nDesign and architecture knowledge\nExperience with Agile software development\nGreat understanding/knowledge of Java and object oriented design\n\nWhat are the technologies and the depth of the technologies that a candidate must have in order to be successful in this role?\nJava\nMaterial design\nAndroid dev studio\n\nWhat are the soft skills that you feel candidates must-have in order to be successful in this role?\nUnderstands business, technical and customer inputs to define new and/or changes to existing customer experiences\nCollaborates with Customer Experience and UX teams to ensure implement designed customer experiences\n\nPlease provide three industries that would produce fitting candidates:\nMobile apps for eCommerce company\nStaff developer for mobile development agency\nMobile games\n\nWill there be testing required for this role? If so, what test would you like administered & who would you like to administer?\nTechnical interview will be required; will be administered by one of our development leads\n\nAdditional Information\n\nIf anyone might be interest, please share your resume at smalik(at)ayrglobal(dot)com or you can directly contact me at 630-444-7490",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in Computer Science or related field",
+                        "5-7 years of development experience, 3-4 of which must be mobile",
+                        "Deep understanding of mobile, client-server development",
+                        "Knowledge of Material Design",
+                        "Experience with Android test automation & CI frameworks;",
+                        "Experience developing consumer apps",
+                        "Released apps into the Play store (or open source)",
+                        "Design and architecture knowledge",
+                        "Experience with Agile software development",
+                        "Great understanding/knowledge of Java and object oriented design",
+                        "Understands business, technical and customer inputs to define new and/or changes to existing customer experiences"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "12 + month contract"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Collaborates with Customer Experience and UX teams to ensure implement designed customer experiences",
+                        "Technical interview will be required; will be administered by one of our development leads"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/AYRGlobalITSolutionsInc/743999658744158-android-developer-locals-f2f-is-required-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/AYR-Global-IT-Solutions-Inc/Job/Android-Developer-(Locals-f2f-is-required)/-in-Seattle,WA?jid=2d4942df7c994214&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-9184152422233927710?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-wa-seattle-android-developer-locals-f2f-is-required-ayr-global?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/android-developer-locals-is-jobs/B0012F10134AB80D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoTG9jYWxzIGYyZiBpcyByZXF1aXJlZCkiLCJjb21wYW55X25hbWUiOiJBWVIgR2xvYmFsIElUIFNvbHV0aW9ucyBJbmMiLCJhZGRyZXNzX2NpdHkiOiJTZWF0dGxlLCBXQSIsImh0aWRvY2lkIjoidDlON1N2cXhHbFF4ak9lbEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVvd0ZDc3dFUVVwSE9VcHJUa1ZqWldGYWJrNVlOVXhNWjFkVk9YVTVTRWw2WTIxV05scExkMVZqVVZsbFFURTNSMFpXUVhWV1N6SlNjRlF6TnpNMU9FOXJUWGhqWjNCSk5WOUZZMlpyUm0xaVdFUmtUMlUwZDJweVlWSkVObnBhTjFaSlZFTXljWEpuY1RsM09GWnNPR3BDYWs5QldEVm5kVzFvTW05UFZGTnRORVZtWDNWdFRGRTJaRFpGUkZoTWRGazRWekJOUzAxQmNHMVBja0pIZEc1WFgyaFZibFpQTkRkalJXOUVaWFZsVWpGTFZFVmhURXA1WVdkc2NIcGpPRWRMWjNOb09VRmpSWEpDYnpkTmNFZE5NbXRtT1d4cmRUVXRkVGhsTm5KNFIzaGhRbmRqTWtveFpsZFVWRlpxT1Vsc04zUlZiWEpTYUdJdE1sZzVhVlpQY0hSa1pWZHhhVmxsTVVwdFVWRk5PV3RmUkc5eFNHaFVZWGh0WjJsRFNUZGhjbVZZZEhOV09XWkNVamhOZHpsUllrbFphbkZHTWxwTFp6aHlVa0UwVEV4UVlYWjVkMDVZU1MxR1gzQkNiMjk1VTJWMmJubEJUV1l4TFdjMVZGZFlWME5MUm5Ca1NXcEpOVVJxTUdGek4xbzVZa05uWDFjemFrRlRSM3BHUjFKTmRXMTZTakEwWWw5cFNtMWtWbVJmVVhCRlNuQkNiRm8yUVVkalMwRXlWVkpCYm1WV1luVmFjWEJFVGtkSU1qaGphSFY1WVRNM1JITTVlbU5tTVZaVFVFd3lTVmxzYTFoR1RuTnhibTFEVEd0NmJGQlpVbkZqVjFSck5FNVRkR1ZTYldRM1ZYaGhibTg0U2toalZrbDJValJ4YWtOc1ptMTNaRjkwUmpaWFp6UmtNbFJMVlRjNGJWWm9NMGRMUW1aUFpYQkVhMTlUYjJZNVowaENaR3R0Y1dRemFtd3plSFZ2ZVVGVWREWnVNVTVaY2pBNVdURkdkVzUzYXpKR1VVMVBVVW8wUkZGb01UaGtlV2RJVmxCakVoZE1VVTlHV2paUE9FeGpObkkxVG05UWNuTjJUbk5SU1JvaVFVWllja1ZqY0VOblpucEtkbUUwZFU5elRXTTJZMHczZVdodlZXeEVVR1JoUVEiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&next_page_token=eyJmYyI6IkVvd0ZDc3dFUVVwSE9VcHJUa1ZqWldGYWJrNVlOVXhNWjFkVk9YVTVTRWw2WTIxV05scExkMVZqVVZsbFFURTNSMFpXUVhWV1N6SlNjRlF6TnpNMU9FOXJUWGhqWjNCSk5WOUZZMlpyUm0xaVdFUmtUMlUwZDJweVlWSkVObnBhTjFaSlZFTXljWEpuY1RsM09GWnNPR3BDYWs5QldEVm5kVzFvTW05UFZGTnRORVZtWDNWdFRGRTJaRFpGUkZoTWRGazRWekJOUzAxQmNHMVBja0pIZEc1WFgyaFZibFpQTkRkalJXOUVaWFZsVWpGTFZFVmhURXA1WVdkc2NIcGpPRWRMWjNOb09VRmpSWEpDYnpkTmNFZE5NbXRtT1d4cmRUVXRkVGhsTm5KNFIzaGhRbmRqTWtveFpsZFVWRlpxT1Vsc04zUlZiWEpTYUdJdE1sZzVhVlpQY0hSa1pWZHhhVmxsTVVwdFVWRk5PV3RmUkc5eFNHaFVZWGh0WjJsRFNUZGhjbVZZZEhOV09XWkNVamhOZHpsUllrbFphbkZHTWxwTFp6aHlVa0UwVEV4UVlYWjVkMDVZU1MxR1gzQkNiMjk1VTJWMmJubEJUV1l4TFdjMVZGZFlWME5MUm5Ca1NXcEpOVVJxTUdGek4xbzVZa05uWDFjemFrRlRSM3BHUjFKTmRXMTZTakEwWWw5cFNtMWtWbVJmVVhCRlNuQkNiRm8yUVVkalMwRXlWVkpCYm1WV1luVmFjWEJFVGtkSU1qaGphSFY1WVRNM1JITTVlbU5tTVZaVFVFd3lTVmxzYTFoR1RuTnhibTFEVEd0NmJGQlpVbkZqVjFSck5FNVRkR1ZTYldRM1ZYaGhibTg0U2toalZrbDJValJ4YWtOc1ptMTNaRjkwUmpaWFp6UmtNbFJMVlRjNGJWWm9NMGRMUW1aUFpYQkVhMTlUYjJZNVowaENaR3R0Y1dRemFtd3plSFZ2ZVVGVWREWnVNVTVaY2pBNVdURkdkVzUzYXpKR1VVMVBVVW8wUkZGb01UaGtlV2RJVmxCakVoZE1VVTlHV2paUE9FeGpObkkxVG05UWNuTjJUbk5SU1JvaVFVWllja1ZqY0VOblpucEtkbUUwZFU5elRXTTJZMHczZVdodlZXeEVVR1JoUVEiLCJmY3YiOiIzIn0%3D&q=Android+developer"
+    }
+}

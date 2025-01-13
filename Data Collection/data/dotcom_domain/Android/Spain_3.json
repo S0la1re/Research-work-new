@@ -1,0 +1,359 @@
+{
+    "search_metadata": {
+        "id": "678502fd3858299e8b0afdc6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2183d1bf02f05250/678502fd3858299e8b0afdc6.json",
+        "created_at": "2025-01-13 12:11:41 UTC",
+        "processed_at": "2025-01-13 12:11:41 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIFU3BhaW4&udm=8&fc=EuICCqICQUpHOUprTzZJOFJEbUtfVEZSSDFlZnpHVkhPSG0wVG5HRE5YZUM2SFZ1Yk0yVUdGS0luSmNUdFZpdE4ySzk1YUhSUWF0MWliSmxYYnltSHVFOXJ3NzhnUXgzcldpaU00ZGk3STloWmRNeEtrM0pIaXlUN29mdnpwTkRPcHNQZzhBUy10MG5CQnBTMUFCVDhJYlJKdEE0YnhvWFhPYjZkTW13LWlGeEZESnFVNWxVX1FzTkctWGhCUGJuY1l3WXNndXFBUXRfbHNXYnZaOTlnRTNyN0RKVk84V2V6QzZKWWk0eWNxNFFXakNZUERZeDZXQzMzX3BlQTl0N1M0THhPTlpzaVdJb2w4RmpST3VtTzZrVHFrMFd1X250eXdYMWhIQ3cSF19BS0ZaNUR2SWJyQmtQSVB2S1RPa1FnGiJBRlhyRWNwRnRrc18xMVI3bWYzRUg4R2hKYklrT2RtLW1R&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/2183d1bf02f05250/678502fd3858299e8b0afdc6.html",
+        "prettify_html_file": "https://serpapi.com/searches/2183d1bf02f05250/678502fd3858299e8b0afdc6.prettify",
+        "total_time_taken": 0.68
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Spain",
+        "location_used": "Spain",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUelpKT0ZKRWJVdGZWRVpTU0RGbFpucEhWa2hQU0cwd1ZHNUhSRTVZWlVNMlNGWjFZazB5VlVkR1MwbHVTbU5VZEZacGRFNHlTemsxWVVoU1VXRjBNV2xpU214WVlubHRTSFZGT1hKM056aG5VWGd6Y2xkcGFVMDBaR2szU1Rsb1dtUk5lRXRyTTBwSWFYbFVOMjltZG5wd1RrUlBjSE5RWnpoQlV5MTBNRzVDUW5CVE1VRkNWRGhKWWxKS2RFRTBZbmh2V0ZoUFlqWmtUVzEzTFdsR2VFWkVTbkZWTld4VlgxRnpUa2N0V0doQ1VHSnVZMWwzV1hObmRYRkJVWFJmYkhOWFluWmFPVGxuUlROeU4wUktWazg0VjJWNlF6WktXV2swZVdOeE5GRlhha05aVUVSWmVEWlhRek16WDNCbFFUbDBOMU0wVEhoUFRscHphVmRKYjJ3NFJtcFNUM1Z0VHpaclZIRnJNRmQxWDI1MGVYZFlNV2hJUTNjU0YxOUJTMFphTlVSMlNXSnlRbXRRU1ZCMlMxUlBhMUZuR2lKQlJsaHlSV053Um5ScmMxOHhNVkkzYldZelJVZzRSMmhLWWtsclQyUnRMVzFSIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "IDB Mobile Technology",
+            "location": "Marbella, Spain",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=8A2fY6cfJ0tJ04JJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43FtFGBBedlIIodNK9JOmRRM67kAtSP8M_Ft_wmu-iaU88FUkT9PhGkowFNnATB4q2-AjCcBEJhMtjrDXrwRhV6oJWW5PvvLyMMDqZzVOc_hs12oKZbMVxt9_OXeawaq_9GQZxiRAe6CMLSfhAYhhscUhk13DPNvEPTFqJ75QAAAA&shmds=v1_AUFQtON-sjSq72lrtkGryFfLA1upzQiKReuYXqjfnYKagj5k0w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8A2fY6cfJ0tJ04JJAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "JOIN OUR TEAM OF MARKETING AND IT EXPERTS IN MARBELLA APPLY NOW TO BE A PART OF OUR VISION!\n\nAndroid Developer\n\nOur company is seeking an experienced Android Developer to join our team. The successful candidate will have at least two years of experience with Android Studio and Java or Kotlin. You should also possess extensive knowledge of everything related to the native SDK, including Activities, Fragments, Views, life cycles, layouts, etc. Additionally, the candidate should have experience with data synchronization with the server through REST API and use of some of the REST API libraries/frameworks, such as Retrofit, Volley, etc.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://es.indeed.com/viewjob?jk=a304bd7a4b98bb38&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.es/job-listing/android-developer-idb-mobile-technology-JV_IC2485334_KO0,17_KE18,39.htm?jl=1008663807742&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://es.jooble.org/jdp/-6408521394641929470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-3144-3ccdb5d9596f4eb254831b64b23cf3dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/android-developer-marbella-idb-mobile-technolog-8bcba0e9e1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/es-marbella-android-developer-idb-mobile-technology-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IklEQiBNb2JpbGUgVGVjaG5vbG9neSIsImFkZHJlc3NfY2l0eSI6Ik1hcmJlbGxhLCBTcGFpbiIsImh0aWRvY2lkIjoiOEEyZlk2Y2ZKMHRKMDRKSkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        },
+        {
+            "title": "Android developer (remote within Spain)",
+            "company_name": "Plexus",
+            "location": "Bálsoma, Municipality of Santiago de Compostela, Spain",
+            "via": "SimplyHired",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=sdtwaIBhHqAf-psWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x2OQQrCQAwA8eoTPOWooq0IXhSE6kEQBMEHSNrGNrLdLJuo9Tn-RPBjVi9zGpjpv3v9debLKFxCSXdyEijCMFIjRvBgq9nDKSD7EUxhLzkoYSxqEA87kcrRYFWbBV2mqapLKjU0LpJCmlQ85dKmV8n1h7PWGCk4NDrPF7M2Cb4aZ0dH7U2hq2w-L6fS4AQON88FB3RsT5ALnNAbYyXdIWylCaJGrvP-X1_Zd789wwAAAA&shmds=v1_AUFQtONhBubFo93QTwLKcMimnqVaOR05zy39aybA3-r2ByHn-A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=sdtwaIBhHqAf-psWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda83941662ed18e946c4b5d6e7fad28768248986282eca36095392.gif",
+            "extensions": [
+                "10 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "HOME | ANDROID DEVELOPER (REMOTE WITHIN SPAIN)\n\nAndroid developer (remote within Spain)\n\nCompartir en:",
+            "apply_options": [
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.es/job/TxQV8B70witZ4z1cSMA04OLEz_bDHeivOrt9_I4RDEYtkmKuWp1QTw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciAocmVtb3RlIHdpdGhpbiBTcGFpbikiLCJjb21wYW55X25hbWUiOiJQbGV4dXMiLCJhZGRyZXNzX2NpdHkiOiJCw6Fsc29tYSwgTXVuaWNpcGFsaXR5IG9mIFNhbnRpYWdvIGRlIENvbXBvc3RlbGEsIFNwYWluIiwiaHRpZG9jaWQiOiJzZHR3YUlCaEhxQWYtcHNXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "TheWordLab.co",
+            "location": "Madrid, Spain",
+            "via": "Jobs At Luzia - Personio",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=DZd0MjtCA8tlG_7WAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQoCMQwAUFz9BAfJLNqK4KKTgwii0wmOR3sNbeRMStLhfsJ_Vpe3vflnNncdMonCiZMKJThzJkZU2MBVIhgGHQoIw0Ukj7g4ltaqHbw3G122FhoNbpC3F8Yok39JtD-9laBYx9Cw3-23k6ucV8tHwadouoX4O0AM95CU0hq6Goi_6_bGfpAAAAA&shmds=v1_AUFQtOMyUf3KTDqwWDWfMksy8huJVqX7YP_o1WMS98b1S4N53g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=DZd0MjtCA8tlG_7WAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Job Description\n\nAbout Us:\n\nBacked by top-tier Silicon Valley Investors (Kholsa Ventures and A*), Luzia launched in April 2023 initially designed as a personal assistant on WhatsApp. By making AI accessible on WhatsApp, we’ve grown rapidly and have experienced great success; capturing a unique audience of GenZ users based in LATAM. In our first 18 months, Luzia has become the fastest Spanish consumer-focused company to reach 1M daily active users worldwide.We are constantly evolving and working on improving our app to deliver best-in-class user experience focusing on education and companionship for GenZ - helping them learn, connect and grow.\n\nWe are seeking talented Mobile Developers with expertise in Kotlin for Android to join our growing team! Our intelligent personal assistant, leveraging the latest advancements in Language Learning Models (LLMs), already serves over 50 million users worldwide. Your role will make our native application the leading mobile Personal Intelligent Assistant platform in Latam, ensuring an exceptional user experience.\nResponsibilities:\n• Evolve Luzia's native applications on the Android platforms to become the leading AI platform in Latam.\n• Collaborate with cross-functional teams to integrate new features that utilize advancements in LLMs.\n• Ensure optimization and efficiency of the applications across various devices.\n• Troubleshoot technical issues and bugs to ensure a smooth user experience.\n• Participate in UI/UX design processes to ensure the applications are intuitive and accessible.\n\nRequirements:\n• Bachelor's degree in Computer Science, Software Engineering, or related fields.\n• Solid experience in Android development using Kotlin and Jetpack Compose.\n• Focus on consumer applications, simplicity and performance.\n• Experience working with APIs, databases, and cloud storage.\n• Ability to work in an agile environment and adapt quickly to changes.\n• Understanding of LLMs and their application on user facing products is a plus.\n• Proficiency in English. Spanish is a plus.\n\nBenefits:\n• Be part of an innovative project in the field of artificial intelligence.\n• Opportunities for growth and professional development in cutting-edge technologies.\n• Competitive salary and attractive benefits package.\n• Flexible, inclusive, and collaborative work culture.\n\nRequirements",
+            "apply_options": [
+                {
+                    "title": "Jobs At Luzia - Personio",
+                    "link": "https://thewordlab-co.jobs.personio.com/job/1851886?language=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/senior-android-engineer-at-luzia-4110247754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/senior-android-engineer-madrid-thewordlab-co-eacadc4544/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://es.jooble.org/jdp/8715317661630246908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/es/job/senior-android-engineer--madrid--eca652ca433304fd37edc50e1a60e388d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-2809-69baf2e5ec211340550bc126e8c022ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://www.sercanto.es/detail/a/administrativo-comercial-ingles-c2-murcia_murcia_304958347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/es-madrid-senior-android-engineer-thewordlab-co-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlRoZVdvcmRMYWIuY28iLCJhZGRyZXNzX2NpdHkiOiJNYWRyaWQsIFNwYWluIiwiaHRpZG9jaWQiOiJEWmQwTWp0Q0E4dGxHXzdXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Senior Software Engineer, Android",
+            "company_name": "Bitpanda",
+            "location": "Barcelona, Spain",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=oUvXkkls2gQG4s4GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMwQrCMAwAULzuE8RDzjJbEQTRkwMRvO4DRrbFLlKT0hTcj_i_zss7vuq7qk4tCWuGVp_lg5ngJoGFKNdwlTErj7CDh_ZghHmYQAXuqiHS-jKVkuzsvVl0wQoWHtygb69Cvc7-pb396Wxa3hSxUHc47meXJGw3DZeEMiKwQLPMFFWwhjYhyw8hk5eQmAAAAA&shmds=v1_AUFQtOMg2-aF5qPrI6woGLoY5YUkyw2j4orRRdE5EwyscUmT_Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=oUvXkkls2gQG4s4GAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Who we are\n\nWe simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 4 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing.\n\nHeadquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go!\nYour mission As a Senior Android Developer at Bitpanda, you will work on the development of our native Android app infrastructure as part of a core mobile platform team. You will be responsible for shaping the architecture of our Android application by driving key initiatives to ensure its quality, scalability, and resilience.\n\nWhat you'll do• Design and maintain the Android app architecture to ensure a robust foundation.\n• Conduct code reviews to uphold consistency and quality across the codebase.\n• Establish best practices, document guidelines, and mentor fellow Android developers.\n• Communicate effectively and work independently to support team goals.\n• Build and enhance modules and developer tools that empower the Android team to deliver high-quality code efficiently\n\nWho you are• Excellent knowledge of Kotlin, Coroutines, Hilt and Retrofit.\n• Proficient in architecture patterns such as MVVM\n• Experience in managing and publishing Android applications on Google Play in a professional environment.\n• Solid knowledge of UI testing frameworks like Espresso and UI Automator\n• Good understanding of CI/CD pipelines - experience with GitLab CI is a plus\n\nWhat’s in it for you\n\n• We're proud of our flexible working model that includes 2 days (minimum) working from the local Hub, plus 60 Work From Anywhere days annually\n• Total compensation package including participation in our Bitpanda stock option plan\n• Competitive benefits programs and policies shaped by our flexibility-first philosophy\n• Exclusive premiums when trading on Bitpanda\n• Company-wide and team events — both in-person and virtually!\n• Bitpanda swag to keep you living the brand\n\nAnd, above all, the opportunity to learn and grow as part of Bitpanda’s incredible journey towards being Europe’s future #1 investment platform.\n\nBitpanda is committed to fostering a fair and equal environment based on trust and mutual respect. We believe that a diverse and inclusive workplace is paramount to our success and we are committed to building a team that represents a wide variety of backgrounds, perspectives, and skills.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-software-engineer-android-bitpanda-2-6004520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Companies | Jump Capital Job Board - Jump Capital",
+                    "link": "https://jobs.jumpcap.com/companies/bitpanda/jobs/42522729-senior-software-engineer-android?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJCaXRwYW5kYSIsImFkZHJlc3NfY2l0eSI6IkJhcmNlbG9uYSwgU3BhaW4iLCJodGlkb2NpZCI6Im9Vdlhra2xzMmdRRzRzNEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCJ9"
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Evpassport",
+            "location": "El Masnou, Spain",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=O-SHyo808bU9RGn2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEwQrCMAwAULzuEzxIzqKtCF70JDgEwdM-YKRd2Co1CU0d-wq_WXyH13xXje-IkxS48lAkDXCjmbIoFdjDQwIYYYkTCMNdZMy0vky1qp29N8tutIo1RRfl7YUpyOJfEuxfbxMW0oyV-uPpsDjlcbtpZ0UzlVIhMbQZnmgsnx10iol_XOP2L5EAAAA&shmds=v1_AUFQtOMGuzvugOXFquFDGspZUMHVzSHUtz3JRvnSrZEbsDwEOw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=O-SHyo808bU9RGn2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda8394ea7825429ee229aa62793c95eee1b55c89e352e6ddb9b8b6.gif",
+            "extensions": [
+                "8 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About EVPassport:\n\nEVPassport is the technological evolution of EV charging software and hardware for forward-thinking companies around the world who place high value on the satisfaction of their customers. Developed with a deep understanding of Enterprise SaaS, our team establishes solutions best fit for your business needs.\n\nWe operate in the United States, Canada, and Mexico and we offer a leading end-to-end EV Charging solution to enterprise businesses.\n\nEVPassport is changing the EV Charging experience, and we want you to help build it.\n\nYour job opportunity:\n\nJoin our dynamic team and lead the creation of innovative, user-centric Android applications that redefine industry standards. As a Senior Android Developer , you will be the project lead and play a pivotal role in shaping the future of our cutting-edge projects, leveraging your expertise to deliver seamless and captivating user experiences.\n\nYou will:\n• Define the architecture for the Android applications.\n• Design, build, and maintain high performance, reusable and reliable Kotlin/Java code.\n• Ensure the best possible performance, quality, and responsiveness of the application.\n• Cooperate with back-end developers in building the RESTful API.\n• Translate designs and wireframes into high quality code.\n• Work with the latest technologies and methodologies.\nRequirements:\n• 4+ years experience developing apps for the Android platform.\n• Knowledge and experience in Kotlin.\n• Familiarity with RESTful APIs to connect Android applications to back-end services.\n• Strong knowledge of Android UI design principles, patterns, and best practices.\n• Knowledge of the open-source Android ecosystem and the libraries available for common tasks (Arch components, Retrofit, Ok Room, Firebase).\n• Proficient understanding of code versioning tools, such as Git.\n• Solid understanding of the full mobile development life cycle.\n• Up-to-date with the latest Android trends, techniques and technologies.\n• Understanding of SCRUM development process.\n• Passionate about mobile and utilizing cutting-edge technologies.\n• English / Spanish (both high level)\n\nOur Values:\n• Customer Obsessed\n• Trust by Default\n• Own the Outcome\n• Growth Mindset\n• Anything is Possible\n• Practice Kindness\nOur Benefits:\n• Health Care Plan (Medical, Dental & Vision)\n• Paid Time Off (Vacation, Sick & Public Holidays)\n• Hybrid working model (own your time)\n• Stock Option Plan\n\nApply now if you thrive in an environment that grants you the autonomy to explore and build solutions.\n\nFor additional information on EVPassport, please visit\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://es.jooble.org/jdp/-1967596433293520431?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-3144-c2a34270315ca379d6534fa2521c305f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/senior-android-developer-el-masnou-evpassport-36-2610244/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/es-el-masnou-senior-android-developer-evpassport-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJFdnBhc3Nwb3J0IiwiYWRkcmVzc19jaXR5IjoiRWwgTWFzbm91LCBTcGFpbiIsImh0aWRvY2lkIjoiTy1TSHlvODA4YlU5UkduMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Óscala",
+            "location": "Valencia, Spain",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=bF8_Bbcn5L5p-2sSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uFk1EcNFJEATXgmu5pEd6Eu9CLki_wdVP8sfEN7zuver8QMJa4SxTVZ7gQi_KWqjCFm4awAhrnEEFrqopU3-aWyt29N4su2QNG0cX9elVKOjiHxrs32gzVioZG437w25xRdK6_34sYkZggTtmksi4gaEgyw-8Vh2fjQAAAA&shmds=v1_AUFQtONYiv4Ks5Jby6palYe3XBll1GPzW6nks4FvZH5R5qptTg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=bF8_Bbcn5L5p-2sSAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "SENIOR ANDROID DEVELOPER\n\nAbout our client\n\nThey have been around since 2004 and have been part of a global player in the gaming industry since 2020. This global player develops, publishes, and distributes games for more than 200 million monthly active users across mobile, social, and online platforms.\n\nTheir Android team is growing and now we are looking for a Senior Android Developer to join our Óscala team, hybrid from our office in Valencia.\n\nWhat will you be doing?\n\nAs an Android Developer, you will work together in multifunctional teams to develop OSM's Android app. You do maintenance, develop new features, fix bugs, and release them to our users.\n\nYou actively collaborate with your team members and your responsibilities include doing code checks on your team members' work. You are strong in translating creative designs into technically sound solutions. You are always up to date with the latest developments in the field of App development and you are happy to share this knowledge with your colleagues.\n\nYou enjoy actively contributing to the content of the scrum meetings: daily scrum, retro, planning, refinement, and review.\n\nWhat we offer:\n• Competitive salary (35-55K)\n• Lots of training to develop your skills further\n• Hybrid Work Model, flexible working hours combined with remote work\n• Private Health Insurance fully paid by us\n• English/Spanish classes\n• Training budget 500€ per year and 700€ for referrals\n• Nice office in the city center of Valencia\n• Diverse and international company culture\n\nWhat we’re looking for:\n• 5 + years of experience in software development and experience in large complex projects (preferably in a game studio)\n• You are excellent with Kotlin or Java\n• Are hands-on, solution-oriented, proactive, and analytical\n• Work in a structured way and with a well thought-out architecture\n• Are aware of the latest possibilities within Android and know how to translate these into practice\n• Willingness to learn and the will to grow, professionally and personally\n• Affinity with football and/or gaming is a bonus",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://es.indeed.com/viewjob?jk=0da50bad0517dd4c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Óscala - Recruitee",
+                    "link": "https://oscalabv.recruitee.com/o/senior-android-developer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.es/job/1-MGC11Mx7UcELQXvWJwk8x7nV5FEa7ca0T7_uL0dJhLZfGGgurxTw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-3065-fd4fbb542f36b61ff324526c93e26c25?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Worksinit",
+                    "link": "https://worksinit.com/empleos/java/comunidad-valenciana/senior-java-fullstack-develope-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://www.sercanto.es/detail/a/senior-developer_valencia_62859397?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiLDk3NjYWxhIiwiYWRkcmVzc19jaXR5IjoiVmFsZW5jaWEsIFNwYWluIiwiaHRpZG9jaWQiOiJiRjhfQmJjbjVMNXAtMnNTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "(Pj-546) | Android Developer",
+            "company_name": "Ares Consultores",
+            "location": "Seville, Spain",
+            "via": "Trabajo.org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=D-4hteqNk9It9wwLAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGwQqCQBAAULr6CZ2GThXpRmWHOklB0CnwA2TVQVemmWVnEw99R98bXh4v-S2S4_o1pPnpvIEvFNwGcS3ccUQSjwFSeEoNijY0PQjDQ6QjXF77GL1ejFGlrNNoo2uyRt5GGGuZzCC1zlTa24CebMTqkO-nzHO3XRUBFW7C-qEo8x1DiaMjwh2U3jr-A2Xx02yZAAAA&shmds=v1_AUFQtONqj5tUWOvf29lpmKLm_n3xeLYIPhJu_aSyaAaK1S7csA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=D-4hteqNk9It9wwLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda8394251cbad48811f2e16e812e55613ab1617f17d92c52b11051.gif",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": ".Company Description We're the world's leading sports technology company, at the intersection between sports, media, and betting.\nMore than 1,700 sports federations, media outlets, betting operators, and consumer platforms across 120 countries rely on our know-how and technology to boost their business.\nJob Description Are you ready to take your career to the next level by helping us build a product that millions of users use daily?\nWe support more than 100K transactions per second combined, and we are working for much more because we aim to be one of the top three e-gaming and betting software development companies recognised worldwide for adding the most value to its partners.\nFor this reason, we are looking for software engineers who are enthusiastic about building modern, resilient, and scalable applications.\nWe need our engineers to be versatile, capable of mentoring, and enthusiastic about taking on new challenges as we continue to push technology forward.\nWe are product-oriented engineers with a growth mindset.\nOur products need to handle data at a vast scale and extend well beyond betting and gaming.\nWe are looking for engineers who bring fresh ideas from all areas: distributed computing, large-scale system design, networking, data processing & storage, security, UX/UI design, and mobile; the list goes on and grows every day.\nWe are curious problem solvers; we collaborate, communicate, share knowledge and technical ideas, and thrive together.\nWe give you autonomy over the software you build and offer you the freedom to choose the right tools for the job.\nOVERVIEW As one of the Android developers in Sportradar's MSS Unit, your responsibility will be to develop Android Mobile applications with superior UX for sports fans worldwide.\nTHE CHALLENGE Develop state-of-the-art Android mobile applications leveraging Sportradar's data.\nUse the newest development principles and frameworks recommended.\nCooperate with designers, testers, and other developers to meet the required goals.\nYOUR PROFILE You have at least two years of experience with native Android development.\nYou understand development standards and concepts.\nYou understand Android development concepts and know how to use Android SDK.\nYou are familiar with Java and Kotlin.\nYou are aware that unit tests make your life easier in the long term.\nYou are always on the lookout for new technologies and are eager to try them out.\nYou are fluent in English.\nOUR OFFER A collaborative environment with colleagues from all over the world.\nAbility to shape your own workday and career via a clearly defined professional and personal development plan.\nOpportunity to work with the senior leadership team and develop yourself within an inspiring and fast-growing company.\nVibrant and inclusive community, including Women in Tech and Pride groups which welcome all participants.\nHybrid work model.\nOffice with several additional benefits",
+            "apply_options": [
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://es.trabajo.org/oferta-2809-6124bf8369ad0c844a85deea77cdea1a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini | Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/-pj-546-android-developer-sevilla-ares-consultores-36-2713574/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiIoUGotNTQ2KSB8IEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQXJlcyBDb25zdWx0b3JlcyIsImFkZHJlc3NfY2l0eSI6IlNldmlsbGUsIFNwYWluIiwiaHRpZG9jaWQiOiJELTRodGVxTms5SXQ5d3dMQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQifQ=="
+        },
+        {
+            "title": "Senior Android Developer - Madrid",
+            "company_name": "Profile Software Services",
+            "location": "Las Rozas de Madrid, Spain",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=diKFVjfj0dFOA20fAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2OQQrCMBAA8doneNqzaCOCKHoSBEEUxDygpMm2jcRs2A21-CqfaAUvc5i5TPGZFFuN0RPDITom7-CIPQZKyLCAq3E8qgWcqQZBw7YDinAiagNO913OSXZKiYSylWyyt6Wlp6KINQ3qQbX8UElnGFMwGavVejmUKbazzY2p8QFBU5NfYweN3HuLAj7CxQjc6T3S4f9iDjoZH7_RgZbUswAAAA&shmds=v1_AUFQtOPu8nP9syfb7QsJ9f6N5EjhJG1EfCKQlwJUrSGCM-QaHw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=diKFVjfj0dFOA20fAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda8394e741ca24bf1c5c4fe808bce0e93520a68789b497c27b60c9.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "¿Quieres formar parte de nuestro equipo de Profile?\n\nDesde Profile nos encontramos en búsqueda de un/a Senior Android Developer con al menos 5 años de experiencia para participar dentro del equipo de uno de nuestros clientes del sector alimentación, se trata de una posición híbrida (4 días teletrabajo / 1 día presencial en Las Rozas).\n\nCon ilusión es como se cambian las cosas, y queremos contribuir a un futuro mejor gracias a la tecnología. Para conseguirlo no necesitamos héroes ni súper talentos, sino personas implicadas, motivadas, con muchas ganas de trabajar en equipo y de crecer dentro de este proyecto común que formamos todos/as.\n\n¿Qué necesitamos?\n\nImprescindible:\n• Al menos 5 años de experiencia con Android nativo con Kotlin.\n• Dagger\n• Hilt\n• Framework de cámara\n• Test unitarios\n• Utilización de room database.\n\nProyecto:\n\nCreación de la app con servicio de ecommerce integrado. Herramienta omnicanal.\n\nTe damos buenas razones para unirte a nuestro equipo:🤼\n• Garantizamos el equilibrio trabajo-vida. Disponemos de teletrabajo, flexibilidad horaria, jornada intensiva los viernes y meses de verano y mejoramos tus vacaciones por cada año que pases con nosotros/as.\n• Tendrás acceso a formación continua y planes de carrera personalizados. También, fomentamos tu aprendizaje continuo con formaciones internas y ayudas para certificarte.\n• Disponemos de retribución flexible. Puedes optimizar fiscalmente tu salario a través de cheques gourmet, seguro médico privado, tarjeta transporte, cheques guardería, formación, etc. Podrás beneficiarte de tantas ventajas como elijas y adaptarlas a tus necesidades.\n• Te daremos la mejor acogida con un proceso de onboarding en el que te sentirás como en casa desde el minuto uno y también recibirás tu welcome pack.\n• Reconocemos la aportación, implicación y compromiso de todos aquellos que ayudamos a crear un entorno de trabajo más agradable y profesional a través de nuestra plataforma de gamificación.\n• Celebramos tu cumpleaños regalándote un cheque regalo de Amazon y te acompañamos en los momentos más especiales de tu vida con muchas otras sorpresas.\n• Fomentamos un ambiente de trabajo en el que todos/as seamos felices. Nuestro equipo multidisciplinar de People & Culture trabaja día a día para aumentar el bienestar y la motivación de todas las personas que componemos Profile.\n• Trabajamos para que todos/as tengamos las mismas oportunidades, combatir discriminaciones y fomentar la conciliación de la vida personal, familiar y laboral.\n\n¡Conócenos!💛\n\nSi tienes ganas de crecer y trabajar en un buen ambiente de trabajo, de manera cómoda y productiva, y ¿por qué no?, divertida. Te ofrecemos un gran número de ventajas para facilitarte esta decisión. Contáctanos y ¡te lo contamos!\n\nConoce más sobre Profile en nuestra web www.profile.es",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://es.linkedin.com/jobs/view/senior-android-developer-madrid-at-profile-software-services-4072106262?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgLSBNYWRyaWQiLCJjb21wYW55X25hbWUiOiJQcm9maWxlIFNvZnR3YXJlIFNlcnZpY2VzIiwiYWRkcmVzc19jaXR5IjoiTGFzIFJvemFzIGRlIE1hZHJpZCwgU3BhaW4iLCJodGlkb2NpZCI6ImRpS0ZWamZqMGRGT0EyMGZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCJ9"
+        },
+        {
+            "title": "Ios / android developer",
+            "company_name": "Arelance",
+            "location": "Madrid, Spain",
+            "via": "Worksinit",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=r2jaocpUyg_bufbWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvD3TKLNqK4KKTkyg4-QFH2oZepZeUpMh9gp8tvuEN39Xg7mLgATmplASJPlSlkcIeHhLACDVOIAw3kVxpc5l6b3b23qy6bB17iS7K7IUpyOLfEuzfaBMqtYqdxuPpsLjGebu-KlXkSFAYnpi0pB28Ghb-AYT8vzGLAAAA&shmds=v1_AUFQtOPpgnq6vt2m-0Qqs6ACzyxnmNv0EU4hfWG9kwZ8qMDC6Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=r2jaocpUyg_bufbWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda8394fb58f7c674f9c3aa64da9f5b606e5ba669d6d78938538db2.gif",
+            "extensions": [
+                "€18K–€27K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "€18K–€27K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "En Arelance sabemos que las personas son el activo más importante dentro de una empresa y por tanto invertimos muchos esfuerzos en buscar los mejores profesionales para nuestros clientes, y en ofrecer a nuestros candidatos los mejores proyectos.\n\nActualmente estamos buscando incorporar desarrolladores/as Android y iOS para posición híbrida en zona norte de Madrid para el desarrollo de aplicaciones nativas.\n\nRequisitos:\n\n- Experiencia previa mínima de 1 año en proyectos profesionales en desarrollo de apps nativas Android-Kotlin / iOS - Swift.\n- Disponibilidad para incorporación en modalidad híbrida en Madrid.\n\n¿Cuáles serán tus funciones ?\n\n- Diseño e implementación de nuevos módulos de aplicaciones basadas ​​en los requisitos del producto\n- Mantener las bases de código existentes\n- Crear código y bibliotecas reutilizables\n- Integración de elementos de interfaces de usuario desarrollados por otros compañeros de equipo.\n\n¿Qué ofrecemos?\n\n- Contrato indefinido e incorporación a posición estable\n- Salario competitivo acorde con posición y experiencia aportada.\n- Formación para seguir creciendo profesionalmente\n\nSi te interesa esta oportunidad u otras opciones de desarrollo en proyectos de movilidad inscríbete a través del enlace y nos pondremos en contacto para darte más detalles.",
+            "apply_options": [
+                {
+                    "title": "Worksinit",
+                    "link": "https://worksinit.com/empleos/android/madrid/ios-android-developer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://www.sercanto.es/detail/a/uf001-analista-java_espana_9505328?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJb3MgLyBhbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFyZWxhbmNlIiwiYWRkcmVzc19jaXR5IjoiTWFkcmlkLCBTcGFpbiIsImh0aWRvY2lkIjoicjJqYW9jcFV5Z19idWZiV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        },
+        {
+            "title": "Staff Mobile Engineer",
+            "company_name": "Backmarket",
+            "location": "Barcelona, Spain",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=O1dvM9U_ucW5MDBdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CQ5ys9RGBBfdCiIITv0AuYRrGpvehdwN_Qd_Wl3e-JrPpmkHw3GEp_iUCW4cExNVOMBDPChhDRMIw10kZtpeJ7OiF-dUcxfV0FLogixOmLys7i1e_7x0wkolo9HrdD6uXeG43_UY5gXrTAaJof_dlIWxhaFg4i9GldJDjgAAAA&shmds=v1_AUFQtOMCrL0FwMY9BP25mXvklt0OOV71ExomqENQev0lVVSfNA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=O1dvM9U_ucW5MDBdAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502fd3858299e8b0afdc6/images/d95056ee1fda8394057a5b80106bb94a452969843c2cea9f5b5c163eecc1410d.gif",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "Back Market is the world’s leading refurbished electronics marketplace with a team of 650 people, powering operations in 21 countries (and counting!).\n\nNamed one of the World's Most Innovative Companies by Fast Company in 2019 and again in 2021, our mission is simple: empowering people to consume tech sustainably by offering folks a high quality, accessible, and more eco-friendly alternative to buying new electronics. Why? Refurbished tech helps lower our collective environmental impact. We have indeed contributed to avoid the production of more than 1,000,000 tons of CO2e worldwide since our launch in 2014.\n\nBe part of an exciting and growing international adventure that will change the way the world consumes tech.\n\nThe role & responsibilities\n\nBack Market is looking for a Staff Mobile Engineer to play a pivotal role in our strategic app-first approach set for the upcoming year. Our goal is to enhance user engagement by accelerating the development of innovative features and optimizing the overall app experience.\n\nAs a Staff Mobile Engineer, you will be at the forefront of our mobile engineering efforts. You will be instrumental in aligning, designing, and driving the architectural vision for our mobile platforms & app features.\n\nMobile engineers come from different cultures, backgrounds, and working environments. They are spread across Europe (Spain, France, Germany). Each squad is composed of pairs of iOS & Android engineers, working on the native language to build the best experience for our users.\n\nYou will collaborate with other product squads & stakeholders, along with the Mobile Core squad (Platform) that is providing the foundations & infrastructure for your developer experience on apps. That’s why we are also in favor of having mobile engineers from product squads contributing to technical & core projects from time to time. It’s not only user experience but tech excellence.\n\nYour expertise in native platforms (major iOS or Android), combined with your ability to make strategic decisions and communicate effectively across all levels of the organization, will be key to driving our mobile engineering success. You will assist in ensuring that tasks are appropriately delegated, decisions are made judiciously, and information flows transparently within the company.\nWhat you will do :\n• Lead the delivery of high-quality iOS & Android code (significant experience in one of these platforms), setting benchmarks for excellence and scalability, thereby propelling our app's capabilities and product cycle velocity.\n• Elevate the development of advanced app-first features, by emphasizing iOS & Android platforms innovation, bridges, and actively building expertise within the mobile engineering community at Back Market.\n• Collaborate with a cross-functional team of iOS & Android engineers, as well as peers from various disciplines (SRE, Backend, Frontend, CyberSec, Data, etc.), to foster a culture of technical excellence and shared knowledge.\n• Take ownership & anticipating significant technical projects, managing dependencies both internally and externally, to realize the engineering and product visions.\n• Drive the user experience forward by partnering with Product Managers & Designers, implementing intuitive UI animations, transitions, and accessibility features, while ensuring adherence to our Design System.\n• Architect robust and efficient code patterns, by leveraging the latest iOS & Android technologies, while maintaining a commitment to the app architecture principles, like modularity and dependency injection.\n• Advocate for efficient testing methodologies, from unit and UI tests to cutting-edge end-to-end practices, ensuring the highest quality and reliability of the features developed.\n• Monitor app performance meticulously, utilizing tools like Datadog and Crashlytics to track UI and core functionality, and implement strategies to prevent regressions.\n• Act as an internal spokesperson for the mobile engineering stack, advocating for technical initiatives internally, and representing Back Market at external tech events, conferences, and meetups, while also contributing to the broader tech community through articles and continuous learning\nMust have skills and experience\n• 7+ years of relevant and broad mobile engineering experience\n• Strong technical leadership with multiple teams, ability to build and drive mobile engineering vision & engineering excellence\n• Technical expertise in building and scaling native apps on iOS or Android (B2C), with high traffic, weekly features delivery & resolving complex issues\n• Experience successfully operating in a multi-module architecture\n• High knowledge and advocacy of Apple and Google UI guidelines, Swift & Kotlin languages, and mobile platforms’ frameworks.\n• Proven track record for mentoring and developing engineers\n• Good written and verbal communication skills with the ability to present complex technical information clearly and concisely to a variety of audiences.\nWHY SHOULD YOU JOIN US ?\n\n- A meaningful job: you will help avoid thousands of tons of electronic waste and fight against planned obsolescence. It counts!\n- A meaningful company: we became a mission-driven company in January 2022.\n- Be part of a worldwide growing company based in Europe, the USA and Asia to face great challenges : you will have the freedom to innovate and adopt new ideas!\n- Work alongside passionate experts: who will share their knowledge and help you develop and grow in your career.\n- Grow your career: with a flexible career path and a dedicated Learning & Development team. Back Market will help you evolve with personalized internal trainings and external handpicked providers from day 1!\n- Leadership Academy by Back Market:“be a coach not a dictator” is at the core of this program ! We train and enable all our leaders to support their team towards achieving goals. Be a manager at Back Market is an unique experience we take by heart.\n- An attractive salary, equity and a host of benefits including : Lunch voucher, health insurance, relocation package, paid time off for activism in your community, parental benefits, flexible hours, etc…\n- One Loving Tribe: you will have the opportunity to work in a fast-paced, open-minded and friendly environment.\n- Be part of one of our Employee Resource Groups createdaround shared identities, common backgrounds and/or special interests crafted to be a safe space and an expressive outlet.\n- Several internal events: The Monday Brief (weekly)/ The Somehands (monthly)/ The All Hands (annual).\n- We’re here to SABOTAGE: It’s our mantra. It keeps us focused on what we aspire to be: a little bit sneaky, always smart, kinda frugal and constantly conspiring to create maximum impact.\n\nBack Market is an Equal Opportunity Employer which means we pledge to not discriminate against employees based on race, color, religion, sex, national origin, age, disability or genetic information.. If reasonable accommodations are needed for the interview process, please do not hesitate to discuss this with the Talent Acquisition Team.\n\nBack Market is helping to address one of the biggest challenges of our time: climate change. We take this so seriously that we were awarded status as a “Société à Mission”, or company with a social mission, by the French government. We know we can’t tackle a global problem without a globally representative team so we are committed to embedding diversity, equity and inclusion principles in every aspect of our organization. But more importantly, being One Loving & Free Spirited Tribe is in our DNA as it is one of the five foundational values of our company since we got started way back in 2014. We are committed to hiring and supporting diverse teams of people from all backgrounds, experiences, and perspectives. We know our lofty goals cannot be reached unless everyone has a seat at the table along with the resources and opportunity to grow.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/staff-mobile-engineer-at-backmarket-897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBNb2JpbGUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJCYWNrbWFya2V0IiwiYWRkcmVzc19jaXR5IjoiQmFyY2Vsb25hLCBTcGFpbiIsImh0aWRvY2lkIjoiTzFkdk05VV91Y1c1TURCZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0In0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbmRWVmpJdFdtTTNUMU5NTmkxMlZWaExMWGQyYVRFM1ltczNkVmh6V0RJNGFUbFdiVEZsZVhaVGFURnJUa3RSV2poYWVUQmxPSFZ6Vm1aV2JuVldVSFp3ZFhka09GbzNTM0Z5Ykdaa05GRTRVRXhFZUV0WGRtUm9iMlYzV0c1Rk1FSXpjbXRsTTNrd1FXUmxSMFZQZW1VMk5pMVRWVEZKYjFsRlJXeHNNa0Y0ZGxWaFIzQXdURnBNT0V4ek5VTlZOWGx1U3pSalZsVkJhM0I0Y1Y5UFprMWFWMW8zV1ZZNWF6Vk9lWFU0VVdkcGVrTnNSVXRHWWtrMmMyZHJTME5HTldkNFZrTkZUMVZXTFZwdGVVaHBZMlpVVDFKa1ZrTkJTMkpuWTNwMmRpMXBiSEJrUlV4MkxXWlNXSE5RYlRCb1dYZ3daR2hZY1VkZmRtSk9XSFpVTUZwR1dsUlROekZRVG1KNmVXVllWMWs0Y0U4eFkzVmZORVZOWTJjU0YxOVJTMFphTjBOcVNHSllaVFZPYjFBM05uSjViMEUwR2lKQlJsaHlSV052Y1cxeE1WUnJiMGRHWTBwMWRWTmxibVZYUWpGM1ltaG1jR3gzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Spain&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbmRWVmpJdFdtTTNUMU5NTmkxMlZWaExMWGQyYVRFM1ltczNkVmh6V0RJNGFUbFdiVEZsZVhaVGFURnJUa3RSV2poYWVUQmxPSFZ6Vm1aV2JuVldVSFp3ZFhka09GbzNTM0Z5Ykdaa05GRTRVRXhFZUV0WGRtUm9iMlYzV0c1Rk1FSXpjbXRsTTNrd1FXUmxSMFZQZW1VMk5pMVRWVEZKYjFsRlJXeHNNa0Y0ZGxWaFIzQXdURnBNT0V4ek5VTlZOWGx1U3pSalZsVkJhM0I0Y1Y5UFprMWFWMW8zV1ZZNWF6Vk9lWFU0VVdkcGVrTnNSVXRHWWtrMmMyZHJTME5HTldkNFZrTkZUMVZXTFZwdGVVaHBZMlpVVDFKa1ZrTkJTMkpuWTNwMmRpMXBiSEJrUlV4MkxXWlNXSE5RYlRCb1dYZ3daR2hZY1VkZmRtSk9XSFpVTUZwR1dsUlROekZRVG1KNmVXVllWMWs0Y0U4eFkzVmZORVZOWTJjU0YxOVJTMFphTjBOcVNHSllaVFZPYjFBM05uSjViMEUwR2lKQlJsaHlSV052Y1cxeE1WUnJiMGRHWTBwMWRWTmxibVZYUWpGM1ltaG1jR3gzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}
