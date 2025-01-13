@@ -1,0 +1,286 @@
+{
+    "search_metadata": {
+        "id": "678505267f219ebc34de33a9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/36704951e73c2f44/678505267f219ebc34de33a9.json",
+        "created_at": "2025-01-13 12:20:54 UTC",
+        "processed_at": "2025-01-13 12:20:54 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICIIQnVsZ2FyaWE&udm=8&fc=EswCCowCQUpHOUprUDgybjNsckJhZWh1Y1lmMUdTMkhmd0tXdWZvTy1sbEZfMG5lWTVuT0JwaGJQTzU0dmlNeFJFYk9oV3oyN01Ob1NjQWxaUFQ1TXM2UGZ2bEpCRG1BazVSY290MVpQQ2dxWTB2NXVJb1U4WWM0YkYyTnRZT1g0eDRQOHNmTGxLc2liaWRwUjhlZi1qSmZQZlVZcFVQdFExOW1DU0lZQXVBeFhWTlNlWVg3eEoyYnBvLVJLWVEyeFI5aW5acUhCWEF4NWdhMHNfWkZRQndhenFxUnMwOGZTaGFFUjVZb0tjWVVkbjBiNVlHLW0zNmhId1J3SGtwZHV6aThnUmhjMWdjMGVHb1NoYxIXSlFXRlo0VElGcTMwMFBFUHFOcm00UVEaIkFGWHJFY3AtUGFTVDh5VnJrTklDTVlUNTVlMm5Rb1Vfd0E&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/36704951e73c2f44/678505267f219ebc34de33a9.html",
+        "prettify_html_file": "https://serpapi.com/searches/36704951e73c2f44/678505267f219ebc34de33a9.prettify",
+        "total_time_taken": 2.29
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Bulgaria",
+        "location_used": "Bulgaria",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVRGd5YmpOc2NrSmhaV2gxWTFsbU1VZFRNa2htZDB0WGRXWnZUeTFzYkVaZk1HNWxXVFZ1VDBKd2FHSlFUelUwZG1sTmVGSkZZazlvVjNveU4wMU9iMU5qUVd4YVVGUTFUWE0yVUdaMmJFcENSRzFCYXpWU1kyOTBNVnBRUTJkeFdUQjJOWFZKYjFVNFdXTTBZa1l5VG5SWlQxZzBlRFJRT0hObVRHeExjMmxpYVdSd1VqaGxaaTFxU21aUVpsVlpjRlZRZEZFeE9XMURVMGxaUVhWQmVGaFdUbE5sV1ZnM2VFb3lZbkJ2TFZKTFdWRXllRkk1YVc1YWNVaENXRUY0TldkaE1ITmZXa1pSUW5kaGVuRnhVbk13T0daVGFHRkZValZaYjB0aldWVmtiakJpTlZsSExXMHpObWhJZDFKM1NHdHdaSFY2YVRoblVtaGpNV2RqTUdWSGIxTm9ZeElYU2xGWFJsbzBWRWxHY1RNd01GQkZVSEZPY20wMFVWRWFJa0ZHV0hKRlkzQXRVR0ZUVkRoNVZuSnJUa2xEVFZsVU5UVmxNbTVSYjFWZmQwRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Senior IOS Engineer",
+            "company_name": "Yassir",
+            "location": "Sofia, Bulgaria (+9 others)",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=BGKZqEtR8akzxpGnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvD3TKfGgrgotugoguDjc5HWmJvUhNSlPhPsAPF9_wuu-i6wcS1grX-wBnSSxEFTZw0wBGWOMEKnBRTZlWx6m1YgfvzbJL1rBxdFHfXoWCzv6lwf6NNmGlkrHRuNtvZ1ck9csHmnEFFhj0ybiG0ycnrIw_eE2qhocAAAA&shmds=v1_AUFQtONVUhCRgEtihILPfVdfEoxHjPklPYRoG4WeoKPS6ZxKVw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=BGKZqEtR8akzxpGnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af92852300d0a48a4414c110519ccfe4a7fa3eff4dd3943f7e0c.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Yassir is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in 45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa. It is backed (~$200M in funding) by VCs from Silicon Valley, Europe and other parts of the world.\n\nWe offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.\n\nHelping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nAbout the role\n• We are looking for a senior iOS developer to join our tech hub in Berlin and support our growth and expansion. You will be part of the engineering team, working with a high-quality code base and the latest tools, where you will promote your skills to be an expert in complex frontend development in iOS (swift). Your primary focus will be the development of mobile applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure.\n\nAbout your role as a iOS mobile developer\n• Design and build mobile applications using iOS (swiftUI) platform.\n• Ensure the performance, quality, and responsiveness of applications\n• Collaborate with a team to define, design, and ship new features\n• Identify and correct bottlenecks and fix bugs\n• Help maintain code quality, organization, and automatization\n• Participate in brainstorming sessions and contribute ideas to our technology, algorithms and products.\n• Work with the engineering and design teams to understand end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution\n• Dive into difficult problems and successfully deliver results on schedule\n\nAbout your experience\n• Must have technical skills with at least 4 years of experience\n• Language: iOS (swift) native\n• Familiarity with cloud message APIs and push notification\n• Web architecture: Rest and restful APIs, micro-services\n• Version control: GIT\n• Nice to have technical skills (Strongly advised)\n• Containers: Docker, kubernetes\n• Caching, Redis server\n• Scaling, Web load balancing\n• Experience in a rapidly growing company in the mobility, on-demand or fintech space is a plus\n• BSc/MSc in Engineering, Computer Science or relevant field\n\nWhy you should join Yassir\n• 😎 You will be part of one of the first Algerian startups to go through the Y Combinator program and one of the fastest-growing tech companies in North Africa. We are current in +30 cities (Algeria, Tunisia, Morocco, Senegal, France and Germany)\n• 💸 Attractive salary and you even get a stake in the company\n• 🚉 Subsidized public transit pass\n• 🤙🏽Have a lasting impact on our company's culture\n• 🚀 Perfect timing with renowned investors to build something great\n• 📈 Extremely steep learning curve with own responsibility and intensive guidance\n• 💯 Make a real impact on the world by helping us bring affordable financial and on-demand services to millions of Africans\n\nAt Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.\n\nDon't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.\n\nWe look forward to receiving your application!\n\nBest of luck,\n\nYour Yassir TA Team",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/Yassir/f9e5b38e-2a2a-4444-96b1-eb637b7e8e14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/romania/job/full-time/others/senior-swift-ios-137377523?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ro.linkedin.com/jobs/view/ios-development-engineer-at-purequad-4122007067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiWWFzc2lyIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJCR0tacUV0Ujhha3p4cEduQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMTQrCMBBGcdsTiKtZCyYiutGd-AO6EOwByrQMSco0EzJp8UAe1Lr5Hu8tvuq7qJ41xSAZwquGC03EkijDBuqEMai31-h45lxuIzO8aZBCsz2kBSXMnQeJcBdxTKuTLyXp0VpVNk4LltCZTgYrkVr52F5a_U-jHjMlxkLN7rD9mBTdejlf6r7HCQ2NECKcR3aYA_4A8ls4aacAAAA&shmds=v1_AUFQtOMyepmH5wb8Q6PFxgBZKM7EwafTm8Nz5H7H4n-qxd7DZQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af92dd0dce848e5c0f4cce3d8006046ad13feaec213ee09b42f5.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiQnVsZ2FyaWEiLCJodGlkb2NpZCI6IkRZS2RuVGpvVXg1eWIyMDlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUW5Wc1oyRnlhV0UifQ=="
+        },
+        {
+            "title": "Senior Mobile Software Engineer",
+            "company_name": "TINQIN",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=d8CBstddoC-P1kjJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAyAYVz7BjplFu2JoINugkgFC6J7yZV4jZxJuZzYx_CRtcs_fn_xnRTbGwlrgot6jgQ3feQPJoKjBBaiBEs4qwcjTG0HKnBSDZFm-y7n3nbOmcUyWMbMbdnqy6mQ18E91duYxro_10fM1Kw3q6HsJcyn96q-VjWwjEPGBRzeMWBi_AGLZuQzkwAAAA&shmds=v1_AUFQtON2pm3OYRsoL4_fUInatUncxb3dDic0V7IJRPADp32x7w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=d8CBstddoC-P1kjJAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are TINQIN – Technology Expertise, Industry Knowledge, Quality Focus and Innovation Spirit!\n\nAs part of the Be Ys group, TINQIN was founded to challenge the status quo. We’re more than just a software company – we’re the driving force behind transformative solutions that shape the future of the insurance industry and beyond. While we may not be a household name, our cutting-edge technologies are already making waves, powering success stories across the globe.\n\nOur journey began with a simple yet bold vision: to harness the power of technology, industry expertise, and a relentless focus on quality to deliver unprecedented business value. Today, with a team of over 550 brilliant minds, we’re doing just that – pushing boundaries, solving complex problems, and helping our clients stay ahead of the curve.\n\nAs we continue to grow and innovate, we’re not just looking for employees, but rather searching for visionaries, creators, team players, and trailblazers ready to embark on a new challenge, Join us and let’s create the future of technology together!\n\nIn order to support the expansion of our business, we are currently looking for a Senior Mobile Software Engineer who will be responsible for our activities and will participate in building the first mobile team within TINQIN.\n\nEveryday tasks and Responsibilities:\n• Design, develop, and implement mobile applications for the insurance domain, for Android and/or iOS platforms\n• Work closely with designers, back-end developers, and other stakeholders to ensure that the applications meet business requirements and improve the overall customer experience\n• Write clean, efficient, and well-documented code using the native mobile ecosystems around Kotlin or Swift\n• Work closely with software architects to define solution architecture and diagrams\n• Optimize the applications for performance, usability, and security\n• Collaborate with cross-functional teams to troubleshoot and resolve issues related to mobile development\n• Stay up to date with industry trends and best practices in mobile development\n• Performs regular reviews on codes done by less experienced developers and offers feedback and suggestions for those codes\n• Communicate development progress with the project leaders\n• 5+ years as a mobile developer with one of the technologies – Kotlin or Swift\n• Proven experience in mobile development, preferably in the insurance services industry\n• Strong proficiency in mobile development ecosystems around Kotlin\n• Strong understanding of mobile development technologies, including mobile user interface design, mobile data storage, and mobile application architecture\n• Experience with mobile application development lifecycle, including development, testing, and deployment\n• Strong communication and collaboration skills to work effectively with cross-functional teams\n• Ability to prioritize tasks and manage time effectively in a fast-paced environment\n• Experience with React Native and/or Flutter is not mandatory, but will be considered an advantages-paced environment\n• Competitive remuneration package;\n• Dynamic and interesting work environment;\n• Opportunity to use cutting-edge technologies in real projects;\n• Collaboration with highly skilled and friendly colleagues;\n• Opportunity to learn and enhance your skills;\n• Additional corporate trainings, tech conferences tickets;\n• Annual employees performance check and reevaluation;\n• Team-building events;\n• Participation in charity and volunteer activities;\n• Life-work balance;\n• Social benefits – a monthly budget that includes:\n• Additional health insurance – Luxury package;\n• “Health with priority” medical insurance covering severe diseases;\n• Employee Assistance Program, including psychological, finance, and legal advice;\n• Flexible social benefits (food vouchers, fuel vouchers, sport card, and other options);\n• Extra days off for loyal employees (+1 additional day paid leave for each year of length of service in TINQIN (up to 5));\n• Office perks (coffee, soft drinks, fresh fruits, ice cream, sports, and relaxation area);\n• Remote/hybrid working model (employees can choose whether to work from the office or home);\n• Flexible working hours;\n• Referral program bonuses\n\nIf you believe that your profile meets the above requirements and you are interested in joining our team, please apply with your CV in English.\n\nAll applications will be treated with strict confidentiality. Only short listed candidates will be contacted.\n\nThe personal data you provide to us is processed by “TINQIN” AD ( acting as the Data Controller). This data is shared to and processed by the employees of TINQIN for the purposes of reviewing job applications, which is necessary in order to take steps prior into entering a contract with you.\n\nThe retention period for your data is 6 months unless you provide us with a consent to keep them longer. If you agree to store your data in our records longer than 6 months and to consider your CV for other openings as well, please fill the consent form: https://forms.office.com/e/CVZZmj9CzD?origin=lprLink\n\nYou have the right to obtain information about the processing of your personal data at any time.\nMore detailed information about the process can be found at Policy on the processing of personal data of job candidates - TINQIN » Insurance software solutions.\n\nIn addition, you have the right to correct, to block and to delete it in accordance with the legal regulations. To enforce your rights, you only need to contact our DPO : dpo@tinqin.com.\n\nRemark: If you request to block or to delete your data, your application can no longer be considered.",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/tinqin/j/60068D03FE/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIFNvZnR3YXJlIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVElOUUlOIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJkOENCc3RkZG9DLVAxa2pKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "Bica",
+            "location": "Sofia, Bulgaria",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=T1DhFECphlnPiN08AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P1-QHDKJoi2IrjodgiC4OQHHGmJbSQ2palym78uvuEN32F108BCcKYPiVZqsIWrBjDCFjNogYtqElqecu_Vjt6biUvWsXN0UV9eCwWd_VOD_ZssY6Mq2GnaH3azqyWtFyNHBC5w1wfjBsa3JGyMPxNQybmBAAAA&shmds=v1_AUFQtONr1hnDM_lZ59EaBt83dU21wb58QQaZGc22dEaDptfoUA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=T1DhFECphlnPiN08AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af92a90777c3b0054db67d50d10bdfa3e55299f47c8a710d2e4f.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our partner is a product company that creates a one-of-a-kind cloud-based product that helps businesses connect with each other instantly.\n\nWhat do we need?\n• Experience in native mobile development for iOS\n• Understanding of algorithms and data structures.\n• System and network programming experience is a plus - OS basics, processes, I/O.\n• Understanding of Windows and Unix-based OSes.\n• Knowledge of C/C++ development.\n\nWhat you'll do?\n• Design and develop extraordinary mobile app experience & build a better product.\n• Develop and deploy highly scalable and fault-tolerant mobile app CI/CD and release mechanism.\n• Reproduce and learn complex usage scenarios and analyze their problems.\n• Be part of the newly formed Mobile team.\n\nWhat's the offer?\n• Stock options and competitive compensation package.\n• Unlimited paid time off.\n• Monthly team buildings, events, and gatherings that help build strong bonds within the team.\n• Additional full-coverage health & dental package.\n• Budget for a benefit platform with different options to choose from.\n\nIf you consider yourself an ambitious person who wants to join a rewarding and challenging environment, please send your CV in English. Please mind that only shortlisted candidates will be contacted.\n\nGood luck!\n\nRecruitment license from National Agency of Employment № 1931.\nAll applications will be treated with strict confidentiality.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/mobile-developer-at-bica-551?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQmljYSIsImFkZHJlc3NfY2l0eSI6IlNvZmlhLCBCdWxnYXJpYSIsImh0aWRvY2lkIjoiVDFEaEZFQ3BobG5QaU4wOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "React Native Mobile Developer (Remote)",
+            "company_name": "IQVIA",
+            "location": "Sofia, Bulgaria",
+            "via": "USNLX Virtual Jobs - National Labor Exchange",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=EA6k0i3iraXDaLHjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BeJ0o4o2IrgoDoogFRSs4CqXcKaRNBeSs_RL_F51eeMrPoNiWxMagQuK6wjOrJ0nOFBHniMlGNfUstAE5nBiDZkwmQY4wJHZehptGpGY10rl7Eub5deY0nCrOJDmXr1Y5z-P3GCi6FHosVwt-jIGOx1W13u1Axfgxk-HM9i_vcXk8AubZMf8mQAAAA&shmds=v1_AUFQtOPL_Nbwro4fIQ78oPhlXm44MaBiH7LKKFB2e1uYAH5Oww&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=EA6k0i3iraXDaLHjAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Us at IQVIA!\n\nWe are looking for talented individuals to join our team and help us revolutionize patient care with our electronic clinical outcome assessment (eCOA) platform. Our fast, flexible, and proven solution enhances efficiencies, delivers real-time data, and sharpens insights, all while providing a superior patient experience.\n\nWho we’re looking for:\n\nYou will be part of a growing team of developers located across the world, focused on building new and modern software that’s positioned to disrupt the clinical trial space. In this remote role, you’ll be empowered and encouraged to think “outside the box” to develop innovative solutions to drive business and the industry forward. You believe that pushing yourself out of your comfort zone is the only way to grow. You love the idea of owning a product, from developing new mobile app features to scaling to meet market demands. Not only are you fluent with React Native, but you’re an expert with JavaScript/TypeScript.\n\nPosition overview:\n\nWe’re seeing immense growth in the industry, and our core focus is scaling our native application’s feature set. Bring your talent and drive to our team of passionate, creative, and innovative thinkers, focused on developing a sophisticated product that uses modern JavaScript. We have the support and resources of a large company but operate with a start-up culture. You’ll thrive in a fast-paced and agile environment, during which you see real-time results. As we work to rapidly expand our team, you’ll have the opportunity to grow your career in the direction that’s right for you.\n\nRESPONSIBILITIES:\n• Serve as critical development resource on cross platform mobile application\n• Work collaboratively and efficiently across functional teams in a fast-paced startup-like environment.\n• High standard of engineering quality through source control, code reviews, continuous integration, and unit tests.\n• Extend our platform to handle an expanding set of features.\n• Improve infrastructure and application development\n• Review and refactor legacy code\n• Provide input on the establishment of development best practices and standards for the organization\n\nSKILLS:\n• Expert in React Native, React, and Redux\n• Expert in JavaScript and TypeScript\n• Experience with SQL databases (SQLite/Postgres)\n• Experience with Swift, Objective-C, Java, and Kotlin are a plus\n• Experience with mobile application deployments (Android/iOS)\n• Experience with data/event streams (Amazon Kinesis/Apache Pulsar)\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com\n\nIQVIA is a world leader in using data, technology, advanced analytics, and expertise to help customers drive healthcare – and human health – forward. Together with the companies we serve, we are enabling a more modern, more effective and more efficient healthcare system, and creating breakthrough solutions that transform business and patient outcomes.\n\nTo get there, it takes diverse skills and a curiosity to explore new possibilities. No matter your role, everyone at IQVIA contributes to our shared goal of improving human health. Thank you for your interest in growing your career with us.\n\nEEO Minorities/Females/Protected Veterans/Disabled",
+            "apply_options": [
+                {
+                    "title": "USNLX Virtual Jobs - National Labor Exchange",
+                    "link": "https://virtualjobs.usnlx.com/sofia-bgr/react-native-mobile-developer-remote/E05D8443899A4B1CB4708554E35369C6/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "American Veteran Jobs",
+                    "link": "https://americanveteranjobs.com/sofia-bgr/react-native-mobile-developer-remote/E05D8443899A4B1CB4708554E35369C6/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBOYXRpdmUgTW9iaWxlIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IklRVklBIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJFQTZrMGkzaXJhWERhTEhqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Developer Support Engineer",
+            "company_name": "RevenueCat",
+            "location": "Anywhere",
+            "via": "Built In Toronto",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=h64GvhFeO7yrtKaVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQ7CMAxAYbH2AAxMnpFoAIkFNn6ExAgHqJzISlMFO4pd1CNwbMryhm95zXfR7K70oSyFKrzGUqQa3Dgmphk28BAPSlhDD8JwF4mZVqferOjROdXcRjW0FNogbydMXiY3iNd_Ou2xUslo1O0P26ktHNfL5_zjkS5okBjOY45YE_4AfFhX3IsAAAA&shmds=v1_AUFQtOPu3sTO5LqlWNqaW0p6EpaPijB1jtt2SVZ6oJgGZDVfDQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=h64GvhFeO7yrtKaVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af9255485d6065886b8eafb7bbe489449b57761cde32076e780f.gif",
+            "extensions": [
+                "18 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About us:\n\nRevenueCat makes building, analyzing, and growing mobile subscriptions easy. We launched as part of Y Combinator's summer 2018 batch and today are handling more than $4B of in-app purchases annually across thousands of apps.\n\nWe are a mission driven, remote-first company that is building the standard for mobile subscription infrastructure. Top apps like ChatGPT, VSCO, Notion, and ClassDojo count on RevenueCat to power their subscriptions at scale.\n\nOur 80 team members (and growing!) are located all over the world, from San Francisco to Madrid to Taipei. We're a close-knit, product-driven team, and we strive to live our core values: Customer Obsession, Always Be Shipping, Own It, and Balance.\n\nThe Role\n\nIf you’re looking to jumpstart your career in tech and have a direct impact on apps used by billions of end-users, the Developer Support Engineer (DSE) role at RevenueCat is a fantastic opportunity. This is one of the few entry-level positions we offer, and it has proven to be an incredible stepping stone—our current Support Lead, a Product Manager, and a Technical Account Manager each started out as DSEs.\n\nIn this role, you’ll help developers integrate the RevenueCat SDK into their apps, troubleshoot tricky edge cases, and unlock new possibilities in subscription monetization. You’ll provide hands-on support for some of the biggest apps in the world—imagine helping the teams behind ChatGPT, VSCO, PhotoRoom, Notion, and others get the best out of RevenueCat. You’ll be empowered to own the support experience, build out internal tools, and identify improvements that shape how developers everywhere use RevenueCat.\n\nIn 2024, our DSEs spoke at conferences in Berlin, Logroño, New York, London, and Tokyo. This is optional, but if you're interested, you can meet RevenueCat customers face to face, have fun working our booth, and share your knowledge with developers worldwide.\n\nWhat you’ll be responsible for\n• Supporting developers daily. You’ll debug issues, untangle complex code paths, and guide developers through onboarding so they can ship subscription features confidently.\n• Collaborating cross-functionally. You’ll partner closely with Engineering and Product to influence the developer experience—everything from our documentation to new features.\n• Building tooling and processes. You’ll craft or improve the internal apps and dashboards that make troubleshooting faster and easier, both for you and your teammates.\n• Driving user success. From investigating stack traces to clarifying best practices, you’ll ensure developers can move from “blocked” to “shipped” without missing a beat.\n\nWithin your first month, you’ll:\n• Deep-dive into the frustrations and roadblocks developers face, helping them get unblocked so they can launch their apps.\n• Familiarize yourself with our support tools and processes.\n• Propose and implement quick wins in our documentation and support articles to reduce common developer pitfalls.\n• Work alongside our engineering team to resolve complex issues and learn the ins and outs of subscription infrastructure.\n\nWithin your first 3 months, you’ll:\n• Spot opportunities for product improvements that will reduce developer friction.\n• Build out test apps and reproducible environments to tackle issues head-on.\n• Own onboarding and solution engineering for new developers using RevenueCat, providing a seamless start-to-finish experience.\n\nWithin your first 6 months, you’ll:\n• Identify recurring blockers and implement targeted improvements—both in our products and in your own support workflows.\n• Craft (and refine) internal dashboards and tooling that accelerate the DSE team’s efficiency.\n• Make meaningful, self-directed contributions to how we scale support for an ever-growing developer community.\n\nAfter 12 months, you’ll have:\n• Gained super-hero level intuition for diagnosing the root causes of even the trickiest tickets.\n• Led the charge on hiring, mentoring, and growing our support engineering team.\n• Found new ways to delight developers, turning frustrating subscription problems into smooth, joyful experiences.\n\nAbout you\n• You’re eager to learn and grow; this is one of the few entry-level positions at RevenueCat and has historically launched multiple careers within our company.\n• You have 2-3 years of experience in an engineering or technical role, or have built and shipped a mobile app that integrates RevenueCat.\n• You’re comfortable with either iOS (Swift / Objective-C) or Android (Java / Kotlin) and have a grasp of app development and release processes.\n• You can debug code with minimal info, diagnosing issues from cryptic logs or stack traces.\n• You thrive in an environment that requires creative problem-solving and a “get it done” mentality.\n• You have strong written and verbal communication skills, and you’re empathetic towards the developer journey.\n\nWhat you’ll need to be successful\n• Technical curiosity and a willingness to learn new tools and frameworks.\n• Resourcefulness in figuring out solutions when the path isn’t obvious.\n• Clear communication skills to translate complex issues into helpful, actionable steps.\n• Outcome-oriented mindset, ensuring your support leads to measurable developer success—fewer tickets, better documentation, and happier customers.\n• Collaboration and comfort with a fully remote, asynchronous setup using tools like Slack, Zoom, Linear, and Notion.\n\nWhat we offer:\n• $112,000 USD Salary regardless of your location\n• Competitive equity in a fast-growing, Series B startup backed by top tier investors including Y Combinator\n• 10 year window to exercise vested equity options\n• Fully remote work environment that promotes autonomy and flexibility\n• Suggested 4 to 5 weeks time off to recharge and focus on mental, physical, and emotional health\n• $2,000 USD to build your personal workspace\n• $1,000 USD annual stipend for your continuous learning and growth\n\nCurious about the interview process? Discover more in our blog post about how we hire and learn tips to help you succeed.",
+            "apply_options": [
+                {
+                    "title": "Built In Toronto",
+                    "link": "https://builtintoronto.com/job/developer-support-engineer/3641684?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgU3VwcG9ydCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlJldmVudWVDYXQiLCJhZGRyZXNzX2NpdHkiOiJCdWxnYXJpYSIsImh0aWRvY2lkIjoiaDY0R3ZoRmVPN3lydEthVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "React Native Mobile Developer",
+            "company_name": "IQVIA",
+            "location": "Anywhere",
+            "via": "LinkedIn Bulgaria",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=dDH5DHieJXpZrpd3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7BeJ0s2gjooudFEEqKKjgWi7hTCIxF3Kx9Cf8Z3V526s-o2p1JTQFzlh8T3Bi7QPBnnoKnCjDHI6sQQizccARDsw20KRxpSTZKCUSaivlt01t-KU4kuZBPVnLn04cZkoBC3XL9WKoU7TTcXu5t1vwEW788DiD3TtYzB6_vigP8ZAAAAA&shmds=v1_AUFQtOOTE70wlhtwSnyQ2bWLK1EGJlRts-y5ayfPNKKFpL513g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=dDH5DHieJXpZrpd3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af92a6faa707619a7afcf7eab427a6387e692b05b3fdd9071dfd.gif",
+            "extensions": [
+                "29 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Us at IQVIA!\n\nWe are looking for talented individuals to join our team and help us revolutionize patient care with our electronic clinical outcome assessment (eCOA) platform. Our fast, flexible, and proven solution enhances efficiencies, delivers real-time data, and sharpens insights, all while providing a superior patient experience.\n\nWho we’re looking for:\n\nYou will be part of a growing team of developers located across the world, focused on building new and modern software that’s positioned to disrupt the clinical trial space. In this remote role, you’ll be empowered and encouraged to think “outside the box” to develop innovative solutions to drive business and the industry forward. You believe that pushing yourself out of your comfort zone is the only way to grow. You love the idea of owning a product, from developing new mobile app features to scaling to meet market demands. Not only are you fluent with React Native, but you’re an expert with JavaScript/TypeScript.\n\nPosition overview:\n\nWe’re seeing immense growth in the industry, and our core focus is scaling our native application’s feature set. Bring your talent and drive to our team of passionate, creative, and innovative thinkers, focused on developing a sophisticated product that uses modern JavaScript. We have the support and resources of a large company but operate with a start-up culture. You’ll thrive in a fast-paced and agile environment, during which you see real-time results. As we work to rapidly expand our team, you’ll have the opportunity to grow your career in the direction that’s right for you.\n\nRESPONSIBILITIES:\n• Serve as critical development resource on cross platform mobile application\n• Work collaboratively and efficiently across functional teams in a fast-paced startup-like environment.\n• High standard of engineering quality through source control, code reviews, continuous integration, and unit tests.\n• Extend our platform to handle an expanding set of features.\n• Improve infrastructure and application development\n• Review and refactor legacy code\n• Provide input on the establishment of development best practices and standards for the organization\n\nSKILLS:\n• Expert in React Native, React, and Redux\n• Expert in JavaScript and TypeScript\n• Experience with SQL databases (SQLite/Postgres)\n• Experience with Swift, Objective-C, Java, and Kotlin are a plus\n• Experience with mobile application deployments (Android/iOS)\n• Experience with data/event streams (Amazon Kinesis/Apache Pulsar)\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/react-native-mobile-developer-at-iqvia-4101851550?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBOYXRpdmUgTW9iaWxlIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IklRVklBIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJkREg1REhpZUpYcFpycGQzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Middle/Senior Mobile Flutter Software Engineers",
+            "company_name": "IDT Corporation",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=T1xvtljJncd1ou0aAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMPQ7CMAxAYbH2CLB4RqJBSCyw8VMEElPZq6Q1aVCII9sVPQ8npSxve1_xnRXVPXRdRFNjCsRwJxciQhUHVWSo6akfywjn5ENCZIEV3MiBoOW2B0pwIfIR5_teNcvOGJFYelGroS1behtK6Gg0L3LyTyP95OVoFZvNdj2WOfnl4np6wJE4E0_fhIYEhyF6y8H-AOikKJKlAAAA&shmds=v1_AUFQtOMoyPvPkuoxRTcPW7g4rOZIWniX3SZHb2jfMcPVra8vaw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=T1xvtljJncd1ou0aAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af9264377691d49a2a785efe931bcd928e1d6d28c8443eae56b9.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe, Belarus, Poland, Kazakhstan\n\nWe are looking for experienced Middle/Senior Mobile Flutter Software Engineers to join our core product – BOSS Revolution.\n\nYou have a chance to work with a team of outstanding professionals on a challenging product.\n\nYou will never be bored—our team is dynamic, as are our products. Be ready to face thrilling professional challenges and use your strong hard and soft skills to solve them as a Team player.\n\nYour primary responsibility is end-to-end development and support of our user experience in our customer-facing apps.\n\nJoin us if you want to:\n• Have a unique work experience with a really strong engineering team!\n• Become a part of a multinational and cross-functional team.\n• Boost your career with a big international product company and have new growth opportunities.\n• Work on new innovative features and bug fixes in a Scrum Team.\n• Take responsibility for the full software development life-cycle.\n• Collaborate with business stakeholders and be a part of the product development team.\n• Demonstrate your technology-agnostic positive attitude with the ability to learn and desire to implement solutions using various technologies.\n• Work on high-performing, mission-critical, scalable, and resilient applications and services.\n• Drive aggressive technical debt reduction in close collaboration with developers and automation test engineers.\nJoin us, if you have:\n• Have around one year of Flutter cross-platform development experience.\n• Have 5+ years of hands-on mobile development experience (Android and/or iOS).\n• Are truly passionate about mobile development.\n• Can communicate in English (B2+).\n• Are a constant learner.\nYou can please us with:\n• Experience in configuring mobile CI pipelines.\n• Knowledge and experience beyond mobile stack.\nWe offer you:\n• An exciting and challenging job with talented people around.\n• Really good hardware (a laptop with 32 GB RAM and 512 GB SSD).\n• Competitive salary and growth opportunities.\n• Remote work opportunity (with the opportunity to work from offices in Minsk and Warsaw).\n• Superb English lessons.A few words about us:\n\nIDT Corporation is a global communications company founded in 1990 and headquartered in Newark, New Jersey. We are industry leaders in prepaid communication and payment services and one of the largest international voice carriers. We are listed on the NYSE, employ over 1800 people across 20 countries, and have over $1.5 billion in revenues.\n\nWe are not ”another big IT corporation”— we encourage and support in-house entrepreneurs in developing their ideas into business actions.\n\nOur flagship brand, Boss Revolution, offers Money Transfer, International Calling, and Mobile Top-Up services and supports IDT’s mission of enabling people to keep in touch and share resources with family and friends worldwide.\n\nIf you are here, it seems like you are interested, so let’s chat! 😉\n\nThis offer from \"IDT Corporation\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6731f2266fb8bf4a04ae961d-middle-senior-mobile-flutter-software-engineers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWRkbGUvU2VuaW9yIE1vYmlsZSBGbHV0dGVyIFNvZnR3YXJlIEVuZ2luZWVycyIsImNvbXBhbnlfbmFtZSI6IklEVCBDb3Jwb3JhdGlvbiIsImFkZHJlc3NfY2l0eSI6IkJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJUMXh2dGxqSm5jZDFvdTBhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Senior Mobile Application Developer Android (all genders)",
+            "company_name": "adesso SE Jobportal",
+            "location": "Sofia, Bulgaria",
+            "via": "Adesso SE",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=UthdTDQb3xqJKj4zAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMQQrCMBBAUdz2CK5mJSraiOBGVxVFEAShByiTdkwjYyZkovRmXk-7-avPK76T4l5T8JLgJtYzQRUj-xazlwAn-hBLpARV6JL4DubIDI5CR0kXsIarWFDC1Pbw_y8ijml66HOOujdGlUun-Y-1ZSsvI4GsDOYpVsc02mOiyJip2e42QxmDW86wI1WB-jziUVJGBh-glofHFRzf7DB5_AEFNAHgugAAAA&shmds=v1_AUFQtOObyHSHynz5BPTh8qvLLRDrritdLnGt22rtJuWSDYbm9g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=UthdTDQb3xqJKj4zAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "The adesso Group is one of the largest German IT service providers and has outstanding opportunities for growth. At its own locations in Germany, Austria, Switzerland, Turkey, Spain, the Netherlands, Bulgaria, USA and the UK as well as at numerous customer sites, adesso offers consulting and software development services for optimizing core business processes and reducing operating costs.\n\nResponsibilities\n• Participate in the implementation and maintenance of Android apps and software components\n• Engage in the full life-cycle of a product, from early concepts and prototypes to full deployment\n• Define clean, safe and reusable code\n• Promote good software engineering practices\n• Actively participate in the team’s and company’s agile processes\n• Participate in combined development with iOS and Android teams in various locations\n\nREQUIREMENTS\n• B.Sc. or M.Sc. degree in Software Engineering or equivalent\n• 3+ years of experience developing and maintaining complex Android apps\n• Excellence in Java programming, focused on code quality and ease of maintenance\n• Excellent knowledge of modern software engineering principles like continuous integration, code reviews, test-driven development, refactoring and incremental delivery\n• Knowledge of networking (REST and Web Services), Android frameworks and APIs\n• Strong problem-solving skills\n• English language proficiency, written and spoken\n• German language skills above B1 is an advantage\n\nCONTACT\nYou will like working with us! Apply online now, including your salary expectations\n\nand the earliest possible starting date.",
+            "apply_options": [
+                {
+                    "title": "Adesso SE",
+                    "link": "https://www.adesso.de/de/jobs-karriere/unsere-stellenangebote/Senior-Mobile-Application-Developer-Android-all-genders-de-j556.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIEFwcGxpY2F0aW9uIERldmVsb3BlciBBbmRyb2lkIChhbGwgZ2VuZGVycykiLCJjb21wYW55X25hbWUiOiJhZGVzc28gU0UgSm9icG9ydGFsIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJVdGhkVERRYjN4cUpLajR6QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Android developer for Embedded Mobile Apps",
+            "company_name": "Easy Consult Ltd",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=2J47hys2_Ovj8J6NAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU4HbqKNCC46RSmC6OQHlEtzTSNpLuRSqR_kf4pveNV3UWkdbWZvwdKbAifK0HOGZjRkLVl4sPGBQKcksIUbGxDC3A3AEa7MLtDyNJSS5KiUSKidFCy-qzseFUcyPKsXG_nXyoCZUsBC7f6wm-sU3XrVoHzgwlGmUOBeLPgIT-49buA8BYfZ4w_9_RqwqAAAAA&shmds=v1_AUFQtONMohS_BchucItNsg3exAD9S9IpbmTcWSboqLA6oaAd1w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=2J47hys2_Ovj8J6NAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505267f219ebc34de33a9/images/353ae40a0ca4af9224431a89e73a1fc3594bd31f9886d4555f55e6bb9c63dc50.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Bulgaria\n\nAbout the client:\n\nAn independently-owned Global business solutions company enabling offshore operations from a locations in the Philippines, India, Bulgaria, Vietnam, Belgium and the US. With European roots, they provide services to global companies that have offices in every populated continent in the world. They have been in the industry for over a decade, growing from a handful to over 1200 happy employees over the years.\n\n﻿﻿\n\nAbout the job\n\nThe client is a Paris-based startup working on the future industry standard for touchless building access control solutions. Their innovative solution, based on leading edge technologies, will allow you to gain experience with IoT, highly scalable Cloud Platforms, complex integrations via API and latest generation apps with carefully crafted UI/UX.\n\nThe company automates the process of securing residential building access and has several unique core features which are attracting enormous interest from within the industry. This has resulted in closing their latest round of funding which allows them to now ramp up their development and you will hold a key position in the engineering team as they move out of their MVP stages.\n\nResponsabilitiies:\n• You will take on the exiting challenge to build, from the ground up, our first set of Android Embedded apps which will run on the company's Access Control devices. Laying solid foundations, you will help us shape the team and organize ourselves into powering our hardware with extremely reliable apps, ensuring smooth integration with our cloud platform and mobile apps.\n• On a regular day, you will work with the product manager, the mobile frontend developers (Android / iOS), the UI/UX designer, the Cloud backend developers, the IoT engineer and the CTO to bring on new features, resolve issues and propose enhancements.\n• You will be involved in various stages of the project, from the requirement analysis to its delivery and production. You will also be involved in contributing to improving features and the overall design of the Platform.\n• As a founding member of the team, you will have the opportunity to take a leadership role, whether it be as a team lead, technology advocate or driving topics that help support your colleagues, customers and the organization.\n\nWho are we looking for?\n\nWe are looking for a Mid-level Android Developer with 3+ years of experience;\n\nYou are passionate about writing simple, clean, and efficient code and are a strong team-player and communicator.;\n\nYou are comfortable with English (written and spoken) and working in a diverse multi-cultural environment;\n\nYou are autonomous, eager to collaborate and not scared to share opinions.\n\nYou will need:\n\n-     3+ years experience as Android engineer, coding with Kotlin or Java, on IoT projects.\n\n-     2+ years' experience on RESTful API client.\n\n-     2+ years experience in NoSQL databases (Firestore, MongoDB).\n\n-     Experience building BLE devices, with strong understanding of BLE.\n\n-     Knowledge of various wireless protocol (NFC, Lora, ).\n\n-     A good understanding of CI/CD.\n\n-     Troubleshooting experience.\n\nOur technology stack:\n\nCurrent stack (GCP / MongoDB Atlas)\n\nCloud:\n\n-     Authentication: Google Identity Platform, but we are migrating to Auth0.\n\n-     Databases: Firestore, but we are migrating to MongoDB.\n\n-     Public/Private API Endpoints: Node/Express docker containers run via Google Cloud Run.\n\n-     Message Queuing: Pub/Sub.\n\n-     Event triggered functions: Google Cloud Function.\n\n-     Storage: Google Cloud Storage.\n\nApps:\n\n-     iOS: Native SwiftUI iOS app (iPhone, Apple Watch, and later iPad).\n\n-     Android: Native Kotlin App (Phone, and later wearable and tablet).\n\n-     Web: React / Angular.\n\nIoT:\n\n-     Embedded Android apps\n\nThis offer from \"Easy Consult Ltd\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65be082ebb93d052b521a1a6-android-developer-for-embedded-mobile-apps?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciBmb3IgRW1iZWRkZWQgTW9iaWxlIEFwcHMiLCJjb21wYW55X25hbWUiOiJFYXN5IENvbnN1bHQgTHRkIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiIySjQ3aHlzMl9Pdmo4SjZOQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVREJRYTBSVGNIUlNVRjlFYm04d1FuUk9OREppTm5CTE1uTm5kbmxQTkVaYVVYWkZRM2RNWDA4MlowdGFhMlIwYVRCNGVVUjNjbUV5Um1sak5scFBia1pHVlhZdFYzWm9XV3hIYUhRd2VYTlpiVTgwYkRSZk0yaEJZMkpYT1V4M1NWWkNVRXQyVTNsSmFFRnBRVGhRWWs1emMxcHNNWEJKYkhCR1pURkRlVFYzTm1Oc1MxTjZObkZNV1hFMVJVZFRRVGh1VURKcGFEUTNibEJ0UlMxSVIxcHpORE5FWWxVMldqa3pTMmxuT0VwVlJ6ZDBZVkpEVmtaME1VaGtTMGxNZW1KNVEwUm5ZMWcwZWxaaVFsOUdZbFJ6U1RCeVluSnRibVpqWDAxSmNGQllRMFV6ZFU5YVRXTmFjSFpwZDNsUGNtSXdlRzV2TmpFNWNWTmZUa1ZYWDBWalJqaFBTeElYUzBGWFJsbzRhbmREU21WaGQySnJVRzlpVjB3MlFXc2FJa0ZHV0hKRlkzQndXbGxIY25sdmVXaE1VVFpaVkZRM2FtVk9NMWRvUTFCelRXYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Bulgaria&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVREJRYTBSVGNIUlNVRjlFYm04d1FuUk9OREppTm5CTE1uTm5kbmxQTkVaYVVYWkZRM2RNWDA4MlowdGFhMlIwYVRCNGVVUjNjbUV5Um1sak5scFBia1pHVlhZdFYzWm9XV3hIYUhRd2VYTlpiVTgwYkRSZk0yaEJZMkpYT1V4M1NWWkNVRXQyVTNsSmFFRnBRVGhRWWs1emMxcHNNWEJKYkhCR1pURkRlVFYzTm1Oc1MxTjZObkZNV1hFMVJVZFRRVGh1VURKcGFEUTNibEJ0UlMxSVIxcHpORE5FWWxVMldqa3pTMmxuT0VwVlJ6ZDBZVkpEVmtaME1VaGtTMGxNZW1KNVEwUm5ZMWcwZWxaaVFsOUdZbFJ6U1RCeVluSnRibVpqWDAxSmNGQllRMFV6ZFU5YVRXTmFjSFpwZDNsUGNtSXdlRzV2TmpFNWNWTmZUa1ZYWDBWalJqaFBTeElYUzBGWFJsbzRhbmREU21WaGQySnJVRzlpVjB3MlFXc2FJa0ZHV0hKRlkzQndXbGxIY25sdmVXaE1VVFpaVkZRM2FtVk9NMWRvUTFCelRXYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}
