@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "67850266aa5f89e5f864d075",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/acd05540fadbea63/67850266aa5f89e5f864d075.json",
+        "created_at": "2025-01-13 12:09:10 UTC",
+        "processed_at": "2025-01-13 12:09:10 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIGQ2FuYWRh&udm=8&fc=EswCCowCQUpHOUprTTJIRmFvc2JDSWxra0NFUGVCUWxDa3BTSl9oQUVoajUzUG5qVE1oWl9pN0xJTUhUQTlSQ19aMGwwOEtZUXdBQUtQMmxXQ3NnNG43SHNnMllxUTdiQkV1Nm9aaUFkbDk2bHNKU1VQd1dCSmVsTVpJcE8yNENua0FnRVY0V3FEclVYd0FqalhpS3dMRVN5Y1VyWndmQUp3VGhmX1lUbFhXeVZYc29ZSnh2dUlIcURJNmhCNGxRTWVBcEhQdzlmUUZ6MFZsVjAxVmtIRlZqdVlqckRsUmo3QkVCbEp1UzFHR2JoTFdFOWtZczZCTFdTc2ctTFNZUzcxNHc1Sjh0RUhnSzVJWkZMVhIXWlFLRlpfV0pKN3JLa1BJUF81eU9rQTAaIkFGWHJFY3FGYXBQdmtPb0RQX29aX1ZrZjZ6bi1GSUNfN1E&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/acd05540fadbea63/67850266aa5f89e5f864d075.html",
+        "prettify_html_file": "https://serpapi.com/searches/acd05540fadbea63/67850266aa5f89e5f864d075.prettify",
+        "total_time_taken": 1.36
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Canada",
+        "location_used": "Canada",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUVEpJUm1GdmMySkRTV3hyYTBORlVHVkNVV3hEYTNCVFNsOW9RVVZvYWpVelVHNXFWRTFvV2w5cE4weEpUVWhVUVRsU1ExOWFNR3d3T0V0WlVYZEJRVXRRTW14WFEzTm5ORzQzU0hObk1sbHhVVGRpUWtWMU5tOWFhVUZrYkRrMmJITktVMVZRZDFkQ1NtVnNUVnBKY0U4eU5FTnVhMEZuUlZZMFYzRkVjbFZZZDBGcWFsaHBTM2RNUlZONVkxVnlXbmRtUVVwM1ZHaG1YMWxVYkZoWGVWWlljMjlaU25oMmRVbEljVVJKTm1oQ05HeFJUV1ZCY0VoUWR6bG1VVVo2TUZac1ZqQXhWbXRJUmxacWRWbHFja1JzVW1vM1FrVkNiRXAxVXpGSFIySm9URmRGT1d0WmN6WkNURmRUYzJjdFRGTlpVemN4TkhjMVNqaDBSVWhuU3pWSldrWk1WaElYV2xGTFJscGZWMHBLTjNKTGExQkpVRjgxZVU5clFUQWFJa0ZHV0hKRlkzRkdZWEJRZG10UGIwUlFYMjlhWDFaclpqWjZiaTFHU1VOZk4xRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Mobile Developer / Android – Montreal,QC",
+            "company_name": "Kovasys",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Kovasys IT Recruitment Agency",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=OF1tQkkvlDVR-4yDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XNMQrCMBSAYVx7BKcHblIbEVx0kgqK4lA8QHlJH20k5oW8WOrmHbyGp_Ik6uTyL9_wZ69Rtj-TtxzhxNo6gi315DhQBAUb30S2Dbwfzy_7FAldXpUwgwNrEMJoOmAPO-bW0XjdpRRkpZSIK1pJmKwpDF8Ve9I8qAtr-aWWDiMFh4nqxXI-FMG308mRe5S7gPX_F1Q30mRyKNFjgx9PRKIHrwAAAA&shmds=v1_AUFQtOPlJqnLytePHr2yVB48n4FYofbkHt8-y9Z3y3scAnf_gg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OF1tQkkvlDVR-4yDAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our established client is looking for a senior Android developer to start ASAP.\n\nQUALIFICATIONS:\n\n4+ years with application development\n\nDevelopment with Android mobile ;\n\nExperience with Java and C++\n\nHTML5, JavaScript, JQuery, XML;\n\nNice to have\n\nAndroid (2.2+)",
+            "apply_options": [
+                {
+                    "title": "Kovasys IT Recruitment Agency",
+                    "link": "https://kovasys.com/job/senior-mobile-developer-android-montrealqc/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/rjdp/7018248845957114664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Devops-Jobs.net",
+                    "link": "http://devops-jobs.net/mobile-developer-developpeur-mobile-genetec-4169935.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAvIEFuZHJvaWQg4oCTIE1vbnRyZWFsLFFDIiwiY29tcGFueV9uYW1lIjoiS292YXN5cyIsImFkZHJlc3NfY2l0eSI6Ik1vbnRyZWFsLCBRdWViZWMsIENhbmFkYSIsImh0aWRvY2lkIjoiT0YxdFFra3ZsRFZSLTR5REFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Mid-level Android developer",
+            "company_name": "Genesis10",
+            "location": "Montreal, Quebec, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=HQMaOIgh3D-6mXwhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CU63uEjb1IKLTuJQEDr4BeWSHG0k3oVclH6KnytdHrzqt6v6Mfgm0pci3NhnCR78NkmUoYGHWFDC7BYQhkFkjrS_LqUkvRijGttZC5bgWidvI0xWVvMSqxuTLpgpRSw09edubRPPx8NATBr01EFgGIVLJow1PD9kydVwR0aPfwBy2_abAAAA&shmds=v1_AUFQtONW2MUcstrLn2zkk1P10Tq9vRaX-BAma88i34BbSDfy0w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HQMaOIgh3D-6mXwhAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d60554fcd77ef479b5334a770968d838988f2fefde63f5b59c9.gif",
+            "extensions": [
+                "CA$110K–CA$118K a year",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "CA$110K–CA$118K a year",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Genesis10 is seeking a Mid-level Android Developer for a permanent role with our client in Quebec, Canada. Onsite 3+ days per week\n\nJob Description:\nResponsible for building out an app to app linking framework. The company is going through a modernization, migrating from Java. Any new features are being built in Kotlin, older stuff in Java. This team consists of 2 iOS, 2 Android, QA, Product Manager, Designer, Engineering Manager, and (future) 2 back-end engineers (standard scrum team).\n\nKey Responsibilities:\n• Android counterpart - using Kotlin and some Java\n• Modern Stack\n\nRequired Basic Qualifications:\n• 3-6 years of experience\n\nCompensation:\nPay rate $110k-$118k/Year\nWe have access to additional contract, contract-to-hire, and direct hire positions with various rate ranges.\n\nIf you have the described qualifications and are interested in this exciting opportunity, apply today!\n\nRanked a Top Staffing Firm in the U.S. by Staffing Industry Analysts for six consecutive years, Genesis10 puts thousands of consultants and employees to work across the United States every year in contract, contract-for-hire, and permanent placement roles. With more than 300 active clients, Genesis10 provides access to many of the Fortune 100 firms and a variety of mid-market organizations across the full spectrum of industry verticals.\n\nFor contract roles, Genesis10 offers the benefits listed below. If this is a perm-placement opportunity, our recruiter can talk you through the unique benefits offered for that particular client. Benefits of Working with Genesis10:\nAccess to hundreds of clients, most who have been working with Genesis10 for 5-20+ years.\nThe opportunity to have a career-home in Genesis10; many of our consultants have been working exclusively with Genesis10 for years.\nAccess to an experienced, caring recruiting team (more than 7 years of experience, on average.)\nBehavioral Health Platform\nMedical, Dental, Vision\nHealth Savings Account\nVoluntary Hospital Indemnity (Critical Illness & Accident)\nVoluntary Term Life Insurance\n401K\nSick Pay (for applicable states/municipalities)\nCommuter Benefits (Dallas, NYC, SF)\nRemote opportunities available\n\nFor multiple years running, Genesis10 has been recognized as a Top Staffing Firm in the U.S., as a Best Company for Work-Life Balance, as a Best Company for Career Growth, for Diversity, and for Leadership, amongst others. To learn more and to view all our available career opportunities, please visit us at our website.\n\nGenesis10 is an Equal Opportunity Employer. Candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Genesis10/Job/Mid-level-Android-developer/-in-Montreal,QC?jid=2358263b6e8f4d80&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWQtbGV2ZWwgQW5kcm9pZCBkZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJHZW5lc2lzMTAiLCJhZGRyZXNzX2NpdHkiOiJNb250cmVhbCwgUXVlYmVjLCBDYW5hZGEiLCJodGlkb2NpZCI6IkhRTWFPSWdoM0QtNm1Yd2hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "IOS and/or Android Developer",
+            "company_name": "BQ International Ltd",
+            "location": "Regina, SK, Canada",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=TswKmYl8-G0s2v3DAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLSwrCMBAAUNz2CK5mXWojihtd-QGpCqI9gEybIY3EmZAJ0tN4VnXzdq_4TIplc20B2RpJsGWbxFs40JuCREowg5N0oISpH0AYjiIu0HQz5Bx1bYxqqJ1mzL6ve3kZYepkNE_p9M9DB0wUA2Z6LFbzsY7synJ3g4YzJf41YQxwyRY8w52cZ6ygPVewR0aLX6I1vUGhAAAA&shmds=v1_AUFQtOPPWT8cKplTAE4d9nYLXrWFGy9P4dQDHmYMNQyBEw96tA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TswKmYl8-G0s2v3DAAAAAA%3D%3D",
+            "extensions": [
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Term: January 4, 2021 to December 31, 2021 with possible extension\n\nKey Skills/Requirements:\nExperience in mobile development of iOS or Android or both (more iOS strength is preferable).\nExperience in mobile cross platform development, such as Xamarin, React Native.\nKnowledge of RESTful APIs.\nExperience in OOP using C#.\nExperience in building relational dataset with SQL or Entity Framework.\n\nAssets:\nExperience in Agile development.\nExperience in team development using VCS with Git, SVN or Mercurial.\nKnowledge of Azure cloud platform.\nExperience working with Azure B2C and OAuth.\nKnowledge of the iOS build and deployment process (working with provisioning profiles and certificates, tooling selection, app submission, XCode, TestFlight). MVVM pattern, Reactive extension.\n\nDescription of Duties:\n~ Work within a small Development Team of 5 to publish updates to the iOS and Android apps which are commercially available to Canadian farmers. Updates include adding features, fixing bugs, responding to customer enquiries and reducing technical debt. The app is built on a relational local database and it's focus is data entry. It includes the ability to do a 2 way sync with a multi-tenant server database.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/rjdp/-5592442941290101001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgYW5kL29yIEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQlEgSW50ZXJuYXRpb25hbCBMdGQiLCJhZGRyZXNzX2NpdHkiOiJSZWdpbmEsIFNLLCBDYW5hZGEiLCJodGlkb2NpZCI6IlRzd0ttWWw4LUcwczJ2M0RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Senior Mobile Developer - Canada - (REMOTE)",
+            "company_name": "eXp World Holdings",
+            "location": "Mississauga, ON, Canada",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=yWTfPBXtjPrKNvcqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2OywrCMBAA8dpP8LRHlT5E8KI3tShCLaigt7JtlzQSsyEbpZ_lJ1pBGIY5TvQZRZsLWc0eCq61IdjRmww78pDAFi22OMTknBflNZ8OeeQahNA3HbCFPbMyNF53IThZZZmISZUEDLpJG35mbKnmPntwLT9V0qEnZzBQtVjO-9RZNUvo7uDG3rRwYNNqqwS0hUKLDOBLYQzlKf7ffAHBql3NswAAAA&shmds=v1_AUFQtOM0UaXO-5Zz92P8MOupr6EM_wILvwu3RLszYRgojSWiDA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=yWTfPBXtjPrKNvcqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d604483b885064a9ce5ce969ae514bb002d8da83b73e567965e.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "We are one of the first all-remote companies with 2,000+ team members utilizing our virtual office called eXp World. This role is work-from-anywhere in Canada.\nWho is eXp?\nDoing the audacious is part of eXp Realty’s DNA. We are a company that rewards creative minds who can offer bold solutions, where opinions matter, anything is possible and the outcome can be revolutionary. As a global full-service real estate brokerage utilizing a 3-D, fully immersive, cloud office environment, offering 24/7 access to collaborative tools & training, eXp has broken the traditional mold of real estate. We are doing big things.\nCome join us at eXp Realty – a 7x Glassdoor Best Places to Work organization!\nWhat you will do:\nAs a Senior Mobile Developer, you will be responsible for providing definition and implementation through hands-on management of a software development team leveraging their full SDLC experience and agile project management best practices defined by the company. You are responsible for the execution of software development projects to achieve the company’s strategic objectives.\nYour main responsibilities are to provide technical leadership, and provide guidance based on your experience creating successful mobile apps. You will need to be able to demonstrate ability to troubleshoot and analyze complex issues.\nYou're able to develop software solutions by studying information needs, conversing with users, and understanding systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.\nIn this role you will focus on delivering products and solutions that directly impact internal and external user’s day-to-day productivity. You must be able to balance the desired system “elegance” against the needs for rapid delivery.\n• Proficient in mobile application design, prototyping, and development, with a strong emphasis on establishing and adhering to standard coding practices; experienced in managing directed assignments and effectively coordinating team efforts.\n• Skilled in mentoring junior team members and overseeing the entire product development lifecycle, from concept and design to development, implementation, and post-implementation evaluation.\n• Collaborating with product development, architecture, and SRE teams to build a comprehensive product roadmap.\n• Accountable for creating and documenting software development processes, reporting on development capacity and efficiency, and ensuring that the development squad's needs are fully met in areas including UI, UX, DevOps, and Product support\n• Responsible for assisting the team in removing blockers and aligning resources for effective problem triage, along with supporting various functions of the business, including dev ops, code maintenance, troubleshooting, and system documentation, particularly during new product launches and as the team gains proficiency in the eXp Enterprise system.\n• Additionally tasked with handling other accountabilities as assigned, ensuring a flexible and responsive approach to the evolving needs of the business.\n• Remain current with emerging technologies and trends in mobile development, particularly Flutter/Dart, while ensuring mobile applications comply with security standards and user data protection. Provide expert oversight and guidance on UX design to meet established UX goals and development practices.\n• Oversee the implementation and management of build pipelines for automated testing, building, and deployment processes, enhancing development workflow efficiency. Collaborate with external vendors and third-party services for solution integration, and plan and manage the internationalization and localization of mobile applications for global accessibility.\n• Proactively identify and manage risks in mobile development projects, devising strategies for mitigation, and stay updated on regulations and requirements of key platforms like the Apple AppStore and Google Play Store, ensuring compliance and relevancy of mobile applications.\n\nHow you will grab our attention:\n• Required: Bachelor's degree or equivalent experience, with a preference for a Master's degree, coupled with a minimum of 2 years in a leadership role within an engineering team and at least 5 years of experience in Software Engineering, including building mobile applications using web technologies.\n• Demonstrated expertise in iOS and Android development, with over 4 years of experience and deep knowledge of iOS frameworks and Android SDK, as well as proficiency in multiple programming languages and environments including Dart/Flutter, Swift, Kotlin, and JavaScript.\n• Exceptional mentorship, coaching, and communication skills, with a strong ability to work effectively with both business and technical teams, and a high degree of creativity and problem-solving ability.\n• Strong organizational and process management skills, with a specific focus on mobile UI guidelines and frameworks, and experience with AWS being an added advantage; ability to set and manage priorities effectively.\n• Proficiency in implementing automated testing platforms and unit tests, with a solid understanding of RESTful APIs, third-party SDKs, and a strong commitment to maintaining high standards in software engineering practices.\n\nIf you think you’d make a great match for this position but don’t meet all the requirements, we would still encourage you to apply!\nWhat eXp Canada provides:\n• Medical, Dental, Vision, Long-Term Disability\n• Life Insurance and AD&D\n• Subscription to Calm and Vitality Wellness Programs\n• Paid Vacation\n• Paid Holidays\n• Up to 4 Paid Personal Days\n• 5 Paid Sick Days\n• One time stock option\n• $20/pay cheque for the first two pays of the month for your mobile phone/internet\n• RRSP employer match will be available in the near future\n• Fully remote environment\n• Amazing company culture\n• And more..\n\nThe starting base pay for this position is $120,000 CAD per year in our lowest geographic cost of living market and is dependent upon many factors such as location, experience, skills, and training. Base pay is only one part of the total compensation package offered to employees in recognition of their hard work and is determined within a range to allow for growth and development within a role.\nEEO Statement:\neXp World Holdings is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability or any other characteristic protected by law.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-mobile-developer-canada-remote-exp-world-holdings-2-5819795?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciAtIENhbmFkYSAtIChSRU1PVEUpIiwiY29tcGFueV9uYW1lIjoiZVhwIFdvcmxkIEhvbGRpbmdzIiwiYWRkcmVzc19jaXR5IjoiTWlzc2lzc2F1Z2EsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6InlXVGZQQlh0alByS052Y3FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Targeted Talent",
+            "location": "Richmond, BC, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Cps8ED0yByvBSzkKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU63CVIbEVx00gqCo3Yv1-RIIuldyAXpn_i74hte81015kUcpcCFXZHo4EYfSpKpwA4eMoESFhtAGO4iPtH6HGrNejJGNXVeK9ZoOyuzEaZJFvOWSf-NGrBQTlhpPBz3S5fZbzcDFk-VHAyYiCtEhme0YRZ2LVz7FnpkdPgDR9mSN5oAAAA&shmds=v1_AUFQtONG9PASSpKkeWffygrHcUnw-7gYopygTCTn2lhGagFliA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Cps8ED0yByvBSzkKAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d60a2a46b297ff15689073bb3906587d03d3ac871753f07430c.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for multiple experienced Senior Android Developers for our client. This is a full-time, permanent position that is remote to start with later relocation to Calgary, Toronto or Winnipeg required.. Our client is a global enterprise company with a product that you've likely used.\n\nYou Have:\n• Minimum 4+ years in a role focused on Android Mobile Development.\n• Prior experience working in Kotlin is a must\n• Prior experience working on Android applications in Java is a plus\n• Ideally prior experience maintaining CI/CD pipelines\n• Prior experience with mobile automation testing\n• Observance of Clean architectural and coding principles\n\nPerks:\n• Competitive Salary\n• Individual performance bonus\n• Health and dental benefits\n• 3 weeks vacation\n• Relocation Package\n• RSP matching\n\nIf this opportunity sounds like something that fits your career path, please apply to this posting; we'd love to talk to you!",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Targeted-Talent/Job/Senior-Android-Developer/-in-Richmond,BC?jid=19aeaa662aea391c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/ed45c706-816f-4564-b765-5facc0bbfe24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MNC Jobs Canada - Jobs",
+                    "link": "https://ca.mncjobz.com/jobs/senior-curam-developer-richmond-2278233?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJUYXJnZXRlZCBUYWxlbnQiLCJhZGRyZXNzX2NpdHkiOiJSaWNobW9uZCwgQkMsIENhbmFkYSIsImh0aWRvY2lkIjoiQ3BzOEVEMHlCeXZCU3prS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Senior Android Developer (Native, Kotlin)",
+            "company_name": "LightSpeed Retail",
+            "location": "Grise Fiord, NU, Canada",
+            "via": "Ladders",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=PK6ExfiOPJZmbIu0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0nON2oEhsRXHRRFAUVB4tzuTZHE4m5kAulP-U_Wpe3vccrvpNiX1FwnOAQTGJn4EQ9eY6UYPbA7HpScOPsXZjDEq7cgBCm1gIHuDB3nqY7m3OUrdYivuwkj1ZbtvzRHKjhQb-5kT9qsZgoesxUrzeroYyhW6i762yuIpGBJ2V0HtxYTk4IzuOXUfB4KThiQIM_tEAq9LAAAAA&shmds=v1_AUFQtOM1uD4Dr2NQKl9rH8OUMAEniKSJxLOL-0qIbpfFFOWbMA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=PK6ExfiOPJZmbIu0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d60606e1972090115a33867291c5b924c6dad7a9ec2f75ca87f.gif",
+            "extensions": [
+                "101,014–151,522 a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "101,014–151,522 a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hi there! Thanks for stopping by\n\nAre you actively looking for a new opportunity? Or just checking the market? Well... you might just be in the right place!\n\nWe are looking for a Senior Android Developer to join our mobile team, where you will support Ecwid by Lightspeed's mobile applications in our mission to make the store management applications great, convenient, and engaging business management tools.\n\nFor this role specifically, you will be joining the team focused on Ecwid by Lightspeed, an Android app that helps out clients to manage their businesses on the go. Our mission is to provide the best store management application that gives every active client an opportunity to manage their business directly from their device - solving urgent problems faster and better, completing pending tasks more efficiently, and monitoring the state of the business from anywhere in the world.\n\nYou will be part of the healthy and collaborative team, continuously improving our engineering practices, and delivering a state-of-the-art product, all while keeping it fun. Among others, your work will make the lives of thousands of business owners much easier.\n\nWhat you'll be bringing to the team:\n• Proven experience in commercial Android development for at least 5 years\n• Solid understanding of Kotlin, as well as principles of clean architecture and clean code\n• Excellent problem-solving and planning skills\n• Expertise in implementing adaptive and responsive native mobile interfaces\n• Sufficient English to understand tech-documentation (at least intermediate level)\n• Sufficient Russian to understand and discuss with russian-speaking team (at least upper intermediate level)\n\nWhat you'll be responsible for:\n• Developing and maintaining clean, well-designed, highly maintainable Android application for store management\n• Drafting, discussing, and implementing technical designs that solve business problems for our customers\n• Diagnosing performance bottlenecks and implement optimizations\n• Extending your own skills by learning from and growing with the team\n• Participating in development planning, retrospectives and demos\n• Driving and owning the technical challenges in the team\n• Frequently interacting with product managers, designers, and developers as part of a cross-functional team to deliver product features and functionality\n• Fixing critical bugs\n• Conducting code reviews\n• Sharing knowledge and best practices with the team\n• Covering code with unit- and UI-tests\n\nTech stack\n• Build: Gradle, KTS\n• Storage: Realm\n• Network: Retrofit 2 + OkHttp\n• Async: Kotlin Coroutines, RxJava\n• UI: View, Compose\n• Arch: MVVM, MVP, MVI\n• Push: FCM, SashiDo, Parse\n• Images: Glide\n• DI: Koin\n• Navigation: Cicerone\n• Analytics: Amplitude, Firebase Analytics\n• CI/CD: TeamCity\n• Tests: JUnit4, Espresso, Kaspresso, Marathon, Allure\n\nWhat's in it for you?\n• Flexible hours and hybrid work\n• People Experience - Our PX benefit allows you to work from pretty much anywhere in the world for 60 days a year\n• Lightspeed equity scheme (we are all owners)\n• Health & Wellness Credit - expense up to 1300 GEL per year towards your gym membership, yoga classes, a new bike or whatever else you do for your health\n• Mental Health Support through the Modern Health App - whether it is meditation, coaching or counseling you need - each employee gets access to this platform.\n• Support to talk with external Russian speaking psychologists (up to 7 sessions/year)\n• A medical insurance plan that covers dental care\n• At Lightspeed we value your professional development; you'll have regular performance reviews and opportunities to make growth\n• Variety of resources. We provide Apple MacBooks for work, free access to LinkedIn Learning for any course of your choice and cover 50% of the cost of SkyEng English classes\n• Time off to volunteer and give back to your community\n• Awesome office space located in Saburtalo (Tbilisi)\n\n#LI-AK2\n\nTo all recruitment agencies: Lightspeed does not accept unsolicited agency resumes. If we have not directly engaged your company in writing to supply candidates for a specific vacancy, Lightspeed will not be responsible for any fees related to unsolicited resumes.\n\nLightspeed is a proud equal opportunity employer and we are committed to creating an inclusive and barrier-free workplace. Lightspeed welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.\n\nWhere to from here?\nObviously, this has to be mutually beneficial: we want you to step into a role you love, and we want to offer you a place you're proud to come to every day. For a glimpse into our world check out our career page here.\n\nLightspeed is building communities through commerce, and we need people from all backgrounds and lived experiences to do that. We were founded in 2005, in Montreal's gay village and our original members were all part of the LGBTQ+ community. The ethos of our business has been about inclusion from the very beginning, and we strive to provide a workplace where everyone belongs.\n\nWho we are:\nPowering the businesses that are the backbone of the global economy, Lightspeed's one-stop commerce platform helps merchants innovate to simplify, scale, and provide exceptional customer experiences. Our cloud commerce solution transforms and unifies online and physical operations, multichannel sales, expansion to new locations, global payments, financial solutions, and connection to supplier networks.\n\nFounded in Montréal, Canada in 2005, Lightspeed is dual-listed on the New York Stock Exchange (NYSE: LSPD) and Toronto Stock Exchange (TSX: LSPD). With teams across North America, Europe, and Asia Pacific, the company serves retail, hospitality, and golf businesses in over 100 countries.\n\nLightspeed handles your information in accordance with our Applicant Privacy Statement.",
+            "apply_options": [
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/senior-android-developer-native-kotlin-lightspeedretail-grise-fiord-nu_76165993?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKE5hdGl2ZSwgS290bGluKSIsImNvbXBhbnlfbmFtZSI6IkxpZ2h0U3BlZWQgUmV0YWlsIiwiYWRkcmVzc19jaXR5IjoiR3Jpc2UgRmlvcmQsIE5VLCBDYW5hZGEiLCJodGlkb2NpZCI6IlBLNkV4ZmlPUEpabWJJdTBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Android Developer Kotlin",
+            "company_name": "Robinhood",
+            "location": "Toronto, ON, Canada",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=rLOvIAVe60YxYOEdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAGYFz7CE43S21EcNFJFAQFBXEvl-ZoIvH-kATpY_jI6vKtX_OZNWavLiM4OspbIpJkuqDGoLSkMywV4Tx4gtIJGKPMd77WVLbGlBK7sVSuYegGvAxULCbzhC1_-uI5S4pcpV9vVlOXdFzQHTaoBxz9hgcytKKl27WlAys7_gKRYd3DkwAAAA&shmds=v1_AUFQtON1k7u1S_BGiMKsXTPTNodgMZh6Jj59KYJVltnjKyvg2A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=rLOvIAVe60YxYOEdAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d60882f44dc92ff583eac3d789a1734b022838a584549f9e68f.gif",
+            "extensions": [
+                "13 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "13 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "About the team + role\n\nWe’re excited to invite talented and motivated Android Developers to join our award-winning team to help expand Robinhood’s mobile experience for our customers.\n\nWe’re looking for passionate and skilled developers who lead by example, building up the product and people around them through hard work, mentorship, and proven best practices.\n\nYou’ll be joining the RAD (Retirements, Accounts, and Advisory) Team. We're focused on building long term investment products that grow with the needs of our customers. The team builds innovative products such as the Robinhood IRA, new account types - such as Joint Accounts, and we are building an Advisory product from the ground up.\n\nWhat you’ll do\n\nWork with a fast-growing team to revolutionize finance at speed and scale\n\nBuild smooth, stable, and elegant products with Kotlin and the newest Android APIs\n\nOwn features from inception to design, implementation, and launch\n\nWork cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team\n\nWork with Kotlin, Coroutines, RxJava, Retrofit / Ok Dagger, and Room\n\nWhat you bring\n• 3+ years of professional Android development experience building consumer Android applications at scale, preferably in Kotlin and Compose\n• Attention to detail, passion for writing clean, readable and maintainable code\n• Proficiency in Kotlin or Java, and Jetpack\n• Motivation to improve Robinhood’s app and codebase to ensure the highest quality for our customers\n• Strong product sense and ability to collaborate with Product Managers and Designers\n• Excellent communication skills and passion for solving technical challenges\n• Bachelor’s degree in Computer Science or a related field preferred; equivalent training or work experience also acceptable\n\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ca.jooble.org/rjdp/3869230317369973610?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBLb3RsaW4iLCJjb21wYW55X25hbWUiOiJSb2Jpbmhvb2QiLCJhZGRyZXNzX2NpdHkiOiJUb3JvbnRvLCBPTiwgQ2FuYWRhIiwiaHRpZG9jaWQiOiJyTE92SUFWZTYwWXhZT0VkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIn0="
+        },
+        {
+            "title": "Développeur senior, Android / Senior Android Developer",
+            "company_name": "Cerence",
+            "location": "Montreal, Quebec, Canada",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=TQy_xW3LW9av9ZHuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2LOwrCQBBAsc0RrAbsJGZFsNFKEhAEBfEAYbIZkpV1ZpndSK5k6xW8mJ_C5hWP97LnJDtVr8edvIRAg0IkdqI57LhVcS0YuPzMX1T0i0lhAQdpPgOq7UEY9iKdp-m2TynEjTEx-qKLCZOzhZWbEaZGRnOVJn5Rxx6VgsdE9Wq9HIvA3XxWkhJbAsdwFE5K6HM4D9SQzaFExhbfJ1Tfr7UAAAA&shmds=v1_AUFQtOM7PkcM4w6fNNAQgZqf6mK_gHZnbDdSC5_j-OdiyP4Zrg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TQy_xW3LW9av9ZHuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d6032a4ccc63ec765bfc442f460e1333f7eb6aece619136dc7a.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "A Moving Experience.\n\n(English version below)\n\nDéveloppeur logiciel senior, Android\n\nDescription de poste\n\nAvez-vous une passion pour repousser les limites de l'innovation ? Êtes-vous enthousiaste à l'idée du potentiel de l'IA pour améliorer l'expérience humaine ? Alors rejoignez-nous dans cette aventure !\n\nQui est Cerence ?\n\nCerence est le leader mondial de l'IA pour le transport, spécialisé dans la création de compagnons alimentés par l'IA et la voix pour les voitures, les deux-roues et plus encore, permettant aux utilisateurs de se concentrer sur l'essentiel. Avec plus de 500 millions de voitures équipées de la technologie Cerence, nous collaborons avec des constructeurs automobiles de renom tels que Volkswagen, Mercedes, Audi, Toyota, et bien d'autres, des fournisseurs de mobilité et des entreprises technologiques pour offrir des expériences intuitives et intégrées, créant des trajets plus sûrs, plus connectés et plus agréables pour les conducteurs et les passagers.\n\nNotre force motrice\n\nNotre équipe, engagée à repousser les limites de l'innovation en IA, opère à l'échelle mondiale avec un siège social à Burlington, Massachusetts, USA, et 16 bureaux répartis en Europe, en Asie, et en Amérique du Nord. Nous réunissons des talents divers avec l'objectif commun de faire progresser la prochaine génération d'expériences utilisateur pour le transport. Notre culture est axée sur le client, collaborative, stimulante et conviviale, offrant des opportunités constantes d'apprentissage et de développement pour accompagner l'évolution de votre carrière.\n\nVous aspirez à avoir un impact significatif dans une industrie dynamique au sein d'une équipe internationale performante ? Nous recherchons un(e) développeur(se) Android senior, prêt(e) à façonner l'avenir de la mobilité à nos côtés !\n\nVotre impact\n• Mettez à profit votre expertise en Android et Android Automotive, avec une maîtrise du Kernel et des systèmes considérés comme un atout précieux.\n• Maîtrisez Linux et l'expérience JNI sous Android, contribuant à une intégration fluide entre les systèmes.\n• Travaillez sur l'intégration de logiciels avec un accent particulier sur le développement backend et l'intégration backend-frontend. Votre expérience en frontend, notamment avec les interfaces Android, sera précieuse pour garantir une solution fluide de bout en bout.\n• Démontrez d'excellentes compétences en développement logiciel et une polyvalence dans plusieurs langages, y compris C/C++, C#, Java, Kotlin, TypeScript/JavaScript, et Python.\n• Optimisez les performances du code pour des solutions Android évolutives, en vous appuyant sur votre expertise senior.\n• Collaborez avec des équipes interfonctionnelles pour aligner le développement Android avec les objectifs du projet.\n• Faites avancer l'innovation technique en intégrant les technologies émergentes dans nos solutions sous Android.\n• Encadrez les développeurs juniors en favorisant un environnement collaboratif et de partage des connaissances.\n• Participez à des conférences industrielles pour vous tenir au courant des dernières avancées dans les technologies Android et IA.\n\nCe que vous apportez\n• Baccalauréat en Informatique, ou détenir une formation équivalente.\n• Expérience significative en développement logiciel.\n• Connaissance approfondie d'Android, avec une expertise dans les opérations au niveau Kernel et système, considérée comme un atout majeur.\n• Expérience avec Linux et avec JNI sous Android.\n• Expérience avec les systèmes d'IA, en particulier les LLM et/ou en traitement du langage naturel (NLP).\n• Expérience confirmée en intégration de logiciels, avec une attention particulière portée au développement backend et à l'intégration backend-frontend. Une expertise en frontend, notamment sur les interfaces Android, constitue un atout\n• Excellentes compétences en développement logiciel avec une polyvalence dans les langages C/C++, C#, Java, Kotlin, TypeScript/JavaScript, et Python.\n\nCe que nous offrons\n\nNous offrons un ensemble avantageux de rémunération et de bénéfices, en supplément du salaire de base, comprenant :\n• Opportunité de bonus annuel\n• Couverture d'assurance (médicale, dentaire, vision, vie et invalidité)\n• Congés payés\n• Jours fériés payés\n• Contribution de l'entreprise au REER (Régime enregistré d'épargne-retraite)\n• Attribution d'actions pour certains postes et niveaux\n• Télétravail et/ou travail hybride disponible selon le poste\n\nToutes les compensations et avantages sont soumis aux termes et conditions des plans ou programmes sous-jacents, selon le cas, et peuvent être modifiés, résiliés ou remplacés à tout moment.\n\n(English Version)\n\nDo you have a passion for pushing the boundaries of innovation? Are you excited about AI’s potential to improve the human experience? Then come join the ride!\n\nWho is Cerence?\n\nCerence is the global leader in AI for transportation, specialized in building AI and voice-powered companions for cars, two-wheelers, and more that enable people to focus on what matters most. With over 500 million cars shipped with Cerence technology, we partner with leading automakers (such as Volkswagen, Mercedes, Audi, Toyota and many more), mobility providers, and technology companies to power intuitive, integrated experiences that create safer, more connected, and more enjoyable journeys for drivers and passengers alike.\n\nOur Driving Force\n\nOur team is dedicated to pushing the boundaries of AI innovation, working around the globe with headquarters in Burlington, Massachusetts, USA and 16 other offices across Europe, Asia, and North America. We bring together diverse backgrounds and varied skill sets with the shared goal of advancing the next generation of transportation user experiences. Our culture is customer-centric, collaborative, fast-paced, and fun, with continuous opportunities for learning and development to support your career growth.\n\nInterested in having a significant impact in a dynamic industry with a high-performing global team? We’re looking for an exceptional Principal Software Developer, LLM who is ready to drive the future of mobility with us!\n\nYour Impact\n• Utilize your Android and Android Automotive knowledge, with Kernel and system-level expertise considered an asset.\n• Possess Linux and Android JNI experience, contributing to seamless integration between systems.Work on software integration with a strong focus on backend development and backend-to-frontend integration. Your frontend experience, especially with Android interfaces, will be valuable in ensuring a seamless end-to-end solution.\n• Demonstrate excellent software development skills and versatility across multiple languages, including C/C++, C#, Java, Kotlin, TypeScript/JavaScript, and Python.Optimize code performance for scalable Android solutions, leveraging senior-level expertise.\n• Collaborate cross-functionally, aligning Android development with project goals.\n• Actively drive technical innovation, implementing emerging technologies in our Android-powered solutions.\n• Mentor junior developers, fostering a collaborative and knowledge-sharing environment.\n• Participate in industry conferences to stay abreast of the latest advancements in Android and AI technologies.\n\nWhat You Bring\n• Bachelor's in computer science, or equivalent.\n• Significant experience in software development, demonstrating senior-level expertise.\n• Deep Android knowledge, with expertise in Kernel and system-level operations, is considered a significant asset.\n• Linux and Android JNI experience.Experience with AI systems, specifically LLMs and/or NLP.\n• Proven experience in software integration, with a strong focus on backend and backend-frontend integration. Frontend experience, especially with Android interfaces, is an asset.\n• Excellent software development skills with versatility in C/C++, C#, Java, Kotlin, TypeScript/JavaScript, and Python.\n\nWhat we offer\n\nWe offer a generous compensation and benefits package (in addition to the base salary), including:\n• Annual bonus opportunity\n• Insurance coverage (medical, dental, vision, life, and disability)\n• Paid time off\n• Paid holidays\n• Company contribution to the RRSP (Registered Retirement Savings Plan)\n• Equity awards for certain positions and levels\n• Remote and/or hybrid work available depending on the position\n\nAll compensation and benefits are subject to the terms and conditions of the underlying plans or programs, as applicable, and may be amended, terminated, or replaced from time to time.\n\nCerence Inc. (Nasdaq: CRNC and\n\nwww.cerence.com\n\n) is the global industry leader in creating unique, moving experiences for the automotive world. Spun out from Nuance in October 2019, Cerence is a new, independent company that has quickly gained traction as a leader in the automotive voice assistant space, working with all of the world’s leading automakers – from Ford and Fiat Chrysler to Daimler, Audi and BMW to Geely and SAIC – to transform how a car feels, responds and learns. Its track record is built on more than 20 years of industry experience and leadership and more than 500 million cars on the road today across more than 70 languages.\n\nAs Cerence looks to the future and continues an ambitious growth agenda, we need someone to join the team and help build the future of voice and AI in cars. This is an exciting opportunity to join Cerence’s passionate, dedicated, global team and be a part of meaningful innovation in a rapidly growing industry.\n\nEQUAL OPPORTUNITY EMPLOYER\n\nCerence is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination on the basis of age, race, color, gender, gender identity, gender expression, sex, sex stereotyping, pregnancy, national origin, ancestry, religion, physical or mental disability, medical condition, marital status, citizenship status, sexual orientation, protected military or veteran status, genetic information and other protected classifications. Cerence Equal Employment Opportunity Policy Statement.\n\nAll prospective and current Employees need to remain vigilant when it comes to executing security policies in the workplace. This includes:\n• Following workplace security protocols and training programs to familiarize with the ways to maintain a safe workplace.\n• Following security procedures to report any suspicious activity.\n• Having respect for corporate security procedures to allow those procedures to be effective.\n• Adhering to company's compliance and regulations.\n• Encouraging to follow a zero tolerance for workplace violence.\n• Basic knowledge of information security and data privacy requirements (e.g., how to protect data & how to be handling this data).\n• Demonstrative knowledge of information security through internal training programs.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=6ec625b30cda78df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/developpeur-senior-android-senior-android-developer/3412160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Eluta.ca",
+                    "link": "https://www.eluta.ca/spl/d%C3%A9veloppeur-senior-android-senior-android-developer-30b536500a513c0e0c498f3a9da31e67?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.ca/job-listing/d%C3%A9veloppeur-senior-android-senior-android-developer-cerence-JV_IC2296722_KO0,51_KE52,59.htm?jl=1009230538838&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.ca/details/4801494716?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-senior-android-senior-android-developer-at-cerence-ai-3973043011?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.ca/job/c8qeVi4mf7EZcvkFTG85yY-uzXkuRXrr9IpBvWXHT7J2jKEb6BNdXg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/d-veloppeur-senior-android-senior-android-developer-cerence-inc-montreal-qc_78455524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEw6l2ZWxvcHBldXIgc2VuaW9yLCBBbmRyb2lkIC8gU2VuaW9yIEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ2VyZW5jZSIsImFkZHJlc3NfY2l0eSI6Ik1vbnRyZWFsLCBRdWViZWMsIENhbmFkYSIsImh0aWRvY2lkIjoiVFF5X3hXM0xXOWF2OVpIdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCJ9"
+        },
+        {
+            "title": "Senior Hybrid Mobile Developer",
+            "company_name": "Royal Cyber Inc.",
+            "location": "Mississauga, ON, Canada",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=j-odLqmql-r_Yq7PAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNTQrCMBBAYdz2CK5mrTURoRtdVvAHqqAHKJN2SCMxEzJR7HG8qRUe3_YV31lR3Sk4TnAcTXI9NGycJ9jTmzxHSrCCMxsQwtQNwAEOzNbTfDfkHGWrtYhXVjJm16mOn5oDGf7oBxv508qAiaLHTO2mWn9UDHaxvPGIHurRTINT6BS4AI0TmcKXxRKulxJqDNjjD0kNCgSkAAAA&shmds=v1_AUFQtONPq1_u453fajy_RKhYr7cPSfqwTH3Oa2XBpKxHrn1YZA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=j-odLqmql-r_Yq7PAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d60890b258f965e7f931ec4d72dd2d79062f76d98ed5701ba89.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "• 8+ years of demonstrable software development experience building and maintaining mobile apps (Android/iOS/Cross-platform) and web-based systems\n• Strong understanding of modern mobile application development principles and iOS and Android app deployment procedures\n• Experience on at least 2-3 mobile implementations / migration involving Cordova / Phonegap, AngularJS, JavaScript, Ionic framework, React Native, Android and/or iOS native SDKs for building Cordova plugins.\n• Portfolio of released applications on the App store or the Android market\n• Experience with web technologies, HTML, CSS, JavaScript",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/senior-hybrid-mobile-developer-at-royal-cyber-inc-3924694411?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSHlicmlkIE1vYmlsZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJSb3lhbCBDeWJlciBJbmMuIiwiYWRkcmVzc19jaXR5IjoiTWlzc2lzc2F1Z2EsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6Imotb2RMcW1xbC1yX1lxN1BBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Targeted Talent",
+            "location": "Kitchener, ON, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=A6o874NmCZaO3-MCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43itRGBBedioKgoIPdyzU5kki8C8kh_RQ_V3zDa76LxjyJoxTo2RWJDs70oSSZCmzgKhNUwmIDCMNFxCdaHoNqrgdjak2dr4oabWflbYRpktm8ZKr_xhqwUE6oNO7227nL7NerAYsnJQcDJmKFyHCLagMxlRYe9xZOyOjwB3anoeubAAAA&shmds=v1_AUFQtOO3P0k1BlUV4sEvAV8VbLDHKwCmhm4ZmzRJGIoWzK5DyA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=A6o874NmCZaO3-MCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850266aa5f89e5f864d075/images/c7b3555f75a71d6080b6c738411766638f3223c82ae9c235aabeb755511bfbf1.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for multiple experienced Senior Android Developers for our client. This is a full-time, permanent position that is remote to start with later relocation to Calgary, Toronto or Winnipeg required.. Our client is a global enterprise company with a product that you've likely used.\n\nYou Have:\n• Minimum 4+ years in a role focused on Android Mobile Development.\n• Prior experience working in Kotlin is a must\n• Prior experience working on Android applications in Java is a plus\n• Ideally prior experience maintaining CI/CD pipelines\n• Prior experience with mobile automation testing\n• Observance of Clean architectural and coding principles\n\nPerks:\n• Competitive Salary\n• Individual performance bonus\n• Health and dental benefits\n• 3 weeks vacation\n• Relocation Package\n• RSP matching\n\nIf this opportunity sounds like something that fits your career path, please apply to this posting; we'd love to talk to you!",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Targeted-Talent/Job/Senior-Android-Developer/-in-Kitchener,ON?jid=4e1f055e27cec19f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-simulation-developer-otto-motors-by-rockwell-automa-5754768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/kitchener/canada/info_technology/3640760842/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice.com",
+                    "link": "https://www.dice.com/job-detail/8f6db412-ce7f-4f0d-90c5-2c40f02c9696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://globalworkly.com/jobs.php?job=Senior+developer&country=Canada&city=Kitchener&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJUYXJnZXRlZCBUYWxlbnQiLCJhZGRyZXNzX2NpdHkiOiJLaXRjaGVuZXIsIE9OLCBDYW5hZGEiLCJodGlkb2NpZCI6IkE2bzg3NE5tQ1phTzMtTUNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVR2d5ZG5ndFdUaHVZWEl3UkVKdmVVZzJUVnBLVFcxWGJrMTZZa3gyZFU1VFdWWXhhMGx1VkV4MFNsQXdlWFZMUVZOUVdURkRlbWh6ZVdFeFdGWmpWVXBuZEZCbmFrRklWRFJJUkRCeWVFZE5WREJYWHpBd2JtMU1VRmd3TjFoNE1IcGZWbkZJZUdKMU5VSm9PWEZVVEROMFVXSXdRV0ZEU21jMFUyUnJZbVYxZW1SelpVbHRXV3hPYjBWSVdtZGpaazF4VW1sWFlrOXlNbmg0V21STWVXRm1VVko0UnpscVEzQXRja0p2WVVjNFFXbGFTbkZqYmw4MVdHOUpaa3BDVjNkcVNWWmxSVzh5ZEhWMU9HNXNOVlpKWVRVNWVVdHRZMUUzZERoMlZDMTFMVEp0UjNGc1luQk1UbTB6VnpJNFdtcGZTbEJIVFRjMGNWbERTR05aZDNGNFNsVlhObXQwVVhjMWRreE5PVXMyYzBkSlYxWkpNbEEwVVhjU0YxcDNTMFphT1ZkWVJtOTFhSEIwVVZCM1kwTkhNRkZSR2lKQlJsaHlSV052WTJGTWQzcDZUMHBLVVc1U1ZXWllXSGhJWTA1blNsUmFWVzVSIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Canada&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVR2d5ZG5ndFdUaHVZWEl3UkVKdmVVZzJUVnBLVFcxWGJrMTZZa3gyZFU1VFdWWXhhMGx1VkV4MFNsQXdlWFZMUVZOUVdURkRlbWh6ZVdFeFdGWmpWVXBuZEZCbmFrRklWRFJJUkRCeWVFZE5WREJYWHpBd2JtMU1VRmd3TjFoNE1IcGZWbkZJZUdKMU5VSm9PWEZVVEROMFVXSXdRV0ZEU21jMFUyUnJZbVYxZW1SelpVbHRXV3hPYjBWSVdtZGpaazF4VW1sWFlrOXlNbmg0V21STWVXRm1VVko0UnpscVEzQXRja0p2WVVjNFFXbGFTbkZqYmw4MVdHOUpaa3BDVjNkcVNWWmxSVzh5ZEhWMU9HNXNOVlpKWVRVNWVVdHRZMUUzZERoMlZDMTFMVEp0UjNGc1luQk1UbTB6VnpJNFdtcGZTbEJIVFRjMGNWbERTR05aZDNGNFNsVlhObXQwVVhjMWRreE5PVXMyYzBkSlYxWkpNbEEwVVhjU0YxcDNTMFphT1ZkWVJtOTFhSEIwVVZCM1kwTkhNRkZSR2lKQlJsaHlSV052WTJGTWQzcDZUMHBLVVc1U1ZXWllXSGhJWTA1blNsUmFWVzVSIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

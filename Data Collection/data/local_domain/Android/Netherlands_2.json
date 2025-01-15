@@ -1,0 +1,325 @@
+{
+    "search_metadata": {
+        "id": "67850a82802b588299aa0c59",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a97e6317fa905284/67850a82802b588299aa0c59.json",
+        "created_at": "2025-01-13 12:43:46 UTC",
+        "processed_at": "2025-01-13 12:43:46 UTC",
+        "google_jobs_url": "https://www.google.nl/async/callback:550?q=Android+developer&uule=w+CAIQICILTmV0aGVybGFuZHM&udm=8&fc=EswCCowCQUpHOUprT0xxR1N1Q09nR3ppdU9faHhIRGVVTjVtcF9oVjFBdHZBNjdZVnFaOG0zanEwOUFLR19iSElzcFBCQzNFeWh4bFhSaldoeWRNUklvVHZqaXZQRXV6T3JNaTljeF8xSGRrZHpReTRrMmtHNF9BRnZmQmpnTlp3T2lmMVNmRG1jblhtc1JVN05ZSHFoS0xUczRrR0FoTzBkSkk0OUc5TV9jbnUxalpUWmNVLXBXRkJwRkRnUDR2eFpWcHVKTERTb28zTDJaS29TZ1dvTVc2dng0VUJkZl9XY2kyaVBVMmQ4VE8zZXNPY09zQkV0QVByaTdjRWlKRkhqSjViMVBhOTdjeDUyc2g0NxIXZ1FxRlo3S3RMb0NXd2JrUG5QRDBtUTQaIkFGWHJFY29uXzI0Y3dmRUlCV3FmNG9lbmhCRU8yM1V5T0E&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/a97e6317fa905284/67850a82802b588299aa0c59.html",
+        "prettify_html_file": "https://serpapi.com/searches/a97e6317fa905284/67850a82802b588299aa0c59.prettify",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Netherlands",
+        "location_used": "Netherlands",
+        "google_domain": "google.nl",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMHh4UjFOMVEwOW5SM3BwZFU5ZmFIaElSR1ZWVGpWdGNGOW9WakZCZEhaQk5qZFpWbkZhT0cwemFuRXdPVUZMUjE5aVNFbHpjRkJDUXpORmVXaDRiRmhTYWxkb2VXUk5Va2x2VkhacWFYWlFSWFY2VDNKTmFUbGplRjh4U0dSclpIcFJlVFJyTW10SE5GOUJSblptUW1wblRscDNUMmxtTVZObVJHMWpibGh0YzFKVk4wNVpTSEZvUzB4VWN6UnJSMEZvVHpCa1NrazBPVWM1VFY5amJuVXhhbHBVV21OVkxYQlhSa0p3UmtSblVEUjJlRnBXY0hWS1RFUlRiMjh6VERKYVMyOVRaMWR2VFZjMmRuZzBWVUprWmw5WFkya3lhVkJWTW1RNFZFOHpaWE5QWTA5elFrVjBRVkJ5YVRkalJXbEtSa2hxU2pWaU1WQmhPVGRqZURVeWMyZzBOeElYWjFGeFJsbzNTM1JNYjBOWGQySnJVRzVRUkRCdFVUUWFJa0ZHV0hKRlkyOXVYekkwWTNkbVJVbENWM0ZtTkc5bGJtaENSVTh5TTFWNVQwRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Social Deal",
+            "location": "'s-Hertogenbosch, Netherlands",
+            "via": "Werken Bij Social Deal",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=NMYHC9FsyZKMyrcfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU63CdI2IrjoJAiKg0s_oCTpkaTEu3AXpB_jx1qXt77mu2nMgJRY4EqTcJrghh_MXFCggyc7ULTiIzDBnTlk3F5irUXPxqjmPmi1Nfne89swoePFzOz0z6jRCpZsK47H02HpC4V9O7BPNq_LSiLYafdAqRyQHKuPLbywRpRsadIfoEMVup8AAAA&shmds=v1_AUFQtOOxzIZ-NOihch5damkJg-QqPUmkkrxgX5teiTQDquZ4zw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=NMYHC9FsyZKMyrcfAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Waar houd je je zoal mee bezig als Senior Android Developer bij Social Deal?\n• Je maakt onze native apps voor Android\n• Je denkt nieuwe features uit en bouwt deze\n• Je voert design changes door en lost eventuele bugs op\n• Je maakt testplannen in samenwerking met andere afdelingen\n• Je prioriteert je eigen werk in samenspraak met je team en met de Product Owner\n• Je presenteert demo’s aan stakeholders, zoals de directie en andere afdelingen\n• Je overlegt elke dag met andere Android en iOS Developers, onder andere over het tackelen van bugs voor een optimaal eindresultaat en het invoeren van nieuwe features\n• Je neemt het voortouw op technisch vlak als senior binnen het Android team\n\nMet wie ga je dat doen?\n\nJe komt terecht in een gezellig team van 30 developers. Vaak wordt er serieus en geconcentreerd gewerkt, maar er is ook zeker ruimte voor een geintje. Een biertje en borrel staan regelmatig op de planning.\n\nCollega Android Developer Jamam Witwit:\n\n“Bij Social Deal werk ik in een multidisciplinair team aan de app om ervoor te zorgen dat onze klanten elke dag de beste deals kunnen vinden. Mijn werk is zeer gevarieerd; soms ben ik bezig met het bouwen van componenten, het ontwikkelen van nieuwe features, of het refineren van tickets voor de backlog. Hoewel het hard werken is, krijg je er veel voor terug: de leukste uitjes, fijne collega's, en een geweldige werksfeer. Daarnaast heb ik ook de ruimte om mezelf te ontwikkelen. Elke vrijdag kan ik bijvoorbeeld deelnemen aan een hackathon en werken aan onderwerpen die ik interessant vind. Kortom, er is veel mogelijk bij Social Deal\"\n\nWat vinden wij belangrijk?\n• Ruime kennis van Android, Kotlin en Java\n• Dat je ervaring hebt met Jetpack Compose\n• Dat je ervaring hebt met design patterns, zoals MVVM en MVC\n• Dat je snel kan schakelen tussen verschillende werkzaamheden en taken kunt oppakken van teamleden waar nodig\n• Dat je probleemoplossend en zelfstandig te werk gaat en een echte teamplayer bent\n• Dat jij uitdaging bij ons vindt en jezelf blijft ontwikkelen! Daarom is er elke vrijdagmiddag een Hackathon waarin je jouw eigen ideeën kunt uitwerken\n• Dat je minimaal 6 jaar werkervaring hebt als Android Developer\n\nWat krijg je van ons?\n• Een salaris passend bij jouw werkervaring, 8% vakantiegeld, reiskostenvergoeding en pensioenopbouw\n• 25 betaalde vakantiedagen en de mogelijkheid om 25 vakantiedagen onbetaald op te nemen (o.b.v. fulltime)\n• Wij werken met een jaarlijkse gesprekscyclus waarbij we kijken naar jouw persoonlijke ontwikkeling en groei! En die groeidoelstellingen, die maak je hier zelf middels jouw Social Growth ontwikkelplan\n• De mogelijkheid om (gedeeltelijk) thuis te werken\n• Een arbeidsovereenkomst voor 32 tot 40 uur per week bij een van de snelst groeiende internetbedrijven van Nederland. Wist je dat Social Deal 2 keer op een rij is uitgeroepen tot Beste Werkgever door Indeed?\n• Gezamenlijke lunch verzorgd door een topcateraar, gratis gebruik van onze gym, een gameroom voor de nodige ontspanning en vrijdagmiddagborrels aan onze eigen bar of op ons dakterras!\n• 10% korting op alle Social Deals\n• Legendarische feesten, unieke evenementen, teamuitjes en gezellige borrels\n• Gratis de allertofste Deals, speciaal voor medewerkers; van sportlessen tot proeverijen en van massages tot workshops. Alles met de focus op teambuilding, persoonlijke ontwikkeling en natuurlijk ontspanning\n• Een werkplek die aan al je verwachtingen voldoet in een schitterend kantoor op een toplocatie in ’s-Hertogenbosch, direct achter het Centraal Station\n\nMeer over Development bij Social Deal\n\nDe afgelopen tijd zijn we druk bezig geweest met het opzetten van compleet nieuwe native apps en het doorvoeren van een nieuw design in de Social Deal-app. Daarnaast werken we altijd aan nieuwe features, zodat we de concurrentie voor blijven en de app optimaal werkt. Elke minuut worden er gemiddeld 20 vouchers verkocht en jij zorgt er met je team voor dat het koopproces via de app soepel verloopt. Daarnaast werken jij en het team nauw samen om ambitieuze deadlines te halen.\n\nDenk jij dat jij de persoon bent die wij zoeken? Mooi! Stuur dan een e-mail inclusief CV, motivatie en foto naar jobs@socialdeal.nl óf klik HIER om direct te solliciteren!\nBinnen vijf werkdagen krijg je van ons een reactie! Heb je nog vragen? Bel of app dan met onze Recruiter Sanne via 088-2050508.",
+            "apply_options": [
+                {
+                    "title": "Werken Bij Social Deal",
+                    "link": "https://werk.socialdeal.nl/o/senior-android-developer?lang=nl&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pitcher: Digital Agency In Den Bosch",
+                    "link": "https://www.ptchr.nl/vacatures/senior-frontend-end-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IO Digital",
+                    "link": "https://www.iodigital.com/nl/carriere/vacatures/drupal-developer-den-bosch?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=7e3ff00bc1249e06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Werkzoeken.nl",
+                    "link": "https://www.werkzoeken.nl/vacatures-in/den-bosch/13056220-senior-c-sharpnet-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jelling IT Professionals",
+                    "link": "https://www.jelling.nl/vacature/4734/senior-c-net-developer-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ICT Vacatures",
+                    "link": "https://www.ictergezocht.nl/ict-vacatures-in/den-bosch/354845-senior-c-sharpnet-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Technicus.nl",
+                    "link": "https://www.technicus.nl/technische-vacatures-in/den-bosch/3606680-senior-c-sharpnet-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTb2NpYWwgRGVhbCIsImFkZHJlc3NfY2l0eSI6IidzLUhlcnRvZ2VuYm9zY2gsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJOTVlIQzlGc3laS015cmNmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Ervaren Android-developer",
+            "company_name": "Q42",
+            "location": "Amsterdam, Netherlands",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=SMD8vAfPKFplI47iAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQrCQBBAYWxzBEGYWkw2BG20shDBQvAEYX-GbMJmZ5kZQk7hmY3NK79XfXdV--DFMma458A0hjrggokKMtTwIgeCln0EyvAkGhLub1G1yNUYkdQMolZH33iaDWV0tJqJnPzTS9zgkqxi313atSl5OB4-5w7G7TaLIgc7n-CNGpGTzUF-AviB0pEAAAA&shmds=v1_AUFQtOPmsKc0HAoKEgLCZC9fOwyiCp5_HABaNZlecXIaEak_Rg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=SMD8vAfPKFplI47iAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b601aaf693f70bc9955aa8edbd7344a585b2a5481b78ddbfa18.gif",
+            "extensions": [
+                "€2.5K–€6.5K a month",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "€2.5K–€6.5K a month",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Meer weten? Bel 06-46465370!\n\nWij zijn Q42.\n\nQ42 bouwt digitale producten die het leven van mensen slimmer, beter en leuker maken.\n\nAl meer dan 20 jaar helpen we bedrijven als PostNL, Rijksmuseum, HEMA, AVROTROS, Philips Hue en de Efteling met het bedenken en maken van schaalbare producten. Apps, websites, connected devices, AI-toepassingen en meer. Van idee tot lancering.\n\nTech zit in de kern van alles wat we doen. Onze teams van developers en projectleiders zijn altijd bezig met snel uitproberen, leren en verbeteren. Totdat het product fijn is in gebruik, de business laat groeien én wij er zelf een glimlach van krijgen.\n\nEn we hebben een vacature voor Android-developers.\n\nWij zoeken Android-ontwikkelaars die het tof vinden om samen met andere engineers te werken aan een internationale app met miljoenen gebruikers en transacties. Naast de ontwikkeling van apps voor HEMA, PostNL en Wie is de Mol? gaat het hierbij om een nieuw project.\n\nFocus op de eindgebruiker\n\nAls voorbeeld van hoe we werken: de HEMA-app. Recent hebben we voor HEMA een native shop gebouwd met veel focus op een goede ervaring voor de eindgebruiker. Uitdaging nu is die ervaring nóg verder te verbeteren en nieuwe features toe te voegen.\n\nMultidisciplinair team\n\nHet autonome, multidisciplinaire team dat deze app bouwt, bestaat uit een kleine tien mensen. Vanuit Q42 zijn dat meerdere Android- en iOS-developers plus een projectleider. Het team wordt verder aangevuld met designers van Fabrique, een product owner en een businessanalist. Ook haken we standaard testers van Polteq aan. Natuurlijk doen we dit agile. Sinds corona werken we ook deels remote.\n\nNieuwste technieken\n\nAl vanaf het begin hebben we ervoor gekozen om de HEMA-app volledig native te bouwen met Kotlin op Android en Swift op iOS. Om de optimale werking van aparte native applicaties te koppelen aan het gemak van hybride development, hebben we gekozen voor server driven UI en een zogenaamde 'Backend for Frontend' gebouwd.\n\nInzicht en advies\n\nBouw en doorontwikkeling van een app doen we altijd in nauwe samenwerking met de klant. We bepalen dus samen de roadmap. Ons inzicht en advies spelen daarbij een belangrijke rol. Sterker nog: regelmatig nemen we zelf het initiatief om nieuwe features te ontwikkelen.\n\nAfwisseling gegarandeerd\n\nQ'ers die in een appteam zitten, werken af en toe ook mee aan zogenaamde jumpstarts van een week om nieuwe concepten te prototypen. Vaak is dat dan voor andere klanten van Q42. Aangezien we apps voor meerdere organisaties bouwen, zijn uitstapjes naar andere projecten sowieso altijd mogelijk en switchen Q'ers om de zoveel tijd naar een ander team. Zo kun je bijvoorbeeld de ene helft van het jaar aan een app voor een corporate werken en de andere helft aan een app voor een start-up. In die planning wordt altijd rekening gehouden met jouw wensen.\n\nVind je het tof om te bouwen aan grote Nederlandse én internationale apps? Laat hier je gegevens achter en we nemen snel contact met je op. Maar doorlezen mag natuurlijk ook - net als reageren op onze iOS-vacature. 😉\n\nPast Q42 bij jou?\n\nWil je weten of Q - zoals we Q42 meestal noemen - bij jou past? We kunnen je alvast vertellen, wat wij te bieden hebben en waar wij van houden. Dan kun jij inschatten of er voldoende overlap is voor een gesprek.\n• We bieden een all-in salaris tot 6.500 euro per maand, afhankelijk van jouw ervaring. Dat is inclusief een maximale pensioenregeling, vakantiegeld en internetvergoeding. (Hier lees je hoe we salaris, zelfbeoordeling en persoonlijke ontwikkeling aan elkaar koppelen.)\n• Wij bieden een omgeving die wij graag een happy place for nerds noemen. We houden dan ook niet zo van kaders. Veel Q'ers doen er iets bij naast het programmeren. Dat houdt Q lekker plat en geeft iedereen de mogelijkheid om mee te sturen én te groeien.\n• Met tachtig slimme developers is er genoeg te leren bij Q. Van Bedenktijdjes en Passietijd tot het schrijven voor ons Engineering Blog en samen leerzame conferenties bezoeken. Ook zijn diverse Q'ers als mentor nauw betrokken bij de persoonlijke ontwikkeling van collega's.\n• Ons werk is productontwikkeling: het allerbeste product neerzetten om de eindgebruiker te verbazen. Dat doen we met Wie is de Mol?, PostNL, Rijksmuseum, HEMA, Volkskrant, Radio 538, 9292, Kramp, de Efteling en andere mooie klanten en partners.\n• Maar we ontwikkelen ook eígen producten via onze ventures, zoals onze tech for good start-up Hack The Planet. Die ventures maken ons beter in productdenken, wat we weer kunnen toepassen in onze projecten. En vice versa.\n• Op onze stekkies in Amsterdam en Den Haag kunnen we fijn in the zone komen én heel goed feesten. Daar houden we sowieso wel van, samen leuke dingen doen: van het jaarlijkse Q-uitje en onze hackathon tot pubquizzes en bordspelavonden in onze eigen bruine kroeg.\n• Wil je nog meer weten? Kom eens langs tijdens een van onze openbare meetups of lees ons uitgebreide verhaal op de pagina met alle vacatures!\n• Ook relevant: onze arbeidsvoorwaarden.\n\nPas jij bij Q?\n\nErvaring is mooi meegenomen, maar niet het belangrijkste. Jouw technische potentie en de match wegen zwaarder.\n• Hou je van mooie dingen bouwen met Kotlin en Compose?\n• Heb je gebruiksvriendelijkheid hoog in het vaandel staan?\n• Spreekt onze happy place for nerds jou aan?\n\nPlease note: we don't hire applicants living outside the European Union.\n\nJe ziet voldoende overlap?\n\nLaten we dan eens kletsen! Je bent van harte welkom op ons kantoor in Amsterdam of Den Haag. Klik op de button hieronder, dan plannen wij een gesprek in. Of bel direct Maurice om even een afspraak te maken: 06-46465370.\n\nOnze sollicitatieprocedure.\n\n\"Een Wat? Een Procedure?\" Ja, We Weten ’t, Wij Houden Er Ook Niet Van. Hebben We Gelukkig Ook Niet Zoveel. Maar Omdat Nieuwe Mensen Aannemen Best Wel Heel Erg Superbelangrijk Is, Hebben We Een Manier Bedacht Om Dit Écht Goed Te Doen. Komt-i\n• Klik op 'Ik wil kennismaken!' en maak er een mooi verhaal van.\n• We organiseren een gesprek om te kletsen over jou én over Q. Bedenk ook van tevoren of je wat code kunt laten zien, iets waar je trots op bent. Dat is veel leuker om naar te kijken dan een CV.\n• Daarna doen we nog een gesprek. Maar dit keer krijg je eerst huiswerk mee: een leuke programmeeropdracht die je mag uitvoeren in de taal die je zelf het beste vindt passen.\n• De laatste stap is een pair-programming-middag. Je haakt dan zo'n drie uur lang aan bij twee developers. Leuk voor jou om een stel Q’ers beter te leren kennen en ons werk van dichtbij te zien. Leuk voor ons omdat we graag zo veel mogelijk Q’ers betrekken bij de sollicitaties. We stellen hun achteraf de vraag: \"Zou je balen als we haar/hem niet aannemen?\" Als ze dan 'ja' zeggen, weten we genoeg. 😊\n• We doen je een aanbod, we krabbelen, en je komt hier lol en verschil maken.\n\nIn deze blogpost geven we meer uitleg over ons sollicitatieproces, de verschillende stappen, hoe we beoordelen, wat we zoeken in een kandidaat, et cetera.\n\nOh, en recruiters: wij zijn zelf heel goed in het vinden van nieuwe collega’s. Jullie hulp is dus niet nodig én niet gewenst.\n\nDe mensen van Q42\n\nOnze mensen noemen we Q'ers. Hieronder zie je er een aantal. Mocht je graag alle Q'ers willen zien en willen filteren op allerlei relevante en volslagen irrelevante punten, dat kan ook!",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/ervaren-android-developer-at-q42-4092866160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFcnZhcmVuIEFuZHJvaWQtZGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUTQyIiwiYWRkcmVzc19jaXR5IjoiQW1zdGVyZGFtLCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoiU01EOHZBZlBLRnBsSTQ3aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "Kotlin/Android Engineer - Bluetooth Low Energy Experience",
+            "company_name": "ConSol Partners",
+            "location": "Amsterdam, Netherlands",
+            "via": "House Of Talent Job Board",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=jK4IfVacftYftX0GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCQAwA8eoTPOWqaFcEL3qqIoKKCD5Atm3YXdkmJYlYv-brrJe5zMCMv6Px7cyWE7mSGuHUwIFCIkSBBezyC43ZIlz4PQiU8IFD36EkpBqH4sQVKHqpIzDBkTlknGyjWacb51RzEdS8pbqouXVMWHHvnlzpHw-NXrDL3vCxWi_7oqMwm-6Z7pzh5sWGoUIiKFs1lMa3c7iiRZTsqdEfkwSf_70AAAA&shmds=v1_AUFQtOMvljX6UDtIvkbTywZjwFINvadbAzlKQiwU_uUCiGbpNg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jK4IfVacftYftX0GAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b60cc1a63e17d3c165ba29bde03f69b74650eb45dbbaec1d12b.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Kotlin/Android Engineer - Bluetooth Low Energy ExperienceLocation:Amsterdam, Netherlands (Hybrid Working) - Candidate must be in NL alreadyContract Type:ContractorSector:Software DevelopmentSalary:€55.00 - €65.00 HourlyReference No.BBBH474037Kotlin/Android Engineer – Bluetooth Low Energy ExperienceInitial 6 month contract + option to extendAmsterdam, Netherlands (Hybrid working, 2 days in office per week)Candidate must be living in NLClient:A leading technology company.What you’ll do:· Build compelling new user experiences within our client’s Android apps with Kotlin.· Work on next-gen technologies: hybrid navigation, cloud integration, deep phone OS integration, and using the latest API from Android like Jetpack Compose and Coroutines.· Influence the solutions through regular technical improvement sessions.· Craft new, improved features and create engaging experiences.· Safeguard the code with unit, integration, and end to end tests (Espresso and ComposeTestRules)· Maintain high-quality code with help of Continuous Integration, Pull Requests, Lint· Work within the organisation on Github· Move the app forward rapidly, while sweating the detailsWhat you’ll need:· Top-notch programming skills and engineering know-how (and a desire to keep learning).· Android SDK knowledge and Kotlin are a must.· Experience with Bluetooth Low Energy.· Understanding concurrency in Android and the ability to solve problems with multithreading.· Understanding of Coroutines and Flows· Familiarity with Linux or MacOS· Willingness to work on large and complex projects consisting of several teams and using the latest Agile processes.· Passion for delivering the best user experience possible on mobile devices.· BS or MS in Computer Science or equivalent work experience. But if you’re talented, degrees aren’t everythingConsultant Name:Jamie JenkinsConsultant Email:jamie.jenkins@consolpartners.com",
+            "apply_options": [
+                {
+                    "title": "House Of Talent Job Board",
+                    "link": "https://talent.thenextweb.com/job/kotlinandroid-engineer-bluetooth-low-energy-experience-Olfm0wNsxi-at-consol-partners-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://nl.talent.com/view?id=b932b86ac864&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJLb3RsaW4vQW5kcm9pZCBFbmdpbmVlciAtIEJsdWV0b290aCBMb3cgRW5lcmd5IEV4cGVyaWVuY2UiLCJjb21wYW55X25hbWUiOiJDb25Tb2wgUGFydG5lcnMiLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJqSzRJZlZhY2Z0WWZ0WDBHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Android developer",
+            "company_name": "Donkey Mobile",
+            "location": "Bodegraven, Netherlands",
+            "via": "Indeed",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=6Xlk5NrrK_SJgwiSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAFUNz2CK5mWURbEdzoShEEQa9QkuaTRONMyIRSj-GNxbd4zXfRtCd2RaIjhwlJMgpt6CaWFKaMgYTpKuITlsdQa9ZD36umzms1NY7dKO9eGFbm_ilW_w0aTEFOpmLY7bdzl9mv2ovwCx-6i40JFJnO4uCLmcBreqAGlGTY6Q-W-cc7lAAAAA&shmds=v1_AUFQtON-1RRqtyGk61BqTFR-sX1Tiv10g5FN66W7cz6cXA7SWg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=6Xlk5NrrK_SJgwiSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b600ae19e2b2320daf614c4bed9a42fb9983fb135af92ed8162.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Voor onze start-up Donkey Mobile zoeken we iemand die onze Android-app gaat maken. Een cruciale rol in een bedrijf dat kerken wil ondersteunen met het beste van mobiele technologie.\n\nWat we bieden:\nOra et Labora: Bij Donkey Mobile krijg je de unieke kans om vanaf het eerste moment betrokken te zijn bij een bedrijf dat kerken wil ondersteunen met fantastische mobiele technologie. Als je de kerk een warm hart toedraagt en technologisch onderlegt bent is dit de gelegenheid om beide te combineren!\nCompetitieve compensatie: Natuurlijk vinden we het prachtig om voor kerken te werken. Maar bij Donkey Mobile willen we juist daarom een competitieve beloning bieden. We willen een product maken dat door professionals in elkaar gezet wordt. Vakmannen. Daar willen we dus ook voor betalen.\nBezield team: We werken met elkaar aan de missie van Donkey Mobile. En zijn gemotiveerd om echt een baanbrekend product neer te zetten. Het is het doel wat ons bij elkaar heeft gebracht. Iedereen levert zijn bijdrage en binnen deze sfeer willen we elkaar stimuleren en tot grotere hoogtes stuwen. Nadrukkelijk willen we een open cultuur creëren waar ruimte is voor eigen inbreng en ideeën.\nMario Kart Battle: Hard werken betekent ook hard ontspannen dus doe mee aan onze dagelijkse Mario Kart Battle. Klein tipje van de sluier: onze UX-Designer is de ongekroonde Maria Kart koning. Werk aan de winkel dus!\nBouw aan moderne kerk\nCompetitief salaris\nStart up vibe\nMobile first\n\nWat we vragen:\nAndroid app bouwen: We verwachten van je dat je ons platform voor Android gaat bouwen. Daarin wordt je ondersteunt door een UX-designer die samen met jou ons MVP voor Android gaat uitschetsen.\nErvaring: je kent Android en de uitdagingen van ontwikkelen voor dit platform.\nSchaalbaarheid: belangrijk is om te beseffen dat we een platform zijn. We ontwikkelen centraal een technologie waarmee kerken in staat zijn hun eigen app in de app-store te plaatsen. Je schrijft de code dus eenmaal en deze wordt hergebruikt per kerk.\nOpenheid: Bij Donkey Mobile willen we elkaar helpen. Kom je ergens niet uit, dan gaan we samen kijken hoe we dit kunnen oplossen. Daarvoor is het essentieel dat je open bent over beslissingen en problemen.\nLast but not least: we verwachten je inbreng in het opzetten en verder uitwerken van ons product door jouw ervaring en enthousiasme voor het product.\nIets voor jou?\nStuur een mail met je C.V. en motivatie naar henrik@donkeymobile.app\nAdres: Marktstraat 1 in Bodegraven\nhenrik@donkeymobile.app",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=45642f30303d05ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nationale Vacaturebank",
+                    "link": "https://www.nationalevacaturebank.nl/vacature/5ad16629-14c9-5132-a3ea-2b9d9f5b4e17/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Simplyhired.nl",
+                    "link": "https://www.simplyhired.nl/job/SEUmO_zUh0VrL5OEjIcLfPRCZ0NEQjM4YusMlAWoKyCEff5AcaIkgQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkRvbmtleSBNb2JpbGUiLCJhZGRyZXNzX2NpdHkiOiJCb2RlZ3JhdmVuLCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoiNlhsazVOcnJLX1NKZ3dpU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "Intermediate Android Developer",
+            "company_name": "OfferZen",
+            "location": "Delft, Netherlands",
+            "via": "Adzuna.nl",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=ABAJlJhA-opZjBgOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAyAYVz7CA6SWbQnQhedBEF00N2lXHtp7-SaHEmQPogPrC7_-P3VZ1E1VzKUCUPyhnCiIJwCnPGNmQsKbOHGHSh66SMwwYV5zLg8RrOiB-dUcz2qeUt93fPkmLDj2b24039ajV6w5B_e7pvdXBca16vHMKA8kSDRb5UH28AdLaJkT0G_HGbOcpcAAAA&shmds=v1_AUFQtONexIJYaLI8z-epl1xscz_w2BnmUK3zV7AwTVYcga1-eg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ABAJlJhA-opZjBgOAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b6060fd5a494924efd4af124d9309c3ef3eddcdce37df5ddc63.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Intermediate Android Developer\n\nAre you an EU citizen looking for the next big move in your developer career?\n\nOfferZen companies across Europe are hiring Android Developers.\n\nCompanies on OfferZen are looking for Android Developers to assist and manage with the architecture, implementation and maintenance of scalable mobile applications and services.\n\nRequirements:\n• 2+ years experience of relevant experience\n• Strong hands-on knowledge of Java and Kotlin\n• Develop and support software including applications, database integration, interfaces, and new functionality enhancements\n• Experience working in an English speaking environment\n\nSkills:\n• Analytical mindset and good problem-solving skills\n• Optimization of the application for maximum speed and scalability\n• Implementing automated testing platforms and unit tests\n• Data migration, transformation, and scripting\n\nNice to have:\n• Attention to detail\n• Experience building an approved Play store App\n• Experience with Flutter or Dart\n• Seniority is based on experience/knowledge\n\nMake this the last job ad you ever click on: OfferZen is a platform that reverses job searching: Companies apply to interview you with upfront tech stack, role, and salary info. You also work with a specialised career coach, who helps you win at the interview process.\n\nHow OfferZen works:\n• Sign up for free and complete your OfferZen profile\n• Become visible to 2000+ companies across Europe and Africa\n• Have companies apply to interview you\n• Navigate interviews and offers with the help of your career coach\n• Land your dream dev job!",
+            "apply_options": [
+                {
+                    "title": "Adzuna.nl",
+                    "link": "https://www.adzuna.nl/details/3733357246?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vindazo",
+                    "link": "https://www.vindazo.nl/job/viewjob/50899043/android-developer-bij-innovattic.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcm1lZGlhdGUgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJPZmZlclplbiIsImFkZHJlc3NfY2l0eSI6IkRlbGZ0LCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoiQUJBSmxKaEEtb3BaakJnT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "Sr. Software Engineer - Mobile Developer- Freelance [Remote]",
+            "company_name": "Braintrust",
+            "location": "America, Netherlands",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=9akLMkqbq2w8JpGnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOMYvCQBBGuTY_wWqwFE1EsNHK405B0MKUIrJZP5M9NjthZtT8Mn-fueZVD97L3l9ZWUpOJd_t5QT0m-qQAKEZHbgKEfSDJyJ3kBltBYguedD5hJYNl0Hbc0UKJ74hTrRjriNG68as01VRqMa8VnMWfO65LTih4r7440r_cdVmqHbRGa6L5bzPu1RPxt_iQjJ5qFFItGkhwbspHWENZBi46QfRIB2UuQAAAA&shmds=v1_AUFQtON0-fMjhOH7HoEbkGmy8_YbhPI1rLKbWsRWjW7KLmbbHg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=9akLMkqbq2w8JpGnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b60081af62ab3d1246cafd960836bece16b4966737fe0c3dc23.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "ABOUT US:\n\nBraintrust is a user-owned talent network that connects top-tier professionals with the world's leading enterprises. We prioritize transparency, eliminating middlemen and high markups, ensuring job-seekers are matched swiftly to innovative roles while clients benefit from unparalleled efficiency and quality.\n\nABOUT THE HIRING PROCESS:\n\nThe hiring process for this role involves completing your Braintrust profile, applying directly to the role on Braintrust, and undergoing a one-time screening to ensure you meet our vetted talent specifications. After this, the hiring team will contact you directly if they believe you are a suitable match.\n\nOur process isn't for everyone, that's intentional. If you believe that you are a top candidate for this job, please join our network to give yourself the opportunity to work with top companies.\n• JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)\n• LOCATION: Remote - Argentina, Brazil, Chile, Uruguay\n• HOURLY RANGE: Our client is looking to pay $25 – $35/hr\n• ESTIMATED DURATION: 40h/week - Long term\n• EXPERIENCE: 3-5 years\n• BRAINTRUST JOB ID: 7999\n\nTHE OPPORTUNITY\n\nRequirements\n\nMUST-HAVES\n• Minimum 3-5 years' experience developing on Microsoft Azure using .NET Technologies.\n• Minimum 1 year experience in building and deploying applications using Xamarin\n• Excellent verbal and written communication skills\n• Proficient in client server development environments\n• Strong analytical and problem-solving skills with attention to detail\n• Understanding of unit test frameworks and testing mythologies\n• Experience and understanding of design patterns suited for mobile development applications\n• Self-motived and ability to work independently and in a team at solving problems.\n• Experience troubleshooting, debugging, and profiling client server applications.\n• Holds and understanding for TDD and appreciates the importance in a designing for test approach\n• Understanding of memory management, data storage techniques, and user interfaces design.\n• Working knowledge of software development life cycle methodology, preferably within an agile Scrum environment\n• Experience in designing and development client service API’s\n\nTECHNOLOGIES YOU ARE FAMILIAR WITH:\n• Microsoft C# .NET\n• Xamarin\n• Familiar with SQL and SQLite\n• Git, gitflow\n\nNice to have:\n• Azure DevOps experience\n• Experience with LWM2M\n\nHardware requirements:\n• Macbook Pro for cross-platform development support.\n\nWhat you’ll be working on\n\nPlanning & Design\n• Understand the product roadmap\n• Support the planning of product roadmap by providing inputs from the engineering perspective and plan how we will execute it; give inputs and drive at what can be done technically.\n• Partner, support and provide constructive feedback with cross-functional teams such as product management, sales organization, customer service and marketing teams.\n• Partner with solution architects to design and document product solutions that align with product requirements.\n• Understand the requirements the team is responsible for delivering on, make every reasonable effort to clearly know what “done” means before you start planning; use requirements to drive the complete solution.\n• Ensure a common look and feel across product lines, promote consistent coding practices and adhere to the common architecture patterns.\n• Support management in creating reliable estimates\n• Be the champion of the AI design first approach to software development by leading, reviewing and driving software design documents following the AI way\n• Identify and communicate potential solution risk areas and propose alternative solutions\n• Follow and promote AI coding standards within your team.\n\nExecute & Create\n• Drive and deliver on team commitments\n• Develop software solutions in line with software design specifications.\n• Work closely with team members to ensure no code is released without proper testing and review, satisfying the AI Definition of Done.\n• Communicate with management and drive resolution on any issues that arise.\n• Be a positive and productive member of the team.\n• Work with cross functional teams as needed to ensure your work is aligned.\n• Promptly address quality issues; participate in prioritizing work – apply your experience to help explore possible solution short comings.\n\nApply Now!\n\nNotes:\n\nOur employers all have varying legal and geographic requirements for their roles, they trust Braintrust to find them the talent that meet their unique specifications. For that reason, this role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.\n\nBraintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/sr-software-engineer-mobile-developer-freelance-remote-at-braintrust-549?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gU29mdHdhcmUgRW5naW5lZXIgLSBNb2JpbGUgRGV2ZWxvcGVyLSBGcmVlbGFuY2UgW1JlbW90ZV0iLCJjb21wYW55X25hbWUiOiJCcmFpbnRydXN0IiwiYWRkcmVzc19jaXR5IjoiQW1lcmljYSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6Ijlha0xNa3FicTJ3OEpwR25BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Mobile Android Developer",
+            "company_name": "confidential",
+            "location": "Hoevelaken, Netherlands",
+            "via": "Jooble",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=48K1X_hBKnlNXf92AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNOwoCQQwAUGz3CFbpBNEdEWy0EgRF0Css84k7ozEZJkH2Jl5XbF77uu-sczcJhRCOnJqUBCf8IEnFBmu4SgBF32IGYTiLjITzQzarundOlfpRzVuJfZS3E8Ygk3tK0D-DZt-wkjcctrvN1Fcel4so_CgJ2YonKAwX-X_-hbyCO1rGRp6T_gD0gYZxmgAAAA&shmds=v1_AUFQtONXzMSkYPhvONKHLUd5tdFDFFpiBY4_mNgN-clCFoVmqw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=48K1X_hBKnlNXf92AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Bij een leuk, jong, fris en dynamisch bedrijf is er ruimte voor een Mobile Android Developer of een Java Developer die graag native apps wil bouwen. Ze zijn begonnen als een onderdeel van een grote speler binnen de logistieke sector. Ruim 9 jaar geleden hebben ze de IT en logistiek van elkaar gescheiden en hebben ze een zeer succesvol track and trace product ontwikkeld. Er werken 12 enthousiaste collega's waarvan 6 developers in een zeer prettige en informele setting. Ze ontwikkelen high end mobile apps voor mobiele telefoons en tablets.\nOok Java Developers die graag Native Android apps willen bouwen zijn hier zeker welkom!\nDe Functie:\nIn de functie als Mobile Developer bouw je Native Android apps, waarbij je betrokken wordt bij het gehele ontwikkelproces. Denk hierbij aan het ontwerpen, testen en implementeren van de applicaties. Je werkt hier zowel in teamverband als zelfstandig waarbij er veel ruimte is voor ontwikkeling. Je wordt hier goed begeleid waardoor je je goed kan ontwikkelen als developer.\nGevraagd Profiel:\n• Je hebt hbo-werk- en -denkniveau.;\n• Je hebt ervaring met Native Android mobile development of Java;\n• Je werkt graag in een jong dynamisch team;\n• Je spreekt en schrijft goed Nederlands;\n• Je wil jezelf ontwikkelen.\nArbeidsvoorwaarden:\nDe arbeidsvoorwaarden zijn hier goed. Goed salaris, veel opleidingsmogelijkheden, deels thuiswerk en meer!\nGeïnteresseerd of vragen? Neem dan contact op met Toon Klaassen via Het emailadres op careervalue.nl bekijken of door te bellen / Whatsappen naar Toon telefoonnummer",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://nl.jooble.org/jdp/-5834822322977866404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJjb25maWRlbnRpYWwiLCJhZGRyZXNzX2NpdHkiOiJIb2V2ZWxha2VuLCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoiNDhLMVhfaEJLbmxOWGY5MkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "DPG Media",
+            "location": "Duivendrecht, Netherlands",
+            "via": "Nationale Vacaturebank",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=OEjJf3VBUKj-FakFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNOwoCMRAAUGz3CFZTiYgmIthoJQQWBMUbLPkMm0jMhMy47C28stq89nWfRbe-lNAoBTA4YaaKDXZwJQeMtvkIVKAnGjMuz1Gk8klr5qxGFivJK08vTQUdzfpJjv8MHG3Dmq3gcDjuZ1XLuFmZRw83DMlCKmDeacLfiz7KFu4oEVu2JfAXQPXQ5ZIAAAA&shmds=v1_AUFQtOOmewSSqfDpMGls1QWaUIAtTrWXanV2jgXhrB5xCm57Fg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OEjJf3VBUKj-FakFAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time and Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time and Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Functieomschrijving\n\nAmsterdam - We're looking for a skilled Android Developer who will contribute to delivering news and magazines content to millions of mobile users.\n\nAbout the team\nAs an Android Developer, you will join a team that builds and runs the platform front-to-back (DevOps) with back-end, front-end, web- and app-developers. We don't have \"bug\"-teams, so 'You build it, You Run it!'. In close collaboration with other teams, the team you will join create the best experiences for sites and apps for the premium news brands of DPG Media.\n\nWhat you will be doing\nWithin the Selectives Area (consisting of five teams), we create the best experiences across the digital presence of our premium news and magazines brands: De Volkskrant, Trouw, Het Parool, De Morgen, HUMO, Libelle, Margriet and Flair.\n\nTechnically, we are building a white-label platform for multiple DPG Media brands for web, mobile and tablets. Together with your team, you will build and run the best possible platform for our users. As a member of a Scrum team, you will also work closely with the Product Owner, our (UX) designers and business stakeholders.\n\nWho you are\n• We are seeking an experienced Android developer who also loves learning new things and keeps a close eye on technological developments. Since we highly value quality, this should be your focus as well;\n• We work Agile/Scrum so you should have experience with Scrum or other Agile methodologies;\n• We would love for you to be positively critical and always looking for the 'why' of things;\n• Fluent in English.\n\nYou have worked with\n• Kotlin;\n• Jetpack Compose;\n• Jira / Confluence;\n• Clean Architecture;\n• Test Driven Development;\n• Having worked with iOS development is a big plus;\n• Experience with white label apps would als be a big plus;\n\nWe offer\n• An experience-based salary\n• 12% personal choice budget (of which is 8% holiday allowance)\n• Participating in profit every year.\n• 36-hour working week\n• Over 350 training opportunities in our own academy. We also pay for your training that isn't in our academy. If you'd like to become TOGAF certified, we'd be happy to offer you this.\n• Does a physical newspaper or magazine on your doormat make you happy? We offer you a subscription of your choice!\n• We also offer travel allowance, a flexible work allowance and a staff discount for specific options.\n• There is also knowledge sharing from our tech colleagues\n\nOpleidingsniveau: HBO\nCarrièreniveau: Ervaren\nUren: 32 - 36 uur per week",
+            "apply_options": [
+                {
+                    "title": "Nationale Vacaturebank",
+                    "link": "https://www.nationalevacaturebank.nl/vacature/5a1495af-1676-4d86-818e-cd293a77cf72/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://nl.bebee.com/job/68c9162583ecabc4a0f29c5a3a1ef2f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkRQRyBNZWRpYSIsImFkZHJlc3NfY2l0eSI6IkR1aXZlbmRyZWNodCwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6Ik9FakpmM1ZCVUtqLUZha0ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Mobile Software Developer",
+            "company_name": "Egeniq",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=AqfYstWk3Hu5_hfzAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU7nKpoUwUWngiIIuvgBJYnXJJLmYu7QfodfrC5vfM1n1rQXsjEh3GiQt6kIB3xhooIV1nAmC4ymugCU4UTkE873QaTwTmvmpDyLkeiUo1FTRkuTfpDlPz2H31eSEew323ZSJfvl4ugxxyfEDN2IlQeiKiu4ogSsyeQ7fwHR-snjlQAAAA&shmds=v1_AUFQtOOT4FhozRP1md_6tM-6YSGQ1GwiptjX0XU4n5qlncHZWw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AqfYstWk3Hu5_hfzAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a82802b588299aa0c59/images/c15c9079e78d0b60e9872cc5277c25880d13f5cedcbb3f73e4fb06df749dd757.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Georgia (country), Netherlands\n\nMobile Software Developer\n\nWil je graag bijdragen aan inspirerende interactieve mobiele applicaties in het medische en gezondheidsgebied dan is de rol als software developer bij Peercode misschien iets voor jou. Je werkt als software specialist graag zelfstandig en in klein teamverband. Je kunt goed samenwerken en vind het leuk om samen met de klant een mooi en functioneel product te ontwikkelen. Met jouw kennis, ervaring en analytische blik kun jij projecten van A tot Z op pakken en problemen samen oplossen. Persoonlijke ontwikkeling vinden we belangrijk en daarom is er volop ruimte voor kennisontwikkeling. Het gaat goed met Peercode als het goed gaat met jou en je collega’s. Zo simpel is het!\n\nTaken en verantwoordelijkheden\n\nJe werkt als software specialist zelfstandig en in klein teamverband aan de ontwikkeling van geavanceerde mobiele applicaties (iOS en Android meestal in Flutter) dikwijls in het medische of lifestyle domein.\n• Je werkt graag zelfstandig en in klein team verband\n• Klant vraag vertalen in een effectieve en efficiënte functionaliteit\n• Problemen samen oplossen\n• Het ontwikkelen van maatwerk mobiele applicaties\n• Je bent verantwoordelijk voor je eigen projecten\n• Communiceren met de klant voor zowel het oplossen van problemen als het ontwikkelen van nieuwe functionaliteiten\n\nThis offer from \"Egeniq\" has been enriched by Jobgether.com and got a 76% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6630c890d0f5aee73037afb1-mobile-software-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiRWdlbmlxIiwiYWRkcmVzc19jaXR5IjoiQW1lcnNmb29ydCwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6IkFxZllzdFdrM0h1NV9oZnpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Vacature in Zaandam: Android developer met ervaring voor uniek software product!",
+            "company_name": "CareerValue BV",
+            "location": "Zaandam, Netherlands",
+            "via": "CareerValue",
+            "share_link": "https://www.google.nl/search?ibp=htl;jobs&q=Android+developer&htidocid=XGwsZXiJXZr2t8fuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_02OsW7CQBBElZZPSLU0FAjsCCkNqYACiYLSBQ1a323OF863p9214Sv5JkyXZqR50jzN7PkxCw06tEEIYoYLYvbYb2GXvXD04GmkxIUEejIgGVFiDjAyCww50g2Uf-2O07wI-8HZHNZw4haUUFwHnOHIHBJ9_nRmRbd1rZqqoIYWXeW4rzlTy4_6j1t9x1W7SVcSGl0331-PquSwXBwmRtJgGgj2zb-vKziTdSRpavoClzU8fNEAAAA&shmds=v1_AUFQtOOh_Ts8kzmAx0yML_2JWoZJyOgXJSihmtU9AUDkOg-7cQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=XGwsZXiJXZr2t8fuAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "ID:9996-21057\n\nDe Organisatie:\n\nWij zijn voor een nieuw software product van onze klant opzoek naar een ervaren Android ontwikkelaar.\n\nHet gaat om een uniek product waarbij het belangrijk is dat jij buiten de kaders kunt denken en samen met je collega's een nieuwe en slimme aanpak onderzoekt om dit product te ontwikkelen. Het zal tot stand komen in Android en het zal uniek zijn in zijn soort in de markt! Ze zijn hier buitengewoon succesvol mee en ondanks dat ze relatief jong zijn doen ze het in de markt heel erg goed. De groei zit er goed in bij dit bedrijf en aan jou de kans om nu in te stappen in een relatief jong bedrijf en zelf ook mee te groeien.\n\nDe Functie:\n\nVoor deze succesvolle organisatie zijn we nu opzoek naar een Android ontwikkelaar met ervaring. Met je gedreven collega´s ga je samen dit nieuwe product verder ontwikkelen, finetunen en er hele mooie en verstandige tools rond omheen ontwikkelen. Je komt te werken in een relatief jong team van gedreven en enthousiaste ontwikkelaars die samen de groei vieren van dit bedrijf door elke dag het beste uit zichzelf en elkaar te halen. De sfeer onderling is positief en collega's hier delen graag kennis en ervaring met elkaar. We zoeken iemand met tenminste 3 jaar ervaring als Android ontwikkelaar en bij voorkeur iemand met nog meer ervaring.\n\nJe krijgt veel vrijheid om Android te ontwikkelen op jouw manier en om je eigen persoonlijke stempel te zetten bij de uitingen van deze mooie partij.\n\nGevraagd Profiel:\n\n– Minimaal een afgeronde HBO/WO opleiding.\n\n– 2 á 3 jaar ervaring met het ontwikkelen van Android applicaties.\n\n– Kennis van Java/Android.\n\n– Ervaring met Eclipse.\n\n– Teamwork, stressbestendig, creatief en leergierig.\n\nArbeidsvoorwaarden:\n\nNaast goede primaire en sucundaire voorwaarden ( pensioenplan, onkostenvergoeding e.d.) hebben ze een heerlijk verzorgde lunch elke dag en is er onbeperkt verse koffie!\n\nLijkt dit voor jou een schitterende functie?\n\nIk ontvang graag jouw reactie op tim@careervalue.nl. Voor vragen ben ik bereikbaar op 06-15490856.\n\nSalaris:\n\n3500 – 4700 euro\n\nFunctie met:\n\nVaste werklocatie, werken in een vast team, niet te ver reizen, vaste werkplek, vaste standplaats\n\nSpecialisatie:\n\nNative Developer Android\n\nGerelateerd:\n\nAndroid developer, Android SDK, Android Java, Apps ontwikkelen, Mobile, app development, app developer, Native\n\nPlaatsen in de omgeving:\n\nHaarlem, Sloterdijk, Wormerveer, Purmerend, Heemstede\n\nGerelateerde vacatures:\n\nAmsterdam: IT Traineeship o.a. DevOps, Mobile, BigData en Software\nAmsterdam: Junior iOS Mobile Developer op de Zuidas\nPurmerend: Ervaren Android Developer gezocht\n\nContact:\n\nReageren op deze vacature? Neem dan contact op met:\nTim Vonk op telefoonnummer: +31 (0)88 88 33 072 of mobiel: +31 (0)6 15 49 08 56.\nSolliciteren kan ook door te mailen naar tim@careervalue.nl of via WhatsApp.\n\nGetagd als: vaste werklocatie",
+            "apply_options": [
+                {
+                    "title": "CareerValue",
+                    "link": "https://www.careervalue.nl/vacatures/mobile-development/vacature-in-zaandam-android-developer-met-ervaring-voor-uniek-software-product/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://nl.jooble.org/jdp/-4791370940432872109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Joof, Alle Banen In Nederland In 1 Overzicht! - Joof.nl",
+                    "link": "https://staging.joof.nl/vacature-android-developer-met-ervaring-voor-uniek-software-product-zaanstad/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/nl-zaandam-vacature-android-developer-met-ervaring-voor-uniek-software?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJWYWNhdHVyZSBpbiBaYWFuZGFtOiBBbmRyb2lkIGRldmVsb3BlciBtZXQgZXJ2YXJpbmcgdm9vciB1bmllayBzb2Z0d2FyZSBwcm9kdWN0ISIsImNvbXBhbnlfbmFtZSI6IkNhcmVlclZhbHVlIEJWIiwiYWRkcmVzc19jaXR5IjoiWmFhbmRhbSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6IlhHd3NaWGlKWFpyMnQ4ZnVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVVJRV2tGUGF6QmFRWGMwTVZwa1RqUnliRjlrUTJjMWVFUk5aelpvTVhWM09FTTNNVGhKU25vM1JFUmZRbDgwWkRjNVJIVXdRbGRSV2xkblkwd3diRE52TUc1UFpHNVpXa2RHVmtaalJIVnlPWHBoVEZWbU1XMWxUbFZLYWxGUFZ6Sk5kbkJsVFhsdE1XWTRkMDFWV21ZeU1ERmFZVVY1YVd0Q1l6UTJiMWd4ZW01c00xZHZWV0V3UjJKRmEwcGZSUzB5VVhwdlpGWkNhalI1T1hOdVZWa3lSV053WTBkb1F5MVplbk5aVjE5MlVDMXRlWHBDYzNsT2RIVmxObXhGY0d4b1pUZEdNbTE2UjI0MWVHbEVSVFJDUWt4V1UxSlVWSHBSYTJzeFluaGliVjlqY1ROTGNsWXlZbVZXVVZwM2FUUnplVWRpUzA5ZlR6RmhNRVF6T0hKeWNGOU9ibUYwUWtnMU9WOUxjRkZ3YlV0cVYySTROa3QyVDNjU0YyZG5jVVphTjIxTFRVeDVhalZPYjFBNVRVeFZNRkV3R2lKQlJsaHlSV055Vm5aRlFWbDFjMDF0UjJneWRXMW9iamgwTWtaQldtZHdUVkIzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.nl&location=Netherlands&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVVJRV2tGUGF6QmFRWGMwTVZwa1RqUnliRjlrUTJjMWVFUk5aelpvTVhWM09FTTNNVGhKU25vM1JFUmZRbDgwWkRjNVJIVXdRbGRSV2xkblkwd3diRE52TUc1UFpHNVpXa2RHVmtaalJIVnlPWHBoVEZWbU1XMWxUbFZLYWxGUFZ6Sk5kbkJsVFhsdE1XWTRkMDFWV21ZeU1ERmFZVVY1YVd0Q1l6UTJiMWd4ZW01c00xZHZWV0V3UjJKRmEwcGZSUzB5VVhwdlpGWkNhalI1T1hOdVZWa3lSV053WTBkb1F5MVplbk5aVjE5MlVDMXRlWHBDYzNsT2RIVmxObXhGY0d4b1pUZEdNbTE2UjI0MWVHbEVSVFJDUWt4V1UxSlVWSHBSYTJzeFluaGliVjlqY1ROTGNsWXlZbVZXVVZwM2FUUnplVWRpUzA5ZlR6RmhNRVF6T0hKeWNGOU9ibUYwUWtnMU9WOUxjRkZ3YlV0cVYySTROa3QyVDNjU0YyZG5jVVphTjIxTFRVeDVhalZPYjFBNVRVeFZNRkV3R2lKQlJsaHlSV055Vm5aRlFWbDFjMDF0UjJneWRXMW9iamgwTWtaQldtZHdUVkIzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

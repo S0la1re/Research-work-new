@@ -1,0 +1,37 @@
+[] - iOS, [] - Android
+-----------------------
+- [+],[+] Austria_0
+- [+],[+] Belgium_0
+- [+],[+] Bulgaria_0
+- [+],[+] Canada_0
+- [+],[+] Croatia_0
+- [+],[+] Cyprus_0
+- [+],[+] Czechia_0
+- [+],[+] Denmark_0
+- [+],[+] Estonia_0
+- [+],[+] Finland_0
+- [+],[+] France_0
+- [+],[+] Germany_0
+- [+],[+] Greece_0
+- [+],[+] Hungary_0
+- [-],[+] Iceland_0
+- [+],[+] Ireland_0
+- [+],[+] Italy_0
+- [+],[+] Latvia_0
+- [+],[+] Liechtenstein_0
+- [+],[+] Lithuania_0
+- [+],[+] Luxembourg_0
+- [+],[+] Malta_0
+- [+],[+] Mexico_0
+- [+],[+] Netherlands_0
+- [+],[+] Norway_0
+- [+],[+] Poland_0
+- [+],[+] Portugal_0
+- [+],[-] Romania_0
+- [+],[+] Slovakia_0
+- [+],[+] Slovenia_0
+- [+],[+] Spain_0
+- [+],[+] Sweden_0
+- [+],[+] Switzerland_0
+- [+],[+] United Kingdom_0
+- [+],[+] United States_0

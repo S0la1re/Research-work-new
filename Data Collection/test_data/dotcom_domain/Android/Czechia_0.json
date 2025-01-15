@@ -1,0 +1,456 @@
+{
+    "search_metadata": {
+        "id": "6784edac8c8dfe40cb7d114c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/646ba151e49d7475/6784edac8c8dfe40cb7d114c.json",
+        "created_at": "2025-01-13 10:40:44 UTC",
+        "processed_at": "2025-01-13 10:40:44 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIHQ3plY2hpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/646ba151e49d7475/6784edac8c8dfe40cb7d114c.html",
+        "total_time_taken": 1.25
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Czechia",
+        "location_used": "Czechia",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjKuYydwfKKAxWzw8kDHaN-EAEQxKsJegQIIhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Global Payments",
+            "location": "Prague, Czechia",
+            "via": "Global Payments Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=FESyAp4WM6giqmOsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU6Hk4g2IrjoJAoFp_5BuaRHEknvQi5K9Rf8afENr_kumvWFxyJxhBu9KEmmAju4iwUlLC6AMHQiPtHyHGrNejJGNbVeK9boWieTESYrs3mI1X-DBiyUE1YaDsf93Gb2m1WXxGKCHt8TcVWIDH1B_6QtXD_kQsQfifAVhI4AAAA&shmds=v1_AUFQtOM6JPnVZfZ9ir3_h3fEmwtbqGvGnuQyLIBMp3MB4JbEXg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=FESyAp4WM6giqmOsAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "#LI-DJ1\n\nSummary of This Role\n\nWorks throughout the software development life cycle and performs in a utility capacity to create, design, code, debug, maintain, test, implement and validate applications with a broad understanding of a variety of languages and architectures. Analyzes existing applications or formulate logic for new applications, procedures, flowcharting, coding and debugging programs. Maintains and utilizes application and programming documents in the development of code. Recommends changes in development, maintenance and system standards. Creates appropriate deliverables and develops application implementation plans throughout the life cycle in a flexible development environment.\n\nWhat Part Will You Play?\n• Demonstrates subject matter expertise (SME) to develop complex code using both front and/or back end programming languages within multiple platforms as needed in collaboration with business and technology teams for internal and external client software solutions. Designs, creates, delivers, and advises others on complex program specifications for code development and support on multiple projects/issues with a wide understanding of the application / database to better align interactions and technologies.\n• Provides SME analysis, modification, and development of complex code / unit testing in order to develop concise application documentation. Evaluates, develops and implements testing, validation requirements, and corrective measures for highly complex code deficiencies and provides systemic proposals.\n• Participates in client facing meetings, joint venture discussions, vendor partnership teams to determine solution approaches.\n• Provides SME recommendations to leadership on the design, development and enforcement of business / infrastructure application standards to include associated controls, procedures and monitoring to ensure compliance and accuracy of data. Applies a full and comprehensive understanding and in-depth knowledge of procedures, methodology and application standards to include Payment Card Industry (PCI) security compliance.\n• Provides SME advice for estimates on highly complex initiatives, projects and issues.\n• Performs on-the-job training and provides SME guidance to software engineers.\n\nWhat Are We Looking For in This Role?\n\nMinimum Qualifications\n• BS in Computer Science, Information Technology, Business / Management Information Systems or related field\n• Typically minimum of 8+ years - Professional Experience In Coding, Designing, Developing And Analyzing Data. Typically has a broad and comprehensive advanced knowledge of multiple opposing front / back end languages / technologies from the following but not limited to: two or more modern programming languages used in the enterprise, experience working with various APIs, external Services, experience with both relational and NoSQL Databases.\n\nPreferred Qualifications\n• BS in Computer Science, Information Technology, Business / Management Information Systems or related field\n• 10+ years professional Experience In Coding, Designing, Developing And Analyzing Data and experience with IBM Rational Tools\n\nWhat Are Our Desired Skills and Capabilities?\n• Skills / Knowledge - Having broad expertise or unique knowledge, uses skills to contribute to development of company objectives and principles and to achieve goals in creative and effective ways. Barriers to entry such as technical committee review may exist at this level.\n• Job Complexity - Works on significant and unique issues where analysis of situations or data requires an evaluation of intangibles. Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results. Creates formal networks involving coordination among groups.\n• Supervision - Acts independently to determine methods and procedures on new or special assignments. May supervise the activities of others.\n• Operating Systems:\n• Linux distributions including one or more for the following: Ubuntu, CentOS/RHEL, Amazon Linux\n• Microsoft Windows\n• z/OS\n• Tandem/HP-Nonstop\n\nDatabase - Design, familiarity with DDL and DML for one or more of the following databases Oracle, MySQL, MS SQL Server, IMS, DB2, Hadoop\nBack-end technologies - Java, Python, .NET, Ruby, Mainframe COBOL, Mainframe Assembler\nFront-end technologies - HTML, JavaScript, jQuery, CICS\nWeb Frameworks – Web technologies like Node.js, React.js, Angular, Redux\nDevelopment Tools - Eclipse, Visual Studio, Webpack, Babel, Gulp\nMobile Development – iOS, Android\nMachine Learning – Python, R, Matlab, Tensorflow, DMTK",
+            "apply_options": [
+                {
+                    "title": "Global Payments Careers",
+                    "link": "https://jobs.globalpayments.com/en/jobs/r0057855/android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Welcome To The Jungle",
+                    "link": "https://www.welcometothejungle.com/en/companies/digiteq-automotive/jobs/android-developer_praha_DA_1kRzYpP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/Prague-Czechia/Android-Developer_R0057855/apply/applyManually?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-developer/3375209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Volná Místa",
+                    "link": "https://www.volnamista.cz/nabidka-prace/android-developer/207614521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed.cz",
+                    "link": "https://cz.indeed.com/viewjob?jk=f77d9df8f17fa6e1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Práce - Kurzy.cz",
+                    "link": "https://prace.kurzy.cz/urad-prace/nabidka-prace/ostatni-ridici-pracovnici-oblasti-informacnich-komunikacnich-technologii-android-developer-praha-573597c10.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Au Media",
+                    "link": "https://www.aumedia.sk/job/android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikdsb2JhbCBQYXltZW50cyIsImFkZHJlc3NfY2l0eSI6IlByYWd1ZSwgQ3plY2hpYSIsImh0aWRvY2lkIjoiRkVTeUFwNFdNNmdpcW1Pc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Android Mobile Software Engineer",
+            "company_name": "Allegro",
+            "location": "Prague, Czechia",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=HVyKw_eqyRFAyV3OAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMQQrCMBAAQLz2CT3tWTQRQQQ9FRFBEAQfUJJ0TVLibshGLD7DF6uXOU7zmTXbjobCcYAL25gQbnyvL1MQjuQjIRZYwpktCJriAjDBidknbPeh1iw7rUWS8lJNjU45fmgmtDzpka386SX8upxMxX69WU0qk5-3XUroC0MkuBbjn7iAwxtdiOYL1dZCLZUAAAA&shmds=v1_AUFQtOOCjhNGhU9k2pF-D6LGYAdW5TcPtfSNVcZPZG4Wg5-JbQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HVyKw_eqyRFAyV3OAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edac8c8dfe40cb7d114c/images/3d1a4b7a49050cd94c1462455f171100b3932a33408032577577371f18160498.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mobile Software Engineer (Android)\n\nAs part of the Store-in-store team, you will be working on an innovative product that aims to create a dedicated place for brands and retailers within the broader Allegro platform in multiple countries. We are part of the Allegro Group, which ranks among the ten most visited e-commerce websites in the world. Development teams at Allegro consist of more than 1,700 IT specialists. We are now looking for talented Android Mobile app developer (mid) for permanent employment to join our team and help accelerate the growth of our solution.\n\nWho are we?\n\n• We aim to create a dedicated place for brands and retailers within the Allegro platform in several countries\n• We create components for customers, as well as tools for administrators representing brands and retailers\n• Our daily challenge is solving complex customer problems on a large-scale technological platform\n• Our product involves several closely collaborating teams based in Prague and Brno\n• Each team consists of a Product Manager, Front-end and Back-end developers, QA engineer and a UX designer\n• We work in agile methodology - Kanban\n• We constantly improve processes and introduce new technologies\n• We meet 1-2 times a week in the office, go out for lunch, or have a team breakfast together (we do not want to see each other only on Zoom, but we also do not need to be in the office every day)\n• Occasionally we collaborate with colleagues from Poland, documenting in English, but internal team communication is in Czech\n• We are looking for a new colleague who would help us speed-up our mobile app development as a dedicated Mobile Software Engineer\n\nWho are you?:\n\n• Understand the app development process, from design to App Store release\n• Android:\n\n• Know Android SDK inside out, both from the user's and developer's perspective\n• Understand what’s under the hood of Gradle build process\n• Are fluent in Kotlin. Our codebase is 100% migrated to Kotlin\n• Are proficient in Android Studio and have experience in using version control systems\n• Have hands-on experience with object-oriented programming, algorithms, and data structures\n• Have experience in maintaining Continuous Integration environments\n• Like to work with technologies that go beyond the mobile stack\n• Have strong communication skills to effectively collaborate with teams both online and offline and resolve issues promptly\n• Have excellent debugging skills to troubleshoot and find creative solutions when faced with technical challenges\n• Are hands-on and problem-solving oriented\n• Can search for efficient solutions to meet users’ requirements\n• Are eager to continuously develop their skills and update their knowledge\n• You know Czech and English (at B2 level minimum)\n• You can meet us at least once a week in the office in Prague Holešovice\n\nWhat do we offer?\n\n• English classes that we pay for related to the specific nature of your job\n• Co-financing of meals, sports card and additional days off for volunteer work\n• Our office in Holešovice is dog-friendly\n• We will be happy to hear your ideas and even happier to hear your jokes\n• We will give you the space to try new things\n• We work in small, but effective teams - corporate jungle won't stop us\n• We organize hackathons and other team events\n• You can join our team tourism\n• We have our own learning platform, but we also have a budget for education and conferences. Our experienced colleagues will also help you with your development\n• Once you use up your 20 days of vacation, you can take an additional 5 relax days, and if you are not feeling well, there are 3 sick days available\n• If you want to learn more about the benefits, check it out\n\nIf you are interested, please send your CV in English. The recruitment process is conducted fully in English (there will be an additional, short 5 minute phone call in Czech if it is not your native language).",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-mobile-software-engineer-allegro-5859969?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://globalworkly.com/jobs.php?job=Android+software+engineer&country=Czech+Republic&city=Prague&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emprego.pt",
+                    "link": "https://www.emprego.pt/jobs/show/31841681174677168730616141089?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIE1vYmlsZSBTb2Z0d2FyZSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkFsbGVncm8iLCJhZGRyZXNzX2NpdHkiOiJQcmFndWUsIEN6ZWNoaWEiLCJodGlkb2NpZCI6IkhWeUt3X2VxeVJGQXlWM09BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android Leader / Senior Android Developer",
+            "company_name": "Thales",
+            "location": "Prague, Czechia",
+            "via": "Cool Jobs Clever Companies",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=n7UjmCuNTXmO1A9GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXJMQoCMRBAUWz3BlpNLZqIYKPNioIgFoL2yyQ7JJGYCZkoi0fxtGph84v3m_eoabepLxx6OBH2VEDDhVLgAn_f05Mi5--aw5ENCGGxHjjBgdlFmmx8rVnWWotE5aRiDVZZvmtOZHjQNzbySyceC-WIlbrlajGonNx0fPUYSSAkOBd0D5rB7kXWB_wAvgg5Dp0AAAA&shmds=v1_AUFQtOMsPEIM-uJ9bUzEf2z6ASeyZ9LKZoCFTq1DHQoSImIoug&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=n7UjmCuNTXmO1A9GAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edac8c8dfe40cb7d114c/images/3d1a4b7a49050cd9ee0600696912d272ead9915d25c926f6bd8d17471ea1456e.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Android Developer for Biometrics and Identity Management\n\nAs an Android development engineer in the Government Platform & Services Core Team, you will contribute to fulfilling the marketing vision of governmental services based on secure electronic documents and electronic identity. You will be exposed to issuance and reading of secure documents (passports, ID cards), biometric devices, mobile handset devices, cryptography, online transactions, and digital identity management. You will learn which principles are making the modern e-government a reality.\n\nOur mobile application development is focused mainly on verification of secure documents and citizens’ identity, acquisition of biometric data, communication with backed biometric databases, and multi-factor authentication methods. We rely on Thales’ experience with digital security and bring it to the mobile world.\n\nA week in the life of a Senior Android developer:\n• You will work in a small team of developers, cooperate closely with the product owner on product delivery in the required time frame and quality.\n• You will analyze the product needs and contribute to product specifications.\n• You will design UML architecture and contribute to the implementation of reusable software components.\n• You will work on proofs-of-concept of new technologies and innovative solutions.\n• You will give support to developers from other teams who are using your source codes or binaries.\n• You will contribute to user documentation of your software.\n• You will be involved in the qualification and integration of new mobile devices for the area of government services (e.g. mobile biometric identification terminals).\n\nKnowledge, Skills, and Experience:\n• To succeed at this job, you must have good knowledge of Android platform and mobile application development, a good understanding of web technologies, experience with continuous integration.\n• It would be an advantage if you have experience with other mobile platforms and programming languages (iOS, Windows Mobile, Xamarin), experience with biometry, cryptography, security topics, and agile methodologies.\n• We are looking for someone with at least 3 years of experience in SW development and 1 year of professional experience with development on the Android platform.\n• You must be fluent in English.",
+            "apply_options": [
+                {
+                    "title": "Cool Jobs Clever Companies",
+                    "link": "https://job.coolever.life/job/thales-android-leader-senior-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIExlYWRlciAvIFNlbmlvciBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlRoYWxlcyIsImFkZHJlc3NfY2l0eSI6IlByYWd1ZSwgQ3plY2hpYSIsImh0aWRvY2lkIjoibjdVam1DdU5UWG1PMUE5R0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Latam IOS / Android Developer",
+            "company_name": "Praxent",
+            "location": "Anywhere",
+            "via": "The Org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=wj5cOnwBmEnDIN3tAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGQQrCMBAAQLz2CT3tWbQR0YueREEUQcEHlG26JJE0G7KrFD_hl9XLMNVnUq0uqDjA6XoHA7vUFw49HOhFkTMVmMOZOxDCYj1wgiOzi1RvvWqWjTEisXGiqME2lgfDiToezYM7-dOKx0I5olK7XC_GJic3rW8FR0oKIcGv7kkz2L_J-oBfGdL3r5IAAAA&shmds=v1_AUFQtONN6OjPx4fda5PyodPXwFZVVIlMV-QF0UvkCfont2GsWA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wj5cOnwBmEnDIN3tAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edac8c8dfe40cb7d114c/images/3d1a4b7a49050cd9552d71f4ac367c6939692b24034d174a0c6eb8aaea84a9bb.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "Why Praxent?\n\nWe get it. You have options. Let us tell you why we’re different. Our work is changing the world of financial services. Everyday, clients arrive with big ideas for their industry. They’re experts in their field with the vision and resources you need to change everything. All that’s left is the right team to bring that vision to life. If you’re a fast learner and you love working on a wide variety of projects, you’re going to like it here. We help our clients modernize, rather than rebuild, outdated customer-facing software applications. Our clients see a return within weeks instead of months and that’s why they choose us.\n\nAt Praxent, we let you do your work your way. We’re a team of 120+ located throughout the United States and Central/South America. Our role is to encourage you, support you, and give you the freedom you need to thrive. Whether you’re working at home, in a coffee shop, or heck, even on your travels, we’re here to create an environment that lets you live your best life. On your terms.\n\nWe trust our people to be their best. It’s a level of autonomy and respect that’s helped us grow a diverse and brilliant team of experts. Experts who also happen to be some of the best colleagues you’ve ever worked alongside.\n\nThis role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice which must be identified to the Company. Employees may live in the following locations: Mexico, Guatemala, El Salvador, Costa Rica, Colombia, Ecuador, Peru, Brazil, Argentina.\n\nWe'd Love To Hear From You If\n• Bachelor’s degree in related discipline or 2-4 years of relevant experience\n• 4+ years experience in software engineering\n• 2+ years experience in Swift, Objective-C, Java, Kotlin\n• 2+ experience in iOS and Android development required\n• Experience developing high-quality mobile applications\n• Strong UI/UX design understanding\n• Previous agency experience and experience working in software teams with Agile, Scrum, and Kanban methodologies preferred.\n\nWhat You’ll Love About Us:\n• Stability. We've been in business for over 20 years.\n• Work stays at work. We promote a healthy work/life balance to help ensure you have the time that you need. We encourage no more than a 40 hour work week.\n• Great company culture. We’ve been recognized by Texas Monthly, Clutch, Comparably, and more for the quality of our workplace. Feel free to check out our rating on Glassdoor.\n• We’re here to enable you. It’s your work and your career. Our management team is here to help you become who you want to be. Not to micromanage you.\n• We value your ideas. At Praxent, our doors are always open. Need help? Come on in. Have a vision for the future of the company? We’d love to hear it.\n• Rest and relaxation. You’ll get 12 days of paid time off after your first three months; we also observe your country of residence holiday schedule.\n• Professional development. Want to continue your education? Praxent pays for classes, conferences, and more.\n• You’re more than an employee, you’re a person. Every co-worker you’ll meet is committed to treating you with respect and kindness. You’ll never hear stuff like, “It’s just business.”\n• Growth Days. A few times per year we take a break from client work and focus on professional development.\n\nIf Praxent sounds like the place for you, we’d love to have you. Write which core value of ours you resonate with most.\n\nSalary range of: $2,750 - $3,500 USD per month\n\nNote: Salary range is subject to location and overall assessment.\n\n#LI-Remote",
+            "apply_options": [
+                {
+                    "title": "The Org",
+                    "link": "https://theorg.com/org/praxent/jobs/latam-ios-android-develop-ad1aeddb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Findjob24h.com",
+                    "link": "https://cz.findjob24h.com/it/senior-ios-android-developer-job45166?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMYXRhbSBJT1MgLyBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlByYXhlbnQiLCJhZGRyZXNzX2NpdHkiOiJQcmFndWUsIEN6ZWNoaWEiLCJodGlkb2NpZCI6IndqNWNPbndCbUVuRElOM3RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "TappyTaps s.r.o",
+            "location": "Hořice, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=AgZmU4_J-_CXluSOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvCVYLNiKaiGCjlSgo1vbHJrdcIjG7ZIOcvsEP-CD_pU4xzWvUTHe5Kxw7ONCdEgsVWMCZHShh8QE4w5G5TzTehlpFN9aqJtNrxRq98XyznMnxYK_s9F-rAQtJwkrtar0cjOR-NrmgyOOXgppiGGKGE3_e0dMc9k_yIeIXNfP9gI8AAAA&shmds=v1_AUFQtOP1XNgbvRLmBQ2iC-CWDFlesMIsYfD3YkEetWDCo5NTcA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AgZmU4_J-_CXluSOAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer\n\nJoin us and help us develop meaningful and globally successful mobile apps.\n\nDo you love programming? Would you like to participate in the development process of globally successful mobile apps? Now is your chance! Join our TappyTaps team and help us develop meaningful apps. 👍\nWhy join TappyTaps?\n\nWe are a well established IT company in Hořice v Podkrkonoší, creating mobile and desktop apps with a global reach.\n\nWe don't do any contract development; we create our own apps that we believe in. We do everything in-house, from the initial idea, through wireframes and design to the actual development and marketing.\n\nWe have been operating in the mobile app market for the past 12 years. Our most popular apps (Bibino, Barkio, Baby Monitor 3G) have been loved by millions of customers from the United States, Europe and Australia. Our apps are regularly featured in both App Store and Google Play and rank in the top charts in many countries.\nWhat do you need to enjoy working with us?\n• you know Kotlin at a very good level\n• you are familiar with Android API\n• you speak English at B1 level (at least)\n• you are interested in programming and developing your skills (both in and outside of work)\n• you live for the latest technologies and mobile applications\n• experience in a similar position is not necessary; your work ethic and desire to learn are more important to use\nWhat can you expect?\n• 5 experienced developers who will welcome you into the team with open arms\n• developing new apps and improving existing ones\n• morning stand-ups, three-week sprints and, most importantly, visible results of working together\n• opportunity to participate in the development of globally successful applications\n\nThe work in TappyTaps is very diverse. We have customers from all over the globe, and we are constantly trying to improve our apps to make them truly helpful to our users. We value ideas, and when they make sense for our users as well, we are happy to implement them.\nWhat do you get from working with us?\n• opportunity to participate in the development process of mobile apps with a global reach\n• chance to improve your programming skills and learn from experienced developers\n• 4-day work week 😉\n• chance to work with the latest technologies\n• full-time job with career growth opportunities\n• job in a stable and thriving company\n• MacBook Pro\n• unlimited access to quality coffee and tea\n• great team\nWhat is the TappyTaps team like?\n\nWe are a team of friendly developers, graphic designers, web developers and support staff. We don't use clock cards, and we are not fans of a strict 30-minute lunch break. From time to time, we organize a team event. In the past, we participated in a first aid course, an escape game or did canoeing. 🛶 The main benchmark for us is the work we get done. We really enjoy what we do, and we'd love it if you enjoyed it too.\n\nOur offices are about a 5-minute walk from the bus station and about 15 minutes from the train station. You can also park conveniently (for free) right on the premises.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/-4853049728464486088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlRhcHB5VGFwcyBzLnIubyIsImFkZHJlc3NfY2l0eSI6IkhvxZlpY2UsIEN6ZWNoaWEiLCJodGlkb2NpZCI6IkFnWm1VNF9KLV9DWGx1U09BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android developer",
+            "company_name": "DaMi development",
+            "location": "Prague, Czechia",
+            "via": "Indeed.cz",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=K8MvD92Sn4BInabmAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXNMQoCMRAAQGzvCVYLNiKaiGCjlSgIguAPjk2yJDly2ZCNcvgGHy0WNtNO95l1y1N2laMDRy9KXKjCBm5sQAirDcAZrsw-0fwYWity0FokKS8NW7TK8qg5k-FJD2zkRy8BK5WEjfrdfjupkv1qccF7_B8j5QYxw6Oif9Iazm-yIeIXJ_DoO48AAAA&shmds=v1_AUFQtOP0KYveihIrL5gOVROJVOFpEg1sx3dor6OjpQ-A5qzLgw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=K8MvD92Sn4BInabmAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "S čím nám můžeš pomoci\n\nV současnosti pracujeme na zcela nových projektech pro širokou veřejnost. Zároveň připravujeme aktualizace současných aplikací pro naše dlouholeté partnery.\n\nPokud tě zajímají výzvy v oblasti Android vývoje, u nás získáš příležitost. Budeš u vývoje aplikací, a to od elektrokol , věrnostních aplikací , úložné boxy , až po platební terminály a čtečky kódů pro skladové systémy .\n\nVždy dbáme na design, připravenou analytiku, architekturu i funkčnost. Jdeš do toho s námi?",
+            "apply_options": [
+                {
+                    "title": "Indeed.cz",
+                    "link": "https://cz.indeed.com/viewjob?jk=7f7e8a117c508e24&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Volná Místa",
+                    "link": "https://www.volnamista.cz/nabidka-prace/android-developer/180250778?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/5529841775531255645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkRhTWkgZGV2ZWxvcG1lbnQiLCJhZGRyZXNzX2NpdHkiOiJQcmFndWUsIEN6ZWNoaWEiLCJodGlkb2NpZCI6Iks4TXZEOTJTbjRCSW5hYm1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android developer",
+            "company_name": "ALTAIR SOFTWARE s.r.o.",
+            "location": "Olomouc, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=YpsPLZjXS0W3c86GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43StFEBBedgqgoQqEWHEuaHk0kzYVclOJv-MPiG17xnRULFfpEroce3-gpYoIVXKkDRp2MBQpwJho8zvc258g7KZm9GDjr7IwwNEoK2NEkn9Txv5atThi9zthututJxDCUpbo16lLDvTo1D1UfgUUSJMAFqDyN9DJLOHzQWKd_euwx9JYAAAA&shmds=v1_AUFQtOOda-MJNdQG8qj5T7L4Vo9hDm84qkaDiX09VJ88QRfmow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=YpsPLZjXS0W3c86GAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Pracoviště: tř. Kosmonautů č.p. 1288/1, Olomouc.\nPracovní doba 9.00 - 17.30 hod.\n- minimálně 3 roky zkušeností s vývojem mobilních aplikací pro operační systém android\n- znalost JAVA\n- znalost Kotlin\n- Android SDK\n- znalost SQL Lite\n- znalost práce s verzovacím systémem GIT\n- znalost REST API\n- výhodou znalost Android Jetpack\n- cit pro UI/UX\n- anglický jazyk minimálně na úrovni B1\n\nZam. výhody: Homeoffice, školení, pružná pracovní doba a společenské/firemní akce.\nKontakt je možný POUZE telefonicky (od 9.00 - 16.00) nebo emailem.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/4073336871397760020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFMVEFJUiBTT0ZUV0FSRSBzLnIuby4iLCJhZGRyZXNzX2NpdHkiOiJPbG9tb3VjLCBDemVjaGlhIiwiaHRpZG9jaWQiOiJZcHNQTFpqWFMwVzNjODZHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "Application Developer for Android",
+            "company_name": "XYZ Solutions",
+            "location": "Prague, Czechia",
+            "via": "Skyway Staffing Group",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=8jb68VByBz-YVqGrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBQAce0nOL1ZNBFBEJ2KguAkuKhLSdLXJBLzQl4qxT_xb22Xm4676jerdnVKwRtVPEU44QcDJczQUYY6tpl8Cyu4kAZGlY2D0ToT2YDzgysl8V5K5iAslzFhhKG3pIiaBvkizRMadipjCqpgs9muB5GiXcD98YQbhX76MvgI16xsj0s4ftE4r_7csj-YnAAAAA&shmds=v1_AUFQtOMi_l8rvXc0aY8s2z1TdFpYMlyA2WR997YYjBpP_aepcw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8jb68VByBz-YVqGrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edac8c8dfe40cb7d114c/images/3d1a4b7a49050cd9a3beb35d730b413692dcd88b54ac14bf791670ad814a7e40.png",
+            "extensions": [
+                "Full-time, Part-time, and Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time, Part-time, and Contractor"
+            },
+            "description": "A job, or occupation, is a person’s role in society. More specifically, a job is an activity, often regular and often performed in exchange for payment “for a living”Many people have multiple jobs e.g., parent, homemaker, and employee. A person can begin a job by becoming an employee, volunteering, starting a business, or becoming a parent. The duration of a job may range from temporary e.g., hourly odd jobs to a lifetime e.g., judges.\n\nAn activity that requires a person’s mental or physical effort is work as in “a day’s work”. If a person is trained for a certain type of job, they may have a profession. Typically, a job would be a subset of someone’s career. The two may differ in that one usually retires from their career, versus resignation or termination from a job.\n\nTypes of jobs\n\nJobs can be categorized, by the hours per week, into full time or part time. They can be categorized as temporary, odd jobs, seasonal, self-employment, consulting, or contract employment.\n\nJobs can be categorized as paid or unpaid. Examples of unpaid jobs include volunteer, homemaker, mentor, student, and sometimes intern.\n\nJobs can be categorized by the level of experience required: entry level, intern, and co-op.\n\nSome jobs require specific training or an academic degree.\n\nThose without paid full-time employment may be categorized as unemployed or underemployed if they are seeking a full-time paid job.\n\nMoonlighting is the practice of holding an additional job or jobs, often at night, in addition to one’s main job, usually to earn extra income. A person who moonlights may have little time left for sleep or leisure activities.\n\nThe Office for National Statistics in the United Kingdom lists 27,966 different job titles, within a website published 2015.",
+            "apply_options": [
+                {
+                    "title": "Skyway Staffing Group",
+                    "link": "https://www.skywaystaffinggroup.com/job/application-developer-for-android/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Blue Stones LLC",
+                    "link": "https://bluestonesllc.com/job/application-developer-for-android/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWNhdGlvbiBEZXZlbG9wZXIgZm9yIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJYWVogU29sdXRpb25zIiwiYWRkcmVzc19jaXR5IjoiUHJhZ3VlLCBDemVjaGlhIiwiaHRpZG9jaWQiOiI4amI2OFZCeUJ6LVlWcUdyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "Mobile App developer (iOS, Android)",
+            "company_name": "Investors In Ideas Ltd",
+            "location": "Prague, Czechia",
+            "via": "Indeed.cz",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=05cV3gMNHSNg5juyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXESwrCMBAAUNz2CK5maaU2Iripq-JCKoqCByj5DEkkZkImluJ5PKj4Fq_6LqruSsoHhD4lMDhhoIQZVv72aKCPJpM3NWzgTAoYZdYOKMKJyAZcHlwpiTshmENrucjidavpJSiiolk8SfG_kZ3MmIIsOO7227lN0a7rIU7IhTLDEGEwKBkuxYCPcM_SvrGB4we18_IHaDVOnqcAAAA&shmds=v1_AUFQtOMZQVQh3jUfDRdJJZogXZAb0OTi4TSN38tqIU_TgHpNxA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=05cV3gMNHSNg5juyAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "This is an amazing opportunity for Developers to become part of a successful start-up who are now looking to scale up their development team. We are creating a super app marketplace, a Global e-Commerce & Messaging platform and need iOS and Android developers to bring the team up to strength before we launch the app.\n\nÚroveň\n• Senior\n• Expert\n\nPozice\n• Developer mobilních aplikací\n\nSpolupráce\n• Freelancer\n• HPP\n\nÚvazek\n• Plný úvazek\n\nMzda\nNavrhni si mzdu\n\nInformace\n• Investors In Ideas Ltd\n• Praha 1\n\nPopis pozice\n\nProject Information\n\nWe are currently working on the creation of an international trading platform that provides not only the ability to place ads, but also an expanded set of functions for business users, including a multi-channel sales management system. The functions also include a wallet, a messenger, an affiliate program with remuneration. The project is currently at the prototype stage. Mobile applications that you will work on will have to implement all the functionality provided by our web services.\n\nDuties\n• Develop mobile applications on the Android and iOS platforms.\n• Ensure apps meet Google’s and Apple’s guidelines.\n• To offer technological, structural and architectural solutions and implement them.\n• Provide full coverage of all applications with automated tests.\n• Maintain applications, continue to develop and improve applications as new features are added.\n• Interaction with the backend team\n\nExperience required\n• Application development on Android and iOS platforms\n• Work with RESTful interfaces\n• Payment system integration\n• Mobile App Testing\n\nOptional but welcome\n• Web Development Experience\n• Mobile Application Interface Development\n\nNote: The project and aplications are developed in English. We speak English between teams from diferent countries. In the Prague office we speak Czech & English. Do not worry if your English is not perfect, cesky mluvime take.\n\nZkušenosti Co požadujeme\n• Úroveň:\n\nSenior Expert\n• Praxe:\n\n3 roky\n• Vzdělání:\n\nSŠ VŠ VŠ student\n\nPozice\nDeveloper mobilních aplikací\nJazyky\nAnglicky – čtení dokumentace\n\nPráce u nás Co nabízíme\n\nJaké jsou benefity\n\nWe offer\n• Salary/pay above average\n• Quarterly review of your salary/pay\n• Bonus when starting the project\n• Working in smaller friendly international team\n• The ability to use technology, libraries and frameworks of your choice\n\nInformace o pozici\n\nTyp odměny\n\nOdměna/Mzda\n\nPracovní prostředí\n\nModerní\n\nTyp práce nebo projektu\n\nModerní technologie Inovační projekty\n\nTyp smlouvy\n\nInterní pozice (HPP a další) Freelancer\n\nTyp pracovního úvazku\n\nPlný úvazek\n\nTyp firmy\n\nStartup\n\nMísto pracoviště\n\nPraha 1\n\nOdpovědět a navrhnout mzdu\n\nInvestors In Ideas Ltd\n\nInvestor In Ideas Ltd\n\nInvestors In Ideas Ltd najdeš i tady\n\nProfil firmy",
+            "apply_options": [
+                {
+                    "title": "Indeed.cz",
+                    "link": "https://cz.indeed.com/viewjob?jk=3b710013ec23263e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://cz.linkedin.com/jobs/view/mobile-developer-at-%C4%8Dlov%C4%9Bk-v-t%C3%ADsni-4053057929?refId=OSWE0BFL/Xt%2Bj8qU0EQt%2BA%3D%3D&trackingId=xTsJe8mNLPyDNDzoG3zhuQ%3D%3D&position=9&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/similarweb/mobile-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/mobile-developer-similarweb-5928511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/people-in-need-2/j/CACF32A1DC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Play",
+                    "link": "https://startupplay.com/de/job/mobile_developer_similarweb_prague_2984136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIGRldmVsb3BlciAoaU9TLCBBbmRyb2lkKSIsImNvbXBhbnlfbmFtZSI6IkludmVzdG9ycyBJbiBJZGVhcyBMdGQiLCJhZGRyZXNzX2NpdHkiOiJQcmFndWUsIEN6ZWNoaWEiLCJodGlkb2NpZCI6IjA1Y1YzZ01OSFNOZzVqdXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android Developer - Global FinTech Project",
+            "company_name": "Innovate, s.r.o.",
+            "location": "Prague, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Uz2AUgxkfK2YJsJCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBDGcVz7CE4HbqKJCC46FcWik4N7SdKjTYl3IRdL8X18T-PyDb9v-FffRVXX1CX2HVxwwsARE2yhCWxNgKunJ7oBHolHdLkcd7YgaFJBJmiY-4DL05BzlKPWIkH1kk32Tjl-aSa0POuRrfynlcEkjMFkbPeH3awi9evVjYinQhsQlRQr8FSCpn8XOX9K3psfuKuNWKgAAAA&shmds=v1_AUFQtOOSDOqT-VfGCqjCuZcd8Oc1cY-NJe9HvDRIXiU_tHn8_w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Uz2AUgxkfK2YJsJCAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Become renowned. Earn high bonus in cash, crypto. Join us to build global apps. As Mid/Snr Android Dev you’ll be important, build from scratch a variety of own native Android apps for multimillion downloads; Cryptocurrencies, Marketplace, Communication, Wallet. We are Own product company\n\nYou will work on the development of our native Android apps. Next to hands-on feature development using new tools, techniques, unit tests, code reviews for the entire application lifecycle. Design and maintain the architecture. Collaborate with cross-functional teams, designers and technical product owners lobal online marketplace and Messaging platform including chat and videoconferencing platform providing wider functionality including multichannel marketing, messaging, referrals, rewards, reviews.\n\nResponsibilities:\n• Develop advanced mobile applications on the Android platforms.\n• Ensure apps meet Google’s guidelines.\n• Unit-testing code for robustness, including edge cases, usability, and general reliability\n• To offer technological, structural and architectural solutions and implement them.\n• Provide full coverage of all applications with automated tests.\n• Work on bug fixing and improving application performance\n• Work with outside data sources and APIs\n• Maintain applications, continue to develop and improve applications as new features are added.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency\n• Interact with the backend team and collaborate with other developers within the group\n• Mentor junior staff\n\n​ What we need:\n• A relevant degree or equivalent, although candidates without this, but with experience will be considered\n• Minimum 3 years experience application development on Android platforms\n• Experience with: Java/Kotlin, RxJava, Dagger2, MVP, Retrofit 2\n• Work with RESTful API\n• Knowledge of payment system integration\n• Experience in mobile App Testing\n• Experience leading a team of junior/mid developers\n• Strong communication and interpersonal skills\n• A strong interest in mentoring and guiding fellow engineers as you will be regularly involved in show & tell sessions with the goal of helping enable not just the engineers but the whole company in understanding your work.\n• A good understanding of English, as the company will be working internationally\n\nIf this sounds interesting please send us your CV in English.\nJaké jsou benefity?\n\nPAYPACKAGE:\n\nWe can offer you an above average pay with regular reviews, and bonuses when we launch the global project. As we grow and become a public company in New York you will have the opportunity to receive an even greater bonus within a long-term perspective pay package in a dynamically developing, global company.\n\nPERSONAL DEVELOPMENT:\n\nWe currently have Experts & Seniors in our Development Team that you will join and can collaborate with, and if necessary engage in intensive training with. You can actively shape our success strategy with your knowledge.\n\nEDUCATION:\n\nYou can freely use our internal English language course and, in addition, we offer you opportunities for professional and personal development through regular training.\n\nOPPORTUNITY:\n\nYou will have an opportunity of a lifetime to work in a multinational, but informal, friendly, and supportive team where you will be truly valued. You will be a part of a colourful mixed team in which diversity, humour and mutual support are very important.\nHledáme\n• Kotlin\n• Java\n• Kotlin SDK\n• RESTful API\n• MVVM\n• MVP\n• Retrofit 2\n• Team player\n• Anglicky -\ndomluvit se\n• Úroveň: Medior\n• Úroveň: Senior\n• Úroveň: Expert\n• Praxe: 3\nroky",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/6520403729175581699?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIEdsb2JhbCBGaW5UZWNoIFByb2plY3QiLCJjb21wYW55X25hbWUiOiJJbm5vdmF0ZSwgcy5yLm8uIiwiYWRkcmVzc19jaXR5IjoiUHJhZ3VlLCBDemVjaGlhIiwiaHRpZG9jaWQiOiJVejJBVWd4a2ZLMllKc0pDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJVRXhwYWpWa2NtdDJhMkZCY3pGWU0zSnFVbEZuVW5neGNISnVia2hvTTFveVYzQkVialpEWjJGb1gwdG1SbUZTTlRaMGJXSjBNVzFqZW5wcGRsZENTa0ZtYXprdFRIaHlhVmQ0YURVd2NWTTVOVTFvYmtZdGVrVkRjemhaWlZOb1pUZGxUV2c0ZVVGbVEwWXlSWEppTWpCelgwOXlVMmRYTVROVVZtSk5aV3RhYmtocGIwODNZV1kwYlZGVk9HTnRRMFpSTW1JNVpIVlBRMjk0UW5aVU16WkRPVzFWY3poaU16TnNOMUpSWjB0V2JHWk1aMmx3TUZJNGFFZFFRVzF3VFU1U1NUSlhNa2RPU1MxUWFIWmhXbVY2T1VWMVNGOVZVM3A2VFVRMWRGWXlOR3hRT1RoVFZVUk1SSEZ4TldkMWFYVmxhMVpoTW5GTlkweElZM3BWWkhKamFHcG1UelJEWVc0NGRtMVRiVmhvTXpGVExWVlNjRkl0U0ZFU0ZuSlBNa1ZhT0hGNlRtSlBTSEE0TkZCdlh6TkNRMEVhSWtGR1dISkZZM0I0Y0VOT1IyZzJkRE51ZDJrelNGY3pUbE5NVm10Uk1FUjZOWGMiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Czechia&next_page_token=eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJVRXhwYWpWa2NtdDJhMkZCY3pGWU0zSnFVbEZuVW5neGNISnVia2hvTTFveVYzQkVialpEWjJGb1gwdG1SbUZTTlRaMGJXSjBNVzFqZW5wcGRsZENTa0ZtYXprdFRIaHlhVmQ0YURVd2NWTTVOVTFvYmtZdGVrVkRjemhaWlZOb1pUZGxUV2c0ZVVGbVEwWXlSWEppTWpCelgwOXlVMmRYTVROVVZtSk5aV3RhYmtocGIwODNZV1kwYlZGVk9HTnRRMFpSTW1JNVpIVlBRMjk0UW5aVU16WkRPVzFWY3poaU16TnNOMUpSWjB0V2JHWk1aMmx3TUZJNGFFZFFRVzF3VFU1U1NUSlhNa2RPU1MxUWFIWmhXbVY2T1VWMVNGOVZVM3A2VFVRMWRGWXlOR3hRT1RoVFZVUk1SSEZ4TldkMWFYVmxhMVpoTW5GTlkweElZM3BWWkhKamFHcG1UelJEWVc0NGRtMVRiVmhvTXpGVExWVlNjRkl0U0ZFU0ZuSlBNa1ZhT0hGNlRtSlBTSEE0TkZCdlh6TkNRMEVhSWtGR1dISkZZM0I0Y0VOT1IyZzJkRE51ZDJrelNGY3pUbE5NVm10Uk1FUjZOWGMiLCJmY3YiOiIzIn0%3D&q=Android+developer"
+    }
+}

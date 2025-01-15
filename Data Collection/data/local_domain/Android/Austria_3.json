@@ -1,0 +1,25 @@
+{
+    "search_metadata": {
+        "id": "678509fd139767e7a00ca037",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0a47dcf3378df3f5/678509fd139767e7a00ca037.json",
+        "created_at": "2025-01-13 12:41:33 UTC",
+        "processed_at": "2025-01-13 12:41:33 UTC",
+        "google_jobs_url": "https://www.google.at/async/callback:550?q=Android+developer&uule=w+CAIQICIHQXVzdHJpYQ&udm=8&fc=EuICCqICQUpHOUprTnpaOWdFa3ZVYWk3eE9zWFlYWkhhUHJoUGl3VFdWbkVXZmRGTjVTWFhJOUZpSlZCNEluVnRQazhEWHJBQUROSjM1bExERHlXSUFDYldvX1VPRl96OEk0emFfVnZqUTRPeDhUeXhETWRTSmtMQ1JUTE1ScVJhV0FQUldCU2xBX1N5bkJxWnBmOHhPdWJHZEFUWC03Y1RoV1pSWVluVFUxMGFWUWRMUzhJOC1zS3VsZDBMMHV2TDNjMEpUaXROa19aUFhfUFZVeUlfN1NKRi1lZ2Rha0s0cjJnZ3ZSUTdHZmhJMVA4SXpuUUNGeVNPUElSS0M5ZTdpd0dLWmZrYTJpUWNoSXVGSGdBTmI5c2hBM1J0WXlCaTYyQkN0S0ESF19RbUZaNjd1Q1k2ZjBQRVBuYXZMdVE4GiJBRlhyRWNwSTBOcWMycGNpUjlmQzlZYUNBWVhGWFpveEpB&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/0a47dcf3378df3f5/678509fd139767e7a00ca037.html",
+        "prettify_html_file": "https://serpapi.com/searches/0a47dcf3378df3f5/678509fd139767e7a00ca037.prettify",
+        "total_time_taken": 0.37
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Austria",
+        "location_used": "Austria",
+        "google_domain": "google.at",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbnBhT1dkRmEzWlZZV2szZUU5eldGbFlXa2hoVUhKb1VHbDNWRmRXYmtWWFptUkdUalZUV0ZoSk9VWnBTbFpDTkVsdVZuUlFhemhFV0hKQlFVUk9Tak0xYkV4RVJIbFhTVUZEWWxkdlgxVlBSbDk2T0VrMGVtRmZWblpxVVRSUGVEaFVlWGhFVFdSVFNtdE1RMUpVVEUxU2NWSmhWMEZRVWxkQ1UyeEJYMU41YmtKeFduQm1PSGhQZFdKSFpFRlVXQzAzWTFSb1YxcFNXVmx1VkZVeE1HRldVV1JNVXpoSk9DMXpTM1ZzWkRCTU1IVjJURE5qTUVwVWFYUk9hMTlhVUZoZlVGWlZlVWxmTjFOS1JpMWxaMlJoYTBzMGNqSm5aM1pTVVRkSFptaEpNVkE0U1hwdVVVTkdlVk5QVUVsU1MwTTVaVGRwZDBkTFdtWnJZVEpwVVdOb1NYVkdTR2RCVG1JNWMyaEJNMUowV1hsQ2FUWXlRa04wUzBFU0YxOVJiVVphTmpkMVExazJaakJRUlZCdVlYWk1kVkU0R2lKQlJsaHlSV053U1RCT2NXTXljR05wVWpsbVF6bFpZVU5CV1ZoR1dGcHZlRXBCIiwiZmN2IjoiMyJ9"
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

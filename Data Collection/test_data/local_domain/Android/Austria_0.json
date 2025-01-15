@@ -1,0 +1,494 @@
+{
+    "search_metadata": {
+        "id": "6784f5a172c8da365da54f6a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d51cf36f53ebc75d/6784f5a172c8da365da54f6a.json",
+        "created_at": "2025-01-13 11:14:41 UTC",
+        "processed_at": "2025-01-13 11:14:41 UTC",
+        "google_jobs_url": "https://www.google.at/search?q=Android+developer&uule=w+CAIQICIHQXVzdHJpYQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/d51cf36f53ebc75d/6784f5a172c8da365da54f6a.html",
+        "total_time_taken": 1.68
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Austria",
+        "location_used": "Austria",
+        "google_domain": "google.at"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QxKsJegQICxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.at/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjDoPXoyPKKAxX4EWIAHdXqFA8QxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Agentur LOOP New Media GmbH",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=BhrmQ1Yy4sT5t2K6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CZ72KKJNEbzoqVCoiFrBB5SkXdJImg27qRZ_4m_FOUz2XWSrMvRMrocKX-gpIsMWzmRAUHM3AAWoiazH5XFIKcpBKRGfW0k6uS7vaFQU0NCsnmTkXyuDZoxeJ2x3-2LOY7DrorQY0sRwaZo73PANV-ydhno0J3ABHtp_zMR2A-UkiZ3-Ab2iAZycAAAA&shmds=v1_AUFQtOPZ9SZparXDm-WKj2IH74r_23cAmjM69_51DevTmUOoSQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BhrmQ1Yy4sT5t2K6AAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "LOOP is a digital-first lead agency, exploring the intersections between design, technology and digital brand building for leading brands. With a team of 400 digital talents and through data driven marketing, we help brave clients to stand out in the digital age. Over the last few years our brilliant team has done remarkable and innovative work for internationally recognised high-profile brands such as Puma, Audi, Breitling, Red Bull and numerous others.\n\nAs an Android Developer you are responsible for developing apps that make people feel engaged. Create state-of-the-art mobile applications for our international clients. You will be involved in projects from the ideation stage until final delivery and enjoy sharing your knowledge and experience with your international, interdisciplinary team. With experience in Android development, a passion for innovative UX solutions and design understanding, you'll have a great time at LOOP!\n\nRequirements:\n• Exposure to mobile development, familiar with Git, basic knowledge of backend technologies.\n• Experience with Android (JAVA & Kotlin) development with Android Studio.\n• Understanding of Progressive Web App development (React Native) is a plus.\n• A thirst for knowledge to learn new technologies.\n• Creative problem-solving skills and a thirst for knowledge.\n• Enjoyment of interesting challenges and problem-solving.\n• Love to work with international clients and within an international team.\n• Strong team player and willingness to work closely with the agencies organizational and design team.\n• Significant responsibility for the technical conception of mobile projects to achieve exceptional, innovative results.\n• Responsibility for technical quality assurance for each project.\n• Ability to keep track of own projects, timings and needed resources in all situations.\n• Ability to flourish in a hands-on culture and know when your team needs support.\n• Good English language skills.\n\nBenefits:\n• 4-day Workweek\n\nAt LOOP you can choose between a 5-day or a 4-day workweek – and have the freedom to switch between these models twice a year.\n• Free Sports and Fitness\n\nYoga, fitness, climbing, tennis and more. LOOP covers the costs and gives you access to fitness studios and sports facilities across Austria or Germany.\n• +20% Vacation\n\nWe don’t believe there can be enough time to recharge, that’s why all our team members get +20% vacation days per year, we call it Sunny Hours.\n• 4000+ m² Office Space\n\nOur loft space is part of our identity. An ideal environment for working, collaborating and finding inspiration — with an additional 600m² film- and photo studio.\n• 100% Hybrid Work\n\nHome office or LOOP office space? It’s your choice every day, and you don’t even need approval.\n• International and Diverse\n\nTeam members from 40+ different nationalities in 7 locations, English as main language and a 55% female leadership quota.\n• And much more\n\nLanguage Courses, Visa Support, LOOP.Horizon workshops and trainings, Klimaticket Contribution, Audiobook Library, Headspace App Subscription, etc.\n\nSo, if you are motivated to join the LOOP Team, we are happy to offer you a position as an Android Developer in Salzburg, Vienna or Berlin. We are looking forward to receiving your online application!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://at.indeed.com/viewjob?jk=7be9c16f7cd9565b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/709251410249680178/Android-Developer-%C3%96sterreich?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://jobs.workable.com/view/gBj5arZ98EGTQsj5FnCsae/hybrid-android-developer-in-salzburg-at-agentur-loop-new-media-gmbh?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://at.trabajo.org/stellenangebot-3127-1bf8a3966b50a2b53af7a6d40b343f8c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/loop-new-media-gmbh/android-developer-884886/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/android-developer-austria-loop-new-media-gmbh-14-1582270/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/austria/job/part-time/others/senior-android-developer-1735731399518487?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFnZW50dXIgTE9PUCBOZXcgTWVkaWEgR21iSCIsImFkZHJlc3NfY2l0eSI6IlNhbHpidXJnLCBBdXN0cmlhIiwiaHRpZG9jaWQiOiJCaHJtUTFZeTRzVDV0Mks2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFFYVnpkSEpwWVEifQ=="
+        },
+        {
+            "title": "Android Kotlin Developer*",
+            "company_name": "BAWAG Group",
+            "location": "Vienna, Austria",
+            "via": "Karriere.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=es3ZE3kJRvI_tol3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CQ5yc9GmCC46RYSC7jqWJD3aSLwLuav0L_xldXnrqz6rqrU0FI4D3FhTJLjgGxNnLDXs4MoeBF0JEzBBxzwmXJ8m1SxHY0RSM4o6jaEJ_DJM6HkxT_byp5fJFczJKfb7Q7s0mcZ6c7YP20FXeM7w6-4RidwW7CxaovsCuIegF5IAAAA&shmds=v1_AUFQtOMuksWbkOJq1Ct033OL6J6ojnrqzWaJa3KcYRLIDLGfwA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=es3ZE3kJRvI_tol3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d45d53145dd3af863200f313a1a0f29dca2c2aff73808576959.png",
+            "extensions": [
+                "2 days ago",
+                "€44,476.88 a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "salary": "€44,476.88 a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Kotlin Developer*\n\nBAWAG Group is the listed holding company of BAWAG P.S.K., which is one of the largest banks in Austria with 2.1 million customers. As a dynamic employer, we promote talent and drive technological innovations quickly. Flat hierarchies, a flexible working environment and equal opportunities for our employees are particularly important to us.\n\nTASKS\n• Take ownership of the end to end development lifecycle of Android development (from technical design to integration test and participate in quality testing with our wider QA team). You will also contribute to the overall Android technical design.\n• Conception, implementation and pragmatic documentation within an agile process model.\n• Re-using and improving our established frameworks and platforms to achieve our app roadmap.\n• Collaboration with our devops team for the roll-out of applications in test and production environments. With specific responsibilities in terms of the app store technical management.\n• Close teamwork with UX and QA team members allocated to your project.\n• Taking your own initative for continuous quality & security improvements within the app team and the wider technology area.\n\nPROFILE\n\nWhat we are looking for:\n• At least 3 years professional experience in native mobile app development\n• Passionate about building smooth native app experiences\n• Excellent knowledge of Android Java/Kotlin native app development\n• Solid command of REST API integration and use inside apps\n• Good understanding of 3rd party app dev libraries like Timber, Kermit, AppCentre, Picasso, Realm.io, OKHttp, Usabilla or similar\n• Ability to create robust, stable and maintainable app code\n• Experience in using App UX analytics tools\n• Independent worker, while being a team player\n• Fluent in English (B2 level)\n• Beneficial: German language skills\n\nAbout you:\n• You have either successfully completed education in software development (university, technical or advanced technical college) OR you are a self-taught guru with proven app store and github/lab track record\n• You are analytical, structured and logical thinker with attention to detail\n• You have experience in Android, Kotlin, Android Studio, Design patterns, Unit Testing\n• You get along well within a team context\n• You like to \"get things done\"\n• You like working in a SCRUM process with dailies, refinement, planning and retro\n\nOUR OFFER\n• We support your personal development and career planning with an individual, attractive training program. Visit our BAWAG Academy and use our eLearning-Plattform GoodHabitz for your professional and also personal development.\n• In addition, we offer interesting and lucrative additional services (company health care, group insurance, BAWAG sports club, vacation accommodation, preferential conditions for employees and their close relatives, meal subsidy).\n\nWe guarantee a competitive salary dependent on your professional and personal qualifications, starting at EUR 44.476,88 gross per year for this position, in accordance with the respective collective agreement. Salary requests above this amount will be considered depending on your previous experience and qualifications.\n\nYour contact person: Jutta Durstberger (+43 664 80998 22099)\n• We value people.\n\nWould you like to work in a team where good cooperation and diversity are actively practiced? Then you've come to the right place. Equal opportunity is important to us - regardless of age, gender, sexual orientation, physical impairment, religion or origin.\n\nJobbörse | Xing | LinkedIn | Facebook | Instagram\n\nStandort\nVienna\n\nTätigkeitsbereich\n\nComputer and Mathematics\n\nWochenstunden\nVollzeit",
+            "apply_options": [
+                {
+                    "title": "Karriere.at",
+                    "link": "https://www.karriere.at/jobs/7411447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/wien-android-kotlin-developer-129433762?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://at.indeed.com/viewjob?jk=6e5da3759b636470&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://at.linkedin.com/jobs/view/android-kotlin-developer-at-bawag-group-4113001645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/8236858746239871934/Android-Kotlin-Developer*-Wien?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted.at",
+                    "link": "https://www.jobted.at/job/d9eeed78b0d6e3d50a11b248af7ca2c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEtvdGxpbiBEZXZlbG9wZXIqIiwiY29tcGFueV9uYW1lIjoiQkFXQUcgR3JvdXAiLCJhZGRyZXNzX2NpdHkiOiJWaWVubmEsIEF1c3RyaWEiLCJodGlkb2NpZCI6ImVzM1pFM2tKUnZJX3RvbDNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "Software Engineer, Android",
+            "company_name": "Bitpanda",
+            "location": "Vienna, Austria",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=ebVCcIem69JGcYHHAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAyAYVz7CLpkFu2p4GInBRFcBdeStvEaqclxidiX8J2tyz9-f_GdFdubPvyDmeAskYUor-AoXVbuYA1XbcAIc9uDClxU40DzqndPdgjBbCijOTq3ZauvoEKNjuGpjf1TWz-5aUCnerffjGWSuFyc2BNKh8ACdyYRnIZv88z4A1dinvaQAAAA&shmds=v1_AUFQtOOnXEGoTtNJ12GzrPBerT70zVWjb9ub8__l1iNh4lGGow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ebVCcIem69JGcYHHAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Who we are\n\nWe simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 4 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing.\n\nHeadquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go!\nYour mission As an Android Developer at Bitpanda, you will work on the development of our native Android app as part of a cross functional team. Next to hands-on feature development you are responsible for non-functional requirements like performance, quality and scalability of the application.\n\nWhat you'll do• Ensure that the app meets our quality standards by creating unit tests and doing code reviews\n• Design and maintain the architecture of new features and existing ones\n• Collaborate with cross-functional teams, designers and technical product owners\n• Stay up to date with programming best practices and new technology trends\n• Working autonomously you will bring strong communication skills and the ability to mentor colleagues\n\nWho you are• Passionate about mobile platforms and translating requirements into a user friendly app\n• Excellent knowledge of Kotlin\n• Strong knowledge of architecture patterns such as MVVM\n• Proven experience of developing and publishing native Android apps to the Google Play store in a professional environment\n• Good knowledge of Kotlin Coroutines, Hilt and Retrofit.\n\nWhat’s in it for you\n\n• Hybrid-working model with a 50/50 split between in-office and home, plus 60 Work From Anywhere days annually\n• Total compensation package including participation in our Bitpanda stock option plan\n• Competitive benefits programs and policies shaped by our flexibility-first philosophy\n• Exclusive premiums when trading on Bitpanda\n• Company-wide and team events — both in-person and virtually!\n• Bitpanda swag to keep you living the brand\n\nAnd, above all, the opportunity to learn and grow as part of Bitpanda’s incredible journey towards being Europe’s future #1 investment platform.\n\nBitpanda is committed to fostering a fair and equal environment based on trust and mutual respect. We believe that a diverse and inclusive workplace is paramount to our success and we are committed to building a team that represents a wide variety of backgrounds, perspectives, and skills.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/software-engineer-android-bitpanda-2-5747487?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IkJpdHBhbmRhIiwiYWRkcmVzc19jaXR5IjoiVmllbm5hLCBBdXN0cmlhIiwiaHRpZG9jaWQiOiJlYlZDY0llbTY5SkdjWUhIQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFFYVnpkSEpwWVEifQ=="
+        },
+        {
+            "title": "Android Application Development",
+            "company_name": "Eastern Techno Solutions Pty",
+            "location": "Austria",
+            "via": "Trabajo.org - Stellenangebote, Arbeit",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=wDTM8N3TLd4WuhUJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0nON0mCDYi6KBTQRGcBN1Lmh5NSnoXclepP-O32i5veTxe8VsVp4razKGFKqUYnNXABFf8YOQ0ICns4MENCNrsPMzuztxFXF-8apKzMSKx7ETn0JWOB8OEDU-m50YW1OJtxhStYn047qcyUbfd3KwoZoI3Ok8ML47jMhZ46hcCQTWK5mD_BczzI6EAAAA&shmds=v1_AUFQtONudoVzrCEb1qTksM1y5O2RJzmjrJS2t24e47pNq_YxVw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wDTM8N3TLd4WuhUJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d453c47ed2099b380a3e131da42416b587e3c20fe0daa6db173.png",
+            "extensions": [
+                "9 hours ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 hours ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer Job Description:We are looking for experienced Android developers to design and develop world-class mobile apps.\nYou will be responsible for working closely with our team of skilled engineers to design and develop the next generation of mobile applications.The ideal candidate should have technical expertise in Java, Android development framework, and toolsets.You will be responsible for developing advanced apps for the Android platform.You will work with cross-functional teams to specify, design, and deliver new features.Lead the mobile app development in the team.Implement the latest technologies to enhance Android app performance.Develop and distribute Android applications in the Google Play Store.Develop data-driven, interactive, web service-based mobile apps on the Android platform, including the application architecture.You will be responsible for design, development, coding, testing, debugging, and documentation of applications.Android Developer Requirements (Skills) and QualificationsFamiliar with Android SDK, different versions of Android, and how to handle different screen sizes.Knowledge of client-server programming (REST/SOAP APIs) to connect Android applications to backend services.Understanding of Android UI design principles, patterns, and best practices.\nSkilled in debugging, troubleshooting, performance, and scalability of mobile apps.Must have in-depth knowledge about the Android open-source concept.Must have published a minimum of three applications in the Google Play Store.Knowledge about various services and components like Custom UI, Graphs, Maps, GPS, etc.Experience working with offline storage, threading, and performance tuning.Knowledge about cloud message APIs and push notifications (Firebase) and working knowledge on Web Service Integration (REST, JSON, XML) & cloud technologies – AWS, GCM.Should have practical knowledge about 3rd party API integrations like DRM, EPG integrations, Live TV channels, etc.Why Join Us?Get a chance to contribute and get recognition from Day 1.The 3rd Saturday of every month will be a day off.Every alternate Saturday will be knowledge-sharing sessions among employees to help improve/grow IT skills.A friendly, supportive, professional, and achievement-oriented management team.Education assistance.Extra activities (birthday celebrations, outdoor picnics, team lunch parties).Recreational activities (during break time) such as board games, video games, etc.Work from home in case of any personal emergency.Apply for this positionFull Name*Email*Resume (Please provide your CV in pdf, word, odt or rtf format)*#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://at.trabajo.org/stellenangebot-3127-715079afccd171568419bea40942f276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEFwcGxpY2F0aW9uIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiRWFzdGVybiBUZWNobm8gU29sdXRpb25zIFB0eSIsImFkZHJlc3NfY2l0eSI6IkF1c3RyaWEiLCJodGlkb2NpZCI6IndEVE04TjNUTGQ0V3VoVUpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "Android & iOS Developer",
+            "company_name": "ventopay",
+            "location": "Hagenberg, Austria",
+            "via": "Ventopay",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=S8nFwLt5g2mIIjh8AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5yk4NoIoKLTgVBcXHwA8qlPdJIvAu5s-hH-M_iG17znTWu5aFKGmAJ6XaHE02UpVCFDVwlgBLWfgRhOIvETPPjaFb04L1qdlENLfWul6cXpiBv_5Cg_zodsVLJaNTt9tu3KxxXi4nYpOAHEsMFI3GgGtfQvtRqwh-JxgihkAAAAA&shmds=v1_AUFQtOMY6iov9-YjN6PhJ3CoQHbE8PYy-OIe294jKKxUowCmAg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=S8nFwLt5g2mIIjh8AAAAAA%3D%3D",
+            "extensions": [
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Was sind deine Aufgaben?\n• Du gestaltest attraktive Module und Softwareprojekte für unsere Kundenbegeisterungs-App und dazugehörige Backend-Solutions und setzt diese agil um\n• Deine aktive Mitarbeit im gesamten Entwicklungs-Lifecycle, von technischer Analyse über Entwurfserstellung bis zu Code Reviews und Systemtests tragen zur erfolgreichen Implementierung bei\n• Um die hohen Qualitätsansprüche an unsere Applikationen sicher zu stellen, leitest du diese nach der Entwicklung in die Testabteilung über\n• Du kümmerst dich um erfolgreiche Einreichungen in den jeweiligen App-Stores\n\nWas bringst du mit?\n• Eine abgeschlossene IT-Ausbildung (HTL/FH/Uni)\n• Berufserfahrung in der Entwicklung von nativen Android und/oder iOS-Apps ist von Vorteil\n• Sehr gute Kenntnisse in den gängigen Sprachen (Java/Swift/C#) sind ein Muss\n• Kenntnisse der notwendigen Werkzeuge (Android Studio/Xcode/Git) und einen sicheren Umgang mit relationalen Datenbanken und TSQL\n• Teamgeist und Einsatzfreude sowie methodische, genaue und effiziente Arbeitsweise\n\nWas kannst du von uns erwarten?\n• Wir sind ein stabiles, inhabergeführtes Unternehmen mit mehr als 20 Jahren Branchenerfahrung. Als Marktführer mit internationalen Topkunden setzen wir neueste Technologien ein und sind technologischer Spitzenreiter.\n• Flexible Arbeitszeitmodelle mit Teilzeit und Homeoffice, als auch Zeitausgleich für Überstunden bieten dir die notwendige Flexibilität.\n• Wir sind ein junges und top motiviertes Team mit flachen Hierarchien, kurzen Abstimmungswegen und großem Zusammenhalt. Wir schätzen ein offenes und wertschätzendes Miteinander – mitgestalten und der Blick über den Tellerrand sind erwünscht und begrüßt!\n• Weiterentwicklung ist dir wichtig? Uns ebenso. Wir erkennen Potenziale, stärken deine Stärken und schaffen Möglichkeiten, dich zu fördern.\n• Einen täglichen Essenszuschuss von EUR 6,-, monatliche Teamevents, gratis Kaffee, Tee und Obst gibt es in der vollausgestatteten Küche.\n• Der Standort Hagenberg bietet eine gute Verkehrsanbindung, kostenlose Parkplätze, E-Tankstellen und Poolautos für Dienstreisen.",
+            "apply_options": [
+                {
+                    "title": "Ventopay",
+                    "link": "https://ventopay.com/career/android-ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Informatikjobs.at",
+                    "link": "https://www.informatikjobs.at/jobs/job-detail/stellenausschreibung/122368/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/hagenberg-muehlkreis-android-ios-developer-118208025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/android-ios-developer-hagenberg-im-muhlkre-ventopay-gmbh-14-1587015/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFx1MDAyNiBpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoidmVudG9wYXkiLCJhZGRyZXNzX2NpdHkiOiJIYWdlbmJlcmcsIEF1c3RyaWEiLCJodGlkb2NpZCI6IlM4bkZ3THQ1ZzJtSUlqaDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "Android Developer (d/m/w)",
+            "company_name": "Raiffeisen Software GmbH",
+            "location": "Linz, Austria",
+            "via": "Karriere.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=YD2v8uD8u8KVY3VAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7CU43WtGmCC46FYSKOOkHlKS9NpE0F3KnLX6KX6sub3rZZ5GVVegSuQ5O-EJPEROsOjWqKYctXMgAo06tBQpQEw0el0crEvmgFLMvBhYtri1aGhUFNDSrBxn-07DVCaPXgs1uX85FDMM6v2nX9-gYA9ypl-lXoB7NGVyAqwvvDVRPluT0Fy6M_S2dAAAA&shmds=v1_AUFQtONV369NTMI2yIySytCLCbUoNXsI8zo5c6ley1GDfV63OA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=YD2v8uD8u8KVY3VAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d458c8e13027be5175fbbc60fa6b7efe5194362f54c65a2ee6b.jpeg",
+            "extensions": [
+                "6 days ago",
+                "€3,950 a month",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "salary": "€3,950 a month",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer (d/m/w)\n\nProgrammieren & kommunizieren, kombiniere deine Stärken in dieser vielseitigen Schnittstellenfunktion!\n\nOrt\n\nLinz\n\nAnstellung\n\nVollzeit\n\nWork from Home\n\nBis zu 60% Homeoffice\n\nDie Raiffeisen Software GmbH als ein Teil der Raiffeisen Bankengruppe Österreich beschäftigt rund 950 Mitarbeiter:innen an den Standorten Innsbruck, Leoben, Linz, Salzburg und Wien. Unser Ziel ist es, die digitale Zukunft des Bankwesens maßgeblich mitzugestalten. Aktuell betreuen wir mehr als 800 maßgeschneiderte Softwarelösungen - und es werden stetig mehr. Das Aufgabengebiet der Raiffeisen Software GmbH ist daher vielfältig und reicht von der Entwicklung benutzerfreundlicher Anwendungen für den täglichen Einsatz in Bankfilialen über leistungsstarke Meldetools im Hintergrund bis hin zur beliebten Mein ELBA-App.\n\nAls Softwarehaus der Raiffeisen Bankengruppe Österreich gestalten wir das Bankgeschäft der Zukunft aktiv mit.\nIm Team ELBA App suchen wir einen Android Developer (d/m/w).\n\nWas ist dein Beitrag im Team? Du …\n• wirkst an der Weiterentwicklung der Mein ELBA App für 2,8 Millionen Kund:innen mit und hältst diese am Laufen.\n• entwickelst für unsere Kund:innen eine ansprechende, moderne und barrierefreie Oberfläche um ihre täglichen Bankgeschäfte zu erledigen.\n• sorgst mit deiner sorgfältigen und sicherheitsbewussten Arbeitsweise dafür, dass sich unsere Kund:innen beim Online Banking gut aufgehoben fühlen.\n• programmierst nativ in Kotlin neue Features für die größte Banking App Österreichs.\n• nimmst dir die Anliegen der Stakeholder zu Herzen und bist bemüht für sie rasch eine zufriedenstellende Lösung zu finden.\n\nWas bringst du dafür mit? Du …\n• hast gute Kenntnisse und Erfahrung in der Entwicklung von nativen Android Apps (Kotlin, Java) mit Android Studio.\n• bist vertraut mit Continuous Integration mit Jenkins und Gradle.\n• bist in der Analyse stark und entwickelst bei Bedarf detektivischen Spürsinn.\n• kannst gut zuhören, hinterfragen und beschreiben.\n• bist dir bewusst, dass unsere App über 14.000 Geräten unterstützt und du arbeitest ressourcenschonend und performanceoptimiert.\n• hast sowohl gute Deutsch- als auch Englischkenntnisse in Wort und Schrift und kannst diese im beruflichen Alltag anwenden.\n\nWas bieten wir dir? Du …\n• wirst Teil eines eingespielten Teams, das jederzeit füreinander einsteht.\n• kannst beim Onboarding und darüber hinaus auf das Wissen und die Unterstützung deiner Teamkolleg:innen zählen.\n• bringst dich in einem agilen Unternehmen ein, wo Teamwork, Technologie-Austausch und Spaß am Programmieren (z.B. interne Entwicklerkonferenz, Hackathon) gelebt wird.\n• profitierst von fairen und flexiblen Rahmenbedingungen (Home Office, Gleitzeitmodell ohne Kernarbeitszeit, keine All-In Vereinbarung).\n• erhältst auch gerne mehr als das Mindestgehalt von 3.950,00 EUR, wenn du erfahrener und qualifizierter bist.\n\nsmart bewerben\n\nDein Kontakt\n\nFür Rückfragen steht dir Caroline Nagl telefonisch unter der Nummer +43 732 6929 69468 gerne zur Verfügung.\n\nFolge uns auch auf unseren Social-Media-Kanälen, um keine Neuigkeiten zu verpassen!\n\nCaroline Nagl\n\nHR Specialist\n\nUnsere Benefits\n\nBei uns zählt das Gesamtpaket. Leistungen werden belohnt - nicht nur mit dem Gehalt! Mehr Details findest du dazu hier.\n• Flexible Arbeitszeiten\n• Familienfreundlich\n• Homeoffice Ausstattung\n• Mitarbeiter:innen-\nrestaurant mit Zuschuss\n• Umfangreiche Aus- und Weiterbildungen\n• Willkommen an Bord\n• Sonderkonditionen für Mitarbeiter:innen\n• Geschenke für Mitarbeiter:innen\n• Gesundheit und Fitness\n• Barrierefreiheit\n• Firmenevents\n• Community\n\nWie läuft die Bewerbung ab?\n\nUnser Bewerbungsprozess ist klar definiert. So stellen wir sicher, dass deine Bewerbung sofort zur richtigen Ansprechperson gelangt und dadurch schnell bearbeitet werden kann.\n\nZum Bewerbungsprozess\n\nWorauf wartest du noch?\nBewirb dich jetzt!\n\nsmart bewerben",
+            "apply_options": [
+                {
+                    "title": "Karriere.at",
+                    "link": "https://www.karriere.at/jobs/7387591?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://devjobs.at/job/cedb5104bc79e420d4fcb1bc96ec456f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/587056382518904021/Android-Developer-Linz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://at.bebee.com/job/0d0f1d8b7905507284405e32bb996a64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://at.linkedin.com/jobs/view/android-developer-d-m-w-at-raiffeisen-software-gmbh-4093808396?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/today-experts-gmbh/android-developer-m-w-751891/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://at.expertini.com/jobs/job/android-developer-d-m-w--linz-r-software-14-1580249/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Grizzly.jobs",
+                    "link": "https://www.grizzly.jobs/c/raiffeisen-software/android-developer-d-m-w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoZC9tL3cpIiwiY29tcGFueV9uYW1lIjoiUmFpZmZlaXNlbiBTb2Z0d2FyZSBHbWJIIiwiYWRkcmVzc19jaXR5IjoiTGlueiwgQXVzdHJpYSIsImh0aWRvY2lkIjoiWUQydjh1RDh1OEtWWTNWQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Arkulpa",
+            "location": "Lustenau, Austria",
+            "via": "DEVjobs.at",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=mvzSwDpguDO-oKbhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGQQpCIRAAUNr-I0SLWUaURtCmVkIQRHf4jP5BLXPE0fgX6N7V5vGGz2JYmzxVjhNc6E2JC1XYwY0tCGF1ATjDldknWp5Da0VOWosk5aVhi045fmnOZHnWD7byZ5SAlUrCRuPhuJ9VyX6zMvXZU0GIGe5dGmXsWzC_1YhfXS6bZIgAAAA&shmds=v1_AUFQtOMKdlX4tk8HtTR07Nxt1tE1UcsEawhHegIoX_V2c_C8XA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=mvzSwDpguDO-oKbhAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d45a99c251e8098f124d76532bfb3ad7c1bf35b399958813a79.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Deine Rolle im Team\n• Kein Blaming, kein Shaming. Wer verändert, lernt ständig. Wir bestrafen Innovationswille nicht, sondern glauben an die Kraft neuer Tools und Konzepte - wenn sie unseren Kunden und unserem Team helfen, besser zu werden. Für jede Aufgabe den passenden Stack zu finden hält uns wach und macht Spaß.\n\nTechnologien und Skills\n• RESTful API\n• Git\n• Android\n• JSON\n\nUnsere Erwartungen an dich:\n\nQualifikationen\n• Entwurf und Entwicklung benutzerfreundlicher User Interfaces\n• Analyse und Optimierung bestehender Systeme (Usability/Performance)\n• Git-Know-how\n• Affinität zu Google-Produkten und deren Anwendungsmöglichkeiten\n• Eigene Apps von Vorteil\n• Absolute Teamfähigkeit und eine eigenständige, strukturierte Arbeitsweise\n• Hohe Problemlösungskompetenz: Geht nicht gibt's nicht!\n\nErfahrung\n• Erfahrungen in der Umsetzung von Responsive Websites\n• Erfahrung in der Entwicklung auf der Android-Plattform\n• Erfahrung mit Webservices (Rest, JSON)\n\nBenefits\n• Flexible Arbeitszeiten",
+            "apply_options": [
+                {
+                    "title": "DEVjobs.at",
+                    "link": "https://devjobs.at/job/18e202cc1b0dc49e89f0b9581e12dd46?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://at.jooble.org/jdp/4273552004870600111/Android-Developer-Lustenau?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFya3VscGEiLCJhZGRyZXNzX2NpdHkiOiJMdXN0ZW5hdSwgQXVzdHJpYSIsImh0aWRvY2lkIjoibXZ6U3dEcGd1RE8tb0tiaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRWFZ6ZEhKcFlRIn0="
+        },
+        {
+            "title": "Android Lead Developer (m/w/d)",
+            "company_name": "ITPRO - Consulting & Software GmbH",
+            "location": "Ottensheim, Austria (+2 others)",
+            "via": "ITPRO - Consulting & Software GmbH",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=fVDnjeOqmRT2ImL5AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMwQqCQBCAYbr6CJ3mFBXlRuChOkmBFYFR3WXVSTfWHdkZ07fqFavLf_r4g88oiGJXejIlXFCXcMA3WmrRw7RRvSpnsIQz5cCofVEDOUiIKovjXS3S8lYpZhtWLFpMERbUKHKY06BelPM_GdfaY2u1YLaOVkPYumq-OT2ut_S33pPjzopxFUzgTk_pfxiSJj-CcZCKoOMaTbOAuGPxRn8Be1pJ9rIAAAA&shmds=v1_AUFQtOM3_ei-IAJJ_zJS7QTqxAZ7s9O63gfKK1GU0_VcOEptVg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fVDnjeOqmRT2ImL5AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Als Lead Developer bei uns bist Du in den gesamten Projektalltag von der Aufwandsschätzung bis zum Deployment eingebunden und spielst dabei eine wichtige Rolle in der Ausdefinition von Stories und Tasks, der fachlichen Leitung des EntwicklerInnen-Teams und übernimmst Verantwortung für technische Umsetzungs-Entscheidungen. Außerdem bist Du Innovationstreiber und sorgst dafür, dass unsere EntwicklerInnen technisch am neuesten Stand bleiben.DEIN PROFIL\n\nUm deine Aufgaben bestmöglich umsetzen zu können, solltest du folgende Fähigkeiten mitbringen:\n• Mehrjährige Berufserfahrung in der Software Entwicklung mit Android (Java und/oder Kotlin, Android Studio, Gradle,...)\n• Abgeschlossene Software Engineering-Ausbildung (HTL, FH oder Universität)\n• Jemand, der gerne mitdenkt, umsetzt, treibt, sich mit vollem Elan in technische Entwicklungen schmeißt und andere mitzieht\n• Bonus: Know-How in .NET/C#, Angular und/oder Flutter",
+            "apply_options": [
+                {
+                    "title": "ITPRO - Consulting & Software GmbH",
+                    "link": "https://www.itpro.at/de/karriere/jobdetailseite/job.android-lead-developer-mwd.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIExlYWQgRGV2ZWxvcGVyIChtL3cvZCkiLCJjb21wYW55X25hbWUiOiJJVFBSTyAtIENvbnN1bHRpbmcgXHUwMDI2IFNvZnR3YXJlIEdtYkgiLCJhZGRyZXNzX2NpdHkiOiJPdHRlbnNoZWltLCBBdXN0cmlhIiwiaHRpZG9jaWQiOiJmVkRuamVPcW1SVDJJbUw1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFFYVnpkSEpwWVEifQ=="
+        },
+        {
+            "title": "Kaya | Android App Developer Needed",
+            "company_name": "Buscojobs",
+            "location": "Austria",
+            "via": "Trabajo.org - Stellenangebote, Arbeit",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=hNVTOctdmBM1TBXiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFw7OzndLJiI4FKniiAo-AvlkhxJJOZCLpUK_oO_LF3e9Lrfquvv-EH4wpBd5ehgKAUu9KbEhSo8iBw52MGNDQhhtQE4w5XZJ9qcQmtFeq1FkvLSsEWrLL80ZzI86ycbWRglYKWSsNF4OO5nVbLfrs-TWF4KxAzDJK1G_AMUmOXqkgAAAA&shmds=v1_AUFQtOMiELfjzbC6AvIXabsfyaTMck0YUWwSwQ_F8U8SBXPiaA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=hNVTOctdmBM1TBXiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d45c27e6f36c306da81920899eb20148441643a7f71df854f27.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "I'm in need of an experienced Android App Developer to take over my current project.\nThe primary focus will be on addressing backend functionality issues.\nThe app is currently hosted on Vultr and requires immediate attention in the following areas:Database Management: Overseeing the database and ensuring its efficient operation.API Development: Creating and implementing APIs to enhance the app's functionality.Server Maintenance: Regular checks and upkeep of the server to guarantee smooth performance.Ideal candidates for this project should have a strong background in backend development, particularly with Vultr.\nExperience in Android app development is essential.\nPlease include any relevant experience in your bid.#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://at.trabajo.org/stellenangebot-3127-5bc05f9f5e7005bae77bc271e9126bb3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJLYXlhIHwgQW5kcm9pZCBBcHAgRGV2ZWxvcGVyIE5lZWRlZCIsImNvbXBhbnlfbmFtZSI6IkJ1c2Nvam9icyIsImFkZHJlc3NfY2l0eSI6IkF1c3RyaWEiLCJodGlkb2NpZCI6ImhOVlRPY3RkbUJNMVRCWGlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        },
+        {
+            "title": "Android Developer – Kotlin (Austria based, Hybrid)",
+            "company_name": "Bitcoin Devs Company",
+            "location": "Vienna, Austria",
+            "via": "Jobs3",
+            "share_link": "https://www.google.at/search?ibp=htl;jobs&q=Android+developer&htidocid=JDMDEqekbP28i1SEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2OOwrCQBQAsc0RrF7nh5gVwUarqKCY3lb280hWNvuWfasknXfwKN7IkxjBZmCqmew9yqrSm0jWwAEf6ChghM_zBRUlZz1MyzunaCUoyWhyOPUqWjODBZxJAaOMugHycCSqHY63TUqBN0Iwu6LmJJPVhaZWkEdFnbiR4h-u3MiIwcmE19V62RXB1_PJziZNQ3Q4YdhTG6TvYfCLRe9lDv-XL1QbLR62AAAA&shmds=v1_AUFQtONERiVMEIyA0k5GulMJiLbYajX5LnmV8Ehjx3KQWXCj1A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=JDMDEqekbP28i1SEAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5a172c8da365da54f6a/images/5d29f89592999d45a2518360d0052723298b1ffa24f9ea234a32bf26882f21df.jpeg",
+            "extensions": [
+                "13 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "13 days ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Overview:\nThe Android Developer – Kotlin position is a critical role within our organization, responsible for developing and maintaining high-quality mobile applications on the Android platform using Kotlin. This role plays a vital part in our company’s technological growth and is instrumental in delivering exceptional user experiences.\n\nKey Responsibilities:\n• Ensure that the app meets our quality standards by creating unit tests and doing code reviews\n• Design and maintain the architecture of new features and existing ones\n• Collaborate with cross-functional teams, designers and technical product owners\n• Stay up to date with programming best practices and new technology trends\n• Working autonomously you will bring strong communication skills and the ability to mentor colleagues\n\nRequired Qualifications:\n• Passionate about mobile platforms and translating requirements into a user friendly app\n• Excellent knowledge of Kotlin\n• Strong knowledge of architecture patterns such as MVVM\n• Proven experience of developing and publishing native Android apps to the Google Play store in a professional environment\n• Good knowledge of Kotlin Coroutines, Hilt and Retrofit.",
+            "apply_options": [
+                {
+                    "title": "Jobs3",
+                    "link": "https://main.jobs3.io/job/android-developer-kotlin-austria-based-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciDigJMgS290bGluIChBdXN0cmlhIGJhc2VkLCBIeWJyaWQpIiwiY29tcGFueV9uYW1lIjoiQml0Y29pbiBEZXZzIENvbXBhbnkiLCJhZGRyZXNzX2NpdHkiOiJWaWVubmEsIEF1c3RyaWEiLCJodGlkb2NpZCI6IkpETURFcWVrYlAyOGkxU0VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUVhWemRISnBZUSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUV2xWVEVKVFkwaGhURzVJVW14NE5WWnJla3R0V0RCTmFYWXpibVp1ZDFWRmNsbGthVGhCYURSdFNXbzBNbkZJWWxveFUyMW9lR3RUWWxsUGEya3hkVE5aUlVVMlprd3liMEZZUkUxRk1VZDJZWG8xVTA5V1lrUXRiM05UVEU1c1VVaFNObDlOWlRCNWRETjZXVlprZGtwUFJ6ZEhPR0pFVEdKVWVGVlRkMVZsV0RrdE5HcHNWWFF5VXpGak5EZFhSV0l4ZG1Wc2VYUmxVVUo0UjFCbVNrcHJXVUYwT1hkWFJHcEtaa3RIUkZKa1RraDFZblJtYUhjeWRqbFBMVWQ0U0U1QlRURTJRVTFHTkY5VlRGVk9XVlE1YTE5YWFUWnRlVzlNWldsa1lYRmFiSE5zVWtkT1MxQTBaSEpWU1dwaVRFOVVZMXBoYkRrMVJ6Sk1TMEZSTUVwWWFXaGhSblZuWDBOa1pITndZMFF0Tm5SS01rNWtRUzFwY1hjU0ZtOTJWMFZhT0ZCSVQxQnBhbWxNVFZBeFpGaFVaVUVhSWtGR1dISkZZM0JMTWxOdlNVbFhVV05wWlUxRE9HSm9ObWhTVDJObVNXUk5TMUUiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.at&location=Austria&next_page_token=eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUV2xWVEVKVFkwaGhURzVJVW14NE5WWnJla3R0V0RCTmFYWXpibVp1ZDFWRmNsbGthVGhCYURSdFNXbzBNbkZJWWxveFUyMW9lR3RUWWxsUGEya3hkVE5aUlVVMlprd3liMEZZUkUxRk1VZDJZWG8xVTA5V1lrUXRiM05UVEU1c1VVaFNObDlOWlRCNWRETjZXVlprZGtwUFJ6ZEhPR0pFVEdKVWVGVlRkMVZsV0RrdE5HcHNWWFF5VXpGak5EZFhSV0l4ZG1Wc2VYUmxVVUo0UjFCbVNrcHJXVUYwT1hkWFJHcEtaa3RIUkZKa1RraDFZblJtYUhjeWRqbFBMVWQ0U0U1QlRURTJRVTFHTkY5VlRGVk9XVlE1YTE5YWFUWnRlVzlNWldsa1lYRmFiSE5zVWtkT1MxQTBaSEpWU1dwaVRFOVVZMXBoYkRrMVJ6Sk1TMEZSTUVwWWFXaGhSblZuWDBOa1pITndZMFF0Tm5SS01rNWtRUzFwY1hjU0ZtOTJWMFZhT0ZCSVQxQnBhbWxNVFZBeFpGaFVaVUVhSWtGR1dISkZZM0JMTWxOdlNVbFhVV05wWlUxRE9HSm9ObWhTVDJObVNXUk5TMUUiLCJmY3YiOiIzIn0%3D&q=Android+developer"
+    }
+}

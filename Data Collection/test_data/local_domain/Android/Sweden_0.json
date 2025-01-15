@@ -1,0 +1,536 @@
+{
+    "search_metadata": {
+        "id": "6784f5d351c2ded77f376f34",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/018d3d4eaa5415a9/6784f5d351c2ded77f376f34.json",
+        "created_at": "2025-01-13 11:15:31 UTC",
+        "processed_at": "2025-01-13 11:15:31 UTC",
+        "google_jobs_url": "https://www.google.se/search?q=Android+developer&uule=w+CAIQICIGU3dlZGVu&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/018d3d4eaa5415a9/6784f5d351c2ded77f376f34.html",
+        "total_time_taken": 3.83
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Sweden",
+        "location_used": "Sweden",
+        "google_domain": "google.se"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.se/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwimvbmByfKKAxXAyMkDHTbKO0MQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Marshall Group",
+            "location": "Stockholm, Sweden",
+            "via": "Marshall Group",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=CQvjSr1HL86enaXeAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAGYFz7CE4HLiLaiOCikyAUBKc-QEnTo2m95g-5qH0IH1pdvuErPotifQldwtDRlV8siJxoRze0pGyT84RAFdALL88-56gnY1Sl7DXbPLjSYTII3GI2I1r906i3iaPYzM3huJ_LGPrN6m7T70WoSnhGGgLVGe7hIdOW6jd3HL4iRtIKjwAAAA&shmds=v1_AUFQtOO7ss8sGSOKQVqP_FpljSNcPEHI3wHSURllUlnVzcyVTA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=CQvjSr1HL86enaXeAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Marshall Group is the audio, tech, and design powerhouse uniting musicians and music lovers through genre-breaking innovation. Our flagship brand, Marshall, is uniquely positioned with over 60 years of rock ‘n’ roll attitude on stage, at home, and on the go. Our iconic products are brought to life by a dedicated team of 800 passionate employees and sold in over 90 markets worldwide.\n\nRight now, we need to strengthen our Software team with a Android developer that will be working with our cross-functional teams. The world of audio is changing. Smart speakers and True Wireless headphones are turning audio into a high-tech industry. In the last few years, our products have gone from simple wired devices to connected and complex IoT devices. We are now focusing on evolving our mobile app and the added value it can provide to our users.\n\nWhat you’ll do:\n• Maintain and develop Android mobile apps for the Marshall brands\n• Collaborate closely with our UX and Design team to discuss new features and functions.\n• Support and participate in testing activities and evaluation of the app.\n• Participate in knowledge-sharing sessions to promote new ideas and innovation.\n• Teamwork with the other developers to help us brainstorm solutions and make our apps even better for our users.  \n• Prototyping new ideas to make them come true, both individually and across teams.\n\nWho we’re looking for:\n\nYou are an Android developer with a collaborative mindset who cooperates well internally and externally. To succeed in this role, you need to be committed to collaborative problem-solving, and build quality products to create great user experiences together with the UX and design team. We believe you have a great passion for new technologies, trends, and software development. You get excited by the idea of creating an amazing app experience that resonates with people not only on a functional level but also on an emotional level.\n\nYou probably have the following experiences & skills:\n• + 2 years of proven professional Android app development experience.\n• Experience working with Kotlin.\n• Proficient in modern android design patterns (for ex. MVVM, dependency injection) and Jetpack components.\n• Familiarity with coroutines and Compose, Dagger Hilt and Clean Architecture.\n• Good understanding of Firebase & REST etc.\n• Hence strong written and spoken English skills are essential.\n• Experience with Bluetooth Low Energy (BLE) is a plus.\n\nOur pledge:\n\nWe thrive to foster an inclusive workplace and we do not discriminate on the basis of race, religion, disability, colour, national origin, gender, sexual orientation, age or marital status. We firmly believe that Marshall thrives when our employees do, leading to better experiences for our consumers.\n\nWe encourage applications from all over the world. To enable transitioning from another country for a role at Marshall, we offer re-location support. This support is tailored for each role but always includes visa/work permit application, local authority registration, and home finding service. Don't hesitate to reach out if you have any questions.\n\nDoes this sound like you?\n\nWe look forward to reviewing your application!",
+            "apply_options": [
+                {
+                    "title": "Marshall Group",
+                    "link": "https://careers.marshall.com/jobs/5255760-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tradera Jobs",
+                    "link": "https://careers.tradera.com/jobs/63166-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.se",
+                    "link": "https://www.monster.se/jobberbjudande/android-tv-developer-stockholm-stockholm--fa85ef3d-1487-4e5b-b487-64d92c0248b8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Abundo",
+                    "link": "https://careers.abundolive.se/jobs/1333671-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Headhunting & Recruitment - Pinetree - Pinetree AB",
+                    "link": "https://jobs.pinetree.se/jobs/5155946-android-tv-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Primea",
+                    "link": "https://careers.primea.se/jobs/4479030-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobylon",
+                    "link": "https://emp.jobylon.com/jobs/3232-punch-agency-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Uptrail",
+                    "link": "https://www.uptrail.com/job/80578/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1hcnNoYWxsIEdyb3VwIiwiYWRkcmVzc19jaXR5IjoiU3RvY2tob2xtLCBTd2VkZW4iLCJodGlkb2NpZCI6IkNRdmpTcjFITDg2ZW5hWGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Android developer with AOSP skills",
+            "company_name": "Professional Galaxy AB",
+            "location": "Anywhere",
+            "via": "JobTeaser",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=Rg51dIf-h7yfz9zjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQ6CMBQA0LhyBKc_G22NiYM64ULiIgkHIIV-ofjtb_obwfs4eAIvwMWMb3jZZ5Edcm8jOwsWn0gcMMLoUg_5tSpB7o5IYAMXbkDQxLYH9lAwd4TLU59SkKPWIqQ6SSa5VrX80Oyx4UkP3Mi_WnoTMZBJWO_220kF361UGfmGIo69ISgMmekF-Rmch2r-WoxpftOAa6hGtOh_qD7CAasAAAA&shmds=v1_AUFQtOMjvWJ9f2pAda2dMspRbCSkM7MQRiLQWY8V9Y1ySdHX5Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Rg51dIf-h7yfz9zjAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Assignment Description\nWe are looking for an Android developer with Automotive experience.\n\nYou will be part of a team and the focus on Andriod development for infotainment.\n\nThe team is creativity, problem solving and critical thinking, like to discuss challenges to find the best solution together.\n\nYou will in an international project and will have many contacts with other parts of the organization You should have worked with Android Open Source Project (AOSP), and worked with Custom build solutions.\n\nIt's very interesting if you worked as Product Owner. Handling product demo, sprint planning, retrospective etc. Defining Devops activities needed for android development, building AOSP and handled technical decisions and setup locally and on server.\n\nCompetence:\n• Android Automotive\n• Kotlin, Java, C++ -programming\n• Infotainment experience\n• Automotive experience\n• Good writing and verbal skills in English, Swedish is merited.\n\nAssignment period : 6 Months\n\nLocation: Södertälje (Hybrid)Deadline: 2024-09-29\n\nLanguage:English only is sufficient language skill for this assignment\nOther relevant information\nPlease note! We offer continuously. That means that we sometimes remove the assignments before deadline. If you are interested we recommend that you apply immediately.",
+            "apply_options": [
+                {
+                    "title": "JobTeaser",
+                    "link": "https://www.jobteaser.com/en/job-offers/2abfa482-4a4e-4772-a175-0b6f8fdc2805-professional-galaxy-ab-android-developer-with-aosp-skills?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tech Jobs In Sweden",
+                    "link": "https://www.tech-careers.se/job/lead-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciB3aXRoIEFPU1Agc2tpbGxzIiwiY29tcGFueV9uYW1lIjoiUHJvZmVzc2lvbmFsIEdhbGF4eSBBQiIsImFkZHJlc3NfY2l0eSI6IlPDtmRlcnTDpGxqZSwgU3dlZGVuIiwiaHRpZG9jaWQiOiJSZzUxZElmLWg3eWZ6OXpqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        },
+        {
+            "title": "Android Platform Developer",
+            "company_name": "Segula Technologies",
+            "location": "Gothenburg, Sweden",
+            "via": "SEGULA Technologies",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=gEOIUT557BoyvakRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU63Ktqo4GInQRCchLqXJD2TSHoXcqn2X_xZ7fLGV30X1f5MfebQwz3q8uQ8wAXfGDlhhi3c2ICgztYDE1yZXcRl40tJclJKJNZOii7B1pYHxYSGJ_ViIzOdeJ0x_V_sDsfdVCdy61WLbowaHmg9cWQXUCDMd_FIZsxuA-0He6QfsyswWp4AAAA&shmds=v1_AUFQtONdOVW8yXY4tEpQTxkBj6swd4RVHEUvCO2T0hAGDt43uA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gEOIUT557BoyvakRAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "As an Android Platform Developer, you will be implementing features throughout almost all layers of the Android stack for our next-generation infotainment systems based on Google´s Android automotive OS. All the way from HMI and business logic implementation to low-level hardware drivers and communication.\n\nYou will use the latest tools and technologies available and collaborate with partners and other teams to deliver innovative end-to-end solutions. Together with your team, you will take ownership and full responsibility for designing, developing, testing and maintaining high quality production code.",
+            "apply_options": [
+                {
+                    "title": "SEGULA Technologies",
+                    "link": "https://careers.segulatechnologies.com/en/job/?id=74626856-46f3-4ef3-af06-bb5dba67623f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/ecarxgroup/0f6339f2-69aa-47cc-80ba-7dd15d616c01?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/SegulaTechnologies/743999976344133-android-platform-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=3da53211b7c3637f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/-3733131616166515772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/android-platform-developer-at-ecarx-4034817676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.se",
+                    "link": "https://www.monster.se/jobberbjudande/senior-android-platform-developer-gothenburg-vastra-gotaland-county--dc2967cc-c475-45b3-999c-0d5898eec341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Arion Recruitment - Teamtailor",
+                    "link": "https://arionrecruitment-1705579161.teamtailor.com/jobs/5398230-senior-android-platform-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFBsYXRmb3JtIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNlZ3VsYSBUZWNobm9sb2dpZXMiLCJhZGRyZXNzX2NpdHkiOiJHb3RoZW5idXJnLCBTd2VkZW4iLCJodGlkb2NpZCI6ImdFT0lVVDU1N0JveXZha1JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Regular Android Application Developer",
+            "company_name": "Luxoft",
+            "location": "Gothenburg, Sweden",
+            "via": "Luxoft",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=Xy4sRBgprOfF72iIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8doniIc9izYieNFeCoIgnvQBJUnXJBKzIbvVfsXf2l7mMsxUv0XV3NENURdoU18o9NDmHIPVEijBGT8YKWOBLVzJAKMu1sNkLkQu4vLkRTIflWKOtWOZMltbeitKaGhULzI8o2OvC-aoBbv9YTfWObn16jaM9BQI8048JjMUt4HHF3tMf_URdkycAAAA&shmds=v1_AUFQtOOmZUQR9Nc8fksVqRGmy6xhv33mlkYbSx4rJUNViIq5Aw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Xy4sRBgprOfF72iIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d351c2ded77f376f34/images/e53be49d3cf18e1c88798efb6cbe507caf00003da889cf5079bb1243b6602b2a.png",
+            "extensions": [
+                "28 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Project description\n\nSupport the customer’s objective to make all cars connected and provide a continuously enhanced experience for both new and existing cars.\nYou will be developing the next generation infotainment system based on Google's Android automotive OS.\nThe work is done in an Agile team with a warm atmosphere, a speak up culture and a place where everyone can be themselves. Collaboration is highly valued, and the team effort always comes before the individual.\n\nYou are proactive, adaptable, and always looking for ways to improve processes and outcomes. Above all, you are a team player who values integrity, innovation, and excellence.\n\nResponsibilities\n• As an Android Application Developer, you will:\n• Develop software for the infotainment system.\n• Collaborate with partners like Google, UX designers, and other development teams to define a coherent end-to-end solution.\n• Participate in the entire software development lifecycle, including:\no Design\no Architecture\no Documentation\no Development\no Verification\no Validation\n• Stay up to date with the latest industry trends and best practices to ensure our solutions remain at the forefront of technology.\n\nSKILLS\n\nMust have\n• A M.Sc in Software Engineering or at least 5 years of relevant experience.\n• Hands-on experience in Android application development (Java/Kotlin).\n• Experience with AOSP and the AOSP build system.\n• Familiarity with modern app architectural patterns (MVP, MVVM, clean architecture).\n• Good knowledge of Android testing frameworks (JUnit, Espresso, Mockito).\n• Proficiency in Python scripting.\n• Expertise in version control tools such as Git.\n\nNice to have\n\nFurthermore, it is meritorious if you have previous experience in Automotive infotainment projects. Also, there is a big advantage if you have a Swedish B driver's license.",
+            "apply_options": [
+                {
+                    "title": "Luxoft",
+                    "link": "https://career.luxoft.com/jobs/regular-android-application-developer-10273?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=0163f05f7dfface3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/android-application-developer-at-tata-technologies-4085588849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "InternPlug",
+                    "link": "https://www.internplug.com/jobs/regular-android-application-developer-49687/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWd1bGFyIEFuZHJvaWQgQXBwbGljYXRpb24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTHV4b2Z0IiwiYWRkcmVzc19jaXR5IjoiR290aGVuYnVyZywgU3dlZGVuIiwiaHRpZG9jaWQiOiJYeTRzUkJncHJPZkY3MmlJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        },
+        {
+            "title": "Android Developer with AOSP Experience (Automotive)",
+            "company_name": "Vipas AB",
+            "location": "Skärholmen, Sweden",
+            "via": "Vipas AB",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=axCffmEZEdAGLGJPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHMQrCMBQAUFx7BBf_qKKNCC46RRShi0LBVdL000TT_JAf2x7IyWt4MXV58LL3KCukryPZGg7YoaOAEXqbDMhzeYHj8LtFrxGm8pmopWQ7nMESCqqAUUVtgDyciBqH451JKfBWCGaXN5xUsjrX1AryWNEg7lTxnxsbFTE4lfC23qyGPPhmPrnaoBjkHqyH8vF5RUOuRb-Assca_RdFkKKirQAAAA&shmds=v1_AUFQtONIrQaP7jZnyJC6nABNUreY-6gHcTOxSrS-E_VgGkbe-A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=axCffmEZEdAGLGJPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5d351c2ded77f376f34/images/e53be49d3cf18e1c8efb0b03d8fb548a042066b1d6f521a68845af1bd0386c52.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an experienced Android Developer with a background in Automotive Infotainment to join an exciting, international project. You will collaborate with a creative and problem-solving team focused on developing Android Open Source Project (AOSP) and custom-built solutions for automotive infotainment systems.\n\nKey Responsibilities:\n• Develop and implement Android solutions for automotive infotainment systems.\n• Work with AOSP and handle custom builds, product demos, sprint planning, and retrospectives.\n• Define DevOps activities, manage technical decisions, and support setup locally and on servers.\n\nKey Skills:\n• Android Automotive, AOSP, Kotlin, Java, C++\n• Infotainment and Automotive experience\n• Strong problem-solving skills and excellent communication in English (Swedish is a plus)\n\nDuration: 6 months, with a possibility of extension (50% on-site in Lund, 50% remote).\n\nApply now to be part of this innovative team!\n\nWhy Join Us?\n\nVipas AB offers attractive employment packages for IT consultants, aligned with the Teknikföretagen (Almega) collective agreement. ClientsWorking with us provides opportunities in diverse industries, allowing you flexibility and growth. If you’re driven and eager to face new challenges, join the VIPAS family.\n\nYou'll be part of an innovative team driving the future of telecom. If you're ready to take on challenging projects and grow your career in a cutting-edge environment, this is the opportunity for you!\n\nNote: Please do apply if you have Sweden PR/ citizenship OR a Sweden work permit.\n\nHow to Apply:\n\nInterested candidates are encouraged to apply by submitting their resume and cover letter. Join us in driving innovation in the automotive industry!",
+            "apply_options": [
+                {
+                    "title": "Vipas AB",
+                    "link": "https://career.vipas.se/jobs/4941152-android-developer-with-aosp-experience-automotive?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciB3aXRoIEFPU1AgRXhwZXJpZW5jZSAoQXV0b21vdGl2ZSkiLCJjb21wYW55X25hbWUiOiJWaXBhcyBBQiIsImFkZHJlc3NfY2l0eSI6IlNrw6RyaG9sbWVuLCBTd2VkZW4iLCJodGlkb2NpZCI6ImF4Q2ZmbUVaRWRBR0xHSlBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Android Platform Developer",
+            "company_name": "Afss Consultancy Services Sweden Fil Till I-Cont",
+            "location": "Stockholm, Sweden",
+            "via": "Indeed",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=jf2YbxtbMSEBUUuJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3MPQ6CQBBA4dhyBKupjbBqYqMV8S9amWBPlmWA1WGH7KyIJ_N6YmLzqi8v-kyiZepKz7aEK-lQsW9hjz0Sd-ghhgsXIKi9aYAdnJhrwum2CaGTjVIilNQSdLAmMdwqdljwoO5cyC-5NNpjN34xX60XQ9K5enZIKxHYsZMnBe3MGzL0vTUokL2wRAdHS3CzRHCORxbAOsgCm0fD1M7_6AutBjknugAAAA&shmds=v1_AUFQtOOGWtzvLEVgL6vh8bkoGaKq0Te2kBzUOnsIlfJ7Ovxnbg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jf2YbxtbMSEBUUuJAAAAAA%3D%3D",
+            "extensions": [
+                "27 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "We are looking for enthusiastic Android Platform Developers to join our Entertainment and Connected Services (EACS) Software team. If you’re a sociable, trustworthy, and driven professional who thrives in a collaborative environment, we’d love to hear from you!\n\nThe Role:\nAs an Android Platform Developer, you’ll work with cutting-edge technology in a dynamic and global environment. You’ll design and build high-performing, scalable platform capabilities within the Android Hardware Abstraction Layer (HAL). Your work will directly impact the development of our next-generation platform, supporting innovative applications across Volvo Group’s brands.\n\nYou’ll thrive in this role if you:\nEnjoy explaining complex technical concepts, both verbally and through documentation.\nAre passionate about driving change, adopting new technologies, and inspiring your team.\nHave a proactive attitude and are committed to achieving team objectives.\n\nKey Responsibilities:\nDevelop high-quality, scalable, and maintainable platforms using established design patterns and architecture.\nDesign versatile, high-performing platform capabilities.\nCreate and execute tests, including V1, V2, and V3, for developed software.\nCollaborate with the team, Agile Product Owners, and the Architecture team to develop features and stories.\nConduct thorough code reviews in line with EACS guidelines.\nShare knowledge actively within your team and across functional teams.\nExplore and learn new technologies, frameworks, and methodologies.\n\nRequirements & Qualifications:\nBachelor’s or Master’s degree in Computer Science, Software Engineering, Electronics, or a related field.\nA minimum of 5 years of software development experience.\nProficiency in Android HAL, C++, C, and Java/Kotlin.\nFamiliarity with CAN and LIN communication protocols.\nKnowledge of the AUTOSAR standard (e.g., SOME/IP).\nExperience with tools like Gerrit, Jenkins, JIRA, and Artifactory.\nExpertise in quality assurance techniques, including unit testing and automated integration testing.\nStrong experience working in Agile/Scrum environments.\n\nWhy Join Us?\nBe part of a team shaping the future of transport solutions and infrastructure.\nWork with skilled, approachable, and supportive colleagues in a culture of openness and learning.\nGain opportunities to grow, develop, and work on cutting-edge technology with global impact.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=e0c4cf8379c0362a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/-6812971019821833742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/android-platform-developer-at-afss-consultancy-services-sweden-fil-till-i-cont-4103621483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vakanser.se",
+                    "link": "https://vakanser.se/jobb/android+platform+developer+5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Webbjobb.io",
+                    "link": "https://webbjobb.io/jobb/306088/android-platform-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Statsskuld.se",
+                    "link": "https://statsskuld.se/lediga-jobb/15066/android-platform-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFBsYXRmb3JtIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFmc3MgQ29uc3VsdGFuY3kgU2VydmljZXMgU3dlZGVuIEZpbCBUaWxsIEktQ29udCIsImFkZHJlc3NfY2l0eSI6IlN0b2NraG9sbSwgU3dlZGVuIiwiaHRpZG9jaWQiOiJqZjJZYnh0Yk1TRUJVVXVKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        },
+        {
+            "title": "Android Developer • Business Experience",
+            "company_name": "0626 PayPal Limited, Filial Sweden",
+            "location": "Sweden",
+            "via": "Wd1.Myworkdaysite.com",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=wh2rsxz87V3oBmUCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2IOwrCQBBAsc0RrKaWmA0BU2ij4gfEIuABwiYZkpHNzrKzauw8i72X8iQq2Dzee9FrFC1XtvFMDWzwioYdeng_nrC-CFkUge3wXYS2RpjCgSsQ1L7ugC3smVuD40UXgpO5UiImaSXoQHVSc6_YYsWDOnMlP5TSaY_O6IBlNkuHxNl2Eqd5lkOh74U2cKSeAjYx7MjQt083bNAC2b99AJYNiQywAAAA&shmds=v1_AUFQtOMzX8XQsc-oZPOMcb0Bdm3HTjCdvasGRY7-NF8nxopumA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wh2rsxz87V3oBmUCAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "The Company PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers. We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade. Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities. Job Description Summary: As PayPal continues its mission to revolutionize commerce, we are seeking a Senior Android Developer to join one of our teams at the forefront of shaping innovative solutions and crafting modern digital products that positively impact people's lives across our organization. If this introduction sparks your interest, keep reading – the best is yet to come! Job Description: What you need to know This role is an exciting opportunity to work on impactful technical challenges together with talented peers in a cross-functional agile team. You will create modern digital products that affect people’s lives for the better within PayPal globally. Meet our team We are the UPR team, dedicated to creating exceptional payment experiences for our users and their customers. Serving millions of users globally, we deliver value with every interaction. Working in an Agile environment, we focus on delivering small, high-quality increments regularly to meet our customers' needs. We are a welcoming team, committed to supporting your growth and learning in ways that work best for you. Your way to impact In this role, you will have the opportunity to work with skilled and highly motivated engineers specializing in backend, iOS, Android, and quality assurance to deliver a world-class experience for our users. You'll benefit from their extensive delivery experience, accelerating your learning journey and enabling you to contribute to exciting features and improvements in the Payment and Orders Experience areas, serving customers at scale across multiple geolocations. Your day to day You will help to deliver high quality solutions to our users. You will work as part of an agile team, planning, refining, delivering and inspecting sprint deliveries. You work closely with product and design to understand context and vision. You will learn and work with your peers in the Android chapter to make incremental platform improvements and increase learning opportunities for all in a supportive environment. What you need to succeed Good experience in Android development, with good knowledge of Kotlin. Familiarity with Android SDK and various Android frameworks and understand how to leverage them effectively to build robust Android applications. Understanding of common architectural patterns such as MVVM (Model-View-ViewModel). Familiarity with CI/CD pipelines and automation tools like Jenkins to streamline the build, test, and deployment process. Commitment to writing clean, maintainable code with a focus on code quality and experience with unit testing, integration testing, and UI testing. Keen interest in keeping up to date with the latest technological development. You bring curiosity and energy to your work. You bring a desire to create fantastic outcomes for users. You are at ease sharing your knowledge, experience and opinions, but also appreciate input from your peers. Excellent verbal and written communication skills in English. We Believe in You Interested? Don't hesitate to apply or/and let's talk – we'd love to get to know you! Additional Job Description: Subsidiary: Zettle Travel Percent: 0 For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations. Our Benefits: At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you. We have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com. Who We Are: Click Here to learn more about our culture and community. Commitment to Diversity and Inclusion PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talentaccommodations@paypal.com. Belonging at PayPal: Our employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal. Any general requests for consideration of your skills, please Join our Talent Community. We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply. At PayPal we are reimagining money, democratizing financial services, and giving people more ways to safely connect to their money and to each other. We are purpose-driven and looking for people who want to join us at the forefront of the digital payments revolution. Learn more at PayPal.com/Jobs Learn more about privacy-related questions or data retention. If you would like your profile to be deleted from our system, please let us know Please note that this site has updated features that can’t run on older versions of Internet Explorer. Please use IE11 or MS Edge for an optimal experience. When applying for a job you are required to create an account, if you have already created an account - click Sign In. Creating an account will allow you to follow the progress of your applications. Our system does have some requirements that will help us process your application, below are some guidelines for creation of your account: Provide full legal First Name/Family Name – this is important for us to ensure our future hires have the right system set up. Please Capitalize first letter of your First and Last Name. Please avoid using fully capitalized text for your First and/or Last Name. NOTE: If your name is hyphenated or has multiple capitalization, please use the same format as your government ID. Please note that this site has updated features that can’t run on older versions of Internet Explorer. Please use IE11 or MS Edge for an optimal experience.",
+            "apply_options": [
+                {
+                    "title": "Wd1.Myworkdaysite.com",
+                    "link": "https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Stockholm-Stockholm-County-Sweden/Android-Developer---Payment-Experience_R0116572-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Stockholm-Stockholm-County-Sweden/Jr-iOS-Developer---Business-Experience_R0116571-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/6530040716027597005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remoteli - Remote Jobs",
+                    "link": "https://remoteli.io/jobs/business-developer-healthcare-denmark-syncvrmedical?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/se-sverige-business-intelligence-developer-p-techseed-meet-a-group?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobKos",
+                    "link": "https://se.jobkos.com/detail/603f8347f5982db6/business-developer-to-aax-biotech-sallyq-ab.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciDigKIgQnVzaW5lc3MgRXhwZXJpZW5jZSIsImNvbXBhbnlfbmFtZSI6IjA2MjYgUGF5UGFsIExpbWl0ZWQsIEZpbGlhbCBTd2VkZW4iLCJhZGRyZXNzX2NpdHkiOiJTd2VkZW4iLCJodGlkb2NpZCI6IndoMnJzeHo4N1Yzb0JtVUNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Mobile Developer to Sebratec",
+            "company_name": "Sebratec",
+            "location": "Stockholm, Sweden (+2 others)",
+            "via": "Sebratec",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=AqtLRK2LW7fe2djhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3MMQoCMRAFUGz3CIIwtWgiio22giBY7QGWJA6b1Wx-yAy61_DGamPzyte8Z83uCj8kphM_OaFwJQW17KtTDrSmCzwJuxoiIdMZ6BPPj1G1yMFakWR6UadDMAGjRWaPyd7h5Ucn0VUu6Xt12_1mMiX3y8V_HzK1ivCISOOK2hffOH8AxPCk85QAAAA&shmds=v1_AUFQtONUULNqg7j3NYyWVaCQ4fSUVtQPR1kj9iZW6ofyXr-LBA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AqtLRK2LW7fe2djhAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Sebratec is a Software and Engineering company specializing in services for the tech industry. Our mission is to transform companies through software and embedded systems solutions, supporting customers with consultancy in the development of their products, as well as training for teams and individuals interested in technology.\n\nMobile Developer - On-Site Consultant\n\nSebratec is on the lookout for talented Mobile Developers, Android Developers, and other professionals within mobile development to join our team. As a Mobile Developer at Sebratec, you will be employed at our consultancy but will work on-site at our partners' locations, playing a crucial role in delivering innovative solutions in the dynamic field of technology.\n\nRequirements:\n• Proven experience as a Mobile Developer, with a focus on Android development.\n• Proficiency in Java and Kotlin programming languages.\n• Preferred experience with MVVM architecture.\n• Something wanted and highly sought after, but not required, is experience in AOSP (Android Open Source Project).\n• Also very preferred: Experience in the automotive industry.\n\nIn this role, you will have the opportunity to work closely with clients, contributing your expertise to shape and implement mobile solutions that meet the evolving needs of the tech industry.\n\nWhat do we offer:\n• Competitive monthly salary!\n• Bonus program.\n• Referral bonus for bringing in top talent.\n• Generous 5 weeks of paid vacation.\n• Annual wellness benefit of 5,000 SEK through Benify.\n• Pension plan in accordance with the collective agreement.\n• Dedication to your career growth, tailored to your unique aspirations.\n• Access to continuous education and training within your field.\n• A sense of community, with monthly events and gatherings to connect with fellow Sebratecers.\n\nIf you are passionate about mobile development and eager to make a meaningful impact in a collaborative and dynamic environment, Sebratec welcomes your expertise to contribute to the future of technology. Join us in driving innovation and transforming the tech industry!",
+            "apply_options": [
+                {
+                    "title": "Sebratec",
+                    "link": "https://jobs.sebratec.com/jobs/3302150-mobile-developer-to-sebratec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/Atlavik/743999836233655-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs In Forex",
+                    "link": "https://www.jobsinforex.com/job/145007/mobile-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=21a4a58d28854769&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/-8303189046323922413?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobylon",
+                    "link": "https://emp.jobylon.com/jobs/3229-punch-agency-front-end-mobile-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.se",
+                    "link": "https://www.monster.se/jobberbjudande/mobile-developer-to-sebratec-stockholm-stockholm--5596fb4f-3f62-4a9a-902b-b94b1bd51b6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Headline Job Board",
+                    "link": "https://talent.headline.com/companies/natural-cycles/jobs/41471361-mobile-app-developer-capacitor-ios-android?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIHRvIFNlYnJhdGVjIiwiY29tcGFueV9uYW1lIjoiU2VicmF0ZWMiLCJhZGRyZXNzX2NpdHkiOiJTdG9ja2hvbG0sIFN3ZWRlbiIsImh0aWRvY2lkIjoiQXF0TFJLMkxXN2ZlMmRqaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVM2RsWkdWdSJ9"
+        },
+        {
+            "title": "Junior Android Developer to leading company within sustainable shopping!",
+            "company_name": "Academic Work",
+            "location": "Stockholm, Sweden",
+            "via": "JobLeads",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=5dcRmrHc__XukDcqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBRFce0nOD0dRVsRXHQqCELXDo4lTR5NbPpeyEu1_p5fZlzudM65xXdVdM1MjiPUZCI7Azd8oeeAERKDR2UcDaB5Coo-8HbJOgKZJSlHqvcIYjmEzGzgAA33IKiitsAEd-bB4_pqUwpyqSoRXw5ZTE6XOVgxYc9L9eRe_tOJVRGDVwm70_m4lIGG3bbWyuDkNDw4jpC_28R6tOynPbRvNEg_p3_GP8UAAAA&shmds=v1_AUFQtOPx-7nk6nemYAPXMVDo-0iP2jz48QOodPh5ZIRW1HqY_g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=5dcRmrHc__XukDcqAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "SEK 600K–SEK 800K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "salary": "SEK 600K–SEK 800K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We all know how long the road to landing that dream job can be and how frustrating it is when it is always the candidates with years of experience who gets the offer. This is the opportunity for you who live and breath for programming and development and who are passionate about acquiring new knowledge. We are convinced that your great interest in technology and your drive to learn and develop will take you far in this exciting role of a junior android developer. We look forward to hearing you tell us all about your passion for programming!\nAbout the role\n\nOur client is an established and well-known company with an office located in central Stockholm. The key words here are creativity and innovation and with more than five million weekly visits and 300 bids per second during peak traffic, the demands on the technical solutions of the company are high. As a Junior Android Developer, you’ll build the company´s native Android app for hundreds of thousands of users in the Nordic region. You’ll be critical in turning complex problems into simple, elegant solutions that elevate a world class app and user experience.\nWe offer you\n• Great development opportunities\n• A great start in your career as a successful developer\n\nAs a consultant at Academic Work, you are offered the opportunity to grow as a professional, extend your network and establish valuable contacts for the future. Som konsult för Academic Work erbjuder vi stora möjligheter för dig att växa professionellt, bygga ditt nätverk och skapa värdefulla kontakter för framtiden. Läs mer om vårt konsulterbjudande.\nJob duties\n• Build a cutting edge native Android app that brings the joy of buying and selling on Sweden's largest circular market.\n• Collaborate with tech, product management and UX to drive forward the next generation of our user facing app.\n• Ensure that our users’ experience is the very best it can be.\n• You will work with languages and technologies such as Kotlin, Jetpack Compose, Retrofit, Realm & Room.\nWe are looking for\nDesired qualifications\n• You know how to write readable, maintainable, performant object-oriented Kotlin and Java code.\n• You have an understanding of modern Android development.\n• Have experience with some Android development tools.\nMeriting\n• You have 1+ years of experience within the area of Android Development.\n• You’ve released at least one app on the Play Store or have a project in the works that you can tell us about.\n• The app flow contains a decent amount of Swedish, but we do welcome non-Swedish speaking applicants.\nPersonal qualities\n• Team player\n• Fast learner\n• Ambitious and driven\n• Creative\n\nRekryteringsprocessen hanteras av Academic Work och kundens önskemål är att alla frågor rörande tjänsten hanteras av Academic Work. Vi går igenom urvalet löpande och annonsen kan stängas ner innan tjänsten är tillsatt om vi gått över till urvals- och intervjufasen.\n\nApply here!",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/se/job/junior-android-developer-to-leading-company-within-sustainable-shopping--stockholms-kommun--e9cb1621062918e1a689f76e97eea5b34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgdG8gbGVhZGluZyBjb21wYW55IHdpdGhpbiBzdXN0YWluYWJsZSBzaG9wcGluZyEiLCJjb21wYW55X25hbWUiOiJBY2FkZW1pYyBXb3JrIiwiYWRkcmVzc19jaXR5IjoiU3RvY2tob2xtLCBTd2VkZW4iLCJodGlkb2NpZCI6IjVkY1JtckhjX19YdWtEY3FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Android Developer (Kotlin) – Compose UI & Automated Testing",
+            "company_name": "Arj.Global Ltd",
+            "location": "Malmö, Sweden",
+            "via": "Indeed",
+            "share_link": "https://www.google.se/search?ibp=htl;jobs&q=Android+developer&htidocid=Utm2AFeLNMWBrnwnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMW7CQBAFUNFyBKpfIYiIjZBooLKChAKhAmq09o7sReud1c4kUOYOnAUuwE04CdC88nWvne6uCDaxs1jQH3mOlDBYs3oXhnj8X_DFbWQh7L_RR_Gr3Bolix2JulDjEysuIWRS1YADlsy1p968UY0yy3MRn9WiRl2VVdzmHKjkc37kUt4cpDGJon-dh8l0fM5iqD9QpGO29Fwajx-1cAEb49v7bYTtiSyFJzmSotO4AAAA&shmds=v1_AUFQtOPzVzWL39zFnMX4l571fKXaJ4CNLwNHdFyIZJIh-ZbR9A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Utm2AFeLNMWBrnwnAAAAAA%3D%3D",
+            "extensions": [
+                "SEK 400–SEK 500 an hour",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "SEK 400–SEK 500 an hour",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Location: Malmö/Helsingborg, Sweden (1-2 days onsite, rest remote)\n\nJob Description:\nJoin a dedicated team of Android developers working on a widely used shopping app, striving to enhance the global customer experience with innovative features and a seamless in-store experience. We are looking for an Android developer with expertise in Kotlin and a strong focus on quality and collaboration. If you’re passionate about creating impactful user experiences and working in an agile setup, this role could be a great fit.\n\nKey Responsibilities:\n• Develop and maintain high-quality Android applications using Kotlin, with a focus on good coding practices.\n• Utilize Compose UI and automated testing to optimize user experience and ensure app reliability.\n• Collaborate in a cross-functional team alongside designers, data analysts, and testers to drive continuous improvements in an agile environment.\n\nRequirements:\n• Solid experience with Kotlin for Android development\n• Familiarity with Compose UI and automated testing practices\n• Experience with eCommerce, KMM, analytics tools, or CI/CD is a plus\n\nScreening: Ongoing until positions are filled.\n\nJob Type: Contract\nContract length: 12 months\n\nPay: 400,00kr - 500,00kr per hour\n\nExpected hours: 40 per week\n\nAbility to commute/relocate:\n• 214 32 Malmö: Reliably commute or planning to relocate before starting work (Required)\n\nWork authorization:\n• Sweden (Required)\n\nWork Location: In person",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=7e21fe9f1c5671f0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoS290bGluKSDigJMgQ29tcG9zZSBVSSBcdTAwMjYgQXV0b21hdGVkIFRlc3RpbmciLCJjb21wYW55X25hbWUiOiJBcmouR2xvYmFsIEx0ZCIsImFkZHJlc3NfY2l0eSI6Ik1hbG3DtiwgU3dlZGVuIiwiaHRpZG9jaWQiOiJVdG0yQUZlTE5NV0JybnduQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUelpJVld0b2RuY3lXRlZFYTFsb01HdFRWMEZqYkROT2NDMVhVRTl3ZWtadFRIbDJOamRxUzFsVVRFTmFNR1I2VDI1cU1YRm1UVTF3WTBFeE1YWnpNM2N3WW1kTWVrSmhSMnN6V1RkRVEzWm9PR3R1VTBZNVUxUXdRWGczYUY5MmNHdHZSVEZoY2tkbVUwRTJjR2szYzA1YVRqaFBkRVpHZDFkUk5WUnZNbkpmWld0Q1JuQllTSE16WkZoNllucGFjMFpaT1cxb09FbEVRVXBaYTJ4cFdXdEZVVUZvUTFOcGJUaHFabXRVUzJRelQwNHRRa1IzZWpCTWJqWlRSM1ZHYkRsNVVUUnFiVE5SU1ZGZlEwaHRXbU5QYW5sUk0xUlFlRlJ2TFdReGRtcDZPR2R3YUVoSU5WWTJiRlpIYm5OeFNuQnZja3BuVWpoYWJGaGhUbFprY3pSZk1UUlhiVzluY0hGNFVIUkNWbEZyU0RsSk9IYzVhVFU0Y0ZFU0Z6RjJWMFZhTm1JMlJuTkRVbkE0TkZCMGNGUjJiVkZSR2lKQlJsaHlSV053TWtGR1ZXMXBRMjFaY3pOd1UwNXBSVEJGVldwaVRUZFVMVmxuIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.se&location=Sweden&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUelpJVld0b2RuY3lXRlZFYTFsb01HdFRWMEZqYkROT2NDMVhVRTl3ZWtadFRIbDJOamRxUzFsVVRFTmFNR1I2VDI1cU1YRm1UVTF3WTBFeE1YWnpNM2N3WW1kTWVrSmhSMnN6V1RkRVEzWm9PR3R1VTBZNVUxUXdRWGczYUY5MmNHdHZSVEZoY2tkbVUwRTJjR2szYzA1YVRqaFBkRVpHZDFkUk5WUnZNbkpmWld0Q1JuQllTSE16WkZoNllucGFjMFpaT1cxb09FbEVRVXBaYTJ4cFdXdEZVVUZvUTFOcGJUaHFabXRVUzJRelQwNHRRa1IzZWpCTWJqWlRSM1ZHYkRsNVVUUnFiVE5SU1ZGZlEwaHRXbU5QYW5sUk0xUlFlRlJ2TFdReGRtcDZPR2R3YUVoSU5WWTJiRlpIYm5OeFNuQnZja3BuVWpoYWJGaGhUbFprY3pSZk1UUlhiVzluY0hGNFVIUkNWbEZyU0RsSk9IYzVhVFU0Y0ZFU0Z6RjJWMFZhTm1JMlJuTkRVbkE0TkZCMGNGUjJiVkZSR2lKQlJsaHlSV053TWtGR1ZXMXBRMjFaY3pOd1UwNXBSVEJGVldwaVRUZFVMVmxuIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

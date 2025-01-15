@@ -1,0 +1,306 @@
+{
+    "search_metadata": {
+        "id": "678502d422a577da13683dc1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3d7fda87aaa5e573/678502d422a577da13683dc1.json",
+        "created_at": "2025-01-13 12:11:00 UTC",
+        "processed_at": "2025-01-13 12:11:00 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIGTWV4aWNv&udm=8&fc=EuICCqICQUpHOUprTjZhdDZITjJRRlM0dWJDZWVGcndHRkF2LVNxNGpsaGttbUdkWjNlazJBckNqTGwyamh1YzB0dnAxZXVrYWJpTUtzMDdlWGRCNDlBa0E4aGRPb3dRZ01nQXZUT2d6UV9vN1BoU0U3eGxpOXE2MUxNNzlwZEZFOHpFWmZZZHdUQ0dacHplVnNSSUVORExSd1FiQ1Q5XzdNZkpPdTVWQ1FzZUs2SnB0cXR6aTg3WjFIdXpYWGt3cnZIaWp0bk8weGRwM1IyUjFRc2RkODZxZlRoMVl5Nm9ydDIzUENIaDdYMmMwZmh0VDlWOVlWNGNzYmVHMVk3UV9obUpHUTdtTDJja2dNbERsRFY5Vk1wZ1g1dWkwRFRGZ0Fja1g2Y2cSFzB3S0ZaOG5QSTRhZTVOb1BpZF9leUFnGiJBRlhyRWNxTGJRLTJVNEJ1Qnd6TjBqMkgxS1czbUxxTnpR&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/3d7fda87aaa5e573/678502d422a577da13683dc1.html",
+        "prettify_html_file": "https://serpapi.com/searches/3d7fda87aaa5e573/678502d422a577da13683dc1.prettify",
+        "total_time_taken": 0.38
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Mexico",
+        "location_used": "Mexico",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUalpoZERaSVRqSlJSbE0wZFdKRFpXVkdjbmRIUmtGMkxWTnhOR3BzYUd0dGJVZGtXak5sYXpKQmNrTnFUR3d5YW1oMVl6QjBkbkF4WlhWcllXSnBUVXR6TURkbFdHUkNORGxCYTBFNGFHUlBiM2RSWjAxblFYWlVUMmQ2VVY5dk4xQm9VMFUzZUd4cE9YRTJNVXhOTnpsd1pFWkZPSHBGV21aWlpIZFVRMGRhY0hwbFZuTlNTVVZPUkV4U2QxRmlRMVE1WHpkTlprcFBkVFZXUTFGelpVczJTbkIwY1hSNmFUZzNXakZJZFhwWVdHdDNjblpJYVdwMGJrOHdlR1J3TTFJeVVqRlJjMlJrT0RaeFpsUm9NVmw1Tm05eWRESXpVRU5JYURkWU1tTXdabWgwVkRsV09WbFdOR056WW1WSE1WazNVVjlvYlVwSFVUZHRUREpqYTJkTmJFUnNSRlk1Vmsxd1oxZzFkV2t3UkZSR1owRmphMWcyWTJjU0Z6QjNTMFphT0c1UVNUUmhaVFZPYjFCcFpGOWxlVUZuR2lKQlJsaHlSV054VEdKUkxUSlZORUoxUW5kNlRqQnFNa2d4UzFjemJVeHhUbnBSIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Mobile Android Developer",
+            "company_name": "Ibm",
+            "location": "Xico, Veracruz, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=RMANw6mtq3j79TboAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CYJws9REBBedBEEUuopbSdIjTUlz4S5K8B_8Z3V5w2s-i0Z3ZENEOKWBKQxwxhdGysiwgRtZEDTsRqAEFyIfcXkcS8ly0FokKi_FlOCUo1lTQktVT2TlTy-jYczRFOx3-21VOfn16mpnCAkewVELd2Tj-PluocP6my-72TGYkAAAAA&shmds=v1_AUFQtONFUvGf2m_JuHcpGySCFnVugKO2_GpGuc7qQwP2DRJkOg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=RMANw6mtq3j79TboAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f80fdfd85718d3c34448c40159e6c2588ccc2992c29f732be.gif",
+            "extensions": [
+                "12 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Title: System Designer\n\nDescription:\n\nWe are seeking a skilled system designer to lead our team into the future by translating systems requirements into the design and development of customized systems in agile environment.\n\nThe success of our company is in your hands as you transform vital business needs into code and drive innovation. Your work will power our clients globally collaborating and integrating code into enterprise systems.\n\nYou will have access to the latest education tools, and technology, and a limitless career path with the world's technology leader.\n\nAbout the Role:\n• Translate systems requirements into the design and development of customized systems\n• Lead our team in agile environment\n• Drive innovation and transform vital business needs into code\n• Collaborate and integrate code into enterprise systems\n\nRequirements:\n• Good English skills\n\nAbout Us:\n\nWe believe open ecosystems, open technologies, open innovation and open cultures are the key to opening opportunities and the way forward for modern business and for our world.\n\nWe want to work together, create together, grow together and rethink what's possible together.\n\nIn a world where technology never stands still, we understand that dedication to our clients' success, innovation that matters, and trust and personal responsibility in all our relationships lives in what we do as IBMers.\n\nEstimated Salary: $100,000 - $150,000 per year",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/b3126db496227457652889d973e588d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJJYm0iLCJhZGRyZXNzX2NpdHkiOiJYaWNvLCBWZXJhY3J1eiwgTWV4aWNvIiwiaHRpZG9jaWQiOiJSTUFOdzZtdHEzajc5VGJvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Remote Senior Android Developer",
+            "company_name": "Wolf Recruiter",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=pjzw-yGVCOFskq99AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAGYFz7BOJ0s2Ajgg46CYIguNTBsaTp2UTS_CF3St_CV1aXb_2qz6zaNTxCmW6cAgodU18QejrxmyMyF1rRBR0J2-I8IdEZGCIvDl41y94YkVgPolaDqx1Gg8QdJvNEJ39a8bZwjla53WzXU53TsJzfER_UsCuvoL8jJLryFBy-ULUIhpIAAAA&shmds=v1_AUFQtOOdF-7CW6v2hPoXPgLZGb9gdEr8xbcBB_VgqplUmSSzDg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=pjzw-yGVCOFskq99AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6fbe2d78bd9d0c866b3dd3ee911ee4c5067ac0514195d1f9f1.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Latin America\n\nUbicación: 100% Remoto (LATAM)\nEsquema de trabajo: Remoto\nRequisitos de idioma: Inglés técnico (nivel conversacional básico)\n\nDescripción del puesto:\n\nEl Senior Android Developer liderará el desarrollo de aplicaciones móviles en Android, implementando soluciones técnicas avanzadas y trabajando de la mano con otros desarrolladores para mejorar la calidad y el rendimiento del software. Tendrá un rol clave en la toma de decisiones técnicas y en la mentoría de otros miembros del equipo.\n\nResponsabilidades:\n• Diseñar, desarrollar y mantener aplicaciones nativas para Android.\n• Asegurar la estabilidad y rendimiento de las aplicaciones mediante el uso de mejores prácticas.\n• Colaborar con el equipo para resolver problemas técnicos complejos.\n• Liderar revisiones de código y guiar a desarrolladores menos experimentados.\n• Participar en la planificación de proyectos y toma de decisiones técnicas.\n\nRequisitos:\n• 5+ años de experiencia en desarrollo Android.\n• Dominio de Kotlin y Java.\n• Conocimiento profundo de Android SDK, patrones de diseño y arquitecturas móviles (MVVM, MVP).\n• Experiencia en el consumo de APIs RESTful.\n• Inglés técnico (nivel conversacional básico).\n\nThis offer from \"Wolf Recruiter\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/672a52d6361340dcce9d8e8e-remote-senior-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU2VuaW9yIEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiV29sZiBSZWNydWl0ZXIiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28iLCJodGlkb2NpZCI6InBqencteUdWQ09Gc2txOTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Android Developer - Expert in Voice AI Product Development",
+            "company_name": "Soundhound Inc.",
+            "location": "Guadalajara, Jalisco, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=AXmVt-CADW-PGrafAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWOsQrCMBQAce0nOL1ZaiOCi04FpbQgKIJreU0ebUqaF5JU8nv-me3gcrfccNl3kz1LqzxrBVf6kGFHHvZwS4sjaAtv1pKgrOHhWc0y_rOJbFzChjsIhF4OwBYq5t7Q9jLE6MJZiBBM0YeIUctC8iTYUsdJjNyFFW0Y0JMzGKk9ng6pcLbfiRfPVg0roLayWCeqGRUaHNFjDg0aHSTncKekJf8ACJVErMQAAAA&shmds=v1_AUFQtOMnDu3WY5q97qnMtZUla1V3PZYHRuTjhPhuUNK3L-Ab0A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AXmVt-CADW-PGrafAAAAAA%3D%3D",
+            "extensions": [
+                "8 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "About SoundHound Inc.\n\">\n\nAt SoundHound Inc., we believe in revolutionizing the way people interact with technology. With a global reach spanning multiple languages, our team is dedicated to building Voice AI products that bring conversational intelligence to various industries. We're looking for an experienced Android Developer to join our mission and contribute to cutting-edge Voice AI products.\n\">\n\nSalary and Benefits\n\">\n\nThe successful candidate can expect a competitive salary of $180,000 per year, plus equity and benefits. This role is located in Guadalajara, Mexico, and offers virtual and hybrid workplace options.\n\">\n\nJob Description\n\">\n\nWe are seeking an expert Android Developer who will drive development for our SoundHound Chat AI and SoundHound for Automotive products. The ideal candidate will be responsible for shipping high-quality products on time, collaborating with cross-functional teams, and working autonomously while shouldering significant responsibility.\n\">\n\nKey Responsibilities:\n\">\n\">\n• Transform concepts and specifications into reality using the latest software development processes and tools.\">\n• Collaborate with Product, Design, and Engineering teams to ensure seamless product delivery.\">\n• Drive Android development for our SoundHound Chat AI and SoundHound for Automotive products.\">\n• Work autonomously while shouldering lots of responsibility as our sole Android developer.\">\n\">\n\nRequirements\n\">\n\nTo be considered for this role, you must have:\n\">\n\">\n• A Bachelor's degree in Computer Science or equivalent.\">\n• 7+ years of experience as an Android Developer.\">\n• Experience working on large-scale Android apps with millions of users.\">\n• Published an app on the Google Play Store, either individually or as part of a team.\">\n• Fully proficient in written and spoken English.\">\n• Deep knowledge of Android, Java, and Kotlin programming.\">\n• Knowledgeable in object-oriented designs and patterns.\">\n• Experience with server-side, API-driven development.\">\n• Experience with low latency audio, networking, performance analysis, and third-party SDKs.\">\n• Experience with Android Automotive and library development is a plus.\">\n• Contributed to open-source Android projects is a bonus.\">\n\">\n\nWhy Work at SoundHound Inc.?\n\">\n\nWe value diversity, equity, and inclusion, and strive to create a work environment where everyone feels supported and valued. Our commitment to fostering an inclusive culture is crucial to our success. Come join our team and bring your unique voice to our mission.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/0876f000ed122efd1ba26e6e1259ae3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIEV4cGVydCBpbiBWb2ljZSBBSSBQcm9kdWN0IERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiU291bmRob3VuZCBJbmMuIiwiYWRkcmVzc19jaXR5IjoiR3VhZGFsYWphcmEsIEphbGlzY28sIE1leGljbyIsImh0aWRvY2lkIjoiQVhtVnQtQ0FEVy1QR3JhZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Sr. Android Developer",
+            "company_name": "Bykon",
+            "location": "Mexico City, Mexico",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=JF9GksaOVFRDCwqlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3MPQoCMRBAYWz3CGIxtayJCDZa-QOCYOUBliQ7ZLPGTMgMkj2Ct1bB5sHXvOY9a9p7UXBIfaHQwxlfGCljgRVcyQKjKW4ASnAh8hHn-0Ek805r5qg8i5HglKOnpoSWqh7J8i8dD6Zgjkaw22zXVeXkl4vj9PiuQoIb1uAITkGm9o8PVEx9_YwAAAA&shmds=v1_AUFQtOMMjVMSe8_YSPre5EgkPl1sbW-yNH5Qvgc4dSzjZC1xZg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=JF9GksaOVFRDCwqlAAAAAA%3D%3D",
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "In ByKon we’re looking for an exceptional Sr. Android Developer to join our fast-growing team. This is an opportunity to work alongside world-class technology and data science experts paving way for fast-paced career growth and learning.\n\nMain responsibilities:\n• Develop and maintain the applications corresponding to your project.\n• Develop the structure of the architecture and create views\n• Translate conceptual design to user interface on Android phones\n• Create new functionalities to applications\n• Test and troubleshoot application errors\n• Attend meetings and work as a team to achieve goals\n\nRequirements:\n• + 3 years of experiencie in Android Development (Android studio, Java and Kotlin)\n• Bachelor’s degree: Computer Systems Engineering or related\n• Advanced English\n\nTechnical Skills:\n• Strong knowledge in Android, Core Java, Computer Science fundamentals, REST and JSON\n• Different versions of Android and handling of different screen sizes\n• Prior experience building apps using the MVVM and MVC pattern\n• Experienced in building scalable and reactive consumer-facing mobile applications\n• Skilled at writing Unit and Automation tests\n• Strong knowledge of Android UI design principles, patterns, and best practices\n• Google Design Principles and Interface Guidelines\n• General mobile landscape, architectures, trends and emerging technologies\n• Experience and knowledge using Git, JIRA, and Agile processes\n\nSoft Skills:\n• Experience about performance optimization of mobile applications\n• Strong verbal and written communication skills\n• Available to work independently and manage on time\n\nIf your want to be part of ByKon´s team, send us your resume to: Ver el correo electrónico en click.appcast.io\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://mx.jooble.org/jdp/-103435233197658460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJCeWtvbiIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyBDaXR5LCBNZXhpY28iLCJodGlkb2NpZCI6IkpGOUdrc2FPVkZSREN3cWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Android Software Engineer (On-site)",
+            "company_name": "Wizeline",
+            "location": "Mexico",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=8SrQEHHRLHpjLrKDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAyAYVw7OjplVKE9EVzq5CCCIA4OjuV6jdfImZRLwOI7-M7W5R-_v_jOivrAXRbq4CYPe_uMcORIjJhheeVSyXAFJZylBUWfQw_CcBKJCRf73mzQ2jnVVEU1bxSqIC8njK2M7imt_tNoP8FD8obNdrcZq4Hjen6nD6bpBMRwwZGC_AAh1c0ykAAAAA&shmds=v1_AUFQtOP_ob9eQOoMfPPdjSrxE6O9GQ5qHyW53Mt-SNtkoWclAQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8SrQEHHRLHpjLrKDAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f41684527cc91aea5fb4a92490c269a7ec43e17813127c7b6.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "The Company\n\nWizeline is a global digital services company helping mid-size to Fortune 500 companies build, scale, and deliver high-quality digital products and services.\n\nWe thrive in solving our customer’s challenges through human-centered experiences, digital core modernization, and intelligence everywhere (AI/ML and data). We help them succeed in building digital capabilities that bring technology to the core of their business.\n\nYour Day-to-Day\n\nThis job posting is for a Android Software Engineer on our Engineering team. Here's what you'll be doing in your day-to-day work:\n• Design and develop advanced applications for the Android app framework that will be used by millions of users across the world.\n• Make confident architecture and UX decisions based on skill, experience, and research.\n• Evangelize your application across worldwide business users to increase adoption.\n• Pioneer best practices, testing and coding standards for a fast-growing company.\n• Support application use at a massive scale.\n\nAre You a Fit?\n\nSounds awesome, right? Now, let’s make sure you’re a good fit for the role.\n\nMust-have Skills\n• A2 English level (or above)\n• 5+ years of Android development experience.\n• Experience with Kotlin.\n• Have published one or more Android apps.\n• Experience with third-party libraries and APIs.\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.\n\nNice-to-have Skills\n• BS/MS in Computer Science, Engineering or related subject.\n• Unit/ instrumented Testing experience\n• Experience with Kotlin, Rx, Dependency injection and Android architecture components.\n\nLocation\n• On-site in the south of Mexico City\n\nAbout Us\n\nWizeline prioritizes a culture of diversity and development for its nearly 2,000 person team spread across the globe. We believe great technology comes from a mix of talents and perspectives. Our core values of ownership, innovation, community, and inclusivity are central to our work. Wizeline is invested in its employees' growth, offering opportunities to create personalized career paths and develop in-demand skills. We even have a free education program, Wizeline Academy, to help both employees and the broader community upskill in tech.\n\nPlease note that by submitting your application, you agree with the terms and conditions of our Privacy Policy.\n\nApply now!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://mx.indeed.com/viewjob?jk=550259b3da56be70&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/pinterest/software-engineer-ll-android/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Useparallel.com",
+                    "link": "https://www.useparallel.com/app/candidate/job/672c3a01821380e130644a0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/ba8619b4a0c9a2464a3b8b88ae114cdf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobistia",
+                    "link": "https://jobistia.com/job-details/fd56aa09dc5e16e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://mx.sercanto.com/detail/a/software-engineer-android-mexico_desde-casa_1557662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIEVuZ2luZWVyIChPbi1zaXRlKSIsImNvbXBhbnlfbmFtZSI6IldpemVsaW5lIiwiYWRkcmVzc19jaXR5IjoiTWV4aWNvIiwiaHRpZG9jaWQiOiI4U3JRRUhIUkxIcGpMcktEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Rivka Development",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=sBMY0yf7cvHLw6twAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXNsQrCMBAAUFz7CbrcKIKJCC46CYIguPgDJUmPNDa9C7mj5AP8cHFweevrPqtue6WhchrghgtmLlhhDw_2IOhqGIEJ7swx4_oyqhY5WyuSTRR1moIJPFsm9Nzsm7386GV0FUt2iv3xdGimUNxtXmmZ3D-ZkRQSwRNbCvwFMcr4hYcAAAA&shmds=v1_AUFQtOOzkdvOKDyf_7rynQmCuNK9o6mqVyN8yBGgDMvKifdPIw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=sBMY0yf7cvHLw6twAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f3ee22680d031591db4829c9e16c9ff33fc14ace7a4ed5f14.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Latin America, Mexico\n\nLocation: Remote (Based in Latin America)\n\nAbout the Role:\nWe are seeking a talented and motivated Android Developer to join our dynamic team. As an Android Developer, you will play a key role in designing, developing, and maintaining innovative mobile applications that delight our users. This is a fully remote position, and we are looking for candidates based in Latin America to collaborate within our team across time zones effectively.\n\nKey Responsibilities:\n• Design, develop, and maintain high-performance, reliable, and scalable Android applications.\n• Collaborate with cross-functional teams, including designers, product managers, and backend developers, to define and deliver new features.\n• Write clean, efficient, and maintainable code following best practices for Android development.\n• Ensure the performance, quality, and responsiveness of applications through rigorous testing and debugging.\n• Stay up to date with the latest industry trends, tools, and technologies to continuously improve development processes.\n• Participate in code reviews to ensure high-quality standards and knowledge sharing within the team.\n• Optimize applications for maximum speed and scalability.\n\nQualifications:\n• Proven experience (3+ years) as an Android Developer.\n• Proficiency in Kotlin and Java for Android development.\n• Strong understanding of Android SDK, Android Studio, and design patterns.\n• Experience working with RESTful APIs and third-party libraries.\n• Familiarity with version control systems such as Git.\n• Knowledge of mobile UI/UX standards and guidelines.\n• Experience with testing frameworks and debugging tools for Android applications.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and teamwork skills.\n\nPreferred Qualifications:\n• Experience with Jetpack Compose.\n• Familiarity with CI/CD pipelines for mobile applications.\n• Knowledge of app performance optimization techniques.\n• Experience in agile development environments.\n\nBenefits:\n• Fully remote work environment.\n• Flexible working hours.\n• Opportunities for professional growth and development.\n• A supportive and inclusive team culture.\n\nIf you are passionate about building exceptional Android applications and want to work in a remote, collaborative, and innovative environment, we would love to hear from you!\n\nThis offer from \"Rivka Development\" has been enriched by Jobgether.com and got a 80% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6759b83489ea74961a414b0b-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Venezuela",
+                    "link": "https://ve.linkedin.com/jobs/view/android-developer-at-launchpad-technologies-inc-4117245743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJpdmthIERldmVsb3BtZW50IiwiYWRkcmVzc19jaXR5IjoiTWV4aWNvIiwiaHRpZG9jaWQiOiJzQk1ZMHlmN2N2SEx3NnR3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Android Mobile developer at In All Media Inc",
+            "company_name": "In All Media",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=vHfgY2fx5L2M3oVVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1WNOwoCMRBAsd0DWFhNLZiIYKPVYiEKe4YlnyGJzGZCJkjO4mldS5vHe9UbPpvhNmZfOXmY2CZC8PhG4oIVTINHhpEIJvTJrOHgAE-2IGiqi8AZ7syBcHeNrRW5aC1CKkgzLTnleNGc0XLXL7bywyzRVCxkGs6n87GrksN--3dJeZWeHH8BI7UXKp0AAAA&shmds=v1_AUFQtOP14xdUIdbykmYFvV3Lm0LMIHQMdC4NWrMy27WILQCHMg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=vHfgY2fx5L2M3oVVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f9384f262eb18356b55aa0f710c6ac0485e8147488462c96c.gif",
+            "extensions": [
+                "192K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "192K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Brazil, Argentina, Mexico\n\nAndroid Mobile Dev\n\nIn All Media\n\nInallMedia.com is a Global community in charge of allocating and administrating complete teams according to our clients’ needs, always using an agile methodology.\n\nOur positions are 100% remote and payable in USD.\n\nThe Opportunity\n\nWe are seeking a talented Mobile Android Developer to join our team. In this role, you will work on developing and maintaining high-quality mobile applications that reach millions of users worldwide. You will collaborate closely with cross-functional teams to design, build, and integrate innovative features that enhance the user experience on our client's platform.\n\nKey Responsibilities\n• Develop, test, and maintain Android applications using Kotlin and Java, ensuring high performance, quality, and responsiveness.\n• Integrate mobile applications with backend services, working with RESTful APIs and ensuring smooth data flow and seamless functionality.\n• Implement automated and unit testing to guarantee the reliability and robustness of the application.\n• Collaborate with the DevOps team to establish and maintain CI/CD pipelines for automated deployment and continuous delivery.\n• Work with GraphQL to manage and query data efficiently, optimizing the application’s performance.\n\nMust-Have Requirements:\n• Proven experience as an Android Developer with a strong portfolio of released applications.\n• Proficiency in Kotlin and Java.\n• Solid understanding of mobile backend integration and RESTful APIs.\n• Experience with automated testing frameworks and unit testing.\n• Familiarity with CI/CD pipelines and tools such as Jenkins, GitLab CI, or similar.\n• Experience with GraphQL for efficient data querying and manipulation.\n• Strong problem-solving skills and ability to work in a collaborative environment.\n\nNice to have Requirements:\n• Experience with the App Store deployment process, including understanding compliance standards and best practices.\n• Knowledge of SDK concepts and how to leverage them in mobile development.\n• Familiarity with Android Studio, leveraging its tools and features for efficient development.\n\nBenefits\n• 💵 USD Payment\n• 🕹100% remote\n• 🌎 Great Community\n• 💯 Full-time, long-term\n• 💪🏼Growth opportunities\n\nThis offer from \"In All Media\" has been enriched by Jobgether.com and got a 75% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6715662061b1307389f7a516-android-mobile-developer-at-in-all-media-inc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIE1vYmlsZSBkZXZlbG9wZXIgYXQgSW4gQWxsIE1lZGlhIEluYyIsImNvbXBhbnlfbmFtZSI6IkluIEFsbCBNZWRpYSIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyIsImh0aWRvY2lkIjoidkhmZ1kyZng1TDJNM29WVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Software Engineer (Android)",
+            "company_name": "Solvd",
+            "location": "Mexico (+2 others)",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=15PJ8H4VRmGj57_gAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvQrCMBAAYFy7uDvdqIKJFFx0chBBcOoDlPycaUq8C7mgmX1ydfnGr_ssun7gR32bgnChEAmxwPpMvnD0G9jBjS0ImuImYIIrc0i4Ok21ZjlqLZJUkGpqdMrxUzOh5aZntvJnlOkX52Qqjv1h31SmsF0OnF4eIsEdW3T8BSqQLjmFAAAA&shmds=v1_AUFQtONkF16XhqRliP4REdNA4urOjzaGAds47blslIQpZTebHw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=15PJ8H4VRmGj57_gAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Solvd Inc. is a premier software engineering company. We have 8 offices across the globe and over 800 international employees on staff. With over 12 years of experience, highly skilled teams around the world and deep industry knowledge, we help clients create software that improves their operations and opens new markets. We have built an impressive roster of digital-native enterprise clients including some of the biggest brands in retail and social media.\n\nWe are looking for an experienced Android Software Engineer.\n\nThe project aims to:\n\n- Enable sellers to host live product showcases, interact directly with buyers, and answer questions in real time.\n\n- Provide buyers with an immersive shopping experience through high-quality live streaming, chat features, and instant purchasing options.\n\n- Leverage modern frontend technologies to deliver a responsive, intuitive, and visually appealing user interface.\n\n- The platform serves as a bridge between traditional e-commerce and the growing trend of live shopping, focusing on scalability, reliability, and user engagement.\n\nResponsibilities:\n• Understand requirements of new products and translate these requirements into a scalable software architecture.\n• Implement features for the Android app.\n• Assure delivery of high-quality software by setting up robust CI/CD pipelines, designing and writing tests, contributing to code reviews and code debugging, and by writing documentation.\n• Own major features from design phase to coding, testing, deployment and support.\n\nRequirements:\n• Bachelor’s Degree in Computer Science or similar technical degree, with 5 years of experience designing and developing Android applications.\n• In-depth experience in translating requirements into scalable and future-proof software architectures. Broad knowledge of design patterns and technologies used in designing Android applications.\n• Proficiency and hands-on experiences in Android development using Java and Kotlin.\n• Working knowledge of tools such as Jira, Git, Android Studio, debugging and profiling is required.\n• Experience integrating with web services using HTTP / JSON / OpenAPI / TCP/IP, as well as knowledge about databases.\n• Experience with live streaming technologies such as WebRTC, RTSP/RTMP, HLS (HTTP Live Streaming), or DASH (Dynamic Adaptive Streaming over HTTP) would be an advantage.\n\nTech stack:\n• Programming Languages:\n• Kotlin\n• Java\n• Android Development Tools:\n• Android Studio (IDE)\n• Android SDK\n• Android Core Concepts:\n• Activities\n• Fragments\n• Services\n• Layout Design (XML)\n• Jetpack Compose\n• Design Patterns:\n• MVVM (Model-View-ViewModel)\n• Dependency Injection (Dagger2 / Hilt)\n• Concurrency\n• Kotlin Coroutines\n• Flows\n• Networking and Data Handling:\n• Retrofit2 (REST API client)\n• Volley\n• OkHttp\n• JSON parsing (Gson, Jackson)\n• Room / SQLite database\n• Testing and Quality Assurance:\n• JUnit (unit testing)\n• Espresso (UI testing)\n• Mockito (dependency mocking)\n• Version Control:\n• Git",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/solvd/3b94a61a-2a8c-4477-b7ce-9eab84c5090d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoQW5kcm9pZCkiLCJjb21wYW55X25hbWUiOiJTb2x2ZCIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyIsImh0aWRvY2lkIjoiMTVQSjhINFZSbUdqNTdfZ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Senior Mobile Application Developer - Android",
+            "company_name": "Digitalonus By Tech Mahindra",
+            "location": "Guadalajara, Jalisco, Mexico",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=s0hyyY7Q11YTJfnIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsfUIVlOLJiLYqE0kIARSaS-TzZBMGHeWnVXi8byZa_N5xee95XexrG_kWSO02rEQVCEIO0ysHmp6k2igCFuofB-V-0yNdmCE0Y2QP1fVQWh1GlMKdixLMykGS1ngCqfPUj11OpeTdvafh40YKQgmeuwPu7kIflifax44oah_GVw-cKfsbnHk3ETgHHlhj4ITRtxAg8LmdAMtzez0B8VTMFHEAAAA&shmds=v1_AUFQtOOIcXkBHIuh3NtiO2Fdja36TjsuqQdkXZfdcMAZ3Hhm5g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=s0hyyY7Q11YTJfnIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f8ff0c30ef9ca77f40ef6192e3ba0fa1fc1c1f3fc62adc9ee.gif",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Job Description\n\nWe are looking for a talented Senior Mobile Application Developer to join our team at DigitalOnUs by Tech Mahindra. This is an exciting opportunity to work on challenging projects and contribute to the growth of our company.\n\nAs a Senior Mobile Application Developer, you will be responsible for designing, developing, and testing high-quality mobile applications for Android devices. Your expertise in native development using Kotlin will help us create innovative solutions that meet the needs of our customers.\nRequired Skills and Qualifications\n• Bachelor's Degree in Computer Science or a related field\n• 4+ years of experience working with Android\n• Strong experience in native development using Kotlin\n• Experience in Unit Testing using Mockito/Mock\n• MVVM - Architecture Components (ViewModel, LiveData, Room, Data Binding)\n• Life Cycle Aware Components\n• Reactive Programming\n• Dependency Injection with Dagger 2\n• Networking with Retrofit 2\n• TDD - Proficiency writing Unit Tests and generating Code Coverage reports\nWhat We Offer\n\nAt DigitalOnUs by Tech Mahindra, we offer a comfortable work environment that engenders trust within teams and with our customers. Our company culture values quality, innovation, commitment to deliverables, efficiency, and cost-effectiveness for all our customers.\n\nAs a member of our team, you can expect:\n• To work with truly remarkable IT engineers, architects, specialists, and more\n• To grow at a phenomenal pace and make meaningful contributions to our company's success\n• To hear your voice, nurture your talent, and help you strengthen your footprint in the industry\n• To enjoy benefits above the law\n• To receive mentorship and opportunities to grow and learn\nEstimated Salary Range\n\n$120,000 - $150,000 per year",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/ab582a338bfaefa5e8f41460a54366e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIEFwcGxpY2F0aW9uIERldmVsb3BlciAtIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJEaWdpdGFsb251cyBCeSBUZWNoIE1haGluZHJhIiwiYWRkcmVzc19jaXR5IjoiR3VhZGFsYWphcmEsIEphbGlzY28sIE1leGljbyIsImh0aWRvY2lkIjoiczBoeXlZN1ExMVlUSmZuSUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiJ9"
+        },
+        {
+            "title": "Mobile Engineer - Android (Hybrid)",
+            "company_name": "Homebase",
+            "location": "Mexico",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=F7wIxb4w_qXMcO9yAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIvQrCMBAAYFw7OjrdqIKNCA7q5CAWoc9Q8nOkV9K7kMtQ38GHVpdv-JrPqrn04ighPDgSIxY4wJ1DEQqw7d6uUNj96iUOFG3xIwjDUyQm3NzGWrNejVFNbdRqK_nWy2yE0cliJnH6Z9DRFszJVhxO5-PSZo77dSczOqsIxNDjQl6-h747vY8AAAA&shmds=v1_AUFQtOMtZecmcFSKQSUCIUfEcGZ4UzQ7mq1YfL2f4fGkGLTIMA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=F7wIxb4w_qXMcO9yAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502d422a577da13683dc1/images/ef9d9d0a4cc32d6f671d632b86aa5491672cbdb8febd5cd5225d0e9ade4a42ba.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hi, Future Homie!\n\nAs a Homie, you'll be part of an unstoppable team that puts customers first, embraces each day with excitement, and strives for excellence in everything you do. We’re revolutionizing the way small businesses manage their teams and grow their business. What this means for you is a shared passion for innovation and making a difference for the people we serve. So what do you say, will you join us on our mission to empower small businesses?\n\nAs a Homie, you are a bar raiser, which means you come with\n• 4+ years of Mobile Software Engineering experience\n• Expert in Kotlin, Kotlin coroutines, and various common Android frameworks\n• Nice to have: Experience with Java and Jet pack components MVI & compose\n• Advanced understanding of object-oriented software design and design patterns, and how they apply to the frameworks listed above\n• Advanced understanding of performant code\n• Knowledge of Android UI design principles, patterns, and best practices\n• Experience with RESTful APIs and third-party libraries\n• Testing framework experience - unit, feature, and integration\n• Knowledge of Jira, Git, Github, CircleCI, and development using pull requests.\n• Strong systematic and problem-solving skills\n• Ability to work from the office weekly on Tuesdays and Wednesdays\n\nAs a Homie, you will make an impact by\n\nDesigning, building, and implementing incredible software solutions that enhance the value of the Homebase software platform to impact the lives of our customers. You will be a part of a passionate and dynamic community eager to take innovation to the next level. The ideal candidate is comfortable with ambiguity and failure, thrives in a fast-paced environment, and possesses a genuine passion for creating impactful solutions. If you are a risk-taking, scrappy, and unconstrained thinker who takes pride in ownership, we want you on our team.\n• You’ll drive product engineering end-to-end for the mobile to deliver value to our customers\n• You will contribute to the evolution of our current engineering strategy and development process\n• Rapidly prototype and iterate on ideas to validate assumptions and hypotheses\n• Take ownership of initiatives, measure key metrics, and examine results to inform choices with your partners\n• Embrace a mindset of continuous improvement, incorporating learnings from both successes and failures into future initiatives\n• Champion a culture of innovation, collaboration, and a bias for action within the team\n\nWhat to Expect During the Interview Process:\n• Meet the Talent Acquisition team, Mehreen M.\n• Meet with the Hiring Manager\n• Participate in two Technical Interviews (Live Coding/Systems Architecture)\n• Meet with the Director of Engineering, Ronnie C\n• Professional Reference Checks\n• Background Check + Offer Stage\n• Welcome to the team 💜🎉\n\nDiversity, Equity, and Inclusion at Homebase\n\nAt Homebase, we take pride in fostering a welcoming space where every Homie of every gender, age, orientation, culture and walk of life can be their full selves. Diverse perspectives empower us to build the best-in-class platform for small businesses and hourly shift workers. We recognize that experience comes in many forms, so if you think you’re close to what we’re looking for (even if you don’t meet 100% of the qualifications), we encourage you to apply!\n\nAbout Us\n\nWelcome to the exciting world of Homebase in Mexico! We are looking for passionate individuals like you to join our unstoppable team of developers. Can you imagine being one of the first members of this adventure?\n\nOur mission is to make small business teams unstoppable.\n\nHomebase is the everything app for hourly teams, with employee scheduling, time clocks, payroll, team communication, HR, and more. More than 100,000 small (but mighty) businesses rely on Homebase to make work radically easy and give their teams superpowers. As the leader in small business team management, Homebase tracked 1+ billion hours for 2.5+ million workers last year. Homebase is based in San Francisco, Houston, Denver, and Toronto. We are backed by leading venture investors L Catterton Growth, Emerson Collective, Notable Capital, Bain Capital Ventures, Khosla Ventures, Baseline Ventures, Cowboy Ventures, Bedrock Capital, and PLUS Capital.\n\nIf you're ready to join an exciting adventure and make an impact in the world of technology, now is the perfect time to become part of our team in Monterrey! Apply today and be a part of the future we are building together at Homebase!\n• *Interview Recording Notice\n\nBy participating in interviews with Homebase, you consent to the use of Metaview, a recording and transcription tool, during the interview process. Please be aware that all interviews may be recorded and transcribed for the purpose of evaluating candidates and ensuring the quality of our recruitment process. If you do not consent to being recorded, please inform the Talent Team at the beginning of the call, and appropriate arrangements will be made to accommodate your preference. Your privacy is important to us, and the recorded interviews will only be used for internal evaluation and assessment of candidates.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/mobile-engineer-android-hybrid-at-homebase-1009?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-ios-hybrid-at-homebase-4055118641?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Kit Empleo",
+                    "link": "https://www.kitempleo.com.mx/empleo/129582222/cp079-lead-software-engineer-ios-toluca-lerdo/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs For Developers",
+                    "link": "https://jobsfordevelopers.com/jobs/mobile-engineer-android-hybrid-at-joinhomebase-com-jul-23-2024-302300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRW5naW5lZXIgLSBBbmRyb2lkIChIeWJyaWQpIiwiY29tcGFueV9uYW1lIjoiSG9tZWJhc2UiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28iLCJodGlkb2NpZCI6IkY3d0l4YjR3X3FYTWNPOXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRFJ6U1RCcU1taGpNSFJRWjNsc01sUTFZUzB4UVRKcVVFd3daVzAyVWpBdFRHOUhNRzVUTUd0aVdtVTFXVFZYUjBjMFJXZEtXWGt5Y0hCWGIwWnpjVTVzV1daek1IZFJMVFJqZERFMGNWaEpNelUwVW10S1JUaGFiMFJ1WjBOUlgwVmZWV1J0TjBSU2JFTlFiM1Z4YlRGRFQwYzNkM0puWmt4UmJYSTRVMDV1VkdGa1lXOVhZbTFyTTBjeFZUSjFZa2RCTlU1MlZraFdhbEJrT0V3d1QwUldOemRzZEVneE5WcHdVMFZrU2pCcmRVRXRSRlZUVG5sd2VUWmtObVJaV205YU5WaHVjRVp5UzBvM1RIVlVNMWxvVEhwS2FGRnlWbWRuVDJOMVFqUkxkbGN3TUdsd09FOWtPV3AyT1dkRVZsUkhWVXN0YVhkV05FaEhZa3BKTVhWRFYxUkVYMlkwUTJONGFIaHFhSGRqVEVFd05raEJXbkpUZDNjU0Z6RkJTMFphTmxCRFJGbExjRFZPYjFBMlNtbEphMUZqR2lKQlJsaHlSV054YVMxSU5FZFRiR2hJYVZwR1dtaENZbEZSWldVM2MxQlFTa2xSIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRFJ6U1RCcU1taGpNSFJRWjNsc01sUTFZUzB4UVRKcVVFd3daVzAyVWpBdFRHOUhNRzVUTUd0aVdtVTFXVFZYUjBjMFJXZEtXWGt5Y0hCWGIwWnpjVTVzV1daek1IZFJMVFJqZERFMGNWaEpNelUwVW10S1JUaGFiMFJ1WjBOUlgwVmZWV1J0TjBSU2JFTlFiM1Z4YlRGRFQwYzNkM0puWmt4UmJYSTRVMDV1VkdGa1lXOVhZbTFyTTBjeFZUSjFZa2RCTlU1MlZraFdhbEJrT0V3d1QwUldOemRzZEVneE5WcHdVMFZrU2pCcmRVRXRSRlZUVG5sd2VUWmtObVJaV205YU5WaHVjRVp5UzBvM1RIVlVNMWxvVEhwS2FGRnlWbWRuVDJOMVFqUkxkbGN3TUdsd09FOWtPV3AyT1dkRVZsUkhWVXN0YVhkV05FaEhZa3BKTVhWRFYxUkVYMlkwUTJONGFIaHFhSGRqVEVFd05raEJXbkpUZDNjU0Z6RkJTMFphTmxCRFJGbExjRFZPYjFBMlNtbEphMUZqR2lKQlJsaHlSV054YVMxSU5FZFRiR2hJYVZwR1dtaENZbEZSWldVM2MxQlFTa2xSIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "search_metadata": {
+        "id": "678508ab2397f16dcc0ee197",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/538d78bb3c5864f2/678508ab2397f16dcc0ee197.json",
+        "created_at": "2025-01-13 12:35:55 UTC",
+        "processed_at": "2025-01-13 12:35:55 UTC",
+        "google_jobs_url": "https://www.google.pl/async/callback:550?q=iOS+developer&uule=w+CAIQICIGUG9sYW5k&udm=8&fc=EswCCowCQUpHOUprTkRvemRSdl9FNllFdDFKQlZTcW4xb1hES3hMN0dhSDBiNGFEcVR1UDdFMGVXMXNzbUlkMlZjeWFSdVYwYTM3SmY3Z0g2NnpFNXFuOVFOQ0c4VjJkQkFVQXdZY0pxanhDekVsRVRrUjhDYlJaVi1tbWk3bnVQLWxMV3pIVlZWNTZMMGdmSkczVXpEMFk5a1I0VTFscnZ5S0pmdmJRLVFrU3YwdmxqX3FNR3llSzNlam8zZXFrX21FdktQZmFEMUxqUk9Vdjd6d2YxUXgzeTBHVzZVS0FfQk1TeWhPYURyUzlxV0hZSVF0RTVnbVhmZlF5dUdiRjNiY0ZxaEp3U2Jva1BrY1VCZRIXcWdpRlpfM3pISmVtNU5vUDZJckhpUVUaIkFGWHJFY3JlalpDYUdMcG92ZnkxcnYxZTR5VUJuQUpEY2c&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/538d78bb3c5864f2/678508ab2397f16dcc0ee197.html",
+        "prettify_html_file": "https://serpapi.com/searches/538d78bb3c5864f2/678508ab2397f16dcc0ee197.prettify",
+        "total_time_taken": 0.58
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Poland",
+        "location_used": "Poland",
+        "google_domain": "google.pl",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa1J2ZW1SU2RsOUZObGxGZERGS1FsWlRjVzR4YjFoRVMzaE1OMGRoU0RCaU5HRkVjVlIxVURkRk1HVlhNWE56YlVsa01sWmplV0ZTZFZZd1lUTTNTbVkzWjBnMk5ucEZOWEZ1T1ZGT1EwYzRWakprUWtGVlFYZFpZMHB4YW5oRGVrVnNSVlJyVWpoRFlsSmFWaTF0YldrM2JuVlFMV3hNVjNwSVZsWldOVFpNTUdkbVNrY3pWWHBFTUZrNWExSTBWVEZzY25aNVMwcG1kbUpSTFZGclUzWXdkbXhxWDNGTlIzbGxTek5sYW04elpYRnJYMjFGZGt0UVptRkVNVXhxVWs5VmRqZDZkMll4VVhnemVUQkhWelpWUzBGZlFrMVRlV2hQWVVSeVV6bHhWMGhaU1ZGMFJUVm5iVmhtWmxGNWRVZGlSak5pWTBaeGFFcDNVMkp2YTFCclkxVkNaUklYY1dkcFJscGZNM3BJU21WdE5VNXZVRFpKY2tocFVWVWFJa0ZHV0hKRlkzSmxhbHBEWVVkTWNHOTJabmt4Y25ZeFpUUjVWVUp1UVVwRVkyYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Remote iOS Developer",
+            "company_name": "Montrose Software( Polska) Sp.z.o.o",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=LqBtAOurafxVAd3BAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWKPQrCQBQGsc0RrF7p764IWmgrCIIo5gBhE59JdLPfsm_RkNqTeBfvpWmmmJnkM0imF24QmepTSjt-soXnQHM6ICdhE4qK4GgPlJaH2ypGLxutRawqJZpYF6pAo-E4R6vvyKVHJpUJ7K2JnC1Xi1Z5V07WR7gYIEwpbvH1H0Z0hpWHGVPqVaegQLX7u86Z73vWR-OuP-ckz7ylAAAA&shmds=v1_AUFQtOOMP45EroAYZyk1eb62uENl5V2NlLDRqAkCmE8o4WkeXA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=LqBtAOurafxVAd3BAAAAAA%3D%3D",
+            "extensions": [
+                "24 days ago",
+                "PLN 13,370–PLN 21,400 a month",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "PLN 13,370–PLN 21,400 a month",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Project description: The aim of the project is to create a modernized library website from scratch and meet the needs of both library staff and patrons. This brand-new platform will revolutionize the way users find and access relevant content, resources, and services, supporting their education, research, and teaching endeavors. The key focus of the project is to implement advanced search functionalities, including semantic search, to enhance the discoverability and accessibility of library materials.\n\nResponsibilities:\n\nMostly developing new features and fixing bugs in an existing iOS application.\n\nQualifications:\n• very good in spoken and written English,\n• good knowledge of Swift 5\n• good knowledge of UIKit framework\n• Experience in iOS application development\n• good knowledge of git\n\nNice to have:\n• Experience with Android development and Kotlin programming language\n\nWe offer:\n• Premier equipment to work\n• Flexible working hours\n• Remote work possibility\n• Interesting, challenging and exciting work with international teams\n• English lessons with native speaker\n• Training Budget\n• Multisport card\n\nFood :\n• Lunches from Kraków's restaurants that are delivered both to the office and homes( or a refund of the budget allocated for it)\n• Kitchen full of food, drinks, fruit, and snacks\n\nHealth\n• Private medical insurance\n• Air-conditioning\n\nWell-being:\n• No dress code\n• The chillout area incudes comfortable bean bags, therapy balls, PlayStation 4 or Nintendo Switch + games stretching area and pull-up bar\n• Team events\n• Shower\n\nAdditional :\n• Indoor parking place for bicycles",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/1540723695908945816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://www.czyjesteldorado.pl/praca/80106-remote-ios-developer-montrose-software-polska-sp-z-o-o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1vbnRyb3NlIFNvZnR3YXJlKCBQb2xza2EpIFNwLnouby5vIiwiYWRkcmVzc19jaXR5IjoiUG96bmHFhCwgUG9sYW5kIiwiaHRpZG9jaWQiOiJMcUJ0QU91cmFmeFZBZDNCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Netguru",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=itV-o8KWuI4XvpqlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L2bq9PNiokILroKgoMW-gEliUcSSe9C7ipd-u_iG163dvsBKXOD_Brghl8sXLHBAR7sQdC1kIAJ7syx4PaaVKtcrBUpJoo6zcEEniwTel7sh738GyW5hrU4xfF0Pi6mUtxtnqhxbjNkgp6Lo_cPHEgg0X8AAAA&shmds=v1_AUFQtOM6gib0Bhfhsg8_leC75G-RpfYiJpejvfMEziLYQOAPVg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=itV-o8KWuI4XvpqlAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Netguru, we're all about helping innovators and entrepreneurs shape the world through beautiful software. That is our mission.\n\nWith employees from 15+ different countries, we've worked with over 800 clients from more than 50 countries. To name some of them: OLX Motors Europe, UBS, Careem.\n\nBut we're not just another tech company. As a Certified B Corporation®, we're dedicated to creating an inclusive environment for all, and we take our commitment to sustainability seriously.\n\nRequirements\n\nInterested in joining us? Great! Before you apply, here are a few things to keep in mind.\n\nTeam description\n\nOur iOS Team is a great one, and we’re thrilled that we’re growing! We’re a part of Netguru’s Mobile Team, consisting of 30+ experienced developers. We create intuitive and efficient mobile app solutions for iOS platforms, boosting the productivity of our business clients.\n\nYou'll be responsible for:\n• Developing highest-quality applications for iOS.\n• Advising clients in the decision-making process.\n• Mentoring and helping other developers deal with different situations in their projects and technology stack.\n• Taking the lead in projects and helping Project Managers (with technical difficulties).\n• Improving internal iOS development processes.\n• Sharing knowledge with the community and/or contributing to an open-source project.\n\nFirst check if you:\n• Have at least 3 years of experience in developing commercial iOS applications.\n• Have an excellent command of English and Polish (min. B2+/advanced).\n• Are comfortable with process automation using CI / CD tools.\n• Have experience and feel comfortable with a complete process of Code Signing.\n• Demonstrate knowledge of multiple iOS architectural patterns and the expertise to choose the appropriate one that aligns with specific project needs, along with an understanding of their pros and cons.\n• Have extensive hands-on knowledge of:\n• * Swift,\n• SwiftUI,\n• Combine,\n• UIKit (writing UI in code),\n• multithreading,\n• unit testing,\n• ability to analyze the advantages and disadvantages of the technical solutions,\n• publishing the apps in App Store Connect.\n\nBenefits\n\nJoining Netguru means:\n• Working on a high volume of diverse and exciting projects in a fast-paced sales cycle.\n• Working with an experienced team.\n• Processes based on Scrum and Agile methodologies.\n• Clients from all over the world.\n• Work in a change-rich environment that powers digital acceleration for customers from Europe, the United States, Asia, and the Middle East.\n• Working with globally recognized clients who change the world through software and revolutionize digital banking (such as UBS or Solaris).\n• Dev-friendly processes such as CI/CD, code review, and bug bashes.\n• Continuous development of your hard and soft skills (internal webinars and conferences).\n• Enjoying flextime and flexplace; you can adjust your daily schedule to your individual needs.\n• Working on the best equipment: we will provide you with a MacBook and additional accessories for yourcomputer to make your work even more efficient and comfortable.\n\nPerks & benefits:\n\nPerks & benefits:\n• Access to the WorkSmile platform, offering benefits adapted to your preferences.\n• Support for your growth – a head/manager’s budget available to every employee.\n• Discounts on Apple products.\n• One-time PLN 1000 home-office bonus for B2B contractors, and PLN 175 monthly lump sum (ryczałt) for remote employees.\n• Various internal initiatives: webinars, knowledge sharing sessions, internal conferences.\n\nHere's what you can expect from the recruitment process:\n• First, you'll be asked to complete a short technical assessment.\n• Then, you'll meet with our Talent Acquisition Team: we'll be happy to get to know you and tell you more about us!\n• The next step is a technical interview with one of our developers. If everything goes well, you will meet one of the leaders at the final online interview.\n\nDon't hesitate and apply right away!\n\nAt Netguru, we're committed to creating an inclusive environment for everyone. If you require any disability-related adaptations during the recruitment process, please let us know. We're here to help!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=bfc949661ac5d188&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-ios-developer/3537112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/798744662049842342?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/67233eb4eb873896ad71e4ca-senior-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-ios-developer-capco-5934591?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pl.linkedin.com/jobs/view/senior-ios-developer-at-silky-coders-4104127052?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Praca Trabajo.org",
+                    "link": "https://pl.trabajo.org/zawod-3167-be912c83b604dd49712e5d42dfca132c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://czyjesteldorado.pl/praca/81626-senior-ios-developer-itfs-sp-z-o-o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik5ldGd1cnUiLCJhZGRyZXNzX2NpdHkiOiJQb2xhbmQiLCJodGlkb2NpZCI6Iml0Vi1vOEtXdUk0WHZwcWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "iOS Mobile Developer with Android",
+            "company_name": "Altimetrik Poland",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=Swj6ygNIT6KKAuK-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3IQQrCMBAAQLz2CZ724Em0EUEQPRUEQREFH1CSdknWptmQLLaf8RU-wY-J4GUOU7wmxZaud7iwIY9wwCd6jphgIHFQhTYxtbCEExvIqFPjgAMcma3H6d6JxLxTKmdf2ixaqCkb7hUHNDyqB5v8o85OJ4xeC9brzWosY7DzWeWFepREHdzY69ACBTgn3X3ew-JfXy3sYamgAAAA&shmds=v1_AUFQtOPOcCgxFFyxwu04Q0onapvRXklxy2Y_k0eVZKye7CF6fQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Swj6ygNIT6KKAuK-AAAAAA%3D%3D",
+            "extensions": [
+                "PLN 18K–PLN 25K a month",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "PLN 18K–PLN 25K a month",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "If you possess...\n• Strong proficiency in Swift and Objective-C, as well as experience with iOS frameworks.\n• Knowledge of Android development fundamentals and familiarity with Kotlin/Java is a strong plus.\n• Experience working with RESTful APIs and third-party libraries.\n• Solid understanding of mobile application architecture, cross-platform development principles, and mobile performance optimization.\n• Excellent communication skills, with the ability to clearly convey technical details and collaborate effectively with developers of varying experience levels.\n• Familiarity with mobile app deployment pipelines and CI/CD practices for iOS.\n• Experience in Kotlin Multiplatform (KMP) or similar cross-platform frameworks.\n• Knowledge of mobile testing frameworks and experience with both manual and automated testing practices.\n• Experience with mobile security practices and secure storage (Keychain/Keystore).\n\nAltimetrik Poland is a digital enablement company. We deliver bite-size outcomes to enterprises and startups from all industries in an agile way to help them scale and accelerate their businesses. We are unique in Poland's IT market. Our differentiators are an innovation-first approach, a strong focus on core development, and an ability to attack the challenging and complex problems of the biggest companies in the world.\n\nWe seek an experienced Senior iOS Developer with in-depth knowledge of iOS app development and some understanding of Android. Previous work experience with scalable mobile applications and can navigate both iOS and Android environments.\n\nWe work 100% remotely or from our hub in Kraków.\n\nWe grow fast.\n\nWe learn a lot.\n\nWe prefer to do things instead of just talking about them.\n\nIf you would like to work in an environment that values trust and empowerment... don't hesitate, just apply!\n,[Design, develop, and maintain advanced iOS background applications., Collaborate with cross-functional teams, including Android developers, to design and launch new features., Review, test, and debug iOS applications, ensuring top performance and responsiveness., Provide architectural guidance and help establish best practices for both iOS and Android mobile development., Optimize code for performance, quality, and reusability across iOS and, where relevant, Android platforms., Assist with cross-platform integration, including shared data, APIs, and libraries, to support consistent functionality across both iOS and Android.] Requirements: iOS, Android, Swift, REST API, CI/CD, Kotlin, Java, Objective-C Tools: . Additionally: Private healthcare, Small teams, International projects, Modern office, Startup atmosphere, No dress code.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/4892782590288381492?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/poland/job/full-time/others/android-developer-remote-1735129928994577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://czyjesteldorado.pl/praca/80497-mobile-developer-blazity?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/pl-android-mobile-developer-paysera-hiring-now-job-immediately-opening?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgTW9iaWxlIERldmVsb3BlciB3aXRoIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJBbHRpbWV0cmlrIFBvbGFuZCIsImFkZHJlc3NfY2l0eSI6IktyYWvDs3csIFBvbGFuZCIsImh0aWRvY2lkIjoiU3dqNnlnTklUNktLQXVLLUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        },
+        {
+            "title": "SENIOR iOS DEVELOPER – remote working Eastern Europe in Warsaw",
+            "company_name": "www.cardandpaymentjobs.com",
+            "location": "Poland",
+            "via": "Card And Payment Jobs",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=_t7mIrrhQ03C15CbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CQBBFY8sRrKawMhGMiY22bozGCIFESjPABFDY2eysWey8g9fxNJ5EaX7z3ssPPpMgz9T5EKfQxhns1EWd4kSl8H29wVLPjsCzvbe6BoXiyGpQD8uGoNWQoxX0sIAjFyCEtmyANeyZ646m28Y5I5soEunCWhy6tgxL7iPWVPAQ3biQca7SoCXToaPrar0cQqPr-cx7H5ZoK9SVwWdP2o3-2I_PCXd_8APdcFNcvwAAAA&shmds=v1_AUFQtOOLxQJkoBfznswVh3uJQSF2w27zw5k-FQxvlvTT7gji7w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=_t7mIrrhQ03C15CbAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "SENIOR iOS DEVELOPER – remote working anywhere in Eastern Europe\n\nSalary to 97,000 euros dependent on experience\n\nOVERVIEW\n\nMy client is a global fintech payments start-up with a fully distributed team, working remotely from more than 40 countries around the world.\n\nDue to expansion, they are hiring a collaborative, proactive problem-solver to join them as Senior iOS Developer. This is a fully remote full-time position.\n\nWhat you’ll be doing:\n\nAs Senior iOS Developer, you will be responsible for building components of the mobile app that will enable users all over the world to send, spend, save, and receive money safely and globally helping people protect their life savings.\n\nIf you are a passionate, enthusiastic engineer interested in revolutionizing banking, we’d love to hear from you\n\nWhat you’ll bring:\n\nThe complexity of the apps you have built is more important than the kind of industry you come from.\n\nPREFERRED SKILLS\n\n● Outstanding engineering talent proved by great work results and experience.\n\n● 7+ years’ experience in software development.\n\n● 5+ years’ experience in iOS development Swift.\n\n● Self-motivated, with initiative and enthusiasm, willing to work with a remote team.\n\n● A native/fluent English speaker is a must.",
+            "apply_options": [
+                {
+                    "title": "Card And Payment Jobs",
+                    "link": "https://www.cardandpaymentjobs.com/details/senior-ios-developer-remote-working-eastern-europe/92846?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTRU5JT1IgaU9TIERFVkVMT1BFUiDigJMgcmVtb3RlIHdvcmtpbmcgRWFzdGVybiBFdXJvcGUgaW4gV2Fyc2F3IiwiY29tcGFueV9uYW1lIjoid3d3LmNhcmRhbmRwYXltZW50am9icy5jb20iLCJhZGRyZXNzX2NpdHkiOiJQb2xhbmQiLCJodGlkb2NpZCI6Il90N21JcnJoUTAzQzE1Q2JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "IOS Developer",
+            "company_name": "Ogłoszenie partnerskie",
+            "location": "Gorzów Wielkopolski, Poland",
+            "via": "GoWork.pl",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=2pwAW2yNmNOc7ODXAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLawEr0TQQRtBdEmgoVluMTlcma9PW4PDSl9h7_wCeK_TJphYGCy9yibHPIz7PCBxAEjzOHIJQiaWNXAHvbMlnC8rVMKstFahJSVZJKrVMV3zR5LbvWNSxlQSG0iBjIJi-Vq0arg7XSd29-LpUPvEIKJyWOUpnc3_GP3_Tzh4pAaDkx9mMGJyfjrH6U2GJKfAAAA&shmds=v1_AUFQtOPx60NYnkIBCu9GNXQIdFmA-Ak-saiDc-2c-axjusYeLw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=2pwAW2yNmNOc7ODXAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Poszukujemy rzetelnych i pracowitych osób na stanowisko IOS Developer, które chcą dołączyć do zespołu, gdzie liczy się zaangażowanie, współpraca i solidne wykonanie powierzonych zadań. Jeśli szukasz stabilnej pracy, cenisz sobie dobre warunki zatrudnienia i możliwość zdobycia doświadczenia w dynamicznym środowisku, ta oferta jest dla Ciebie!. Czym będziesz się zajmować:\n• Tworzeniem natywnej aplikacji.\n• Oprogramowaniem UI (Pixel Perfect) na bazie szczegółowych grafik i makiet UI.\n• Pisaniem testów do kodu aplikacji.\n• Pisaniem dokumentacji.\n\n. Czego oczekujemy:\n• Dobrą znajomość Swifta.\n• Znajomość iOS.\n• Znajomość zagadnień związanych z bezpieczeństwem mobilnym.\n• Orientacji w RxSwift.\n• Umiejętności komunikacji z API REST i SOAP.\n• Znajomość GIT.\n• Inicjatywa i pomysłowość.",
+            "apply_options": [
+                {
+                    "title": "GoWork.pl",
+                    "link": "https://www.gowork.pl/oferta/ios-developer,5vb4I8uGojd0tvsD1VVcCo,gorzow-wielkopolski?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiT2fFgm9zemVuaWUgcGFydG5lcnNraWUiLCJhZGRyZXNzX2NpdHkiOiJHb3J6w7N3IFdpZWxrb3BvbHNraSwgUG9sYW5kIiwiaHRpZG9jaWQiOiIycHdBVzJ5Tm1OT2M3T0RYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "ALAN Systems",
+            "location": "Rybnik, Poland",
+            "via": "Indeed",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=lOx67XF4mXl1qxdsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CQ5yg5NoIoKLnQqCIKJiP6Ak9Uii6V3IBWlnf1x8w6u-s2oZbi0c8YORE2bYwJktCJrce2CCE7OLOK99KUkOWotE5aSYEnrV86CZ0PKoX2zlXyfeZEzRFOx2--2oErnVork0V2gnKTgIBILHZCm813DnaOj5A3CmkXeGAAAA&shmds=v1_AUFQtOPdf0bZcDDJf-QMPpcYsSUJG8reZiMygo61wPaRRgTzvg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lOx67XF4mXl1qxdsAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Rybnik\n\n/\nKatowice\n\n|\n\nUoP / B2B\n\nCześć odkrywco kodu!\n\nCzy jesteś gotowy, aby dołączyć do naszej drużyny programistycznej? Szukamy osoby, która pomoże przenieść nasze projekty na jeszcze wyższy poziom ? Jeśli Twoje palce tańczą na klawiaturze jak mistrz, a programowanie to Twoja druga natura, to czekamy właśnie na Ciebie! Nie pozwól, aby ta szansa przeszła obok Ciebie! Dołącz do naszego wyjątkowego zespołu i razem stworzymy magiczne rozwiązania! ??\n\nWprowadziliśmy wymagania po angielsku, aby dać naszym kandydatom szansę pokazania swojej znajomości języka, co jest istotne w naszym globalnym środowisku pracy.\n\nTwoja praca będzie polegała na:\n• Implement and develop scalable, reliable and resilient mobile applications for iOS\n• Take part in designing mobile applications user interface\n• Design[ing] software architecture\n• Participate as a member in Scrum self-organizing team\n• Collaborate with other team members including Database Developers, Test Engineers, Analysts and Customer’s Product Owners\n• Troubleshoot and customer support\n• Develop[ment] of unit tests and automated tests\n\nSzukamy Ciebie, jeśli masz:\n• Solid technical education\n• Knowledge of Swift and Xcode platform\n• Basic knowledge of relational databases (SQL)\n• Knowledge of AutoLayout, CoreData, RESTful API, Git and JSON\n• Experience with systems integrations with the REST API use\n• Professional approach to work, strong sense of responsibility to the customer, strong motivation\n• Knowledge of English sufficiently to efficiently work with foreign customer\n• Knowledge about Git, CocoaPods\n\nDodatkowym plusem będzie:\n• Min. 1 years’ experience in the area of software developing for iOS\n• Above basic knowledge of relational databases (SQL)\n• Experience in Objective-C.\n• Knowledge about AFNetowrking / Alamofire\n• Experience with issue tracking and project development tools (Jira)\n• Ability to design software architecture\n• Knowledge of the agile software development methodology (SCRUM, Kanban)\n• Ability to develop unit tests\n• Experience with SwiftUI, WKWebView, basic JavaScript\n\nOferujemy:\n• Stabilną pracę w firmie z ponad 25-letnim doświadczeniem\n• Różnorodne i międzynarodowe projekty\n• Hybrydowy model pracy\n• Luźną i niekorporacyjną atmosferę\n• Przyjacielski onboarding i stałe wsparcie we wdrożeniu\n• Elastyczne godziny pracy\n• Jasne ścieżki kariery\n• Duże darmowy parking z ładowarką aut elektrycznych\n• Zadaszony parking rowerowy\n\nNasze benefity:\n• Prywatna opieka medyczna\n• Multisport\n• Ubezpieczenie na życie\n• Możliwość udziału w szkoleniach i konferencjach\n• Zajęcia z języka angielskiego i niemieckiego\n• Niezliczona ilość kawy i dofinansowanie do lunchu\n• Budżet integracyjny dla zespołów\n• Imprezy firmowe\n• Dart i piłkarzyki na terenie firmy",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=d44ee02c1f6caaeb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQUxBTiBTeXN0ZW1zIiwiYWRkcmVzc19jaXR5IjoiUnlibmlrLCBQb2xhbmQiLCJodGlkb2NpZCI6ImxPeDY3WEY0bVhsMXF4ZHNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "XTB",
+            "location": "Szczecin, Poland",
+            "via": "Jobrapido.com",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=--uRbBc2y75qYUiFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P1-QHDK4CTaiuCimwiCi8I5uB1tDG2lJqUpchx-vPiG1327Rbr2cKIPZSlUYQ0X8aDkKkYQhrNIyDQ_xNaK7q1VzSZocy2hQXlbYfIy2pd4_TdodJVKdo2G7W4zmsJhOXvcj5AY-gknwsQruEl2_PwBDr69ln4AAAA&shmds=v1_AUFQtOMGl6uxhWq8It1GSYlSwPqZWWrH8KeGj0KuZPgBAO7UBA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=--uRbBc2y75qYUiFAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Zakres obowiązków : tworzenie, rozwijanie i optymalizacja aplikacji mobilnych na platformę iOS, wykorzystujących technologie Swift, SwiftUI, Combine oraz MVVM-C, projektowanie i implementowanie nowych funkcjonalności oraz rozwiązań zgodnych z wymaganiami biznesowymi, pisanie testów jednostkowych w celu zapewnienia wysokiej jakości aplikacji i jej stabilności, dbałość o jakość kodu zgodnie z zasadami Clean Code, praca w metodologii Agile (Scrum) w zespole developerskim, z bliską współpracą z zespołami produktowymi i UX/UI, udział w przeglądach kodu oraz mentoring młodszych programistów, dzielenie się wiedzą i doświadczeniem, rozwiązywanie problemów związanych z wydajnością aplikacji oraz wdrażanie rozwiązań, które poprawiają user experience, współpraca z zespołem w zakresie rozwoju nowych funkcji, integracji z backendem i optymalizacji istniejącego kodu. Wymagania: dobra znajomość Swift, SwiftUI, Combine, MVVM-C, git, komercyjne doświadczenie w programowaniu na platformie iOS, doświadczenie w pisaniu testów jednostkowych, dobra znajomość Clean Code, doświadczenie w pracy w metodologii Agile (Scrum), samodzielność, znajomość języka angielskiego na poziomie umożliwiającym czytanie dokumentacji technicznej. Mile widziane: Modular Application Architecture, GRPC Oferujemy: Realny wpływ na rozwój firmy i produktu Pracę w doświadczonym zespole, który chętnie dzieli się wiedzą Jasną wizję rozwoju dzięki regularnym feedbackom i klarownym ścieżkom karier Budżet szkoleniowy na interesujące Cię kursy i konferencje Dodatkowy dzień wolny z okazji Twoich urodzin Dodatkowy dzień wolny dla rodziców Sprzęt dopasowany do Twoich potrzeb Prywatną opiekę medyczną i ubezpieczenie grupowe Dostęp do platformy e-learningowa do nauki języka angielskiego oraz platformy benefitowej Dostęp do platformy wellbeingowej i możliwość skorzystania z warsztatów oraz prywatnych sesji terapeutycznych Pracę zdalną, z biura w Warszawie lub z coworku w Twoim mieście Regularne spotkania integracyjne Nasz proces rekrutacyjny składa się z 2 rozmów: Rozmowa dotycząca Twoich kompetencji miękkich oraz screening techniczny Rozmowa z menedżerem lub liderem, dotycząca dopasowania do zespołu Informacje dotyczące przetwarzania danych osobowych kandydatów do pracy w XTB S.A. Administratorem danych jest XTB S.A. z siedzibą ul. Prosta 67, 00-838 Warszawa. Dane zbierane są dla potrzeb obecnej jak i przyszłych rekrutacji. Podanie danych w zakresie określonym postanowieniami ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94 z późn. zm.) oraz aktów wykonawczych jest obowiązkowe. Podanie dodatkowych danych osobowych jest dobrowolne i następuje na podstawie zgody. XTB S.A. stosuje zasadę równych szans i weryfikuje wszystkie aplikacje złożone przez osoby posiadające stosowne do oferty kwalifikacje, bez względu na rasę, płeć, stopień niepełnosprawności, wyznanie/ przekonania, orientację seksualną lub wiek.",
+            "apply_options": [
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://pl.jobrapido.com/jobpreview/5391464123022180352?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiWFRCIiwiYWRkcmVzc19jaXR5IjoiU3pjemVjaW4sIFBvbGFuZCIsImh0aWRvY2lkIjoiLS11UmJCYzJ5NzVxWVVpRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        },
+        {
+            "title": "iOS Product Engineer - Scanner Pro team",
+            "company_name": "Readdle",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=8PtiO_-NPus8coh0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWJMQrCQBAAsU1na7W1YE4EGwU7EWwM5gFhc7dcLlx2w-0KeYZPNjbDMFN9N9UtvVpoioSPN7hzTExU4ACtR-bV1gVGOK3pKT0oYfEDCMNDJGbaXQezWS_OqeY6qqElX3uZnDD1srhRev2j0wELzRmNutP5uNQzx_32TRhCJkgMjWTk8AM75d70kwAAAA&shmds=v1_AUFQtOPsZADvGW8dtQEldITxV1r7dZz_bo6h4Tw6huGsbWAc7g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8PtiO_-NPus8coh0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab2397f16dcc0ee197/images/d90d1126c835e0e8c4d4054f848e42179b61cfdf03175191b3a3c6ebb88025d2.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Poland\n\nReaddle is a pioneering force in the personal productivity space on Apple devices, having shaped the landscape since 2007. Our mission is to empower individuals and teams with innovative technology, enhancing their efficiency and creativity. We are dedicated to crafting exceptional mobile and desktop experiences for those who aspire to achieve more.\n\nScanner Pro by Readdle is a revolutionary application that redefined the AppStore scanning category. It uses a built-in iOS camera to take pictures of a paper document. The unique technology automatically detects the edges, fixes geometry, and removes shadows and other visual defects to make a perfect scan. Also, it harnessed an advanced optical character recognition (OCR) technology that allows you to extract text from scans.\n\nThis opportunity is a chance to join a team of great talent and directly impact the product.\n\nWhat you'll do:\n• Write high-quality, maintainable, and efficient code using Swift and other relevant technologies. Ensure code is well-documented, follows design patterns, and meets industry standards\n• Collaborate with UX/UI designers to transform design mockups and wireframes into fully functional and visually appealing iOS application\n• Actively contribute to architectural discussions to elevate the overall skill level of the team\n• Provide code quality through code reviews & automated tests\n• Investigate and address bugs, crashes, and other issues reported by users or identified through testing. Work diligently to maintain the stability and reliability of released applications\n• Participate in regular retrospectives and contribute to process improvements. Advocate for best practices in software development, including coding standards, testing methodologies, and deployment strategies\n• Analyze the code and always look one step ahead - how the code affects other elements of the architecture and how it will be used in the future\n\nAbout you:\n• Great experience developing applications using Swift and Objective-C\n• Deep understanding of iOS design principles, interface guidelines, and best practices\n• Strong understanding of SOLID, OOP patterns, concurrency patterns\n• Experience with Unit Testing\n• Experience with Memory management and optimizations\n• Comfortable working with UIKit, Core Graphics, Foundation, GCD\n• Experience with version control systems (Git)\n• You’re a person who sees a big picture and product goals above the code\n• You are an independent personality and a team player at the same time\n• You’re passionate to create a product that solves consumer needs the best and the most successful way\n\nWould be a plus:\n• Experience working with Core Graphics and Core Image\n• Understanding of the impact of image processing on app performance and memory usage\n\nWhat you will get at Readdle:\n• Customer-centric culture. We put our customers first. It means that every employee can benefit from interacting with our customers directly. It enables us to create and deliver the best solutions for millions of our users.\n• Professional growth. We are professionals at everything we do. It means we own our decisions, our work, and our results. We provide quality feedback to others and welcome feedback as an opportunity to learn and improve.\n• A team of amazing people. The greatest power we have is the team. It means we care about each other, ensure transparency, and invest in everyone's success.\n• Impact on our products. We aim to create valuable products. It means that we improve ourselves constantly by overcoming constraints, simplifying our processes, and improving our capacity.\n• Innovative culture. We try to be innovative and creative in everything we do. It means that we expect, appreciate and value new ideas.\n\nThis offer from \"Readdle\" has been enriched by Jobgether.com and got a NaN% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/67101e1a4e9347f00a0156ee-ios-product-engineer---scanner-pro-team?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pl.linkedin.com/jobs/view/ios-product-engineer-scanner-pro-team-at-readdle-4052058545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgUHJvZHVjdCBFbmdpbmVlciAtIFNjYW5uZXIgUHJvIHRlYW0iLCJjb21wYW55X25hbWUiOiJSZWFkZGxlIiwiYWRkcmVzc19jaXR5IjoiUG9sYW5kIiwiaHRpZG9jaWQiOiI4UHRpT18tTlB1czhjb2gwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Remote Senior IOS Developer",
+            "company_name": "PKO BP Finat",
+            "location": "Warsaw, Poland",
+            "via": "BeBee",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=fn7CX0EJQxMR3R_dAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CQ6SWbQnBRfdRBR1aLGDY0lraE-uyXEJ2t_wj8U3vOw7y4o7jWIENbGXBJeyhiO9KUikBGu4SgtKmLoBhOEs0gea7wezqDvnVEPeq6H5Lu9kdMLUyuRe0uq_RgdMFAMaNcV2M-WR--WiupVwqODkGQ08wwOT4mcFlQTk5w__dOBOlAAAAA&shmds=v1_AUFQtOOce2ruMGd4PPyIgu_WZD1uufmp1IVjMM8Kj9sNd1n6hQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=fn7CX0EJQxMR3R_dAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab2397f16dcc0ee197/images/d90d1126c835e0e8c00dc26dddca97295aec0abcaf9922650c061c874d6d6b0c.gif",
+            "extensions": [
+                "1 day ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Stanowisko: Programista Senior IOS\n\nMiejsce pracy: Hybrydowo/Warszawa\n\nRodzaj zatrudnienia: B2B\n\nOpis oferty:\n\nDla naszego klienta z branży finansowej poszukujemy doświadczonego Programisty Seniora IOS, który potrafi wprowadzać innowacje w projekty mobilne.\n\nZakres obowiązków:\n\nNasz idealny kandydat pracuje w zespole i zajmuje się następującymi czynnościami:\n• uczestniczy w tworzeniu innowacyjnych projektów dla największej aplikacji mobilnej bankowości w kraju,\n• wykonywa integrację z systemami backend,\n• przygotowuje testy jednostkowe,\n• dbający o jakość kodu i zgodność z dobrymi praktykami programowania,\n• przygotowuje lub aktualizuje dokumentację techniczną.\n\nPoszukiwane kompetencje:\n\nOto co powinieneś znaleźć w swoim arsenale umiejętności:\n• minimum 4 lata doświadczenia w zakresie programowania na platformę iOS (Swift i Objective-C),\n• znajomość Xcode, CocoaPods, SwiftLint,\n• znajomość wzorców projektowych,\n• korzystanie z systemu kontroli wersji Git,\n• znajomość zagadnień z technologii dependency injection,\n• rozumienie jak działają aplikacje wielomodułowe na ios, biorący udział w modularyzacji aplikacji\n• testowanie swego kodu,\n• posiadanie umiejętności analitycznego myślenia i rozwiązywania problemów,\n• chęć współpracy z innymi, ale również samodzielnego podejmowania wyzwań oraz zdalnej pracy.\n\nTwoim dodatkowym atutem będzie:\n• znajomość natywnego programowania na platformę iOS z wykorzystaniem C/C++,\n• znajomość Gerrit, Gitlab, procesu GitFlow,\n• znajomość zagadnień związanych z procesem CI/CD oraz narzędzi typu Jenkins, wiedza o działaniu fastlane, codesign,\n• doświadczenie w zarządzaniu aplikacją w sklepie AppStore oraz zarządzaniu kontem na ProvisioningPortal,\n• doświadczenie w stosowaniu SOLID,\n• doświadczenie w korzystaniu z JIRA/Confluence\n\nOferujemy:\n• umowę B2B,\n• pracę zdalną,\n• opcjonalnie pakiet Lux Med.\n\nPoziom wynagrodzenia: 80-120 tys. PLN rocznie (oparty na doświadczeniu).",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://pl.bebee.com/job/106e59f686170d6d809c67b6da4d4aa1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU2VuaW9yIElPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJQS08gQlAgRmluYXQiLCJhZGRyZXNzX2NpdHkiOiJXYXJzYXcsIFBvbGFuZCIsImh0aWRvY2lkIjoiZm43Q1gwRUpReE1SM1JfZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        },
+        {
+            "title": "iOS Engineer",
+            "company_name": "Appunite",
+            "location": "Poznań, Poland",
+            "via": "Jooble",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=WSllONDaIYC-sJ_LAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGMQoCMRAAwP6eoM2CnWgigo1WFiLYKPiAYxOXJEfcDdkIh42NX_NfajNM9-pm6XyFA4fERBWWcBIHSlh9BGE4ioRMk11srejWWtVsgjZsyRsvdytMTkY7iNM_vUasVDI26teb1WgKh_l0X8qDUyNIDBd5Mn7ei18y8u0LJ_fDloEAAAA&shmds=v1_AUFQtOPIBQjwN0WCUPfmDhKiQLQ-zjbEZHPNBowJpUnz8794UQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=WSllONDaIYC-sJ_LAAAAAA%3D%3D",
+            "extensions": [
+                "30 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "30 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Engineer\n\nMiejsce pracy: Poznań\n\nTechnologies we use\n\nExpected\n• iOS\n\nOperating system\n• macOS\n\nAbout the project\n\nWe are looking for an iOS engineer who truly understands the iOS ecosystem and navigates it smoothly, but most importantly, can control the technology rather than being controlled by it. If you're an engineer who values flexibility and sees beyond the technicalities, this might be the perfect role for you.\n\nYour responsibilities\n\nYou’ll have the chance to work on several different projects (more details can be discussed privately), but we're seeking someone for whom the specific client or product doesn’t matter as much as the opportunity to be part of a team that’s deeply involved in solving real business problems. You'll work closely with clients, take ownership of solutions, and ensure that they’re executed efficiently.\n\nOur requirements\n• Fully proficient knowledge of iOS development and ecosystem.\n• A mindset focused on problem-solving and business impact, not just technical challenges. Moreover—frustrated by inefficiency and the idea of delivering things that ultimately don’t provide value—you’re driven to create solutions that truly make an impact.\n• Ability to work autonomously, but also contribute effectively as part of a team.\n• Responsibility and ownership over the solutions you deliver.\n• Someone not afraid to share their opinions—we want you to be actively involved in the decision-making process when it comes to solving the problem.\n\nDevelopment opportunities we offer\n• conferences abroad\n• conferences in Poland\n• development budget\n• external training\n• intracompany training\n• mentoring\n• soft skills training\n• space for experimenting\n• substantive support from technological leaders\n• support of IT events\n• technical knowledge exchange within the company\n• time for development of your ideas\n\nWhat we offer\n• Paid vacation and sick days also for B2B contracts\n• Co-financed conferences attendance\n• Possibility to work from an exotic location\n\nBenefits\n• private medical care\n• sharing the costs of foreign language classes\n• sharing the costs of professional training & courses\n• life insurance\n• remote work opportunities\n• flexible working time\n• integration events\n• mobile phone available for private use\n• computer available for private use\n• corporate library\n• no dress code\n• video games at work\n• parking space for employees\n• leisure zone\n• employee referral program\n• charity initiatives\n\nWhat does the recruitment process look like?\n• Video interview with People Team.\n• A technical interview with a team.\n• If any other step of the recruitment process is necessary, we will inform you.\n• And finally, the decision, after which we can say “welcome on board.\"\n\nAppunite\n\nWe are a group of open-minded, proactive and passionate about the product and software development experts. Our mission is to help entrepreneurs build and grow their revolutionary businesses. Over the years we have established a product-oriented environment where we have a long-term impact on the shape of our client’s products and satisfaction with every step of their development.\n\nI agree to the processing of my personal data provided in the recruitment application to the\nrecruitment process by AppUnite S.A. with its seat in Poznań (61-555) Droga Dębińska 3A/3 Street KRS: 0000964739 for the purposes of future and other currently ongoing recruitment processes for a period of 2 years from the date of application.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/-496043264354403610?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HitPraca.pl",
+                    "link": "https://www.hitpraca.pl/oferta/ios-engineer-5105b201d774e63/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJBcHB1bml0ZSIsImFkZHJlc3NfY2l0eSI6IlBvem5hxYQsIFBvbGFuZCIsImh0aWRvY2lkIjoiV1NsbE9ORGFJWUMtc0pfTEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUM2szTm5vdE1FSnJXblpsVlV4QlN6bFpiakpxYlRGMlNHbEJPRWhIZVU5bFlURTRVRnB3V2pJeWVUTnBaRnBTYm05UlRrb3pUR1pGZFc1dGVXUnpSM05ET0ZScFpsWkRibmxFZFdaRE1YQkNiVzl4YkZZMVJqVXRNa1JoZEZRMVVIa3RNR28xZFd0ak5GQmZkM3BqWVdSWlZVUkJRbkZDZURkdk9HVm1aVkpsZUZsWlZVVkhWVVZQU25CTGNEWlJWekZ2ZDJJNE9EZDNPVlV6VFZKRE0wMU5PR3BaU0U5MlVFRkRNM2xOVnpGdFdHcExRMVYyWVVSM1RHOVBkVGxhVmtaTVJHeHBTVmhuT0c0NFNGaEJlV2wxY1dzd05IVmpVMVZyUkhoS01WODNZelE0Y0V3Mk1UUndhWEpXU25SRFYyUmtVekZCTFhBMVNXUklYemRaVm1GelRGSjFTQklYY1hkcFJsbzJTMFJHWlhGMU5VNXZVSE5QY1hjMlVYY2FJa0ZHV0hKRlkzQTRhMDB4Ym5SMGIwRXlhekJrZUdKMExWTkdXV05JVlRnelpWRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pl&location=Poland&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUM2szTm5vdE1FSnJXblpsVlV4QlN6bFpiakpxYlRGMlNHbEJPRWhIZVU5bFlURTRVRnB3V2pJeWVUTnBaRnBTYm05UlRrb3pUR1pGZFc1dGVXUnpSM05ET0ZScFpsWkRibmxFZFdaRE1YQkNiVzl4YkZZMVJqVXRNa1JoZEZRMVVIa3RNR28xZFd0ak5GQmZkM3BqWVdSWlZVUkJRbkZDZURkdk9HVm1aVkpsZUZsWlZVVkhWVVZQU25CTGNEWlJWekZ2ZDJJNE9EZDNPVlV6VFZKRE0wMU5PR3BaU0U5MlVFRkRNM2xOVnpGdFdHcExRMVYyWVVSM1RHOVBkVGxhVmtaTVJHeHBTVmhuT0c0NFNGaEJlV2wxY1dzd05IVmpVMVZyUkhoS01WODNZelE0Y0V3Mk1UUndhWEpXU25SRFYyUmtVekZCTFhBMVNXUklYemRaVm1GelRGSjFTQklYY1hkcFJsbzJTMFJHWlhGMU5VNXZVSE5QY1hjMlVYY2FJa0ZHV0hKRlkzQTRhMDB4Ym5SMGIwRXlhekJrZUdKMExWTkdXV05JVlRnelpWRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

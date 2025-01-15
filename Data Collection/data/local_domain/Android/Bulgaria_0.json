@@ -1,0 +1,458 @@
+{
+    "search_metadata": {
+        "id": "67850a030065625a36dbcc3e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/873d772a0178f11a/67850a030065625a36dbcc3e.json",
+        "created_at": "2025-01-13 12:41:39 UTC",
+        "processed_at": "2025-01-13 12:41:39 UTC",
+        "google_jobs_url": "https://www.google.bg/search?q=Android+developer&uule=w+CAIQICIIQnVsZ2FyaWE&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/873d772a0178f11a/67850a030065625a36dbcc3e.html",
+        "total_time_taken": 1.14
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Bulgaria",
+        "location_used": "Bulgaria",
+        "google_domain": "google.bg"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.bg/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwj-_OSg3PKKAxU2QjABHe42IFMQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "SAP",
+            "location": "Sofia, Bulgaria",
+            "via": "SAP Careers",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=ePiRNhf4aRsCP2TxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L0f4OB0o4gmIrjoVBEEJ6EfUC7pmURiLtxF6eavi2943bdb9WUSThNc6EOZKwls4cYOlFB8BC5wZQ6ZlqfYWtWjtarZBG3YkjeeX5YLOZ7tk53-GzWiUM3YaNwfdrOpJawXQ3-HVGDgR8INnN85oCT8AQ8jKrmBAAAA&shmds=v1_AUFQtOPMsYwElDNnM73KnvXJXGIBidyI8f1b9Mhfx1QV4Bytvw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ePiRNhf4aRsCP2TxAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691facb4b729d56a5ac0e25b42ded5223a1751ffe02b857ccbeca.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We help the world run better\n\nAt SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.\n\nThe development center of SAP in Bulgaria plays a key role in the defining and developing of the SAP Business Technology Platform. With its more than 1700 professionals, SAP Labs Bulgaria also has strong contributions toward life-cycle management, user interface & user experience across the broader portfolio of SAP products and business applications. Most recently, SAP Labs Bulgaria expanded in the topics of artificial intelligence and cybersecurity. For its 25-year history, the company has established itself as a preferred employer in the IT sector in Bulgaria.\n\nWhat you'll do:\n\nWhat you bring\n\nMeet your team\n\nWe are seeking an experienced Android developer with a specialized focus on UI and Security. If you are a talented Mobile Developer passionate about developing core mobile frameworks, we invite you to join our team and work on the core security services of SAP Business Technology Platform (BTP). In this role, you will play a pivotal part in creating a platform that serves both SAP application teams and customers.\n\n#SAPBTPEXCareers, #SAPTICareers\n\n​Bring out your best\n\nSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.\n\nWe win with inclusion\n\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.\n\nSAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com\n\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\n\nEOE AA M/F/Vet/Disability:\n\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.\n\nSuccessful candidates might be required to undergo a background verification with an external vendor.\n\nRequisition ID: 411751 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations: #LI-Hybrid.\n\nJob Segment:\nDeveloper, User Experience, ERP, Testing, Computer Science, Technology",
+            "apply_options": [
+                {
+                    "title": "SAP Careers",
+                    "link": "https://jobs.sap.com/job/Sofia-Android-Developer-1407/1150497101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Careers | Bunq",
+                    "link": "https://careers.bunq.com/o/android-developer-tricount-2?lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/Devexperts/744000032405254-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/android-developer-at-costa-coffee-4114697194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-developer/3699231?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/8073384335390978613?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-developer-devexperts-6080159?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs In Forex",
+                    "link": "https://www.jobsinforex.com/job/146339/android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNBUCIsImFkZHJlc3NfY2l0eSI6IlNvZmlhLCBCdWxnYXJpYSIsImh0aWRvY2lkIjoiZVBpUk5oZjRhUnNDUDJUeEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "myPOS",
+            "location": "Varna, Bulgaria",
+            "via": "LinkedIn Bulgaria",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=aRzBaL2rSBWAbgIkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7BeJ0o4gmIrjopAiCi4LgWi7pkUbSXLiLUkf_XHzDa76TZn7InXDs4ERvSlxIYAUXdqCE4nvgDGfmkGi272sturNWNZmgFWv0xvNgOZPj0T7Z6b9WexQqCSu1m-16NCWHxXT43K53iBkeKBmXcHylgBLxBxOs28KEAAAA&shmds=v1_AUFQtONZdjA8C8aCmLgoTC56JFsC1jwFg7uAQySnmKcHF9MgAw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=aRzBaL2rSBWAbgIkAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa2fea9b78db01486ae799bb7cb69e59ae910e2fe2c70be320.jpeg",
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "myPOS is an innovative fintech company serving small and medium-sized business clients across the European Economic Area, Switzerland and the UK. It provides easy and convenient in-store, online and on-the-go payment solutions to more than 200,000 businesses in over 35 European countries. With 20 locations across Europe, myPOS boasts a team of nearly 750 employees.\n\nAs we continue shaping the future of payments, we are looking for an experienced Android Developer to join our growing team.\n\nAs an Android Developer you will develop and maintain high-quality mobile applications and ensure seamless user experiences. You will collaborate with cross-functional teams to implement innovative features, and optimize performance.\n\nWhat you’ll do:\n• Lead the design and development of new mobile applications and features.\n• Test, debug and maintain the application software throughout the product lifecycle.\n• Work with the Tech team and other cross-functional teams to ensure that projects are delivered according to the requirements and with the highest quality.\n• Help us define and analyze industry best practices and important developments in the mobile space.\n\nWhat you bring:\n• University degree in Computer science, Computer Information Systems or related.\n• 2+ years of experience with Android, Java, Kotlin or other technology.\n• Fundamental knowledge in algorithms and data structures.\n• Understanding of network programming (client-server programming, TCP/IP, HTTP).\n• Basic knowledge in using XML and JSON.\n• Good level of English language.\n\nWhy you should join myPOS:\n• Vibrant international team operating in hi-tech environment\n• Annual salary reviews, promotions and performance bonuses\n• myPOS Academy for upskilling and training\n• Unlimited access to courses on LinkedIn Learning\n• Refer a-friend bonus as we know that working with friends is fun\n• Individual training and development budget\n• Teambuilding, social activities and networks on multi-national level\n\nWhat we offer:\n• Еxcellent compensation package\n• 25 days annual paid leave (+1 day per year up to 30)\n• Full “Luxury” package health insurance including dental care and optical glasses\n• Meal vouchers of 160 BGN per month\n• Onsite fitness, bowling, and relax areas (Varna) or fully covered Multisport card (Sofia)\n• Free coffee, snacks and drinks at the office\n\nAbout us:\n\nFounded in 2014, the myPOS platform gives micro businesses and SMEs everything they need to accept payments and manage various aspects of their business, including selling remotely, accelerating cash flow and enabling e-commerce. Business owners receive a free multicurrency merchant account and dedicated IBAN per currency, a business debit card, digitised business management capabilities, and a powerful platform to help them sell anywhere.\n\nIn 2024, myPOS was acquired by Advent International, one of the largest and most experienced global private equity investors. With Advent’s help, myPOS has ambitious plans to accelerate its growth and capture the opportunities of the market to become the leader in the SME payment industry.\n\nFor its continued innovation in payments, myPOS has won many prestigious awards including Best Business Payments System at the PayTech Awards in 2024, the Point of Sale Innovation at FinTech Breakthrough in 2023 and 2024, and Best Use of Mobile by FStech in 2022. For more information, please visit www.mypos.com.\n\nApply by filling in the form below and send your CV in English!\n\nmyPOS is committed to providing equal employment opportunities. All qualified candidates will be considered for employment without discrimination based on age, ancestry, colour, marital status, national origin, physical or mental disability, medical condition, veteran status, race, religion, sex, sexual orientation, gender identity or expression, or any other characteristic protected by applicable laws, regulations, and ordinances.\n\nYour application will be confidentially reviewed in line with the General Data Protection Regulation (GDPR). Personal information will be used solely for the job application and will be stored for a period needed by the application process. Only short-listed candidates will be contacted. Good luck!",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/android-developer-at-mypos-4120711218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Im15UE9TIiwiYWRkcmVzc19jaXR5IjoiVmFybmEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiJhUnpCYUwyclNCV0FiZ0lrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Senior Android Developer (Open Source Project)",
+            "company_name": "OLIANT",
+            "location": "Anywhere",
+            "via": "LinkedIn Bulgaria",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=5eUbHNKvo6xCnhIjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7BzrdqKKNCC46VRRRxAp1L0l6pikxFy6p9G_8Veny1pf9Jtm5Qm-JofANk23ghF90FJBhXgb0UFHPGuHJ1KFOC1jDjRRElKxbIA8XIuNwdmhTCnEvRIwuNzHJZHWu6SPIo6JBdKTiSB1byRicTFhvd5shD94sp-X9WjxeYMfubeUKjr0zkq38AxOzKoWiAAAA&shmds=v1_AUFQtOMXYUtERhFtdZdsMe_7Oz0cotzGbOHDO_eOhkSGbCPKLA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=5eUbHNKvo6xCnhIjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa2c46595f86a34dbaf155940724c5892348912bec2872ecd6.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This position is available for more locations in Eastern Europe, but it will be managed from Bulgaria.\n\nOur client is designing the next generation of the UC (Unified Communication) product line for audio and video streaming. From the BSP perspective, the client needs help with board bring-up and support the functionality.\n\nOur client is the world's leading manufacturer of advanced control and automation systems, innovating technology and reinventing the way people live and work, offering integrated solutions to control audio & video systems. The client streamlines technology, improving the quality of life for people in corporate boardrooms, conference rooms, classrooms, auditoriums, and in their homes.\n\nThe automation and control solutions for buildings and homes let people control entire environments with the push of a button, integrating systems such as A/V, lighting, shading, IT, security, BMS, and HVAC to provide greater comfort, convenience, and security. All the products are designed and built to work together as a cohesive system, enabling customers to monitor, manage, and operate everything from the cloud.\n\nMust have experience with:\n• Developing Android framework services, Android Native applications (JNI / NDK), or system applications (C++/Java).\n• Customizing Google’s AOSP and debugging issues within it.\n• Android HAL (Hardware Abstraction Layer) development, Linux Device Tree.\n• Working with source control tools such as Git, Gerrit, and GitHub and with Android command line tools such as ADB and fast boot.\n\nIt will be a plus:\n• Experience in the following areas: BSP/Board Support Package, Android/Linux Kernel, Bootloader, Graphics, and Audio/Video Drivers.\n• Familiarity with the Android security model (SE Linux policy).\n• Embedded Linux device driver development and customization(including optimizations, bug fixing, and adding new functionality)\n• Excellent verbal and written communication skills.\n• Experience working collaboratively in cross-functional teams.\n• Must be persistent, possess strong problem-solving skills, and be willing to work with others to find solutions that avoid project stalls.\n• Must be responsible, self-motivated, creative, have a solid work ethic, and have the desire to produce a quality product.\n\nEstimated Start Date: ASAP\n\nEstimated Duration: 6 months, with probability of extension (long-term project)\n\nPlease indicate your salary range. For candidates in Bulgaria, we can hire locally as employees of Oliant Bulgaria, or you can have a fixed contract for 6 months with extension if required. For candidates outside of Bulgaria, it is possible to hire through external partners locally, in case you need labor contract in the country you reside, or we can also do contract from the US.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/senior-android-developer-open-source-project-at-oliant-3858862683?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKE9wZW4gU291cmNlIFByb2plY3QpIiwiY29tcGFueV9uYW1lIjoiT0xJQU5UIiwiYWRkcmVzc19jaXR5IjoiU29maWEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiI1ZVViSE5Ldm82eENuaElqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Mobile Developer ( Android )",
+            "company_name": "Bica",
+            "location": "Sofia, Bulgaria",
+            "via": "Jooble",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=LZQJxCSWIT9lCRV0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvA4LVlip6EcVGKw9BEKx8wLHJrclKzIZslPuDnxanmOY7aXY3sRwJzvShKJkKzOGUhiI8wALWcBULSlhcAElwEfGRZsdQa9aDMaqx9VqxsmudvIwksjKap1j912vAQjlipX6734xtTn457dghcIK7PBhX0L2jx8L4A1C_amWOAAAA&shmds=v1_AUFQtOPjuInY28xOv9FOs6w1iZ5zO5Jl_H-l4CHBb0wUtQjjsw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LZQJxCSWIT9lCRV0AAAAAA%3D%3D",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our client, an American product company, is expanding its team in Bulgaria! They are building their first Mobile Development Team locally and are looking for talented professionals to join them on this journey. The company is developing an innovative SaaS platform, and this is your chance to be part of something impactful from the very beginning.\n\nWhat you’ll do:\n• Deliver secure maintainable code using best practices.\n• Enhance existing application code with new features and functionality.\n• Participate in the entire development lifecycle, from concept to release.\n• Work closely with product managers, UI designers, senior developers and testers in a collaborative team environment.\n\nWhat you bring to the table:\n• 3+ years software development experience.\n• Experience building high-performance, fluid mobile applications.\n• Experience integrating RESTful APIs and web services with applications.\n• 2+ years professional Android application development experience using Java or Kotlin.\n\nWhat's in it for you:\n• Fully remote work.\n• Development budget.\n• Flexible benefits package.\n• Performance-based bonuses.\n• Additional health and dental insurance.\n\nIf this opportunity sounds interesting to you, send your CV in English.\n\nPlease mind that only shortlisted candidates will be contacted.\n\nRecruitment license from National Agency of Employment № 1931. All applications will be treated with strict confidentiality",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/-9172037044152646323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyICggQW5kcm9pZCApIiwiY29tcGFueV9uYW1lIjoiQmljYSIsImFkZHJlc3NfY2l0eSI6IlNvZmlhLCBCdWxnYXJpYSIsImh0aWRvY2lkIjoiTFpRSnhDU1dJVDlsQ1JWMEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "Omnissa",
+            "location": "Sofia, Bulgaria",
+            "via": "LinkedIn Bulgaria",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=ptqufXn2iJu-Vnf5AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uFk1EcNFJQQQXh35AubRneiW9C7kI_QX_WnzDa76bxnUkrAWuMhblEe4SWYgK7OGpAYywDBOowEM1JmovU63Zzt6bJRetYuXBDbp4FQq6-lmD_ettwkI5YaX-eDqsLkvctq9F2AyBBTp9M-7g9kkRC-MPzK2uE4wAAAA&shmds=v1_AUFQtOOH5CjPGMCRugyHm5vu8l85OtyuZHu2v1d7KomMgBCpcw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ptqufXn2iJu-Vnf5AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fad1146bf697637cb2e8b8fe3ece1ce566753bbb872675abad.jpeg",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are Omnissa!\n\nThe world is evolving fast, and organizations everywhere—from corporations to schools—are under immense pressure to provide flexible, work-from-anywhere solutions. They need IT infrastructure that empowers employees and customers to access applications from any device, on any cloud, all while maintaining top-tier security. That’s where Omnissa comes in.\n\nThe Omnissa Platform is the first AI-driven digital work platform that enables smart, seamless and secure work experiences from anywhere. It uniquely integrates multiple industry-leading solutions including Unified Endpoint Management, Virtual Apps and Desktops, Digital Employee Experience, and Security & Compliance through common data, identity, administration, and automation services. Built on the vision of autonomous workspaces - self configuring, self-healing, and self-securing - Omnissa continuously adapts to the way people work; delivering personalized and engaging employee experiences, while optimizing security, IT operations and costs. we're experiencing rapid growth—and this is just the beginning of our journey!\n\nAt Omnissa, we’re driven by a shared mission to maximize value for our customers. Our five Core Values guide us: Act in Alignment, Build Trust, Foster Inclusiveness, Drive Efficiency, and Maximize Customer Value—all with the aim of achieving shared success for our clients and our team.\n\nAs a global private company with over 4,000 employees, we’re always looking for passionate, talented individuals to join us. If you're ready to make an impact and help shape the future of work, we’d love to hear from you!\n\nWhat is the opportunity?\n• You will be joining a team of passionate innovators responsible for the Boxer mobile applications, which are an integral part of our Workspace ONE platform. Omnissa applications are used by enterprise clients, with hundreds of thousands of users relying on them daily, and they are installed on millions of mobile devices worldwide.\n• You’ll be part of a team that follows established Scrum and Agile processes, maintaining a high standard for code quality\n• You will take ownership of your work while participating in the design, development, and testing of product features and components\n• You will collaborate with our security and UI/UX teams to ensure that Boxer is both secure and user-friendly\n• As an Android mobile engineer, you will engage in code reviews and architecture reviews, contributing to the creation of a robust and scalable product.\n• Our products are crucial for our customers, and you will work closely with our support team to ensure that customer needs are met\n• You will analyze complex tasks or situations that require an in-depth evaluation of various factors\n\nWhat will you bring to Omnissa?\n• For building the Android mobile apps in Omnissa we are using: Kotlin, Java, RESTful APIs, Android SDK and different versions of Android\n• For engineering processes and productivity tools we use Atlassian suite / Jira, Confluence, Git/, Sonar Qube or code quality and Jenkins, Bamboo for CI/CD\n\nLocation: Sofia, Bulgaria\n\nLocation Type: Hybrid\n\nWhat is the structure and culture of the team like?\n\nCulturally, our team is focused on innovation, customer value, execution, and growth. We operate like a startup within the larger Omnissa customer base, emphasizing responsiveness and respect for everyone’s contributions. Our focus is on exciting big ideas, innovations, features, and fixes that deliver real customer value. Each team member is empowered to take the lead on functionalities based on their expertise, collaborate openly with colleagues, and grow together.\n\nOmnissa Industry Recognition And Awards\n• Gartner Magic Quadrant: Consistently positioned as a leader in Gartner’s Magic Quadrant for Desktop as a Service (DaaS) and Virtual Desktop Infrastructure (VDI).\n• IDC MarketScape Q2 2024: Recognized as a leader in IDC MarketScape reports for EUC.\n• Forrester Wave report for Q4 2023: Workspace ONE received the highest scores in the current offering category and the second-highest scores in the strategy category.\n• Customer Satisfaction and Reviews: High ratings and positive reviews on platforms like Gartner Peer Insights and TrustRadius.\n\nOmnissa’s Commitment To Diversity & Inclusion\n\nOmnissa is committed to continuing their mission to build a diverse and inclusive workforce that reflects the communities we serve across the globe. Fostering inclusiveness is one of our key values, that acts as a bedrock of our operational model and culture.\n\nOmnissa is an Equal Employment Opportunity company and Prohibits Discrimination and Harassment of Any Kind:\n\nOmnissa is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Omnissa are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Omnissa will not tolerate discrimination or harassment based on any of these characteristics. Omnissa welcomes applicants of all ages. Omnissa will provide reasonable accommodations to applicants and employees who have protected disabilities consistent with local law.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/senior-android-engineer-at-omnissa-4090636755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6Ik9tbmlzc2EiLCJhZGRyZXNzX2NpdHkiOiJTb2ZpYSwgQnVsZ2FyaWEiLCJodGlkb2NpZCI6InB0cXVmWG4yaUp1LVZuZjVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUW5Wc1oyRnlhV0UifQ=="
+        },
+        {
+            "title": "Senior Android Engineer, Casino Native Automation",
+            "company_name": "DraftKings",
+            "location": "Anywhere",
+            "via": "DraftKings Careers",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=9XDfOaMb-CjvoQw0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWKOwrCQBBAsc0BLKymFs2KYKNV_KAo2HiAMEnGzchmJuysktt4VWPzeA9e9p1klwcJa4RCmqjcwEk8C1FcwAGNReGOiT8ExTtpN6oKLOGqFRhhrFsY-6zqA812bUq9bZ0zC7m3NM51XmvnVKjSwb20sj9KazFSHzBRud6shrwXP58eIz7TjcUbsMD-HTxGxh-AIwhAogAAAA&shmds=v1_AUFQtONJyhz1wOy_oLSgvCrAZWWArt5ytumpOU1fSVa7NKIBGA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=9XDfOaMb-CjvoQw0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa80935e3a02a93ba5029573cfd31bff17b2f3c8907d42d2f9.png",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We’re defining what it means to build and deliver the most extraordinary sports and entertainment experiences. Our global team is trailblazing new markets, developing cutting-edge products, and shaping the future of responsible gaming.\n\nHere, “impossible” isn’t part of our vocabulary. You’ll face some of the toughest but most rewarding challenges of your career. They’re worth it. Channeling your inner grit will accelerate your growth, help us win as a team, and create unforgettable moments for our customers.\nThe Crown Is Yours\n\nWe are looking for an experienced mobile developer to shape and maintain our Casino Android applications, a key part of DraftKings' rapidly expanding Casino and iGaming vertical. You'll stay ahead of UI/UX trends, build an Automation Testing Framework, update apps, and collaborate on innovative features. This role involves working within our integrated ecosystem and contributing to exciting products. If you’re passionate about creating seamless user experiences and eager to work on exciting new projects, we’d love to connect with you and explore how you can make an impact on our team.\n\nWhat you’ll do as a Senior Software Engineer\n• Lead the development of an innovative Automation Testing framework to ensure our Casino app's native features are flawless.\n• Drive the creation of new features, continuously improving our systems while upholding high code quality standards.\n• Collaborate with design and product teams to refine UI/UX and ensure we deliver the best possible product for our users.\n• Partner with fellow engineers to conduct code reviews, perform functional testing, and release top-notch iOS and Android builds, contributing to the app's ongoing success. ​\n\nWhat you will bring\n• 3+ years of experience in Android mobile development using Kotlin\n• Strong knowledge of native operating system capabilities, app signing and deployment processes, and consumer app best practices.\n• Proficient in test management tools (JIRA, TestRail) and version control (Git).\n• Expertise in mobile test automation and familiarity with security and performance testing practices is considered an advantage.\n• Good knowledge of Espresso framework and/or Composer UI Automation for Android automation (Kotlin).\n• Background in mobile app testing (native, hybrid, web) and device farms/cloud testing platforms (Firebase Test Lab, AWS Device Farm, Browserstack etc.).\n• Strong problem-solving skills and ability to troubleshoot complex issues as well as excellent communication and collaboration skills in agile environments.\n\n#LI-AA2\n\n#LI-REMOTE\nJoin Our Team\n\nWe’re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston. As a regulated gaming company, you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment. Don’t worry, we’ll guide you through the process if this is relevant to your role.",
+            "apply_options": [
+                {
+                    "title": "DraftKings Careers",
+                    "link": "https://careers.draftkings.com/jobs/jr09729/senior-android-engineer-casino-native-automation/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Senior-Android-Engineer--Casino-Native-Automation_JR09729-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-android-engineer-casino-native-automation/3670430?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66e0ddfc43f3f1ab1e36720f-senior-android-engineer-casino-native-automation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/senior-android-engineer-casino-native-automation-at-draftkings-inc-4020141767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WagerPager",
+                    "link": "https://wagerpager.co/job/1597283-senior-ios-engineer-casino-native-automation-draftkings?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciwgQ2FzaW5vIE5hdGl2ZSBBdXRvbWF0aW9uIiwiY29tcGFueV9uYW1lIjoiRHJhZnRLaW5ncyIsImFkZHJlc3NfY2l0eSI6IkJ1bGdhcmlhIiwiaHRpZG9jaWQiOiI5WERmT2FNYi1DanZvUXcwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "Bica",
+            "location": "Sofia, Bulgaria",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=T1DhFECphlnPiN08AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P1-QHDKJoi2IrjodgiC4OQHHGmJbSQ2palym78uvuEN32F108BCcKYPiVZqsIWrBjDCFjNogYtqElqecu_Vjt6biUvWsXN0UV9eCwWd_VOD_ZssY6Mq2GnaH3azqyWtFyNHBC5w1wfjBsa3JGyMPxNQybmBAAAA&shmds=v1_AUFQtOMGe7isMh1MRE15s59SGImn5DlZ_dfPziU442aRFlziQw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T1DhFECphlnPiN08AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa8a81c7a9fb377f47abc991dbe4b4053db42b46b25a55ff6d.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our partner is a product company that creates a one-of-a-kind cloud-based product that helps businesses connect with each other instantly.\n\nWhat do we need?\n• Experience in native mobile development for iOS\n• Understanding of algorithms and data structures.\n• System and network programming experience is a plus - OS basics, processes, I/O.\n• Understanding of Windows and Unix-based OSes.\n• Knowledge of C/C++ development.\n\nWhat you'll do?\n• Design and develop extraordinary mobile app experience & build a better product.\n• Develop and deploy highly scalable and fault-tolerant mobile app CI/CD and release mechanism.\n• Reproduce and learn complex usage scenarios and analyze their problems.\n• Be part of the newly formed Mobile team.\n\nWhat's the offer?\n• Stock options and competitive compensation package.\n• Unlimited paid time off.\n• Monthly team buildings, events, and gatherings that help build strong bonds within the team.\n• Additional full-coverage health & dental package.\n• Budget for a benefit platform with different options to choose from.\n\nIf you consider yourself an ambitious person who wants to join a rewarding and challenging environment, please send your CV in English. Please mind that only shortlisted candidates will be contacted.\n\nGood luck!\n\nRecruitment license from National Agency of Employment № 1931.\nAll applications will be treated with strict confidentiality.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/mobile-developer-at-bica-551?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQmljYSIsImFkZHJlc3NfY2l0eSI6IlNvZmlhLCBCdWxnYXJpYSIsImh0aWRvY2lkIjoiVDFEaEZFQ3BobG5QaU4wOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Information Services",
+            "location": "Anywhere",
+            "via": "LinkedIn Bulgaria",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=-cOCN0Q9dKkGmSbrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLYLiOZEsNFKQURbHxA2l81lw2U33J6SX_hlYzNMM1N8V0V5kTYpt3CTwEKUYAdPbcAIk-9BBe6qIdL63Oc82ck5s1gFy5jZV15Hp0KNzm7Qxv6orcdEU8RM9eG4n6tJwqZ8SKdpXJpl-KL0YU8GvLh2jFu4vmPAxPgDZJfem5IAAAA&shmds=v1_AUFQtOOQJVJzGst2jQLm4L8zcjQgCsswjp9xLYYzp9EjAccyKA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=-cOCN0Q9dKkGmSbrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa7de8b4dcce370cfe840cab5fa4497f220ce3d86b59de945b.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Currently you have the opportunity to join our team at the position of Android Engineer.\n\nWhat will you do?\n• Participate in design, development, and maintenance of our mobile apps;\n• Drive technical discussions, make informed decisions, and provide recommendations on software architecture, tools, and best practices.\n• Be part of an agile and cross functional team;\n• Work closely with other teams responsible for other components like UX and APIs;\n\nWhat skills and qualifications you need to have?\n• 5+ years of experience in building native Android apps with Java and/or Kotlin;\n• Excellent overview of the Android ecosystem;\n• You know in detail the persistent storage options in Android - SQLite (Room), Shared Preferences, etc.\n• Build modern layouts for both phones and tablets;\n• Write scalable, maintainable, and testable code;\n• Experience with writing and maintaining unit and UI tests;\n• Experience with integrating RESTful APIs;\n• You understand what stands behind SOLID, MVC, MVP and MVVM;\n• You understand mobile security;\n\nBig Plus Would Be\n• Experience in leading a small squad of Android engineers to successfully deliver a complex feature and/or small Android-related project\n• Experience with CI/CD (Jenkins, Bamboo, Fastlane, etc);\n• Experience in code optimization and performance improvements;\n• Experience with Accessibility;\n\nAnd how you will become a valuable part of our team?\n• Being a team player with good communication and presentation skills;\n• You are self-starter and love to explore and use new technologies;\n• You are proactive person with good analytical and problem-solving skills;\n• You have experience in Agile development methodologies, e.g. Scrum/Kanban;\n\nWhy “Information Services” JSC?\n\nYou will have the opportunity to build, maintain and develop efficient information systems of national importance.\n\nWhat you will get in addition if you join us?\n• Additional health insurance with dental care coverage;\n• Referral bonus program;\n• Skills development program;\n• Work in a team with leading specialists;\n• Specially developed “Graduation” program;\n• Coffee and fresh fruits at the office;\n• Attractive office location.\n\nIf you are interested in this position, please send your CV. Only shortlisted candidates will be contacted for interview.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/android-engineer-at-information-services-3868347398?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSW5mb3JtYXRpb24gU2VydmljZXMiLCJhZGRyZXNzX2NpdHkiOiJTb2ZpYSwgQnVsZ2FyaWEiLCJodGlkb2NpZCI6Ii1jT0NOMFE5ZEtrR21TYnJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUW5Wc1oyRnlhV0UifQ=="
+        },
+        {
+            "title": "Lead Android Developer",
+            "company_name": "KPMG IT Service OOD",
+            "location": "Sofia, Bulgaria",
+            "via": "Jooble",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=IN3gliy_Wv2OSoZDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CE43OYhtRHDRSSkU_6hQ93JNzzQScyEXSx_EBxa_4cu-syy_EvZw8H1k20NJIzkOFCGHM3cghFEPwB4qZuNovh9SCrJTSsQVRhImqwvNb8WeOp7Uizv518qAkYLDRO1mu56K4M1ycbnfKjg9oKE4Wk1Q1yVYDw0_La7g-HEGo8UfrbSGCZcAAAA&shmds=v1_AUFQtONq8YRf1p8lupAKvyk-VynFAoJKDyfbcvLPaowzzGEgew&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=IN3gliy_Wv2OSoZDAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "KPMG IT Service OOD is an IT service provider with a mission to digitalize the core business of the KPMG network member firms and their clients. We employ more than 500 people in Sofia and deliver the full spectrum of IT services to our clients, including ServiceNow solutions, SAP solutions, Software Engineering, Application & Platform Operations, Cloud and Infrastructure.\n\nWe are looking for an experienced Lead Android Developer to lead the design and architecture of Android applications for our company. You will be responsible for ensuring that our Android apps are robust, scalable, and designed to provide a top-tier user experience. You will work closely with product and development teams, defining best practices and guiding the technical direction of the Android platform within the organization.\n\nKey Responsibilities:\n• Define and implement the architecture for Android applications to ensure scalability, performance, and maintainability.\n• Lead the Android development team, providing technical guidance and mentorship.\n• Collaborate with designers and product managers to create highly functional and visually appealing user interfaces.\n• Select appropriate design patterns, libraries, and frameworks to ensure the Android app's robustness and flexibility.\n• Ensure seamless integration of Android apps with backend services through RESTful APIs and other integrations.\n• Drive innovation by staying updated on the latest Android technologies, frameworks, and tools.\n• Conduct architecture reviews, code reviews, and performance tuning.\n• Establish and enforce Android coding standards and best practices across the team.\n\nRequired Qualifications:\n• Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.\n• 8+ years of experience in Android development, with 3+ years in an architectural or technical leadership role.\n• Strong proficiency in Java and Kotlin for Android development.\n• Experience with Android frameworks like Jetpack , Room , LiveData , ViewModel , and Coroutines .\n• Deep understanding of Android UI/UX standards , Material Design , and optimization techniques for mobile performance.\n• Experience with tools like Android Studio , Gradle , ProGuard , and version control systems like Git .\n• Strong knowledge of integrating Android apps with backend systems using RESTful APIs .\n\nPreferred Qualifications:\n• Familiarity with cross-platform development frameworks like Flutter or React Native .\n• Experience with Android architecture patterns such as MVVM , MVP , or Clean Architecture .\n• Knowledge of Android security best practices and experience optimizing for different Android devices and screen sizes.\n\nWhat we offer:\n• The chance to work in a top talent team\n• Attractive remuneration\n• Build кnowledge in cutting-edge technologies\n• Opportunity for continuous training, learning and certification\n• Experience in an international and multicultural organization\n• Work on challenging projects with clients in various industries around the globe\n• Modern office environment\n• Additional health insurance\n• Life insurance\n• 50+ benefits and services to choose from",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/3570716057660201040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/lead-android-developer-at-kpmg-it-service-ood-4057219576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiS1BNRyBJVCBTZXJ2aWNlIE9PRCIsImFkZHJlc3NfY2l0eSI6IlNvZmlhLCBCdWxnYXJpYSIsImh0aWRvY2lkIjoiSU4zZ2xpeV9XdjJPU29aREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRblZzWjJGeWFXRSJ9"
+        },
+        {
+            "title": "Android/Java Mobile Engineer",
+            "company_name": "NATEK",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.bg/search?ibp=htl;jobs&q=Android+developer&htidocid=23QKGyNoRgXp-Xl7AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CS5mFu2J4qJThSJUdNHJRXJtuJ6cSUlO6X_4w-IbXvGdFJuKO5XYuQY_CGfxMRHUHCITKSyhEQ9GqG0PwnAUCYmm-z7nwXbOmaUyWMYc27KVlxMmL6N7ird_D-tRaUiY6bHersZy4DCfXapbfYLIcM2oCHcMoriAwzsF1Ig_S2oc7JYAAAA&shmds=v1_AUFQtOOfH3FAtEz5xZqMqTc84W5hfhLSAhv1qkO1RlMEjNbojw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=23QKGyNoRgXp-Xl7AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a030065625a36dbcc3e/images/76ec4a4b213691fa068c1f4d56a3e6f6e93769288df3c3249a62d3e14e8b34ff.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Bulgaria\n\nJob Description\n\nAs an Android Software Engineer, you will join our Driver mobile app team. This team provides for fleet companies solution so a driver can do his day-to-day operations based on a combination of a mobile and inhouse developed IOT device. In parallel you will also work on the Traveler App, which provides innovative solutions to get passengers efficiently to their destination in an autonomous world. From the booking experience to boarding or interacting with robotaxis, smart shuttles, or other automated transit systems, the team delivers state-of-the-art UX and functionalities to ensure a confident and satisfying traveler journey. **\n\nYour Responsibilities**\n• Building and supporting our Android mobile application for the driver persona in the fleet industry, alongside the mobile traveler app\n• Participating in the entire software development lifecycle within an agile team, including assisting product specialists with requirements, engaging in UX discussions, contributing to sprint planning and retrospectives\n• Establishing best practices and user interfaces that result in a robust, usable, and secure system\n• Collaborating closely with our UX designer to define and maintain visual guidelines, ensuring consistency throughout the app\n• Monitoring and improving the quality of our codebase, as well as helping define and maintain a coding standard\n• Aiding in diagnosing and addressing complex issues in the existing Android mobile app, working alongside other teams to understand the broader end-to-end picture\n\nOur Requirements\n• Relevant experience in mobile development on Android with a strong focus on Java and Kotlin, including mobile architecture (MVP/MVVM) and reactive programming (RxJava/Coroutines/Flow)\n• High emphasis on quality, with experience in mobile testing frameworks and services\n• A keen eye for details and a strong UX sensibility\n• Willingness to quickly grasp and understand the typical business operations of traveler apps and driver fleet solutions\n• Agile mindset and experience working effectively within an agile setup\n• Proficiency in English with excellent communication skills\n\nBenefits\n• Fully remote work\n• Internal Mobility Program – enjoy many opportunities for career growth, job rotations, diversity of projects & technologies\n• Referral Program – enjoy cooperation with your colleagues and get a bonus!\n• 5/10 Years NATEK Club – we offer long-term cooperation and celebrate each fifth-year cooperation anniversary with gifts\n• NATEK CSR Events & team buildings – enjoy our values: accountability, partnership and expertise and #workITwithus\n• Education – benefit from our know-how, learning courses and certificates and IT events – be part of the community of leaders of the industry and take part as a speaker or a visitor\n• Bonuses for Personal Events – we congratulate you on important events of your life: giving birth to children, university graduation, etc.\n• MyBenefit Cafeteria\n• Life insurance & Pension plan\n• Multisport Club Card\n• Technical and Personal training – we are investing in your skills growth\n• Language courses\n• 1 paid day off for volunteering – we are supportive of all charity ideas\n\nThis offer from \"NATEK\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/657a30dac52d15e9335e7123-android-java-mobile-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Bulgaria",
+                    "link": "https://bg.linkedin.com/jobs/view/android-java-mobile-engineer-at-natek-3766483009?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkL0phdmEgTW9iaWxlIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTkFURUsiLCJhZGRyZXNzX2NpdHkiOiJTdGFyYSBaYWdvcmEsIEJ1bGdhcmlhIiwiaHRpZG9jaWQiOiIyM1FLR3lOb1JnWHAtWGw3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVFuVnNaMkZ5YVdFIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRXAyUVRkbWRXRk9NUzFDZHpWeFNFTjNZVWhIYkV4T2NWaHZOVUpGWldOeVpqazJSVE4zVGt0RmFqVlJiMnRRYjJoTVptTllXbWxzVkUxWWNsVk1hQzFJZUZwUFdWTTBSbVZSWVhwbFNWVklNakZETkc1aE9FVkpaelk1VjJsdllrSk9abWRuY0hGWE5URkVTWEYzWlcxVldVWkVlRk5UYTA1WGJVaEpiMmRTZURJNFZFczBUR3haUjNKelFUUlROMTlzZW1wTVZuSktaWFU1ZWtwT1ltcFJkRFZMTlZZd2NUaFVZWEIwVGxsUk5WUTRWbk5UT0hJNWRrdDZUblI2TVhkZmIzTjNRMjl4YkdSTVMxcEtUVEZEVkdSamFtdFpVRVU1VTBkM1RuVmxaVmhETWpScldXMXZOVWh2ZWtWdFFrUjVORVpGY3pKTWNVUTJkakI0YjFOUWRWTm1TM2hRTVVaNE0wMU9OMlJFYlROc1ozUktNM2RtVTNjU0YwSkJjVVphWHpkeFJuSmhSWGRpYTFBM2RUSkJiVkZWR2lKQlJsaHlSV054V0V0c05saEtZM2h6ZEZsdVRtRklhbVJJWkZoemVqbFpNR2xSIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.bg&location=Bulgaria&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRXAyUVRkbWRXRk9NUzFDZHpWeFNFTjNZVWhIYkV4T2NWaHZOVUpGWldOeVpqazJSVE4zVGt0RmFqVlJiMnRRYjJoTVptTllXbWxzVkUxWWNsVk1hQzFJZUZwUFdWTTBSbVZSWVhwbFNWVklNakZETkc1aE9FVkpaelk1VjJsdllrSk9abWRuY0hGWE5URkVTWEYzWlcxVldVWkVlRk5UYTA1WGJVaEpiMmRTZURJNFZFczBUR3haUjNKelFUUlROMTlzZW1wTVZuSktaWFU1ZWtwT1ltcFJkRFZMTlZZd2NUaFVZWEIwVGxsUk5WUTRWbk5UT0hJNWRrdDZUblI2TVhkZmIzTjNRMjl4YkdSTVMxcEtUVEZEVkdSamFtdFpVRVU1VTBkM1RuVmxaVmhETWpScldXMXZOVWh2ZWtWdFFrUjVORVpGY3pKTWNVUTJkakI0YjFOUWRWTm1TM2hRTVVaNE0wMU9OMlJFYlROc1ozUktNM2RtVTNjU0YwSkJjVVphWHpkeFJuSmhSWGRpYTFBM2RUSkJiVkZWR2lKQlJsaHlSV054V0V0c05saEtZM2h6ZEZsdVRtRklhbVJJWkZoemVqbFpNR2xSIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

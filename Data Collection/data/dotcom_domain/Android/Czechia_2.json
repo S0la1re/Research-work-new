@@ -1,0 +1,173 @@
+{
+    "search_metadata": {
+        "id": "678502787cbf685ebaf24a69",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/195348265f1d7a8e/678502787cbf685ebaf24a69.json",
+        "created_at": "2025-01-13 12:09:28 UTC",
+        "processed_at": "2025-01-13 12:09:28 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIHQ3plY2hpYQ&udm=8&fc=EuICCqICQUpHOUprUG4xYUpQWS1nc1p5cWR3ME83SFhnVzlHTGR4Z0xjUEYxR1FUcXRCVmRKajRyUEhjNENLLVVNZk5jSEtEd3A2UmV5bXh0eWRZR0liZEgyOW0tNG9lS1FfT0poUzRKTEhkZW9KZWhVOEIySWpKSTRxaE05UG9IOUItc245ajVHdU9WYl9XeGt3aXdKcV9xV2IwQTlnV0VxMy1QVFBKUjdGcUR2dklCUEg3LUpIc2JQdkFYSzk2WVNmWTBSbkd6ajZNandmZUVDYWRkX0QyQllLOW1GbFk0cjVJZ3EyUFNwNjllWEdPcGJaWGVINlpPUi1UdW9fQ0hadm1JZDBRTldMMTRCdlFiVG1RMXpoVE5Sb3B5MVRQYkNjVnBRRVESF2VBS0ZaOFhnQnFDR3B0UVAtdV9tdUFzGiJBRlhyRWNxTHVGbmpTbGVJSlZlZTF0TEptMG92a0NiM3V3&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/195348265f1d7a8e/678502787cbf685ebaf24a69.html",
+        "prettify_html_file": "https://serpapi.com/searches/195348265f1d7a8e/678502787cbf685ebaf24a69.prettify",
+        "total_time_taken": 1.13
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Czechia",
+        "location_used": "Czechia",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRzR4WVVwUVdTMW5jMXA1Y1dSM01FODNTRmhuVnpsSFRHUjRaMHhqVUVZeFIxRlVjWFJDVm1SS2FqUnlVRWhqTkVOTExWVk5aazVqU0V0RWQzQTJVbVY1YlhoMGVXUlpSMGxpWkVneU9XMHRORzlsUzFGZlQwcG9VelJLVEVoa1pXOUtaV2hWT0VJeVNXcEtTVFJ4YUUwNVVHOUlPVUl0YzI0NWFqVkhkVTlXWWw5WGVHdDNhWGRLY1Y5eFYySXdRVGxuVjBWeE15MVFWRkJLVWpkR2NVUjJka2xDVUVnM0xVcEljMkpRZGtGWVN6azJXVk5tV1RCU2JrZDZhalpOYW5kbVpVVkRZV1JrWDBReVFsbExPVzFHYkZrMGNqVkpaM0V5VUZOd05qbGxXRWRQY0dKYVdHVklObHBQVWkxVWRXOWZRMGhhZG0xSlpEQlJUbGRNTVRSQ2RsRmlWRzFSTVhwb1ZFNVNiM0I1TVZSUVlrTmpWbkJSUlZFU0YyVkJTMFphT0ZoblFuRkRSM0IwVVZBdGRWOXRkVUZ6R2lKQlJsaHlSV054VEhWR2JtcFRiR1ZKU2xabFpURjBURXB0TUc5MmEwTmlNM1YzIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Sr. Android Engineer",
+            "company_name": "ITExpert",
+            "location": "Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=qYY8tKDbzhoyYA_pAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P1WN6fMiq0ILjqJHKKr7kfbC22PmpSkQ3Hx18U3vOE7bJ9i4EKzcJ5hpJgJUWAHD_ag6CQkYIIbcyy4PqfWqp6sVS0manMtBxP4bZnQc7cLe_03aXKCtbiG0-G476ZS3Kzur7FXlAaZ4PrBkLL7AceZ3viBAAAA&shmds=v1_AUFQtONIk6sLqhyPNW4TYD-d58nw537oZLOa9yBE_z4cd82kpg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=qYY8tKDbzhoyYA_pAAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Fingerprint empowers developers to stop online fraud at the source.\n\nWe work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies. We are a globally dispersed, 100% remote company with a strong open-source focus. Our flagship open-source project is FingerprintJS (20K stars on GitHub).\n\nWe have raised $77M and are backed by Craft Ventures (previously invested in Tesla, Facebook, Airbnb ), Nexus Venture Partners (previously invested in Postman , Apollo.io, MinIO , Druva) and Uncorrelated Ventures (previously invested in Redis, Rollbar &Gradle ).\n\nWho We Are Looking For: We are looking for a Senior Android Engineer with a solid background in Information Security. The ideal candidate will have experience building Android applications or libraries from scratch and will be skilled in security frameworks, cryptography, and network protocols. The role requires strong expertise in Kotlin, and familiarity with Jetpack Compose is preferred.\n\nKey Responsibilities:\n• Design, develop, and optimize native Android applications and libraries, focusing on security, scalability, and performance.\n• Collaborate with cross-functional teams to implement security protocols and ensure that applications align with best security practices.\n• Build developer tools that enhance productivity and streamline the development process.\n• Contribute to the maintenance and advancement of security frameworks for mobile applications.\n• Provide mentorship to junior team members and contribute to their technical development.\n\nRequirements:\n• Education: Degree in Computer Science, Information Security, or equivalent experience.\n• Experience:\n• 5+ years as a Senior Android Engineer (prior experience in a Senior Android role is required).\n• Strong Information Security background, with practical experience in:\n• Network protocols and secure coding practices\n• Cryptography and security framework development\n• Proven experience in building Android applications from the ground up, with expertise in Kotlin and vanilla Android SDKs. Experience with Jetpack Compose is preferred.\n• Experience with Android NDK is a plus.\n• Contributions to Open Source projects on GitHub are a bonus.\n\nOffers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.\n\nDue to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location .\n\nWe are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.\n\nIf you are applying as a resident of California, please read our CCPA notice here\n\nIf you are applying as a resident of the EU, please read our GDPR notice here",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/-2851592231998746821?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IklURXhwZXJ0IiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoicVlZOHRLRGJ6aG95WUFfcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Senior Mobile Cross-Platform Developer (Firebase)",
+            "company_name": "Proxify",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=D-4ZUrqFUmW5FnU3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFw7OjrdqEIbEVx0rKgIQsEPKEm4JpE0F-6CVH_Fn1WXt77qM6sud0yBGG5kQkRomUTqLuoyEI9wxCdGysiwPAVGowVXUMOVDAhqth4owZnIRVwcfClZ9kqJxMZJ0SXYxtKoKKGhST3IyJ9evGbMvwL77W4zNTm59bxjmsLwgpCgfaP1QX8B0Zv3UZ4AAAA&shmds=v1_AUFQtOP6IGcsN-zr7UuWIRvgfEoYWNvMGGHMPNMrc-n6Lkmn9g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=D-4ZUrqFUmW5FnU3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502787cbf685ebaf24a69/images/de059f296b63ba3495cbaff5b29c20789b7f780f2447867b9730117e5dc23832.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: EMEA\n\nAbout us:\n\nTalent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂\n\nSince our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 3500+ talented developers trust Proxify and its network to fulfil their dreams and objectives.\n\nProxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success.\n\nThe Role:\n\nWe are looking for a Senior Mobile Cross-platform Developer with strong proficiency with Firebase for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.\n\nWhat we’re looking for:\n• Minimum of 5 years of experience in mobile application development with a strong portfolio of released applications.\n• Extensive experience with Firebase services and integrations in mobile applications.\n• Proficiency in mobile development frameworks and languages such as Flutter, React Native, Swift, Kotlin, and Java.\n• Strong knowledge of testing frameworks and debugging tools for mobile applications.\n• Excellent analytical and problem-solving skills with a proactive approach to identifying and resolving issues.\n\nResponsibilities:\n• Design, develop, and maintain high-performance mobile applications for both iOS and Android platforms using Flutter, React Native, or native languages (Swift, Kotlin).\n• Implement and manage Firebase services such as Authentication, Firestore, Realtime Database, Cloud Functions, Cloud Messaging, and Crashlytics to enhance mobile applications.\n• Write clean, maintainable, and efficient code with a focus on reusability and best practices. Conduct unit testing, integration testing, and end-to-end testing to ensure application stability and performance.\n• Identify and troubleshoot performance bottlenecks in mobile applications and optimise for maximum performance and user experience.\n\nWhat Proxify offers\n• Career-accelerating positions at cutting-edge companies\n• Discover exclusive long-term remote engagements at the world's most interesting product companies.\n• Hand-picked opportunities, just for you\n• Skip the typical recruitment roadblocks and biases with personally matched engagements.\n• Fast-track your independent developer career\n• Start small and gain more freedom to take on new engagements as you build your independent developer career.\n• A recruitment process that values your time\n• Only one hiring process with the possibility of several positions, without any additional tests.\n\nThis offer from \"Proxify\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66becfd9b7394dd03ed0d048-senior-mobile-cross-platform-developer-firebase?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIENyb3NzLVBsYXRmb3JtIERldmVsb3BlciAoRmlyZWJhc2UpIiwiY29tcGFueV9uYW1lIjoiUHJveGlmeSIsImFkZHJlc3NfY2l0eSI6IkN6ZWNoaWEiLCJodGlkb2NpZCI6IkQtNFpVcnFGVW1XNUZuVTNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android Developer @ Santander Bank Polska",
+            "company_name": "Santander Bank Polska",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=p57fztUUYW5Cdkx3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_3XNPQoCMRBAYWz3CFZTC25EsNFm_QHBSvAAyyQZNnHjTMgEWbyNN1UPYPP4ute8Z023Z18kejjRk5JkKtDBDbki-68PyCNcJemIsISLWFDC4gIIw1lkSDTfhVqzbo1RTe2gFWt0rZOHESYrk7mL1V96DVgoJ6zUrzerqc08LP6sIsPxRS5E_AAk5bKfpAAAAA&shmds=v1_AUFQtONhAfDcvG7RTOTxpb_sQQZ49fQq1jtEmwa8nrr9Q2zBEA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=p57fztUUYW5Cdkx3AAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "O pozici / o projektu\nPůvodní popisek.\n\nW Obszarze Omnichannel rozwijamy systemy Bankowości Elektronicznej. Codziennie dzięki Naszym rozwiązaniom, oferujemy coraz to wygodniejsze rozwiązania Naszym klientom, pomagające im zaoszczędzić czas. W zespole projektowym zajmujemy się rozwojem aplikacji mobilnej.\n\nTo, co oferujemy:\n• zatrudnienie na podstawie umowy B2B\n• możliwość pracy zdalnej lub w modelu hybrydowym (Poznań/Wrocław/Warszawa)\n• udział w ciekawych, strategicznych projektach\n• wewnętrzne inicjatywy rozwojowe umożliwiające doskonalenie kompetencji zawodowych\n• zgrany zespół i przyjazną atmosferę\n• stosujemy najwyższe standardy zarządzania ryzykiem, dbamy o bezpieczeństwo naszych klientów i świadczonych usług\nOdpovědnosti\nPůvodní popisek.\n• tworzenie oraz dbanie o jakość i czytelność kodu\n• współpraca z analitykami oraz testerami podczas tworzenia zmian\n• tworzenie i rozwijanie aplikacji mobilnej\n• obsługa zgłoszeń zgodnie z obowiązującym procesem wsparcia produkcyjnego aplikacji\n• tworzenie dokumentacji technicznej\n• współpraca z innymi krajami w ramach Grupy Santander, przy budowie aplikacji dla kilku krajów\nDetail pracovní nabídky\n• Jazyk náboru: Polština\n• Ihned\n• Dlouhodobá spolupráce\n• Práce plně na dálku",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/1396994029805375002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBAIFNhbnRhbmRlciBCYW5rIFBvbHNrYSIsImNvbXBhbnlfbmFtZSI6IlNhbnRhbmRlciBCYW5rIFBvbHNrYSIsImFkZHJlc3NfY2l0eSI6IkN6ZWNoaWEiLCJodGlkb2NpZCI6InA1N2Z6dFVVWVc1Q2RreDNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android | IOS vývojář",
+            "company_name": "Grafton Recruitment s.r.o.",
+            "location": "Prague, Czechia",
+            "via": "JenPráce.cz",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=dzVcQgbjXGzaK6faAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBQAUFx7BKc_i01EcNFJHIouih6gpOk3SWnzS35aingRBwcP4lS8l7q88SXPSSK3vgzkSrjD_niBfnz3VI2vzwNSOFABjCpoC-QhIzI1Tjc2xpbXUjLXwnBU0WmhqZHksaBBVlTwn5ytCtjWKmK-XC0G0XozS7OgrvGXnVGHzsUGfQQWQZAA5-EUlOlwDrsbauvUF2NWxYmgAAAA&shmds=v1_AUFQtOPCxP6qou8yPSw2HZ4vLhgixnLaiffCDQLydakpALyJYw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=dzVcQgbjXGzaK6faAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Ozvěte se na aktuální pracovní nabídku Android | IOS vývojář v lokalitě Praha.",
+            "apply_options": [
+                {
+                    "title": "JenPráce.cz",
+                    "link": "https://www.jenprace.cz/nabidka/sy3loy/android-ios-vyvojar?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIHwgSU9TIHbDvXZvasOhxZkiLCJjb21wYW55X25hbWUiOiJHcmFmdG9uIFJlY3J1aXRtZW50IHMuci5vLiIsImFkZHJlc3NfY2l0eSI6IlByYWd1ZSwgQ3plY2hpYSIsImh0aWRvY2lkIjoiZHpWY1FnYmpYR3phSzZmYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Scale3C",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQoCMQwA0P1GR6eMItiK4qLjiYKrH3CkJbQnuaY0UQ79eXV5vO7TrS78NKMGZ3oRS_1tAzcJoIQtZpACV5HEtDxls6pH71XZJTW0Mbook5dCQWb_kKB_Bs3YqDIaDbvDdna1pPXiHpFp38NYoH9TzCN-AVxu8-F9AAAA&shmds=v1_AUFQtONOjsKC-YKciDTqFfLsxU3Iebw2A69GLjTUJYw8LI73_g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502787cbf685ebaf24a69/images/de059f296b63ba34c41b46beb4b4975dbb1e5d2df15cc0cc890819a925589081.gif",
+            "extensions": [
+                "21 days ago",
+                "€192K a year",
+                "Work from home",
+                "Internship",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "salary": "€192K a year",
+                "work_from_home": true,
+                "schedule_type": "Internship",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union\n\nWho we are\nWe’re an award-winning development agency at the heart of Vilnius City with clients all around the world. Being a premier development agency we only work for the best, with the best. We specialize in web & mobile development and bespoke UX/UI design. No matter how big or small our client’s organization and budgets are, we’ve got a solution for them. This means you have a chance to work with both small and medium-sized businesses. We also provide outsourcing & outstaffing services to our clients.\nWhat we are looking for\nLooking for a Flutter developer for a full-time job as a contractor in our clients team.\n\nDay to Day\n• Flutter application development\n• Working together with other developers, project manager and UX/UI designer to build smooth & scalable app\n• Learn best software development practises with your colleagues\n• Contribute to quality by identifying spots of improvements\n• Experience with REST API, HTTPS\nYou are someone who has...\n• At least 2 years experience as a Software Developer\n• At least 2 year experience with Flutter SDK and Dart language\n• Rich experience in different screens layouting/supporting\n• Experience in building at least 1 Android and/ or iOS application using Flutter\n• Understanding and experience with state-management patterns: Provider, BLoC / MobX\n• Strong experience with Git / Git Flow\n• Strong communication, problem-solving skills\n• Fluency in English language\n• Experience (as an advantage) with Flutter for Web, Flutter for Desktop/ Flutter Platform Channels; in Android development (Android SDK)/ iOS development (Xcode, iOS SDK); with Agile methodologies (Scrum, Kanban)\nWhy you’ll love working with Scale3C\n• Work with some of the world’s leading and most recognized brands\n• Have the opportunity to work 100% remote from any country around Europe\n• Office in Vilnius city center\n• Cool and vibrant work environmentInterested in the position? We are looking forward to your application, to connect and talk more!\n\nBest regards,\nTalent acquisition team\n\nThis offer from \"Scale3C\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677c07d256373d87f2b9cbc6-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNjYWxlM0MiLCJhZGRyZXNzX2NpdHkiOiJDemVjaGlhIiwiaHRpZG9jaWQiOiJsU0xRZGVndzZaUThGWWRSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "Android vývojáři",
+            "company_name": "adastra.one a.s.",
+            "location": "Czechia",
+            "via": "Volná Místa U Nás",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=RN8MONtUkoZOW-8rAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKPQrCMBQAYFx7BF3eXDARwUUn6SB4ifLyQ5JS80LeoxQP4B0cPYhT8V7q8k1f81g17Tm7SsnBtLwnGpbX55lgC1cywB6rjUAZLkRh9OtTFCl81Jp5VIEFJVll6aYpe0OzHsjwn54jVl9GFN_vD7tZlRzaDTpkqah-GVCxgpShu3sbE34BQ2y_EYkAAAA&shmds=v1_AUFQtONHmAkULNX-vB7Hr96H1HhMt2pSOFuZGIiuw46G3nkPRQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=RN8MONtUkoZOW-8rAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Místo výkonu práce: Jaselská č.p. 275/6, Bubeneč, 160 00 Praha 6\n\nKontakt: Trávníčková Dana, tel.: +420731229399, e-mail: Dana.travnickova@adastra.one\n\nPožadujeme:\nanglický jazyk středně pokročilý\n\nZam. výhody: tarif, služební PC, občerstvení",
+            "apply_options": [
+                {
+                    "title": "Volná Místa U Nás",
+                    "link": "https://volnamistaunas.cz/volne-misto/android-vyvojari/23070300745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIHbDvXZvasOhxZlpIiwiY29tcGFueV9uYW1lIjoiYWRhc3RyYS5vbmUgYS5zLiIsImFkZHJlc3NfY2l0eSI6IkN6ZWNoaWEiLCJodGlkb2NpZCI6IlJOOE1PTnRVa29aT1ctOHJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "search_metadata": {
+        "id": "67850294d25b9f5dbb971181",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1e092fecbe7c2070/67850294d25b9f5dbb971181.json",
+        "created_at": "2025-01-13 12:09:56 UTC",
+        "processed_at": "2025-01-13 12:09:56 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIGR3JlZWNl&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/1e092fecbe7c2070/67850294d25b9f5dbb971181.html",
+        "total_time_taken": 6.58
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Greece",
+        "location_used": "Greece",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQxKsJegQICxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwit-O2X1fKKAxVQQzABHfdZFMUQxKsJegQIIhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Signify Technology",
+            "location": "Athens, Greece",
+            "via": "Signify Technology",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=rDIq1kbkPk8iIYlfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAGYFz7CE43OIhoI4KLTgWh4Kp7SdPfJBLvQi6IfQjfWfyGr_kumnXHU5E40QVvJMkotKOrjKSwxQUSpl7EJyzPodasJ2NUU-u12hpd6-RlhDHKxzxl1H-DBluQk60YDsf9p83sN6tb9BwfM93hAksSP1Nk6moA65b6Ajj8ACqZly-QAAAA&shmds=v1_AUFQtOON1a9Mnb_UsHgCMPZ92ao8zSLW1u5LCdsYqtIb9qhbsg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=rDIq1kbkPk8iIYlfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e21af768714be9cd59fdf88290f53484e8be0fbbf2411d4abe.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Title: Senior Android Developer\n\nJob Type: Full-Time\n\nOur client is looking for a Senior Android Developer with strong expertise in Kotlin, Jetpack Compose, and a deep understanding of modern Android development practices. If you're passionate about crafting clean, scalable, and high-performing mobile applications, thrive in an agile environment, and enjoy collaborating with cross-functional Scrum teams.\n\nKey Responsibilities:\n• Design, develop, and maintain high-quality Android applications using Kotlin and Jetpack Compose.\n• Work closely with product owners, designers, and backend engineers to deliver seamless user experiences.\n• Implement and maintain robust, scalable, and efficient APIs and architectures, following Domain Driven Design principles.\n• Collaborate in a cross-functional Scrum team, taking part in all phases of the software development life cycle.\n• Ensure the application adheres to the best coding practices, SOLID principles, and architectural guidelines.\n• Continuously refactor and improve the codebase for performance, security, and scalability.\n• Stay up-to-date with the latest Android trends and technologies, proposing improvements to ensure the product stays current and competitive.\n\nPlease note to apply for this position you must be based around Athens area and willing to come into the office.\n\nRequired Skills & Experience:\n• 5+ years of experience in Android development, with proven experience in Kotlin and Jetpack Compose.\n• Solid experience in APIs integration and building architectures for scalable mobile applications.\n• Strong understanding of Domain Driven Design (DDD) and other modern architectural patterns.\n• Experience working in Scrum/Agile environments, with an emphasis on collaboration and continuous improvement.\n• Familiarity with automated testing, CI/CD pipelines, and version control (Git).\n• Excellent problem-solving skills and a proactive attitude towards optimizing performance and user experience.",
+            "apply_options": [
+                {
+                    "title": "Signify Technology",
+                    "link": "https://www.signifytechnology.com/jobs/Android-Developer-13141/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/embed/job_app?for=silvare&token=4418519101&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=fb92dc30545f4b1e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/android-developer-ad-0924-at-skroutz-4022009226?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WomenHack",
+                    "link": "https://womenhack.com/job-company/android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/5684199243689211050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-developer-ad-0924-skroutz-sa-5840946?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://jobs.workable.com/view/d62EkojH7PYKJstWHMy71t/android-developer-in-athens-at-itechscope?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNpZ25pZnkgVGVjaG5vbG9neSIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJyRElxMWtia1BrOGlJWWxmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "Android Developer in  Athens",
+            "company_name": "Accenture",
+            "location": "Athens, Greece",
+            "via": "Accenture",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Qi2Bf-PxjUX040zWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXNMQrCQBAFUGxzBG2mFs2KYqNVQAh4ibDZfLKRzcyyM0pu4ZUl2Lz2Vd9NdWl4KDIN9MAHSTIKTUzUWAQrHekpPSl8CZGEqRUZE7b3aJb15pxqqkc1b1Oog8xOGL0s7iW9rnQafUFO3tCdr6elzjzud00IYHsXrNM_OlBbgIAfoGFLT5IAAAA&shmds=v1_AUFQtOMs3XXyY_AOrEl-56_9N5rp3oZJQXcknKMp5UooQzClng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Qi2Bf-PxjUX040zWAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "ARE YOU READY to step up to the New and take your technology expertise to the next level?\n\nThrough unmatched industry experience, leading technologies from our ecosystem partners and startups, and the largest delivery network in the world, we provide a powerful range of capabilities that can be tailored to our client’s most complex business needs. With over 100 innovation hubs deployed around the world, we help clients continuously innovate at speed and at scale so they can outpace their peers. You will bring innovation, intelligence and industry experience together with the newest technologies to help clients innovate at scale and transform their businesses.\n\nTechnology is one of four services–the others are Strategy and Consulting, Interactive and Operations.\n\nWORK YOU’LL DO\n\nAs an Android Developer, you will be responsible for delivering large-scale, complex programs that marry processes with technology to help our clients achieve high performance by leveraging the most current Mobility trends.\n\nResponsibilities:\n• Documenting business requirements and re-engineering business and/or IT processes\n• Performing application design activities (e.g., designing user interface, usability testing)\n• Assisting in conducting gap analysis between business requirements and software\n• Creating functional requirements as an input to application design\n• Assisting with build, test, and deploy activities\n• Proposing ideas for using digital and mobile technologies to address client issues and challenge",
+            "apply_options": [
+                {
+                    "title": "Accenture",
+                    "link": "https://www.accenture.com/gr-en/careers/jobdetails?id=R00004428_en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBpbiAgQXRoZW5zIiwiY29tcGFueV9uYW1lIjoiQWNjZW50dXJlIiwiYWRkcmVzc19jaXR5IjoiQXRoZW5zLCBHcmVlY2UiLCJodGlkb2NpZCI6IlFpMkJmLVB4alVYMDQweldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "Android Developer (AD 0924)",
+            "company_name": "Skroutz S.A",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=LxVPM0QNlLBCmBOUAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CYKwRxVNSrEH9RQoFLz2ASVNl6YasyG7SvEVPlmcwxTfVVGZOGaaR2jwjYESZtiaBspzddrBEW40AKPNzgNFaImmgOurF0l80Zo5qInFyuyUo6emiAMt-k4D_-vZ24wpWMG-qstFpTjtN90j00s-0CkDcwQjHiMfoM2IDn-Mi7TUkwAAAA&shmds=v1_AUFQtONSCPcC0lbjM5DSCKxUw5_tLoebxo02aHfoe875aavM-w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LxVPM0QNlLBCmBOUAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Skroutz, our mission is simple: we aim to amaze. From our humble beginnings back in 2005, we believe that happy customers equal happy merchants and it’s our job to understand and anticipate their needs and offer them an unparalleled, doubt-free experience.\n\nOur vision is clear: we aspire to become the Everyday App, the go-to destination where millions fulfill their online shopping needs. Whether you're looking for a new smartphone, restocking your pantry with essentials, seeking the perfect outfit for an upcoming event, or simply hunting for that collectible gaming console, Skroutz is your trusted partner for seamless shopping experiences.\n\nAnd our ambitions extend far beyond Greece's borders. We're on a trajectory to become one of Europe's fastest-growing Marketplaces, with exciting expansions already underway in Cyprus and the Balkans. Our commitment to customer satisfaction remains paramount, guiding every decision we make.\n\nTo achieve our vision, we seek individuals who share our passion for e-commerce and technology. If you're driven by the desire to create extraordinary shopping moments for our users, as well as help sellers all around the world grow their businesses, then we want you on our team.\n\nJoin us at Skroutz and be part of a journey that's reshaping the way we shop online. Together, let's turn everyday moments into remarkable experiences.\n\nReady for the challenge?\n\n#AimToAmaze\n\nOur engineering values\n• Know your Tech. Develop and master your craft, sharpen your tools. Be proud of your work.\n• Release early & Iterate. Deliver prototypes and start gathering important feedback early on. Use that feedback to guide you. Don't be afraid to compromise, make sure to come back & tidy things up\n• Be a team player. Offer your help, listen and seek to understand. Step up & take initiatives.\n• Don't over anything. Don't over-engineer, over-analyze, over-regulate, you get it\n• Enjoy your work. Celebrate success\n\nTechnologies we use\n\nOur main stack is Ruby for the backend - using the Ruby on Rails framework - with Javascript (ES6) and React/Redux for the frontend. Our main storage is a MariaDB cluster. We heavily use Elasticsearch, Kafka, MongoDB, Redis and Memcached. We use Jenkins for our CI and various tools like Sentry, NewRelic and Grafana for monitoring. Generally we try to pick the best tool we know or we can find that serves our needs. You can read more about what we have worked on our Engineering blog.\n\nHow will you contribute to Skroutz vision\n\nAfter some years of successfully launching and constantly improving our Android and iOS apps, currently used by hundreds of thousands of users, we are now ready to take them to the next level! Our vision is to make Skroutz a mobile-first company where apps will play a central role in revolutionizing the experience of buying online! If having “a billion products at your fingertips” sounds exciting and challenging to you, you may be just the kind of person we’re looking for!\n\nWe are growing our mobile engineering team and are looking for Android Developers with...\n• strong technical background\n• “get-things-done” attitude\n• self-motivation\n• team spirit\n• attention to details\n• thirst for knowledge\n• desire to make an impact\n\nWhat you will be doing\n• Work in an agile team with other mobile developers, API engineers and UI/UX designers to develop and maintain our Android app, building new features and shaping our product\n• Track down and fix performance bottlenecks and bugs, improving the reliability of our Android app\n• Employ A/B testing to measure the performance of different approaches to features and implementations, providing the best UX for our users\n• Review and evaluate code from fellow team members, exchanging comments that make you and the author better engineers\n• At least 2 (two) years of experience as an Android mobile developer\n• Proven track record of building and shipping Android apps in the Google Play Store\n• Deep knowledge of Java and Kotlin\n• Good knowledge of the Android SDK (Components, Lifecycles, Layouts, Fragments, Animations, Drawables)\n• Knowledge of OO design principles, software and Android design patterns\n• Familiarity with modern Android architectures (MVP, MVVM)\n• Expert knowledge of asynchronous programming\n• Experience with developing highly-performant code and the ability to diagnose performance bottlenecks\n• Fluency with web service architectures and technologies: JSON and RESTful APIs\n• Passion for readable, maintainable and performant code\n• Familiarity with common software engineering tools and practices (Git, Unit Testing, CI)\n• Some familiarity with design/UX principles\n• Intrigued by the product as much as by technology\n• Proficiency in Greek: the role involves regular interactions with Greek-speaking stakeholders, and a strong command of the Greek language is essential to ensure effective communication\n\nWe will appreciate it if you have\n• Projects you’ve built/contributed to (e.g. Github account)\n• Optimization of data usage over mobile networks\n• Knowledge of Reactive/Functional programming\n• Knowledge of SQLite\n• Familiarity with agile methodologies and practices\n\nWhat's it like to work at Skroutz?\n• A great opportunity to contribute to the evolution of Skroutz towards becoming one of Europe’s fastest growing Marketplaces\n• Thrive in an environment that champions ambitious goals, empowers autonomy, fosters mentoring, and unlocks exciting opportunities for both personal and business growth\n• Competitive full-time salary\n• Ongoing training and development\n• Access to books, online courses, and relevant resources\n• Top of the Line tools and equipment\n• Private Medical Plan\n• Hybrid Working\n• Free gym membership at Golden Gym in Athens, plus OAKA cross training & running courses, Padel and online yoga\n• For all New Skroutz Fathers we offer 30 working days paternity leave (1,5 months in total)\n• Monthly childcare allowance for all Skroutz Parents\n• Free Skroutz Plus subscription\n\nAs part of our dedication to the diversity of our workforce, Skroutz is committed to Equal Employment Opportunity without regard to race, color, national origin, ethnicity, gender, disability, sexual orientation, or religion.\n\nDisclaimer:\n\nSkroutz collects and processes personal data in accordance with the EU General Data Protection Regulation (GDPR). We are bound to use the information provided within your job application for recruitment purposes only and not to share these with any unauthorized third parties. Please read our Recruitment Privacy Policy here.",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/skroutz/j/7A8EA6DA80?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=be056455fec196e9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Newjobs",
+                    "link": "https://www.newjobs.gr/view/jTcSrsAaMDXPtQo37fspaU/hybrid-android-developer-(ad-0924)-in-athens-at-skroutz-s.a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/-7265140384535546124?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoQUQgMDkyNCkiLCJjb21wYW55X25hbWUiOiJTa3JvdXR6IFMuQSIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJMeFZQTTBRTmxMQkNtQk9VQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "Senior Android Developer (SAD 1224)",
+            "company_name": "Skroutz S.A",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=93o3BkONb_R82PUcAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CYKwRxVNtNRLPQUKBa95QEnTpYnGbMhGKb7E54pzmOq7qlqN0VMGFadMfoIO3xgoYYatVh2c67rZwRFuNAKjydYBReiJ5oDrqyslcSslcxAzF1O8FZaekiKOtMg7jfxvYGcypmAKDvXltIgU5_1GPzK9yge0UOAjqOIw8gH6jGjxBy1XV7ObAAAA&shmds=v1_AUFQtOO1pMnETCFRSU548k0jb0U5j4ZIjzOf9PSjOYSmyLnhXw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=93o3BkONb_R82PUcAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Skroutz, our mission is simple: we aim to amaze. From our humble beginnings back in 2005, we believe that happy customers equal happy merchants and it’s our job to understand and anticipate their needs and offer them an unparalleled, doubt-free experience.\n\nOur vision is clear: we aspire to become the Everyday App, the go-to destination where millions fulfill their online shopping needs. Whether you're looking for a new smartphone, restocking your pantry with essentials, seeking the perfect outfit for an upcoming event, or simply hunting for that collectible gaming console, Skroutz is your trusted partner for seamless shopping experiences.\n\nAnd our ambitions extend far beyond Greece's borders. We're on a trajectory to become one of Europe's fastest-growing Marketplaces, with exciting expansions already underway in Cyprus and the Balkans. Our commitment to customer satisfaction remains paramount, guiding every decision we make.\n\nTo achieve our vision, we seek individuals who share our passion for e-commerce and technology. If you're driven by the desire to create extraordinary shopping moments for our users, as well as help sellers all around the world grow their businesses, then we want you on our team.\n\nJoin us at Skroutz and be part of a journey that's reshaping the way we shop online. Together, let's turn everyday moments into remarkable experiences.\n\nReady for the challenge?\n\n#AimToAmaze\n\nOur engineering values\n• Know your Tech. Develop and master your craft, sharpen your tools. Be proud of your work.\n• Release early & Iterate. Deliver prototypes and start gathering important feedback early on. Use that feedback to guide you. Don't be afraid to compromise, make sure to come back & tidy things up.\n• Be a team player. Offer your help, listen and seek to understand. Step up & take initiatives.\n• Don't over anything. Don't over-engineer, over-analyze, over-regulate, you get it.\n• Enjoy your work. Celebrate success.\n\nTechnologies we use\n\nOur main stack is Ruby for the backend - using the Ruby on Rails framework - with Javascript (ES6) and React/Redux for the frontend. Our main storage is a MariaDB cluster. We heavily use Elasticsearch, Kafka, MongoDB, Redis and Memcached. We use Jenkins for our CI and various tools like Sentry, NewRelic and Grafana for monitoring. Generally we try to pick the best tool we know or we can find that serves our needs. You can read more about what we have worked on our Engineering blog.\n\nHow will you contribute to Skroutz vision\n\nAfter some years of successfully launching and constantly improving our Android and iOS apps, currently used by hundreds of thousands of users, we are now ready to take them to the next level! Our vision is to make Skroutz a mobile-first company where apps will play a central role in revolutionizing the experience of buying online! If having “a billion products at your fingertips” sounds exciting and challenging to you, you may be just the kind of person we’re looking for!\n\nWe are growing our mobile engineering team and are looking for Android Developers with...\n• strong technical background\n• “get-things-done” attitude\n• self-motivation\n• team spirit\n• attention to details\n• thirst for knowledge\n• desire to make an impact\n\nWhat you will be doing\n• Work in an agile team with other mobile developers, API engineers and UI/UX designers to develop and maintain our Android app, building new features and shaping our product\n• Track down and fix performance bottlenecks and bugs, improving the reliability of our Android app\n• Employ A/B testing to measure the performance of different approaches to features and implementations, providing the best UX for our users\n• Review and evaluate code from fellow team members, exchanging comments that make you and the author better engineers\n• At least 5 years of experience as an Android mobile developer\n• Proven track record of building and shipping Android apps in the Google Play Store\n• Deep knowledge of Java and Kotlin\n• Good knowledge of the Android SDK (Components, Lifecycles, Layouts, Fragments, Animations, Drawables)\n• Knowledge of OO design principles, software and Android design patterns\n• Familiarity with modern Android architectures (Clean architecture) and presentation patterns (MVI)\n• Familiarity with Jetpack Compose\n• Expert knowledge of asynchronous programming\n• Experience with developing highly-performant code and the ability to diagnose performance bottlenecks\n• Fluency with web service architectures and technologies: JSON and RESTful APIs\n• Passion for readable, maintainable and performant code\n• Familiarity with common software engineering tools and practices (Git, Unit Testing, CI)\n• Some familiarity with design/UX principles\n• Intrigued by the product as much as by technology\n\nWe will appreciate it if you have\n• Projects you’ve built/contributed to (e.g. Github account)\n• Optimization of data usage over mobile networks\n• Knowledge of Reactive/Functional programming\n• Knowledge of SQLite\n• Familiarity with agile methodologies and practices\n• A great opportunity to contribute to the evolution of Skroutz towards becoming one of Europe’s fastest growing Marketplaces\n• Thrive in an environment that champions ambitious goals, empowers autonomy, fosters mentoring, and unlocks exciting opportunities for both personal and business growth\n• Competitive full-time salary\n• Ongoing training and development\n• Access to books, online courses, and relevant resources\n• Top of the Line tools and equipment\n• Private Medical Plan\n• Hybrid Working\n• Free gym membership at Golden Gym in Athens, plus OAKA cross training & running courses, Padel and online yoga\n• For all New Skroutz Fathers we offer 30 working days paternity leave (1,5 months in total)\n• Monthly childcare allowance for all Skroutz Parents\n• When at the office, we offer free food catering (breakfast & lunch)\n• Free Skroutz Plus subscription\n\nAs part of our dedication to the diversity of our workforce, Skroutz is committed to Equal Employment Opportunity without regard to race, color, national origin, ethnicity, gender, disability, sexual orientation, or religion.\n\nDisclaimer:\n\nSkroutz collects and processes personal data in accordance with the EU General Data Protection Regulation (GDPR). We are bound to use the information provided within your job application for recruitment purposes only and not to share these with any unauthorized third parties. Please read our Recruitment Privacy Policy here.",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/skroutz/j/F263625278?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/670809bdefea0fa3d9581970-senior-android-developer-e-wallet-product-fully-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Newjobs",
+                    "link": "https://www.newjobs.gr/view/sGjCWwL526SzfHJpZAcUnv/senior-android-developer-(e-wallet-product%2C-fully-remote)-in-athens-at-manpowergroup-greece?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKFNBRCAxMjI0KSIsImNvbXBhbnlfbmFtZSI6IlNrcm91dHogUy5BIiwiYWRkcmVzc19jaXR5IjoiQXRoZW5zLCBHcmVlY2UiLCJodGlkb2NpZCI6IjkzbzNCa09OYl9SODJQVWNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Agile Actors",
+            "location": "Chalandri, Greece",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=tTK_v3KeEt4wK6M2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRAAQGzvCVZrJ6KJCDZaBYUDP3FscksSWbMhG-Te4KvVZtoZPqth68rcJM9wpzexVGpwgId4UMIWEkiBUSQyra-p96oXa1XZRO3YczBBXlYKeVnsU7z-mTRho8rYaTqdj4upJe42LmYmcKFLU8gFbgkZf3Xew9iIAn0By2EpF40AAAA&shmds=v1_AUFQtON-rJ_5QvUlH20kW1R1je_8eRhGY_feVm7n84JDlF54TA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=tTK_v3KeEt4wK6M2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e2374b59e0b85ce6b8f9128727ed78c4d31f0d98a2d664480f.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Who we are\n\nA coaching and learning ecosystem for talented and passionate tech professionals where you can find your next career goal in a diverse and multidisciplinary environment. At Agile Actors, you will experience continuous growth and development through coaching, learning, and practice! An innovative self-paced personal development and rewarding model will support your advancement along with the necessary tools, appropriate learning material, and real projects from organizations that are leaders of the industry (both domestic and international), such as RedHat, Swissquote, Austrian Post, etc, cultivate a continuous growth mindset!\n\nBe part of both the customer’s and the Agile Actor’s team, providing high-quality deliverables for the former and contributing to the cultivation of an inclusive and developmental culture in the latter.\n\nWho we are looking for\n\nWe are looking for passionate, multi-talented IT professionals with a strong technology background, as well as a great propensity for creative problem-solving. Joining our local Scrum teams based in Athens, the successful candidate will work closely with international development teams and create mobile and web solutions for challenging projects!\n\nResponsibilities:\n• Design and build applications for the Android platform\n• Lead the change that is needed, inspire, guide, and seek viable solutions\n• Ensure the performance, quality, and responsiveness of applications\n• Identify and correct bottlenecks and fix bugs\n• Implement middleware and frameworks such as SDKs\n• Transform functional requirements into technical user stories and assign business value\n• Write and maintain clean, testable, and high-quality code\n\nRequirements\n• At least 3 years of hands-on experience in development of Mobile Apps (native Android, Kotlin)\n• Experience working with RESTful APIs\n• Solid understanding of the Android SDK and Android frameworks\n• Experience with Agile development methodologies\n• Comfortable with version control systems such as Git, PRs and code reviews\n• Experienced in using Espresso for creating Android UI Tests\n• Experience in integration of REST/GraphQL based backends and push notifications\n• Experience with typical analytics-plattforms (Google Analytics, Google Firebase, similar)\n• Good understanding of design patterns in mobile applications\n• Keen to experiment with new technologies\n\nNice to have:\n• Experience with CI/CD pipelines and automation tools\n• Experience in Azure Devops\n\nBenefits\n\nWhy Join us?\n\nAt Agile Actors, we believe in a people-centered culture where your growth and development take center stage. Here, you’re empowered to work on the most important product—yourself! Collaborate with tech experts, stay ahead with cutting-edge skills that match market needs, and grow continuously in an environment designed to support your success.\n• Personal Development Plan tailored with your coach to align with your career aspirations.\n• Internal Coaching Program empowering your growth, with experienced Coaches supporting both technical and soft skills development.\n• 360° Continuous Feedback Model to keep your skills and performance aligned with your goals.\n• Unlimited Training & Learning resources to cover all aspects of your professional growth.\n• Career Development Pathways offering mentoring, leadership programs, and opportunities to enhance technical and leadership skills.\n• Chapters (Internal Communities) for sharing knowledge, mentoring, and shaping technology’s future.\n• Diverse Customer Ecosystem offering dynamic opportunities for career growth and development.\n• Onboarding Buddy to support and guide you from day one.\n• Tailored Remuneration Package that recognizes your expertise with a competitive salary and benefits.\n• Private Health Care Insurance to ensure your physical well-being.\n• Psychological Support through a professional helpline for you and your family, with 5 free sessions included to promote mental well-being.\n• Flexible Working conditions with fully remote options tailored to your assigned account.\n• Work-Life Balance with a culture that promotes flexibility and sustainability.\n\nBy clicking \"Apply\" for this Job, you agree that you have read and accepted our Data Protection Statement relating to job applicants and that you provide your consent for the processing of your personal data for the purposes described therein.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=d96a66cada73cae3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-developer/2981218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://gr.jooble.org/jdp/-6422759316156351865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFnaWxlIEFjdG9ycyIsImFkZHJlc3NfY2l0eSI6IkNoYWxhbmRyaSwgR3JlZWNlIiwiaHRpZG9jaWQiOiJ0VEtfdjNLZUV0NHdLNk0yQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "Senior Java Android Engineer",
+            "company_name": "Mellon Group of Companies",
+            "location": "Athens, Greece",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=fPwgnq9HxCF6KNbfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMTQrCMBBAYdz2CK5m7U8jihtdFRGh4MoDlGk6JpF0JmSi9DZeVbt5mw9e9V1UhwdxkAwtfhAaHrKEAa7sAhNl2EIrPShhth6E4SbiIi3PvpSkJ2NUY-20YAm2tjIaYeplMi_pdU6nHjOliIW6_XE31Yndan2nGOdXlncCecJFxoQcSCEwNMUT6-avRJZ-DmWh7KIAAAA&shmds=v1_AUFQtOPCbQE1nAJ6HZbCcIvc64or1MrWU5F1uyzjVwYGf_DzJw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fPwgnq9HxCF6KNbfAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Java Android Engineer for financial payment-related applications at Mellon Technologies, a leading provider of specialized technology solutions.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/mellon-group-of-companies/senior-java-android-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/greece/job/full-time/others/senior-java-android-engineer-137615505?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSmF2YSBBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTWVsbG9uIEdyb3VwIG9mIENvbXBhbmllcyIsImFkZHJlc3NfY2l0eSI6IkF0aGVucywgR3JlZWNlIiwiaHRpZG9jaWQiOiJmUHdnbnE5SHhDRjZLTmJmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1IzSmxaV05sIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "FintechIQ",
+            "location": "Marousi, Greece",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=z3wdf1qQ1PVNgq8iAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvCWKxpYgmIthoJYiHgoUvOJLckkRiNuyuch_w3-IU031n3fJUR6Y8whk_WKghwwZu5EHQcUhAFXqiWHB-TKpNDtaKFBNFneZgAr0sVfQ02Sd5-TdIcoytOMVht99OptW4WlxyVQzp-oBc4e6Y3pLX0DNiwB_GkXDUiAAAAA&shmds=v1_AUFQtOPGPbK7RiGb_9lmDmXDjCnQ5w8yNpjr-lxHMrWdFnSTPg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=z3wdf1qQ1PVNgq8iAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e29b9f483e6d5655157b240a4cd63df9d1bf1cfc7c60b44f72.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Company Profile:\n\nFintechIQ is a startup company leading FinTech innovations both in Greece and abroad. Main business activities include: Payment Solutions, VAS value added services for Banks, Merchants and Payment Institutions.\n\nOur core philosophy and Vision is to:\n\n“Bring transformation of FinTech solutions to the NEXT LEVEL!”.\n\nMain business target is to add value to our Local and International clients and create solutions for the future of payment industry.\n\nSo, are you interested in a career LEVEL UP?\n\nJoin US!\n\nRole Description:\n• Design, develop and maintain fintech Android applications for many of the largest financial companies in Europe.\n• Work closely with our professional services teams and with our clients for the design & implementation of new features & services.\n• Work on bug fixing and improving application performance.\n• Keep up with the latest SDK tools and with the latest developments on the Android platform.\n• Participate in code review sessions to ensure that the provided solution meets end -to -end business scenarios and fix any defects and performance problems discovered in testing.\n\nSkills & Core competencies:\n• BS/MS degree in Computer Science, Engineering, or a related field.\n• At least 3 years of work experience with Java and the Android SDK, background in object-oriented programming.\n• Understanding of Android UI concepts and design guidelines.\n• Strong experience of Kotlin or Java.\n• Familiarity with RESTful APIs (JSON) to connect Android applications to back-end services.\n• Experience with version control systems (i.e. Github,,,).\n• Experience in software architect role with integration/functional/UI Automation testing & background in mobile application security. BS/MS degree in Computer Science, Engineering or a related subject. Fintech background and familiarity with EMV principles will be considered a plus.\n• Published applications on Google Play store & Good knowledge of RxJava are a plus.\n• Strong communicator, self-motivated and fast learner.\n• Target driven with high interest in how to explore new ways of doing business and add value to our clients.\n• Team player, solution maker and positive thinker.\n\nWhat we offer:\n\nOur company offers a competitive package and the opportunity to develop in a dynamic and fast-moving hi-tech environment.\n\nSo, our ready to STEP UP?\n\nPlease attach your CV and a short description of you career goals.\n• All applications will be treated as confidential.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/android-developer-at-fintechiq-4077501916?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkZpbnRlY2hJUSIsImFkZHJlc3NfY2l0eSI6Ik1hcm91c2ksIEdyZWVjZSIsImh0aWRvY2lkIjoiejN3ZGYxcVExUFZOZ3E4aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSM0psWldObCJ9"
+        },
+        {
+            "title": "Lead Developer Mobile Apps (iOS / Android) for Digital Health - Consulting",
+            "company_name": "EY",
+            "location": "Athens, Greece",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=12ymBX3yRW5qhVSfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsYoCMRAGYGytraz-Ug9vcwg2XrXosSIeV1hZLdndMYnETMjMiU_m86nNB9_4MRrbA9kBW7pR5EwFv9yFSKhzFszC3xEGdRoKh2GOMxdsgwtqI3Zko3p8YsNJ_qOG5F7ZcwchW3oPTmiYXaTpt1fNsjZGJFZO1Groq56vhhN1fDcX7uRNK94WytEqtcvV173KyX1Mfk4ICbV6SrJAU4h6egJiOnQ3uQAAAA&shmds=v1_AUFQtOO1kgVPuUHEQNFVqOZELMyS8nQFJ2g-UaEhwXIvZsdAhw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=12ymBX3yRW5qhVSfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e24a5af38efd9f021dbf7681b409a9b55636c2912b1c295558.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\nYou will be part of EY’s EMEIA-based Digital Health Excellence Center (DHEC). Our mission is to improve health outcomes and patient experiences. As the DHEC, we bring our expert knowledge and delivery power to industry-leading healthcare providers in collaboration with the local firms.\n\nThe opportunity\n\nAs a senior developer, you will work alongside a team of international experts in technology, business and the healthcare industry. The end-to-end development and implementation of mobile apps is at the core of the DHEC, with you we want to further strengthen our technical expertise.\n\nYour key responsibilities\n\nAs a senior developer, you are responsible for the development and implementation of innovative mobile software solutions for our healthcare clients. In your role, you will collaborate with clinical teams, administrators, and other healthcare professionals to prioritize and address health-specific software needs.\n\nAs technical expert, you work together with the development team in the creation of customer journey and user stories, you coordinate with UI/UX designers, and you collaborate with the software architects to implement functionality that is suitable for specific client needs. Additionally, you will be responsible for near- and off-shore technical teams, vendors, and external partners to ensure our products are consistent and reliable, as well as provide training and support in business development.\n\nSkills and attributes for success\n• Strong written and verbal communication, presentation, client service and technical writing skills for both technical and business audiences.\n• Fluency in English and Proficiency in the local language of your country of residence is required.\n• Knowledge of additional languages will be appreciated.\n• Strong analytical, problem solving and critical thinking skills.\n• Ability to work under tight timelines for multiple project deliveries in parallel.\n• Ability/flexibility to travel.\n\nTo qualify for the role, you must have\n• Bachelor’s degree in informatics, Mathematics, (Software) Engineering or other related field with strong IT focus. Master's or further certification are advantageous.\n• Minimum of 2 years of working experience in a healthcare context and particular focus on implementing custom applications on mobile operating systems.\n• Deep understanding of development in iOS and Android using e.g. Swift, SwiftUI, Kotlin, and Jetpack Compose. Basic understanding of both operating systems is a prerequisite.\n• Expert knowledge of software architecture on all levels, i.e. network, infrastructure, security, persistence, application, and frontend.\n• Proven work experience in driving international development teams and managing different stakeholder groups, e.g. project managers, Scrum masters, product owners, business analysts, developers, and infrastructure and security architects.\n• Deep understanding of programming patterns (e.g. MVC, MVVM), tools, and frameworks for development (e.g. Declarative UI, Angular, Xamarin, React).\n\nIdeally, you’ll also have\n• A reliable network in the healthcare industry and a consulting track record.\n• A good overview of industry technology trends and emerging technologies, understand how they apply to our healthcare clients and can drive their adoption into our projects.\n• A solid understanding of health-specific interoperability formats, e.g. HL7/FHIR, SNOMED, OMOP, openEHR.\n• A good knowledge of system integration in medical system landscapes between software products of various clinical domains, e.g. Electronic Medical Records (EMR), Clinical Information Systems (CIS), Clinical Data Repositories (CDR), Laboratory Information Management Systems (LIMS), communication servers and interoperability platforms.\n\nWhat we look for\n\nWe are looking for an experienced Senior Developer with strong technical skills and a proven track record working in a healthcare context.\n\nWhat working at EY offers\n\nAs part of this role, you'll work in a highly integrated, global team with the opportunity and tools to grow, develop and drive your career forward. Here, you can combine global opportunity with flexible working. The EY benefits package goes above and beyond too, focusing on your physical, emotional, financial and social well-being. Your recruiter can talk to you about the benefits available in your country.\n\nHere’s a snapshot of what we offer:\n• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.\n• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.\n• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.\n• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.\n\nAbout EY\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.\n\nEY | Building a better working world\n\nEY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.\n\nEnabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n\nWorking across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.\n\nDHEC_FY25",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://gr.linkedin.com/jobs/view/lead-developer-mobile-apps-ios-android-for-digital-health-consulting-at-ey-4064854650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERldmVsb3BlciBNb2JpbGUgQXBwcyAoaU9TIC8gQW5kcm9pZCkgZm9yIERpZ2l0YWwgSGVhbHRoIC0gQ29uc3VsdGluZyIsImNvbXBhbnlfbmFtZSI6IkVZIiwiYWRkcmVzc19jaXR5IjoiQXRoZW5zLCBHcmVlY2UiLCJodGlkb2NpZCI6IjEyeW1CWDN5Ulc1cWhWU2ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "3ds Digital Agency",
+            "location": "Thessaloniki, Greece",
+            "via": "3ds.gr",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=vrElW9ikTjH_FB5_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU63CUUTUVx0EgoFwc29JPFITs9cyAWpv-EXi2943XfRra7iiREGfCNLwQobuIgHRVdDAskwikTG5Sm1VvRorSqbqM01CibIy0pGL7N9iNd_kyZXsbBrOO0O29mUHPt-f1cYKFJzDOeIOXyAMtwSqjqWTE9aw1gRA_4ACbn_pJUAAAA&shmds=v1_AUFQtOMXl9blvUHpgUsOk56SjUh0K5ysI_gfRtSmuA7XZMLlYw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=vrElW9ikTjH_FB5_AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e21b93832526f7352e78f070ac284011197ee4a415b5251c2a.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Benefits\n\nExcellent working environment\nCompetitive remuneration package according to professional experience and skills\nContinuous training and opportunities to grow within the role",
+            "apply_options": [
+                {
+                    "title": "3ds.gr",
+                    "link": "https://www.3ds.gr/en/career-opportunities/mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiM2RzIERpZ2l0YWwgQWdlbmN5IiwiYWRkcmVzc19jaXR5IjoiVGhlc3NhbG9uaWtpLCBHcmVlY2UiLCJodGlkb2NpZCI6InZyRWxXOWlrVGpIX0ZCNV9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "Delivery Hero",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=OMQhP_OYQGkfRw5BAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAGYFz7AoLTzYKJCC46CYri6gOUNP1JI-lduQtSX8DnVpdv_JrPonEPcBalE_cquacLp8yA0obu0pEhaBxImK4iqWB1HGqd7OC9WXHJaqg5uiijF0Yns39KZ39aG4JiKqGi3e23s5s4rZdnlPyCvukGFcq_VYGIL_N4p-2JAAAA&shmds=v1_AUFQtONUotILeubWKFWKEyigvWhaXr9CpmGcZKNSzUG37TGyRQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OMQhP_OYQGkfRw5BAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850294d25b9f5dbb971181/images/7a8864030d6f70e2fcc0319c8056ee4b11abf7bd13c8d06802bb3b582c649b5c.jpeg",
+            "extensions": [
+                "28 days ago",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Greece\n\nCompany Description\n\nefood is the #1 delivery service in Greece, working with more than 21.000 stores in 100 cities. We offer our users the opportunity to order anything they desire, wherever they are, giving them the option to pay by cash or card.efood is much more than a great place to work: it is an entire working experience that has its own set of core values: We care, We deliver solutions, We always aim higher. These values shape a single culture across the organization, guiding the behavior of every efooder and contributing to the successful implementation of the company’s mission.\n\nefood is part of the Delivery Hero Group, the world’s leading local delivery platform operating in 70+ countries worldwide\n\nJob Description\n\nWe are in the unique position to experience new and interesting situations that many companies have never seen before. We bake challenges by using agile methodologies, top line tools and of course always working with the best of teams.\n\nThis is a chance to be part of a rapidly growing team in a company that is changing the online delivery landscape, and be able to influence, execute and see the impact of your work at the end of the day.\n\nWe are looking for an experienced and passionate Senior Android Engineer who will provide high quality products that drive our business. We are a team of energetic, motivated and restless tech enthusiasts that take on the challenge of empowering our customers and internal users. We do that by providing them with the necessary intuitive technologies through creating a wide range of software solutions.\n\nIf these sound like you, then challenge yourself by joining our #techteam and make an impact!\n\nWhat you’ll do:\n• Collaboratively define, design, and deliver new features with iOS, Web and backend engineers, UI/UX designers, and product managers.\n• Ensure software robustness with comprehensive unit and integration testing, addressing edge cases, usability, and general reliability.\n• Initiate and drive personal project initiatives from idea to app integration.\n• Lead projects from inception to successful delivery, aligning with business goals and stakeholder expectations.\n• Keep up with the latest Android SDK, tools and conventions.\n\nQualifications\n• University and/ or Postgraduate Degree in Computer Science, Computer Engineering or equivalent.\n• 4+ years of engineering experience with at least 2 years of experience shipping real-world production Android applications.\n• Passion about mobile platforms and solid understanding of the full mobile development life cycle.\n• Excellent knowledge of Kotlin and Java.\n• Experience with one or more of the following architecture design patterns: MVP, MVVM, Clean architecture.\n• Strong knowledge of design principles, patterns, and best practices in application development.\n• Experience in leading medium to large-scale projects.\n• Excellent problem-solving and learning ability.\n• Holistic knowledge and passion for the platform.\n• Proficiency with Jetpack Compose, Room, Kotlin Coroutines, ReactiveX.\n• Superior analytical skills and a strong sense of ownership in your work.\n• Strong communication and collaboration skills.\n\nNice to have:\n• Familiarity with integration/functional/UI Automation testing.\n• Analytic tool experience and data driven culture.\n• Experience in CI tools (Github Actions, Bitrise or similar tools).\n\nAdditional Information\n• If you are happy, we are happy! That’s why we offer an attractive remuneration package for what you bring in!\n• We share a passion for food, so you will certainly appreciate the ticket restaurant card to spend in restaurants and/or food supplies. We are efooders after all!\n• We take care of you with Private Medical & Life Insurance from day #1 to keep you healthy and happy!\n• We prioritize your mental health and offer round-the-clock access to an online mental health platform. You can schedule unlimited therapy sessions with certified psychologists and coaching sessions with experienced coaches.\n• We want you to grow with us! And to help you keep improving, we provide you access to our online training platform where you can study topics for your personal and professional growth!\n• Are you a cappuccino lover ? Do you desperately want a cookie? Our cafeteria got you covered!\n• If you want to stay in shape , our in-house gym awaits you fully equipped!\n• We are passionate about exploring, growing & learning and our Global Mobility plan is created to help our people find their purpose around the world !\n\nLife @efood:\n\nAt efood, no day is the same as the day before!\n\nefooders know that working and having a good time aren't the opposite and that’s why every day at efood is a new adventure!\n\nWe always aim higher and we thrive in finding solutions to push our limits further! We care about our customers, our employees, and our society.\n\nWe seize every opportunity to celebrate achievements and milestones, but we also celebrate small things (like Fridays!)\n\nEvery efooder is part of a fast-growing multinational company, with endless opportunities for professional growth and acquisition of new skills! We have an established, yet super creative and fun working environment, with talented and ambitious people whose ultimate goal is to maintain efood as the ideal workplace!\n\nHungry enough to join us?\n\nefood collects and processes personal data in accordance with applicable data protection laws. If you are a European Job Applicant see the privacy notice for further details.\n\nefood collects and processes personal data in accordance with applicable data protection laws. If you are a European Job Applicant see the privacy notice for further details.\n\nThis offer from \"Delivery Hero\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6760bf458703dfb0ea8fa369-senior-android-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/withplum/j/BC1D81DD11/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://gr.indeed.com/viewjob?jk=1e8ef84305155f30&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Newjobs",
+                    "link": "https://www.newjobs.gr/view/8s1zYddVB5nCDBRbHWPSLv/hybrid-senior-android-engineer-in-athens-at-plum-fintech?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OmniJobs",
+                    "link": "https://omnijobs.io/en/jobs/544125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobily",
+                    "link": "https://jobily.gr/jobs/theseis-ergasia/efood-Senior-Android-Engineer-Neo-Hrakleio-full-time-remote-permanent-Plhroforikh/6564cf66-ad4b-43e5-9e9a-35d2a172acf4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkRlbGl2ZXJ5IEhlcm8iLCJhZGRyZXNzX2NpdHkiOiJHcmVlY2UiLCJodGlkb2NpZCI6Ik9NUWhQX09ZUUdrZlJ3NUJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUjNKbFpXTmwifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSGhXVGpNelpFWjJURVp3Y0ZkV1NUUTJjV1o2YkRSRlRHUlJWRTUxU2xGT09GWmxTbEpLVFc5Q1VIRm1hRGhPV0Voc1lUQlhWVnBHTkhoSVMzRnBRWGMzVW5wV1FYaEhkbUY0ZVRCU2JEWnlOblU0VEdObVZVSnNURkJFY1VOUWEzSTRVa2xLYmw5M0xYaENSbmd5TVZOMFVHUmlNbE53V0ZGc1JXdDNVelZpWTA0M2FYb3hTM050UzBoWlRTMU9NVmxITm1WVlZrdHNNMjFpYkhsSVZsTjJlWGhwYVRaVGVVOTRUM1pmUmxORGRUUllWR3R3YkUxMmRXUkVTakZPUjNoellXOXpObTVKTWpKUlgyUjVSVGhyWlZOM1JHUjVMWGN0VkhSaVFXWkNWbFZHVDA5bFptWmlZM2RRUkhGUVJqZHZUa2cyTjFac2JYSlZlREpuVERkalpVaFpVRkpyVjJGemFEQmFSR3MyUjJsdWRrTlBiV0Y0UlZFU0YyMW5TMFphTmpORVNrNURSM2RpYTFBNU4xQlNjVUYzR2lKQlJsaHlSV054ZFV4cGRqSmlZVmQ1ZEU5ellsRmFiamxYT1VneFFrNVNVV2wzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Greece&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSGhXVGpNelpFWjJURVp3Y0ZkV1NUUTJjV1o2YkRSRlRHUlJWRTUxU2xGT09GWmxTbEpLVFc5Q1VIRm1hRGhPV0Voc1lUQlhWVnBHTkhoSVMzRnBRWGMzVW5wV1FYaEhkbUY0ZVRCU2JEWnlOblU0VEdObVZVSnNURkJFY1VOUWEzSTRVa2xLYmw5M0xYaENSbmd5TVZOMFVHUmlNbE53V0ZGc1JXdDNVelZpWTA0M2FYb3hTM050UzBoWlRTMU9NVmxITm1WVlZrdHNNMjFpYkhsSVZsTjJlWGhwYVRaVGVVOTRUM1pmUmxORGRUUllWR3R3YkUxMmRXUkVTakZPUjNoellXOXpObTVKTWpKUlgyUjVSVGhyWlZOM1JHUjVMWGN0VkhSaVFXWkNWbFZHVDA5bFptWmlZM2RRUkhGUVJqZHZUa2cyTjFac2JYSlZlREpuVERkalpVaFpVRkpyVjJGemFEQmFSR3MyUjJsdWRrTlBiV0Y0UlZFU0YyMW5TMFphTmpORVNrNURSM2RpYTFBNU4xQlNjVUYzR2lKQlJsaHlSV054ZFV4cGRqSmlZVmQ1ZEU5ellsRmFiamxYT1VneFFrNVNVV2wzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

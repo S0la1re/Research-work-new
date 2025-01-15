@@ -1,0 +1,339 @@
+{
+    "search_metadata": {
+        "id": "678508ab5fbf5b1a320418dc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dec3b067976e2ed6/678508ab5fbf5b1a320418dc.json",
+        "created_at": "2025-01-13 12:35:55 UTC",
+        "processed_at": "2025-01-13 12:35:55 UTC",
+        "google_jobs_url": "https://www.google.pl/async/callback:550?q=iOS+developer&uule=w+CAIQICIGUG9sYW5k&udm=8&fc=EswCCowCQUpHOUprT3k3NnotMEJrWnZlVUxBSzlZbjJqbTF2SGlBOEhHeU9lYTE4UFpwWjIyeTNpZFpSbm9RTkozTGZFdW5teWRzR3NDOFRpZlZDbnlEdWZDMXBCbW9xbFY1RjUtMkRhdFQ1UHktMGo1dWtjNFBfd3pjYWRZVURBQnFCeDdvOGVmZVJleFlZVUVHVUVPSnBLcDZRVzFvd2I4ODd3OVUzTVJDM01NOGpZSE92UEFDM3lNVzFtWGpLQ1V2YUR3TG9PdTlaVkZMRGxpSVhnOG44SFhBeWl1cWswNHVjU1VrRHhKMV83YzQ4cEw2MTRwaXJWSnRDV2RkUzFBLXA1SWRIXzdZVmFzTFJ1SBIXcXdpRlo2S0RGZXF1NU5vUHNPcXc2UXcaIkFGWHJFY3A4a00xbnR0b0EyazBkeGJ0LVNGWWNIVTgzZVE&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/dec3b067976e2ed6/678508ab5fbf5b1a320418dc.html",
+        "prettify_html_file": "https://serpapi.com/searches/dec3b067976e2ed6/678508ab5fbf5b1a320418dc.prettify",
+        "total_time_taken": 1.74
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Poland",
+        "location_used": "Poland",
+        "google_domain": "google.pl",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUM2szTm5vdE1FSnJXblpsVlV4QlN6bFpiakpxYlRGMlNHbEJPRWhIZVU5bFlURTRVRnB3V2pJeWVUTnBaRnBTYm05UlRrb3pUR1pGZFc1dGVXUnpSM05ET0ZScFpsWkRibmxFZFdaRE1YQkNiVzl4YkZZMVJqVXRNa1JoZEZRMVVIa3RNR28xZFd0ak5GQmZkM3BqWVdSWlZVUkJRbkZDZURkdk9HVm1aVkpsZUZsWlZVVkhWVVZQU25CTGNEWlJWekZ2ZDJJNE9EZDNPVlV6VFZKRE0wMU5PR3BaU0U5MlVFRkRNM2xOVnpGdFdHcExRMVYyWVVSM1RHOVBkVGxhVmtaTVJHeHBTVmhuT0c0NFNGaEJlV2wxY1dzd05IVmpVMVZyUkhoS01WODNZelE0Y0V3Mk1UUndhWEpXU25SRFYyUmtVekZCTFhBMVNXUklYemRaVm1GelRGSjFTQklYY1hkcFJsbzJTMFJHWlhGMU5VNXZVSE5QY1hjMlVYY2FJa0ZHV0hKRlkzQTRhMDB4Ym5SMGIwRXlhekJrZUdKMExWTkdXV05JVlRnelpWRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Kotlin and Swift Developer",
+            "company_name": "Exadel Inc",
+            "location": "Poland",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=7_54Qi53B8O31QFLAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFw7OzndLNiIIIiuiqiL0A8oaXo2kfMu5A7tT_jP1uWtr_rOql2DnKTATYwSg-cemk96GBzxjSQZC6zgKh0o-hIiCMNZZCBcHKJZ1r1zqlQPat5SqIO8nDB2MrqndPqn1egLZvKG7Wa7HuvMw3J-Gn2PBBcOMLV3oWn-AQskEJeQAAAA&shmds=v1_AUFQtOPEsGomtAfZfke7tQcR1ZDlNX-j92_gA2E8adCqBdxRqw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=7_54Qi53B8O31QFLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab5fbf5b1a320418dc/images/156e36962c05a2eb1abfc42c70e153ac9e8efbd8d6c834d70ae0094674c2f9e5.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for a Senior Kotlin and Swift Developer who will be responsible for developing and maintaining mobile apps on both Android and iOS platforms. You will work closely with developers, designers, and product managers to ensure the app is efficient, reliable, and user-friendly.\n\nWork at Exadel - Who We Are Since 1998, Exadel has been engineering its products and custom software for clients of all sizes. Headquartered in Walnut Creek, California, Exadel has 2,800+ employees in development centers across America, Europe, and Asia. Our people drive Exadel’s success and are at the core of our values.\n\nAbout the CustomerOur client is passionate about making the world more accessible using our state-of-the-art tech, which is made for consumers and enterprises, and working on a life-changing product - the best phone call captioning application. The team treats the application as its own. Transparency is another important factor.\n\nRequirements• Background in mobile app development with Kotlin and Swift\n• Understanding of Android and iOS development ecosystems\n• Experience with state management and testing frameworks\n• Problem-solving skills and attention to detail\n• Passionate about building inclusive, user-focused applications\n• A team player who values transparency, collaboration, and mutual support\n\nNice to HaveFamiliarity with cross-platform development using React Native\n\nEnglish levelFluent\n\nResponsibilities• Develop and maintain mobile applications using Kotlin for Android and Swift for iOS\n• Collaborate with a cross-functional team, including backend developers, to integrate mobile apps with Golang-based microservices\n• Optimize native modules for handling audio and calls, ensuring smooth and efficient communication for users\n• Write clean, maintainable, and testable code, following best practices in mobile development\n• Participate in code reviews, providing constructive feedback and promoting high-quality standards\n• Contribute to the continuous improvement of our development processes and tools\n• Tech stack: Kotlin, Swift, React Native, Golang, Microservices, OpenAPI, Zustand, React Query, React Native Testing Library, Maestro\n\nAdvantages of Working with ExadelTransparent Career Roadmap• Your career growth is in your hands, so each Exadeller decides when to level up and initiate performance assessments\n• The employee has a formal salary review once a year\n\nLearning & Development Opportunities• We believe in nurturing talent and fostering growth. That's why we budget every year for your continuous learning journey. From professional development courses to books and certification, we're invested in your success\n• Polish language lessons with a native speaker are fully covered, and English lessons for $2 gross per lesson are available for Exadel language learners\n• Every specialist gets free access to the Coursera Education platform\n\nWork-Life Balance• Operating from the office or remotely is an employee's choice. Hybrid or remote employees will receive all necessary equipment at their home addresses before their first working day. The office network in Warsaw, Poznan, Gdansk, Szczecin, Bialystok, Krakow, and Lublin, is open daily for those who prefer to work in office\n• The team meets at two annual team-building events across locations; in addition there are team events such as Pizza Days, Programmer’s Day, informal meetups, board game parties, and sports initiatives\n\nEmployee’s Perks & Bonuses• Exadellers have access to Worksmile platforms for Multisport compensation, medical insurance packages in Luxmed or Medicover centers, and online stores and services\n• We understand the importance of balancing work and personal life. Exadellers who take 14 vacation calendar days or more receive a gross extra payment of 1,550 PLN. In case of childbirth, the employee receives a 2,000 PLN bonus, gross\n• The Exadel referral program involves recognition for hired recommended professionals. Depending on the position of the hired recommended candidate, each employee receives a gross monetary bonus from 1,000 PLN to 6,500 PLN",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-kotlin-and-swift-developer-exadel-inc-5816445?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Praca Trabajo.org",
+                    "link": "https://pl.trabajo.org/zawod-3167-d8ab6ae625dc6d1559b254129e309855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pl.linkedin.com/jobs/view/lead-kotlin-developer-with-automotive-exp-at-luxoft-4119720066?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/job-openings/external/lead-kotlin-developer-otakoyi-718371061661652870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/pl-senior-developer-go-kotlin-remote-lumicode-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://test.czyjesteldorado.pl/praca/57671-kotlin-or-java-developer-hsbc-service-delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgS290bGluIGFuZCBTd2lmdCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJFeGFkZWwgSW5jIiwiYWRkcmVzc19jaXR5IjoiUG9sYW5kIiwiaHRpZG9jaWQiOiI3XzU0UWk1M0I4TzMxUUZMQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Remote Senior IOS Developer",
+            "company_name": "PKO BP Finat",
+            "location": "Poland",
+            "via": "Czy Jest Eldorado?",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=0nNbShcjsr5Un_GRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7AQ5ONwsmUnDRTYqiDi32A0pajySS3oXcIf0F_1p8w6u-q6p-4syK0CNFLnBre2jwg4kzFtjBnUcQdGUKwARXZp9wcwqqWY7WiiTjRZ3GyUw8WyYcebFvHuXfIMEVzMkpDvVhv5hMfrvuHi2cO7hEcgqRoOPk6PUDxXIF3YwAAAA&shmds=v1_AUFQtOOsEpmtAUgl-PsqlxO8Ll6N2GpttUul4LIcYAbF3LXpbA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=0nNbShcjsr5Un_GRAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "PKO BP Finat is looking for Remote Senior IOS Developer",
+            "apply_options": [
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://czyjesteldorado.pl/praca/52547-remote-senior-ios-developer-pko-bp-finat?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU2VuaW9yIElPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJQS08gQlAgRmluYXQiLCJhZGRyZXNzX2NpdHkiOiJQb2xhbmQiLCJodGlkb2NpZCI6IjBuTmJTaGNqc3I1VW5fR1JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Senior iOS Developer - Spanish/English - Full Remote",
+            "company_name": "Jobs4java.eu",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMOw7CMBAFRZsDUFBtjYSNEDTQ8pGgAJEDRE5Y2Y6cXcvrRDkPJ8U0bzRTvOq7qB41kucE_lnDGScMHDHBBupoyIvTF7KhsJTrGAK8ceCMxe7cgqBJnQMmuDHbgKuTyznKUWuRoKxkk32nOh40E7Y8655b-U8jziSMwWRsdoftrCLZ9bJcyr43k1E4gid4cTD0-QH4wRs5pQAAAA&shmds=v1_AUFQtOPDLECz9xGHx1yYWrXnW5zW6yKxD3qIf8llGdPA_SOKSA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DYKdnTjoUx5yb209AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab5fbf5b1a320418dc/images/156e36962c05a2eb5984b969e57f35b327a56fceb73a481514bd9c9a54aeb8f0.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "This a Full Remote job, the offer is available from: Europe\n\nThis is a remote position.\n\nWe are urgently looking for a Full Remote Senior iOS Developers based in Spain. Candidates need to have a good level of English or willing to improve/learn.\n\nThis position is only open for employees, who would like to work remote. Candidates need to be willing to go to the office in Murcia for 5 days on a quarterly base.\n\nTasks and Responsibilities:\n\n​\n• Design and develop software solutions to client requirements;\n• Participate in identifying problem areas and defining solutions;\n• Able to articulate problems and solutions in non-technical language to stakeholders;\n• Understand interactions and dependencies between software components;\n• Support the product engineering lead(s) in project set up, execution and key ceremonies including backlog refinement, sprint planning, demos and retrospectives;\n• Support learning and development activities for junior product engineering resources;\n\nProfile:\n• College / university degree, Bacc. Ing. Comp (or similar);\n• +2 years of iOS mobile development experience (Swift, Objective-C, ...);\n• +5 years of software development experience;\n• Strong understanding of Apple’s design principles & interface guidelines;\n• Candidates need to have a good level of English and/or willing to improve/learn;\n\nOffered:\n• Attractive salary package (employees);\n• Career development training;\n• English classes;\n\nInterested: Please send your resume to\nresume@jobs4java.eu\n\nThis offer from \"Jobs4java.eu\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65ef62f6f235ccdf79169158-senior-ios-developer---spanish-english---full-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFNwYW5pc2gvRW5nbGlzaCAtIEZ1bGwgUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiSm9iczRqYXZhLmV1IiwiYWRkcmVzc19jaXR5IjoiUG9sYW5kIiwiaHRpZG9jaWQiOiJEWUtkblRqb1V4NXliMjA5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Senior iOS developer with Flutter",
+            "company_name": "peoplemorepl",
+            "location": "Kraków, Poland",
+            "via": "Jooble",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=7PZNTIvqrSqJ1VPmAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJQQrCMBBAUdz2CG6ctWgjgiC6V9CFQg9Q0nZoUqeZkBltj-I9PIIX024-PH72nmX7AoPnBP5WQIMvJI6YYPDq4ERP1T_WcOEKBG2qHXCAM3NLOD861SgHY0Qob0Wt-jqvuTccsOLRdFzJlFKcTRjJKpbb3WbMY2iXi4gcCXueDvgA12Qf38-wgjuTDc0PLuOCc5sAAAA&shmds=v1_AUFQtOPAIiKXg69PvmX-QDZG6bSik5sWb0FDm4X9ONLYl_yAwQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=7PZNTIvqrSqJ1VPmAAAAAA%3D%3D",
+            "extensions": [
+                "25 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hello,\nWe are called People More because we treat our employees with respect, but also because the projects we work on are for people and should be easy and pleasant to use. We are technological, but we look at the bigger picture :)\nPeople More has been in existence for over three years and is an offshoot of one of the country's oldest interactive agencies - Insignia. The company is made up of people with a huge client base in the country and abroad, for whom we build projects from scratch (UX, UI, frontend, backend, mobile) or in part. We work directly for our clients and also support our partners in their own solutions. This ensures a wide range of projects and the ability to change! We work with clients all over the world.\nFor the project that we are working on with our foreign partner, we are looking for Senior iOS developer with Flutter.\n\nYour duties will include:\n• You will work remotely in a mixed team of People More specialists and client people.\n• You will work in an international environment, in Polish and English\n• The main tasks you will be involved in are: developing and implementation high quality mobile application, collaborate with designers and developers to implement technical requirements\n• As part of our team, you will be working in one of the most exciting and key areas of technology, with endless opportunities for growth and development\n• You will be a very important part of the team creating high performance websites for a wide range of audiences!\n\nRequirements that must be met:\n• Strong experience with iOS minimum 6 years\n• Experience with Flutter\n• Knowledge of Swift and Objective-see\n• Very good English and Polish\n• German is a plus\n\nWhat we offer:\n• We are open and honest and we solve problems instead of generating them.\n• Maybe it’s obvious, but we really respect our employees and associates. We used to be software developers, too, and we appreciate that job!\n• A small team\n• An international working environment and international projects\n• Private medical care\n• Sports card\n• Training courses\n• Work that is 100% remote (unless you prefer another system)\n\nWe have an office in Krakow, but if you like to work remotely, that’s absolutely fine. Over the next few months, we plan to continue working this way. After that, you decide according to what you prefer. We are OK with fully remote work. For us, you can be located anywhere. :)\n\nIf you are not sure if you meet the requirements, apply—we’ll talk and give you an honest answer.\n\nWhy it’s a good idea to work with People More?\n• If you are not satisfied with your work or your tasks, we’ll find a way out together!\n• If you get bored, we will offer you a new product and new, fascinating tasks\n• We will work on your brand together: you will get an opportunity to attend conferences, including as a speaker, and we will help you publish in recognized magazines and online\n• We will facilitate your access to challenges that are usually difficult to get\n• At any time, you can talk directly to the board of People More—we talk your language because the company’s founders are software developers and designers!\n• What does the recruitment process look like?\n• A friendly remote initial interview\n• A remote technical talk\n• The decision to work together!\nSalary\n\nup to 150 PLN/h\ncontract\n\nB2B\nLocation\n\nKraków / remote",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/-4534174912091879777?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/Mamo/3bcf17f6-e4b2-44dc-8bd2-611fcad63cfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Global Ventures",
+                    "link": "https://jobs.global.vc/companies/mamo/jobs/42648484-senior-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Appricotsoft.freshteam.com",
+                    "link": "https://appricotsoft.freshteam.com/jobs/urDVA_pHT4xB/senior-umbraco-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "No Fluff Jobs.",
+                    "link": "https://nofluffjobs.com/pl/job/ios-android-app-developer-senior-lasoft-krakow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The:Protocol",
+                    "link": "https://theprotocol.it/praca/senior-flutter-developer-krakow,oferta,24e00000-9405-c28e-6bd2-08dd214a47c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HitPraca.pl",
+                    "link": "https://www.hitpraca.pl/oferta/senior-flutter-developer-plnv83ee1d4328ba63f/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/pl/job-openings/senior-flutter-developer-irc145942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIGRldmVsb3BlciB3aXRoIEZsdXR0ZXIiLCJjb21wYW55X25hbWUiOiJwZW9wbGVtb3JlcGwiLCJhZGRyZXNzX2NpdHkiOiJLcmFrw7N3LCBQb2xhbmQiLCJodGlkb2NpZCI6IjdQWk5USXZxclNxSjFWUG1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "IOS Developer",
+            "company_name": "Ogłoszenie partnerskie",
+            "location": "Gniezno, Poland",
+            "via": "GoWork.pl",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=Ggz70MN8UnQt1q7hAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQoCMRAAsb0nWG1hdWgigo22gmhzgg84cnFJonE3ZIMcV_oBX-W_jM0wTDHNZ9YsTt0VDvjCyAkzrODMAwiabD0wwZHZRZzvfSlJdlqLROWkmBKssvzUTDjwqO88yB-9eJMxRVOw32zXo0rk2rZz3zfLhBQQksmFMMujeqj_2ibiJVw4Grr9AF_ojlKSAAAA&shmds=v1_AUFQtOM44SHH8etZVXWKCDgApWbw9ksgqZZyunZLmRAY7lfbVg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Ggz70MN8UnQt1q7hAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Poszukujemy rzetelnych i pracowitych osób na stanowisko IOS Developer, które chcą dołączyć do zespołu, gdzie liczy się zaangażowanie, współpraca i solidne wykonanie powierzonych zadań. Jeśli szukasz stabilnej pracy, cenisz sobie dobre warunki zatrudnienia i możliwość zdobycia doświadczenia w dynamicznym środowisku, ta oferta jest dla Ciebie!.\n\nTwoje obowiązki:\n• Rozwój aplikacji mobilnej dla systemu iOS w technologii natywnej,\n• Rozwój nowych funkcji oraz aktualizacji,\n• Współpraca z UX/UI Designerem,\n• Współpraca z zespołem software housu wspierającego rozwój produktu.\n\n.\n\nWymagamy od Ciebie:\n• Przynajmniej 2 lata doświadczenia w budowaniu aplikacji mobilnych dla systemu iOS,\n• Znajomość Objective-C and Swift, Cocoa Touch, iOS SDK, iTunes Connect,\n• Znajomość automatyzacji procesów,\n• Dobra znajomość w zakresie Code Signing\n• Znajomość różnych architektur i umiejętność wyboru odpowiednich dla projektu,\n• Doświadczenie w używaniu API do integrowania aplikacji mobilnych z systemami po stronie serwera,\n• Znajomość zasad projektowania iOS UI/UX, wzorców i praktyk,\n• Umiejętności pisania czystego, przejrzystego kodu,\n• Znajomość rynku aplikacji mobilnych, architektur, trendów i rozwijających się technologii",
+            "apply_options": [
+                {
+                    "title": "GoWork.pl",
+                    "link": "https://www.gowork.pl/oferta/ios-developer,3QjPzAnw7i13LGkdbsLXLd,gniezno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiT2fFgm9zemVuaWUgcGFydG5lcnNraWUiLCJhZGRyZXNzX2NpdHkiOiJHbmllem5vLCBQb2xhbmQiLCJodGlkb2NpZCI6IkdnejcwTU44VW5RdDFxN2hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "makeitright",
+            "location": "Gdańsk, Poland",
+            "via": "Indeed",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=F4wrGxcVuI0k4L0PAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CQ5yg5NoIoKLroLgouAHlEt7JLFpLuQO6a6_5n-pyxtf85o1y3i9w4melLhQhQ1c2IEQ1i4AZzgz-0TzY1AtcrBWJBkviho70_FoOZPjyT7YyZ9WAlYqCZXa3X47mZL9ajHiQFFr9EEh_s4eP28Z1nDjhLn_AvcCPKSGAAAA&shmds=v1_AUFQtOPh1o-3u32EPS5mzWy1UeYiZWrTaNhLPs-MB5spVk0P1w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=F4wrGxcVuI0k4L0PAAAAAA%3D%3D",
+            "extensions": [
+                "PLN 1,040 a day",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "PLN 1,040 a day",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Makeitright to zespół specjalistów IT, którzy pracują nad zautomatyzowanymi rozwiązaniami informatycznymi dla firm w Polsce i na świecie. W ofercie znajdują się dedykowane rozwiązania z zakresu robotyzacji i automatyzacji ze szczególnym uwzględnieniem usług dla sektora bankowego i ubezpieczeniowego. Specjalizujemy się w obszarze team extension – tworzymy i dostarczamy zespoły specjalistów dostosowane do wymagań projektowych. Świadczymy również usługi konsultingowe w obszarze wdrażania nowych technologii. Naszym celem jest dostarczanie firmom wysokiej jakości rozwiązań, dzięki którym zyskują przewagę konkurencyjną.\n\nLokalizacja: Wrocław / Warszawa/ Poznań / Gdańsk / Zdalnie\n\nRodzaj umowy: preferowany kontrakt B2B\n\nWynagrodzenie: 1 040 – 1 280 PLN/MD\n\nStanowisko jest dla Ciebie idealne, jeśli:\n• Posiadasz min. 3 lata doświadczenia komercyjnego w tworzeniu oprogramowania dla systemu iOS\n• Posiadasz bardzo dobrą znajomość języka Swift, iOS SDK, UIKit\n• Masz doświadczenie w pracy z systemem kontroli wersji Git\n\nZakres obowiązków\n• Rozwój dotychczasowych aplikacji dla platformy iOS\n• Projektowanie, tworzenie i testowanie oprogramowania w języku Swift\n• Aktywna współpraca z innymi członkami zespołu\n\nCo możemy Ci zaoferować?\n• Możliwość pracy zdalnej lub w modelu hybrydowym\n• Pracę z wykorzystaniem nowych technologii\n• Udział w ciekawych projektach dla polskich i międzynarodowych klientów\n• Przyjazne i komfortowe środowisko pracy\n• Prywatną opiekę medyczną\n• Ubezpieczenie na życie\n• Kartę Multisport oraz dofinansowanie zajęć sportowych\n• Dostęp do platformy z nauką języka angielskiego i niemieckiego\n• Szybki i sprawny proces rekrutacyjny",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=86d48e06b663d8a3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://pl.jobrapido.com/jobpreview/84955810?redirectTo=https%253A%252F%252Fpl.talent.com%252Fredirect%253Fid%253D930e6775c8ae%2526oapply%253Dorg_v2024-08%2526source%253Djobrapido_bulk%2526utm_source%253Dpartner%2526pos%253D37989%2526utm_medium%253Djobrapido_bulk%2526puid%253D3de7gddd3deggadb3deagdd9gdd9fddb3aed3de8gadf3aeb3ee33deg3ee33beb3bed3cec3ee3gddf3de93deegddd3dea3dec3de83def3decgddb9ed3%2526cg%253Dtalent%2526pbc_id%253D632b2499e81ad&w=H&l=gda%C5%84sk&p=17&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoibWFrZWl0cmlnaHQiLCJhZGRyZXNzX2NpdHkiOiJHZGHFhHNrLCBQb2xhbmQiLCJodGlkb2NpZCI6IkY0d3JHeGNWdUkwazRMMFBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Junior iOS Developer",
+            "company_name": "Ailleron",
+            "location": "Rzeszów, Poland",
+            "via": "Jobrapido.com",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=25nvkaoJ00t_-e93AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMOwoCMRAAUGz3CGIxtZ9EBBu3EgRhG0UPsCRx2ETGTMhEXfYE3scjeDG1eeWrXqNq1txj4AzhcIYdPpA4YYYFNGxB0GTngSPsmTvCce1LSbLRWoRUJ8WU4JTjm-aIlnt9ZSt_WvEmYyJTsF2tl71KsZtOtoEI828LEU4DyvB5P-dwZDLx8gWOsq1biwAAAA&shmds=v1_AUFQtOPBZbuyIjdKqYrIiCvxI8EpFOvps0jtEUpYDfb4vAKN7Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=25nvkaoJ00t_-e93AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab5fbf5b1a320418dc/images/156e36962c05a2ebe0be1040bd944c515a23729a5442a38790701de9dddd75bd.gif",
+            "extensions": [
+                "18 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Wymagane, iOS, Swift, Xcode, REST API, Git, Snap Kit\nMile widziane, GitHub, BitBucket, Gitlab\nSystem operacyjny, Windows, macOS\nO projekcie, 🚀 Aplikacja mobilna dla klientów indywidualnych banku.\nTwój zakres obowiązków, uczestnictwo w projektowaniu aplikacji w oparciu o najnowsze technologie, implementowanie nowych funkcjonalności w produkcie i rozwijanie istniejących, proponowanie usprawnień w istniejących produktach\ndobra znajomość iOS SDK, biegłość w użyciu języka Swift oraz Xcode, obycie z konfiguracją projektu (Targets, Schemes, Configurations, Code Signing), znajomość architektur MVP, MVVM, Clean Swift oraz wzorców projektowych, praktyczna znajomość zagadnień Unit/UI Testów, umiejętność pisania czystego, testowalnego, skalowalnego kodu, doświadczenie w integracjach z REST API, dobra znajomość GIT oraz GIT Flow, znajomość popularnych zewnętrznych frameworków, wysoka dbałość o szczegóły, iOS: Swift 4, 5+, Snap Kit, iOS 11.3+\nMile widziane, wiedza z zakresu bezpieczeństwa aplikacji mobilnych, doświadczenie w pisaniu aplikacji wielomodułowych, zrealizowane projekty dostępne na GitHubie/BitBuckecie/Gitlabie, obycie z CI/CD i najnowszymi trendami wśród społeczności iOS, doświadczenie w konfigurowaniu środowisk CI/CD (Fastlane)\nTak pracujemy, wewnątrz organizacji, masz wpływ na produkt, koncentrujesz się na rozwoju produktu, koncentrujesz się na utrzymaniu kodu\nTak pracujemy nad projektem, Continuous Deployment, Continuous Integration, testy jednostkowe\nTakie dajemy możliwości rozwoju, branżowe platformy e-learningowe, budżet rozwojowy, czas na rozwój Twoich pomysłów, szkolenia wewnątrzfirmowe, szkolenia zewnętrzne, treningi umiejętności miękkich, wsparcie merytoryczne od liderów technologicznych, wsparcie w przygotowaniu do bycia prelegentem\nTo oferujemy, możliwość pracy zdalnej, prywatną opiekę medyczną z pakietem stomatologii, rehabilitacji i usługą wspacia psychologicznego, ubezpieczenie na życie, kartę Multisport, zajęcia z języka angielskiego/ niemieckiego, szkolenia zewnętrzne i wewnętrzne, 80 h na samorozwój, programy wellbeingowe i inicjatywy integracyjne\nBenefity, dofinansowanie zajęć sportowych, prywatna opieka medyczna, dofinansowanie nauki języków, ubezpieczenie na życie, możliwość pracy zdalnej, owoce, spotkania integracyjne, firmowa biblioteka, brak dress code’u, gry wideo w pracy, kawa / herbata, parking dla pracowników, inicjatywy dobroczynne, pikniki rodzinne\nAilleron, Ailleron to firma, która tworzy produkty własne oraz nowoczesne oprogramowanie dla liderów z branży bankowej oraz hotelarskiej. Tworzymy produkty dla współczesnej bankowości zawierające najnowocześniejsze rozwiązania, takie jak AI, SaaS czy wielokanałową komunikację. Dzięki wiedzy i doświadczeniu naszych specjalistów stworzyliśmy produkty, które napędzają takich światowych gigantów jak mBank, Citi Bank, Standard Chartered i Santander. Nasze sukcesy osiągamy dzięki nowoczesnym technologiom (AI, ML, Cloud i inne) oraz wykorzystaniu Scruma połączonego z zarządzaniem 3.0. Zatrudniamy prawie 400 osób - programistów, testerów i wspierających ich ekspertów., , Sprawdź nasze oferty pracy i dołącz do nich!\nTak się u nas pracuje,",
+            "apply_options": [
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://pl.jobrapido.com/jobpreview/6163345234458574848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFpbGxlcm9uIiwiYWRkcmVzc19jaXR5IjoiUnplc3rDs3csIFBvbGFuZCIsImh0aWRvY2lkIjoiMjVudmthb0owMHRfLWU5M0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        },
+        {
+            "title": "Junior iOS Engineer",
+            "company_name": "Backbase",
+            "location": "Kraków, Poland",
+            "via": "Jooble",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=BIlHSYwNdw6XNOmBAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CXrZc9FEBC96E0SoBwUfUDZxSdPG3ZKN2Bf4IZ_gx8Q5TPWeVXXz5CgZ4uUGRw6RiTKsoBEHSph9B8JwEgmJ5vuulFF31qomE7Rgid54eVhhcjLZXpz-a7XDTGPCQu1mu57MyKFeHNAPDpUgMpwzDt_PawlXScj3H1nV7jyJAAAA&shmds=v1_AUFQtOPdU2xpAFgJpaM97YKUqFx3jP5B1pci3aFoqgnUUzVmWg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=BIlHSYwNdw6XNOmBAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As a Junior iOS Engineer, you will contribute to development of our digital banking platform with focus on mobile deliverables. You will be part of a cross-functional mobile team responsible for assigned functionalities for both Android and iOS applications.\n\nWhat you'll do\n\nWith guidance from more senior team members, you will develop and enhance platform components like SDKs and libraries in line with functional and nonfunctional requirements. You will participate and conduct peer reviews of the code. You will get involved in broader mobile initiatives allowing you to grow to the next level.\n\nWho you are\n\nYou’re a driven iOS Engineer with a strong passion for building top-tier mobile products. You thrive in dynamic environments and enjoy translating complex business challenges into elegant technical solutions. You also understand the value of collaboration and soliciting opinions and approaches.\n• You have hands-on coding experience (1-2 years) with SwiftYou have hands-on experience with clean architecture patterns such as MVVMYou understand the SDLC process and its application with continuous integration tools like Bitrise; experience in GitHub Actions is a plus\n• You have an engineering mindset, placing high importance on clean code, proper documentation, and modern software practices.\n• You have a proactive approach allowing you to be self-providing and quick learning, in order to mitigate impediments\n• You are already based in Kraków\n• You are ready to come to the office twice per week",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/-7401510885479804724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pl.linkedin.com/jobs/view/junior-ios-engineer-at-backbase-4115950178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/junior-ios-engineer-backbase-5947369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "FinTech Australia",
+                    "link": "https://jobs.fintechaustralia.org.au/companies/backbase-2/jobs/41680519-junior-ios-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Praca Trabajo.org",
+                    "link": "https://pl.trabajo.org/zawod-2405-7b1fd515ca9dd8713b94661ef28f395a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgaU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQmFja2Jhc2UiLCJhZGRyZXNzX2NpdHkiOiJLcmFrw7N3LCBQb2xhbmQiLCJodGlkb2NpZCI6IkJJbEhTWXdOZHc2WE5PbUJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Senior Mobile Test Automation focus on iOS Application Testing",
+            "company_name": "Sigma Software",
+            "location": "Rzeszów, Poland",
+            "via": "Adzuna.pl",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=X-m5quQoL3FpJpLAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yWLsQrCMBRFce0nOD0cRVsRXHTqJAiiGJ1LEl_TSJoX-lJa-lsu7v6YLS6XA-fc5DNLHgK9pQbOpKxDuCNHyNtItYyWPJSkW4YR7EVAHoKz-i-m0HoDaziRAkbZ6GrqjkTG4fxQxRh4n2XMLjUcx5NONdUZeVTUZy9SPE3BlWwwOBmx2O42fRq8WS6ENbUEQWXsRgvWw21AHr7vbgVXctI_f7fcF7S7AAAA&shmds=v1_AUFQtOOMl2iKfKM33dz7bP3iye5M-c3dwP_WwnnPKWKdDPYJfw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=X-m5quQoL3FpJpLAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508ab5fbf5b1a320418dc/images/156e36962c05a2ebc2018d433e7723c67c438b745af623db84d04a50b33eb39a.gif",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an experienced Mobile Test Automation Engineer with a strong background in testing iOS applications. In this role, you will collaborate closely with a team of mobile engineers to test mobile SDKs, integrated with mobile UI testing frameworks, with a primary focus on iOS platforms.\n\nThe Mobile Division’s mission is to develop cutting-edge tools and SDKs that enable developers to identify accessibility (a11y) issues during the development process. These tools are designed to help deliver more inclusive and accessible mobile applications, setting new standards for accessibility in the mobile industry.\n\nCustomer\n\nOur Customer is the rapidly growing technology leader in digital accessibility software, helping enterprises make their web and mobile offerings accessible to everyone. Its AI-enabled products save developer time and reduce risk via proprietary discovery and analysis algorithms that integrate directly into software development pipelines.\n\nRequirements\n• A minimum of 3 years of experience in mobile application testing\n• Proven experience in automation testing for mobile platforms, with a primary focus on iOS\n• Proficient in at least one of the following programming languages: Swift or Objective-C\n• Hands-on experience with mobile automation frameworks such as XCTest, EarlGrey, or Appium\n• Familiarity with mobile operating systems and their debugging tools (Xcode for iOS, ADB for Android)\n• Experience with Git and CI tools such as GitHub Actions, CircleCI\n• At least an Upper-Intermediate level of English\n\nWould be a plus:\n• Experience working with Kotlin or Java\n• Hands-on experience with device farms such as SauceLabs, BrowserStack, or AWS Device Farm\n\nPersonal Profile\n• Strong analytical and algorithmic thinking, with a proven ability to identify root causes and suggest effective solutions\n• Excellent attention to detail\n• A mindset focused on continuous improvement and workflow optimization for both personal and team processes\n\nResponsibilities\n• Design, develop, and execute test plans, test cases, and test scripts based on product requirements\n• Develop, maintain, and enhance test automation frameworks for mobile SDKs testing, with a strong focus on iOS and some for Android\n• Create, execute, and manage automated test suites using tools like XCTest, EarlGrey, and Appium\n• Execute manual and automated functional, regression, compatibility, and performance testing\n• Manage testing environments across physical and virtual devices, integrating with device farms\n• Integrate automated tests with CI/CD pipelines for continuous delivery\n• Provide clear and regular status reports on testing progress and results\n• Collaborate closely with developers and product owners to ensure thorough understanding of business requirements\n• Promote and implement best practices in mobile test automation, accessibility testing, and SDK validation",
+            "apply_options": [
+                {
+                    "title": "Adzuna.pl",
+                    "link": "https://www.adzuna.pl/details/5005944320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIFRlc3QgQXV0b21hdGlvbiBmb2N1cyBvbiBpT1MgQXBwbGljYXRpb24gVGVzdGluZyIsImNvbXBhbnlfbmFtZSI6IlNpZ21hIFNvZnR3YXJlIiwiYWRkcmVzc19jaXR5IjoiUnplc3rDs3csIFBvbGFuZCIsImh0aWRvY2lkIjoiWC1tNXF1UW9MM0ZwSnBMQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        },
+        {
+            "title": "iOS Developer Tech Lead",
+            "company_name": "Infinity Group",
+            "location": "Poland",
+            "via": "Czy Jest Eldorado?",
+            "share_link": "https://www.google.pl/search?ibp=htl;jobs&q=iOS+developer&htidocid=SmATSXdtJ1JAadGOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7BeJ0s2AigouuQlEEBd3LJT2bSLwLuSj1C_xtdXnDaz6TxsTTBXb0oiSZClzJBzgS9rCAgzhQwvIbYWhFhkSzbag168Za1WQGrVijN14eVpicjPYuTv90GrBQTlipW62Xo8k8zKd7vkWO9Q1tkWeGyHCWhNx_AZy-lqWKAAAA&shmds=v1_AUFQtOP6eqdFvXi8BPsNj9Luj8BKcKQnQR6PdGBXWyMfHtsrrw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=SmATSXdtJ1JAadGOAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Infinity Group is looking for iOS Developer Tech Lead",
+            "apply_options": [
+                {
+                    "title": "Czy Jest Eldorado?",
+                    "link": "https://test.czyjesteldorado.pl/praca/74430-ios-developer-tech-lead-infinity-group?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFRlY2ggTGVhZCIsImNvbXBhbnlfbmFtZSI6IkluZmluaXR5IEdyb3VwIiwiYWRkcmVzc19jaXR5IjoiUG9sYW5kIiwiaHRpZG9jaWQiOiJTbUFUU1hkdEoxSkFhZEdPQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMDh6YjB4UVRqWnFURU5wUTI1aGJtaHNlR0Y2UWxKMFNFWnBPVGM0VlZCNFlYbFZMVjgxTlZsT1NteEtZa2xGZDBSSVZ6TlBSVlk1WkRSd2EzZHRhV1p3TWxobVltZFpNemx5ZUZKTVNHZHpYMjlFTUhOVmVWbFlTVGROV1d4SFZGVTVkbk5PYTJ4MVdIZDFlRFJhWTJjMk5IVktUMlpITFdZdGVHZGhjVlJVTldnd1ZsQkZjWGhLTm5OTmRqaHdPVEZOU0ZWQ2MwRmFRamw1Y20xS2VGODBjMVYwVGw5TGRVOVRYMEkzY2xSU2RrOVJWSGx3U1V0TU5sazFhbkZRVW1FMlpGWmpVMk5SU1hkeGFIcHVVa3hhT0RkdlJsZE5lWFYxWlVKc2EzTktiVTU2Y25RNWFraDVWV2RHTURSVFgwaE5SMEl0Y2xJMmNTMXNhMHBXT0ZoelkwUlJhUklYY2tGcFJsb3RlWEpPTkhGWmQySnJVRGhqVDB3NFFVa2FJa0ZHV0hKRlkzQm9VV1J1ZWpoZlkwSnVURmt5V2pkM1FuSkdTblpmVW5SSFRHYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pl&location=Poland&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMDh6YjB4UVRqWnFURU5wUTI1aGJtaHNlR0Y2UWxKMFNFWnBPVGM0VlZCNFlYbFZMVjgxTlZsT1NteEtZa2xGZDBSSVZ6TlBSVlk1WkRSd2EzZHRhV1p3TWxobVltZFpNemx5ZUZKTVNHZHpYMjlFTUhOVmVWbFlTVGROV1d4SFZGVTVkbk5PYTJ4MVdIZDFlRFJhWTJjMk5IVktUMlpITFdZdGVHZGhjVlJVTldnd1ZsQkZjWGhLTm5OTmRqaHdPVEZOU0ZWQ2MwRmFRamw1Y20xS2VGODBjMVYwVGw5TGRVOVRYMEkzY2xSU2RrOVJWSGx3U1V0TU5sazFhbkZRVW1FMlpGWmpVMk5SU1hkeGFIcHVVa3hhT0RkdlJsZE5lWFYxWlVKc2EzTktiVTU2Y25RNWFraDVWV2RHTURSVFgwaE5SMEl0Y2xJMmNTMXNhMHBXT0ZoelkwUlJhUklYY2tGcFJsb3RlWEpPTkhGWmQySnJVRGhqVDB3NFFVa2FJa0ZHV0hKRlkzQm9VV1J1ZWpoZlkwSnVURmt5V2pkM1FuSkdTblpmVW5SSFRHYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

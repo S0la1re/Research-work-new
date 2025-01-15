@@ -1,0 +1,327 @@
+{
+    "search_metadata": {
+        "id": "67850a60224d22c0333354f8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5d2b1660214fbfc4/67850a60224d22c0333354f8.json",
+        "created_at": "2025-01-13 12:43:12 UTC",
+        "processed_at": "2025-01-13 12:43:12 UTC",
+        "google_jobs_url": "https://www.google.it/async/callback:550?q=Android+developer&uule=w+CAIQICIFSXRhbHk&udm=8&fc=EuECCqICQUpHOUprT01vSTVYN0JIX1hwQmlCMHM1NFIxNjBmWnVIREh2OUpuejhSQVdZcE5LTUVFMWt4RDk3RnlMT0VBaTJ4NGFYV0syWnJqTlcySjlnMWJXbnM4UkdPTUo1cmF0VGJZRVhNTndmSEVHWmYycnR1Nlo3dzY2TjhuOUU0SnBDeVVjRXlfbnNSVExTUDZyelp5aGhGaFFhQWk1TG9LZHBHU09YVEQtWWdqN1BybVc4dWJPUVIwc0wycUpVbkIxak9LZDdXTXlxNVlsS0dFcm5kbkV6WnQ3WjNaM05URkhBeTlGUjNhU3Nhc1Q0Y2lNWGNyVVNaNVdJUllCVUNsTDlGSjd6UXhWZ29FclVVeVNrNkQzRGVYOEdZaURwcnYwR1ESFlh3cUZaN3JXTS1qYjVOb1B5SkhJRUEaIkFGWHJFY3FXbEh6Ym1BRTRadW1Tb0pucjZOa3VfQ2c1OHc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/5d2b1660214fbfc4/67850a60224d22c0333354f8.html",
+        "prettify_html_file": "https://serpapi.com/searches/5d2b1660214fbfc4/67850a60224d22c0333354f8.prettify",
+        "total_time_taken": 0.68
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Italy",
+        "location_used": "Italy",
+        "google_domain": "google.it",
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUMDF2U1RWWU4wSklYMWh3UW1sQ01ITTFORkl4TmpCbVduVklSRWgyT1VwdWVqaFNRVmRaY0U1TFRVVkZNV3Q0UkRrM1JubE1UMFZCYVRKNE5HRllWMHN5V25KcVRsY3lTamxuTVdKWGJuTTRVa2RQVFVvMWNtRjBWR0paUlZoTlRuZG1TRVZIV21ZeWNuUjFObG8zZHpZMlRqaHVPVVUwU25CRGVWVmpSWGxmYm5OU1ZFeFRVRFp5ZWxwNWFHaEdhRkZoUVdrMVRHOUxaSEJIVTA5WVZFUXRXV2RxTjFCeWJWYzRkV0pQVVZJd2Mwd3ljVXBWYmtJeGFrOUxaRGRYVFhseE5WbHNTMGRGY201a2JrVjZXblEzV2pOYU0wNVVSa2hCZVRsR1VqTmhVM05oYzFRMFkybE5XR055VlZOYU5WZEpVbGxDVlVOc1REbEdTamQ2VVhoV1oyOUZjbFZWZVZOck5rUXpSR1ZZT0VkWmFVUndjbll3UjFFU0ZsaDNjVVphTjNKWFRTMXFZalZPYjFCNVNraEpSVUVhSWtGR1dISkZZM0ZYYkVoNlltMUJSVFJhZFcxVGIwcHVjalpPYTNWZlEyYzFPSGMiLCJmY3YiOiIzIn0="
+    },
+    "jobs_results": [
+        {
+            "title": "Developer Android Senior",
+            "company_name": "Log.it Srl",
+            "location": "Taranto, Provincia di Taranto, Italy",
+            "via": "Jooble",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=2zk6bsJevrlGRQ2fAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XIsQrCMBAAUFz7CU43iyZScNFJEERxEOperunRnsS7kByl_o5fKk4ub3jVZ1H5E00UNVGGo_RZuYeGhDXDBq7aQSHMYQQVOKsOkZaH0SyVvfelRDcUQ-Pggr68CnU6-6d25UdbRsyUIhq19W47uyTDqr7p4NigyRFY4IEZxXQN96wTS2CEnv97MYzvLwp_ZyilAAAA&shmds=v1_AUFQtOMxTMiS3bCwmDaFUzlr8Mq-usbMxKK5bW3Wd1uG1K1l0A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=2zk6bsJevrlGRQ2fAAAAAA%3D%3D",
+            "extensions": [
+                "27 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "La LOG.IT s.r.l., società specializzata nell’integrazione dei dati e nello sviluppo di piattaforme tecnologiche, in grado di processare e rendere intellegibili i processi aziendali, seleziona Developer Android per importante cliente.\n\nIl candidato ideale dovrà avere almeno 5 anni di esperienza lavorativa nel ruolo, preferibilmente in contesti strutturati.\n\nRequisiti tecnici INDISPENSABILI: Kotlin Java Jetpack Libraries (ViewModel, LiveData, Navigation, Room, DataStore) Dependency Injection (Hilt, Dagger) Architetture: MVVM, Clean Architecture, MVI Material Design Guidelines Compose (UI dichiarativa) Retrofit / Ok REST/GraphQL API Room, SQLite, DataStore WorkManager (lavori in background) Coroutines & Flow (asincrono) Unit Testing (JUnit, Mockito) UI Testing (Espresso) Gradle (build system avanzato) CI/CD Tools (GitHub Actions, Bitrise, Jenkins) Git & Version Control\nSede di lavoro: Remoto (tuttavia il candidato deve essere disponibile a presentarsi presso il cliente quando è richiesto su Roma o Maranello)\n\nCosa proponiamo: L’inquadramento contrattuale, la retribuzione ed eventuali Benefits saranno equiparati all’effettiva esperienza maturata e al budget stanziato sul progetto I nostri progetti verranno svolti in smart working o on site Inserimento in un contesto giovane, dinamico e in forte espansione Cultura aziendale fondata su fiducia e serietà Possibilità di crescita professionale e formativa\nSi richiedono CV preferibilmente in formato Word da sottoporre all’attenzione del cliente\nI dati saranno trattati e conservati esclusivamente per finalità di selezioni presenti e future ai sensi del Dec. Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://it.jooble.org/jdp/6571228226747645801?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgQW5kcm9pZCBTZW5pb3IiLCJjb21wYW55X25hbWUiOiJMb2cuaXQgU3JsIiwiYWRkcmVzc19jaXR5IjoiVGFyYW50bywgUHJvdmluY2lhIGRpIFRhcmFudG8sIEl0YWx5IiwiaHRpZG9jaWQiOiIyems2YnNKZXZybEdSUTJmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlNYUmhiSGsifQ=="
+        },
+        {
+            "title": "KOTLIN/ANDROID DEVELOPER (Sesto S. Giovanni/Ibrido)",
+            "company_name": "Omicron Srl",
+            "location": "Milan, Metropolitan City of Milan, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=gykKdbsS1LrVAUlQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXMwQqCQBCAYbr6CJ3mWFFuBBHUKVJCKw2NrrLaphPbjuwOoa_Xk1WHLv_lg997D7z4kF6OUSK2SZClUQBBeA2P6TnMYJQrxwS5D3uklzQGRVRavNEYZhBTCU5JWzVABvZEtVbDTcPcurUQzmm_diwZK7-ipyCjSurEg0r3S-EaaVWrJatisZx3fmvqySp9YmW_s9xqQAMn1NJM4aTYUksaWRrYIfdA979FLHX_AZwNqO7FAAAA&shmds=v1_AUFQtONczOv8ux3w6pYH4_JZqlyqudw1ORGDKdWgmGSEWnA2XQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gykKdbsS1LrVAUlQAAAAAA%3D%3D",
+            "extensions": [
+                "26 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Omicron S.r.l., società in forte espansione nell’area della consulenza informatica e nella realizzazione d’importanti progetti ad alto contenuto tecnologico, ricerca:\n\nKOTLIN/ANDROID DEVELOPER (Sesto S. Giovanni/Ibrido)\n• Kotlin\n• ANDROID SDK\n• Java /Java API FOR RESTFUL WEB SERVICES (JAX-RS),\n• Pattern MVVM, MVP\n• Metodologia Clean code Api Rest\n• Room Android Navigation USB\n• GIT\n• JIRA\n• ATLASSIAN/ BAMBOO\n\nIl candidato supporterà nelle attività in qualità di Architect & Android Developer Senior in ambito Energy & Utilities.\n\nNello specifico, la risorsa si occuperà prevalentemente di attività di sviluppo Kotlin, Java, RxJava ed è necessaria la conoscenza dei principali pattern (MVVM, MVP), della metodologia Clean code Api Rest Room Android Navigation Integrazione con Android di periferiche Bluetooth, BLE e USB Git, Bamboo, Jira per le principali funzionalità di smartmeters e concentratori Gridspertise interpretazione e creazione comandi DH e conoscenza del protocollo DLMS/Cosem Gurux library.\n\n- Non sono previste trasferte\n\n- Non è prevista reperibilità fuori orario\n\nSi offre:\n• Contratto a tempo determinato di 12 mesi con possibilità di rinnovo.\n• Retribuzione fissa commisurata alle effettive competenze maturate.\n\nSede di lavoro: Sesto S. Giovanni/Ibrido (in sede 2 volte a settimana)\n\nL’offerta si intende rivolta a candidati ambosessi, nel rispetto del D.Lgs. n. 198/2006 e ss.mm.ii. e dei Decreti Legislativi n. 215 e n. 216 del 2003 sulle parità di trattamento. I candidati sono invitati a leggere l’informativa privacy ai sensi degli artt. 13 e 14 del Reg. EU 679/2016\n\nContratto di lavoro: Tempo pieno\n\nDisponibilità:\n• Dal lunedì al venerdì",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=1b2325bd50b989c2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Reteinformaticalavoro",
+                    "link": "https://reteinformaticalavoro.it/lavoro/51534/kotlinandroid-developer-sesto-s-giovanniibrido-milano?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://it.jooble.org/jdp/-4690512092822137184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/afdGMXg9UTCOTmXjnpQUjK2skY6lvO5IGH43c6seUfJe3SnfOHdOSw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/kotlin-android-developer-sesto-s-giovanni-ibrido-at-omicron-srl-4104814628?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://www.sercanto.it/detail/a/kotlin-android-developer-sesto-s-giovanni-ibrido_milano_150762349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobtome",
+                    "link": "https://it.jobtome.com/offertalavoro/kotlinandroid-developer-sesto-s-giovanniibrido/2e5c1ec6da7e5b907ad9cd62c807728e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJLT1RMSU4vQU5EUk9JRCBERVZFTE9QRVIgKFNlc3RvIFMuIEdpb3Zhbm5pL0licmlkbykiLCJjb21wYW55X25hbWUiOiJPbWljcm9uIFNybCIsImFkZHJlc3NfY2l0eSI6Ik1pbGFuLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBNaWxhbiwgSXRhbHkiLCJodGlkb2NpZCI6Imd5a0tkYnNTMUxyVkFVbFFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Buscojobs",
+            "location": "Ne, Metropolitan City of Genoa, Italy",
+            "via": "Trabajo. Org",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=0_tvPFzhgJuDjwbJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKTQrCMBAGUNz2CK5mKVIbKbjRlT9QFPQKJW3HNhLzhcwo7Vm8rHTzVi_7LbLVMXQJrqMLf9kjcqIN3dCQsE3tQAhUAb3n5WFQjbI3RsQXvahV1xYt3gaBG4zmhUZmahls4uitcl3utmMRQ78uTx9pMRdygR6c0501IcI7tYHOTifCkyoOsDld1frpD4gOuuqeAAAA&shmds=v1_AUFQtOO5T2Ixiiua7ynDO6BZNL3f9DX1ndoWQrl3O4qApjuMdQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=0_tvPFzhgJuDjwbJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a60224d22c0333354f8/images/13743db2ea55717b847651a5a0e093dfcf9b27f372961426ad6f75f1cd674c74.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Istruzione: Laurea specialistica / Vecchio ordinamento\nMichael Page, leader europeo e mondiale nella ricerca e selezione di personale specializzato, vanta un know-how d'eccellenza nell'ambito del \"top e middle management\".\nPer il team di sviluppo cerchiamo un brillante Android Developer con esperienza di 3-5 anni in programmazione Android.\nDettagli sul cliente: Tech Solutions Company che supporta aziende internazionali dei settori Finance e Fashion&Luxury nel realizzare la loro visione e raggiungere i loro obiettivi di business attraverso l'ideazione e lo sviluppo di soluzioni tecnologiche innovative. Offrono servizi che spaziano dal Software Development & Management al Cloud Engineering fino al Design UX/UI.\nL'azienda è nata 20 anni fa e, oggi, conta un team dinamico di oltre 120 professionisti appassionati, alimentati da creatività, curiosità e una comune attitudine ad affrontare sempre nuove sfide. La sede di lavoro è: Vicenza (headquarter) o Milano (con disponibilità a trasferte occasionali a Vicenza presso il nostro headquarter).\nDescrizione: Android Developer con almeno 3-5 anni di esperienza nel ruolo, con abilità di problem solving e capacità di lavorare in team eterogenei e per clienti internazionali.\nProfilo del Candidato: Ottima opportunità di carriera. Un'attenzione particolare è riservata alla crescita professionale (corsi, certificazioni e workshop interni) e personale (smart working e flessibilità, sostenibilità ambientale e sociale).\n\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-2812-44ab822b2cc87570179f56297c4929c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkJ1c2Nvam9icyIsImFkZHJlc3NfY2l0eSI6Ik5lLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBHZW5vYSwgSXRhbHkiLCJodGlkb2NpZCI6IjBfdHZQRnpoZ0p1RGp3YkpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Developer Android Senior",
+            "company_name": "Log.it Srl",
+            "location": "Brescia, Province of Brescia, Italy",
+            "via": "Jooble",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=fsH-UDd1B0G4zGVpAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XIsQrCMBAAUFz7CU43iyYquOhUEURxEPoBJU3P9CTmwl0o9XP8U3FyecOrPrPKnnDEyBkF6tQLUw8NJmKBFVy5A0UnfgBOcGYOEeeHoZSse2tVowlaXCFvPL8sJ-x4sk_u9EergxPM0RVst7v1ZHIKi82Ng6ECjUSgBEdB9eSWcBceKXkEfvzzUlx8fwFpM1kJpAAAAA&shmds=v1_AUFQtOOlBCj7IxbyXSN2uD2nHAMp979_ahdtuvz0FLbz1Bg7Yg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fsH-UDd1B0G4zGVpAAAAAA%3D%3D",
+            "extensions": [
+                "27 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "La LOG.IT s.r.l., società specializzata nell’integrazione dei dati e nello sviluppo di piattaforme tecnologiche, in grado di processare e rendere intellegibili i processi aziendali, seleziona Developer Android per importante cliente.\n\nIl candidato ideale dovrà avere almeno 5 anni di esperienza lavorativa nel ruolo, preferibilmente in contesti strutturati.\n\nRequisiti tecnici INDISPENSABILI: Kotlin Java Jetpack Libraries (ViewModel, LiveData, Navigation, Room, DataStore) Dependency Injection (Hilt, Dagger) Architetture: MVVM, Clean Architecture, MVI Material Design Guidelines Compose (UI dichiarativa) Retrofit / Ok REST/GraphQL API Room, SQLite, DataStore WorkManager (lavori in background) Coroutines & Flow (asincrono) Unit Testing (JUnit, Mockito) UI Testing (Espresso) Gradle (build system avanzato) CI/CD Tools (GitHub Actions, Bitrise, Jenkins) Git & Version Control\nSede di lavoro: Remoto (tuttavia il candidato deve essere disponibile a presentarsi presso il cliente quando è richiesto su Roma o Maranello)\n\nCosa proponiamo: L’inquadramento contrattuale, la retribuzione ed eventuali Benefits saranno equiparati all’effettiva esperienza maturata e al budget stanziato sul progetto I nostri progetti verranno svolti in smart working o on site Inserimento in un contesto giovane, dinamico e in forte espansione Cultura aziendale fondata su fiducia e serietà Possibilità di crescita professionale e formativa\nSi richiedono CV preferibilmente in formato Word da sottoporre all’attenzione del cliente\nI dati saranno trattati e conservati esclusivamente per finalità di selezioni presenti e future ai sensi del Dec. Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://it.jooble.org/jdp/2802780410163305865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgQW5kcm9pZCBTZW5pb3IiLCJjb21wYW55X25hbWUiOiJMb2cuaXQgU3JsIiwiYWRkcmVzc19jaXR5IjoiQnJlc2NpYSwgUHJvdmluY2Ugb2YgQnJlc2NpYSwgSXRhbHkiLCJodGlkb2NpZCI6ImZzSC1VRGQxQjBHNHpHVnBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Sviluppatore Android-IOS in React-Native",
+            "company_name": "Selefor - Agenzia Per il Lavoro",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=Ssifzzz4X98RwGDbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOQQrCMBAA8doneNqjCG1E8KIH6UkqomIfULZxTSMxG5K1VF_kM20vcxqGyX6zbF_31r1DQOFIUPp7ZHvPq0sN1sONUEt-RrE9QQ5HbiERRt0BezgwG0fzXScS0laplFxhkoyyLjS_FHtqeVBPbtOEJnUYKTgUatab1VAEb5aLmhw9OI7x0pD_WoQrRbAOTthz5GmiEnSfP79f8HmrAAAA&shmds=v1_AUFQtONmuuX9uDLCHgKli5vXkwMxmVErmNzEa-Zm0iTfqRvLzg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Ssifzzz4X98RwGDbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a60224d22c0333354f8/images/13743db2ea55717ba3afe348880c6ac11477287bc6b3883ab4ab9eeaa942f259.gif",
+            "extensions": [
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Italy\n\nSelefor, agenzia per il lavoro, è alla ricerca di un/una Sviluppatore Android-iOS in React-Native per un'importante azienda cliente specializzata nel settore IT.\nDescrizione del Ruolo\n\nLa risorsa selezionata si occuperà dello sviluppo di applicazioni mobile per piattaforme Android e iOS utilizzando il framework React-Native. Il/La sviluppatore/trice lavorerà a stretto contatto con il team di progettazione e sviluppo per creare soluzioni innovative e user-friendly, curando ogni fase del ciclo di vita dell'applicazione.\nCompiti e Responsabilità\n• Collaborare con designers e product managers per comprendere e trasformare i requisiti in soluzioni funzionali.\n• Progettare, sviluppare e mantenere applicazioni mobile in React-Native.\n• Effettuare test rigorosi e debugging per garantire performance e qualità ottimali.\n• Aggiornare e ottimizzare le applicazioni esistenti secondo le novità tecnologiche e le richieste degli utenti.\n• Contribuire al miglioramento continuo dei processi e delle metodologie di sviluppo.\n\nRequisiti Fondamentali\n• Esperienza comprovata nello sviluppo di applicazioni mobile con React-Native.\n• Conoscenza approfondita delle tecnologie mobile (Android e iOS) e dei relativi tool di sviluppo.\n• Esperienza con linguaggi di programmazione JavaScript/ JavaSever Faces.\n• Ottima conoscenza di Java.\n• Ottima conoscenza React JS.\n• Conoscenza tecnologie REST.\n• Buona conoscenza di PostgreSql.\n• Buona conoscenza di Maven, JasperReport.\n• Conoscenza delle tecnologie Hibernate e JPA.\n• Ottimo livello di Inglese.\n• Capacità di lavorare in team e ottime doti comunicative.\n• Propensione alla risoluzione dei problemi e attenzione ai dettagli.\n\nInformazioni Aggiuntive per i Candidati Sviluppatori\n• Sede di Lavoro: smartworking con presenze saltuari su Roma Est.\n• Tipo di Contratto: Da definire in base all'esperienza del/la candidato/a.\n• Programmi di formazione continua e opportunità di crescita professionale.\n\nIl presente annuncio è rivolto a persone di entrambi i sessi, ai sensi delle leggi 903/77 e 125/91, e a persone di tutte le età e nazionalità, ai sensi dei decreti legislativi 215/03 e 216/03.\n\nThis offer from \"Selefor - Agenzia Per il Lavoro\" has been enriched by Jobgether.com and got a 74% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/672a489f361340dcce9d2bc9-sviluppatore-android-ios-in-react-native?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-2812-7df3e83dfef35d19a80fd3a2ff420929?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Findjob24h.com",
+                    "link": "https://it.findjob24h.com/fr/sviluppatore-job154058?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdmlsdXBwYXRvcmUgQW5kcm9pZC1JT1MgaW4gUmVhY3QtTmF0aXZlIiwiY29tcGFueV9uYW1lIjoiU2VsZWZvciAtIEFnZW56aWEgUGVyIGlsIExhdm9ybyIsImFkZHJlc3NfY2l0eSI6Ikl0YWx5IiwiaHRpZG9jaWQiOiJTc2lmenp6NFg5OFJ3R0RiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlNYUmhiSGsifQ=="
+        },
+        {
+            "title": "Android And Ios Developers",
+            "company_name": "Mvc-Technology",
+            "location": "Italy",
+            "via": "BeBee",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=NIy1ar41oAUpsDHeAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXFsQrCMBQFUFz7A4LTm4UmKrjoJAhSwc29JOkjqcTckBdK-wn-tbqc03xWzf6ShoJxoN_UQejKE0dkLkIt3WFJ2BQXCIlugI-8OYdas5y0FonKSzV1dMrhrZHYYtYvWPnTSzCFczSV-8NxN6uc_Hb9mFz7ZBcSIvxCY6Kumrh8Aa7VjnWMAAAA&shmds=v1_AUFQtOMqJHvIa0YnnM1bhjB6CptbXdh8yz7w5jFb3icG6Mxr4A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=NIy1ar41oAUpsDHeAAAAAA%3D%3D",
+            "extensions": [
+                "9 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Requirements:\n\">\n\nWe are seeking an expert in Android application development to join our team in Rome.\n\">\n\nAbout the Role:\n\">\n\nThe ideal candidate will have a strong background in IT and be proficient in developing applications for the Android platform.\n\">\n\nWhat We Offer:\n\">\n\nWe provide a dynamic and meritocratic work environment, with opportunities for professional growth and skill development. Our salary conditions and classification are competitive and designed to satisfy the most qualified candidates.\n\">\n\nEstimated Salary Range:\n\">\n\n$60,000 - $100,000 per year",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://it.bebee.com/job/8b20cbf518e7fdc0c2e2b01a09ed9ded?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-2812-774a26492ead6f3da7da85f7bf4fa5ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEFuZCBJb3MgRGV2ZWxvcGVycyIsImNvbXBhbnlfbmFtZSI6Ik12Yy1UZWNobm9sb2d5IiwiYWRkcmVzc19jaXR5IjoiSXRhbHkiLCJodGlkb2NpZCI6Ik5JeTFhcjQxb0FVcHNESGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Developer Android Senior",
+            "company_name": "Log.it Srl",
+            "location": "Grosseto, Province of Grosseto, Italy",
+            "via": "Jooble",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=kkdVh0WbB7s9rr1KAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_03MMQoCMRBGYWz3CFZTiyai2GglCKJYCHsAyWbH3UjMH2bCsp7Hi6qdzSu-4lXvSWUPPHBEZqF9agWhpZpTgNCCzmhI2YnvCYmOQBd5uutLybq1VjWaTosrwRuPp0XiBqN9oNFfbto74Rxd4dtqsxxNTt1sfUFnQqFaIoXvUqDKBXO6CoaQPBPuf3oqLr4--wasFKYAAAA&shmds=v1_AUFQtOPMu2v_wjElh0CYpt3zw58E7ymm2eW7c75GUOEE9Rcgkw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=kkdVh0WbB7s9rr1KAAAAAA%3D%3D",
+            "extensions": [
+                "27 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "La LOG.IT s.r.l., società specializzata nell’integrazione dei dati e nello sviluppo di piattaforme tecnologiche, in grado di processare e rendere intellegibili i processi aziendali, seleziona Developer Android per importante cliente.\n\nIl candidato ideale dovrà avere almeno 5 anni di esperienza lavorativa nel ruolo, preferibilmente in contesti strutturati.\n\nRequisiti tecnici INDISPENSABILI: Kotlin Java Jetpack Libraries (ViewModel, LiveData, Navigation, Room, DataStore) Dependency Injection (Hilt, Dagger) Architetture: MVVM, Clean Architecture, MVI Material Design Guidelines Compose (UI dichiarativa) Retrofit / Ok REST/GraphQL API Room, SQLite, DataStore WorkManager (lavori in background) Coroutines & Flow (asincrono) Unit Testing (JUnit, Mockito) UI Testing (Espresso) Gradle (build system avanzato) CI/CD Tools (GitHub Actions, Bitrise, Jenkins) Git & Version Control\nSede di lavoro: Remoto (tuttavia il candidato deve essere disponibile a presentarsi presso il cliente quando è richiesto su Roma o Maranello)\n\nCosa proponiamo: L’inquadramento contrattuale, la retribuzione ed eventuali Benefits saranno equiparati all’effettiva esperienza maturata e al budget stanziato sul progetto I nostri progetti verranno svolti in smart working o on site Inserimento in un contesto giovane, dinamico e in forte espansione Cultura aziendale fondata su fiducia e serietà Possibilità di crescita professionale e formativa\nSi richiedono CV preferibilmente in formato Word da sottoporre all’attenzione del cliente\nI dati saranno trattati e conservati esclusivamente per finalità di selezioni presenti e future ai sensi del Dec. Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.Leg. 30/06/2003, n. 196 e art. 13 GDPR 679/16.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://it.jooble.org/jdp/4984887376595345794?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgQW5kcm9pZCBTZW5pb3IiLCJjb21wYW55X25hbWUiOiJMb2cuaXQgU3JsIiwiYWRkcmVzc19jaXR5IjoiR3Jvc3NldG8sIFByb3ZpbmNlIG9mIEdyb3NzZXRvLCBJdGFseSIsImh0aWRvY2lkIjoia2tkVmgwV2JCN3M5cnIxS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Wiman",
+            "location": "Bologna, Metropolitan City of Bologna, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=T0QhUQYl1VQuWlACAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XJsQrCQAwAUFz7CU7ZBNGeCF10UhFRcHYs1zZeI9fkuGRoP8Z_VSeXt7ziPSsWB-6yUAdnDsSIGdZwkwYUfW57EIaLSIg43_dmSXfOqcYyqHmjtmxlcMLYyOhe0uiPWnufMUVvWG-rzVgmDsvqQYNnIIajRAnsV3BHy5Ikkn3jRDaBPP97NR-nD3IXHZugAAAA&shmds=v1_AUFQtOO82h_XA0ZS3H2FihScYHiLWozNlAljMNB3vcnnEZl_NQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T0QhUQYl1VQuWlACAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Location\n\nBologna, Italy\n\nAbout the Role\n\nThe Wiman Android team is a group of engineers and designers dedicated to building the best products for the Android platform. As an Android Engineer at Wiman, you will work to build user interfaces, Wi-Fi, network and storage components.\n\nResponsibilities\n• Own the entire implementation process from design to release.\n• Work effectively both on crafting an optimal user experience and architecting scalable and reliable systems.\n• Identify and solve compatibility issues between the wide range of Android versions and devices.\n\nRequirements and Skills\n• 2+ years experience in Android application development\n• Deep understanding of the Android internal frameworks\n• Expert level on Java and Android application development\n• Deep knowledge of Google and Facebook APIs\n• Self-motivated and passionate about new technologies, tools, and platforms\n• Very high attention to details\n• Fluent in English",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=882548016f17280d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://it.bebee.com/job/8abf74552ef22781e9a756ee5f8ea754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/AckVbbz7hapzH7YVRTBXw0MjO8ykB4zkvCjav4z85WmDyMMAgoOvEA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-864-94b034bd188cd8e8f3039a8934ec3f50?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://it.talent.com/view?id=9ed05c62db4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiV2ltYW4iLCJhZGRyZXNzX2NpdHkiOiJCb2xvZ25hLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBCb2xvZ25hLCBJdGFseSIsImh0aWRvY2lkIjoiVDBRaFVRWWwxVlF1V2xBQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Software Developer Embedded Android",
+            "company_name": "CUSTOM",
+            "location": "Fontevivo Province of Parma, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=XFxNdD6ot1ejCp7lAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNvQrCMBAAYFz7CE43S21EcNFJ_ENBLFTnkibXNpLmQnLE-kS-prp865d9Jtm6opZfMiDsMaEljwEOQ4Nao4at04GMhjlcqIGIMqgeyMGJqLM43fTMPq6FiNEWXWTJRhWKBkEOGxrFk5r4p479L_BWMtbL1WIsvOtm-e5R3W9XMA6O5BiTSQRloGScQqAWShkGmcOZpX1_AZ4IF-iqAAAA&shmds=v1_AUFQtONJthtCwBi3sAz8mwkUxSqiZQmF-j6DDGVIkoTRwRuVlQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=XFxNdD6ot1ejCp7lAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Fontevivo (PR)\n\nDESCRIZIONE\n\nIl/La candidato/a si occuperà delle seguenti attività:\n• Analisi e utilizzo di SDK forniti dai produttori di chip (es. Qualcomm, MediaTek, Rockchip)\n• Creazione di immagini personalizzate di sistemi operativi Android, partendo dagli SDK forniti dai produttori di chip, che migreranno su schede hardware sviluppate internamente o esternamente all’azienda\n• Creazione, configurazione e ottimizzazione di immagini Android personalizzate per diverse piattaforme hardware.\n• Integrazione e personalizzazione dei driver, framework e altre componenti software.\n• Collaborazione con i team hardware per garantire la compatibilità tra software e piattaforma.\n• Eseguire debugging, test e ottimizzazioni per assicurare performance elevate e stabilità del sistema.\n\nL'offerta si intende rivolta a candidati ambosessi, nel rispetto del D.lgs n. 198/2006 e dei Decreti legislativi n.215 e n.216 del 2003 sulle parità di trattamento.\n\nNel gruppo Custom ci impegniamo ad abbattere ogni barriera e pregiudizio ed a fornire un ambiente di lavoro inclusivo nel quale la diversità viene valorizzata e rispettata. Tutti i candidati saranno valutati in modo equo e imparziale, senza alcuna forma di discriminazione basata su genere, etnia, religione, orientamento sessuale o disabilità.\n\nIl nostro impegno è costantemente rivolto a creare opportunità uguali per tutti e a garantire un clima di lavoro rispettoso e accogliente, aiutando tutti gli individui a sfruttare al meglio il proprio potenziale professionale.\n\nREQUISITI\n• Laurea magistrale in informatica, ingegneria informatica o elettronica\n• Esperienza ottima e comprovata di almeno 5 anni nello sviluppo di sistemi embedded Linux e/o Android.\n• Conoscenza approfondita di Android AOSP, build system, HAL e framework Android.\n• Conoscenza della catena di boot ed esperienza di sviluppo in ambito bootloader, kernel e driver Linux.\n• Esperienza con toolchain di sviluppo (es. GNU Make, CMake) e ambienti Linux.\n• Conoscenza dei linguaggi C, C++ e Java/Kotlin per Android.\n• Conoscenza dei protocolli di comunicazione hardware (I2C, SPI, UART, ecc.) e piattaforme hardware complesse\n• Conoscenza della lingua inglese\n\nDate: 10.12.2024",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=1ee42ddef3460b43&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/software-developer-embedded-android-at-custom-group-4087141052?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/TQXUDjOK7Ss3IvlArgveFjkvzmeHRJYXiWbz--PpGoViiBMcpVUc3A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXIgRW1iZWRkZWQgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IkNVU1RPTSIsImFkZHJlc3NfY2l0eSI6IkZvbnRldml2byBQcm92aW5jZSBvZiBQYXJtYSwgSXRhbHkiLCJodGlkb2NpZCI6IlhGeE5kRDZvdDFlakNwN2xBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "ANDROID DEVELOPER JUNIOR",
+            "company_name": "Rawfish",
+            "location": "Vicenza, Province of Vicenza, Italy",
+            "via": "SimplyHired",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=DbLEdKBjzbWf4krDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XIsQrCMBAAUFz7CU43iyYiuOgktEiLtCVg13INaROJudILWv0Yv1WcXN7wks8ikacyVVWeQpo12aWqMwXFtcwrBRsoqAM2OGkLFOBMNHizPNoYRz5IyezFwBGj00LTXVIwHc3yRh3_aNniZEaP0bS7_XYWYxhWQuGzd2zBBWicNuGNa6gnerigDVD_zzyif30BxWfijKEAAAA&shmds=v1_AUFQtOOGckoUNyONf-12NqlHPlC8YapcTSmC3rYUVQx9pWXMDA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=DbLEdKBjzbWf4krDAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Il nostro team unisce designer e sviluppatori per creare servizi digitali unici, di altissima qualità. Cerchiamo per la sede di Vicenza un Android Developer Junior pronto a surfare con noi.\n\nCosa offriamo:\n\nLuogo di lavoro flessibile e informale e collaborativo!\n\nCrescita personale, lavorando da subito nel team Android a progetti interessanti e complessi e sfide a ping pong con avversari niente male :) Potrai scegliere di lavorare su Mac o PC.\n\nVuoi farne parte? Compila il form e incontriamoci!",
+            "apply_options": [
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/5nTqEKDpRwDgRyekbTbeTbYbTrO7NbsUixsDARPvxSs0w5SMZICgLg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBTkRST0lEIERFVkVMT1BFUiBKVU5JT1IiLCJjb21wYW55X25hbWUiOiJSYXdmaXNoIiwiYWRkcmVzc19jaXR5IjoiVmljZW56YSwgUHJvdmluY2Ugb2YgVmljZW56YSwgSXRhbHkiLCJodGlkb2NpZCI6IkRiTEVkS0JqemJXZjRrckRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVR3R1Ym5wUldGSjFXbVV0TFRsUVpWTjJibk52WlVGRmF6ZzFka2MyVTBoQ2RFMW1SVFJCZURSR2JqRkNVakJZYWkxalozSmlTUzFtYUVVd2VXeEhRa1IyT1VoNGRYRmFaWEpXYjBGRFpuVk9hSFpuYmxoMFNuTnFiMFJUUWtwWGRtMUxNR2xyZFZKeU0wTk5TRlUxVFhGNmN6a3pPVEJzTUdodFRIQjZiR0ZrVkZCdlJEWkRVVEZpVTNoTU16RnpWMFJNUlU5YVpIWlZjVEYyZWtsMk5VdEJZMkYyZGpkNU5qUkdZbE5EVmkxaVdsUmpYMmhSZUVWdWNVNUdhV0l4VGxkMllsUmhka3hEYkdZd05GUkNXbXgxYjE5SlNIcDNUbFJNTFd0b0xWaHVNVjk2UlhaQ1RVRmlRVE10TkZsb1QzZHNiemRqTmxsa2MwdHNUV05FUzNkTlpFRk9USEp4VG5ScExYQXhjRkpNWmpab2NFZEVkVVo0WW1jU0YxbEJjVVphTjJreFRUWlVPSEIwVVZCdk5FdENNa0ZWR2lKQlJsaHlSV053V0VoQlgxaFRZbXh4U3pZM1pYVnJNMkpsU0RoQ2RXWlpRbmRSIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVR3R1Ym5wUldGSjFXbVV0TFRsUVpWTjJibk52WlVGRmF6ZzFka2MyVTBoQ2RFMW1SVFJCZURSR2JqRkNVakJZYWkxalozSmlTUzFtYUVVd2VXeEhRa1IyT1VoNGRYRmFaWEpXYjBGRFpuVk9hSFpuYmxoMFNuTnFiMFJUUWtwWGRtMUxNR2xyZFZKeU0wTk5TRlUxVFhGNmN6a3pPVEJzTUdodFRIQjZiR0ZrVkZCdlJEWkRVVEZpVTNoTU16RnpWMFJNUlU5YVpIWlZjVEYyZWtsMk5VdEJZMkYyZGpkNU5qUkdZbE5EVmkxaVdsUmpYMmhSZUVWdWNVNUdhV0l4VGxkMllsUmhka3hEYkdZd05GUkNXbXgxYjE5SlNIcDNUbFJNTFd0b0xWaHVNVjk2UlhaQ1RVRmlRVE10TkZsb1QzZHNiemRqTmxsa2MwdHNUV05FUzNkTlpFRk9USEp4VG5ScExYQXhjRkpNWmpab2NFZEVkVVo0WW1jU0YxbEJjVVphTjJreFRUWlVPSEIwVVZCdk5FdENNa0ZWR2lKQlJsaHlSV053V0VoQlgxaFRZbXh4U3pZM1pYVnJNMkpsU0RoQ2RXWlpRbmRSIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

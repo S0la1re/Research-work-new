@@ -1,0 +1,414 @@
+{
+    "search_metadata": {
+        "id": "6784f5cf309228c2f6c032d6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/91f6de7e846fa02d/6784f5cf309228c2f6c032d6.json",
+        "created_at": "2025-01-13 11:15:27 UTC",
+        "processed_at": "2025-01-13 11:15:27 UTC",
+        "google_jobs_url": "https://www.google.sk/search?q=Android+developer&uule=w+CAIQICIIU2xvdmFraWE&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/91f6de7e846fa02d/6784f5cf309228c2f6c032d6.html",
+        "total_time_taken": 0.86
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Slovakia",
+        "location_used": "Slovakia",
+        "google_domain": "google.sk"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.sk/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwiL65T-yPKKAxXcm4kEHYJAGKgQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Rounds",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=NF8_2OBoAmg26oVuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P1GR6eMItiK4KKTIAiO-gFH2oa22ktKU48Df158wxu-w-bCoUkOcKWZilRqsIO7OFDC5hMIw00kFlqfU-9VT9aqFhO1Y8_eeJmsMDlZ7Euc_hs1YaNasNN4OO4XUzluVw_5cFDIDM8iM74z_gDxpVwpfQAAAA&shmds=v1_AUFQtOOf6fT3nD-bvvoAydmqV9x6MwcgrqgDNSir2SXgontFCA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=NF8_2OBoAmg26oVuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53fedc06e996dead771263b895ee7e02e08d26282a446ac841c.jpeg",
+            "extensions": [
+                "11 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Slovakia\n\nDescription\n\nAndroid Developer\n\nSNEAK PEEK\n\n⇨ Location: Remote, GMT+0/GMT+4\n\n⇨ Interview process: HR interview ⇨ take-home challenge ⇨ technical discussion ⇨ ⇨ final interview ⇨ offer\n\n⇨ Contact: For questions please reach out to: hr@rounds.com\n\nWHO ARE WE?\n\nAt Rounds, we believe in harnessing the power of cutting-edge technology to drive business success. Our transformative, machine-learning technology identifies and optimizes mobile assets, while our team of experts, with their unparalleled human capital and business acumen, provides the strategic direction and support to turn mobile assets into profitable businesses. Together, we are revolutionizing the mobile industry. You can find out more info about us here: www.rounds.com.\n\nTHE ROLE\n\nWe are looking for a talented developer for challenging work on Android apps with millions of downloads. In this role, you will help our R&D team create, code, test and maintain various Android apps. You will work closely with other developers and QA testers, using the Agile methodology and a quality-first approach.\n\nWHAT ARE WE LOOKING FOR?\n• 3+ years of experience developing Android applications in both Java and Kotlin\n• Proficient UI programming skills\n• Familiar with a wide variety of android related tasks (sdk updates, permission handling, etc.)\n• Experience with commonly used Android components and libraries (Coroutines, Glide, Retrofit, OkHttp)\n• Familiar with legacy Android libraries (RxJava, AsyncTasks, Views)\n• Expertise with peripheral development tools (Android Studio, git, Firebase, etc.)\n• Advantage: familiarity with CI\n• Experience in the development of an app that was released on Google Play (100,000+ downloads)\n• Familiarity with Agile management: Kanban\n• Excellent communication skills in both written and verbal English\n\nHOW DO WE WORK?\n\nWe are a distributed team of more than 130 people all working remotely. We value open communication, proactivity and work/life balance and we measure our freelancers on performance, rather than on the time spent on the job.\n\nWHAT’S IN IT FOR YOU?\n• 100% remote work\n• Flexible full-time working hours\n• Paid national holidays (of the freelancers’ country of residence)\n• The opportunity to grow together with the company & take ownership from day 1\n\nINTERESTED?\n\nOur recruitment process consists of the following steps:\n• HR interview: 45 min.\n• take-home challenge (around 3 hours of work)\n• technical discussion with our Android team leaders: 45 min.\n• final interview with the VP of R&D: 30 min.\n\nGet in touch at hr@rounds.com. We look forward to hearing from you!\n\nThis offer from \"Rounds\" has been enriched by Jobgether.com and got a 80% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677be17856373d87f2b705f6-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/android-developer-jobs/6A48E56055CA2C6F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJvdW5kcyIsImFkZHJlc3NfY2l0eSI6IlNsb3Zha2lhIiwiaHRpZG9jaWQiOiJORjhfMk9Cb0FtZzI2b1Z1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbUZyYVdFIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "WORLD BUSINESS PRESS online, a.s.",
+            "location": "Bratislava, Slovakia",
+            "via": "Profesia",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=1M4uB3K4U8u85qjkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMwQqCQBAAULr6CZ3mGGFrBB2qU2JEERVKdJRRB93adpadRfyevrS8vOOLvpNotreNZ91ARj0ZduRhAWeuQAh93QFbODK3hqa7LgQn2yQRMaqVgEHXquZPwpYqHpIXVzJSSoeenMFA5Wq9HJSz7XzzvOWXDNJHcboeigLu-Shboy3FgEoUaAup_6disMcYCsM9vjX-ACrZZealAAAA&shmds=v1_AUFQtOOkSy-PWwJ8j6pohSLjxi0pNQiNZOTDEDWSlXE_rftY5Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=1M4uB3K4U8u85qjkAAAAAA%3D%3D",
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Informácie o pracovnom mieste\n\nNáplň práce, právomoci a zodpovednosti\n\n​Hľadáme Android developera, ktorý je pripravený pripojiť sa k nášmu tímu a pomôcť nám s vývojom komplexných mobilných aplikácií.\n\n​Náplň práce:\n​- Vývoj a údržba mobilných aplikácií v Kotlin\n​- Implementácia nových súčastí podľa predloženého dizajnu (MVVM architektúra)\n​- Integrácia interných a externých API\n​- Bugfixing, bezpečnostné a optimalizačné aktualizácie\n​- Správa a dohľad nad aplikáciami v Google Play Console, Firebase a Sentry​\n\nZamestnanecké výhody, benefity\n\n​• Príležitosť pracovať na zaujímavých projektoch v inovatívnom prostredí\n​• Moderné kancelárske priestory so skvelou dostupnosťou\n​• Flexibilný pracovný čas a možnosť homeofficu\n​• Možnosť kariérneho a profesného rastu\n​• Rôzne teambuildingové akcie na Slovensku a v zahraničí\n​• Ovocie, káva, iné pochutiny a vlastná kuchynka\n​• Firemný MacBook\n​• MultiSport karta\n​• Masáže​\n\nPožiadavky na zamestnanca\n\nPozícii vyhovujú uchádzači so vzdelaním\nstredoškolské s maturitou\n\nvysokoškolské I. stupňa\n\nvysokoškolské II. stupňa\n\nvysokoškolské III. stupňa\nJazykové znalosti\nAnglický jazyk - Stredne pokročilý (B2)\nPočet rokov praxe\n3\nOsobnostné predpoklady a zručnosti\n\n​- Znalosť MVVM architektúry\n​- Skúsenosti libkami LiveData, Navigation, DataBinding a Room\n​- Skúsenosti s dependency injections cez Hilt a Dagger2\n​- Skúsenosti s Coroutines, Retrofit2 + Sockets\n​- Skúsenosti s Flavouring, Gradle\n​- Znalosť Constraint Layouts a Jetpack Compose na tvorbu responzívneho UI\n​- Znalosť Google Play Console, Firebase, Sentry a GITu​",
+            "apply_options": [
+                {
+                    "title": "Profesia",
+                    "link": "https://www.profesia.sk/praca/world-business-press-online/O4863039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn Slovakia",
+                    "link": "https://sk.linkedin.com/jobs/view/android-developer-at-eurowag-4102897774?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IldPUkxEIEJVU0lORVNTIFBSRVNTIG9ubGluZSwgYS5zLiIsImFkZHJlc3NfY2l0eSI6IkJyYXRpc2xhdmEsIFNsb3Zha2lhIiwiaHRpZG9jaWQiOiIxTTR1QjNLNFU4dTg1cWprQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbUZyYVdFIn0="
+        },
+        {
+            "title": "Android developer IRC164772",
+            "company_name": "GlobalLogic",
+            "location": "Košice, Slovakia",
+            "via": "JOBITT",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=JWYvBAw6x_zSyfDAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEuw3CMBAAUNFmBKqrEcQQAZGgQhQRnwoGiM7OyTEYn-WzouzBBAzDXohXvOI9KapD6BK7DjoayHOkBKfbcbVd13UFCzizBiFMpgcO0DBbT9N9n3OUnVIivrSSMTtTGn4pDqR5VA_W8q-VHhNFj5naarMcyxjsDBrPGv2VrTPgAlz4-3GG5nD3PODT4Q-cip8NlgAAAA&shmds=v1_AUFQtONWrhNTQ6XugE_yrGU9kQ5BMqXPKosjjJHl0Pj5PFDDfA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=JWYvBAw6x_zSyfDAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53f2ed38c99f02948e0dcc7daf2c0812f84bc0658464c3af395.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Description:new potrential client from Germany, StepStone is one of the world’s leading next generation recruitment platforms. Through the AI-powered hiring platform and smart autonomous matching technologies the company aims to disrupt the way talent and all-sized businesses connect.StepStone provides solutions for Recruiters and Job Seekers StepStone has been helping companies make great hires and candidates find the right job for over 25 years.",
+            "apply_options": [
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/uk/job-openings/android-developer-irc164772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciBJUkMxNjQ3NzIiLCJjb21wYW55X25hbWUiOiJHbG9iYWxMb2dpYyIsImFkZHJlc3NfY2l0eSI6IktvxaFpY2UsIFNsb3Zha2lhIiwiaHRpZG9jaWQiOiJKV1l2QkF3NnhfelN5ZkRBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbUZyYVdFIn0="
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "Lime",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=gsXZ9Ilc7kqP4ISCAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P0mZ6fMgq0ILjo5iCBu9wFH2gtttJeUpsht_rr4hjd8BzeSsDa4ytyUZ7hJYiFqsIeHBjDCFjOowF01Fdpecu_Vzt6bFZesY-fooi5ehYKu_qXB_k2WsVEt2Gk6ng6rq5J2mycvBCwwFv3gm_EHZnxkboEAAAA&shmds=v1_AUFQtONRaIq7ronQEub4rgqwv2HKb35S6nalW2-6865ddqZweQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gsXZ9Ilc7kqP4ISCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53fbcb6e5f7d8d823440e7e679ecc260b549acd88ea868a7b7d.jpeg",
+            "extensions": [
+                "24 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Slovakia, Canada\n\nLime is the world's largest shared electric vehicle company. We’re on a mission to build a future where transportation is shared, affordable and carbon-free. Our electric bikes and scooters have powered 400+ million rides in 250+ cities on 5 continents, replacing an estimated 100+ million car trips. Named a Time 100 Most Influential Company and Fast Company Brand That Matters, we achieved a fully profitable year in 2022, becoming the first in our industry to reach this milestone.\n\nWe are looking for an experienced Android Engineer to join our team and help us revolutionize the way people move around cities. As a key member of our team, you’ll have the opportunity to design and build the core technology that powers our fleet of connected vehicles. With our rapid global expansion, you’ll play a vital role in crafting backend systems that can process boatloads of requests from our IoT devices and consumer-facing apps. You will also have the chance to improve our suite of operational tools that enable our distributed workforce to charge, deploy, and maintain our electric vehicles. And the best part? You get an opportunity to work with a talented group of engineers, data scientists, designers and PMs who are passionate about creating innovative solutions for urban transportation!\n\nWhat You'll Do:\n• Identify, define, and solve strategically essential technical problems, including architecting and building highly scalable foundational platforms, leading new product initiatives, and revamping core application experiences.\n• Scrutinize and reason clearly about the technology and architecture choices we make. In many cases, you will be the decider of these decisions.\n• Lead the cross-functional collaboration with PMs, Engineers, Design, Data Scientists, Research, and Operations teams.\n• Mentor and lead other engineers on the team. Identify and develop future leaders.\n• Advise Lime’s leadership team on key technology adoption and process improvements.\n• Contribute to shaping overall engineering culture at the company.\nAbout You:\n• 6+ years of industry professional software development experience, and a track record of building impactful products or systems.\n• Strong background and proven leadership in mobile development.\n• Dynamic, driven and hands-on, yet capable to multitask across functions.\n• Experience with mobile testing frameworks and services.\n• iOS development experience. (bonus)\n• Passionate. You’re passionate about Lime's mission and micro mobility; you want to see cities transform to becoming people-centric and less polluted.Annual performance bonus, equity and benefits may be provided as part of the compensation package, depending on the position offered. Not all candidates will be eligible for the upper end of the salary range. Exact salary will ultimately depend on multiple factors, which may include the candidate’s location of residence, the successful candidate's skills, experience and other qualifications. In addition to base salary, some roles may be eligible for a variable performance-bonus based on a combination of company performance, employee performance, and management discretion.\n\n#LI-PP1\n#LI-Remote\n\nWhy Lime?\nWhen you join Lime, you join a global community of smart, caring, talented individuals working together to deliver world-changing results; striving to create an experience that enables Limers to do their best work. Here are some ways we support and invest in our team:\n\nCompetitive salaries, performance-based annual bonus and pre-IPO equity\nHealth and wellness offerings for all team members starting day one including access to top-tier fitness and mindfulness apps\nFlexible vacation policies with ample paid holidays tailored to country of residence\nFully-paid leave following the birth or adoption of a child and financial, medical and educational support for Limers pursuing parenthood\nSupport for retirement and financial goals with unlimited access to financial advisors\nUnlimited, complimentary use of our vehicles in hundreds of cities around the world\nProfessional growth opportunities through quarterly learning days and top-tier tools\nOpportunities to connect across teams and locations to network, socialize and volunteer\nCulture of belonging with Employee Resource Groups that engage and promote cultural awareness and DEI training across all functions\nConsistent recognition of great work through meaningful rewards and career advancements\n\nBenefits and perks vary depending on the nature of your employment and country of residence. Terms and conditions may apply.\n\nIf you want to make an impact, Lime is the place for you. Not sure if you meet all the qualifications? If this role excites you we encourage you to apply. Explore all opportunities on our career page.\n\nLime is an Equal Opportunity Employer, but that’s just the start. We believe different perspectives help us grow and achieve more. That’s why we’re dedicated to hiring and developing the most talented and globally diverse team – which includes individuals with different backgrounds, abilities, identities and experiences. Applicants who require a reasonable accommodation for any part of the application or hiring process can email recruiting-operations@li.me for assistance.\n\nUse of artificial intelligence or an LLM such as ChatGPT during the interview process will be grounds for rejection of your application.\n\nThis offer from \"Lime\" has been enriched by Jobgether.com and got a 81% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677be16d56373d87f2b70542-senior-android-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkxpbWUiLCJhZGRyZXNzX2NpdHkiOiJTbG92YWtpYSIsImh0aWRvY2lkIjoiZ3NYWjlJbGM3a3FQNElTQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVMnh2ZG1GcmFXRSJ9"
+        },
+        {
+            "title": "Android Developer (Kotlin)",
+            "company_name": "Experis Polska",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=Yaab0D2DI9Tyz5YfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBAFUGxzBKspVTCrgo1WgiJoI3iAMEmGZM24f9lZQg7hodXmta_4zIrtKbQJvqWzjKKIkmhxR1YflrSmG2oy4dT0hEBXoFOZH_ucox2cM9Oys8zZN2WDt0OQGpN7obY_lfWcJCpnqXb7zVTG0K3ml-l3eKMH1AYmH-ipGHnw_AVdTnoljwAAAA&shmds=v1_AUFQtOPHiU3jLmBnuMmq1R856OdFdF9bbXOs8Cubxk59lnlDIg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Yaab0D2DI9Tyz5YfAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "• Min 2 years of software engineering experience as an Android Developer using Kotlin\n• Fundamental understanding of the Technical Skills of a Software Engineer through college education\n• Working knowledge of basic concepts and procedures\n\nJoin the project for our Client which specializes in creating navigation systems such as satellite navigation devices, smartphone navigation apps, GPS sports watches, action cameras, fleet management systems, and other geolocation-based services.\n\nOffer:\n• Workplace: 100% remote\n• MultiSport Plus\n• Group insurance\n• Medicover Premium\n• e-learning platform\n\nOpis Firmy\n\nExperis to światowy lider rekrutacji specjalistów i kadry zarządzającej w kluczowych obszarach IT. Z nami znajdziesz konkurencyjne oferty zatrudnienia oraz ciekawe projekty IT skierowane zarówno do ekspertów z wieloletnim doświadczeniem, jak i osób, które dopiero zaczynają swoją przygodę w branży IT.\n\nOferujemy rekrutacje menedżerów i wysoko wykwalifikowanych konsultantów z doświadczeniem w branży IT. Experis jest częścią ManpowerGroup i został uznany za jedną z najbardziej etycznych firm na świecie.\n,[Performing a range of mainly straightforward assignments – a significant portion of time is spent writing code to deliver individual component improvements that meet the customers' needs, Providing useful code reviews for changes submitted by others, Using prescribed guidelines or policies to analyze and resolve problems, Making meaningful contributions to their team's design]\n\nRequirements:\nAndroid, Kotlin\n\nAdditionally:\nSport Subscription, Private healthcare, International projects, Remote work, Employee referral bonus, Life insurance.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://sk.jooble.org/jdp/3943336778851386799?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoS290bGluKSIsImNvbXBhbnlfbmFtZSI6IkV4cGVyaXMgUG9sc2thIiwiYWRkcmVzc19jaXR5IjoiU2xvdmFraWEiLCJodGlkb2NpZCI6IllhYWIwRDJESTlUeXo1WWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtRnJhV0UifQ=="
+        },
+        {
+            "title": "iOS Mobile Developer with Android",
+            "company_name": "Altimetrik Poland",
+            "location": "Anywhere",
+            "via": "Jooble",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=qgOCyxaAFBbucjBKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CYKwZ8FEBEH0VBAEQRT6gJK0S7N2mw3JUvsS3yvOYarvqjrRs4GHeGKEK87IkjDDhzRAHfss1MMO7uKhoMtdAIlwExkY15egmsrZ2lLYDEWdUmc6maxE9LLYt_jyry3BZUzsFNvDcb-YFIftpmalCTXTCC9hF3ugCA3L7EZyP_Z74CWZAAAA&shmds=v1_AUFQtOOsML87aKxCH3rjJVw3HMVLmUvXldnIus18jqUrs1tSYg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=qgOCyxaAFBbucjBKAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "If you possess...\n• Strong proficiency in Swift and Objective-C, as well as experience with iOS frameworks.\n• Knowledge of Android development fundamentals and familiarity with Kotlin/Java is a strong plus.\n• Experience working with RESTful APIs and third-party libraries.\n• Solid understanding of mobile application architecture, cross-platform development principles, and mobile performance optimization.\n• Excellent communication skills, with the ability to clearly convey technical details and collaborate effectively with developers of varying experience levels.\n• Familiarity with mobile app deployment pipelines and CI/CD practices for iOS.\n• Experience in Kotlin Multiplatform (KMP) or similar cross-platform frameworks.\n• Knowledge of mobile testing frameworks and experience with both manual and automated testing practices.\n• Experience with mobile security practices and secure storage (Keychain/Keystore).\n\nAltimetrik Poland is a digital enablement company. We deliver bite-size outcomes to enterprises and startups from all industries in an agile way to help them scale and accelerate their businesses. We are unique in Poland's IT market. Our differentiators are an innovation-first approach, a strong focus on core development, and an ability to attack the challenging and complex problems of the biggest companies in the world.\n\nWe seek an experienced Senior iOS Developer with in-depth knowledge of iOS app development and some understanding of Android. Previous work experience with scalable mobile applications and can navigate both iOS and Android environments.\n\nWe work 100% remotely or from our hub in Kraków.\n\nWe grow fast.\n\nWe learn a lot.\n\nWe prefer to do things instead of just talking about them.\n\nIf you would like to work in an environment that values trust and empowerment... don't hesitate, just apply!\n,[Design, develop, and maintain advanced iOS background applications., Collaborate with cross-functional teams, including Android developers, to design and launch new features., Review, test, and debug iOS applications, ensuring top performance and responsiveness., Provide architectural guidance and help establish best practices for both iOS and Android mobile development., Optimize code for performance, quality, and reusability across iOS and, where relevant, Android platforms., Assist with cross-platform integration, including shared data, APIs, and libraries, to support consistent functionality across both iOS and Android.]\n\nRequirements:\niOS, Android, Swift, REST API, CI/CD, Kotlin, Java, Objective-C\n\nTools:\n.\n\nAdditionally:\nPrivate healthcare, Small teams, International projects, Modern office, Startup atmosphere, No dress code.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://sk.jooble.org/jdp/2182502136279345784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgTW9iaWxlIERldmVsb3BlciB3aXRoIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJBbHRpbWV0cmlrIFBvbGFuZCIsImFkZHJlc3NfY2l0eSI6IlNsb3Zha2lhIiwiaHRpZG9jaWQiOiJxZ09DeXhhQUZCYnVjakJLQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbUZyYVdFIn0="
+        },
+        {
+            "title": "React Native Mobile Developer (Remote)",
+            "company_name": "IQVIA",
+            "location": "Anywhere",
+            "via": "Talentify",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=4k15-L0IkjILUnCtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CIJwo4o2IrgoDoogFRSs4Fou4WijaS7kQui7-LLq8m_fX3xGxb4mNAlumGwmuLK2juBEmRwHijCtqedEM1jChTUIYTQdsIczc-tovOtSCrJVSsSVraTfxpSGe8WeNA_qxVr-aaTDSMFhoma9WQ1l8O18Ut2f1QGsh2P8QXGYcQEPxxnfFr_9O_SangAAAA&shmds=v1_AUFQtOPKA4RV5R-MML5HONR0yDo3k8pTerewYkjppLSred8Djg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4k15-L0IkjILUnCtAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53f8282a769d8b47a7c363fb0250859a0b230bffd8b91365ba3.png",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Us at IQVIA!\n\nWe are looking for talented individuals to join our team and help us revolutionize patient care with our electronic clinical outcome assessment (eCOA) platform. Our fast, flexible, and proven solution enhances efficiencies, delivers real-time data, and sharpens insights, all while providing a superior patient experience.\n\nWho we’re looking for:\n\nYou will be part of a growing team of developers located across the world, focused on building new and modern software that’s positioned to disrupt the clinical trial space. In this remote role, you’ll be empowered and encouraged to think “outside the box” to develop innovative solutions to drive business and the industry forward. You believe that pushing yourself out of your comfort zone is the only way to grow. You love the idea of owning a product, from developing new mobile app features to scaling to meet market demands. Not only are you fluent with React Native, but you’re an expert with JavaScript/TypeScript.\n\nPosition overview:\n\nWe’re seeing immense growth in the industry, and our core focus is scaling our native application’s feature set. Bring your talent and drive to our team of passionate, creative, and innovative thinkers, focused on developing a sophisticated product that uses modern JavaScript. We have the support and resources of a large company but operate with a start-up culture. You’ll thrive in a fast-paced and agile environment, during which you see real-time results. As we work to rapidly expand our team, you’ll have the opportunity to grow your career in the direction that’s right for you.\n\nRESPONSIBILITIES:\n• Serve as critical development resource on cross platform mobile application\n• Work collaboratively and efficiently across functional teams in a fast-paced startup-like environment.\n• High standard of engineering quality through source control, code reviews, continuous integration, and unit tests.\n• Extend our platform to handle an expanding set of features.\n• Improve infrastructure and application development\n• Review and refactor legacy code\n• Provide input on the establishment of development best practices and standards for the organization\n\nSKILLS:\n• Expert in React Native, React, and Redux\n• Expert in JavaScript and TypeScript\n• Experience with SQL databases (SQLite/Postgres)\n• Experience with Swift, Objective-C, Java, and Kotlin are a plus\n• Experience with mobile application deployments (Android/iOS)\n• Experience with data/event streams (Amazon Kinesis/Apache Pulsar)\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com",
+            "apply_options": [
+                {
+                    "title": "Talentify",
+                    "link": "https://www.talentify.io/job/react-native-mobile-developer-remote-bratislava-region-of-bratislava-sk-iqvia-r1444838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBOYXRpdmUgTW9iaWxlIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IklRVklBIiwiYWRkcmVzc19jaXR5IjoiQnJhdGlzbGF2YSwgU2xvdmFraWEiLCJodGlkb2NpZCI6IjRrMTUtTDBJa2pJTFVuQ3RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtRnJhV0UifQ=="
+        },
+        {
+            "title": "Lead mobile developer (Android / iOS) IRC167043",
+            "company_name": "GlobalLogic",
+            "location": "Košice, Slovakia",
+            "via": "JOBITT",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=Cx6SKPUVbxt7wE9AAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXESwrCMBAAUNz2CK5mqaJN_YOuRLCoBcEeoOQzpNE0E5JQvI4rT-K9xLd42WeQnSrkCjoSxiIo7NGSxwCjg1OBjAIG5laP4Xw_zjfbYrWEGVxIQEQeZAvkoCTSFof7NiUfd4zFaHMdE09G5pI6Rg4FvdiDRPzXxJYH9JYnbBbr4pV7pydQWhLcVqSNBOPgSt-3kTiF2lLPn4b_AEReKROqAAAA&shmds=v1_AUFQtOPZW_2LYSXBVrD9DDM90d_fR_f_ctGYqawAXcO1Mo1RtA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Cx6SKPUVbxt7wE9AAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53f8a8d727bce635f3acafc99538cbe3a61d7a984198d4c6eec.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Description:GlobalLogic is seeking lead mobile developer to help us improve and help to develop new modern personalized digital platform. Every developer in our team has an opportunity to make a tremendous impact. We are looking for an innovative and passionate developers who want to take ownership of features and projects and collaborate with other developers and product managers to evaluate, design, and implement from top to bottom.",
+            "apply_options": [
+                {
+                    "title": "JOBITT",
+                    "link": "https://jobitt.com/de/job-openings/lead-mobile-developer-android-ios-irc167043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIG1vYmlsZSBkZXZlbG9wZXIgKEFuZHJvaWQgLyBpT1MpIElSQzE2NzA0MyIsImNvbXBhbnlfbmFtZSI6Ikdsb2JhbExvZ2ljIiwiYWRkcmVzc19jaXR5IjoiS2/FoWljZSwgU2xvdmFraWEiLCJodGlkb2NpZCI6IkN4NlNLUFVWYnh0N3dFOUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtRnJhV0UifQ=="
+        },
+        {
+            "title": "Computer Scientist (m/f/d) as App Developer for iOS / Android",
+            "company_name": "RIWA GmbH",
+            "location": "Nemecká, Slovakia",
+            "via": "Jooble",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=wXT_FaZQ-MmMcGOzAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKPW4CMRAGUNFyhDR8ZUCwRkg0UK1A4qdIJDYSJfJ6h12D7bE8BnEd7pAb5GKE5lWv_9vr_6zYx1umhMpYCtlKxqdXZ9UMoQVljFjTnRzH_3LmBPtdQaEMTWLbYII91xDSyXTggA1z6-hj2eUcZaGUiCtayTpbUxj2igPV_FAXruXNSTqdKDqd6TSbTx9FDO1ocNgdS2x8vYUN-CJP5vr3HKNyfNdXq1_9DX5XtwAAAA&shmds=v1_AUFQtOPf1uCYVfJHb_lBQB--krVQqMlAp9fRUy-Uk20GpK__8A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wXT_FaZQ-MmMcGOzAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5cf309228c2f6c032d6/images/7b8c85b2c1b9c53ff9443d9d1bb5af102d3806f680c92a30ecfa20e8f60fccaa.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Computer Scientist (m/f/d) as App Developer for iOS / Android\nRIWA - All geoinformation becomes a digital experience\n\nRIWA GmbH is a leading company in the field of geoinformation and municipal specialist processes with over 25 years of experience and market leader in Bavaria. Our team develops innovative solutions for the digital transformation of cities and municipalities, in particular through geographic information systems (GIS). We also create digital twins of municipalities for construction planning, energy management and sustainable urban development. We offer customized solutions and attach great importance to close cooperation.\n\nBecome part of our team in one of our branches in Augsburg, Memmingen or Kempten im AllgÃ¤u. After training, you can also work from home.\nThese are your tasks\n• Further development of our native RIWA GIS Android app\n• Implementation of our previous apps for Apple iOS with Kotlin & Compose Multiplatform\n• Quality assurance through code reviews, unit tests and automated test procedures\n• Technical conceptualization of functional requirements from product management\n• Advising product management on development issues\nYou know your way around this\n• Completed studies in computer science or equivalent training\n• Sound knowledge in the development of Android apps (Kotlin, Java, Android SDK). Basic knowledge of iOS development advantageous (Swift)\n• Ideally experience with Jetpack Compose, Kotlin Multiplatform and Compose Multiplatform\n• Expertise with automated tests, CI/CD processes and agile software development\n• Knowledge of designing appealing user interfaces is a plus\n• Independent working style, ability to work in a team and a high level of self-motivation\nWhat we offer you\n• A great team - #GernePerDu - and a varied job in the office and home office\n• Attractive salary, 13 monthly salaries, capital-forming benefits and a performance bonus\n• Family-friendly working time models with flexible working hours (flexitime)\n• Corporate benefits such as a job bike, drinks flat rate or employee discounts with over 1,500 providers\n• Intensive training in the field of activity and regular further training\n• An exciting environment with varied tasks\n• A secure, modern workplace close to the city center with future prospects\nHave we piqued your interest?\n\nPlease send us your complete application documents directly online via our applicant management system, stating your salary expectations and the earliest possible starting date.\nRIWA GmbH\n\nAn der NeumÃ¼hle 5, 87700 Memmingen\nEveryone is welcome at RIWA. Diversity and equal opportunities are an integral part of our company. We see the uniqueness of each individual, and therefore the diversity of our teams, as the driving force behind our daily work and innovations. - We look forward to meeting you.\n\n+\n\nOnline application",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://sk.jooble.org/jdp/1619756777248402110?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBTY2llbnRpc3QgKG0vZi9kKSBhcyBBcHAgRGV2ZWxvcGVyIGZvciBpT1MgLyBBbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiUklXQSBHbWJIIiwiYWRkcmVzc19jaXR5IjoiTmVtZWNrw6EsIFNsb3Zha2lhIiwiaHRpZG9jaWQiOiJ3WFRfRmFaUS1NbU1jR096QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVUyeHZkbUZyYVdFIn0="
+        },
+        {
+            "title": "Sr. Android Engineer",
+            "company_name": "ITExpert",
+            "location": "Slovakia",
+            "via": "Jooble",
+            "share_link": "https://www.google.sk/search?ibp=htl;jobs&q=Android+developer&htidocid=8AjRz8SZZy3n5tKAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFw7OzndrJiI4KKTQxFd616S9EhT4124C5LRTxff8LrvqtsNYuBKk3CaoKeYCFFgDw_2oOgkzMAEN-aYcXOZay16tlY1m6jV1RRM4LdlQs_NLuz136izEyzZVRyPp0MzheJ2fX_2raBUSARD5o97JfcD7AalJIMAAAA&shmds=v1_AUFQtOMkM8Ap-3KHIiMVO85A811j_2iDgU45rKQ_Xghy7nH-ZQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8AjRz8SZZy3n5tKAAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Fingerprint empowers developers to stop online fraud at the source.\n\nWe work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies. We are a globally dispersed, 100% remote company with a strong open-source focus. Our flagship open-source project is FingerprintJS (20K stars on GitHub).\n\nWe have raised $77M and are backed by Craft Ventures (previously invested in Tesla, Facebook, Airbnb ), Nexus Venture Partners (previously invested in Postman , Apollo.io, MinIO , Druva) and Uncorrelated Ventures (previously invested in Redis, Rollbar &Gradle ).\n\nWho We Are Looking For: We are looking for a Senior Android Engineer with a solid background in Information Security. The ideal candidate will have experience building Android applications or libraries from scratch and will be skilled in security frameworks, cryptography, and network protocols. The role requires strong expertise in Kotlin, and familiarity with Jetpack Compose is preferred.\n\nKey Responsibilities:\n• Design, develop, and optimize native Android applications and libraries, focusing on security, scalability, and performance.\n• Collaborate with cross-functional teams to implement security protocols and ensure that applications align with best security practices.\n• Build developer tools that enhance productivity and streamline the development process.\n• Contribute to the maintenance and advancement of security frameworks for mobile applications.\n• Provide mentorship to junior team members and contribute to their technical development.\n\nRequirements:\n• Education: Degree in Computer Science, Information Security, or equivalent experience.\n• Experience:\n• 5+ years as a Senior Android Engineer (prior experience in a Senior Android role is required).\n• Strong Information Security background, with practical experience in:\n• Network protocols and secure coding practices\n• Cryptography and security framework development\n• Proven experience in building Android applications from the ground up, with expertise in Kotlin and vanilla Android SDKs. Experience with Jetpack Compose is preferred.\n• Experience with Android NDK is a plus.\n• Contributions to Open Source projects on GitHub are a bonus.\n\nOffers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.\n\nDue to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location .\n\nWe are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.\n\nIf you are applying as a resident of California, please read our CCPA notice here\n\nIf you are applying as a resident of the EU, please read our GDPR notice here",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://sk.jooble.org/jdp/5607925995583896198?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IklURXhwZXJ0IiwiYWRkcmVzc19jaXR5IjoiU2xvdmFraWEiLCJodGlkb2NpZCI6IjhBalJ6OFNaWnkzbjV0S0FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVTJ4dmRtRnJhV0UifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUM05OWTJSUGJuaERjMjFOV0ZSalFsZHpYelUzVVV4TGJERmlkakZyVGpWaFUxWnNhMWxFTFZWaGEyNWZPVTB3VHkxNE4wRm1hMWR2VlhJNFZYZEZNRGRVWTFsWU5tcDZhbTEzVjNkR1VubFlZbnBWVlhKallrTmtTVXMwY1dKR01VTTRUbmhJVm5sbVZGVkVPRXhTY0ZaNGJFNW5hbnB6YzJOTWJYVllRWEJTVGxCS2FYZGxiVWhQWVdSRmJEQlZkRUptWkdKblVEWjBVREZUYTJaMWRsSmpjR2xaTWtWdWFrVnZNa1JTVFVoa1ZsUnFaRkYzYldGWU9UbFRSV3hoY1ZkYU9YSnRiek5NWkhCeFNXeGxlVTV1VUdReFJsSldNekk0V2xkMVNFUTBlazVhY1RaSWRXdENRVlkzVmw5a1RVOUtjM1o2VGw5a1IxVmlVbmd4V0ZoV1YzTnZRM2gwUkc1aWJEaExlbTVmT0d4WFducG9kR3R5UkdjU0YzcGZWMFZhT0haSVNHUjVNM0IwVVZCbmIwaG9kMEZ2R2lKQlJsaHlSV052VEdNd1pWaGhZblE0YzJVeWFXRmlSRXczWHpFM2NXSmFMVGhCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.sk&location=Slovakia&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUM05OWTJSUGJuaERjMjFOV0ZSalFsZHpYelUzVVV4TGJERmlkakZyVGpWaFUxWnNhMWxFTFZWaGEyNWZPVTB3VHkxNE4wRm1hMWR2VlhJNFZYZEZNRGRVWTFsWU5tcDZhbTEzVjNkR1VubFlZbnBWVlhKallrTmtTVXMwY1dKR01VTTRUbmhJVm5sbVZGVkVPRXhTY0ZaNGJFNW5hbnB6YzJOTWJYVllRWEJTVGxCS2FYZGxiVWhQWVdSRmJEQlZkRUptWkdKblVEWjBVREZUYTJaMWRsSmpjR2xaTWtWdWFrVnZNa1JTVFVoa1ZsUnFaRkYzYldGWU9UbFRSV3hoY1ZkYU9YSnRiek5NWkhCeFNXeGxlVTV1VUdReFJsSldNekk0V2xkMVNFUTBlazVhY1RaSWRXdENRVlkzVmw5a1RVOUtjM1o2VGw5a1IxVmlVbmd4V0ZoV1YzTnZRM2gwUkc1aWJEaExlbTVmT0d4WFducG9kR3R5UkdjU0YzcGZWMFZhT0haSVNHUjVNM0IwVVZCbmIwaG9kMEZ2R2lKQlJsaHlSV052VEdNd1pWaGhZblE0YzJVeWFXRmlSRXczWHpFM2NXSmFMVGhCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}
