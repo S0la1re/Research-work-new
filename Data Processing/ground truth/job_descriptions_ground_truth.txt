@@ -620,10 +620,11 @@
 1. Platform: Android, iOS
 2. Salary: Not mentioned
 3. Requirements:
-  - Candidates must reside in Portugal.
-  - 3+ years of experience in iOS or Android development.
-  - English (Required).
-  - Spanish (Required).
+  - General Requirements:
+    - Candidates must reside in Portugal.
+    - 3+ years of experience in iOS or Android development.
+    - English (Required).
+    - Spanish (Required).
   - For Android Developers:
     - Android application development using Kotlin.
     - Interface development with Jetpack Compose.
@@ -632,14 +633,14 @@
     - Creation of clean code architectures and continuous maintenance of applications.
     - Implementation of unit tests and collaboration with the QA team.
     - Handling integrations with third-party SDKs and cloud services.
-    - Implementation of continuous integration processes (e.g., Sonar, AppCenter, Azure DevOps).
+    - Implementation of continuous integration processes to optimize application development and deployment (e.g., Sonar, AppCenter, Azure DevOps).
   - For iOS Developers:
     - iOS application development using Swift and SwiftUI.
     - Integration with analytics and tracking tools such as Firebase and Google Analytics.
     - Creation of clean code architectures and continuous application maintenance.
     - Implementation of unit tests and collaboration with the QA team.
     - Management of third-party SDK integrations and cloud services.
-    - Implementation of continuous integration processes (e.g., Sonar, AppCenter, Azure DevOps).
+    - Implementation of continuous integration processes to optimize application development and deployment (e.g., Sonar, AppCenter, Azure DevOps).
 4. Nice to have:
   - For iOS Developers:
       - Proficiency in Swift and SwiftUI.
@@ -650,8 +651,6 @@
       - Familiarity with technologies like Combine (or RxSwift), Core Data, and performance optimization for iOS applications.
 5. Responsibilities: Not mentioned
 6. Benefits: Not mentioned
-
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -680,658 +679,229 @@
 ----------------------------------------------------------------------------------------------------
 
 
-**Job Description:**
-
-**Responsibilities:**
-- Designing, developing, and maintaining applications for the iOS platform  
-- Collaborating with the team(s) to define, design, and deliver new features  
-- Maintaining and improving code quality, architectural guidelines, and automation  
-- Participating in the planning, integration, and troubleshooting of backend services  
-- Identifying critical points during the design and development process, providing recommendations, and fixing issues  
-
-**What We Expect:**
-- Critical and structured thinking, independent problem-solving skills, and the ability to work in a team  
-- At least 12 months of professional experience in iOS application development  
-- Developer knowledge of as many of the following technologies as possible: Swift, RxSwift, RxCocoa  
-- Experience with Dependency Injection frameworks (e.g., Swinject)  
-- Experience in unit testing: XCTest, Nimble, RxTest  
-- Confident use of Git  
-- Familiarity with CocoaPods  
-- Knowledge of Clean Code and SOLID principles  
-
-**Advantages:**
-- Continuous self-development of hard and soft skills  
-- Knowledge of design patterns  
-- Active participation in API design  
-- Experience in code reviews  
-- Software architecture design experience on larger projects  
-- UI testing experience  
-- E2M/E2E testing experience  
-- Familiarity with CI tools (e.g., Jenkins)  
-- Knowledge of distributed systems and microservices  
-
-**What We Offer:**
-- A stable, market-leading, internationally recognized corporate group  
-- Continuous knowledge sharing and opportunities for professional development  
-- A motivating community and a friendly team atmosphere  
-- Emphasis on high-quality technical processes  
+1. Platform: iOS
+2. Salary: Not mentioned
+3. Requirements:
+  - Critical and structured thinking, independent problem-solving skills, and the ability to work in a team
+  - At least 12 months of professional experience in iOS application development
+  - Developer knowledge of as many of the following technologies as possible: Swift, RxSwift, RxCocoa
+  - Experience with Dependency Injection frameworks (e.g., Swinject)
+  - Experience in unit testing: XCTest, Nimble, RxTest
+  - Confident use of Git
+  - Familiarity with CocoaPods
+  - Knowledge of Clean Code and SOLID principles
+4. Nice to have:
+  - Continuous self-development of hard and soft skills
+  - Knowledge of design patterns
+  - Active participation in API design
+  - Experience in code reviews
+  - Software architecture design experience on larger projects
+  - UI testing experience
+  - E2M/E2E testing experience
+  - Familiarity with CI tools (e.g., Jenkins)
+  - Knowledge of distributed systems and microservices
+5. Responsibilities:
+  - Designing, developing, and maintaining applications for the iOS platform
+  - Collaborating with the team(s) to define, design, and deliver new features
+  - Maintaining and improving code quality, architectural guidelines, and automation
+  - Participating in the planning, integration, and troubleshooting of backend services
+  - Identifying critical points during the design and development process, providing recommendations, and fixing issues
+6. Benefits:
+  - A stable, market-leading, internationally recognized corporate group
+  - Continuous knowledge sharing and opportunities for professional development
+  - A motivating community and a friendly team atmosphere
+  - Emphasis on high-quality technical processes
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-Job Description
-
-
-
-We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
-
-
-
-As a Software Engineer III at JPMorgan Chase within the Digital Platform Service, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
-
-
-
-Job Responsibilities
-
-• Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
-
-• Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
-
-• Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
-
-• Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
-
-• Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
-
-• Contributes to software engineering communities of practice and events that explore new and emerging technologies
-
-• Adds to team culture of diversity, equity, inclusion, and respect
-
-
-
-Required Qualifications, Capabilities, And Skills
-
-• Formal training or certification on software engineering concepts and applied experience
-
-• Hands-on practical experience delivering system design, application development, testing, and operational stability
-
-• Advanced in Objective-C or Swift.
-
-• Advanced knowledge of software applications and technical processes with considerable in-depth knowledge in one or more technical disciplines (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
-
-• Ability to tackle design and functionality problems independently with little to no oversight
-
-• Practical cloud native experience
-
-• Experience in Computer Science, Computer Engineering, Mathematics, or a related technical field
-
-
-
-Preferred Qualifications, Capabilities, And Skills
-
-• Experience in Hybrid application development
-
-
-
-ABOUT US
-
-
-
-J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
-
-
-
-We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
-
-
-
-About The Team
-
-
-
-J.P. Morgan’s Commercial & Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.
+1. Platform: iOS
+2. Salary: Not mentioned
+3. Requirements:
+  - Formal training or certification on software engineering concepts and applied experience
+  - Hands-on practical experience delivering system design, application development, testing, and operational stability
+  - Advanced in Objective-C or Swift
+  - Advanced knowledge of software applications and technical processes with considerable in-depth knowledge in one or more technical disciplines (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+  - Ability to tackle design and functionality problems independently with little to no oversight
+  - Practical cloud native experience
+  - Experience in Computer Science, Computer Engineering, Mathematics, or a related technical field
+4. Nice to have:
+  - Experience in Hybrid application development
+5. Responsibilities:
+  - Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+  - Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
+  - Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+  - Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+  - Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+  - Contributes to software engineering communities of practice and events that explore new and emerging technologies
+  - Adds to team culture of diversity, equity, inclusion, and respect
+6. Benefits:
+  - Equal opportunity workplace.
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-The Tribe
-
-
-
-'Prozis is a powerhouse product developing company. Every day we make new products. That is only possible because we developed our own proprietary technology that ensures that we bring you high quality, beautiful and fair priced products. We endure in our philosophy of a 4.0 vertical process, manufacturing in our own facilities or with the help of our superpartners. We do everything: idea, concept, design, manufacturing, quality control, marketing, sales, logistics, printing, distribution, client support, software development, photo, video, 3D and philosophy. We deliver wherever you are, whenever you want. We don't compromise. We breathe technology, drink design and feed on our will to exceed ourselves making the best products in the world. This all starts in 2007 with a crazy guy in a garage that thinks he can change the world for the better. Right now, we are hundreds, going to thousands of crazy but focused people. Will is a skill. There is a lot of people that want to buy us out. We don't have a F****** price tag. It's not about the money. It's about our mission. Trust us. We will feed your body and mind with everything you need to exceed yourself.'
-
-• miguel milhão
-
-
-
-The Team
-
-
-
-Prozis Tech division is focused on the development and continuous improvement of software products to support Prozis operation and strategy.
-
-
-
-This is a young and motivated team, determined to make things happen. We need you to help us in this world domination tour.
-
-
-
-The Role
-
-
-
-You'll join our team of Developers and integrate the Mobile Innovation Team unit, being able to work in great product creation and continuous development.
-
-Our main project is the Prozis Go App, that allows the collection and integration of data from Prozis devices, such as smartbands, scales and other equipment, in order to manage the results achieved by the user.
-
-
-
-The key technologies involved are Java, Android, Kotlin, RxJava, RxKotlin, experience with bluetooth devices will be valued (not eliminatory).
-
-
-
-You
-
-
-
-For this position, we value the following skills:
-
-• Degree in Computer Science or similar;
-
-• Previous experience in Mobile projects;
-
-• Kotlin;
-
-• Knowledge of Databases;
-
-• REST Services;
-
-• Great communication skills;
-
-• Being detailed, task-oriented, autonomous and an excellent team worker.
-
-
-
-Btw: Prozis is not for everyone.
-
-
-
-Nos termos da Política de Recrutamento do grupo PROZIS, a pessoa portadora de deficiência, nos termos da Lei n.º 38/2004, de 18/08, cuja candidatura não tenha sido admitida ou respondida no prazo de 30 dias, tem a faculdade de pedir a fundamentação da decisão e a sua reavaliação através de pedido apresentado no canal de denúncias constante de www.prozis.com, na categoria 'direitos e protecção dos indivíduos'.
+1. Platform: Android
+2. Salary: Not mentioned
+3. Requirements:
+  - Degree in Computer Science or similar
+  - Previous experience in Mobile projects
+  - Kotlin
+  - Knowledge of Databases
+  - REST Services
+  - Great communication skills
+  - Being detailed, task-oriented, autonomous, and an excellent team worker
+  - Key technologies involved are Java, Android, Kotlin, RxJava, RxKotlin
+4. Nice to have:
+  - Experience with Bluetooth devices (not eliminatory)
+5. Responsibilities:
+  - Work in great product creation and continuous development
+  - Join the Mobile Innovation Team
+6. Benefits: Not mentioned
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-ABOUT THE COMPANY:
-
-
-
-Join ADDENDUM, a global software development and IT team augmentation firm focusing on fintech, banking, and telco industries. Experience tailored benefits, diverse projects with various tech stacks, and opportunities for growth, freedom, and responsibility you desire.
-
-
-
-ABOUT THE ROLE:
-
-
-
-Whether you're in the heart of the Baltics or anywhere else, you'll join forces with dedicated professionals in the banking sector. Together, you'll work on exciting projects that focus on advancing and supporting the development of a mobile application. This is a contract-based role for a duration of 3 months.
-
-
-
-WHAT YOU WILL BE DOING:
-
-• Develop high-quality native Android applications using Java and/or Kotlin.
-
-• Design and implement solutions that prioritize performance, security, and exceptional user experience.
-
-• Stay updated with and apply the latest trends and best practices in user interface and user experience design.
-
-• Maintain high code quality standards while actively sharing knowledge with the team.
-
-• Provide mentorship and guidance to junior Android developers.
-
-
-
-WHAT WE EXPECT:
-
-• Proven experience in developing native Android applications.
-
-• Strong understanding of Android architecture, design patterns, and best practices for app development.
-
-• Expertise in creating secure, high-performance solutions with a focus on user experience (UX) and user interface (UI).
-
-• Knowledge of modern tools and practices, including version control systems (e.g., Git) and Agile methodologies.
-
-• Attention to detail in maintaining clean, efficient, and well-documented code.
-
-• Strong communication skills and a collaborative mindset to share knowledge and contribute to team success.
-
-
-
-WHAT WE OFFER:
-
-
-
-Salary ranges: 20 eur/hour - 35 eur/hour (the given range is flexible and depends on your experience).
-
-
-
-At Addendum we believe in personalized benefits packages that cater to your unique passions. Tell us what drives you, and we'll craft a package accordingly. On top of that, here’s what’s in store automatically:
-
-• Flexible Hours: No more 9-to-5; work when you're at your best.
-
-• Top Talent Collaboration: Join award-winning teams from different countries.
-
-• Diverse, Challenging Projects: Break free from the ordinary with dynamic, stimulating work.
-
-• Epic Team Events: Join us for summer and winter parties and online events.
-
-• Special Celebrations: We love a good shindig for birthdays and project milestones.
-
-
-
-And if you want to turn up the volume even more, here's what you can additionally have:
-
-• Rock star Benefits: From health and wellness to tech gadgets, we've got it covered.
-
-• Flexible Work Options: You choose your work style: from the office to a beach in Bali.
-
-• Healthy Work-Life Balance: Easy sick-leave and unlimited work-from-home options.
-
-
-
-So, get your dancing shoes on and come join the fun!
-
-
-
-At ADDENDUM, we wholeheartedly reject all forms of discrimination, including but not limited to age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, marriage, civil partnership, or any other protected category. We are committed to fostering a culture of equality and inclusion, where every individual has the opportunity to thrive.
+1. Platform: Android
+2. Salary: 20 eur/hour - 35 eur/hour (the given range is flexible and depends on your experience)
+3. Requirements:
+  - Proven experience in developing native Android applications.
+  - Strong understanding of Android architecture, design patterns, and best practices for app development.
+  - Expertise in creating secure, high-performance solutions with a focus on user experience (UX) and user interface (UI).
+  - Knowledge of modern tools and practices, including version control systems (e.g., Git) and Agile methodologies.
+  - Attention to detail in maintaining clean, efficient, and well-documented code.
+  - Strong communication skills and a collaborative mindset to share knowledge and contribute to team success.
+4. Nice to have: Not mentioned
+5. Responsibilities:
+  - Develop high-quality native Android applications using Java and/or Kotlin.
+  - Design and implement solutions that prioritize performance, security, and exceptional user experience.
+  - Stay updated with and apply the latest trends and best practices in user interface and user experience design.
+  - Maintain high code quality standards while actively sharing knowledge with the team.
+  - Provide mentorship and guidance to junior Android developers.
+6. Benefits:
+  - Flexible Hours: No more 9-to-5; work when you're at your best.
+  - Top Talent Collaboration: Join award-winning teams from different countries.
+  - Diverse, Challenging Projects: Break free from the ordinary with dynamic, stimulating work.
+  - Epic Team Events: Join us for summer and winter parties and online events.
+  - Special Celebrations: We love a good shindig for birthdays and project milestones.
+  - Rock star Benefits: From health and wellness to tech gadgets, we've got it covered.
+  - Flexible Work Options: You choose your work style: from the office to a beach in Bali.
+  - Healthy Work-Life Balance: Easy sick-leave and unlimited work-from-home options.
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-Company Description
-
-
-
-We are a staffing firm and working for so many clients. This job is for one of our direct client based in Farmington Hills, MI on full time basis.
-
-
-
-Job Description
-
-
-
-Job Description :
-
-
-
-What You Will Do:
-
-• Write scalable, extensible and clean code
-
-• Develop new features, from prototype to full product
-
-• Develop and maintain API's and libraries for our iOS Client
-
-• Help identify business needs and provide technical solutions and recommendations
-
-• Mentor junior developers
-
-
-
-What You Have:
-
-• Unit testing experience
-
-• Understanding of iOS frameworks
-
-• Comfortable writing in both Swift and Objective-C
-
-• Full application lifecycle experience
-
-• Have at least 1 app in the app store
-
-• Programming with and without ARC
-
-• Knowledge of ADA & VoiceOver preferred
-
-• Knowledge of localization preferred
-
-
-
-Qualifications
-
-
-
-5+ years iOS development experience
-
-Ability to start from the scratch
-
-Must have atleast one app in the store.
-
-
-
-Additional Information
-
-
-
-We are not able to sponsor any VISA at this time. So Independent visa holders like Green Card, US Citizenship, TN Visa are eligible to apply. Please H1 and EAD's don't apply for this job.
+1. Platform: iOS
+2. Salary: Not mentioned
+3. Requirements:
+  - 5+ years iOS development experience
+  - Ability to start from scratch
+  - Must have at least one app in the store
+  - Unit testing experience
+  - Understanding of iOS frameworks
+  - Comfortable writing in both Swift and Objective-C
+  - Full application lifecycle experience
+  - Programming with and without ARC
+4. Nice to have:
+  - Knowledge of ADA & VoiceOver preferred
+  - Knowledge of localization preferred
+5. Responsibilities:
+  - Write scalable, extensible, and clean code
+  - Develop new features, from prototype to full product
+  - Develop and maintain APIs and libraries for our iOS Client
+  - Help identify business needs and provide technical solutions and recommendations
+  - Mentor junior developers
+6. Benefits: Not mentioned
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-This a Full Remote job, the offer is available from: Romania
+1. Platform: Cross-platform
+2. Salary: Not mentioned
+3. Requirements:
+  - YOU have a few years experience on mobile development and knowlendge on Dart and Flutter mobile technologies.
+  - YOU have Android / iOS and Agile methodology knowledge.
+  - YOUR English is fluent and you want to become a part of a great Team.
+4. Nice to have: Not mentioned
+5. Responsibilities: Not mentioned
+6. Benefits: Not mentioned
 
-
-
-Company Description
-
-
-
-Our international Client is looking for MOBILE DEVELOPERS with experience on FLUTTER.
-
-
-
-Job Description
-
-
-
-YOU have a few years experience on mobile development and knowlendge on Dart and Flutter mobile technologies.
-
-
-
-YOU have Android / iOS and Agile methodology knowledge.
-
-
-
-YOUR English is fluent and you want to become a part of a great Team.
-
-
-
-If interested, drop me a line in confidence.
-
-
-
-#imonacareers #growwithus #exploretheworld #noborders #flutter
-
-
-
-Qualifications
-
-
-
-English and Romanian fluency is needed.
-
-
-
-This offer from "IMONA Consulting" has been enriched by Jobgether.com and got a 72% flex score.
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-About Adidev Technologies Inc.
-
-
-
-Adidev Technologies,(www.adidevtechnologies.com) a premier IT consulting firm delivering top-notch iOS & android Developer solutions to industry giants including Delta, Google, Apple, Spotify, US Bank, FedEx, and more. We're not just a software consulting company – we're a dynamic force shaping the future of technology.Partnering with industry giants, we consistently deliver groundbreaking solutions that redefine the digital landscape. As we continue to expand our footprint, we're on the hunt for exceptional individuals who can bring their technical prowess to our team and elevate our projects to new levels of innovation.
-
-
-
-Your journey with us means hands-on experience with renowned end clients. We're a people development firm. You bring your foundational skills & we nurture, mentor, and train you in iOS & Android Development to provide consultative services to our clients.
-
-
-
-We are seeking enthusiastic and skilled Entry - Mid-Senior-level iOS and Android developers with a minimum of 1-2 years of experience to join our dynamic team. This is a unique opportunity that requires dedication, the drive to excel, and a passion for creating impactful applications. Join us in a pivotal role that promises to challenge your expertise and drive your career to new heights.
-
-
-
-Expertise: We excel in IT consultative services and quality engineer development, with Good years of experience.
-
-
-
-Global Presence: Our diverse employee workforce spans four continents.
-
-
-
-Proven Track Record: Hundreds of Fortune 1000 and innovative startup clients with thousands of successful projects across the USA.
-
-
-
-How We'll Guide You
-
-
-
-Teaching and Development: We are dedicated to nurturing your growth and development, shaping you into an exceptional consultant capable of delivering top-tier solutions to our end clients.
-
-
-
-Custom Support: An array of teams, from Development Managers to Tech Subject Matter Experts, are dedicated to your success.
-
-
-
-Project Placement: A market-expertise team ensures you secure and thrive in projects with our esteemed clients.
-
-
-
-Career Growth: We facilitate industry experience to propel your technical journey forward.
-
-
-
-Job Description
-
-
-
-In this role, you will be an integral part of our development team, contributing to the design, development, and maintenance of large-scale applications for our prominent clients. We are focused on on-site collaboration; hence, we do not offer telecommuting or remote positions.
-
-
-
-Successful candidates must be open to relocating to new cities or states based on client assignments, typically spanning 6 to 18 months with the possibility of extensions.
-
-
-
-Key Role Highlights
-
-
-
-Position: Entry - mid- senior-level iOS and Android Developers
-
-
-
-Location: Onsite (No remote positions available)
-
-
-
-Relocation: Mandatory for assignments spanning 6 to 18 months with Extensions
-
-
-
-Compensation: Highly Competitive, commensurate with expertise
-
-
-
-Type: Full-time (W2 or Contract 1099), 40 hours per week
-
-
-
-Qualifications and Skills
-
-
-
-Responsibilities
-
-• Design, develop, and enhance applications for either the iOS or Android platform.
-
-• Ensure application performance, quality, and responsiveness.
-
-• Collaborate with a team to define, design, and implement new features.
-
-• Identify and address bottlenecks, fix bugs, and maintain code quality.
-
-• Establish effective communication with clients.
-
-• Provide accurate project milestones and timelines.
-
-• Maintain positive rapport with all clients
-
-• Gather requirements and provide accurate and realistic project milestones and timelines for completion
-
-• Complete coding tests or challenges as required.
-
-• Maintain consistent communication through phone, text, and email.
-
-• Suggest improvements to existing apps.
-
-• Deliver projects on time and communicate any changes promptly.
-
-
-
-Android Developer
-
-• Strong understanding of MVC / MVVM software architectural patterns.
-
-• Proficiency in Java and Kotlin (at least 1 year of experience).
-
-• Published at least 1 application on the Play Store.
-
-• Familiarity with Android SDK, various Android versions, and screen size adaptability.
-
-• Experience with testing frameworks like Espresso and JUnit.
-
-• Knowledge of mobile data storage using SQLite, Room.
-
-• Familiarity with RESTful APIs for back-end integration.
-
-• Comfortable with GIT, SVN, and source control.
-
-• Excellent communication skills (written and verbal).
-
-• Innate work ethic and self-leadership skills
-
-• Exceptional written and verbal communication aptitude
-
-• A portfolio featuring impactful application releases is a significant advantage
-
-
-
-IOS Developer
-
-• Proficiency in Swift and Objective-C. (atleast 1 year of experience).
-
-• Experience with iOS frameworks (e.g., Core Data,Coco touch, Combine & Core Animation).
-
-• Familiarity with design patterns (MVC, Singleton).
-
-• Published at least 1 application on the Play Store.
-
-• Thorough understanding of offline storage, threading, and performance optimization.
-
-• Knowledge of RESTful APIs for connecting iOS apps to back-end services.
-
-• Experience with 3rd party API integrations (e.g., Facebook, Dropbox).
-
-• Familiarity with UI/UX standards and Apple's design principles.
-
-• Knowledge of C-based libraries preferred.
-
-• Experience with performance and memory tuning tools.
-
-• Proficient in code versioning tools (e.g., Git).
-
-• Innate work ethic and self-leadership skills
-
-• Exceptional written and verbal communication aptitude
-
-• A portfolio featuring impactful application releases is a significant advantage
-
-
-
-Perks and Beyond!
-
-
-
-Competitive salary range: $60k to $85k or $30/hr to $40/hr (depending on experience)
-
-
-
-Pack your bags! Paid relocation is on us.
-
-
-
-Support, even from afar, with our remote assistance.
-
-
-
-Regular salary reviews? You betcha!
-
-
-
-Ready to Embark?
-
-
-
-If you're a visionary in mobile app development and meet our rigorous standards, we invite you to take this extraordinary step with us. Showcase your journey in pushing the limits of mobile engineering by submitting your resume and a curated selection of your most influential projects. At Adidev Technologies, we're dedicated to shaping your success. Join us to craft a future powered by innovation and growth.
-
-
-
-Note: Adidev Technologies Inc. is a staunch advocate of diversity and equal opportunity. We warmly welcome applications from candidates of all backgrounds, experiences, and walks of life. Your unique perspective could be the catalyst for our next revolutionary breakthrough.
+1. Platform: Android, iOS
+2. Salary: $60k to $85k or $30/hr to $40/hr (depending on experience)
+3. Requirements:
+For Android Developers:
+  - Strong understanding of MVC / MVVM software architectural patterns.
+  - Proficiency in Java and Kotlin (at least 1 year of experience).
+  - Published at least 1 application on the Play Store.
+  - Familiarity with Android SDK, various Android versions, and screen size adaptability.
+  - Experience with testing frameworks like Espresso and JUnit.
+  - Knowledge of mobile data storage using SQLite, Room.
+  - Familiarity with RESTful APIs for back-end integration.
+  - Comfortable with GIT, SVN, and source control.
+  - Excellent communication skills (written and verbal).
+  - Innate work ethic and self-leadership skills.
+  - Exceptional written and verbal communication aptitude.
+For iOS Developers:
+  - Proficiency in Swift and Objective-C (at least 1 year of experience).
+  - Experience with iOS frameworks (e.g., Core Data, Coco Touch, Combine & Core Animation).
+  - Familiarity with design patterns (MVC, Singleton).
+  - Published at least 1 application on the Play Store.
+  - Thorough understanding of offline storage, threading, and performance optimization.
+  - Knowledge of RESTful APIs for connecting iOS apps to back-end services.
+  - Experience with 3rd party API integrations (e.g., Facebook, Dropbox).
+  - Familiarity with UI/UX standards and Apple's design principles.
+  - Knowledge of C-based libraries preferred.
+  - Experience with performance and memory tuning tools.
+  - Proficient in code versioning tools (e.g., Git).
+  - Innate work ethic and self-leadership skills.
+  - Exceptional written and verbal communication aptitude.
+4. Nice to have:
+  - A portfolio featuring impactful application releases is a significant advantage.
+5. Responsibilities:
+  - Design, develop, and enhance applications for either the iOS or Android platform.
+  - Ensure application performance, quality, and responsiveness.
+  - Collaborate with a team to define, design, and implement new features.
+  - Identify and address bottlenecks, fix bugs, and maintain code quality.
+  - Establish effective communication with clients.
+  - Provide accurate project milestones and timelines.
+  - Maintain positive rapport with all clients.
+  - Gather requirements and provide accurate and realistic project milestones and timelines for completion.
+  - Complete coding tests or challenges as required.
+  - Maintain consistent communication through phone, text, and email.
+  - Suggest improvements to existing apps.
+  - Deliver projects on time and communicate any changes promptly.
+6. Benefits:
+  - Competitive salary range: $60k to $85k or $30/hr to $40/hr (depending on experience).
+  - Paid relocation.
+  - Support with remote assistance.
+  - Regular salary reviews.
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-Job Description
-
-
-
-Our Client is looking for iOS Developer in Emeryville, CA.
-
-
-
-Job Title: iOS Developer
-
-
-
-Location: Emeryville, CA
-
-
-
-Full time/Permanent job
-
-
-
-Qualifications
-
-• Experience in mobile application development
-
-• 2+ years of object-oriented software development experience
-
-• At least 2 years of experience in hands on iOS Development (Xcode, ObjectiveC, Swift, iOS Software Development Kit (SDK)) in a professional environment
-
-• At least 1 year experience in debugging and troubleshooting (battery usage, network usage optimization, etc.)
-
-• Experience with Swift is a plus
-
-• Experience with google maps api or apple maps
-
-
-
-NICE to have:
-
-• Experience with parse is a plus
-
-• Remote data via REST and JSON
-
-• 1-2 mobile apps published on the app store
-
-
-
-Additional Information
-
-
-
-All your information will be kept confidential according to EEO guidelines.
+1. Platform: iOS
+2. Salary: Not mentioned
+3. Requirements:
+  - Experience in mobile application development
+  - 2+ years of object-oriented software development experience
+  - At least 2 years of experience in hands-on iOS Development (Xcode, ObjectiveC, Swift, iOS Software Development Kit (SDK)) in a professional environment
+  - At least 1 year experience in debugging and troubleshooting (battery usage, network usage optimization, etc.)
+  - Experience with google maps api or apple maps
+4. Nice to have:
+  - Experience with Swift is a plus
+  - Experience with parse is a plus
+  - Remote data via REST and JSON
+  - 1-2 mobile apps published on the app store
+5. Responsibilities: Not mentioned
+6. Benefits: Not mentioned
