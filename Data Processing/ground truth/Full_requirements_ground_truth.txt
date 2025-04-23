@@ -1,130 +1,62 @@
-3. Requirements:
-Not mentioned
-
-4. Nice to have:
-Not mentioned
-
-5. Responsibilities:
-Not mentioned
+{}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-• Excellent knowledge of Android SDK  
-   • A deep experience with Kotlin, coroutines, and flows  
-   • Multiple experiences working with ExoPlayer  
-   • Experience with third-party libraries and APIs  
-   • Solid understanding of the full mobile development life cycle  
-   • Good communication skills and ability to work effectively in a small fast-paced team.  
-   • Be self-motivated to explore new technologies, apps, tools and frameworks.
-
-4. Nice to have:
-• Proven experience in developing video-based applications, with a deep understanding of video players, codecs, live streaming, and related technology  
-   • Expertise in video streaming, buffering, encoding, and decoding  
-   • Understanding of video file formats, video analysis, and metadata  
-   • Experience with video editing software and techniques is a plus  
-   • Experience with ExoPlayer cache is a plus  
-   • Basics in Design System approach  
-   • Experience with JetPack Compose
-
-5. Responsibilities:
-• Design and build advanced applications for the Android platform  
-   • Work closely with our product and design teams to customize the video experience for the Android platform  
-   • Focus on user experience, reliability, usability  
-   • Improve video playback performance and other video-related functionalities  
-   • Collaborate with cross-functional teams to define, design, and ship new features
+{
+   "languages_and_runtimes": ["Kotlin", "coroutines", "flows"],
+   "ui_and_cross_platform_frameworks": ["JetPack Compose"],
+   "device_and_platform_services_and_third_party_sdks": ["Android SDK", "ExoPlayer"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-• Ability to design and implement iOS applications with Xcode  
-   • Proficient in Objective-C  
-   • Knowledge of REST APIs  
-   • Attention to details  
-   • Experience working collaboratively with designers
-
-4. Nice to have:
-• Experience with Phonegap, HTML5  
-   • Adept at hacking open source software  
-   • Worked with git, subversion
-
-5. Responsibilities:
-Not mentioned
+{
+   "languages_and_runtimes": ["Objective-C"],
+   "ui_and_cross_platform_frameworks": ["PhoneGap"],
+   "build_and_dependency_management": ["Xcode"],
+   "networking_and_api": ["REST API"],
+   "version_control": ["git", "subversion"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-• 5+ years of experience in native iOS development using Swift  
-   • Strong understanding of Design Patterns and Object-Oriented Design principles  
-   • Experience working with Restful APIs and implementing scalable architecture  
-   • Ability to work well in a team, self-driven, and eager to learn
+{
+   "languages_and_runtimes":["Swift"],
+   "networking_and_api":["REST API"],
+   "development_methodologies":["Agile"]
+}
 
-4. Nice to have:
-Not mentioned
-
-5. Responsibilities:
-• Design, develop, and deliver high-quality software using agile techniques  
-   • Develop clean, maintainable, and reliable code for our native iOS applications  
-   • Collaborate with other developers, sharing and receiving knowledge to drive continuous improvement
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-- Completed degree in computer science or a comparable qualification.  
-   - Several years of professional experience in iOS development with Swift and Objective-C.  
-   - Experience with HealthKit, CoreData, and API integration.  
-   - Understanding of healthcare requirements, ideally with experience in health apps.  
-   - Experience working with agile development methods (Scrum/Kanban).  
-   - Proficiency in Git and modern development tools like Xcode.  
-   - Good German and English language skills.
-
-4. Nice to have:
-Not mentioned
-
-5. Responsibilities:
-- Development and maintenance of iOS applications in the healthcare sector.  
-   - Conceptualization, design, and implementation of new features as well as their further development.  
-   - Close collaboration with backend developers, UX/UI designers, and product management.  
-   - Ensuring high code quality through code reviews and unit tests.  
-   - Integration of interfaces (APIs) and other technologies required for healthcare apps.  
-   - Analysis and resolution of technical issues as well as optimization of app performance.
+{
+   "languages_and_runtimes": ["Objective-C", "Swift"],
+   "data_and_caching": ["CoreData"],
+   "device_and_platform_services_and_third_party_sdks": ["HealthKit"],
+   "version_control": ["Git"],
+   "build_and_dependency_management": ["Xcode"],
+   "development_methodologies": ["Kanban", "Scrum"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-• At least 3 years of experience in building Android applications;  
-   • Being passionate about software development and problem solving;  
-   • Solid experience with both Kotlin and Java;  
-   • Good knowledge of Android Studio and Android SDK;  
-   • Knowledge of software design patterns;  
-   • Experience with dependency injection (with Dagger, for ex.);  
-   • Strong skills with unit testing;  
-   • Good knowledge of MVVM architecture;  
-   • Experience with reactive programming (RxJava);  
-   • Ability to apply Continuous integration techniques;  
-   • You have strong verbal and written English language skills.
-
-4. Nice to have:
-Not mentioned
-
-5. Responsibilities:
-• Propose and work on new solutions with respect to the technical and functional needs of a given project;  
-   • Maintain high quality of code, as well as solve appearing challenges with respect to the team guidelines and conventions;  
-   • Ensure high level of functional and technical compliance of the features with the help of unit/integration test;  
-   • Improvement of the UX;  
-   • Making sure that CI processes are followed alongside with overall availability, stability and good performance level of the application;  
-   • Being an active participant of the process of creation of prototypes and supporting innovation within Veepee;  
-   • Actively contribute to code reviews.
+{!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+   "languages_and_runtimes": ["Java", "Kotlin", "RxJava"],
+   "ui_and_cross_platform_frameworks": ["Android SDK"],
+   "architectural_patterns": ["MVVM"],
+   "dependency_injection_frameworks": ["Dagger"],
+   "build_and_dependency_management": ["Android Studio"]
+}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ----------------------------------------------------------------------------------------------------
@@ -136,7 +68,7 @@ Not mentioned
    • Expertise in creating secure, high-performance solutions focused on user experience (UX) and user interface (UI).  
    • Knowledge of modern tools and workflows, including version control systems (e.g., Git) and Agile methodologies.  
    • Attention to detail in writing clean, efficient, and well-documented code.  
-   • Excellent communication skills and a collaborative mindset to share knowledge and contribute to the team's success.
+   • Excellent communication skills and a collaborative mindset to share knowledge and contribute to the team`s success.
 
 4. Nice to have:
 Not mentioned
