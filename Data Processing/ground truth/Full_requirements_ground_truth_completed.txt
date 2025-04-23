@@ -4,37 +4,32 @@
 
 {
   "languages_and_runtimes": [
-    "coroutines",
-    "kotlin"
+    "Kotlin",
+    "coroutines"
   ],
   "ui_and_cross_platform_frameworks": [
-    "compose",
-    "jetpack",
     "jetpack compose"
   ],
-  "device_and_platform_services": [
+  "device_and_platform_services_and_third_party_sdks": [
     "android sdk",
-    "exoplayer",
-    "jetpack"
-  ],
-  "third_party_sdks": [
-    "exoplayer",
-    "exoplayer cache"
-  ]
+    "exoplayer"
 }
 
 ----------------------------------------------------------------------------------------------------
 
 {
   "languages_and_runtimes": [
-    "c",
-    "objective-c"
+    "objective-c",
+    "HTML5"
+  ],
+  "ui_and_cross_platform_frameworks": [
+    "PhoneGap",
   ],
   "build_and_dependency_management": [
-    "xcode"
+    "Xcode"
   ],
   "networking_and_api": [
-    "rest"
+    "REST API"
   ],
   "version_control": [
     "git"
