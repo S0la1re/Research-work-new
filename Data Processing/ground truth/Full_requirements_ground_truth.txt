@@ -26,7 +26,6 @@
 ----------------------------------------------------------------------------------------------------
 
 
-
 {
    "languages_and_runtimes":["Swift"],
    "networking_and_api":["REST API"],
@@ -34,9 +33,7 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
@@ -52,7 +49,6 @@
 ----------------------------------------------------------------------------------------------------
 
 
-
 {
    "languages_and_runtimes": ["Java", "Kotlin", "RxJava"],
    "ui_and_cross_platform_frameworks": ["Android SDK"],
@@ -65,7 +61,6 @@
 ----------------------------------------------------------------------------------------------------
 
 
-
 {
    "languages_and_runtimes": ["Objective-C", "Swift"],
    "development_methodologies": ["Agile"],
@@ -73,9 +68,7 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
@@ -88,9 +81,7 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
@@ -99,9 +90,7 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
@@ -110,16 +99,12 @@
 }
 
 
-
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
    "languages_and_runtimes": ["Kotlin"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -133,14 +118,12 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
 {
    "device_and_platform_services_and_third_party_sdks": ["HAL"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -154,7 +137,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -166,7 +148,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -176,7 +157,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -184,7 +164,6 @@
    "languages_and_runtimes": ["C", "C++", "Objective-C", "Swift"],
    "development_methodologies": ["Agile"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -197,7 +176,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -205,7 +183,6 @@
    "networking_and_api": ["REST API"],
    "device_and_platform_services_and_third_party_sdks": ["Android SDK"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -219,7 +196,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -229,9 +205,7 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
-
 
 
 {
@@ -239,7 +213,6 @@
    "ui_and_cross_platform_frameworks": ["Compose", "Kotlin Multi-platform"],
    "development_methodologies": ["Agile", "Scrum"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -263,8 +236,6 @@
 }
 
 
-
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -282,7 +253,6 @@
    "development_methodologies": ["Scrum"],
    "collaboration_pm_and_design_handoff": ["Figma", "Jira"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -306,7 +276,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -323,7 +292,6 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -334,14 +302,12 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
 {
    "languages_and_runtimes": ["Kotlin"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -353,7 +319,6 @@
    "version_control": ["GIT", "Gerrit"],
    "collaboration_pm_and_design_handoff": ["Jira"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -369,8 +334,6 @@
 }
 
 
-
-
 ----------------------------------------------------------------------------------------------------
 
 
@@ -379,7 +342,6 @@
    "version_control": ["Git"],
    "development_methodologies": ["Agile"]
 }
-
 
 
 ----------------------------------------------------------------------------------------------------
@@ -402,115 +364,53 @@
 }
 
 
-
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-• Great English skills for effective communication with international teams  
-   • Fluent Hungarian language knowledge is highly valued  
-   • Experience in Objective-C based iOS development  
-   • Proficiency in Swift programming language  
-   • Familiarity with iOS frameworks such as UIKit, Core Data, Core Animation, etc.  
-   • Experience with offline storage, threading, and performance tuning  
-   • Familiarity with RESTful APIs to connect iOS applications to back-end services  
-   • Understanding of Apple's design principles and interface guidelines  
-   • Experience working with Cocoapods and open-source libraries  
-   • Experience with performance and memory tuning using Instruments tool  
-   • Familiarity with cloud message APIs and push notifications  
-   • Solid understanding of application design patterns like MVC, MVVM, VIPER, etc.  
-   • Proficient understanding of Git  
-   • Familiarity with continuous integration tools like Jenkins CI
-
-4. Nice to have:
-• Knowledge of unit testing, e.g., XCTest, mock objects, etc.
-
-5. Responsibilities:
-• Apply your expertise in mobile application development on the iOS platform to improve user experience  
-   • Collaborate with cross-functional teams to design and develop solutions to challenging problems  
-   • Provide leadership to development teams and mentor junior developers by setting up standards and best practices
+{
+   "languages_and_runtimes": ["Objective-C", "Swift"],
+   "ui_and_cross_platform_frameworks": ["UIKit"],
+   "architectural_patterns": ["MVC", "MVVM", "VIPER"],
+   "build_and_dependency_management": ["CocoaPods"],
+   "data_and_caching": ["Core Data"],
+   "networking_and_api": ["RESTful APIs"],
+   "device_and_platform_services_and_third_party_sdks": ["Core Animation", "Notifications"],
+   "testing_frameworks": ["XCTest"],
+   "version_control": ["Git"],
+   "ci_cd_and_release_automation": ["Jenkins"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-- ... are passionate about creating and delivering high quality, well tested software  
-   - ... are experienced in building mobile applications with Swift  
-   - … are experienced in writing unit tests wit the XCTest Framework  
-   - … are experienced in working with REST APIs and OpenAPI documentation  
-   - … are able to integrate REST APIs and WebSockets into the application  
-   - … identify and address performance bottlenecks and troubleshoot application issues  
-   - … are able to apply security best practices and protect against OWASP top 10 vulnerabilities  
-   - ... are detailed, flexible & organized  
-   - ... are analytical with a problem solving mindset  
-   - ... are an active contributor in a fun, motivated & growing team!  
-   - ... have a positive mindset and you are result driven  
-   - ... are excellent in Dutch & English, speaking & writing  
-   - ... have a Bachelor in Informatics or equivalent through experience
-
-4. Nice to have:
-- … have experience in Objective - C and SwiftUI this is a plus
-
-5. Responsibilities:
-- You will be working closely with your Product Owner, UX designer & other engineers and developers to translate new features into code in an Agile workflow to help grow our business and keep our customers happy!  
-   - Your task mainly consists of analyzing, developing and programming the AVIOBOOK software.  
-   - In addition, you will participate in analyzing inquiries from internal and external parties and developing and implementing (partial) functions within the AvioVision software related to them.  
-   - Furthermore you will be expected to support younger software developers in their tasks and you will be responsible for following up and reading internal and external documents to gain and further build knowledge regarding the functionalities of the AvioVision Software and component or integrations parts thereof.
+{
+   "languages_and_runtimes": ["Objective - C", "Swift"],
+   "ui_and_cross_platform_frameworks": ["SwiftUI"],
+   "networking_and_api": ["REST APIs", "WebSockets"],
+   "security_and_cryptography": ["OWASP"],
+   "testing_frameworks": ["XCTest"],
+   "documentation_and_knowledge_sharing": ["OpenAPI"],
+   "development_methodologies": ["Agile"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-- Kotlin experience  
-   - Good experience of mobile testing processes  
-   - Very good knowledge of one platform with knowledge of at least one other  
-   - Good understanding and regular use of Branching Strategies (I.e. GitFlow)  
-   - Good understanding of build process post-PR.  
-   - Understanding of Software Architecture principles, design patterns and system design concepts.  
-   - Capable of writing unit tests and create test doubles.  
-   - Good knowledge of external tools can be used to complete RCA of issues.  
-   - Able to write good documentation and role models high standards to ensure consistency.  
-   - Actively engage with all UI/UX principles.  
-   - Demonstrate good knowledge of avoiding single dependencies and considers security issues in their general approach to work  
-   - Hands-on delivery of Mobile solutions according to the sprint backlog  
-   - Performed a suitable degree of testing against a given solution before delivery  
-   - Performed issue diagnosis using external tools to find the root cause.  
-   - Actively engaged with UI/UX where there are contradictions to Human Interface Guidelines/Material Design.  
-   - Inputting towards the overarching solution design
-
-4. Nice to have:
-Not mentioned
-
-5. Responsibilities:
-- Being part of feature and app development from concept through to production, utilising technical skills for app development  
-   - Proactively brings formed decisions to Senior members of the team to reinforce their ideas to ensure they are on the right track  
-   - Actively fostering collaboration with peers in the team in the interest of quality and efficiency  
-   - Working collaboratively with Engineering colleagues and leads to meet sprint  
-   - Collaborates with product owners to ensure that expectations are managed, delivering as required within the specified timelines  
-   - Ensuring tasks are prioritised correctly by making data-led decisions  
-   - Assisting POs/BAs in refining stories to ensure that they meet the teams  
-   - Presenting on the work delivered within an iteration to key stakeholders, clearly demoing the business value in language that non-technical stakeholders can understand.  
-   - Being part of continuous improvement in the team (including quality, process, teamwork, but not limited to these things) through retrospectives and other appropriate channels.  
-   - Using 10% time to increase knowledge and capability of industry-relevant technologies and practices.  
-   - Engaging in cross-skilling within teams across the stack.  
-   - Sharing knowledge across teams through suitable channels (blogs, lightning talks, demos, workshops)  
-   - Documenting solutions and projects to an appropriate level including technical diagrams, associated links and technical notes.
+{
+   "languages_and_runtimes": ["Kotlin"],
+   "version_control": ["GitFlow"]
+}
 
 
 ----------------------------------------------------------------------------------------------------
 
 
-3. Requirements:
-- Been involved in projects from conceptualisation to release.  
-   - Heavily involved in conversation around architecture and technical roadmap.  
-   - Mentoring less-senior developers.  
-   - Experience with Kotlin, Compose, Coroutines, Flow, and MVVM architecture.
+{
+   "languages_and_runtimes": ["Coroutines", "Flow", "Kotlin"],
+   "ui_and_cross_platform_frameworks": ["Compose"],
+   "architectural_patterns": ["MVVM"],
+   "device_and_platform_services_and_third_party_sdks": ["WebViews"]
+}
 
-4. Nice to have:
-- Exposure to integrating payment providers.  
-   - Exposure to WebViews.
-
-5. Responsibilities:
-Not mentioned
