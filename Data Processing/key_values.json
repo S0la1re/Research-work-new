@@ -1,0 +1,20 @@
+{
+    "architectural_patterns": [
+        "Clean Architecture",
+        "MVC",
+        "MVI",
+        "MVP",
+        "MVVM",
+        "Redux",
+        "VIP",
+        "VIPER"
+    ],
+    "backend_or_baas_integration": [
+        "aws",
+        "aws amplify",
+        "aws cognito",
+        "aws mobile hub",
+        "aws s3",
+        "firebase"
+    ]
+}
