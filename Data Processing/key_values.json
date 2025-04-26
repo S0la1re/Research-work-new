@@ -20,9 +20,6 @@
     ],
     "backend_or_baas_integration": [
         "aws",
-        "aws amplify",
-        "aws cognito",
-        "aws mobile hub",
         "aws s3",
         "azure",
         "firebase",
@@ -30,14 +27,11 @@
     ],
     "build_and_dependency_management": [
         "bazel",
-        "buck",
         "carthage",
         "cocoapods",
         "gradle",
         "maven",
-        "npm",
-        "spm",
-        "yarn"
+        "spm"
     ],
     "ci_cd_and_release_automation": [
         "teamcity",
@@ -48,73 +42,53 @@
         "fastlane",
         "github actions",
         "gitlab ci",
-        "jenkins",
-        "travis"
+        "jenkins"
     ],
     "code_quality_and_static_analysis": [
-        "lint",
-        "pmd",
-        "sonarqube",
-        "checkmarx",
-        "veracode"
+        "sonarqube"
     ],
     "collaboration_pm_and_design_handoff": [
         "confluence",
         "figma",
         "jira",
-        "slack",
-        "trello",
         "zeplin"
     ],
     "compliance_and_certifications": [],
     "data_and_caching": [
-        "cassandra",
         "core data",
         "dynamodb",
         "mongodb",
         "mysql",
         "nosql",
-        "postgresql",
         "realm",
-        "redis",
         "room",
-        "sap ultralite",
         "sqlite"
     ],
     "debugging_or_profiling": [
         "adb",
         "android profiler",
-        "chrome devtools",
         "frida",
         "gdb",
         "ghidra",
-        "memory profiler",
-        "visualvm",
         "windbg"
     ],
     "dependency_injection_frameworks": [
-        "autofac",
         "dagger",
-        "guice",
         "hilt",
         "koin",
-        "swinject",
-        "typhoon"
+        "swinject"
     ],
     "development_methodologies": [
         "agile",
         "kanban",
-        "lean",
         "safe",
         "scrum",
-        "waterfall",
-        "xp"
+        "waterfall"
     ],
     "engineering_practices_and_devops": [
         "devops",
         "tdd",
         "bdd",
-        "pair programming",
         "docker"
     ],
     "device_and_platform_services_and_third_party_sdks": [
@@ -135,8 +109,6 @@
         "core bluetooth",
         "core location",
         "coreml",
-        "cydiasubstrate",
-        "facebook",
         "facebook sdk",
         "fire tv",
         "google maps",
@@ -156,28 +128,17 @@
     "distribution_and_store_operations": [
         "app store",
         "app store connect",
-        "codepush",
         "google play console",
         "google play store",
-        "hockeyapp",
         "testflight"
     ],
     "documentation_and_knowledge_sharing": [
-        "apidoc",
-        "javadoc",
-        "markdown",
         "openapi",
-        "raml",
         "swagger"
     ],
     "ide_and_code_editors": [
         "android studio",
         "eclipse",
-        "intellij idea",
-        "netbeans",
-        "visual studio",
-        "vim",
-        "vscode",
         "xcode"
     ],
     "languages_and_runtimes": [
@@ -205,55 +166,37 @@
     "monitoring_analytics_and_crash_reporting": [
         "amplitude",
         "app center",
-        "bugsnag",
         "crashlytics",
         "datadog",
         "firebase analytics",
         "google analytics",
-        "mixpanel",
-        "new relic",
         "sentry"
     ],
     "networking_and_api": [
         "alamofire",
-        "apollo",
-        "axios",
-        "fetch",
         "graphql",
         "grpc",
-        "http",
         "moya",
         "okhttp",
         "protocol buffers",
-        "protobuf",
         "rest api",
         "retrofit",
-        "socket.io",
         "urlsession",
-        "volley",
         "websockets"
     ],
     "security_and_cryptography": [
-        "bcrypt",
-        "encryption",
-        "jwt",
         "keychain",
         "oauth",
         "oauth2",
         "owasp",
-        "saml",
-        "sso",
-        "ssl",
         "tls pinning"
     ],
     "testing_frameworks": [
         "appium",
-        "cucumber",
         "cts",
         "espresso",
         "junit",
         "mockito",
-        "pytest",
         "robolectric",
         "xcui",
         "xcuitest",
@@ -267,7 +210,6 @@
         "react native", 
         "ionic", 
         "cordova", 
-        "phonegap", 
         "xamarin"
     ],
     "ui_native": [
@@ -287,12 +229,8 @@
         "github",
         "gitlab",
         "mercurial",
-        "perforce",
         "svn",
         "subversion"
-    ],
-    "iot_and_connectivity": [
-        "lora"
     ],
     "native_interop": [
         "jni",
