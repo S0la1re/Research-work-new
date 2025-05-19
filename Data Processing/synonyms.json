@@ -1,0 +1,11 @@
+{
+  "git": ["git", "g it", "g-i-t", "g_it", "gi t", "gt", "itg", "git.", "git-", "git_"],
+  "hig": ["hig", "h i g", "h-i-g", "hi g", "hg", "hig.", "hig-", "hig_", "h1g", "hiig"],
+  "mvc": ["mvc", "m v c", "m-v-c", "m.v.c", "mv c", "mvvc", "mvc_", "mvc pattern", "mvc architecture", "m_v_c"],
+  "mvi": ["mvi", "m v i", "m-v-i", "m.v.i", "mv i", "m_v_i", "mvi architecture", "mvi pattern", "mvii", "mvi."],
+  "mvp": ["mvp", "m v p", "m-v-p", "m.v.p", "mv p", "mvp pattern", "mvp architecture", "m_v_p", "mvpp", "mvp."],
+  "mvvm": ["mvvm", "m v v m", "m-v-v-m", "m.v.v.m", "mvv m", "m_v_v_m", "mvvm pattern", "mvvm architecture", "mvvvm", "mvvm."],
+  "redux": ["redux", "re dux", "re-dux", "re.dux", "redu x", "redux.", "redux_", "reduxx", "redx", "redus"],
+  "vip": ["vip", "v i p", "v-i-p", "v.i.p", "v_ip", "vi p", "vipp", "vip.", "vip_", "viiip"],
+  "viper": ["viper", "vi per", "vi-per", "vi.per", "viper architecture", "viper pattern", "v1per", "vippper", "viper_", "viper."]
+}
