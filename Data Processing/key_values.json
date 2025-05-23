@@ -15,11 +15,11 @@
         "rxswift",
         "combine",
         "kotlin coroutines",
-        "flows",
+        "kotlin flows",
         "gcd",
         "swift concurrency"
     ],
-    "backend_or_baas_integration": [
+    "backend_and_baas_integration": [
         "aws",
         "aws s3",
         "azure",
@@ -79,7 +79,7 @@
         "sqlite",
         "sql server"
     ],
-    "debugging_or_profiling": [
+    "debugging_and_profiling": [
         "adb",
         "android profiler",
         "frida",
@@ -134,7 +134,7 @@
         "location",
         "mapkit",
         "nfc",
-        "push notifications / notifications",
+        "notifications",
         "sensors",
         "stripe sdk",
         "watchos",
