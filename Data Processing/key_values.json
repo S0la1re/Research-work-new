@@ -16,14 +16,20 @@
         "combine",
         "kotlin coroutines",
         "flows",
-        "gcd"
+        "gcd",
+        "swift concurrency"
     ],
     "backend_or_baas_integration": [
         "aws",
         "aws s3",
         "azure",
         "firebase",
-        "firestore"
+        "firestore",
+        "aws amplify",
+        "aws lambda",
+        "google cloud",
+        "parse",
+        "spring boot"
     ],
     "build_and_dependency_management": [
         "bazel",
@@ -31,7 +37,10 @@
         "cocoapods",
         "gradle",
         "maven",
-        "spm"
+        "spm",
+        "makefile",
+        "npm",
+        "yocto"
     ],
     "ci_cd_and_release_automation": [
         "teamcity",
@@ -41,19 +50,24 @@
         "circleci",
         "fastlane",
         "github actions",
-        "gitlab ci",
-        "jenkins"
+        "jenkins",
+        "unity cloud build",
+        "xcode cloud"
     ],
     "code_quality_and_static_analysis": [
-        "sonarqube"
+        "sonarqube",
+        "swiftlint"
     ],
     "collaboration_pm_and_design_handoff": [
         "confluence",
         "figma",
         "jira",
-        "zeplin"
+        "zeplin",
+        "trello"
     ],
-    "compliance_and_certifications": [],
+    "compliance_and_certifications": [
+        "gdpr"
+    ],
     "data_and_caching": [
         "core data",
         "dynamodb",
@@ -62,7 +76,8 @@
         "nosql",
         "realm",
         "room",
-        "sqlite"
+        "sqlite",
+        "sql server"
     ],
     "debugging_or_profiling": [
         "adb",
@@ -70,7 +85,8 @@
         "frida",
         "gdb",
         "ghidra",
-        "windbg"
+        "windbg",
+        "cydiasubstrate"
     ],
     "dependency_injection_frameworks": [
         "dagger",
@@ -109,7 +125,6 @@
         "core bluetooth",
         "core location",
         "coreml",
-        "facebook",
         "facebook sdk",
         "fire tv",
         "google maps",
@@ -119,19 +134,24 @@
         "location",
         "mapkit",
         "nfc",
-        "push notifications",
+        "push notifications / notifications",
         "sensors",
         "stripe sdk",
         "watchos",
         "webkit",
-        "webviews"
+        "webviews",
+        "avkit",
+        "core audio",
+        "core motion",
+        "google cloud messaging",
+        "metal",
+        "paypal sdk"
     ],
     "distribution_and_store_operations": [
-        "app store",
-        "app store connect",
-        "google play console",
-        "google play store",
-        "testflight"
+        "app store / app store connect",
+        "google play store / google play console",
+        "testflight",
+        "google play billing"
     ],
     "documentation_and_knowledge_sharing": [
         "openapi",
@@ -162,16 +182,20 @@
         "rust",
         "sql",
         "swift",
-        "typescript"
+        "typescript",
+        ".net core",
+        "groovy",
+        "scala",
+        "vb"
     ],
     "monitoring_analytics_and_crash_reporting": [
         "amplitude",
         "app center",
         "crashlytics",
         "datadog",
-        "firebase analytics",
         "google analytics",
-        "sentry"
+        "sentry",
+        "mixpanel"
     ],
     "networking_and_api": [
         "alamofire",
@@ -183,14 +207,17 @@
         "rest api",
         "retrofit",
         "urlsession",
-        "websockets"
+        "websockets",
+        "webrtc"
     ],
     "security_and_cryptography": [
         "keychain",
         "oauth",
         "oauth2",
         "owasp",
-        "tls pinning"
+        "tls pinning",
+        "aes",
+        "rsa"
     ],
     "testing_frameworks": [
         "appium",
@@ -230,7 +257,6 @@
         "github",
         "gitlab",
         "mercurial",
-        "svn",
         "subversion"
     ],
     "native_interop": [
