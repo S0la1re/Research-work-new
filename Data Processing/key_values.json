@@ -1,245 +1,271 @@
-{
-    "architectural_patterns": [
-        "clean architecture",
-        "mvc",
-        "mvi",
-        "mvp",
-        "mvvm",
-        "redux",
-        "vip",
-        "viper"
-    ],
-    "asynchronous_parallel_and_reactive_programming": [
-        "rxjava",
-        "rxkotlin",
-        "rxswift",
-        "combine",
-        "kotlin coroutines",
-        "flows",
-        "gcd"
-    ],
-    "backend_or_baas_integration": [
-        "aws",
-        "aws s3",
-        "azure",
-        "firebase",
-        "firestore"
-    ],
-    "build_and_dependency_management": [
-        "bazel",
-        "carthage",
-        "cocoapods",
-        "gradle",
-        "maven",
-        "spm"
-    ],
-    "ci_cd_and_release_automation": [
-        "teamcity",
-        "azure devops",
-        "bamboo",
-        "bitrise",
-        "circleci",
-        "fastlane",
-        "github actions",
-        "gitlab ci",
-        "jenkins"
-    ],
-    "code_quality_and_static_analysis": [
-        "sonarqube"
-    ],
-    "collaboration_pm_and_design_handoff": [
-        "confluence",
-        "figma",
-        "jira",
-        "zeplin"
-    ],
-    "compliance_and_certifications": [],
-    "data_and_caching": [
-        "core data",
-        "dynamodb",
-        "mongodb",
-        "mysql",
-        "nosql",
-        "realm",
-        "room",
-        "sqlite"
-    ],
-    "debugging_or_profiling": [
-        "adb",
-        "android profiler",
-        "frida",
-        "gdb",
-        "ghidra",
-        "windbg"
-    ],
-    "dependency_injection_frameworks": [
-        "dagger",
-        "hilt",
-        "koin",
-        "swinject"
-    ],
-    "development_methodologies": [
-        "agile",
-        "kanban",
-        "safe",
-        "scrum",
-        "waterfall"
-    ],
-    "engineering_practices_and_devops": [
-        "devops",
-        "tdd",
-        "bdd",
-        "docker"
-    ],
-    "device_and_platform_services_and_third_party_sdks": [
-        "exoplayer",
-        "android auto",
-        "android hal",
-        "android sdk",
-        "android tv",
-        "aosp",
-        "arcore",
-        "arkit",
-        "avfoundation",
-        "avplayer",
-        "ble",
-        "bluetooth",
-        "camera",
-        "carplay",
-        "core bluetooth",
-        "core location",
-        "coreml",
-        "facebook sdk",
-        "fire tv",
-        "google maps",
-        "google play services",
-        "healthkit",
-        "ios sdk",
-        "location",
-        "mapkit",
-        "nfc",
-        "push notifications",
-        "sensors",
-        "stripe sdk",
-        "watchos",
-        "webkit",
-        "webviews"
-    ],
-    "distribution_and_store_operations": [
-        "app store",
-        "app store connect",
-        "google play console",
-        "google play store",
-        "testflight"
-    ],
-    "documentation_and_knowledge_sharing": [
-        "openapi",
-        "swagger"
-    ],
-    "ide_and_code_editors": [
-        "android studio",
-        "eclipse",
-        "xcode"
-    ],
-    "languages_and_runtimes": [
-        "c",
-        "c#",
-        "c++",
-        "css",
-        "dart",
-        "golang",
-        "html",
-        "java",
-        "javascript",
-        "kotlin",
-        "ruby",
-        "kotlin multiplatform",
-        "node.js",
-        "objective-c",
-        "php",
-        "python",
-        "rust",
-        "sql",
-        "swift",
-        "typescript"
-    ],
-    "monitoring_analytics_and_crash_reporting": [
-        "amplitude",
-        "app center",
-        "crashlytics",
-        "datadog",
-        "firebase analytics",
-        "google analytics",
-        "sentry"
-    ],
-    "networking_and_api": [
-        "alamofire",
-        "graphql",
-        "grpc",
-        "moya",
-        "okhttp",
-        "protocol buffers",
-        "rest api",
-        "retrofit",
-        "urlsession",
-        "websockets"
-    ],
-    "security_and_cryptography": [
-        "keychain",
-        "oauth",
-        "oauth2",
-        "owasp",
-        "tls pinning"
-    ],
-    "testing_frameworks": [
-        "appium",
-        "cts",
-        "espresso",
-        "junit",
-        "mockito",
-        "robolectric",
-        "xcui",
-        "xcuitest",
-        "xctest"
-    ],
-    "game_engines": [
-        "unity engine"
-    ],
-    "ui_cross_platform": [
-        "flutter", 
-        "react native", 
-        "ionic", 
-        "cordova", 
-        "xamarin"
-    ],
-    "ui_native": [
-        "uikit",
-        "glide",
-        "swiftui", 
-        "core animation", 
-        "cocoa touch", 
-        "watchkit", 
-        "jetpack compose"
-    ],
-    "version_control_and_branching": [
-        "bitbucket",
-        "gerrit",
-        "git",
-        "gitflow",
-        "github",
-        "gitlab",
-        "mercurial",
-        "svn",
-        "subversion"
-    ],
-    "native_interop": [
-        "jni",
-        "android ndk",
-        "binder",
-        "aidl"
-    ],
-    "ui_guidelines" : [
-        "hig",
-        "material design"
-    ]
+{      
+  "api_documentation": [
+    "openapi",
+    "swagger"
+  ],
+  "app_distribution": [
+    "app store / app store connect",
+    "google play billing",
+    "google play store / google play console",
+    "testflight"
+  ],
+  "architecture": [
+    "clean architecture",
+    "mvc",
+    "mvi",
+    "mvp",
+    "mvvm",
+    "redux",
+    "vip",
+    "viper"
+  ],
+  "backend_baas": [
+    "aws",
+    "aws amplify",
+    "aws lambda",
+    "aws s3",
+    "azure",
+    "firebase",
+    "firestore",
+    "google cloud",
+    "parse",
+    "spring boot"
+  ],
+  "build_dependency": [
+    "bazel",
+    "carthage",
+    "cocoapods",
+    "gradle",
+    "makefile",
+    "maven",
+    "npm",
+    "spm",
+    "yocto"
+  ],
+  "ci_cd": [
+    "azure devops",
+    "bamboo",
+    "bitrise",
+    "circleci",
+    "docker",
+    "fastlane",
+    "github actions",
+    "gitlab ci",
+    "jenkins",
+    "teamcity",
+    "unity cloud build",
+    "xcode cloud"
+  ],
+  "concurrency_reactive": [
+    "combine",
+    "gcd",
+    "kotlin coroutines",
+    "kotlin flow",
+    "rxjava",
+    "rxkotlin",
+    "rxswift",
+    "swift concurrency"
+  ],
+  "cross_platform_sdks": [
+    "ble",
+    "bluetooth",
+    "camera",
+    "facebook sdk",
+    "google cloud messaging",
+    "google maps",
+    "location",
+    "nfc",
+    "notifications",
+    "paypal sdk",
+    "sensors",
+    "stripe sdk"
+  ],
+  "cross_platform_ui": [
+    "cordova",
+    "flutter",
+    "ionic",
+    "react native",
+    "xamarin"
+  ],
+  "data_storage": [
+    "core data",
+    "dynamodb",
+    "mongodb",
+    "mysql",
+    "nosql",
+    "realm",
+    "room",
+    "sql server",
+    "sqlite"
+  ],
+  "debug_profiling": [
+    "adb",
+    "android profiler",
+    "cydiasubstrate",
+    "frida",
+    "gdb",
+    "ghidra",
+    "windbg"
+  ],
+  "dependency_injection": [
+    "dagger",
+    "hilt",
+    "koin",
+    "swinject"
+  ],
+  "game_dev": [
+    "unity engine"
+  ],
+  "ides": [
+    "android studio",
+    "eclipse",
+    "xcode"
+  ],
+  "languages": [
+    "c",
+    "c#",
+    "c++",
+    "css",
+    "dart",
+    "golang",
+    "groovy",
+    "html",
+    "java",
+    "javascript",
+    "kotlin",
+    "objective-c",
+    "php",
+    "python",
+    "ruby",
+    "rust",
+    "scala",
+    "sql",
+    "swift",
+    "typescript",
+    "vb"
+  ],
+  "methodologies": [
+    "agile",
+    "bdd",
+    "kanban",
+    "safe",
+    "scrum",
+    "tdd",
+    "waterfall"
+  ],
+  "monitoring_analytics": [
+    "amplitude",
+    "app center",
+    "crashlytics",
+    "datadog",
+    "google analytics",
+    "mixpanel",
+    "sentry"
+  ],
+  "native_interop": [
+    "aidl",
+    "android ndk",
+    "binder",
+    "jni"
+  ],
+  "native_ui": [
+    "cocoa touch",
+    "core animation",
+    "glide",
+    "jetpack compose",
+    "swiftui",
+    "uikit",
+    "watchkit",
+    "webviews"
+  ],
+  "networking": [
+    "alamofire",
+    "graphql",
+    "grpc",
+    "moya",
+    "okhttp",
+    "protocol buffers",
+    "rest api",
+    "retrofit",
+    "urlsession",
+    "webrtc",
+    "websockets"
+  ],
+  "platform_android": [
+    "android auto",
+    "android hal",
+    "android sdk",
+    "android tv",
+    "aosp",
+    "arcore",
+    "exoplayer",
+    "fire tv",
+    "google play services"
+  ],
+  "platform_apple": [
+    "arkit",
+    "avfoundation",
+    "avkit",
+    "avplayer",
+    "carplay",
+    "core audio",
+    "core bluetooth",
+    "core location",
+    "core motion",
+    "coreml",
+    "healthkit",
+    "ios sdk",
+    "mapkit",
+    "metal",
+    "watchos",
+    "webkit"
+  ],
+  "runtimes": [
+    ".net core",
+    "kotlin multiplatform",
+    "node.js"
+  ],
+  "security_compliance": [
+    "aes",
+    "gdpr",
+    "keychain",
+    "oauth",
+    "oauth2",
+    "owasp",
+    "rsa",
+    "tls pinning"
+  ],
+  "team_collaboration": [
+    "confluence",
+    "figma",
+    "jira",
+    "trello",
+    "zeplin"
+  ],
+  "testing_quality": [
+    "appium",
+    "cts",
+    "espresso",
+    "junit",
+    "mockito",
+    "robolectric",
+    "sonarqube",
+    "swiftlint",
+    "xctest",
+    "xcuitest"
+  ],
+  "design_guidelines": [
+    "hig",
+    "material design"
+  ],
+  "version_control": [
+    "bitbucket",
+    "gerrit",
+    "git",
+    "gitflow",
+    "github",
+    "gitlab",
+    "mercurial",
+    "subversion"
+  ]
 }
