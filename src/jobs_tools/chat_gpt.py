@@ -193,3 +193,67 @@ async def chatgpt_async(
             bar.update(1)
 
     return df
+
+
+
+async def translate_non_english_descriptions(df, language_col, job_desc_col, translated_col, client, gpt_model, language_mapping, batch_size=10, concurrency_limit=10, cache_file="./cache/job_description_english_cache.json"):
+    """
+    Translates non-English job descriptions into English using chatgpt_async().
+    Copies English job descriptions directly without translation.
+
+    Parameters:
+    - df: DataFrame containing job descriptions and their languages.
+    - language_col: Column name for ISO language codes.
+    - job_desc_col: Column name for job descriptions.
+    - translated_col: Column name where translated descriptions will be stored.
+    - client: OpenAI async client instance.
+    - gpt_model: GPT model name.
+    - batch_size: Number of rows to process per batch.
+    - concurrency_limit: Max concurrent API requests.
+    - cache_file: Path to store cache.
+
+    Returns:
+    - df: Updated DataFrame with translated job descriptions.
+    """
+    if language_mapping is None:
+        raise ValueError("language_mapping(key-value pairs) must be provided.")
+    # Language mapping dictionary
+
+    # Ensure the translated column exists
+    if translated_col not in df.columns:
+        df[translated_col] = ""
+
+    # Step 1: Copy English job descriptions (skip API calls for them)
+    df.loc[df[language_col] == "en", translated_col] = df.loc[df[language_col] == "en", job_desc_col]
+
+    # Step 2: Filter only non-English rows that still need translation
+    mask_non_english = (df[language_col] != "en") & (df[translated_col] == "")
+    
+    if not mask_non_english.any():
+        return df  # Nothing to translate
+
+    # Step 3: Generate dynamic prompts directly using .loc[] (avoiding SettingWithCopyWarning)
+    df.loc[mask_non_english, "user_prompt"] = df.loc[mask_non_english, language_col].map(
+        lambda lang: f"This is a {language_mapping.get(lang, 'Unknown')} to English translation, please provide the English translation for this job description:"
+    )
+
+    # Step 4: Run chatgpt_async() for translation
+    df_translated = await chatgpt_async(
+        input_column_name=job_desc_col,
+        output_column_name=translated_col,
+        df=df.loc[mask_non_english],  # No .copy(), keeping reference to df
+        user_prompt="user_prompt",  # Dynamic per row
+        gpt_model=gpt_model,
+        client=client,
+        batch_size=batch_size,
+        concurrency_limit=concurrency_limit,
+        cache_file=cache_file
+    )
+
+    # Step 5: Merge results back into original DataFrame
+    df.update(df_translated)
+
+    # Step 6: Remove the "user_prompt" column
+    df.drop(columns=["user_prompt"], inplace=True, errors="ignore")
+
+    return df
