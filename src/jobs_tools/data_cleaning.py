@@ -36,3 +36,30 @@ def remove_job_id_duplicates(df):
     print(f"- Remaining rows: {len(df_cleaned)}\n")
     
     return df_cleaned.drop(columns=["Domain Priority"])  # Remove the temporary column
+
+
+
+def split_values(df):
+    """Split 'Language langdetect confidence' into:
+       - 'Language': the two-letter code before the colon
+       - 'Confidence': the numeric part after the colon (as float64)
+       Then drop the original column.
+    """
+    # Insert 'Language' just before the original column
+    idx = df.columns.get_loc("Language langdetect confidence")
+    df.insert(idx, "Language",
+              df["Language langdetect confidence"]
+                .str.split(":", n=1)
+                .str[0])
+    
+    # Insert 'Confidence' right after it, converting to float64
+    df.insert(idx + 1, "Confidence",
+              df["Language langdetect confidence"]
+                .str.split(":", n=1)
+                .str[1]
+                .astype("float64"))
+    
+    # Drop the old combined column
+    df = df.drop(columns=["Language langdetect confidence"])
+    
+    return df
