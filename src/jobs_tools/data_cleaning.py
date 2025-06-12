@@ -63,3 +63,13 @@ def split_values(df):
     df = df.drop(columns=["Language langdetect confidence"])
     
     return df
+
+
+
+def low_confidence_data(df):
+    df = df.copy()
+    # Sort by column: 'Language langdetect confidence' (ascending)
+    df = df.sort_values(['Confidence'])
+    # Filter rows based on column: 'Language langdetect confidence'
+    df = df[df['Confidence'] < 0.99]
+    return df
