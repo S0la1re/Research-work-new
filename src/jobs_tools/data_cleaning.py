@@ -73,3 +73,15 @@ def low_confidence_data(df):
     # Filter rows based on column: 'Language langdetect confidence'
     df = df[df['Confidence'] < 0.99]
     return df
+
+
+
+def clean_data(df):
+    df = df.copy()
+    # Drop columns: 'Drop', 'Language' and 'Language gpt-4o-2024-11-20'
+    df = df.drop(columns=['Drop', 'Language', 'Language gpt-4o-2024-11-20'])
+    # Rename column 'Manual check' to 'Language'
+    df = df.rename(columns={'Manual check': 'Language'})
+    col = df.pop('Confidence') 
+    df.insert(len(df.columns), 'Confidence', col)
+    return df
