@@ -204,3 +204,28 @@ def extract_values(json_str):
         return ', '.join(values) if values else None
     except json.JSONDecodeError:
         return None
+
+
+
+def normalize_tech_string(tech_str):
+    """
+    Cleans and normalizes a comma-separated string of technologies.
+
+    - Converts each term to lowercase and strips whitespace.
+    - Removes terms listed in the global `remove_list`.
+    - Returns a cleaned, comma-separated string or None if empty or invalid input.
+    """
+    with open("../data/json/remove_list.json", encoding="utf8") as f:
+        remove_list = json.load(f)
+    if pd.isna(tech_str):
+        return None
+    try:
+        tech_list = tech_str.split(',')
+        clean_terms = []
+        for term in tech_list:
+            term_clean = term.strip().lower()
+            if term_clean not in remove_list:
+                clean_terms.append(term_clean)
+        return ', '.join(clean_terms) if clean_terms else None
+    except Exception:
+        return None
