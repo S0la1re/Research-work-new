@@ -1,6 +1,8 @@
 import re
+import json
 import numpy as np
-from rapidfuzz import fuzz
+import pandas as pd
+from rapidfuzz import fuzz, utils
 
 
 
@@ -34,7 +36,6 @@ def extract_section(text, section_name):
 
 
 
-
 def compare_fuzzy_sections(df):
     sections = ['Platform', 'Salary', 'Requirements', 'Nice to have', 'Responsibilities', 'Benefits']
     
@@ -57,3 +58,51 @@ def compare_fuzzy_sections(df):
 
     values = [value for _, value in results]
     print(f"\nOverall Average Token Set Ratio: {np.mean(values):.2f}")
+
+
+
+def extract_values(cell):
+    """
+    Converts a JSON cell into a flat list of string values.
+    Returns an empty list if the cell is empty or invalid.
+    """
+    if pd.isna(cell) or str(cell).strip() == "":
+        return []
+
+    try:
+        parsed = json.loads(cell)
+    except (ValueError, TypeError):
+        return []
+
+    values = []
+    if isinstance(parsed, dict):
+        for v in parsed.values():
+            if isinstance(v, list):
+                values.extend(v)
+            elif v is not None:
+                values.append(v)
+    elif isinstance(parsed, list):
+        values.extend(parsed)
+    else:
+        values.append(parsed)
+
+    # Normalize the values the same way RapidFuzz does inside token_set_ratio
+    return [utils.default_process(str(x)) for x in values if str(x).strip()]
+
+
+
+def technologies_token_set_ratio(gt_cell, gpt_cell):
+    """
+    Calculates the token_set_ratio for two JSON cells,
+    using only their values.
+    """
+    vals_gt  = extract_values(gt_cell)
+    vals_gpt = extract_values(gpt_cell)
+
+    # both are empty → full match
+    if not vals_gt and not vals_gpt:
+        return 100
+
+    s_gt  = " ".join(vals_gt)
+    s_gpt = " ".join(vals_gpt)
+    return fuzz.token_set_ratio(s_gt, s_gpt)
