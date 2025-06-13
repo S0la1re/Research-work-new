@@ -1,3 +1,7 @@
+import re
+import os, json, re
+from collections import Counter
+
 
 
 def remove_exact_duplicates(df):
@@ -85,3 +89,94 @@ def clean_data(df):
     col = df.pop('Confidence') 
     df.insert(len(df.columns), 'Confidence', col)
     return df
+
+
+
+# —————————— Remove hallucinated words ————————————————————
+
+# —— 0. Settings ——————————————————————————————————————————————————
+STANDARDIZE = True            # ⬅ turn off if you want to keep original forms
+USE_REGEX   = False           # ⬅ same as before
+
+# —— 1. Load the dictionary and build the “variant → canonical” map —————
+with open("../data/json/synonyms.json", encoding="utf8") as f:
+    SYNONYMS = json.load(f)
+
+VAR2CANON = {v.lower(): canon      # "m-v-c"  -> "mvc"
+             for canon, variants in SYNONYMS.items()
+             for v in variants}
+
+# —— 2. Helpers ——————————————————————————————————————————————
+def make_ngrams(tokens, n_max=3):
+    return {" ".join(tokens[i:i+n])
+            for n in range(1, n_max + 1)
+            for i in range(len(tokens) - n + 1)}
+
+def is_real(term, text_flat, ngrams,
+            *, use_regex=USE_REGEX, synonyms=SYNONYMS):
+    term_l = term.lower()
+    if term_l not in synonyms:           # not in the list of “checkable” terms → immediately True
+        return True
+
+    patterns = synonyms[term_l]
+    if any(p.lower() in ngrams for p in patterns):
+        return True
+    if use_regex and any(re.search(rf"\b{p}\b", text_flat) for p in patterns):
+        return True
+    return False
+
+# —— 3. Counters ————————————————————————————————————————————————
+removed_counter       = Counter()   # what was removed as a hallucination
+canonicalized_counter = Counter()   # how many times we replaced with canonical term
+
+def to_canon(term):
+    """If STANDARDIZE=True and the variant is in the dictionary → return canonical form."""
+    t_low = term.lower()
+    if STANDARDIZE and t_low in VAR2CANON:
+        canon = VAR2CANON[t_low]
+        if canon != t_low:          # an actual replacement, not “mvc” -> “mvc”
+            canonicalized_counter[canon] += 1
+        return canon
+    return t_low                    # otherwise return the original form (lowercased)
+
+# —— 4. Filter ——————————————————————————————————————————————————
+def remove_hallucinated(row):
+    text_raw   = (row.get("Full Requirements") or "")
+    text_lower = text_raw.lower()
+
+    token_pattern = r"\.?[a-z0-9\+\#-]+(?:\.[a-z0-9\+\#-]+)*"
+    tokens = re.findall(token_pattern, text_lower)
+
+    ngrams  = make_ngrams(tokens)
+
+    extracted = row.get("Extracted Technologies GPT", "")
+    try:
+        tech_dict = json.loads(extracted)
+    except Exception:
+        return extracted            # corrupted JSON
+
+    for cat in list(tech_dict.keys()):
+        cleaned = []
+        for term in tech_dict[cat]:
+            canon_term = to_canon(term)
+            if is_real(canon_term, text_lower, ngrams):
+                cleaned.append(canon_term)
+            else:
+                removed_counter[canon_term] += 1
+
+        if cleaned:
+            tech_dict[cat] = list(dict.fromkeys(cleaned))  # remove duplicates
+        else:
+            del tech_dict[cat]
+
+    return json.dumps(tech_dict, ensure_ascii=False)
+
+
+
+def flat_terms(tech_json: str) -> set[str]:
+    """{"cat": ["A", "B"]}  → {"a", "b"}   (lower-case)"""
+    try:
+        d = json.loads(tech_json)
+    except Exception:
+        return set()
+    return {t.lower() for lst in d.values() for t in lst}
