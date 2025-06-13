@@ -1,4 +1,5 @@
 import re
+import pandas as pd
 import os, json, re
 from collections import Counter
 
@@ -180,3 +181,26 @@ def flat_terms(tech_json: str) -> set[str]:
     except Exception:
         return set()
     return {t.lower() for lst in d.values() for t in lst}
+
+
+
+def extract_values(json_str):
+    """
+    Extracts and flattens values from a JSON string.
+
+    Returns a comma-separated string of values if valid, otherwise None.
+    Handles lists and single values, skips empty or invalid JSON strings.
+    """
+    if pd.isna(json_str) or json_str.strip() == '{}' or json_str.strip() == '':
+        return None
+    try:
+        data = json.loads(json_str)
+        values = []
+        for val in data.values():
+            if isinstance(val, list):
+                values.extend(map(str, val))  # add list elements as strings
+            else:
+                values.append(str(val))  # add a single value as a string
+        return ', '.join(values) if values else None
+    except json.JSONDecodeError:
+        return None
