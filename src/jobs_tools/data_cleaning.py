@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 import os, json, re
+from itertools import chain
 from collections import Counter
 
 
@@ -278,3 +279,32 @@ def fix_casing(cat_dict: dict[str, list[str]]) -> dict[str, list[str]]:
             for t in tech_list
         ]
     return cat_dict
+
+
+
+def keys_to_columns(key_values_path: str, df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+    with open(key_values_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Ensure that the column is a dict and not a JSON string
+    def to_dict(x):
+        """str → dict  |  dict → dict  |  NaN/empty → {}"""
+        if pd.isna(x) or (isinstance(x, str) and not x.strip()):
+            return {}
+        if isinstance(x, str):
+            return json.loads(x)
+        return x
+    
+    df['Tech_dict'] = df['Technologies Categorized'].apply(to_dict)
+    
+    # Find all unique categories (keys)
+    all_categories = set(chain.from_iterable(df['Tech_dict'].map(dict.keys)))
+
+    for cat in sorted(all_categories):
+        df[cat] = df['Tech_dict'].apply(
+            lambda d: ', '.join(d.get(cat, []))          # # list -> string
+                    if d.get(cat) else ''              # no technology -> ""
+        )
+    
+    return df
