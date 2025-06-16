@@ -262,3 +262,19 @@ def categorize(tech_cell: str) -> dict:
             result.setdefault(cat, []).append(tech)
 
     return result
+
+
+
+def fix_casing(cat_dict: dict[str, list[str]]) -> dict[str, list[str]]:
+    """
+    Fix the casing of each term in a category dictionary using a mapping file.
+    """
+    # Load the mapping "lowercase → correct casing"
+    with open("../data/json/map.json", 'r', encoding='utf-8') as f:
+        proper_case = json.load(f)
+    for category, tech_list in cat_dict.items():
+        cat_dict[category] = [
+            proper_case.get(t.lower(), t)        # If not found in the mapping — keep as is
+            for t in tech_list
+        ]
+    return cat_dict
