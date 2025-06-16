@@ -1,3 +1,9 @@
+import re
+import pandas as pd
+import os, json, re
+from itertools import chain
+from collections import Counter
+
 
 
 def remove_exact_duplicates(df):
@@ -84,4 +90,221 @@ def clean_data(df):
     df = df.rename(columns={'Manual check': 'Language'})
     col = df.pop('Confidence') 
     df.insert(len(df.columns), 'Confidence', col)
+    return df
+
+
+
+# —————————— Remove hallucinated words ————————————————————
+
+# —— 0. Settings ——————————————————————————————————————————————————
+STANDARDIZE = True            # ⬅ turn off if you want to keep original forms
+USE_REGEX   = False           # ⬅ same as before
+
+# —— 1. Load the dictionary and build the “variant → canonical” map —————
+with open("../data/json/synonyms.json", encoding="utf8") as f:
+    SYNONYMS = json.load(f)
+
+VAR2CANON = {v.lower(): canon      # "m-v-c"  -> "mvc"
+             for canon, variants in SYNONYMS.items()
+             for v in variants}
+
+# —— 2. Helpers ——————————————————————————————————————————————
+def make_ngrams(tokens, n_max=3):
+    return {" ".join(tokens[i:i+n])
+            for n in range(1, n_max + 1)
+            for i in range(len(tokens) - n + 1)}
+
+def is_real(term, text_flat, ngrams,
+            *, use_regex=USE_REGEX, synonyms=SYNONYMS):
+    term_l = term.lower()
+    if term_l not in synonyms:           # not in the list of “checkable” terms → immediately True
+        return True
+
+    patterns = synonyms[term_l]
+    if any(p.lower() in ngrams for p in patterns):
+        return True
+    if use_regex and any(re.search(rf"\b{p}\b", text_flat) for p in patterns):
+        return True
+    return False
+
+# —— 3. Counters ————————————————————————————————————————————————
+removed_counter       = Counter()   # what was removed as a hallucination
+canonicalized_counter = Counter()   # how many times we replaced with canonical term
+
+def to_canon(term):
+    """If STANDARDIZE=True and the variant is in the dictionary → return canonical form."""
+    t_low = term.lower()
+    if STANDARDIZE and t_low in VAR2CANON:
+        canon = VAR2CANON[t_low]
+        if canon != t_low:          # an actual replacement, not “mvc” -> “mvc”
+            canonicalized_counter[canon] += 1
+        return canon
+    return t_low                    # otherwise return the original form (lowercased)
+
+# —— 4. Filter ——————————————————————————————————————————————————
+def remove_hallucinated(row):
+    text_raw   = (row.get("Full Requirements") or "")
+    text_lower = text_raw.lower()
+
+    token_pattern = r"\.?[a-z0-9\+\#-]+(?:\.[a-z0-9\+\#-]+)*"
+    tokens = re.findall(token_pattern, text_lower)
+
+    ngrams  = make_ngrams(tokens)
+
+    extracted = row.get("Extracted Technologies GPT", "")
+    try:
+        tech_dict = json.loads(extracted)
+    except Exception:
+        return extracted            # corrupted JSON
+
+    for cat in list(tech_dict.keys()):
+        cleaned = []
+        for term in tech_dict[cat]:
+            canon_term = to_canon(term)
+            if is_real(canon_term, text_lower, ngrams):
+                cleaned.append(canon_term)
+            else:
+                removed_counter[canon_term] += 1
+
+        if cleaned:
+            tech_dict[cat] = list(dict.fromkeys(cleaned))  # remove duplicates
+        else:
+            del tech_dict[cat]
+
+    return json.dumps(tech_dict, ensure_ascii=False)
+
+
+
+def flat_terms(tech_json: str) -> set[str]:
+    """{"cat": ["A", "B"]}  → {"a", "b"}   (lower-case)"""
+    try:
+        d = json.loads(tech_json)
+    except Exception:
+        return set()
+    return {t.lower() for lst in d.values() for t in lst}
+
+
+
+def extract_values(json_str):
+    """
+    Extracts and flattens values from a JSON string.
+
+    Returns a comma-separated string of values if valid, otherwise None.
+    Handles lists and single values, skips empty or invalid JSON strings.
+    """
+    if pd.isna(json_str) or json_str.strip() == '{}' or json_str.strip() == '':
+        return None
+    try:
+        data = json.loads(json_str)
+        values = []
+        for val in data.values():
+            if isinstance(val, list):
+                values.extend(map(str, val))  # add list elements as strings
+            else:
+                values.append(str(val))  # add a single value as a string
+        return ', '.join(values) if values else None
+    except json.JSONDecodeError:
+        return None
+
+
+
+def normalize_tech_string(tech_str):
+    """
+    Cleans and normalizes a comma-separated string of technologies.
+
+    - Converts each term to lowercase and strips whitespace.
+    - Removes terms listed in the global `remove_list`.
+    - Returns a cleaned, comma-separated string or None if empty or invalid input.
+    """
+    with open("../data/json/remove_list.json", encoding="utf8") as f:
+        remove_list = json.load(f)
+    if pd.isna(tech_str):
+        return None
+    try:
+        tech_list = tech_str.split(',')
+        clean_terms = []
+        for term in tech_list:
+            term_clean = term.strip().lower()
+            if term_clean not in remove_list:
+                clean_terms.append(term_clean)
+        return ', '.join(clean_terms) if clean_terms else None
+    except Exception:
+        return None
+    
+
+
+def categorize(tech_cell: str) -> dict:
+    """
+    Build a JSON object that maps technologies in a cell to their categories.
+    """
+    with open('../data/json/key_values.json', 'r', encoding='utf-8') as f:
+        json_file = json.load(f)  # categories → [tech1, tech2, …]
+
+    # Prepare a "reverse" dictionary: tech (lowercase) → category name
+    reverse_map = {
+        tech.lower(): category
+        for category, tech_list in json_file.items()
+        for tech in tech_list
+    }
+
+    if pd.isna(tech_cell) or not tech_cell.strip():
+        return {}
+
+    # Build the JSON object for a single cell
+    result = {}
+    # Example: "kotlin, retrofit " → ['kotlin', 'retrofit']
+    for raw in tech_cell.split(','):
+        tech = raw.strip()
+        if not tech:
+            continue
+        cat = reverse_map.get(tech.lower())  # look up the category
+        if cat:
+            # Add to result, avoiding duplicates
+            result.setdefault(cat, []).append(tech)
+
+    return result
+
+
+
+def fix_casing(cat_dict: dict[str, list[str]]) -> dict[str, list[str]]:
+    """
+    Fix the casing of each term in a category dictionary using a mapping file.
+    """
+    # Load the mapping "lowercase → correct casing"
+    with open("../data/json/map.json", 'r', encoding='utf-8') as f:
+        proper_case = json.load(f)
+    for category, tech_list in cat_dict.items():
+        cat_dict[category] = [
+            proper_case.get(t.lower(), t)        # If not found in the mapping — keep as is
+            for t in tech_list
+        ]
+    return cat_dict
+
+
+
+def keys_to_columns(key_values_path: str, df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+    with open(key_values_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Ensure that the column is a dict and not a JSON string
+    def to_dict(x):
+        """str → dict  |  dict → dict  |  NaN/empty → {}"""
+        if pd.isna(x) or (isinstance(x, str) and not x.strip()):
+            return {}
+        if isinstance(x, str):
+            return json.loads(x)
+        return x
+    
+    df['Tech_dict'] = df['Technologies Categorized'].apply(to_dict)
+    
+    # Find all unique categories (keys)
+    all_categories = set(chain.from_iterable(df['Tech_dict'].map(dict.keys)))
+
+    for cat in sorted(all_categories):
+        df[cat] = df['Tech_dict'].apply(
+            lambda d: ', '.join(d.get(cat, []))          # # list -> string
+                    if d.get(cat) else ''              # no technology -> ""
+        )
+    
     return df
