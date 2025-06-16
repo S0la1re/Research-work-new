@@ -229,3 +229,36 @@ def normalize_tech_string(tech_str):
         return ', '.join(clean_terms) if clean_terms else None
     except Exception:
         return None
+    
+
+
+def categorize(tech_cell: str) -> dict:
+    """
+    Build a JSON object that maps technologies in a cell to their categories.
+    """
+    with open('../data/json/key_values.json', 'r', encoding='utf-8') as f:
+        json_file = json.load(f)  # categories → [tech1, tech2, …]
+
+    # Prepare a "reverse" dictionary: tech (lowercase) → category name
+    reverse_map = {
+        tech.lower(): category
+        for category, tech_list in json_file.items()
+        for tech in tech_list
+    }
+
+    if pd.isna(tech_cell) or not tech_cell.strip():
+        return {}
+
+    # Build the JSON object for a single cell
+    result = {}
+    # Example: "kotlin, retrofit " → ['kotlin', 'retrofit']
+    for raw in tech_cell.split(','):
+        tech = raw.strip()
+        if not tech:
+            continue
+        cat = reverse_map.get(tech.lower())  # look up the category
+        if cat:
+            # Add to result, avoiding duplicates
+            result.setdefault(cat, []).append(tech)
+
+    return result
