@@ -1,0 +1,436 @@
+{
+    "search_metadata": {
+        "id": "67850304717dedf6f96150ab",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/da8febdcc0be86f4/67850304717dedf6f96150ab.json",
+        "created_at": "2025-01-13 12:11:48 UTC",
+        "processed_at": "2025-01-13 12:11:48 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICILU3dpdHplcmxhbmQ&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/da8febdcc0be86f4/67850304717dedf6f96150ab.html",
+        "total_time_taken": 1.27
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Switzerland",
+        "location_used": "Switzerland",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwiAqcPK1fKKAxWxpIkEHS1DM-YQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Marco R. Fuhrer Unternehmensberatung",
+            "location": "Lausanne, Switzerland",
+            "via": "Jobs In Switzerland",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=T8bJ96nxlWa8pJdBAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE43imgigoviIIiC6KI4l6Q9kkh6F3KpFh_I51SXf_z-6jOqJjtqM4cW9vjEyAkzzOHEFgRNbjwwwZHZRRxvfClJ1lqLROWkmBIa1XCnmdDyoB9s5Z9avMmYoilYL1eLQSVy0-3lpzFcFRx6n3-TOxXMhL5DEovZlJ4cBIKz6cUQ4Qxur1DemKOh9guumsLbqQAAAA&shmds=v1_AUFQtONp5zinc_2IdQ9XUeG404zaaZNEoAJyFWt3tIv-mzHrCA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T8bJ96nxlWa8pJdBAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Android Developer\n\nLocation\n\nLausanne\n\nCompany\n\nService Company\n\nResponsibilities\n• Take part in and oversee the development of secure, efficient Android applications, ensuring adherence to best practices and project specifications.\n• Design and implement robust security protocols and features to safeguard apps against evolving cyber threats.\n• Provide guidance and mentorship to junior developers, fostering a collaborative and productive team environment.\n• Analyze and optimize app performance and security, ensuring superior user experience and reliability.\n• Continuously research and implement new technologies and methodologies to maintain technological leadership in security-focused Android development.\n• Conduct thorough code reviews and enforce coding standards across the development team.\n• Tackle complex technical challenges and provide effective solutions.\n• Effectively communicate with stakeholders to gather requirements, provide updates, and integrate feedback into development.\n\nRequirements\n• Bachelor's or master's degree in Computer Science, Information Technology, or a related field.\n• Proficiency in Java/Kotlin or a similar language, with knowledge of Android Studio being a plus.\n• Effective verbal and written communication skills in English and French for collaboration with team members and stakeholders. German language skills are a plus.\n• A high degree of attention to detail in coding, testing, and documentation.\n• Strong ability to adapt to new technologies and a willingness to learn.\n• A team-oriented mindset, with a focus on collaboration and adaptability.\n\nLanguages\n\nPlease note that fluency in German at least at a C1 level, both orally and in writing, is required for this position.\n\nNext Steps\n\nApply online using the form below.\n\nContact\n\nmarco fuhrer - management consultants\n\nHeadhunters - well-connected\n\nPostfach 7441 - 6304 Zug CH\n\nMobile: +41 79 300 42 71\n\nwww.marcofuhrer.ch\n\nEmail: marco.fuhrer@marcofuhrer.ch\n\nLinkedIn: www.linkedin.com/in/marcofuhrer\n\nTwitter: www.twitter.com/SWISS_IT_JOBS\n\nSkype: marcofuhrer1",
+            "apply_options": [
+                {
+                    "title": "Jobs In Switzerland",
+                    "link": "https://www.inswitzerland.net/jobs/android-developer-11597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1hcmNvIFIuIEZ1aHJlciBVbnRlcm5laG1lbnNiZXJhdHVuZyIsImFkZHJlc3NfY2l0eSI6IkxhdXNhbm5lLCBTd2l0emVybGFuZCIsImh0aWRvY2lkIjoiVDhiSjk2bnhsV2E4cEpkQkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxVM2RwZEhwbGNteGhibVEifQ=="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "ShareP AG",
+            "location": "Zürich, Switzerland",
+            "via": "Sustainable Parking Management - Share.P",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=y0eFU4r3sn1yYVQoAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIMQoCMRAAQGzvCVZrJYgmIthoJQgHgiBcZ3MkcUkiazZkgx7-wD_Z-TG5ZoppPpNmfmYbCeGITyTOWGAFJ7YgaIoLwAlaZk843Ydas-y0FiHlpZoanXL80JzQ8qDvbGWkl2AKZjIV-812Paic_GLWjXmBQwsxwfX3LdGFJXSvWN9YyKTbH0ftJpqMAAAA&shmds=v1_AUFQtOMcnftPBRjjGwzQEgJvgLJ7VbUqIJeug_mBdpP6pc7d7w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=y0eFU4r3sn1yYVQoAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850304717dedf6f96150ab/images/5741a89ec52dd16a93ba075f3e1099efc4b9188d357d3e52eb98d9a96140bbe7.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job description\n\nHave you ever wanted to co-create an app that thousands of people will carry in their pockets? We are Share.P, and we are looking for a\nMobile Developer to help us build mobile applications for Android and iOS platforms. If you have experience working with Flutter, and your code is more than just a set of instructions, we’d love to have you on our team! You will be working on projects that have a real impact on users' lives, making their everyday routines easier. All of this, in a hybrid and full-time working model.",
+            "apply_options": [
+                {
+                    "title": "Sustainable Parking Management - Share.P",
+                    "link": "https://crm.sharep.io/jobs/mobile-developer-22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Stellenangebote, Arbeit",
+                    "link": "https://ch.trabajo.org/stellenangebot-3226-244974a218aae1cff90853a4c3ed3fa7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://hirestreamglobal.com/jobs.php?job=App+developer&country=Switzerland&city=Zurich&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobswitzerlands.ch",
+                    "link": "https://jobswitzerlands.ch/fr/mobile-app-developer-job63557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/ch-zurich-mobile-app-developer-pouly-tradition-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU2hhcmVQIEFHIiwiYWRkcmVzc19jaXR5IjoiWsO8cmljaCwgU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6InkwZUZVNHIzc24xeVlWUW9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "SENIOR MOBILE DEVELOPER - ANDROID",
+            "company_name": "TRACKTICS GmbH",
+            "location": "Zürich, Switzerland",
+            "via": "Jobs.ch",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=e0WYg22hCSsbOKCGAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGwQqCMBgAYLr6CJ3-U4coF0EQdTIdZpkLlQ5dZLPhjLnJNkh6mV6kWy9WXT4-7zXy1gXOEpLDieySFEOELzglZ5zDHIIsykkS_XbQDCynphagFcRaN5KPt8K53m4Qslb6jXXUtbVf6w5pxZke0F0z-6eyghreS-p4tVwtBr9XzXRS5kF4LJOwgLhje2gVXD9v09ZiBsWjdU9uJFW3L-1fUI6iAAAA&shmds=v1_AUFQtOPVujuvJF8xCFknUZ4x1xoc2Zpe1pRdI5SApQHmGT6w6g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=e0WYg22hCSsbOKCGAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850304717dedf6f96150ab/images/5741a89ec52dd16a49aaa8370995972288780e5952055165c23c93e8590c1963.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Job type:\nfull-time\nLanguage:\nEnglish (German is a plus)\nLocation:\nZurich or remote\nStart :immediately or according to agreement\nBECOME PART OF TRACKTICS\nWe\nare\nan\naward\nwinning,\ninnovative\nwearable\nstartup\nbased\nin\nZurich\nand\nFrankfurt.\nTRACKTICS\nenables\nevery\nfootball\nplayer\nand\nteam\nto\ntrack,\nanalyse\nand\nimprove\ntheir\nperformance\non\nthe\npitch.\nWe\nhave\ndeveloped\na\nwearable device and created apps to make analytics easily accessible, revolutionising football forever.\nYOUR RESPONSIBILITIES\n●\nWorking alongside our PO to develop our Android app together within a Scrum team\n●\nBeing involved in our feature processes, working closely with the product and design team to help refine\nour new features\n●\nBringing your existing knowledge and best practices to enrich the knowledge and experience in the team\nYOUR SKILLS\n●\nDegree in Computer Science or similar area\n●\nWorking experience as an Android software developer\n●\nProficiency with Kotlin and Android Framework\n●\nYou have a team focused approach, wanting to share knowledge and help develop others in the team\nfurther\n●\nYou enjoy working in an agile environment and have a self-driven personality with a “hands-on” approach\n●\nYou are a well rounded software developer who understands the importance of communication\n●\nYou care about quality, and know the best ways to achieve this both in code and for the product itself\n●\nYou have an eye for detail and a passion for a great UX and UI, you are keen to work closely with our\ndesigners and product team to achieve this\nWe are looking for a proactive team player with excellent communication skills in English and/or German. You will\nneed to have attention to detail and excellent problem solving skills. We expect you to work independently and\ndependably. Above all, we expect you to be an active and keen team member who contributes to bringing our\nproduct to the next level.\nWHAT WE OFFER\nWe’re\na\npowerful,\ninterdisciplinary,\nhighly\nskilled\nteam\nthat\nis\ngrowing\nfast\nand\nshares\na\nhuge\npassion\nfor\nour\nvision\nof\nmore\naccessible\nsports\ndata.\nWe\nfoster\na\nstrong\nand\nfun\nstartup\nculture\nin\na\nrelaxed\nworking\natmosphere.\nWe\noffer\nflexible\nworking\nhours\ntogether\nwith\na\nhigh\ndegree\nof\nself-responsibility\nand\nfreedom.\nYou will find the perfect environment to learn a lot and contribute your very best to a high-potential project.\nINTERESTED? APPLY NOW:\nE-Mail schreiben.\nFIND MORE\nINFORMATION:\nwww.tracktics.com",
+            "apply_options": [
+                {
+                    "title": "Jobs.ch",
+                    "link": "https://www.jobs.ch/en/vacancies/detail/85b37239-3f8a-4ad8-8126-a23ebd4f48ac/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobagent",
+                    "link": "https://www.jobagent.ch/job/senior-mobile-developer-android/3230544d6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobScout24",
+                    "link": "https://www.jobscout24.ch/de/job/senior-mobile-developer-android/115592883/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Zuercher-Jobs.ch",
+                    "link": "https://zuercher-jobs.ch/job/senior-mobile-developer-android/3230544d6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Zukunfts-Jobs.ch",
+                    "link": "https://zukunfts-jobs.ch/job/senior-mobile-developer-android/3230544d6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTRU5JT1IgTU9CSUxFIERFVkVMT1BFUiAtIEFORFJPSUQiLCJjb21wYW55X25hbWUiOiJUUkFDS1RJQ1MgR21iSCIsImFkZHJlc3NfY2l0eSI6IlrDvHJpY2gsIFN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJlMFdZZzIyaENTc2JPS0NHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Sr Android Developer",
+            "company_name": "Saxon Global",
+            "location": "Bellevue, Switzerland",
+            "via": "XING",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=lkH68j51idEkiID-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvQrCMBAAYFz7CE63uPiTiOCikyIIrn2AckmPNnLmQi7W4Fv4xtLlG7_mt2g2bYZL7LOEHm40EUuiDDt4iAMlzH4EiXAXGZiW57GUpCdrVdkMWrAEb7y8rERyUu1TnM50OmKmxFioOxz31aQ4rFct1rliccgQIlyJmaY3baH9hPKlzBj7P5VbEvCUAAAA&shmds=v1_AUFQtON5MXNRc4Atc5weWsrElt4EmiwrHy4-8eIL64cGdGJz7Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=lkH68j51idEkiID-AAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "As a Sr. Engineer - Android consultant, you will be working on pioneering technology in the hardware and software world. You will be merging the hardware features with software to provide a unified, smooth customer experience over Bluetooth stack, location-based services while prioritizing privacy and security of customer data.\n\nYour will be interacting with product managers to help them discover Android features and capabilities, advise them on feasibility, provide estimations. You will be working with hardware engineers to connect apps with hardware and deliver functionality that is highly technical, and engineering focused.\n\nTest driven development will your foundation for delivering quality code at source with unit tests, integration tests. You will lead the delivery of your code from end-to-end, automating continuous integration and delivery.\n\nSkills Required\n• Proficiency in Java and working knowledge with Kotlin\n• Experience with Bluetooth stack, location services, GPS and maps\n• Experience with Java/Kotlin, RxJava, gradle and jUnit, espresso testing.\n• Understanding of Material design and mobile UX/UI patterns\n• Deep experience-based understanding of how to build mobile applications at scale.\n• Experience working in a team of Android developers participating in code reviews, pull requests, and pair programming.\n• Validated experience mentoring and coaching other Android developers in a collaborative and team-based organization.\n• Understanding of consuming RESTful web services, running authentication, authorization, and session\n• Strong understanding of modern development principles such as trunk-based development, feature toggles, and branch by abstraction to support performant and collaborative engineering teams.\n• Strong understanding of CI/CD tools such as Azure DevOps to continuously and autonomously deliver high-quality apps to guarantee stable and performant experiences.\n• Experience working with multi-functional teams such as design, product, data teams to deliver great user experiences.\n• Understanding of computer science fundamentals, data structures, and algorithms to ensure consistency to software engineering standard processes including object-oriented and functional programming\n\nSkills Desired\n• Exposure to Cloud or Firmware Development.\n• Knowledgeable in asynchronous development, networking, or Bluetooth.\n• Understanding of internet protocols such as TCP/IP, UDP and networking and security standards\n• Familiarity with API development, database queries, backend systems\n• Leadership experience\n\nQualifications\n• 7-10 years of Android development experience\n• Experience leading development teams\n• Strong communication skills with ability to articulate effectively\n• Bachelor's degree in STEM faculties\n• Published Apps in the Play Store\n\nLocation:\n\nLocal to Bellevue, WA\n\nRequired Skills : Proficiency in Java and working knowledge with Kotlin Experience with Bluetooth stack, location services, GPS and maps Experience with Java/Kotlin, RxJava, gradle and jUnit, espresso testing.\n\nBasic Qualification : Proficiency in Java and working knowledge with Kotlin Experience with Bluetooth stack, location services, GPS and maps Experience with Java/Kotlin, RxJava, gradle and jUnit, espresso testing.\n\nAdditional Skills : Proficiency in Java and working knowledge with Kotlin Experience with Bluetooth stack, location services, GPS and maps Experience with Java/Kotlin, RxJava, gradle and jUnit, espresso testing.\n\nBackground Check :Yes\n\nSelling points for candidate :\n\nProject Verification Info :\"The information provided below is for Apex Systems AV use only and is not to be distributed publicly, or to any third party. Any distribution of the below information will result in corrective action from Apex Systems Vendor Management. MSA: Blanket Approval Received Client Letter: Will Provide\"\n\nCandidate must be your W2 Employee :No\n\nExclusive to Apex :No\n\nFace to face interview required :No\n\nCandidate must be local :No\n\nCandidate must be authorized to work without sponsorship ::No\n\nInterview times set : :No\n\nType of project :0003298 | T-Mobile - SOW\n\nMaster Job Title :IT",
+            "apply_options": [
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/bellevue-ge-sr-android-developer-129315414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNheG9uIEdsb2JhbCIsImFkZHJlc3NfY2l0eSI6IkJlbGxldnVlLCBTd2l0emVybGFuZCIsImh0aWRvY2lkIjoibGtINjhqNTFpZEVraUlELUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxVM2RwZEhwbGNteGhibVEifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "astrivis",
+            "location": "Anywhere",
+            "via": "Indeed CH",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=RbRAZNSSOlITn16FAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3AoLVlCKYiGCjlSAIth5gyWdIItlMmBnWxcqji694w3c1bK8tMpUIN5yxUkeGPTzIg6DjkIEa3IlSxc0lq3Y5WytSTRJ1WoIJNFlq6GmxL_Lyb5TsGHt1iuPxdFhMb2m3dqJc5iJQGjzfRT_I1bX4A2M_yDSDAAAA&shmds=v1_AUFQtOM1jEExPVxkRZ5QW40EHoUKh5AiAifDuJfIoDyKqBPx3w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=RbRAZNSSOlITn16FAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850304717dedf6f96150ab/images/5741a89ec52dd16a70e847d2d2d10de53265a31ac90f4a4ae8f9154f1b259f34.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nThe primary responsibility of the mobile App Developer is to deliver high-performance production Apps with our state-of-the-art 3D scanning technology. You’ll be responsible for designing and delivering our scanning mobile SDK and create different Apps on top of it. Qualified candidates need to be a self-starter and able to operate in a highly dynamic environment\n• Work hand-in-hand with R&D teams, key stakeholders and developers.\n• Architect and implement a developer focused SDK for Android.\n• Write customer specific mobile Scanning Apps on Android.\n• Write elegant, maintainable, reusable code to develop high-quality test scripts and applications.\n• UX design and validation.\n• Develop tests for the two mobile platforms.\n• Investigate, troubleshoot and verify software defects and other technical issues.\n• Build, maintain, and test applications to continually provide feedback on the quality of the application framework.\n• Participate in code reviews.\n\nResponsibilities\n\nQualified candidates will use their experience in App development with specialization in at least one of the following areas:\n• 2+ years of development experience in Android development (Java and NDK).\n• 2+ years of experience working on software products.\n• Experience in App design, implementation and testing.\n• Experience in App maintenance and issue tracking.\n• Experience in testing developer tools, i.e. debuggers, loggers, simulators.\n• Excellent problem-solving, debugging and troubleshooting skills to root cause complex issues.\n• Excel in a fast-paced, agile environment supporting multiple projects using a wide variety of technologies.\n• Excellent oral and written communication skills including effective presentation with a dynamic and “can do” attitude.\n• Knowledge of Linux/Unix is a plus.\n\nEducations\n• MS in Computer Science or Electrical Engineering or matching industry experience.\n\nJob Type :\n\nFull Time\n\nJob Location :\n\nRemote (EU), Zürich",
+            "apply_options": [
+                {
+                    "title": "Indeed CH",
+                    "link": "https://ch.indeed.com/viewjob?jk=195ae3e783ae73c4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "XING",
+                    "link": "https://www.xing.com/jobs/alten-android-developer-all-gender-122134806?ijt=jb_21&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna CH",
+                    "link": "https://www.adzuna.ch/details/3956077199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.de/companies/mode-recruitment-limited/android-developer-berlin-623817/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6ImFzdHJpdmlzIiwiYWRkcmVzc19jaXR5IjoiU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6IlJiUkFaTlNTT2xJVG4xNkZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "Android Senior Developer (Internal Position)",
+            "company_name": "BS-Team SA",
+            "location": "Anywhere",
+            "via": "Indeed CH",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=7dl7CTfZUFlh4-D1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU7npmIbEVx0qgqikxB3SdujjaR3IXfU4v_4n-ryxpd9JtmxpCaxb8AieU5wwgEDR0wwv5BiIhfgxuLVMy0ghytXIOhS3QETnJnbgNN9pxplZ4xIKFpRp74uau4NE1Y8midX8uchnUsYg1N8bLbrsYjULmcHm9_R9WBL8L8SCQe3Avvy-sYUHDVfdcagIqgAAAA&shmds=v1_AUFQtOOlExPUJKeut21LV9Q3Pl-UWgvgbIIMRhZRbLYC6Hfpww&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=7dl7CTfZUFlh4-D1AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850304717dedf6f96150ab/images/5741a89ec52dd16a4b826116529d2a2765ce32454fa495ec0a8d26f00874268e.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "Type de contrat: CDI\n\nLieu de travail: Genève\n\nTélétravail (2j max/semaine): Non\n\nChez BS-Team, nous avons à cœur d’accompagner nos collaborateurs tout au long de leur carrière en leur offrant des opportunités d’évolution. Nous sommes convaincus que l’élargissement des connaissances et des compétences est primordial pour leur réussite professionnelle et leur épanouissement au quotidien.\n\nMission:\n\nIn order to strengthen our client’s development team we are looking for Android expertise\n\nYour role:\n• Develop user interface using Android Native Dev environment\n• Maintain high standards of software development and quality code delivery Ensure high performance of application and provide support\n• Review code, mentor and coach\n• Conduct performance tests\n• Integrate and collaborate with an offshore team of developers\n• Guide team development efforts towards successful project delivery, balancing business and team priorities\n• Identify capability gaps and assist the team in filling them\n\nYour profil:\n• Higher education diploma in computer science (ES) or Master IT or HES diploma.\n• Minimum 6 years of experience on Android application development projects\n• Fluent French and English\n• Excellent Kotlin knowledge\n• Strong knowledge of RxJava, multithreading\n• Excellent knowledge of Android architecture components\n• Experience with any of the existing Dl frameworks\n• Knowledge of standard libraries such as Retofit, Glide, etc.\n\nWould be a plus if:\n• Multi module apps or libraries development\n• Creating complex custom views\n• Experience with REST APIs Multi module apps or libraries development NDK and C++\n• Unit / LJI tests\n\nTechnical skills :\n\nCurrent technologies, architecture and fibs:\n• MVM / MVP\n• Room\n• Dagger\n• RXJava\n• Junit\n\nUnderstanding & Tools:\n• Git & Gitlab as versioning tools\n• Bitrise / Firebase\n• RestfulApi & JsonAPl\n• Agile methodologies\n\nDate of entry :\n• ASAP\n\nThe + :\n• Internal position in our client\n\nNous ne répondrons qu’aux candidatures qui correspondront le mieux aux prérequis.\nVotre dossier ne sera pas transmis à d’autres entreprises.",
+            "apply_options": [
+                {
+                    "title": "Indeed CH",
+                    "link": "https://ch.indeed.com/viewjob?jk=136bf5cacb835714&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNlbmlvciBEZXZlbG9wZXIgKEludGVybmFsIFBvc2l0aW9uKSIsImNvbXBhbnlfbmFtZSI6IkJTLVRlYW0gU0EiLCJhZGRyZXNzX2NpdHkiOiJHZW5ldmEsIFN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiI3ZGw3Q1RmWlVGbGg0LUQxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Axon Active Group",
+            "via": "Learn4Good",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=BCoCg5Yg9SSgCTB2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFy7uTrdLJiI4KJTQSi4-gElSY8kEnPh7ixZ_XN1eeMbPpvBPrBmYhjrwpQXuOGKhRoyHOBOHgQdhwRUYSKKBXfXpNrkYq1IMVHUaQ4m0MtSRU_dPsnLn1mSY2zFKc6n87GbVuN-O_bfNAbNK8LE9G5f7SSy3YQAAAA&shmds=v1_AUFQtONl0xnjaeRXiyz2qH3SiTJhjaGN2YwtZvR1JPj5SCw8Og&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BCoCg5Yg9SSgCTB2AAAAAA%3D%3D",
+            "extensions": [
+                "11 days ago",
+                "CHF 80K–CHF 100K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "salary": "CHF 80K–CHF 100K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Location: Sandhubel\nAxon Vibe is a cutting-edge technology company building AI-powered mobility and contextual marketing solutions. We partner with leading and forward-thinking public transport operators like SBB, Deutsche Bahn, and MTA New York. Our innovative mobility and rewards platform enables smart and seamless mobility solutions, supports automatic ticketing and helps to increase public transport ridership through behaviour change and loyalty campaigns. Founded by veterans of Google Maps, Axon Vibe is committed to building sustainable solutions for the future of mobility and drive-to-store marketing.\n\nOur mobile SDK is a key part of our platform and serves as the primary interface for partners when they integrate our technology into their products and services. We are looking for a Senior-level mobile engineer to join our team of existing mobile SDK developers.\n\nKey Responsibilities Develop and maintain innovative features and modules in our mobile SDK, used by renowned public transport operators in the world.\n\nCollaborate closely with other engineers and product owners to design new capabilities that drive the ongoing evolution and enhancement of our platform.\n\nEngage directly with customers and partners, collaborating on projects to discuss, design and implement tailored solutions that address real-world challenges in mobility and marketing innovation.\n\nChampion code quality through regular reviews, automated testing, and continuous integration, ensuring that our solutions are reliable, secure and scalable.\n\nPlay a key role in shaping and evolving our software design and development processes, contributing fresh ideas and improvements.\n\nOversee and maintain comprehensive SDK documentation and developer tools, including our internal testing applications.\n\nTackle complex issues with autonomy and collaborate with backend and Dev Ops teams.\n\nContinuously fine-tune the performance, security, and resilience of our SDK to maintain our edge in the competitive mobile landscape.\n\nStay ahead of the curve by keeping up with the latest mobile OS updates, development tools, frameworks, and industry best practices. Qualifications 5+ years of senior-level experience in Android (Java/Kotlin) development\n\nDeep expertise in Android frameworks and Google Play Services and a strong grasp of Android’s architectural principles\n\nKnowledge about location, motion and other sensor frameworks, including Bluetooth Low Energy (BLE)\n\nExperience with RESTful APIs, authentication (OAuth) and networking protocols\n\nSkilled in asynchronous programming, including multi-threading, reactive programming and background processing\n\nComfortable with continuous integration and release pipelines and proficient in version control systems\n\nSolid background in automated testing, including unit testing\n\nStrong communicator and team player, comfortable working in a fast-paced, collaborative environment\n\nExperienced in agile methodologies, particularly Scrum Fluency in English is essential;\nGerman language skills are a plus Bonus Skills\n\nExperience with cross-platform frameworks (React Native, Capacitor\n\nJS, KMP, Flutter)\nFull-stack experience (Java/Spring) and knowledge of the AWS ecosystem\n\nExperience with on-device machine learning models\n\nExperience with publishing apps to the Google Play Store and Apple App Store Work in an international team, and with international customers\n\nPlease send your cover letter and resume detailing your experience and relevant projects to Please include links to any apps you have developed or contributed to.\n\nWe will not consider applications submitted by a recruitment agency. Candidates must get in touch with us directly.\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/switzerland/software_development/3846064362/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJBeG9uIEFjdGl2ZSBHcm91cCIsImh0aWRvY2lkIjoiQkNvQ2c1WWc5U1NnQ1RCMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxVM2RwZEhwbGNteGhibVEifQ=="
+        },
+        {
+            "title": "Senior Android Engineer FinTech",
+            "company_name": "Getyourguide",
+            "location": "Zürich, Switzerland",
+            "via": "Meritocracy",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=OXIgIUVaUEJ3zxblAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz9BKcbnEQbEXTQyUELrnVyKWl6JCfxrlxSrP6Kv-Lmj6nLgzd-jcabCplEYc-tCrVwYE-MqHAkPqMLsICTNJDQ6i_CUIr4iJNdyLlLW2NSioVP2WZyhZObEcZGBnOVJv2pU7CKXbQZ69V6ORQd-9m0xPyQXn1PLQIxXD5vJRfmUN0pP1Gj5fYLCyk7PJ4AAAA&shmds=v1_AUFQtONmaO3sSxejCI4g5Z7_NHwcITa31cRvyEYK0UTC23DUCw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OXIgIUVaUEJ3zxblAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850304717dedf6f96150ab/images/5741a89ec52dd16a46b78b3828a4c2a84f7db285f312861fdf875340b8e86d86.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As a Senior Android Engineer, you will be working directly with our design team and product managers with a focus on our Android application. You will join a growing team of engineers to create a revolutionary mobile experience and work on our most strategic channel, impacting hundreds of thousands of customers every month.\n\nTeam Mission:\n\nThe FinTech team's mission is to provide a seamless checkout experience to our customers. Being the main Android engineer in the team, you will take ownership of the existing checkout experience and work together with the team to take it to the next level. Your tasks will range from defining and implementing architectural evolution, over monitoring, and stability improvements together with backend engineers, to UX evolution with A/B testing in collaboration with our product manager and our UX team.\n\nResponsibilities:\n• Contribute to the development of GetYourGuide’s native Android app\n• Implement new features in the app and improve the user experience\n• Contribute significantly to the team’s app roadmap\n• Shape and improve the app’s architecture\n• Maintain a high standard of quality for our code, features, and products\n• Translate high-level ideas and requirements into practical solutions\n• Contribute to learning and advancement of our engineering practice\n\nRequirements:\n• Product and data-centric prioritization and decision making\n• Ability to turn ideas into solid, maintainable code\n• Drive to improve; proactively identify problems and bring solutions\n• High proficiency with Java and Kotlin\n• Know your way around the Android SDK and Android Jetpack\n• Open to learning new technologies and methodologies\n• Positive, pro-active team player who is passionate about their craft\n• Excellent English communication skills (orally and written)\n\nNice to Have:\n• Have one or more successful Android apps published in the Google Play store\n• Good knowledge of the following tools: Git, Github, IntelliJ/Android Studio, Gradle, Jira\n• Experience with Koin, Room, RX, Coroutines, and JUnit/Espresso\n• Experience with iOS development and Swift\n• Experience with backend development (Java or PHP)\n\nWe Offer:\n• Work on a product that helps create memorable travel experiences\n• Be part of an international team from over 70 nationalities\n• Quarterly Hackathons and weekly tech talks\n• GetYourGuide gift cards to experience our products for yourself\n• Virtual stock options that make you an integral part of the company’s growth and success\n\nCurious?\n\nDo you have the skills for the job, enthusiasm about our vision, and fit our culture? We are already looking forward to hearing from you! If you have any further questions please do not hesitate to contact us via jobs@getyourguide.com.\n\nIn the meantime, you can check our blog to get some insights on fixing bugs and how one of our Android developers sets up his projects. Check out other topics on our blog to see what happens behind the scenes at GetYourGuide and check out Tech Radar for an insight into the stack we use to turn our customers’ dreams' into reality!",
+            "apply_options": [
+                {
+                    "title": "Meritocracy",
+                    "link": "https://meritocracy.is/de/getyourguide/senior-android-engineer-fintech-63824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciBGaW5UZWNoIiwiY29tcGFueV9uYW1lIjoiR2V0eW91cmd1aWRlIiwiYWRkcmVzc19jaXR5IjoiWsO8cmljaCwgU3dpdHplcmxhbmQiLCJodGlkb2NpZCI6Ik9YSWdJVVZhVUVKM3p4YmxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        },
+        {
+            "title": "Full Stack Android Developer",
+            "company_name": "Solar Communications Gmbh",
+            "location": "Zürich, Switzerland",
+            "via": "Geekjob",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=4qgzAPtGGFsWHlwDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLOw7CMAwAULH2CEyeETR8xAITAlGJtRtLlaRWE0jsKk4BcR9uwcbFgOVtr3iNitVxCAHqrO0VdtQm9i0c8IaBe0wwgxMbENTJOmCCirkLON66nHvZKCUSyk6yzt6WlqNiQsMPdWEjfxpxOmEfdMZmuZ4_yp66yaLmoBPsOcaBvP1dJoEqGgee4Px5J2_dFOq7z09MQVP7BXFVGbCoAAAA&shmds=v1_AUFQtON1lZvto6mSqUDoNexW_dM4Z7YT6DVfPu86OI4DEiFJOA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4qgzAPtGGFsWHlwDAAAAAA%3D%3D",
+            "extensions": [
+                "2.2K–4K a month",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "2.2K–4K a month",
+                "schedule_type": "Full-time"
+            },
+            "description": "Динамично развивающаяся Европейская компания, запускает новый проект и ищет таланты для его реализации и последующей поддержки.\n\nУ вас есть возможность поработать над совершенно новым продуктом за достойную оплату, с перспективой многолетнего стабильного заработка и карьерного роста.\n\nТрудимся в комфортабельном офисе с удобным расположением, по стандартному графику на испытательном сроке, с возможностью автономной удаленной работы со свободным графиком, по окончанию испытательного срока.\n\nМы ищем высококлассного разнопланового специалиста, способного выполнить полный цикл работ по реализации мобильных приложений:\n\n- Анализ предметной области, требований и спецификаций и сведение этого в формальное ТЗ;\n\n- Разделение ТЗ на фичи и составление плана разработки по релизам;\n\n- Проектирование архитектуры разрабатываемого продукта;\n\n- Программная реализация бизнес-логики и вспомогательного (работа с БД, сетью и т. д.) функционала;\n\n- Командная работа с дизайнером над созданием GUI;\n\n- Самостоятельное тестирование и отладка разрабатываемых продуктов, прежде чем передавать на проверку QA-инженерам.\n\nМинимальные требования к профессиональной квалификации:\n\n- Кандидат должен понимать особенности архитектур построения приложений MVC, MVVC и VIPER;\n\n- Иметь представление о сетевых протоколах обмена данными - HTTP, TCP, UDP, RTP, STUN.\n\n- Иметь опыт работы с Retrofit, Picasso;\n\n- Уметь отлаживать приложения и искать причины ошибок;\n\n- Идеально знать особенности Java и Android;\n\nСоискателей со следующими навыками и опытом, мы будем рассматривать в первую очередь:\n\n- Фундаментальные знания в программировании (алгоритмы, процедурная и ООП парадигмы, математический базис);\n\n- Умение работать по формальной методологии разработки, с прозрачными результатами и строгими сроками;\n\n- Практическое понимание юзабилити, любовь к простым и удобным интерфейсам — хотя бы с минимальными дизайнерскими навыками, для их реализации;\n\n- Умение самостоятельно тестировать и отлаживать разрабатываемые решения;\n\n- Большой опыт работы с вспомогательными библиотеками (Например: можете быстро разобраться с библиотекой для работы с VPN, для работы со всевозможными API и т. д.);\n\n- Опыт самостоятельной реализации Android-приложения от «идеи до маркета» от 1 шт.;\n\n- Общий опыт в области разработки ПО от 5 лет;\n\n- Высокий уровень профессиональной ответственности.\n\nДля талантливого и опытного профессионала мы предлагаем следующие условия:\n\n- Доход от 2200$ до 4000$ по итогам собеседования (доход Net, - не путать с gross);\n\n- Специально под данный проект сделан комфортный офис в БЦ Riga Land (кухня, релакс зона, графити, прочие приятности). Качественная инфраструктура БЦ: бассейн, фитнесс центр, однако каток(да-да, тот самый, который посещают в коньках), бары, рестораны, шопинг, прочее ;\n\n- Организована доставка сотрудников до офиса от ближайших станций метро (евробусы курсируют более чем регулярно);\n\n- Часть трудовой недели в приятном удаленном формате (творите из дома, без необходимости вялиться в унылых авто и человеко пробках)\n\n- Интернациональный, дружный коллектив состоящий из тщательно отобранных талантов;\n\n- Творческий процесс без бюрократических заморочек и корпоративной шизы;\n\n- Интересные и разнообразные профессиональные задачи;\n\n- Возможность перехода на удаленный формат работы (вы сможете трудиться из любой точки мира, единственные требования: быстрый и надежный интернет канал, своевременное выполнение задач).\n\n-Корпоративный ноутбук, iPhone.\n\nУбедительная просьба: в случае реального соответствия заявленным требованиям к профессиональной квалификации, приложить информативное сопроводительное письмо, всесторонне раскрывающее это самое соответствие.\n\nЕсли вы видите данную вакансию, значит она безвариантно, гарантированно, всамдельнишно АКТУАЛЬНА. А если она актуальна, значит есть смысл попытаться, таки, ее в конце концов закрыть. И даже если сия вакансия висит тут уже м",
+            "apply_options": [
+                {
+                    "title": "Geekjob",
+                    "link": "https://geekjob.ru/vacancy/5d6eb74cb161375d598d195d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIEFuZHJvaWQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU29sYXIgQ29tbXVuaWNhdGlvbnMgR21iaCIsImFkZHJlc3NfY2l0eSI6IlrDvHJpY2gsIFN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiI0cWd6QVB0R0dGc1dIbHdEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        },
+        {
+            "title": "Sr Android Developer",
+            "company_name": "LHH",
+            "location": "Switzerland",
+            "via": "Learn4Good",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=V-NMe9Z5dtSM1pU-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAA4L2jo9PNiokILjoJgkXc-gAlP0caSe9C7tDi4LOL3_B13247NLhQbJwjXPGFhSs22MGdPQi6FiZgghtzKrg-T6pVTtaKFJNEneZgAs-WCT0v9sle_o0yuYa1OMXxcNwvplLarB59D5lgeGf9YCuO4g8RldkqgAAAAA&shmds=v1_AUFQtOMmXIN3JSffYjGlGeEOQTb9XRDJJkA2IlTIK3uVsVcSpg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=V-NMe9Z5dtSM1pU-AAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "CHF 80K–CHF 100K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "salary": "CHF 80K–CHF 100K a year",
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Canton de Genève\n\nFor one of our clients, a bank in Geneva, we are hiring a Sr Android Developer.\n\nResponsibilities:\n\nAs a Sr Android Developer, you will develop user interfaces using the Android environment. You will maintain high standards of software development and quality code delivery. Additionally, you will ensure high performance of applications and provide support. You will review code, mentor, and coach team members. You will also conduct performance tests, integrate systems, and collaborate with an offshore team. Furthermore, you will identify capability gaps and assist the team in filling them.\n\nProfile:\n• Bachelor's degree in IT or equivalent\n• Minimum 5 years of experience in a similar role\n• Experience in Dependency Injection (DI) frameworks\n• Experience with REST APIs\n• Excellent knowledge of Kotlin\n• Excellent knowledge of Android architecture components\n• Strong knowledge of RxJava and multithreading\n• Knowledge of C++ and NBK\n• Knowledge of Unit/UI tests\n• Knowledge of Agile methodologies\n• Knowledge of MVM/MVP design patterns\n• Fluency in French and English\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/switzerland/software_development/3833929674/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkxISCIsImFkZHJlc3NfY2l0eSI6IlN3aXR6ZXJsYW5kIiwiaHRpZG9jaWQiOiJWLU5NZTlaNWR0U00xcFUtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFUzZHBkSHBsY214aGJtUSJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMkY2VmtWWkxVWmxiR05KWTBoQ05uSkxhMHhOVTBFMWQzQmxVM2xCTnpKQmNVWnNVRnAxTUVkaGMzSnlZV3BIWW1aNFV6RnlkMVpsU1U1RGVFSjVOMGRMUWprelF6VmFjR05aUzNjMGJVOXBTRGcyZERkdWJVdHBYMjF1YkhRMk0wRTVhRkJKUzFwTVgwRTNSRVJoZGtoNWNEZHFORVpzVFRaeGN6ZFpOV2gwY210U1JWOTZORnBqTFhCbFNXVXdaMXBxVG1WcFlsRjFTMHhrVUZka1ltRlliVTFSUVU1Nk9YRnlRMlZ6VVhsRllYRnNRV042V0dZMU9IVlVTUzFIV0ZGdk5ua3lXSEozUmtwclFXMDFNakpuTFdwaGNYbEhXRjl3ZWxadldUaHpRVGhrWlZndE5IbDVZamhGY0V0b05rUlhMVEJyUTNSb1VIWkRaM0ZvVG1wS1IySXlOVmxNY1dKNmIydFpPVXc1WlU1b1MwcEZaSFZ1TFdjU0YwSkJUMFphTkVOWVRreElTbkIwVVZCeVdXSk9jMUUwR2lKQlJsaHlSV052TUVkek1tTm5WVTlrWjFrMVpXZEpjRmRMVEVoMmJIWnJXRk5SIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Switzerland&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMkY2VmtWWkxVWmxiR05KWTBoQ05uSkxhMHhOVTBFMWQzQmxVM2xCTnpKQmNVWnNVRnAxTUVkaGMzSnlZV3BIWW1aNFV6RnlkMVpsU1U1RGVFSjVOMGRMUWprelF6VmFjR05aUzNjMGJVOXBTRGcyZERkdWJVdHBYMjF1YkhRMk0wRTVhRkJKUzFwTVgwRTNSRVJoZGtoNWNEZHFORVpzVFRaeGN6ZFpOV2gwY210U1JWOTZORnBqTFhCbFNXVXdaMXBxVG1WcFlsRjFTMHhrVUZka1ltRlliVTFSUVU1Nk9YRnlRMlZ6VVhsRllYRnNRV042V0dZMU9IVlVTUzFIV0ZGdk5ua3lXSEozUmtwclFXMDFNakpuTFdwaGNYbEhXRjl3ZWxadldUaHpRVGhrWlZndE5IbDVZamhGY0V0b05rUlhMVEJyUTNSb1VIWkRaM0ZvVG1wS1IySXlOVmxNY1dKNmIydFpPVXc1WlU1b1MwcEZaSFZ1TFdjU0YwSkJUMFphTkVOWVRreElTbkIwVVZCeVdXSk9jMUUwR2lKQlJsaHlSV052TUVkek1tTm5WVTlrWjFrMVpXZEpjRmRMVEVoMmJIWnJXRk5SIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

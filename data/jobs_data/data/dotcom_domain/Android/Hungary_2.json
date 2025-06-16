@@ -1,0 +1,48 @@
+{
+    "search_metadata": {
+        "id": "678502a663fc6bae3e953d35",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bd18ad0d86ac4a74/678502a663fc6bae3e953d35.json",
+        "created_at": "2025-01-13 12:10:14 UTC",
+        "processed_at": "2025-01-13 12:10:14 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIHSHVuZ2FyeQ&udm=8&fc=EswCCowCQUpHOUprUExVeldYd1I0djhDV01UeU1FMmpaTDQ3eExJbGM5emI5WXlhZ3hCbEptcXByOGFnRkNNRXM5b09oX2t2U0owWWlzQ3FQWUJzeWFZRlNwb1NhZnd5U21mazA5SlJZMS1rbDJGMjd1TWxKeW9IREw5M1drYkxPaE1OWDRrZkZ4WHMwV0w5cWVGZE5aUkJEbS10OEpnS0lVYkJuVWNucFlJamc4b0VYMWFMZy1sa1pRbDdIekZkcHJCS3R3aVU0NVhxMHU4TUo0RmtpdjlLdVZnOXVZemh6WUdYSmV5Vml5S3dLOFNWbVFsdjFqV2xyUGlNcjJoWGdLaW03QzZ0ZHl0MnBtZS1zYhIXcFFLRlo2ZmtLc21ja1BJUHNxYlJzUVkaIkFGWHJFY3BYY3R0R0hqNjU3UlRmUlp4UWV1MUpKbUw2Wnc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/bd18ad0d86ac4a74/678502a663fc6bae3e953d35.html",
+        "prettify_html_file": "https://serpapi.com/searches/bd18ad0d86ac4a74/678502a663fc6bae3e953d35.prettify",
+        "total_time_taken": 1.51
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Hungary",
+        "location_used": "Hungary",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVRXhWZWxkWWQxSTBkamhEVjAxVWVVMUZNbXBhVERRM2VFeEpiR001ZW1JNVdYbGhaM2hDYkVwdGNYQnlPR0ZuUmtOTlJYTTViMDlvWDJ0MlUwb3dXV2x6UTNGUVdVSnplV0ZaUmxOd2IxTmhabmQ1VTIxbWF6QTVTbEpaTVMxcmJESkdNamQxVFd4S2VXOUlSRXc1TTFkcllreFBhRTFPV0RSclprWjRXSE13VjB3NWNXVkdaRTVhVWtKRWJTMTBPRXBuUzBsVllrSnVWV051Y0ZsSmFtYzRiMFZZTVdGTVp5MXNhMXBSYkRkSWVrWmtjSEpDUzNSM2FWVTBOVmh4TUhVNFRVbzBSbXRwZGpsTGRWWm5PWFZaZW1oNldVZFlTbVY1Vm1sNVMzZExPRk5XYlZGc2RqRnFWMnh5VUdsTmNqSm9XR2RMYVcwM1F6WjBaSGwwTW5CdFpTMXpZaElYY0ZGTFJsbzJabXRMYzIxamExQkpVSE54WWxKelVWa2FJa0ZHV0hKRlkzQllZM1IwUjBocU5qVTNVbFJtVWxwNFVXVjFNVXBLYlV3MlduYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Mobile Developer",
+            "company_name": "Apollo Technical LLC",
+            "location": "Hungary",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=FfM_3XNp7B6Lro3QAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvE1zMJgi2IrjoJAqKnJv70ZbQ9ohJaaqcX-Bvi2943XfWLe_iMyGc8Y0kBSus4SYeFF0NCYThIhIJ54fUWtG9tapkojbXcjBBnlYYvUx2FK__Bk2uYiHXcNjuNpMpHFeLYxEigQeGxDk4gr4_QWa4vji6-vkBdHTDWYoAAAA&shmds=v1_AUFQtOPZ_H5J8E9uABC1b2BxAP1RQ2FGQ69u_4c8k_SaK00NAQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=FfM_3XNp7B6Lro3QAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "About Us\n\nBegin a career with one of the world’s largest virtual companies where you have flexibility and space to grow, just as we have been able to thanks to our team. Use the latest tools and technology to produce your best work and enjoy remuneration that’s reflective of your skills and experience.\n\nBrowse our current openings and apply today. We look forward to hearing from you.\n\nJob Description\n\nThis is a remote position.\n\nAre you on the hunt for exciting new challenges that boost your professional growth? We’re looking for an experienced Mobile Developer with strong expertise in Dart (Flutter), C/C++, and Objective-C or Swift C++ . If you’re ready to contribute to cutting-edge applications and join a dynamic, global team, this full-time, remote position could be the perfect fit for you. Read on to learn more about becoming part of Scopic’s team of 250+ professionals from over 60 countries.\n\nRequirements:\n• 5+ years of experience in mobile development with Dart (Flutter), C/C++, and either Objective-C or Swift.\n• Strong knowledge of Core ML, with hands-on experience in Objective-C implementations.\n• Proficiency in TensorFlow/TFLite for mobile machine learning.\n• Experience with vendor SDKs like Qualcomm SNEP and Samsung ENN SDK for mobile AI/ML optimization.\n• Familiarity with CI/CD processes, preferably with Jenkins (or similar tools).\n• Solid understanding of mobile performance optimization and architecture.\n• Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience).\n• Proficiency in English, both written and spoken.\n\nThe secret ingredients that make us special:\n• Your growth is our growth. We invest in your future with paid training and other professional opportunities.\n• We’re industry innovators at the forefront of change. Equipped with the latest technologies and a team of knowledgeable colleagues by your side, you’ll embrace new and interesting challenges.\n• Your location. Your schedule — Pick your time zone, choose your preferred hours, and work from the place where you feel most at home.\n• Flexibility and freedom are in our DNA! As long as you have a stable internet connection and the drive to thrive, you can travel and work from anywhere you like.\n• A workload you can rely on. We’ll set you enough tasks to keep that mind busy! At Scopic, we’ll ensure you always have a consistent flow of engaging, challenging work to do.\n• Recognition and reward. We acknowledge diligence and hard work through annual pay increases for good performance.\n\nDown to business!\n• Your starting rate is negotiable depending on your skills and experience.\n• This is an hourly paid position.\n• Contractors are paid monthly via wire transfer.\n\nOur values:\n\nScopic is an equal-opportunity employer. We value diversity and do not discriminate on the basis of race, religion, color, marital status, national origin, gender, veteran status, sexual orientation, age, or disability status.\n\nHave the skills, the drive, and the passion to join the Scopic family?\n\nApply today to join our growing team of remote professionals from around the world.\n\nTERMS OF APPLICATION\n\nBy submitting an application;\n• I consent that the data provided in this form, and the attached CV, will be used for Scopic's recruiting purposes and email communications.\n• I consent to Scopic conducting an identity verification process as part of the hiring process. I understand that my personal information may be collected and processed for the purpose of verifying my identity in compliance with applicable laws. \n\nAttention Job Seekers: Please be aware that scammers may be fraudulently using our company's name in hiring scams. To ensure your safety, all legitimate communication regarding job opportunities from our company will only come from email addresses ending with @scopicsoftware.com. Please exercise caution and report any suspicious activity to our official channels.",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://hu.jooble.org/jdp/-5781918884232768450?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Állás, Munka | Jobrapido.com",
+                    "link": "https://hu.jobrapido.com/jobpreview/1303786104939347968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQXBvbGxvIFRlY2huaWNhbCBMTEMiLCJhZGRyZXNzX2NpdHkiOiJIdW5nYXJ5IiwiaHRpZG9jaWQiOiJGZk1fM1hOcDdCNkxybzNRQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNIVnVaMkZ5ZVEifQ=="
+        }
+    ]
+}

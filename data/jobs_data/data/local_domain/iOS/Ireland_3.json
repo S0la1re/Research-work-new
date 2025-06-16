@@ -1,0 +1,53 @@
+{
+    "search_metadata": {
+        "id": "678508742e786d8ee923e393",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c17971d0a6d98682/678508742e786d8ee923e393.json",
+        "created_at": "2025-01-13 12:35:00 UTC",
+        "processed_at": "2025-01-13 12:35:00 UTC",
+        "google_jobs_url": "https://www.google.ie/async/callback:550?q=iOS+developer&uule=w+CAIQICIHSXJlbGFuZA&udm=8&fc=EswCCowCQUpHOUprTm55WHh0X2ZybGE1X2MyWEhsY2FtNjMyRWRvWnlMeDdxZlAtMkxjT24yYTNNY1pqQWFGa2Y0NkJKc0R0Si1yRi1oWnlFT29ZR3RacUtKcEpxYTE5TUR2V29oejdDQlNWSDF1TzBYSFgybklzZXBvRFJ6S3pWTlZnWG02eXhvRDBWemh2OTRJU2pna0MzMG5PVVdhSlY3YmtreFZzdTUwcDVoT2ZvdFFOMVVXNGt4aWVIWUFmQ19jeDNHdmVFYTk4YmpuT3hGT243M241cFBCV1hQR1JQZFRNV2VtcXdOajctbElsUG1xeUo0QzRDZ0w1QWtjb1ZHeDBGaWlZMjA1aU9UUVJINhIXY3dpRlo4T2hNNUdyNU5vUG5OQ3VvUWMaIkFGWHJFY3FPU0hSdlJ1RS1ENDAxTTVQZks0Nlg1R3NCeWc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/c17971d0a6d98682/678508742e786d8ee923e393.html",
+        "prettify_html_file": "https://serpapi.com/searches/c17971d0a6d98682/678508742e786d8ee923e393.prettify",
+        "total_time_taken": 1.01
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Ireland",
+        "location_used": "Ireland",
+        "google_domain": "google.ie",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUbTU1V0hoMFgyWnliR0UxWDJNeVdFaHNZMkZ0TmpNeVJXUnZXbmxNZURkeFpsQXRNa3hqVDI0eVlUTk5ZMXBxUVdGR2EyWTBOa0pLYzBSMFNpMXlSaTFvV25sRlQyOVpSM1JhY1V0S2NFcHhZVEU1VFVSMlYyOW9lamREUWxOV1NERjFUekJZU0ZneWJrbHpaWEJ2UkZKNlMzcFdUbFpuV0cwMmVYaHZSREJXZW1oMk9UUkpVMnBuYTBNek1HNVBWVmRoU2xZM1ltdHJlRlp6ZFRVd2NEVm9UMlp2ZEZGT01WVlhOR3Q0YVdWSVdVRm1RMTlqZUROSGRtVkZZVGs0WW1wdVQzaEdUMjQzTTI0MWNGQkNWMWhRUjFKUVpGUk5WMlZ0Y1hkT2FqY3RiRWxzVUcxeGVVbzBRelJEWjB3MVFXdGpiMVpIZURCR2FXbFpNakExYVU5VVVWSklOaElYWTNkcFJsbzRUMmhOTlVkeU5VNXZVRzVPUTNWdlVXTWFJa0ZHV0hKRlkzRlBVMGhTZGxKMVJTMUVOREF4VFRWUVprczBObGcxUjNOQ2VXYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Flutter Developer",
+            "company_name": "Scale3C",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQoCMQwA0P1GR6eMItiK4qKjoujqBxxpDe0dsSlNlAN_Xl0er_t0izO_zKjBid7EUn9bwU0CKGGLGaTARSQxzQ_ZrOree1V2SQ1tiC7K00uhIJMfJeifXjM2qoxG_Wa3nlwtaTm7R2TaHmEocG3EWB5f7vpJwX0AAAA&shmds=v1_AUFQtONV2xNuogMxrgmhJn13ZPUWXYd_JNaPzxEEZvo9anFQDQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508742e786d8ee923e393/images/7e8ce801fa7fde53e2b662b4ee231084bf0b4d29b7b132089d1d13e8dff82064.gif",
+            "extensions": [
+                "21 days ago",
+                "€192K a year",
+                "Work from home",
+                "Internship",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "salary": "€192K a year",
+                "work_from_home": true,
+                "schedule_type": "Internship",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union\n\nWho we are\nWe’re an award-winning development agency at the heart of Vilnius City with clients all around the world. Being a premier development agency we only work for the best, with the best. We specialize in web & mobile development and bespoke UX/UI design. No matter how big or small our client’s organization and budgets are, we’ve got a solution for them. This means you have a chance to work with both small and medium-sized businesses. We also provide outsourcing & outstaffing services to our clients.\nWhat we are looking for\nLooking for a Flutter developer for a full-time job as a contractor in our clients team.\n\nDay to Day\n• Flutter application development\n• Working together with other developers, project manager and UX/UI designer to build smooth & scalable app\n• Learn best software development practises with your colleagues\n• Contribute to quality by identifying spots of improvements\n• Experience with REST API, HTTPS\nYou are someone who has...\n• At least 2 years experience as a Software Developer\n• At least 2 year experience with Flutter SDK and Dart language\n• Rich experience in different screens layouting/supporting\n• Experience in building at least 1 Android and/ or iOS application using Flutter\n• Understanding and experience with state-management patterns: Provider, BLoC / MobX\n• Strong experience with Git / Git Flow\n• Strong communication, problem-solving skills\n• Fluency in English language\n• Experience (as an advantage) with Flutter for Web, Flutter for Desktop/ Flutter Platform Channels; in Android development (Android SDK)/ iOS development (Xcode, iOS SDK); with Agile methodologies (Scrum, Kanban)\nWhy you’ll love working with Scale3C\n• Work with some of the world’s leading and most recognized brands\n• Have the opportunity to work 100% remote from any country around Europe\n• Office in Vilnius city center\n• Cool and vibrant work environmentInterested in the position? We are looking forward to your application, to connect and talk more!\n\nBest regards,\nTalent acquisition team\n\nThis offer from \"Scale3C\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677c07d256373d87f2b9cbc6-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNjYWxlM0MiLCJhZGRyZXNzX2NpdHkiOiJJcmVsYW5kIiwiaHRpZG9jaWQiOiJsU0xRZGVndzZaUThGWWRSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        }
+    ]
+}

@@ -1,0 +1,680 @@
+{
+    "search_metadata": {
+        "id": "67850615d37223dfae31affa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b5460769b3f168e7/67850615d37223dfae31affa.json",
+        "created_at": "2025-01-13 12:24:53 UTC",
+        "processed_at": "2025-01-13 12:24:53 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&udm=8&fc=EuICCqICQUpHOUprTl93LWVqek9HRmdQRXRaYnQySE9BOUFDVldiaWpFTG1XV3dsNmJ4b3dHdC01RmpMLXFMWG5zbDdiU2ZfbjdnTk1XcjR0MTBMLTJ2RWgxVk9FRWRUNUNraElUUmFROXZhODA5bXhCQ0EwSXJSNmE4eUZFcUppSlkwc2Q2RWVPWS1iUjQyZ3AyZ0ozWUhhV19Pa1I4Y3dMRXBFM3dneUNNbUhLckZaUmQ3SDA2eGNvMEhjWUVWcEQxTW9GVjdCNjJPeGlTWDUtTEp6LV8teDkyNnJxd3VQSlN6YmRPN1YyZENvbHhLc3RNZmpMbU9KajFHVXduOXBzUmNDbXZPT21zdHNNQ3RqYkpRSUN5djZBLTREaVdUUklmVE8wOVESF0ZBYUZaNzIySkkzZndONFB2ZENQMlFJGiJBRlhyRWNycHN3Y0FzeUtuRUtYZW44WUpUTmVzRF9KYmNR&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/b5460769b3f168e7/67850615d37223dfae31affa.html",
+        "prettify_html_file": "https://serpapi.com/searches/b5460769b3f168e7/67850615d37223dfae31affa.prettify",
+        "total_time_taken": 1.02
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUbDkzTFdWcWVrOUhSbWRRUlhSYVluUXlTRTlCT1VGRFZsZGlhV3BGVEcxWFYzZHNObUo0YjNkSGRDMDFSbXBNTFhGTVdHNXpiRGRpVTJaZmJqZG5UazFYY2pSME1UQk1MVEoyUldneFZrOUZSV1JVTlVOcmFFbFVVbUZST1haaE9EQTViWGhDUTBFd1NYSlNObUU0ZVVaRmNVcHBTbGt3YzJRMlJXVlBXUzFpVWpReVozQXlaMG96V1VoaFYxOVBhMUk0WTNkTVJYQkZNM2RuZVVOTmJVaExja1phVW1RM1NEQTJlR052TUVoaldVVldjRVF4VFc5R1ZqZENOakpQZUdsVFdEVXRURXA2TFY4dGVEa3lObkp4ZDNWUVNsTjZZbVJQTjFZeVpFTnZiSGhMYzNSTlptcE1iVTlLYWpGSFZYZHVPWEJ6VW1ORGJYWlBUMjF6ZEhOTlEzUnFZa3BSU1VONWRqWkJMVFJFYVZkVVVrbG1WRTh3T1ZFU0YwWkJZVVphTnpJeVNra3pabmRPTkZCMlpFTlFNbEZKR2lKQlJsaHlSV055Y0hOM1kwRnplVXR1UlV0WVpXNDRXVXBVVG1WelJGOUtZbU5SIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "IOS Developer-Cincinnati OH -Remote",
+            "company_name": "Georgia IT Inc",
+            "location": "Anywhere",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=J9sAbNc6QDytkuBrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XNsQrCMBCAYVz7CE43i21EcKmjQq1LQd1LEo4kJb0LuSB9F1_WOrn8289XfTZV2w9PuOIbIyfM9SWQDUS6BBhuUD9w5oJQw50NCOpsPTBBx-wibs--lCStUiKxcVLWyzaWZ8WEhhc1sZFfRvE6Y4q64Hg8HZYmkdtBh5xd0NC_oCcLgeCP71f9C6ezDvKeAAAA&shmds=v1_AUFQtOOQ7w8Sy8gLeRxnv31BdGJVg0l9fKdgvu-NnvQm9x_Crg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=J9sAbNc6QDytkuBrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9b1f993c1bf8bbe32bb3df826f0dacb8da2ef25e6ebb60c8bf.gif",
+            "extensions": [
+                "50 an hour",
+                "Work from home",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "50 an hour",
+                "work_from_home": true,
+                "qualifications": "No degree mentioned"
+            },
+            "description": "IOS Developer\nLocation – Cincinnati OH -Remote\nDuration – 6 months\nRate - $50/hr. on w2\n\nUS Citizen, Green Card, TN, H4EAD, GC EAD preferred. No H1B\n\nDescription;\n• Expertise in iOS Development, UIKit, XCode, etc\n• Deep expertise with mobile development applications using iOS Native development toolkits (Swift, UIKit, XCode)\n• * proficient in both iOS and Android\n• Experience with location services preferred\n• Knowledge of Architecture patters (MVC, MVVM, MVP)\n• Familiarity with CI/CD\n• Knowledge of Unit Testing\n• Scrum / Agile\n• Communication skills/attitude will be of utmost importance in any candidate you send our way.\n• Hands on experience working in an agile team.\n• Thorough understanding of RESTful architecture and deployment of distributed services\n• Able to communicate with all levels of management and with team to achieve desired outcomes and build strong relationships",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Expertise in iOS Development, UIKit, XCode, etc",
+                        "Deep expertise with mobile development applications using iOS Native development toolkits (Swift, UIKit, XCode)",
+                        "proficient in both iOS and Android",
+                        "Knowledge of Architecture patters (MVC, MVVM, MVP)",
+                        "Familiarity with CI/CD",
+                        "Knowledge of Unit Testing",
+                        "Scrum / Agile",
+                        "Communication skills/attitude will be of utmost importance in any candidate you send our way",
+                        "Hands on experience working in an agile team",
+                        "Thorough understanding of RESTful architecture and deployment of distributed services"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Rate - $50/hr. on w2"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Georgia-IT-Inc/Job/IOS-Developer-Cincinnati-OH-Remote/-in-Cincinnati,OH?jid=68cfc4b41c6083e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/ios-developer-cincinnati-oh-remote--846c5aec-5837-4261-8103-45fb90e98688?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyLUNpbmNpbm5hdGkgT0ggLVJlbW90ZSIsImNvbXBhbnlfbmFtZSI6Ikdlb3JnaWEgSVQgSW5jIiwiYWRkcmVzc19jaXR5IjoiQ2luY2lubmF0aSwgT0giLCJodGlkb2NpZCI6Iko5c0FiTmM2UUR5dGt1QnJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "iOS Developer / Native iOS Developer",
+            "company_name": "Fortira Inc",
+            "location": "Fremont, CA",
+            "via": "Teal",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=aO7IEf6xnpOy97y_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1XLsQrCMBCAYVz7CJ1uFk1EcLGTKBUddPABShKOJCXNhdxR-iQ-rzq6_MMHf_NeNV18vuCCMyYqWEHDw0icEf55C3eywGiqC0AZrkQ-YdsFkcJHrZmT8izf1SlHk6aMlhY9kuVfBg6mYklGcNgfdosq2a_bnqrEauCWHcQMfcWJsmzgfPoA-mkwA5kAAAA&shmds=v1_AUFQtOOUyM5ZGZ-YWhq-8jORVpN9QYY5Hc1A2pQpg1mmL7tSHw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=aO7IEf6xnpOy97y_AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time and Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time and Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About the position\n\nThe iOS Developer at Fortira Inc. is responsible for designing, developing, and maintaining iOS applications, ensuring high performance, quality, and responsiveness. The role requires a strong understanding of Swift, Objective-C, and various iOS SDKs, along with the ability to stay updated on the latest trends in iOS development. The developer will also recommend improvements to existing products based on their expertise.\n\nResponsibilities\n• Designing, developing, and maintaining iOS applications.\n,\n• Ensuring performance, quality, and responsiveness of applications.\n,\n• Keeping up-to-date with the latest trends and technologies in iOS development.\n,\n• Recommending improvements to existing products.\n\nRequirements\n• Proficient with Swift, SwiftUI, and UIKit.\n,\n• Experience with iOS frameworks such as Framework, coordinator pattern, async-await.\n,\n• Minimum 5 years of practical experience in mobile application development.\n,\n• Solid understanding of mobile application architecture and design patterns (e.g., MVC, MVVM).\n,\n• Experience with offline storage, threading, and performance tuning.\n,\n• Strong problem-solving skills and attention to detail.\n,\n• Experience with RESTful APIs to connect iOS applications to back-end services.\n,\n• Knowledge of other web technologies and UI/UX standards.\n,\n• Understanding of Apple's design principles and interface guidelines.\n,\n• Knowledge of low-level C-based libraries is preferred.\n,\n• Experience with performance and memory tuning with tools.\n,\n• Proficiency in benchmarking and optimization.\n,\n• Understanding of code versioning tools like Git.\n\nNice-to-haves\n• Published mobile apps experience.\n,\n• Experience with Unit and Integration Testing.\n\nBenefits\n• Contract position with hourly pay ranging from $60 to $80.\n,\n• In-person work environment from Monday to Friday.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The role requires a strong understanding of Swift, Objective-C, and various iOS SDKs, along with the ability to stay updated on the latest trends in iOS development",
+                        "Proficient with Swift, SwiftUI, and UIKit",
+                        "Experience with iOS frameworks such as Framework, coordinator pattern, async-await",
+                        "Minimum 5 years of practical experience in mobile application development",
+                        "Solid understanding of mobile application architecture and design patterns (e.g., MVC, MVVM)",
+                        "Experience with offline storage, threading, and performance tuning",
+                        "Strong problem-solving skills and attention to detail",
+                        "Experience with RESTful APIs to connect iOS applications to back-end services",
+                        "Knowledge of other web technologies and UI/UX standards",
+                        "Understanding of Apple's design principles and interface guidelines",
+                        "Experience with performance and memory tuning with tools",
+                        "Proficiency in benchmarking and optimization",
+                        "Understanding of code versioning tools like Git",
+                        "Published mobile apps experience",
+                        "Experience with Unit and Integration Testing"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Contract position with hourly pay ranging from $60 to $80",
+                        "In-person work environment from Monday to Friday"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The iOS Developer at Fortira Inc. is responsible for designing, developing, and maintaining iOS applications, ensuring high performance, quality, and responsiveness",
+                        "The developer will also recommend improvements to existing products based on their expertise",
+                        "Designing, developing, and maintaining iOS applications",
+                        "Ensuring performance, quality, and responsiveness of applications",
+                        "Keeping up-to-date with the latest trends and technologies in iOS development",
+                        "Recommending improvements to existing products"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/i-os-developer-native-i-os-developer_76ae22c9-c636-45c4-b42f-22411b6e2e4e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC8gTmF0aXZlIGlPUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJGb3J0aXJhIEluYyIsImFkZHJlc3NfY2l0eSI6IkZyZW1vbnQsIENBIiwiaHRpZG9jaWQiOiJhTzdJRWY2eG5wT3k5N3lfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "Senior iOS Developer - Tock",
+            "company_name": "Amex",
+            "location": "Chicago, IL",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=GLA8czDfU_KzjnxbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXFsQrCMBQFUFy7ujm9WTSRgotOoiCK4FD3koZHEk1zQ16QfoHfrS7nNJ9Z03acAgqFe0cnfnNE5kJresC-fl0xkLAp1hMSnQEXebH3tWbZaS0SlZNqarDKYtRIPGDSTwzypxdvCudoKvftdjOpnNxyfhh5opDo6IM1Diu63L7LDJ8siQAAAA&shmds=v1_AUFQtOMphBi-HCyI3CoXLk0zd_YGmMF1LrgoWla6TBzFATbJrg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=GLA8czDfU_KzjnxbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9be71b44f6e5169474b00d664bbbf6775f9eace185f1b75cac.gif",
+            "extensions": [
+                "110K–190K a year",
+                "Full-time",
+                "No degree mentioned",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "salary": "110K–190K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "dental_coverage": true,
+                "health_insurance": true
+            },
+            "description": "You Lead the Way. We’ve Got Your Back\n\nWith the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities, and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.\n\nAt American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.\n\nJoin Team Amex and let's lead the way together.\n\nAs part of our diverse tech team, you can architect, code and ship software that makes us an essential part of our customers’ digital lives. Here, you can work alongside talented engineers in an open, supportive, inclusive environment where your voice is valued, and you make your own decisions on what tech to use to solve challenging problems. American Express offers a range of opportunities to work with the latest technologies and encourages you to back the broader engineering community through open source. And because we understand the importance of keeping your skills fresh and relevant, we give you dedicated time to invest in your professional development. Find your place in technology on #TeamAmex.\n\nUSCS & EDD Tech business description paragraph\n\nThe U.S. Consumer Services and Enterprise Digital & Data Technology Team brings together foundational strategic technology capabilities in digital experience engineering (Mobile and Web), AI/ML, marketing technology, enterprise communications, travel and lifestyle, and automation, grounded in our data technology model that prioritizes data governance. It employs a ground-breaking focus with development responsibilities for customer-facing capabilities that deepen and expand digital engagement, as well as core technical capabilities that cut across business lines and customer segments.\n\nWe're looking for a Senior iOS Software Engineer to help us continue to build the next generation restaurant booking system, already trusted by thousands of businesses from world-class restaurants such as Alinea, Next and The French Laundry to local neighborhood mainstays.\n\nThe iOS engineer will have a track record of building mobile applications that solve real problems for users in ways that only a mobile app can. You will work on a small, independent iOS team in collaboration with teams representing our web-based app to allow our iOS apps to maintain feature parity with the web as well as building innovative mobile-only apps. We are a small team so there's a great opportunity for you to make a difference.\n\nThis is a full time role with a hybrid work model - 3 days a week in either the NYC or Chicago office\n\nYou'll Get To...\n• Develop modern, native apps using SwiftUI and The Composable Architecture, with REST and GraphQL for server communication.\n• Collaborate with designers, product leadership, and other teams to craft new features for our business customers and their guests.\n• Contribute to a vibrant and forward-looking engineering team, shaping technical direction and culture across the entire organization.\n\nWho We're Looking For\n• 5+ years of experience building modular, testable iOS applications\n• A demonstrated ability to get things done on a small team while maintaining high standards of quality\n• An orientation towards learning and growing as part of a team\n• Excellent communication skills, both in keeping larger teams aware of their work on an ongoing basis and in resolving conflicts efficiently\n• Demonstrated ability to experiment and use data to guide decision-making\n• Expertise in Swift, SwiftUI and The Composable Architecture (or other reducer-based architectures) is a strong plus\n\nSalary Range: $110,000.00 to $190,000.00 annually + bonus + benefits\n\nThe above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we’ll consider your location, experience, and other job-related factors.\n\nWe back our colleagues and their loved ones with benefits and programs that support their holistic well-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:\n• Competitive base salaries\n• Bonus incentives\n• 6% Company Match on retirement savings plan\n• Free financial coaching and financial well-being support\n• Comprehensive medical, dental, vision, life insurance, and disability benefits\n• Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need\n• 20+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy\n• Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)\n• Free and confidential counseling support through our Healthy Minds program\n• Career development and training opportunities\n\nFor a full list of Team Amex benefits, visit our Colleague Benefits Site.\n\nAmerican Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.\n\nWe back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in-office and virtual days) or fully virtually.\n\nUS Job Seekers/Employees - Click here to view the “Know Your Rights” poster and the Pay Transparency Policy Statement.\n\nIf the links do not work, please copy and paste the following URLs in a new browser window: https://www.dol.gov/agencies/ofccp/posters to access the three posters.\n\nEmployment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of experience building modular, testable iOS applications",
+                        "A demonstrated ability to get things done on a small team while maintaining high standards of quality",
+                        "An orientation towards learning and growing as part of a team",
+                        "Excellent communication skills, both in keeping larger teams aware of their work on an ongoing basis and in resolving conflicts efficiently",
+                        "Demonstrated ability to experiment and use data to guide decision-making",
+                        "Expertise in Swift, SwiftUI and The Composable Architecture (or other reducer-based architectures) is a strong plus"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary Range: $110,000.00 to $190,000.00 annually + bonus + benefits",
+                        "The above represents the expected salary range for this job requisition",
+                        "Ultimately, in determining your pay, we’ll consider your location, experience, and other job-related factors",
+                        "We back our colleagues and their loved ones with benefits and programs that support their holistic well-being",
+                        "Competitive base salaries",
+                        "Bonus incentives",
+                        "6% Company Match on retirement savings plan",
+                        "Free financial coaching and financial well-being support",
+                        "Comprehensive medical, dental, vision, life insurance, and disability benefits",
+                        "Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need",
+                        "20+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy",
+                        "Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)",
+                        "Free and confidential counseling support through our Healthy Minds program",
+                        "Career development and training opportunities"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The iOS engineer will have a track record of building mobile applications that solve real problems for users in ways that only a mobile app can",
+                        "You will work on a small, independent iOS team in collaboration with teams representing our web-based app to allow our iOS apps to maintain feature parity with the web as well as building innovative mobile-only apps",
+                        "Develop modern, native apps using SwiftUI and The Composable Architecture, with REST and GraphQL for server communication",
+                        "Collaborate with designers, product leadership, and other teams to craft new features for our business customers and their guests",
+                        "Contribute to a vibrant and forward-looking engineering team, shaping technical direction and culture across the entire organization"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=7c81a7677cee7508&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Act-Consulting/Job/Senior-Developer-Fixed-Income/-in-Chicago,IL?jid=563af92f281a6d26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/senior-quantitative-developer-futures-at-algo-capital-group-4104216224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Snagajob",
+                    "link": "https://www.snagajob.com/jobs/1022934390?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "USNLX Diversity Jobs - National Labor Exchange",
+                    "link": "https://diversity.usnlx.com/chicago-il/senior-ios-developer-tock/AF39D7CA5F794111ACCE4B53B90D59F5/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobServe",
+                    "link": "https://www.jobserve.com/us/en/extjob/SENIOR-IOS-DEVELOPER-TOCK-in-Chicago-Illinois-USA-B52A656AB769C75FF6/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SaluteMyJob",
+                    "link": "https://salutemyjob.com/jobs/senior-quantitative-developer-futures-chicago-illinois/1538031905-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/4995383147?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAtIFRvY2siLCJjb21wYW55X25hbWUiOiJBbWV4IiwiYWRkcmVzc19jaXR5IjoiQ2hpY2FnbywgSUwiLCJodGlkb2NpZCI6IkdMQThjekRmVV9LempueGJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "ACS Consultancy Services, Inc",
+            "location": "Albany, NY",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=q1_3YWPMXKCpiw5YAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43OGltRHDRqVQQHXTI5FSScKSReBdysbR_4SeLb3jVd1GtwkPDGUeMnDDDFm5sQdBkNwATXJh9xOVpKCXJUSmR2HgppgTXOH4rJrQ8qRdb-dfLYDKmaAr2-8NuahL59abtNHRM8onFkJtBYx6DQ6nhSg4CQRutobmG-_MHYCfo2ZMAAAA&shmds=v1_AUFQtOMkDnIuLoyKPajtMMieZRAjTyKd2_nuNi3rGd1-sBCJvA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=q1_3YWPMXKCpiw5YAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9b26427c6b69ef1fe13b1820c5c68f9249c41d6d775e92bbbd.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Title: iOS Developer(US Citizens only)\n\nLocation: Remote\n\nWe are currently seeking candidates who meet the following qualifications:\n\nResponsibilities\n• Design and build advanced applications for the iOS platform using Swift and/or Objective-C.\n• Collaborate with cross-functional teams, including designers, product managers, and backend developers, to define app requirements and deliverables.\n• Implement intuitive user interfaces and optimize app performance for a seamless user experience.\n• Write clean, maintainable, and testable code, adhering to industry standards and best practices.\n• Debug and resolve technical issues, crashes, and performance bottlenecks.\n• Conduct code reviews and provide constructive feedback to team members.\n• Stay updated with the latest iOS development trends, tools, and technologies.\n• Integrate third-party APIs and frameworks to enhance application features.\n• Contribute to the release process, including testing, deployment, and App Store submission.\n\nQualifications\n• Proficiency in Swift (preferred) and/or Objective-C.\n• Solid understanding of iOS frameworks such as UIKit, Core Data, Core Animation, etc.\n• Experience with RESTful APIs and integration with backend services.\n• Experience with version control systems, such as Git.\n• Strong understanding of design patterns (MVC, MVVM) and SOLID principles.\n• Knowledge of Apple's Human Interface Guidelines and App Store review processes.\n• Experience with performance and memory tuning tools.\n• Experience with SwiftUI.\n• Knowledge of unit and UI testing frameworks (XCTest, XCUITest).\n• Experience with CI/CD pipelines for iOS applications.\n• Experience with location services, maps, and other iOS platform capabilities.\n• Understanding of Agile development methodologies.\n• Federal Experience is a plus.\n• Required Security clearance.\n\nIf you meet these qualifications, please submit your application via link provided in Linkedin.\n\nKindly do not call the general line to submit your application.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid understanding of iOS frameworks such as UIKit, Core Data, Core Animation, etc",
+                        "Experience with RESTful APIs and integration with backend services",
+                        "Experience with version control systems, such as Git",
+                        "Strong understanding of design patterns (MVC, MVVM) and SOLID principles",
+                        "Knowledge of Apple's Human Interface Guidelines and App Store review processes",
+                        "Experience with performance and memory tuning tools",
+                        "Experience with SwiftUI",
+                        "Knowledge of unit and UI testing frameworks (XCTest, XCUITest)",
+                        "Experience with CI/CD pipelines for iOS applications",
+                        "Experience with location services, maps, and other iOS platform capabilities",
+                        "Understanding of Agile development methodologies",
+                        "Required Security clearance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design and build advanced applications for the iOS platform using Swift and/or Objective-C",
+                        "Collaborate with cross-functional teams, including designers, product managers, and backend developers, to define app requirements and deliverables",
+                        "Implement intuitive user interfaces and optimize app performance for a seamless user experience",
+                        "Write clean, maintainable, and testable code, adhering to industry standards and best practices",
+                        "Debug and resolve technical issues, crashes, and performance bottlenecks",
+                        "Conduct code reviews and provide constructive feedback to team members",
+                        "Stay updated with the latest iOS development trends, tools, and technologies",
+                        "Integrate third-party APIs and frameworks to enhance application features",
+                        "Contribute to the release process, including testing, deployment, and App Store submission"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-acs-consultancy-services-inc-4094965496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQUNTIENvbnN1bHRhbmN5IFNlcnZpY2VzLCBJbmMiLCJhZGRyZXNzX2NpdHkiOiJBbGJhbnksIE5ZIiwiaHRpZG9jaWQiOiJxMV8zWVdQTVhLQ3BpdzVZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Spruce",
+            "location": "Menlo Park, CA",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=kYJo7kw2NvhnSqqlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwA0P2-QJwyOIm2IrjoJAqCIAr3AUdbQtuzJqWJcov_Lr7hdd9uke89nPGDhSs2WMOVPQi6FhIwwYU5FpwfkmqVvbUixURRpzmYwC_LhJ4nO7KXf4Mk17AWpzhsd5vJVIrLWV_bOyBkghtSYXi49lzB6fgDHt88TX8AAAA&shmds=v1_AUFQtOMMguavyEeNYKOj4TooEm8jDybU5sj9FEVj_Myce3ZJBw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=kYJo7kw2NvhnSqqlAAAAAA%3D%3D",
+            "extensions": [
+                "95–100 an hour",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "salary": "95–100 an hour",
+                "schedule_type": "Contractor"
+            },
+            "description": "Position Description\nThis position is for a senior iOS Developer on our Wealth Management hybrid App in Menlo (currently 3 days a week on-site min).\n\nResponsibilities & Skills Required:\n• Objective-C, Swift 5.5, and C++ as required by Apple frameworks\n• Broad iOS API experience, including but not limited to:o Local Authentication, WebKit, Networking* Deep knowledge of iOS programming concepts, including but not limited to:o Threading, Crash Analysis, Swizzling* JavaScript programming using Node, and Hybrid App debugging via Safari\n• Git submodules\n• NPM package publishing\n• Cordova command line tools\n• The latest Xcode, xcodebuild, application loader, and iOS\n\nYour day-to-day may include some of these tasks:\n• Create and maintain custom Cordova plugins, including hooks\n• Perform annual maintenance on the codebase and automated build scripts to keep pace with changes to iOS and Xcode\n• Maintain certificates and signing, including certificate pinning, provisioning profiles, and push notification certificates\n• Monitor production feedback, crash reports, and analytics and address issues\n• Work with infrastructure teams to address proxy, software and administrative privilege issues that impact iOS development or build processes\n• Train web application developers how to build and debug a hybrid app\n\nThis is a full-time position and is expected to be at least one year in duration. The candidate must work on-site, as device debugging via USB will be required. Vacation policy is flexible with advance notice.\n\nAdditional Required Skills:\n• Strong written and verbal communication skills in English.\n• BA/BS in Computer Science or related field, or equivalent practical experience.\n\nAdditional Desired Skills\n• Experience developing APIs.\n• Experience with Android app development.\n• Strong user experience skills.\n\nJob Type: Contract\n\nPay: $95.00 - $100.00 per hour\n\nExperience:\n• Swift: 2 years (Preferred)\n• iOS development: 2 years (Preferred)\n• Objective-C: 1 year (Preferred)\n\nWork Location: In person",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Objective-C, Swift 5.5, and C++ as required by Apple frameworks",
+                        "Broad iOS API experience, including but not limited to:o Local Authentication, WebKit, Networking* Deep knowledge of iOS programming concepts, including but not limited to:o Threading, Crash Analysis, Swizzling* JavaScript programming using Node, and Hybrid App debugging via Safari",
+                        "Git submodules",
+                        "NPM package publishing",
+                        "Cordova command line tools",
+                        "The latest Xcode, xcodebuild, application loader, and iOS",
+                        "This is a full-time position and is expected to be at least one year in duration",
+                        "The candidate must work on-site, as device debugging via USB will be required",
+                        "Strong written and verbal communication skills in English",
+                        "BA/BS in Computer Science or related field, or equivalent practical experience"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Vacation policy is flexible with advance notice",
+                        "Pay: $95.00 - $100.00 per hour"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Create and maintain custom Cordova plugins, including hooks",
+                        "Perform annual maintenance on the codebase and automated build scripts to keep pace with changes to iOS and Xcode",
+                        "Maintain certificates and signing, including certificate pinning, provisioning profiles, and push notification certificates",
+                        "Monitor production feedback, crash reports, and analytics and address issues",
+                        "Work with infrastructure teams to address proxy, software and administrative privilege issues that impact iOS development or build processes",
+                        "Train web application developers how to build and debug a hybrid app"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=0ca9c031f41f7df9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/ApTask/Job/Ios-Developer/-in-Menlo-Park,CA?jid=e407262d48887051&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/ZHm_Gc6e6leifx3_m4qIr1lsC5KtG2zAsC3ESa-OHqwkt_gKe3m72g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU3BydWNlIiwiYWRkcmVzc19jaXR5IjoiTWVubG8gUGFyaywgQ0EiLCJodGlkb2NpZCI6ImtZSm83a3cyTnZoblNxcWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "iOS Developer/ Columbus, OH, 6 months contract",
+            "company_name": "Suncap Technology",
+            "location": "Columbus, OH",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=d0JY1kG9dwVPIwpTAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1XOsQrCMBCAYVz7CE7nKrURQQcdVRSXDnUvyXEklSQXcqnUJ_I11dHl_9a_es-q89B2cKIneU6UFRzZj8GMUkN7rWEHgWNxAvglayywghsbENIZHXCEC7P1ND-4UpLslRLxjZWiy4ANclAcyfCkHmzkl16czpS8LtRvtuupSdEuF90YUSe4E7rInu0Lhvh38gG4EjykqgAAAA&shmds=v1_AUFQtOPHtycLZEMhGYrna4AwsyT2AXDbjIWadtNnVRbUZl7Jrg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=d0JY1kG9dwVPIwpTAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9b40f5781d22dddf14ae02adb1f65d8a7b18f30447aadacb8b.gif",
+            "extensions": [
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor"
+            },
+            "description": "iOS Developer\n\nContract\n\nHybrid (2 days a week onsite from day one)\n\nColumbus, OH\n\nQualifications\n• BS/BA degree or equivalent experience\n• Multiple years of combined software/application development experience\n• Created 1 or more mobile applications available in Apple's App Store\n• Expert knowledge in all phases of the mobile app development life cycle\n• Experience working with large codebases, managing shared resources and libraries\n• Experienced working with a variety of stakeholders across technology and business groups\n• Understanding of architectural patterns such as MVP and MVVM,\n\niOS\n\nMultiple years of experience developing large scale mobile applications using Objective C, and Swift\n\nResponsibilities\n• You'll join an inspiring and curious team of technologists dedicated to improving the design, analytics, development, coding, testing and application programming that goes into creating high quality software and new products\n• You'll be tasked with keeping the team and other key stakeholders up to speed on the progress of what's being developed\n• Complete development assignments on time with an appropriate level of quality to support project efforts\n• Participate in a digital technology project from concept to implementation, and through all phases of the software development lifecycle\n• Create work estimates based on technology concepts and requirements documentation\n\nSupport project releases",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS/BA degree or equivalent experience",
+                        "Multiple years of combined software/application development experience",
+                        "Created 1 or more mobile applications available in Apple's App Store",
+                        "Expert knowledge in all phases of the mobile app development life cycle",
+                        "Experience working with large codebases, managing shared resources and libraries",
+                        "Experienced working with a variety of stakeholders across technology and business groups",
+                        "Understanding of architectural patterns such as MVP and MVVM,",
+                        "iOS",
+                        "Multiple years of experience developing large scale mobile applications using Objective C, and Swift"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Hybrid (2 days a week onsite from day one)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You'll join an inspiring and curious team of technologists dedicated to improving the design, analytics, development, coding, testing and application programming that goes into creating high quality software and new products",
+                        "You'll be tasked with keeping the team and other key stakeholders up to speed on the progress of what's being developed",
+                        "Complete development assignments on time with an appropriate level of quality to support project efforts",
+                        "Participate in a digital technology project from concept to implementation, and through all phases of the software development lifecycle",
+                        "Create work estimates based on technology concepts and requirements documentation",
+                        "Support project releases"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Suncap-Technology/Job/Ios-Developer-Columbus,-Oh,-6-Months-Contract/-in-Columbus,OH?jid=a1df174fce2951c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyLyBDb2x1bWJ1cywgT0gsIDYgbW9udGhzIGNvbnRyYWN0IiwiY29tcGFueV9uYW1lIjoiU3VuY2FwIFRlY2hub2xvZ3kiLCJhZGRyZXNzX2NpdHkiOiJDb2x1bWJ1cywgT0giLCJodGlkb2NpZCI6ImQwSlkxa0c5ZHdWUEl3cFRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+        },
+        {
+            "title": "Sr. iOS Developer- Dallas, TX Hybrid",
+            "company_name": "Five Pack Creative",
+            "location": "Anywhere",
+            "via": "Teal",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=1aRvIK7AeauvqCbmAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_02NsQrCMBBAce0nON0sNhHBxY4WFReFOriVSzzaaMyFXCj1X_xY6-by4A2PV3xmRdUkBe7cQE0DeY6USqjRe5QlXG9wfJvk7lDCiQ0IYbI9cIADc-dpXvU5R9lqLeJVJxmzs8ryS3Mgw6N-sJEfWukxUfSYqV1vVqOKoVvA3g0EF7RP2CWa0slc-Jt_AQIbgSKfAAAA&shmds=v1_AUFQtONmiRkMD2R5ijkNvfH5XKG9dewK7aPpdAFnB16ubs3VxQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=1aRvIK7AeauvqCbmAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "health_insurance": true,
+                "paid_time_off": true,
+                "dental_coverage": true
+            },
+            "description": "About the position\n\nFive Pack is seeking a Senior iOS Developer to join their team in Dallas, TX. This hybrid position requires onsite work three days a week and offers relocation assistance for candidates outside the Dallas-Fort Worth area. The role involves designing, developing, and maintaining iOS applications while leading a team and ensuring code quality and standards. The company prides itself on its innovative approach and commitment to creating a positive work environment for its employees.\n\nResponsibilities\n• Designs, analyzes, writes, tests and documents code for new or existing software applications\n,\n• Creates application specifications, diagrams, flow charts and other documentation to support the design and development if needed\n,\n• Develops innovative technical designs and collaborates with team members to develop and maintain code quality and standards\n,\n• Facilitates meetings and effectively communicates between different levels of the organization\n,\n• Leads a team while also contributing to the codebase\n\nRequirements\n• 5+ years of Swift and UIKit experience\n,\n• Familiar with common iOS architecture patterns (MVC, MVVM)\n,\n• Comfortable with Swift enums, pattern-matching, and protocols\n,\n• Experience writing unit tests in Xcode\n,\n• Skilled in Agile Methodologies of scrum, kanban, sprints, and ticket sizing.\n\nNice-to-haves\n\nBenefits\n• Competitive pay\n,\n• Comprehensive health and benefit options, including two medical plan options covered at 100% for the employee\n,\n• Company paid holidays, sick pay, floating holiday, and vacation for full-time employees\n,\n• Core hours from 9 am - 3 pm, plus non-core hour flexibility\n,\n• Employee Assistance Program & Employee Discount Program\n,\n• Referral bonus program for new work that you refer\n,\n• Dependent care FSA to help you save money on care for your children or other dependents\n,\n• 401k with up to 3.5% company match",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of Swift and UIKit experience",
+                        "Familiar with common iOS architecture patterns (MVC, MVVM)",
+                        "Comfortable with Swift enums, pattern-matching, and protocols",
+                        "Experience writing unit tests in Xcode",
+                        "Skilled in Agile Methodologies of scrum, kanban, sprints, and ticket sizing"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive pay",
+                        "Comprehensive health and benefit options, including two medical plan options covered at 100% for the employee",
+                        "Company paid holidays, sick pay, floating holiday, and vacation for full-time employees",
+                        "Core hours from 9 am - 3 pm, plus non-core hour flexibility",
+                        "Employee Assistance Program & Employee Discount Program",
+                        "Referral bonus program for new work that you refer",
+                        "Dependent care FSA to help you save money on care for your children or other dependents",
+                        "401k with up to 3.5% company match"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This hybrid position requires onsite work three days a week and offers relocation assistance for candidates outside the Dallas-Fort Worth area",
+                        "The role involves designing, developing, and maintaining iOS applications while leading a team and ensuring code quality and standards",
+                        "Designs, analyzes, writes, tests and documents code for new or existing software applications",
+                        "Creates application specifications, diagrams, flow charts and other documentation to support the design and development if needed",
+                        "Develops innovative technical designs and collaborates with team members to develop and maintain code quality and standards",
+                        "Facilitates meetings and effectively communicates between different levels of the organization",
+                        "Leads a team while also contributing to the codebase"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/sr-i-os-developer-dallas-tx-hybrid_d8323eb2-523e-4c67-a894-2f91ea3cc467?included_keywords=apple+xcode&page=26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-sr-ios-developer-dallas-tx-hybrid-ziprecruiter-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gaU9TIERldmVsb3Blci0gRGFsbGFzLCBUWCBIeWJyaWQiLCJjb21wYW55X25hbWUiOiJGaXZlIFBhY2sgQ3JlYXRpdmUiLCJhZGRyZXNzX2NpdHkiOiJEYWxsYXMsIFRYIiwiaHRpZG9jaWQiOiIxYVJ2SUs3QWVhdXZxQ2JtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "Middle iOS Developer",
+            "company_name": "TechCells",
+            "location": "Chicago, IL",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=3gXHjs5PN0_TnT0kAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7BOJ0sz-JCC52bEEUxUH3kqRHErnmQi5IH8AHF7_ha76LZnOP40gI8fGEHj9InLHADq5sQdAUF4ATnJk94aoNtWY5aS1Cyks1NTrleNKc0PKs32zl3yDBFMxkKg6H435WOfn18oUudEgkEBN0ITrjeQuX2w-ApelyhwAAAA&shmds=v1_AUFQtOOnGckGjd6quBpFAYQugSipRL8rgp-wI1MeZSgFBMMQcw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=3gXHjs5PN0_TnT0kAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9b0dc467e96290a4a01a37fa72919d9b7a795a4fdd400124a9.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile phones and tablet computers. Your primary focus will be development of iOS applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure.\n\nYou’ll Be Responsible For\n• Design, build and maintain the next generation of IOS Applications;\n• Collaborate with the design team for new application features, identifying and fixing application bottlenecks, maintaining the core code, and updating applications published on the App Store;\n• Create functional, attractive applications that perfectly meet the needs of the user;\n• Ensuring quality and performance of the application to specifications;\n• Participation in the planning and organization of the development process\n• Support and mentor junior developers;\n\nMust Have\n• 1-2 years experience of iOS Development;\n• Experience working with SwiftUI, Objective-C, Xcode;\n• Experience with iOS frameworks such as Core Data, Core Animation, etc;\n• Proficient at utilizing iOS databases;\n• Understanding of Apple’s design principles and interface guidelines;\n• Understanding of OOP, SOLID principles and architectural patterns;\n• Understanding of code versioning tools, such as Git, Mercurial or SVN;\n• Communication, mentoring, creative thinking and problem-solving skills;\n• Knowledge of English at Upper-Intermediate level;\n• Willingness to work on-site at normal work hours.\n\nNice To Have\n• Experience with HTML5 & CSS, MySQL, and JavaScript;\n• Familiarity with iOS back-end services and Apple’s design principles;\n• Experience with Git, Mercurial or SVN;\n• Knowledge of other web technologies and UI/UX standards;\n\nWhat We Offer\n• Long-term job in a cozy office in the company of many skilled associates\n• Competitive salary and benefits\n• Interesting international projects\n• Opportunities for professional and career growth\n• Opportunities to develop and learn advanced technologies\n• Regular training and development opportunities\n• Use of high-valued tools and applications\n\nApply now",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "1-2 years experience of iOS Development;",
+                        "Experience working with SwiftUI, Objective-C, Xcode;",
+                        "Experience with iOS frameworks such as Core Data, Core Animation, etc;",
+                        "Proficient at utilizing iOS databases;",
+                        "Understanding of Apple’s design principles and interface guidelines;",
+                        "Understanding of OOP, SOLID principles and architectural patterns;",
+                        "Understanding of code versioning tools, such as Git, Mercurial or SVN;",
+                        "Communication, mentoring, creative thinking and problem-solving skills;",
+                        "Knowledge of English at Upper-Intermediate level;",
+                        "Willingness to work on-site at normal work hours",
+                        "Nice To Have",
+                        "Experience with HTML5 & CSS, MySQL, and JavaScript;",
+                        "Familiarity with iOS back-end services and Apple’s design principles;",
+                        "Experience with Git, Mercurial or SVN;",
+                        "Knowledge of other web technologies and UI/UX standards;"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Long-term job in a cozy office in the company of many skilled associates",
+                        "Competitive salary and benefits",
+                        "Interesting international projects",
+                        "Opportunities for professional and career growth",
+                        "Opportunities to develop and learn advanced technologies",
+                        "Regular training and development opportunities",
+                        "Use of high-valued tools and applications"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are looking for an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile phones and tablet computers",
+                        "Your primary focus will be development of iOS applications and their integration with back-end services",
+                        "You will be working alongside other engineers and developers working on different layers of the infrastructure",
+                        "You’ll Be Responsible For",
+                        "Design, build and maintain the next generation of IOS Applications;",
+                        "Collaborate with the design team for new application features, identifying and fixing application bottlenecks, maintaining the core code, and updating applications published on the App Store;",
+                        "Create functional, attractive applications that perfectly meet the needs of the user;",
+                        "Ensuring quality and performance of the application to specifications;",
+                        "Participation in the planning and organization of the development process",
+                        "Support and mentor junior developers;"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/middle-ios-developer-at-techcells-4089485775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWRkbGUgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlRlY2hDZWxscyIsImFkZHJlc3NfY2l0eSI6IkNoaWNhZ28sIElMIiwiaHRpZG9jaWQiOiIzZ1hIanM1UE4wX1RuVDBrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        },
+        {
+            "title": "iOS developer",
+            "company_name": "Chuwa America",
+            "location": "San Jose, CA",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=ZWXKvZi95MSZspTtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CULhBiexiQguOpUOgotDP6Bc4pFE0lzIRe3sl6vLW1_zWTWbcBvhTi-KnKlAB1c2IITFeuAEF2YXaX32tWY5aS0SlZOKNVhledacyPCiH2zkzyQeC-WIlabDcb-onNy2HfzzjdDPVIJFCAlGTL9HaAdD_wV5O78vhQAAAA&shmds=v1_AUFQtOMvvQE0JNYscdeWYmbltsIcwkxn6dPnTXNRNqHTiktg9w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=ZWXKvZi95MSZspTtAAAAAA%3D%3D",
+            "extensions": [
+                "50–55 an hour",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "50–55 an hour",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS developers\n\nSan Jose based (Hybrid- 3 days/week)\n\nDuration: 9 months\n\n8+ years of experience in iOS app development, with a strong portfolio of released applications on the App Store.\n\nProficient in Swift and Objective-C, with a deep understanding of the iOS SDK and Apple's development tools.\n\nExperience with iOS frameworks such as Core Data, Core Animation, UIKit, and SwiftUI.\n\nFamiliarity with RESTful APIs to connect iOS applications to backend services.\n\nKnowledge of UI/UX principles, with a keen eye for detail and the ability to implement pixel-perfect designs.\n\nJob Type: Contract\n\nPay: $50.00 - $55.00 per hour\n\nExpected hours: 40 per week\n\nSchedule:\n• 8 hour shift\n\nExperience:\n• Application development: 5 years (Required)\n• iOS development: 8 years (Required)\n• Objective-C: 5 years (Required)\n\nAbility to Commute:\n• San Jose, CA 95110 (Preferred)\n\nWork Location: In person",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "8+ years of experience in iOS app development, with a strong portfolio of released applications on the App Store",
+                        "Proficient in Swift and Objective-C, with a deep understanding of the iOS SDK and Apple's development tools",
+                        "Experience with iOS frameworks such as Core Data, Core Animation, UIKit, and SwiftUI",
+                        "Familiarity with RESTful APIs to connect iOS applications to backend services",
+                        "Knowledge of UI/UX principles, with a keen eye for detail and the ability to implement pixel-perfect designs",
+                        "Application development: 5 years (Required)",
+                        "iOS development: 8 years (Required)",
+                        "Objective-C: 5 years (Required)",
+                        "Ability to Commute:"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay: $50.00 - $55.00 per hour",
+                        "Expected hours: 40 per week",
+                        "8 hour shift"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e810667ce24b7bde&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Insight Global",
+                    "link": "https://jobs.insightglobal.com/jobs/find_a_job/california/san-jose/ios-developer/job-366726/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/32f26c88-7f70-49c3-ba53-d64a93ca4dc2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Jobsbridge/Job/IOS-Developer/-in-San-Jose,CA?jid=dec94c00a2ccfef8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/75535663--ios-developer-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/ios-developer-teksystems-JV_IC1147436_KO0,13_KE14,24.htm?jl=1009514439378&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-insight-global-4106244266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/i-os-developer_43ddb50d-bc0b-4fc2-be29-962a2cbd3d5a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgZGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ2h1d2EgQW1lcmljYSIsImFkZHJlc3NfY2l0eSI6IlNhbiBKb3NlLCBDQSIsImh0aWRvY2lkIjoiWldYS3ZaaTk1TVNac3BUdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Accord Technologies Inc",
+            "location": "Albany, NY",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=bE2RCnrkf4V3cohlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU436CLaiOBip4IgOuigi1NJziOJxLuQC1J_wa8W3_Ca76SZxcsV9vSmJJkKrOAkDpRswQDCcBDxiaZdqDXrzhjV1HqttkZsUV5GmJyM5ilO_w0abKGcbKVhs12PbWa_mPeIUh5wIwwsSXwkhSMjRIY-OcufJZzvP-Mw9jiNAAAA&shmds=v1_AUFQtOMU1Px8EhhltJ-WItL24MM0oS97kKHGu8wjHCfGffM0pg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=bE2RCnrkf4V3cohlAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850615d37223dfae31affa/images/59bb90ad8d508c9ba9d1f7849618026aab5affdee40d705bc205d44ff635c3b0.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Position: 10\n\nTitle: iOS Developer\n\nLocation: Albany, NY\n\nNo of Position: 2\n\nNote: In-Person Interview\n\nDescription\n\n48 Months of experience with Apple SwiftUI framework.\n\n60 Months of experience with Native iOS development.\n\n60 Months of experience developing with the Apple Swift programming language.\n\n60 months experience assisting in translation of business requirements into design specifications, mockups, and user-friendly (-driven) new mobile apps\n\n36 Months of experience assisting testing teams in the user acceptance testing of the system, including helping to define function scripts, business use cases etc. to test system capabilities.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "48 Months of experience with Apple SwiftUI framework",
+                        "60 Months of experience with Native iOS development",
+                        "60 Months of experience developing with the Apple Swift programming language",
+                        "60 months experience assisting in translation of business requirements into design specifications, mockups, and user-friendly (-driven) new mobile apps",
+                        "36 Months of experience assisting testing teams in the user acceptance testing of the system, including helping to define function scripts, business use cases etc",
+                        "to test system capabilities"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ios-developer-at-accord-technologies-inc-3996502872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQWNjb3JkIFRlY2hub2xvZ2llcyBJbmMiLCJhZGRyZXNzX2NpdHkiOiJBbGJhbnksIE5ZIiwiaHRpZG9jaWQiOiJiRTJSQ25ya2Y0VjNjb2hsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJUMU5JUWpCemREbHRRMXBWYVZCVE9WRlRWR1ZLY1RoaVh6RjZSbWhpUzBNdGRVSjZaazlIWjJaUWN6ZFlSakI1ZEdWcE1YSXRTRWRQUkZNd2VqVktjSGsxY0doT09YUk5Va3c1U25wSWQyTXRZMUJSVVdOVVluQm5jRVpJTFhoT1JuWlRabFpzZDJneU0yZE1kMkV0WjBSS2VEVnFTVGM1UjBOdGVUSmphemxpYjNGWU9FbHlSMWRLZFhFMFozVXhlVGRaZVZGSVEweGljRjh5Y2pCQ1ZXUkNaREpXWWsxUVltUXlTV3Q0Tld0ZlJYaDBRVGt5WTFoQ2RtOUpWRkJhTkRReFNEbGxNRTkzTm5WMk4yaFFNa2xoU2tJMVJFZDZZV3N4V0hWUFEyMXVRekJmVFc0NGNYUmtOM0V5V21OT0xWSnBSMlZEWkRKMVFtUkxTV1I1TldScFNIbElYMGRmVVRFMU5GSnROVU5QU0daUllXcENZVlJ4Um0xclIyWnpSalpLZFZaUmEwRTBOSEl5WlhSbk1tUk5VVGhpTm5oNGJuTmFVbWswYUhaaGJXNTZaSGxvVG10T2JXNHdjVGRpTkVaSVgxTnVkM0kzYjFoM0VoZEdVV0ZHV2paTVlreHphbVZ3T0RSUWJEbEVRakJSVFJvaVFVWllja1ZqYnpsWVdGOVFWekJhV1haSlVIVXdOVmxLWjA5TVVuWlVXbFZhVVEiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+States&next_page_token=eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJUMU5JUWpCemREbHRRMXBWYVZCVE9WRlRWR1ZLY1RoaVh6RjZSbWhpUzBNdGRVSjZaazlIWjJaUWN6ZFlSakI1ZEdWcE1YSXRTRWRQUkZNd2VqVktjSGsxY0doT09YUk5Va3c1U25wSWQyTXRZMUJSVVdOVVluQm5jRVpJTFhoT1JuWlRabFpzZDJneU0yZE1kMkV0WjBSS2VEVnFTVGM1UjBOdGVUSmphemxpYjNGWU9FbHlSMWRLZFhFMFozVXhlVGRaZVZGSVEweGljRjh5Y2pCQ1ZXUkNaREpXWWsxUVltUXlTV3Q0Tld0ZlJYaDBRVGt5WTFoQ2RtOUpWRkJhTkRReFNEbGxNRTkzTm5WMk4yaFFNa2xoU2tJMVJFZDZZV3N4V0hWUFEyMXVRekJmVFc0NGNYUmtOM0V5V21OT0xWSnBSMlZEWkRKMVFtUkxTV1I1TldScFNIbElYMGRmVVRFMU5GSnROVU5QU0daUllXcENZVlJ4Um0xclIyWnpSalpLZFZaUmEwRTBOSEl5WlhSbk1tUk5VVGhpTm5oNGJuTmFVbWswYUhaaGJXNTZaSGxvVG10T2JXNHdjVGRpTkVaSVgxTnVkM0kzYjFoM0VoZEdVV0ZHV2paTVlreHphbVZ3T0RSUWJEbEVRakJSVFJvaVFVWllja1ZqYnpsWVdGOVFWekJhV1haSlVIVXdOVmxLWjA5TVVuWlVXbFZhVVEiLCJmY3YiOiIzIn0%3D&q=iOS+developer"
+    }
+}

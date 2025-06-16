@@ -1,0 +1,336 @@
+{
+    "search_metadata": {
+        "id": "67850a56b9e759c727e28b1c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/42e344ae751c305a/67850a56b9e759c727e28b1c.json",
+        "created_at": "2025-01-13 12:43:02 UTC",
+        "processed_at": "2025-01-13 12:43:02 UTC",
+        "google_jobs_url": "https://www.google.ie/async/callback:550?q=Android+developer&uule=w+CAIQICIHSXJlbGFuZA&udm=8&fc=EuICCqICQUpHOUprUE9HSkZJTHhvd2hVeE1WajFzdi13aUVobnIteDYtNHQ1OXRNcndmbElvdFpWNnBiRGJ3YTg2ZnlHNEFsUFM3eGRCWDNRbUFBSWFXaVdjWl82X1o1U29Jc1l1cm9kY0dZN3ZadXlqSERyNHZRMFVjV09MNmxQbUZvcGZ2a1JPWTZiYTV4Wk83b0RuV2MxSThSeDQ3S05rdlR5UEdMQjlOalRiMlVwTlZibFFWWGhFd3NtY25RYkx2SXNTUWkyeU9EcFhpQzBpOW9WaERvVEZYblhCbDR4QXpkWWlib3AyXzRiT0Q5TDM3dDNERVFRTWNfcU10dklyR1djVWxFMC1vQWFNV3RsWHV0Uk1FYlQ1WEw2aGhGU3FDRUZlU0ESF1ZRcUZaNXlOTHNyOXB0UVBqZTIxc1FvGiJBRlhyRWNwS2lodnJicDRGQU9KaXREYllMUE96cU5iS3Bn&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/42e344ae751c305a/67850a56b9e759c727e28b1c.html",
+        "prettify_html_file": "https://serpapi.com/searches/42e344ae751c305a/67850a56b9e759c727e28b1c.prettify",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Ireland",
+        "location_used": "Ireland",
+        "google_domain": "google.ie",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRTlIU2taSlRIaHZkMmhWZUUxV2FqRnpkaTEzYVVWb2JuSXRlRFl0TkhRMU9YUk5jbmRtYkVsdmRGcFdObkJpUkdKM1lUZzJabmxITkVGc1VGTTNlR1JDV0ROUmJVRkJTV0ZYYVZkaldsODJYMW8xVTI5SmMxbDFjbTlrWTBkWk4zWmFkWGxxU0VSeU5IWlJNRlZqVjA5TU5teFFiVVp2Y0daMmExSlBXVFppWVRWNFdrODNiMFJ1VjJNeFNUaFNlRFEzUzA1cmRsUjVVRWRNUWpsT2FsUmlNbFZ3VGxaaWJGRldXR2hGZDNOdFkyNVJZa3gyU1hOVFVXa3llVTlFY0ZocFF6QnBPVzlXYUVSdlZFWllibGhDYkRSNFFYcGtXV2xpYjNBeVh6UmlUMFE1VERNM2RETkVSVkZSVFdOZmNVMTBka2x5UjFkalZXeEZNQzF2UVdGTlYzUnNXSFYwVWsxRllsUTFXRXcyYUdoR1UzRkRSVVpsVTBFU0YxWlJjVVphTlhsT1RITnlPWEIwVVZCcVpUSXhjMUZ2R2lKQlJsaHlSV053UzJsb2RuSmljRFJHUVU5S2FYUkVZbGxNVUU5NmNVNWlTM0JuIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Morgan McKinley | Android Application Developer",
+            "company_name": "Morgan McKinley",
+            "location": "Ireland",
+            "via": "Laimoon",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=IOyVrFWyaDX10ILYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_12OQQrCMBAA8don9LRnwUYEL3oqiKLSN5Q0WdLIdjdkg1TwM_7UevUyl2Fgqs-qOneSg2Xo3D0y4Qve0LLPEj20KVF0tkRhOOETSRJm2MBNBlC02Y2wmItIIKyPYylJD8aoUhO0LJlrnExGGAeZzUMG_aHX0WZMZAv2u_12bhKHdf0_ERmuGcmy_wJgfQejpAAAAA&shmds=v1_AUFQtOPsU10Ta8SChH_Q365hQBkmj3epqj3w7gHF4w_q4w2D5g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=IOyVrFWyaDX10ILYAAAAAA%3D%3D",
+            "extensions": [
+                "26 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Our client is looking for an Android Application Developer to join their new Research & Development Centre in Cork, Ireland. Here's a summary of what you can expect: Company Overview Our client focuses on safety and security through advanced technologies such as mission-critical communications devices, AI-powered video security, and integrated command center views. Their goal is to ensure people can perform their best by providing safe and secure communication systems. Department Overview Innovation is at the heart of our client's operations, with significant investment in R&D. The new R&D Centre in Cork will work on the company's land mobile radio (LMR) portfolio, with future expansion into other technologies. Known for deploying highly secure LMR networks globally, our client aims to enhance its services with modern features and capabilities. Develop and Maintain: Work on Android applications for mission-critical ASTRO devices. Collaborate: Work closely with product owners, technical leads, architects, and project teams. Responsibilities: Include software design, development, maintenance, and staying up-to-date with the latest Android technologies and trends. Best Practices: Engage in code reviews, testing, automation, and continuous integration. Basic Requirements Education: Degree in Computer Engineering, Computer Science, or a related field. Experience: Developing native apps (iOS and/or Android) and web applications. Skills: Proficiency in Java or Kotlin, Android SDK, Android Studio, Jetpack Compose, and Android Framework components. Knowledge: Familiarity with RESTful APIs, mobile build pipelines, Android security features, and modern software engineering principles. Attributes: Strong problem-solving skills, attention to detail, and a team-oriented mindset. Benefits Competitive salary and bonus scheme 24 days holiday + bank holidays Pension scheme Flexible working options Private medical care Life assurance Career development support and learning opportunities Employee health and wellbeing programs Corporate social responsibility initiatives This role offers the opportunity to work on impactful projects in a supportive and innovative environment. Morgan McKinley is acting as an Employment Agency and references to pay rates are indicative. BY APPLYING FOR THIS ROLE YOU ARE AGREEING TO OUR TERMS OF SERVICE WHICH TOGETHER WITH OUR PRIVACY STATEMENT GOVERN YOUR USE OF MORGAN MCKINLEY SERVICES. Skills: Java Kotlin Android SDK Android Studio Jetpack Compose Android Framework component",
+            "apply_options": [
+                {
+                    "title": "Laimoon",
+                    "link": "https://jobs.laimoon.com/jobs/externalview/45040916?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb3JnYW4gTWNLaW5sZXkgfCBBbmRyb2lkIEFwcGxpY2F0aW9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1vcmdhbiBNY0tpbmxleSIsImFkZHJlc3NfY2l0eSI6IklyZWxhbmQiLCJodGlkb2NpZCI6IklPeVZyRld5YURYMTBJTFlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIU1hKbGJHRnVaQSJ9"
+        },
+        {
+            "title": "Staff Mobile Engineer (Android)",
+            "company_name": "CVS Health, Ireland",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=HNAYQ0pnQgL8TIxkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3MvwrCMBCAcVz7CE43iYo2Iuigk4j4B5wKruXSXpNIvAtJwPowvqu6uHzDb_iK96BYVxm7Dq6inSc4sHFMFGG84zaKaycwh4toSISxsSAMRxHjabi1OYe0USolX5qUMbumbOShhElLr-6i0y91shgpeMxUL1eLvgxspqP9rYIToc92BudIHrkF932jf-LrTx8FRli2oAAAAA&shmds=v1_AUFQtON6is4K2ZzwsXEwAjcSq2CNyaAadpTp5stOGmgGvWhjsw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HNAYQ0pnQgL8TIxkAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b32898d5176af0ac936f664e6627a57ec3a3d13b7ad0fcf2a5a1.gif",
+            "extensions": [
+                "26 days ago",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "CVS Health, the parent company of Signify Health, is increasing investments in digital, data, analytics and technology and Signify Health is excited to be involved!\n\nWe are hiring for a dynamic new initiative for CVS Health that will run out of our state-of-the-art offices at Bonham Quay. This is your opportunity to be involved with a pioneering business that is transforming health care in the United States by making customer experiences more seamless, convenient and personalised.\n\nCVS Health is focused on driving business agility and growth through technology, data, digital and experiential innovations. ‘Digital First, Technology Forward and Data Driven’ is not simply an aspirational goal for the company, but a prerequisite to accelerated growth.\n\nBring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.\n\nOur Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.\n\nAs we reflect on our learnings and successes from remote work, we aim to provide a new state of the art flexible work environment in our Galway facility at Bonham Quay to support those objectives. Careers with offer flexible work arrangements and individuals who live and work in the Republic of Ireland will have the opportunity to divide their time between our Galway office and their home office.\n\nThe Staff Engineer - Mobile Apps, will work on the team that brings CVS customers their “Shopping & Health Super-power” – the customer-facing Flagship CVS Shopping and Health apps. As a Staff Engineer, you will be helping advance our architecture and Mobile Product, working with cross-functional teams such as design, product, analysts to deliver great user experiences. You will partner with Apps Platform Engineers, Product Managers, Engineering Managers and fellow Feature Team engineers to build products used make our powerful omni channel shopping an easy and seamless experience. You will participate in software engineering best practices for the full software development life cycle as well as in our Health and e-Commerce domain.\n\nAbout this business unit: CVS Mobile Apps (aka Retail Apps) is the fastest growing business unit in the organization – more than million daily average users. Apart from engineering, the team consist of talented Product Owners and UX designers.\n\nWork breakdown structure for this role:\nIn this role, you will be focusing on improving developer experience, updating especially complex foundational use-cases and creating integration ready core features for all mobile flagship teams. In addition, you will be partnering with Product, UX and Engineers to iterate on features and improve our Product. For this role, the scope of development is focused on foundational architecture and code structure improvements with some feature development mixed in.\nOther responsibilities may include (but not limited to):\n• Improve and maintain our mobile apps CI and CD infrastructure and pipelines. Provide high level tooling support to team engineers\n• Collaborate to drive solutions that would reduce cost and time to market\n• Be responsible for end-to-end application delivery including coordination with required teams for production deployment\n• Continuously monitoring application health and KPIs, support triage of any production issues as and when needed\n• Collaborate in troubleshooting complex data, features, service, platform issues and perform root cause analysis to proactively resolve product and operational issues\n• Be an advocate of security best practices, champion and support the importance of security within engineering\n\nRequired Qualifications\n• 7+ years in designing/developing Android mobile applications\n• 5+ years of experience with modern Android development frameworks such as Jetpack compose and Kotlin\n• 5+ years of experience working with cross-functional teams such as design, product, data teams to deliver great user experiences\n• 5+ years of experience in influencing large organizations on best practices in mobile Android development\n• 5+ years of accessibility experience\n\nPreferred Qualifications\n• Experience working with cross-functional teams such as design, product, data teams to deliver great user experiences\n• Experience in influencing large organizations on best practices in Mobile Android development\n• Accessibility experience. Telemetry & observability experience beyond Firebase\n• Strong desire to build in test from the start with TDD development experience. Continuous delivery in mobile, code review, static analysis, continuous integration, automation and functional testing (using Espresso)\n• Experience designing retail or ecommerce applications\n• Experience with authenticated session using OAuth and authenticated tokens\n• Significant contributions of released Customer facing applications on the Play store\n\nEducation\nBachelor’s degree or, equivalent experience",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://ie.indeed.com/viewjob?jk=3a89eeecd79fe8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBNb2JpbGUgRW5naW5lZXIgKEFuZHJvaWQpIiwiY29tcGFueV9uYW1lIjoiQ1ZTIEhlYWx0aCwgSXJlbGFuZCIsImFkZHJlc3NfY2l0eSI6IkdhbHdheSwgSXJlbGFuZCIsImh0aWRvY2lkIjoiSE5BWVEwcG5RZ0w4VEl4a0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Senior Mobile Developer",
+            "company_name": "CVS Health Ireland",
+            "location": "Galway, Ireland",
+            "via": "IrishJobs.ie",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=8y60EORL35ErQipNAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXMPQoCMRBAYWz3CFbT2IgmIthoqeAPWC3YLpM4bCJjJmSCrvfwwGph84qveM171JiWUpQCZ3GRCXb0IJZMBeZwEgdKWHwASbAX6ZnGm1Br1rW1qmx6rVijN17uVhI5GexNnP7SacBCmbFSt1wtBpNTP51sLy0cCLkGOBZiTFeI3zXyE1-zP30AI99PlZcAAAA&shmds=v1_AUFQtONYnCX9J5BmDvEYxF6uYGjzz-fFiJs-bnsmmWDNmoR6lw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8y60EORL35ErQipNAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b3282f795fdbde4adb8a5418a779b799c1fe286f1af2ec5e466e.gif",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "CVS Health, the parent company of Signify Health, is increasing investments in digital, data, analytics and technology and Signify Health is excited to be involved!\n\nWe are hiring for a dynamic new initiative for CVS Health that will run out of our state-of-the-art offices at Bonham Quay. This is your opportunity to be involved with a pioneering business that is transforming health care in the United States by making customer experiences more seamless, convenient and personalised.\n\nCVS Health is focused on driving business agility and growth through technology, data, digital and experiential innovations. 'Digital First, Technology Forward and Data Driven' is not simply an aspirational goal for the company, but a prerequisite to accelerated growth.\n\nBring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand - with heart at its center - our purpose sends a personal message that how we deliver our services is just as important as what we deliver.\n\nOur Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.\n\nAs we reflect on our learnings and successes from remote work, we aim to provide a new state of the art flexible work environment in our Galway facility at Bonham Quay to support those objectives. Careers with offer flexible work arrangements and individuals who live and work in the Republic of Ireland will have the opportunity to divide their time between our Galway office and their home office.\n\nJob Description:\n\nLooking to hire an experienced engineer to join the Retail Store team at CVS where you will help develop, support, and maintain applications that directly impact store employees or customers. The ideal fit is somebody who is comfortable jumping between few applications and is more than capable writing high quality code with automated test coverage.\n\nPrimarily needs to lead the project under the guidance of engineering manager.\n\nEssentials:\n• Strong understanding of Dart Programming\n• Experience with creating Flutter Application for both iOS and Android\n• Stays up to date on the latest trends / Google recommendations\n• Strong Debugging skills\n• Has worked with various architecture patterns including Bloc, provider etc.\n• Has experience using frameworks like Riverpod, Hooks, Reactive Forms, Build Runner.\n• Has knowledge on writing platform channels\n• Knowledge of SQL and No SQL databases in Flutter\n• Strong Knowledge of either Angular in previous assignments.\n\nNice to Have:\n• Knowledge of React is a plus.\n• Cross Platform framework experience with Xamarin, Ionic, or React Native\n• Good sense of UI / UX\n• Familiar with Linux environments / docker\n\nTo be considered for this role you will be redirected to and must complete the application process on our careers page. To start the process, click the Apply button below to Login/Register.",
+            "apply_options": [
+                {
+                    "title": "IrishJobs.ie",
+                    "link": "https://www.irishjobs.ie/job/senior-mobile-developer/cvs-health-ireland-job104080489?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ie.linkedin.com/jobs/view/senior-mobile-developer-at-signify-health-ireland-4112657395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee Ireland Meet Opportunities",
+                    "link": "https://ie.bebee.com/job/f05af0366de52096ef7815c6a59d46e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ie.jooble.org/jdp/898943493157281687?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://ie.trabajo.org/job-2078-7db54184d9bde433ea44d3a09f587417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ie.jobrapido.com/jobpreview/5341153769470033920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://ie.talent.com/view?id=bee83103f329&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/ie-galway-senior-mobile-developer-cvs-health-ireland-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNWUyBIZWFsdGggSXJlbGFuZCIsImFkZHJlc3NfY2l0eSI6IkdhbHdheSwgSXJlbGFuZCIsImh0aWRvY2lkIjoiOHk2MEVPUkwzNUVyUWlwTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Computer Scientist (m/f/d) as App Developer for iOS / Android",
+            "company_name": "RIWA GmbH",
+            "location": "Ireland",
+            "via": "Jooble",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=wrdZg4mqJXfbOIO2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKvQrCMBAAYFw7OzndqIKNCC46FYVaF8EKjpKfaxtJciEXpa_kW6rLN33FZ1LcDuTjK2OCVlsM2XKGuRedMAuQDFWMcMQ3Ooq_0lECe2lBQBVMImtgBWdSwCiTHoAC1ES9w9l-yDnyTghmV_acZba61OQFBVQ0iicp_vPgQSaMTmZ8bLbrsYyhX06vzb2C2qsT2ABNQieD-QLtclb3rAAAAA&shmds=v1_AUFQtOPR0tFNTDnMHy_O5WaNXfk--ZgaRFHk5pRAFVa0AhVYTQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=wrdZg4mqJXfbOIO2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b328c02dfd7ed3529fbb3ab5e72c0a25898ac6db463af68f58c5.gif",
+            "extensions": [
+                "9 days ago",
+                "€41,666–€78,000 a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "salary": "€41,666–€78,000 a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Computer Scientist (m/f/d) as App Developer for iOS / Android\nRIWA - All geoinformation becomes a digital experience\n\nRIWA GmbH is a leading company in the field of geoinformation and municipal specialist processes with over 25 years of experience and market leader in Bavaria. Our team develops innovative solutions for the digital transformation of cities and municipalities, in particular through geographic information systems (GIS). We also create digital twins of municipalities for construction planning, energy management and sustainable urban development. We offer customized solutions and attach great importance to close cooperation.\n\nBecome part of our team in one of our branches in Augsburg, Memmingen or Kempten im AllgÃ¤u. After training, you can also work from home.\nThese are your tasks\n• Further development of our native RIWA GIS Android app\n• Implementation of our previous apps for Apple iOS with Kotlin & Compose Multiplatform\n• Quality assurance through code reviews, unit tests and automated test procedures\n• Technical conceptualization of functional requirements from product management\n• Advising product management on development issues\nYou know your way around this\n• Completed studies in computer science or equivalent training\n• Sound knowledge in the development of Android apps (Kotlin, Java, Android SDK). Basic knowledge of iOS development advantageous (Swift)\n• Ideally experience with Jetpack Compose, Kotlin Multiplatform and Compose Multiplatform\n• Expertise with automated tests, CI/CD processes and agile software development\n• Knowledge of designing appealing user interfaces is a plus\n• Independent working style, ability to work in a team and a high level of self-motivation\nWhat we offer you\n• A great team - #GernePerDu - and a varied job in the office and home office\n• Attractive salary, 13 monthly salaries, capital-forming benefits and a performance bonus\n• Family-friendly working time models with flexible working hours (flexitime)\n• Corporate benefits such as a job bike, drinks flat rate or employee discounts with over 1,500 providers\n• Intensive training in the field of activity and regular further training\n• An exciting environment with varied tasks\n• A secure, modern workplace close to the city center with future prospects\nHave we piqued your interest?\n\nPlease send us your complete application documents directly online via our applicant management system, stating your salary expectations and the earliest possible starting date.\nRIWA GmbH\n\nAn der NeumÃ¼hle 5, 87700 Memmingen\nEveryone is welcome at RIWA. Diversity and equal opportunities are an integral part of our company. We see the uniqueness of each individual, and therefore the diversity of our teams, as the driving force behind our daily work and innovations. - We look forward to meeting you.\n\n+\n\nOnline application",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://ie.jooble.org/jdp/8420957027291992318?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/ireland/job/full-time/others/computer-scientist-mfd-as-app-developer-for-ios-android-1736422220569623?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBTY2llbnRpc3QgKG0vZi9kKSBhcyBBcHAgRGV2ZWxvcGVyIGZvciBpT1MgLyBBbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiUklXQSBHbWJIIiwiYWRkcmVzc19jaXR5IjoiSXJlbGFuZCIsImh0aWRvY2lkIjoid3JkWmc0bXFKWGZiT0lPMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Senior Developer for Mobile Payment Systems",
+            "company_name": "Westhouse Consulting GmbH",
+            "location": "Limerick, Ireland",
+            "via": "Jobg8",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=tR5MsqVxPYg8VKCdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CU43i6YiuOimQlUUhA6OJalnG03uSu6U9rP8Q3V58LLPKNuUSJ4T7PCNgTtMcP_tzM4HhIsdIpJCOYhiFJjBkR0I2lS3wAQFcxNwvG5VO1nluUgwjahVX5uaY86Ejvv8wU7-VNLahF2witViOe9NR83EXFG05ZcgbJnkFdRTA0V0e_AEJx8x-fo5hUPCYOn2BfXLyly0AAAA&shmds=v1_AUFQtOOt4WVI6dF7-7dJG7RWCjUhZROIMmaHhos7mgQZp02-ag&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=tR5MsqVxPYg8VKCdAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b328b89361d21a293cb057b50c23260b29556a152a32ae602f55.gif",
+            "extensions": [
+                "5 days ago",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Contractor"
+            },
+            "description": "Westhouse is one of the leading international recruitment agencies for the procurement of highly qualified experts in fields such as IT life cycle management, SAP, engineering, commerce and specialist consultancy.\n\nFor our client we are currently looking for a\n\nSenior Developer for mobile Payment Systems (m/f/d)\n\nGeneral information\nReference: 172122\nLocation: Limerick (4 Days/Week) and Remote\nStart: 01.01.2025 (ASAP)\nVolume: Full time (100%)\nDuration: 31.12.2025 + Option\nLanguages: English\n\nYour Skills\n- 6+ years' experience in designing and developing Android, web and services based applications.\n- Bachelor's degree in a relevant discipline such as computer science, business informatics or mathematics. Comparable education or professional experience also considered.\n- Strong skills and in-depth experience Java/Kotlin/Android\n- Previous experience in payments industry, specifically working with EMVco, NEXO or exposure to PCI/PTS standards.\n- Expertise in Android - understanding of the platform, experience with Android ROM is a plus.\n- Be up to date with the latest Android application development trends.\n- Experience with server technologies, REST web services, SOA, Familiarity with databases and schema design\n- Experienced in runtime, build and deployment technologies and state-of-the-art project tools: CI/CD, GIT, Maven, Eclipse, JIRA, Confluence.\n- UI development, optimal performance, adaptation to various screen sizes.\n- Familiar with 3rd party libraries for Android.\n- Nice to have RXJava, functional programming, MVP/MVC design patterns and React Native, JavaScript.\n- Nice to have experience with distributed computing.\n- High on social skills, team spirit and empathy.\n- Willingness to take ownership and ability to show strong personal commitment for the department and the team goals; must be comfortable with being considered a reliable and proactive influential team member who is not afraid to take on responsibility in the team.\n- Ability to communicate clearly to business analysts and stakeholders as well as technical-representatives.\n- Very strong and proven communication and coordination skills, open-minded and determined.\n- Very organized and highly competent in solving issues and finding solutions.\n- Responsible for planning, highlighting and implementing possible improvements for existing and new applications.\n- Can do, Will do attitude: You will be joining a founding team first and a large organisation second. This is exciting, you will wear many hats, some you will be familiar with and others will be an opportunity to develop.\n\nYour Tasks\n- Contribute significantly to implementing technical solutions within a collaborative, high trust, solutions delivery team which will contain other developers, architects, product owners and DevOps engineers.\n- Work within a defined agile delivery process to deliver high quality code for complex projects.\n- Design and implement Android applications and services that provide best in class payment flow experience for customers.\n- Support the architectural direction and solution specification for new applications and services.\n- Responsible for the execution of required, complex, development tasks, including: unit tests, debugging with state-of-the-art tools, programming languages and utilities.\n- Validation activities including, component tests, regression tests, system integration tests.\n- Troubleshoot issues that may span across wide range of device types.\n- Implementation, documentation and quality assurance of software/architectures and E2E- solutions.\n- Creation of monitoring and logging solutions to allow for state-of-the-art monitoring of our high performance, enterprise production environment.\n- Contribute to estimation efforts at a T-shirt sizing level using your expertise in the relevant areas.\n- Knowledge transfer, active support and educational development of internal and external team members.\n- Partner with developers, analysts, and tech leads across the enterprise, to identify business needs and appropriate technical solutions.\n\nInterested?\nWe look forward to receiving your application documents in electronic form.\n\nYour Contact:\nTobias Gollmann",
+            "apply_options": [
+                {
+                    "title": "Jobg8",
+                    "link": "https://jobs.jobg8.com/jobs/senior-developer-for-mobile-payment-systems-in-limerick-limerick-ireland/5673-287727450589?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2ZWxvcGVyIGZvciBNb2JpbGUgUGF5bWVudCBTeXN0ZW1zIiwiY29tcGFueV9uYW1lIjoiV2VzdGhvdXNlIENvbnN1bHRpbmcgR21iSCIsImFkZHJlc3NfY2l0eSI6IkxpbWVyaWNrLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJ0UjVNc3FWeFBZZzhWS0NkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        },
+        {
+            "title": "Senior / Lead Android Engineer - Remote Ireland",
+            "company_name": "Stack And Co Software Recruiters",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=TkU56qDPbfzXE_9IAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWOOw7CMBAFRZsjUG2NIEYgGqgQP4GoyAEi21kcg7Mb2RuRs3E6koLmFaOR5mXfSXYukDxHUHBHXcGeqsi-ghM5T4gRFvDAhgXhGjFoqgZwYwMJdbQ1MMGF2QWc7mqRNm2VSinkLokWb3PLjWJCw716sUnjlKnWEdugBcvVZtnnLbnZuhBt32McDgwFP-UzSEPZxs4LxgSe4NiZ4Gn-P_IDMmyKPb0AAAA&shmds=v1_AUFQtONz1_S4YNC7DYOndn86-IX0MHVWuMKdFveB6JWFfg8rEQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=TkU56qDPbfzXE_9IAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b32801c2878b60a24929114dbe2b8f943159a7b0eabd442f3126.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "This a Full Remote job, the offer is available from: Ireland\n\nSenior / Lead Android Mobile Engineer - Remote Ireland\n\nDoes creating, designing & building a new B2C digital platform catch your attention?\n\nA global company is establishing a new division to build a large digital platform and application to reshape automotive technology. This new group will give you the creativity, atmosphere & variety of a start-up company as it will be autonomous and independent.\n\nIf you're open to a new challenge, we need Senior to Lead Mobile Engineers, one Android and iOS for this new project.\n• You'll create the native Android/iOS application.\n• You'll architect the application.\n• You'll work closely with the UX and Product team.\n• As an early hire, you'll have serious career progression.\n• You'll work in a technical lead capacity.\n• Fully Remote from anywhere in Ireland.\n\nYour work will having an important impact globally as the platform aims to reduce global CO2 emissions, increase road safety, & give customers never seen before value.\n\nRequirements\n• You must have proven experience building major applications at Senior Engineer level.\n• You're strongly experienced with Android.\n• Javascript knowledge is good, & it's a bonus if you know React or React Native.\n• You must be a technical creator & ideas driven.\n• Living anywhere in Ireland - Remote Job in Ireland.\n\nYou'll have a fantastic opportunity to express yourself as an Android Mobile Engineer, in an exciting, creative & warm work environment.\n\nBenefits\nNeedless to say, there's an excellent salary on offer to you, with a generous, full bluechip benefits package with health insurance, dental insurance, pension, bonus, & perks.\n\nContct today to Gerry Nolan at Stack and Co.\n\nThis offer from \"Stack And Co Software Recruiters\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65dccb5616eb4874a2917765-senior-lead-android-engineer---remote-ireland?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgLyBMZWFkIEFuZHJvaWQgRW5naW5lZXIgLSBSZW1vdGUgSXJlbGFuZCIsImNvbXBhbnlfbmFtZSI6IlN0YWNrIEFuZCBDbyBTb2Z0d2FyZSBSZWNydWl0ZXJzIiwiYWRkcmVzc19jaXR5IjoiRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJUa1U1NnFEUGJmelhFXzlJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        },
+        {
+            "title": "Android Java Software Developer",
+            "company_name": "Metric TristarInc Ltd",
+            "location": "Cork, Ireland",
+            "via": "Careertex.com",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=JNttjUlovSnxL6ufAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE43OYg2IuigkyhIi066lzQ5m2jMhctR-zK-q3X5t-8vvpNie4iWyVuoda_hRg_5aEY4YY-BEjIsoaYWMmo2DijCmagLON07kZR3SuUcyi6LFm9KQ29FEVsa1JPa_E-T3fhLQQs2681qKFPs5rMrCnsDd_aj5CoauIgFH-FI_FpAxRh0tD8HP3xJoAAAAA&shmds=v1_AUFQtOPFIn-53Vlu80UnEAa0W3XFKmXip09OHbcPrAA__XIHZg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=JNttjUlovSnxL6ufAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b328ae8a6ed46d853b34371b5cb360e29956227030ec133aa644.gif",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description:\n\nGood understanding of business and commercial issues within a market driven organisation. Reporting To Senior Program Manager. Job Types: Full-time, Permanent.\n\nWe are looking for an entry-level employee, with no previous experience required. If you are interested in learning and developing, this position is ideal for you.\n• Requirements:\n• Good communication and interpersonal skills.\n• Organization and attention to detail.\n• Willingness to learn and grow.\n• Basic computer skills are desirable.\n• Responsibilities:\n• Assist with office administrative activities.\n• Answer and direct phone calls.\n• Organize and file documents.\n• Provide support on projects and general tasks.\n• Benefits:\n• Transportation allowance.\n• Meal allowance.\n• Assistance medical.\n• Training and development opportunities.",
+            "apply_options": [
+                {
+                    "title": "Careertex.com",
+                    "link": "https://www.careertex.com/ie/jobad/c477062acf53040e/3488492988/8478817986/android-java-software-developer.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.careerpat.com",
+                    "link": "https://www.careerpat.com/ie/jobad/c477062acf53040e/3488492988/8478817986/android-java-software-developer.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.biregra.com",
+                    "link": "https://www.biregra.com/ie/jobad/c477062acf53040e/9307679650/8282504725/android-java-software-developer?utm_campaign=biregra_cathojobs&utm_source=cathojobs&utm_medium=referal&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEphdmEgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTWV0cmljIFRyaXN0YXJJbmMgTHRkIiwiYWRkcmVzc19jaXR5IjoiQ29yaywgSXJlbGFuZCIsImh0aWRvY2lkIjoiSk50dGpVbG92U254TDZ1ZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhTWEpsYkdGdVpBIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "ElevenLabs",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=akauiw3jazfzgniqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwA0P12F6eMItiK4KKToIjiPxxpG9qTmJSmyE1-u7q88Q2fYXWS1HRKcKY3sVZqsIG7BjDCFguowFU1My2PpfdqB-_N2GXr2Kfoor68CgWd_VOD_RmtYKPK2Gnc7bezq5LXiwv_fnlgMJgEbo0YJX0B2Q74HoAAAAA&shmds=v1_AUFQtOP7T6q1cwT0XvFQOqikJRE9vcewdBTmWXqtweZR879nJA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=akauiw3jazfzgniqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b328cb131ce178b465024b6ec99693aefa643f2f15889aca3994.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Poland, Spain, United Kingdom, Germany, Ireland\n\nAbout ElevenLabs:\n\nWe are a growth-stage startup building the most advanced AI voice models and AI voice products (text to speech, audiobooks creation, dubbing, and the voice library).\n\nWe launched in January 2023 and have since reached over 1 million users and partnered with the world’s largest publishers (The New Yorker, The Washington Post, The Atlantic), media companies (Super Hi-Fi, D-ID, Futuri), and gaming studios (Paradox, Cloud Imperium Games, Don’t Nod). We are backed by the leading names in tech and AI (Nat Fridman, Daniel Gross, Andreessen Horowitz, Instagram co-founder Mike Krieger, Oculus VR co-founder Brendan Iribe, Deepmind & Inflection co-founder Mustafa Suleyman, and many others).\n\nJoin us in shaping the future of voice technology.\n\nAbout the Role:\n\nWe are looking for an experienced Android developer to join our growing mobile team to spearhead high-impact projects in the audio AI space. Your role will include the delivery of new features to our reader app, ensuring seamless integration with our AI-driven audio functionalities. As part of our dynamic team, you will have the opportunity to identify pivotal areas where strategic initiatives or incremental efforts can drive significant impact.\n\nWe value engineers who are impact-driven, autonomous, and adept at discerning crucial insights from experimental results.\n\nA strong background in native Android development with a proven track record is required.\n\nIn this role, you will:\n• Drive the development of innovative features in our reader app through a combination of data analysis, product ideation, and experimentation to optimize user experiences.\n• Plan and deploy mobile platform infrastructure necessary to build, test, and deploy these product experiences.\n• Collaborate closely with design, product, research, and data science teams to achieve product goals.\n• Contribute to the architecture and technical direction of the app.\n• Ensure the performance, quality, and responsiveness of the application.\n• Participate in code reviews and contribute to best practices and coding standards.\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nLooking ahead, you will also play a key role in creating a new, confidential project within the audio AI space, leveraging your expertise to shape its success.\n\nYou might thrive in this role if you:\n• Have shipped features on Android that optimize user experiences and drive engagement.\n• Are highly analytical and have experience designing and implementing A/B tests, with a scientific approach to data-based experiments.\n• Have a voracious and intrinsic desire to learn and fill in missing skills, and an equally strong talent for sharing that information clearly and concisely with others.\n• Are comfortable with ambiguity and rapidly changing conditions, viewing changes as an opportunity to add structure and order when necessary.\n• Are located between GMT+3 and GMT -7\n\nThis is an exciting opportunity to work on cutting-edge technologies and make a significant impact on the future of audio AI applications.\n\nWhat we offer:\n• Stock options; we want you to have ownership in the company and share the successes that lie ahead. That’s why we offer early employees stock options as part of their compensation package.\n• Remote-first; we look at who you are rather than where you live. That’s why we are growing across the globe and support your preferred location.\n• Huge impact; there’s no endless iteration on the same small detail. You’ll own huge chunks of our app, and ship features impacting millions of users.\n• Extraordinary team; we favor ambitious, smart people striving for outsized impact. You’ll work on the state of the art surrounded by people with extraordinary skills and positive attitudes.\n• We offer competitive compensation and are open to candidates from mid - to staff level. Given the broad range, we'll be happy to discuss specific salary details during our initial conversation.\n• Bi-annual company off-sites; the last two were in Portugal and Switzerland. Next stop: Croatia!\n\nThis offer from \"ElevenLabs\" has been enriched by Jobgether.com and got a 78% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/66d2250b7ec6ac6e03520901-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://ie.jooble.org/jdp/6049988521699795755?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/ie-dublin-region-software-developer-android-edjuster-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkVsZXZlbkxhYnMiLCJhZGRyZXNzX2NpdHkiOiJJcmVsYW5kIiwiaHRpZG9jaWQiOiJha2F1aXczamF6ZnpnbmlxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        },
+        {
+            "title": "iOS / Android Phonegap App Developer - 2m Contract",
+            "company_name": "Stack And Co Software Recruiters",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=V2w3U0Fol8FXHJsiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOQQrCMBBFcdsjuJq1aCMVN7oqFqRuFHuAkqRjG00zIZlqL-fdjJsPHx7__ey7yGpzbUBA6bpApoPbQA576aH0Hip8oyWPATZQjHAix0FqTu1CCiLKoAcgB2ei3uLyODD7eBAiRpv3kSUbnWsaRZpUNIsnqfiPNg4yoLeSsS322zn3rl_tGpb69f-RPNDQgz8JgjvqMBnGEME4qCZljVtDHdBK1_0AWcuvHMAAAAA&shmds=v1_AUFQtOMwZ5DvceOBGmsb3d77qt7cRAkCVeZdvUhZZzpew7whew&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=V2w3U0Fol8FXHJsiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b3283c083bb98dec8435a6a545d6b52a0bd3088536fd23de0624.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Ireland\n\nPROJECT OVERVIEWThe company is a security product manufacturer whose web developers are building a new website and app for users to purchase, configure, monitor and maintain from online dashboards. The underlying infrastructure is largely complete.\n\nYOUR ROLE\nWorking with the technology produced by the web development team, the project is to add functionality for the Client's customers to be able to execute their duties remotely via iOS and Android.\n\nYOUR EXPERIENCE\nWe are looking to talk to App developers with two levels of experience - firstly, somebody who has had 2-3 years experience cross-functional App development as an add-on in their career as a web developer, and secondly 6 years continual mobile app experience - hard core!\n\nNEXT STEP\nYour services are immediately required and therefore you must be immediately available - certainly by 21st September. You will be able to show me, Gerry, Android and iOS apps that you have developed along with the level of involvement you had. There could be scope to work from home, although initially the expectation should be to work onsite and you must be legally entitled to work onsite in Dublin.\n\nREACH ME\nSo if this brief sounds interesting, send me a note through the 'APPLY NOW' button, or call me on +353 (0)1 209 1919.\n\nI look forward to talking to you!\n\nThis offer from \"Stack And Co Software Recruiters\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/65dccb5716eb4874a29177c1-ios-android-phonegap-app-developer---2m-contract?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgLyBBbmRyb2lkIFBob25lZ2FwIEFwcCBEZXZlbG9wZXIgLSAybSBDb250cmFjdCIsImNvbXBhbnlfbmFtZSI6IlN0YWNrIEFuZCBDbyBTb2Z0d2FyZSBSZWNydWl0ZXJzIiwiYWRkcmVzc19jaXR5IjoiRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJWMnczVTBGb2w4RlhISnNpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        },
+        {
+            "title": "Kotlin Developer - Remote Work",
+            "company_name": "BairesDev",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.ie/search?ibp=htl;jobs&q=Android+developer&htidocid=qE3DKBsnY8dv0HtlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQoCMQyAYVxvdnLKLNiKcItuIoi6uTgebQ3taa4pTZB7Bp_auvzwT1_3XXT9jZXGDCf8IHHBChu448SK8OD6bndlD4KuhgSc4cwcCVeHpFpkb60ImSjqdAwm8GQ5o-fZvtjLP4MkV7GQUxx2_XY2Jcf18ujGitJIaPKlIrn8_AEu9WRljQAAAA&shmds=v1_AUFQtONzkUCMhABudjU58xc8XiqCzGjDdlqUqKHUwLToIJVXfA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=qE3DKBsnY8dv0HtlAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a56b9e759c727e28b1c/images/6c35a68294b6b3286e1ca4f561c2ae48e631e0ceb0889a985a8584e9a64cdeae.gif",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Ireland\n\nAt BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nKotlin Developer at BairesDev\n\nWe are looking for Kotlin developers to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about programming in this language, and oriented to provide the best experience to the end user.\n\nThis is an excellent opportunity for those professionals looking to develop in one of the fastest-growing companies in the industry!\n\nWhat You Will Do:\n\n- Contribute to the development of Android applications.\n\n- Analysis of requirements from internal and external customers.\n\n- Design and develop new products and software components.\n\n- Investigate and solve issues reported by internal and external customers.\n\n- Validate and execute unit and automated UI tests to identify application errors and ensure software meets functional specs.\n\n- Work closely with product design UX to develop a new client experience.\n\n- Develop and maintain high-quality code using industry best practices.\n\nHere’s what we are looking for:\n\n- 5+ years of experience in Kotlin.\n\n- Experience debugging Java/Kotlin native applications.\n\n- Experience with modern Android development technologies (Android SDK, etc.)\n\n- Strong UI development skills.\n\n- Knowledge of REST API services and Native mobile development.\n\n- Advanced English level.\n\nHow we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n\n- Excellent compensation in USD or your local currency if preferred\n\n- Hardware and software setup for you to work from home.\n\n- Flexible hours: create your own schedule.\n\n- Paid parental leaves, vacations, and national holidays.\n\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nApply now and become part of a global team where your unique talents can truly thrive!\n\nThis offer from \"BairesDev\" has been enriched by Jobgether.com and got a NaN% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6707f416efea0fa3d9568b0f-kotlin-developer---remote-work?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJLb3RsaW4gRGV2ZWxvcGVyIC0gUmVtb3RlIFdvcmsiLCJjb21wYW55X25hbWUiOiJCYWlyZXNEZXYiLCJhZGRyZXNzX2NpdHkiOiJJcmVsYW5kIiwiaHRpZG9jaWQiOiJxRTNES0Jzblk4ZHYwSHRsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFNYSmxiR0Z1WkEifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUbEZQTVZjdGFHTlpMVmxHUVVaUFlqaExObWc0UWxneFkwNXFPRlpQWlRSS2JVWkNkelJrUzFGcVdsbEVTakp4ZW1sWFIyRlhXamt4WDJKQ1NGaGhjblZ2VUhCRk9UTlFZVTVOUTFSUFRqRTRVbU14TVRGNVVWVjFkMWwwTkZSYWNWaFVWV1puV201TFQyaFhTWGRGVlRSMVNqSlZZV0o1YlZWRVNrdDFPSFF5UjJkV09IcFJZalZaV2s4d1gwOUpVVFZxYzB4NWFqWkVVREZwZFRWVVlrRnZPVUk1TTBWSWVUTXpURkpmTkhablZURkNhemRXVVVOSmVWQk5ablZzUTFaM1FuaHVOVkJ6ZGt0SFlVZFBOVE5vVm1kRlMweGFTR0p1WlVOYU0weGljVzV1UmpSSWRFVnZOREpqVUhSTmVEVXdRV3BEVERCTVNtRmxTbUZvV1ROM1ZUVkZjM0pvWm14b2IzVmlSMjg1UlVNeWRYSmpXUzFFYVVFU0ZsWjNjVVphTm5CMU9XTklVVGhSWDFJMGRXRktRVkVhSWtGR1dISkZZM0ZTTVdGWGJtdEVaM3AyYmpRMFkxQnlNa0ptYzIxdVgyNTJiWGMiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.ie&location=Ireland&next_page_token=eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUbEZQTVZjdGFHTlpMVmxHUVVaUFlqaExObWc0UWxneFkwNXFPRlpQWlRSS2JVWkNkelJrUzFGcVdsbEVTakp4ZW1sWFIyRlhXamt4WDJKQ1NGaGhjblZ2VUhCRk9UTlFZVTVOUTFSUFRqRTRVbU14TVRGNVVWVjFkMWwwTkZSYWNWaFVWV1puV201TFQyaFhTWGRGVlRSMVNqSlZZV0o1YlZWRVNrdDFPSFF5UjJkV09IcFJZalZaV2s4d1gwOUpVVFZxYzB4NWFqWkVVREZwZFRWVVlrRnZPVUk1TTBWSWVUTXpURkpmTkhablZURkNhemRXVVVOSmVWQk5ablZzUTFaM1FuaHVOVkJ6ZGt0SFlVZFBOVE5vVm1kRlMweGFTR0p1WlVOYU0weGljVzV1UmpSSWRFVnZOREpqVUhSTmVEVXdRV3BEVERCTVNtRmxTbUZvV1ROM1ZUVkZjM0pvWm14b2IzVmlSMjg1UlVNeWRYSmpXUzFFYVVFU0ZsWjNjVVphTm5CMU9XTklVVGhSWDFJMGRXRktRVkVhSWtGR1dISkZZM0ZTTVdGWGJtdEVaM3AyYmpRMFkxQnlNa0ptYzIxdVgyNTJiWGMiLCJmY3YiOiIzIn0%3D&q=Android+developer"
+    }
+}

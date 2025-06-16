@@ -1,0 +1,410 @@
+{
+    "search_metadata": {
+        "id": "6784f5c7d14431cb0e9addd3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f768988dafc41b50/6784f5c7d14431cb0e9addd3.json",
+        "created_at": "2025-01-13 11:15:19 UTC",
+        "processed_at": "2025-01-13 11:15:19 UTC",
+        "google_jobs_url": "https://www.google.no/search?q=Android+developer&uule=w+CAIQICIGTm9yd2F5&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/f768988dafc41b50/6784f5c7d14431cb0e9addd3.html",
+        "total_time_taken": 3.41
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Norway",
+        "location_used": "Norway",
+        "google_domain": "google.no"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.no/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjBuOH7yPKKAxUcwskDHXp8JGQQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Dev",
+            "company_name": "Experis-US",
+            "location": "Norway",
+            "via": "Experis",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=j4eNs8RFCoZG9nnDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L2zk9PhKDQRwUUnQRE6dBHnkqRHkhLvQi7Y-PfiG163drsrzYXjDDf8QA8DWxA0xQVgggezT7i9hFqznLUWScpLNTU65fitmdBy0wtb-TdJMAVzMhWn4-nQVCa_39xbxhKlfz0hEoxcVvP9AX7wXFJ5AAAA&shmds=v1_AUFQtOOksNMGM3_oGK9vpjCJzW5hI2pChPfJ6E0uYHsG6LZJYQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=j4eNs8RFCoZG9nnDAAAAAA%3D%3D",
+            "extensions": [
+                "9 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our Banking domain client, is seeking a Android Developer to join their team. As a Android Deeloper, you will be part of the technical supporting Team. The ideal candidate will have Android, Kotlin & Design Patterns which will align successfully in the organization.\n\nJob Title: Android Developer\nLocation: Hybrid 3 days onsite weekly – Mclean or Richmond VA\nPay Rate: $60-62/hr.\n\nJob Description\nTop 3 Must Haves:\n1. Android\n2. Kotlin\n3. Design Patterns (MVVM / MVC/ MVP or MVI)\n\nNice to have skills:\n• Experience in Financial Domain with preference to former banking experience\n\nRoles & Responsibilities:\n• Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles\n• Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity\n• Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality\n• Remain an active learner in all technologies related to mobile development (Kotlin, Swift 3rd party libraries, etc.)\n• Influence and contribute to group discussions and incorporate feedback/communication from the broader team\n• Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)\n• Own and lead delivery of major components and platform needs in partnership with senior engineers and Architects\n• Consistently share best practices and improve processes within and across sprint teams\n• Identify technical obstacles early and work closely with the team to find creative solutions\n• Review pull requests and ensure adherence to Kotlin and other language idioms\n\nIf this is a role that interests you and you’d like to learn more, click apply now and a recruiter will be in touch with you to discuss this great opportunity. We look forward to speaking with you!\n\nAbout ManpowerGroup, Parent Company of: Manpower, Experis, Talent Solutions, and Jefferson Wells\n\nManpowerGroup® (NYSE: MAN), the leading global workforce solutions company, helps organizations transform in a fast-changing world of work by sourcing, assessing, developing, and managing the talent that enables them to win. We develop innovative solutions for hundreds of thousands of organizations every year, providing them with skilled talent while finding meaningful, sustainable employment for millions of people across a wide range of industries and skills. Our expert family of brands – Manpower, Experis, Talent Solutions, and Jefferson Wells – creates substantial value for candidates and clients across more than 75 countries and territories and has done so for over 70 years. We are recognized consistently for our diversity - as a best place to work for Women, Inclusion, Equality and Disability and in 2022 ManpowerGroup was named one of the World's Most Ethical Companies for the 13th year - all confirming our position as the brand of choice for in-demand talent.",
+            "apply_options": [
+                {
+                    "title": "Experis",
+                    "link": "https://www.experis.com/en/job/328552/android-dev?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldiIsImNvbXBhbnlfbmFtZSI6IkV4cGVyaXMtVVMiLCJhZGRyZXNzX2NpdHkiOiJOb3J3YXkiLCJodGlkb2NpZCI6Imo0ZU5zOFJGQ29aRzlubkRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVG05eWQyRjUifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Zedge",
+            "location": "Trondheim, Norway",
+            "via": "Indeed",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=h6Ibct-0TrjRtFs7AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uFNFEBBedBEFwcHJyKUlzJJH0LtwFrbM_Lr7hdd9FtzxREM4BzvjCwhUFNnBlD4pOxgRMcGGOBftjaq3qwVrVYqI21_JoRp4sE3qe7ZO9_hs0OcFaXMNht9_OplJc9Q8MESET3IUpJMzTGm4sb_f5Ad2KOVSGAAAA&shmds=v1_AUFQtOPz9eLntwgE0Rjjh05l-QJIgyZl083V9ZrVFDfafXaagw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=h6Ibct-0TrjRtFs7AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5c7d14431cb0e9addd3/images/e04a2f746d671ddecce619d9593123462067c280760f2e08f66f02f07ede3d23.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Zedge is a content platform and a global leader in smartphone personalization, with more than 500 million app installs and 30 million monthly active users. From some of the top musicians in the world to local artists, we have it all on Zedge.\n\nAs an Android Engineer you will be working on our flagship Wallpapers and Ringtones app, as well as being involved in new initiatives in the entertainment space. You will be part of a team dedicated to learning with a focus on continuous improvement for both.\n\nAt Zedge you will be able to push code that will reach millions of users around the world.\n\nTech Stack:\n• ️ Kotlin, Jetpack Compose, MVVM, Reactive programming (Flow, RxJava etc.), Dagger Hilt, Room, Retrofit, RESTful HTTP endpoints, Spring Boot\n• ️ Productivity: Gradle, GitLab, IntelliJ/Android Studio, Google Cloud, Grafana, Swagger, JIRA, Confluence, Slack\n\nRequirements:\n\nExperience with Android development\nAbility to write clean and testable code\nProficiency in best practices and design patterns; understand what SOLID principles mean in practice\nExperience with MVVM architecture is a plus\nExperience with Jetpack Compose is a plus\nExperience with reactive programming e.g. RxJava, Flow is a plus\nGood collaboration skills\nLust for knowledge\n\nResponsibilities:\n• ️ Peer reviewed Android development within a scrum team\n• ️ Working with stakeholders to define and implement new features\n• ️ Developing new features in collaboration with designers\n• ️ Staying up-to-date with good practices and new Android platform features\n• ️ Ensuring good quality through good testing practices\n• ️ Being proactive in introducing and maintaining the best modern software engineering practices daily\n\nWe offer:\n‍\n\nChallenging work impacting millions of users around the world\nGlobal work environment\n‍ Humble, hungry and smart colleagues that are always striving for the most reasonable solution\n‍ Modern tech stack. Continuously adopting new technologies\nAbility to learn from other colleagues and apply your ideas on a large scale distributed systems\nEmployee education program\nGood insurance and pension benefits\n\nAbout Zedge\n\nZedge owns a portfolio of leading digital consumer brands that serve 43 million monthly active users across the globe. Our portfolio consists of Zedge Ringtones and Wallpapers, the leading mobile app used for mobile phone personalization, social content, and fandom art; Zedge Premium, a marketplace for artists, celebrities, and emerging creators to market their digital content, to Zedge’s users; and Emojipedia, the leading source of all things emoji. Zedge monetizes its content through ad-supported offerings, tokens, NFTs, and subscriptions.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://no.indeed.com/viewjob?jk=c5cd8d1feef3840d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://no.linkedin.com/jobs/view/android-developer-at-zedge-4118865608?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlplZGdlIiwiYWRkcmVzc19jaXR5IjoiVHJvbmRoZWltLCBOb3J3YXkiLCJodGlkb2NpZCI6Img2SWJjdC0wVHJqUnRGczdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVG05eWQyRjUifQ=="
+        },
+        {
+            "title": "Android developer to Combat Climate Change!",
+            "company_name": "ACT Cooperative Corporation AS",
+            "location": "Anywhere",
+            "via": "Wellfound",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=BNnTxjVd1AH2_WuJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQ4CIRAE0Nj6CVZraxSMiY1WJ4WJhRbaX-BuAxiOJSw5z8_yD-WayTQzb_lbLC9N7DP5HnocMVDCDIVA0WB0ARX8oAuCcjpaXMMObmSAUefOAUW4EtmAq7MrJfFJSuYgLBddfCc6GiRFNDTJNxmeo2WnM6ZQL9vDcT-JFO1GNOpVvVmuu7FilBPNvQLNE3yEBwfawp3yR3__o-KKo7QAAAA&shmds=v1_AUFQtOOAgbBLYMwJZrZv-IYFmDmYAcTs06yHvFXYpM1sBI3PAA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=BNnTxjVd1AH2_WuJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5c7d14431cb0e9addd3/images/e04a2f746d671ddee7d26e3feb66df84584c035949e852c7a0fbbd1d9ce2c91e.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer in ACT (part-time)\n\nHi there! You know you’re a great developer. But do you have any idea how powerful you are with your programming skills and that you can use them to literally make this world a better place?\n\nIn ACT, we have developed a scalable mobile marketplace for sustainable grocery shopping, which will empower consumers to start shopping sustainably almost overnight with the ACT app, changing the direction of their combined purchasing power towards producers who respect the environment and treat their workers well.\n\nIf your eyes widened and lit up a bit, read on!\n\nWhat would be my role in ACT?\n\nDevelop and build applications for the Android platform\n\nTranslate designs and wireframes into high-quality code\n\nDesign, build and maintain high performance, reusable, and reliable Kotlin code\n\nEnsure the best possible performance, quality, and responsiveness of the application\n\nIntegration of user-facing elements developed with server-side logic\n\nIdentify and correct bottlenecks and fix bugs\n\nHelp maintain code quality, organization, and automation\n\nWhat skills do I need to accomplish this?\n\n3+ years of experience building android mobile and/or web products including submitting previously approved products in the android market\n\nTDD, CI, CD\n\nScrum-based development\n\nAndroid UI design principles, patterns, and best practices\n\nPlus with experience in:\n\nWhat apps can do and what can happen if they become life integrated tools\n\nAndroid SDK (Software Development Kit) on different screen sizes, (different mobile and tablet sizes)\n\nOffline storage, threading, and performance tuning\n\nOpen-source Android ecosystem and the libraries available for common tasks\n\nCloud message APIs and push notifications\n\nWhy is working with ACT so awesome?\n\nFor countless reasons, but let’s just name three of them:\n\nJoining our team at the beginning of a fascinating journey means you’d simply have a say in what we do and how we do it and take ownership.\n\nAt the same time, you will get constant support, working hand in hand with our diverse and competent team.\n\nAnd above all, you’d play a crucial role in the emergence of (possibly) the only tool that can realistically impact the future of the food production industry and thus mitigate global warming and change the lives of millions for the better.\n• Why am I your ideal Android Developer? *\n\nGood collaboration skills in an international team\n\nDisciplined and self-driven (it’s not easy to come back from work and work again!), honest and generally good-hearted as hell (...)\n\nA team player building effective and fun relations with other people of diverse backgrounds, even when they’re on the other side of the Earth (or screen)\n\nEnjoying remote work and flexibility of time and location\n\nFluent in English\n\nAble to pay your bills and have a decent life with current stable job and devote at least 10 hours per week to ACT project. For the first period we are paying in shares/equity and we are aiming for a salary paid in cash.\n\nWhat is your gut telling you?\n\nWe know this offer may be peculiar and the no-money-yet aspect can be tough. We’ve all been there, and yet there we are around 20(!) people literally infected with ACT’s vision (we are now fairly close to launch of a pivot launch of backend and frontend, very interesing developer challenges ahead). If your heart (or gut) tells you “I want to be the next ACTer, I want to have my share (metaphorically and literally!) in this world-changing project” there’s nothing left but send us an email to jobs@aacct.org, tell us what your heart told you about working with ACT and share your skills and portfolio to prove that you not only want, but also can.\n\nYou cannot imagine how much we’re looking forward to meeting you :)\n\nCheers,\n\nACT Team",
+            "apply_options": [
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/660126-android-developer-to-combat-climate-change?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciB0byBDb21iYXQgQ2xpbWF0ZSBDaGFuZ2UhIiwiY29tcGFueV9uYW1lIjoiQUNUIENvb3BlcmF0aXZlIENvcnBvcmF0aW9uIEFTIiwiYWRkcmVzc19jaXR5IjoiT3NsbywgTm9yd2F5IiwiaHRpZG9jaWQiOiJCTm5UeGpWZDFBSDJfV3VKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RtOXlkMkY1In0="
+        },
+        {
+            "title": "Android Developer - Payment & Logistics",
+            "company_name": "Tise",
+            "location": "Oslo, Norway",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=a6R4CK4trdE6AhT6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBRGYVw7OzndyUG0EcFFQRAEQUQd3EvaXpJImj_kBm2fwxe2Lmf4OMV3UhyOoU1wLZ34zR6RE63ooYeOQ6Y5XWGcZNfIqBfUJKxTYwmBzoDxPNvbnKPslBLxpZGsx7ls0CkErtGrF2r5pxKrE0evM1eb7bovYzCL6dMJkwt0F48l3ZA-evgBtl2pMJYAAAA&shmds=v1_AUFQtOMMfDIQLR9rGrd3JW5T35Ed4L_CVluTe1pJGsZn5FxcgA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=a6R4CK4trdE6AhT6AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5c7d14431cb0e9addd3/images/e04a2f746d671dde1793a7d86b89b0cd92ee000ce2575227315b1f23ab960e5d.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Tise, our goal is to make the world favori’tise second hand by making it easy, fun and inspiring to sell and buy second hand through our marketplace. We are closing in on 3 million users and have a highly engaged community of tisers across Norway, Sweden, Denmark and Finland.\n\nWe are now looking for an Android developer who wants to be a part of our journey and help us take Tise to the next level 🚀\n\nTech at Tise\n\nWe're currently 19 engineers, split across backend, web, iOS, data, and Android. At Tise we rarely work on the same thing for long, but we always have one underlaying goal in everything we do – using technology to create fun and inspiring features that allow our users to live more sustainably.\n\nTise engineers work in small, cross-functional teams, solving fun and complex problems. From pixels to database queries, we take pride in owning the tech we use to serve hundreds of thousands of users each month.\n\nThe Product & Technology team is mainly situated in Oslo, but we also have several great remote developers. You will also work closely with the rest of your colleagues in Tise (see instagram.com/tiseteam to get a look at the Tise family).\n\nAndroid developer – Payment & Logistics\n\nYou'll be part of our cross-functional Payment & Logistics team, working with a team of developers, a designer, Product Manager, and Engineering Manager. The team is responsible for everything that happens after a user has decided to buy an item, including charging and paying out money, integrating with shipping partners, and anything else that make shopping at Tise a great experience.\n\nYou'll also work closely with our two other Android engineers, including our Tech Lead, who together form the Android chapter at Tise. At Tise we use Kotlin to develop our Android app, and release regularly using an automated CI/CD pipeline.\n\nWe can offer:\n• Work with a highly dedicated cross-functional team\n• A healthy work-life balance. We work for ourselves and our users, not corporate clients\n• Working with one of Norway's most used apps\n• Ownership in Tise through stock options\n• An opportunity to engage young people everywhere in buying second hand, on the way to a more sustainable planet\n\nWe are looking for someone who:\n• Has 3+ years relevant experience building Android applications\n• In-depth knowledge of Android architecture components\n• Experience with JUnit and Espresso tests\n• Good understanding of the full Android development lifecycle, including application architecture design (MVVM)\n• Knowledge of coroutines & Dagger\n• Is passionate about details and great user experiences\n• Can dive into an existing, complex app, and learn quickly\n• Has experience with, or eager to learn about, payment and shipping technology\n\nWe encourage you to apply by submitting your contact information and CV! 🤗",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-developer-payment--logistics-at-tise-533?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TIDAL Music AS",
+                    "link": "https://tidal-music-as.hirehive.com/android-developer-streaming-team-oslo-04gyR1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIFBheW1lbnQgXHUwMDI2IExvZ2lzdGljcyIsImNvbXBhbnlfbmFtZSI6IlRpc2UiLCJhZGRyZXNzX2NpdHkiOiJPc2xvLCBOb3J3YXkiLCJodGlkb2NpZCI6ImE2UjRDSzR0cmRFNkFoVDZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVG05eWQyRjUifQ=="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Jefferson Frank",
+            "location": "Norway",
+            "via": "Jefferson Frank",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=1fz60ULw2ZD-og4vAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BzrdKIKJCC46CaLQwV8oaXpNovEu3AWtq1-uLm98zWfWLI80CKcBTvjEzAUF1tByD4pOfAQmuDCHjItDrLXo3lrVbIJWV5M3nh-WCXue7I17_dNpdIIlu4rddreZTKGwmrc4jij6687i6A6J4Mrycu8vz3B124UAAAA&shmds=v1_AUFQtONHSUtM6Tku0gFvsF--bl-Kp-dUwbh7S96mlDsDD1vwwA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=1fz60ULw2ZD-og4vAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer\n\nMy client seeks an experienced Android Developer passionate about creating impactful mobile applications. With us, you'll work on projects centered around mapping, bringing real value to diverse sectors and making a social impact. Join a team that champions collaboration, innovation, and modern technology.\n\nAbout You\n\nWe're looking for a skilled Android developer who's a team player with a knack for building strong relationships with colleagues and clients. You understand how to align user needs with technical solutions that are both functional and future-ready. Your communication skills shine when explaining complex ideas, and you thrive in cross-functional teams. Experience in consulting is a plus.\n\nKey Qualifications\n• 4+ years in Android development (2+ with Kotlin).\n• Strong grasp of modern Android architecture and Jetpack Compose.\n• Experience with Google Play Store app delivery and maintenance.\n• Skilled in Unit Testing, UI Testing, and CI/CD tools.\n• Fluent in Norwegian (written and spoken).\n\nWhat's in it for you?\n• Great workplace culture: Consistently ranked among Norway's top workplaces.\n• Flexible hybrid work: Work from the office or home.\n• Professional development: Ample learning opportunities in a culture of knowledge sharing.\n• Social activities: From gaming and yoga to climbing and group trips.\n• Comprehensive benefits: Health insurance, travel insurance, and a solid pension.\n• 6 weeks' holiday: We value work-life balance.\n\nReady to create meaningful mobile solutions? Apply now or get in touch with Rob at r.jones@jeffersonfrank.com",
+            "apply_options": [
+                {
+                    "title": "Jefferson Frank",
+                    "link": "https://www.jeffersonfrank.com/job/a0MaA000000Gi8L.3_1730221526/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IT Jobs Norway",
+                    "link": "https://www.it-jobs-no.com/job/professional-senior-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkplZmZlcnNvbiBGcmFuayIsImFkZHJlc3NfY2l0eSI6Ik5vcndheSIsImh0aWRvY2lkIjoiMWZ6NjBVTHcyWkQtb2c0dkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUbTl5ZDJGNSJ9"
+        },
+        {
+            "title": "Android/iOS Developers",
+            "company_name": "Experis-US",
+            "location": "Norway",
+            "via": "Experis",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=HTCRIFVnKqLLB5DDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQsCIRQAYFpvbmp6c6BG0FJTUBzcUMPRfKj3UMN84pOytV9eLd_4dZ9FJ45pLhRmFa4jnPCJkTIWBgEDGWDUxXqgBD2Ri7g6-Foz75VijtJx1TVYaemhKKGhpu5k-M_EXhfMUVectrtNkzm59fLcfndgcRshJLhQeen3F06gC9qFAAAA&shmds=v1_AUFQtOPya3Dhf_28xexDe_u9wsvA3dhUbEcoFvDe86g1fDRJ9w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HTCRIFVnKqLLB5DDAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Contractor"
+            },
+            "description": "At Experis we are committed to collaborating with and advocating for IT talent across all industries. We work with Android/iOS Developers in the Consumer Staples sectors to support them in achieving their career goals and we’d love to learn more about you – connect with a Recruiter today!\nBelow is an example of roles we receive from our client partners –\n\nJob Title: Android/iOS Developer\n\nLocation: Remote\n\nPay Range: Competitive\n\nWhat's the Job?\n• Design, develop, and maintain mobile applications for Android and/or iOS platforms.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Write clean, maintainable, and efficient code.\n• Conduct code reviews and ensure adherence to best practices.\n• Troubleshoot and debug applications to optimize performance and user experience.\n\nWhat's Needed?\n• Bachelor’s degree in Computer Science, Software Engineering, or a related field.\n• Proven experience in mobile app development for Android and/or iOS.\n• Proficiency in Java/Kotlin for Android development and Swift/Objective-C for iOS development.\n• Familiarity with RESTful APIs and third-party libraries.\n• Experience with version control systems (e.g., Git).\n\nWhat's in it for me?\n• Opportunity to work with a leading retail services company.\n• Competitive pay.\n• Opportunity for growth and career development.\n• Collaborative and inclusive work environment.\n• Opportunity to work with the latest industry trends, technologies, and best practices in mobile development.\n\nIf this is a role that interests you and you'd like to learn more, click apply now and a recruiter will be in touch with you to discuss this great opportunity. We look forward to speaking with you!\n\nAbout ManpowerGroup, Parent Company of: Manpower, Experis, Talent Solutions, and Jefferson Wells\n\nManpowerGroup® (NYSE: MAN), the leading global workforce solutions company, helps organizations transform in a fast-changing world of work by sourcing, assessing, developing, and managing the talent that enables them to win. We develop innovative solutions for hundreds of thousands of organizations every year, providing them with skilled talent while finding meaningful, sustainable employment for millions of people across a wide range of industries and skills. Our expert family of brands – Manpower, Experis, Talent Solutions, and Jefferson Wells – creates substantial value for candidates and clients across more than 75 countries and territories and has done so for over 70 years. We are recognized consistently for our diversity - as a best place to work for Women, Inclusion, Equality and Disability and in 2023 ManpowerGroup was named one of the World's Most Ethical Companies for the 14th year - all confirming our position as the brand of choice for in-demand talent.",
+            "apply_options": [
+                {
+                    "title": "Experis",
+                    "link": "https://www.experis.com/en/job/334248/androidios-developers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkL2lPUyBEZXZlbG9wZXJzIiwiY29tcGFueV9uYW1lIjoiRXhwZXJpcy1VUyIsImFkZHJlc3NfY2l0eSI6Ik5vcndheSIsImh0aWRvY2lkIjoiSFRDUklGVm5LcUxMQjVEREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUbTl5ZDJGNSJ9"
+        },
+        {
+            "title": "Mobile Developer (iOS/Android) - Charlotte, NC",
+            "company_name": "Experis-US",
+            "location": "Norway",
+            "via": "Experis",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=ExcgAV_nXC-q43f8AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce3s5HSjim1EcKmT1CII1qE4l6Q92kjMhdyh9Vf8Wuvy4C3vJd9ZUl7JWIdwwhc6ChhhaW-1Ovouku1WkEIx6OhIBDdQFZNfyACjju0A5OFM1DtcHAaRwLlSzC7rWbTYNmvpqcijoVE9yPAfDU81DE4LNrv9dsyC79fzcpzGltN7DdZDRfGtPz-xzXvYnQAAAA&shmds=v1_AUFQtOMBPTGi3nwUy4qBKl3_NF_GQfqofmHALiwJAQLUXhbwOQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ExcgAV_nXC-q43f8AAAAAA%3D%3D",
+            "extensions": [
+                "10 hours ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 hours ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Experis/ManpowerGroup has partnered with a leading financial organization in Charlotte, NC (Need Local) for a contract Mobile Developer to assist their team. It will be a Hybrid role.\nTitle: Mobile Developer (iOS or Android)\nLocation: Charlotte, NC (Need Local)\nDuration: 24+ months\n\nJob Overview:\n\nWe are seeking a skilled Mobile Developer to build and maintain high-quality mobile applications for iOS and Android. You’ll work closely with product teams to design, develop, and optimize apps, ensuring top performance, security, and a seamless user experience.\nResponsibilities:\n• Develop and maintain iOS and/or Android apps using Swift, Kotlin, or cross-platform frameworks (e.g., React Native, Flutter).\n• Collaborate with design and backend teams to implement new features.\n• Troubleshoot and optimize app performance across multiple devices and OS versions.\n• Manage app deployment to the App Store and Google Play.\n• Write unit tests and ensure high code quality.\nQualifications:\n• Multiple years of mobile development experience with iOS (Swift) or Android (Kotlin), or cross-platform tools.\n• Familiarity with mobile UI/UX design principles and app deployment processes.\n• Experience with version control (Git), REST APIs, and debugging tools.\n• Strong problem-solving skills and attention to detail.\nPreferred:\n• Experience with Firebase, CI/CD, or mobile security practices.\nFrequently Asked Questions:\n• Benefits? Yes, you can enroll in our corporate discount benefits package.\n• Remote Workers? Expected to go into the office on-site so local or willing to relocate at your own expense. NO 100% REMOTE\n• Visa Sponsorship? Not offered\n• Corp-to-Corp? Not eligible\n\nAbout Experis https://www.experis.com/\nExperis is part of the ManpowerGroup family of brands. ManpowerGroup is the world leader in innovative workforce solutions, connecting human potential to the power of business. ManpowerGroup serves both large and small organizations across all industry sectors through our brands and offerings: Manpower, Experis, Talent Solutions, and Jefferson Wells.",
+            "apply_options": [
+                {
+                    "title": "Experis",
+                    "link": "https://www.experis.com/en/job/337574/mobile-developer-iosandroid-charlotte-nc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIChpT1MvQW5kcm9pZCkgLSBDaGFybG90dGUsIE5DIiwiY29tcGFueV9uYW1lIjoiRXhwZXJpcy1VUyIsImFkZHJlc3NfY2l0eSI6Ik5vcndheSIsImh0aWRvY2lkIjoiRXhjZ0FWX25YQy1xNDNmOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUbTl5ZDJGNSJ9"
+        },
+        {
+            "title": "We seek a Senior Android Embedded Software Engineer for our mission to empower people by bringing healthcare home",
+            "company_name": "Dignio AS",
+            "location": "Oslo, Norway",
+            "via": "FINN.no",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=ODA2OpYdDZBlEB6xAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOsU4DMRBElTZ_QKqpEdwhJBqoIhFFooDiCsrIPm_sBdtreY0u-QP-kx_B10wzM29m-7fZ_m4-CUr0DYOJMkvFPrsq7HBIlpwjh0nObTGVcMieM1HFucfkpyKxKktGE1AqsnSrkJRIsFfYymveI5CJLcwrIUgi3ONNbB81dQ7o7aOIj7R7Ca0VfR5H1Th4babxPMySRslk5TJ-idVVTho6qkTT6PT49HAZSva3N6_s-3vsJ3DGh0a5w7vUxVz_AV_B1ubmAAAA&shmds=v1_AUFQtONnqIVXFyC6HWoibbHVGXWojqhSjCx3A6u5JItzhrT-Sg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ODA2OpYdDZBlEB6xAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Are you an experienced Android developer eager to tackle complex technical challenges and create innovative healthcare solutions?\n\nAs an Android Embedded Software Engineer, you’ll play a key role in the design, development and maintenance of scalable, high-quality software for our medication dispenser products. Dive into cutting-edge Android technologies and RESTful APIs, while contributing to UI enhancements and system architecture in a dynamic, collaborative, and hybrid work environment.\n\nWorkplace is Oslo (Norway). The position is part of a virtual team with members in Toronto (Canada).\n\nResponsibilities\n• Design, build, and maintain scalable, high-quality software solutions.\n• Evaluate solution feasibility, balancing performance and scalability.\n• Collaborate in Agile development processes and knowledge sharing.\n• Manage project priorities, deadlines, and deliverables effectively.\n• Troubleshoot and resolve technical issues, promoting best practices.\n• Drive product development from ideation to deployment.\n• Propose innovative technologies to advance the company’s solutions.\n• Enhance UI and usability standards through design discussions.\n• Develop expertise in new and emerging Android platforms.\n• Support and improve existing software systems.\n\nWe're looking for people who\n• Thrive in a start-up environment and possess an entrepreneurial spirit.\n• Demonstrate a passion for healthcare technology and improving healthcare outcomes.\n• Exhibit strong written and oral communication skills, presenting ideas clearly and effectively.\n• Pay attention to detail and demonstrate reliability in meeting commitments.\n• Work independently with good time management skills.\n\nQualifications\n• Extensive experience in professional software development for large systems.\n• Proven Android development expertise with Java, and preferably also Kotlin.\n• Strong understanding of unit testing best practices, mocking frameworks, and RESTful APIs.\n• Familiarity with mobile network communication, API integration, and app usability best practices.\n• Knowledge of relational databases (e.g., SQL) and security best practices for web applications.\n• Intuitive grasp of emerging trends in Android platforms, UI, and usability standards.\n• Ability to manage complex projects independently with attention to detail and effective time management.\n• Familiarity with the Android Open Source Project and OS-level development experience is a plus.\n• Experience with developing software for mechatronic or hardware-integrated products is a plus.\n\nWe can offer\n• You being a key resource in our unique journey to provide better healthcare for people across the globe.\n• A strong and rapidly growing tech-environment with a clear focus on professional and personal development.\n• Solving complex and challenging tasks on a daily basis.\n• Further development in the domain of (embedded) Android software development\n• Flexibility in regards to work location and hours.\n• A young, diverse and ambitious culture with a real passion for their work.\n• Competitive salary.\n• Lunch, social activities and fun at work!\n• Company health- and travel insurance for you and your family.\n• New, modern offices in central Oslo.",
+            "apply_options": [
+                {
+                    "title": "FINN.no",
+                    "link": "https://www.finn.no/job/fulltime/ad.html?finnkode=388022515&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJXZSBzZWVrIGEgU2VuaW9yIEFuZHJvaWQgRW1iZWRkZWQgU29mdHdhcmUgRW5naW5lZXIgZm9yIG91ciBtaXNzaW9uIHRvIGVtcG93ZXIgcGVvcGxlIGJ5IGJyaW5naW5nIGhlYWx0aGNhcmUgaG9tZSIsImNvbXBhbnlfbmFtZSI6IkRpZ25pbyBBUyIsImFkZHJlc3NfY2l0eSI6Ik9zbG8sIE5vcndheSIsImh0aWRvY2lkIjoiT0RBMk9wWWREWkJsRUI2eEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUbTl5ZDJGNSJ9"
+        },
+        {
+            "title": "Lead Developer Mobile Apps (iOS / Android) for Digital Health - Consulting",
+            "company_name": "EY",
+            "location": "Leirvik, Norway",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=h9mn305wVb7vIyBSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHPU8CQRAG4NDS01i9pRC9NSQ2UF2EaAxKQUVF5u6GvZF1Z7Oz8vHL_HtA8yTP8H8wpBVThwUfOWjijC9tJDDqlAyPst7AoY5dVunG2GvGQrwUCvhgCqXHM9402l8oEv0tn9rAmHLbQyPeVX3gh3lfSrKZc2ah8laoSFu1-us0cqNn96ON3dlZT5lToMK76evLuUrRT0bLLSRixZKPcnjCt-YTXa7klIt8ugAAAA&shmds=v1_AUFQtON9L_-uYrrgluCW62vTB2B-uuD2DVCOAZdomo0gOqLJVw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=h9mn305wVb7vIyBSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f5c7d14431cb0e9addd3/images/e04a2f746d671dde62ad04c5bfa49197f1e3fa84f081055330da2405384a2725.jpeg",
+            "extensions": [
+                "11 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\nYou will be part of EY’s EMEIA-based Digital Health Excellence Center (DHEC). Our mission is to improve health outcomes and patient experiences. As the DHEC, we bring our expert knowledge and delivery power to industry-leading healthcare providers in collaboration with the local firms.\n\nThe opportunity\n\nAs a senior developer, you will work alongside a team of international experts in technology, business and the healthcare industry. The end-to-end development and implementation of mobile apps is at the core of the DHEC, with you we want to further strengthen our technical expertise.\n\nYour key responsibilities\n\nAs a senior developer, you are responsible for the development and implementation of innovative mobile software solutions for our healthcare clients. In your role, you will collaborate with clinical teams, administrators, and other healthcare professionals to prioritize and address health-specific software needs.\n\nAs technical expert, you work together with the development team in the creation of customer journey and user stories, you coordinate with UI/UX designers, and you collaborate with the software architects to implement functionality that is suitable for specific client needs. Additionally, you will be responsible for near- and off-shore technical teams, vendors, and external partners to ensure our products are consistent and reliable, as well as provide training and support in business development.\n\nSkills and attributes for success\n• Strong written and verbal communication, presentation, client service and technical writing skills for both technical and business audiences.\n• Fluency in English and Proficiency in the local language of your country of residence is required.\n• Knowledge of additional languages will be appreciated.\n• Strong analytical, problem solving and critical thinking skills.\n• Ability to work under tight timelines for multiple project deliveries in parallel.\n• Ability/flexibility to travel.\n\nTo qualify for the role, you must have\n• Bachelor’s degree in informatics, Mathematics, (Software) Engineering or other related field with strong IT focus. Master's or further certification are advantageous.\n• Minimum of 2 years of working experience in a healthcare context and particular focus on implementing custom applications on mobile operating systems.\n• Deep understanding of development in iOS and Android using e.g. Swift, SwiftUI, Kotlin, and Jetpack Compose. Basic understanding of both operating systems is a prerequisite.\n• Expert knowledge of software architecture on all levels, i.e. network, infrastructure, security, persistence, application, and frontend.\n• Proven work experience in driving international development teams and managing different stakeholder groups, e.g. project managers, Scrum masters, product owners, business analysts, developers, and infrastructure and security architects.\n• Deep understanding of programming patterns (e.g. MVC, MVVM), tools, and frameworks for development (e.g. Declarative UI, Angular, Xamarin, React).\n\nIdeally, you’ll also have\n• A reliable network in the healthcare industry and a consulting track record.\n• A good overview of industry technology trends and emerging technologies, understand how they apply to our healthcare clients and can drive their adoption into our projects.\n• A solid understanding of health-specific interoperability formats, e.g. HL7/FHIR, SNOMED, OMOP, openEHR.\n• A good knowledge of system integration in medical system landscapes between software products of various clinical domains, e.g. Electronic Medical Records (EMR), Clinical Information Systems (CIS), Clinical Data Repositories (CDR), Laboratory Information Management Systems (LIMS), communication servers and interoperability platforms.\n\nWhat we look for\n\nWe are looking for an experienced Senior Developer with strong technical skills and a proven track record working in a healthcare context.\n\nWhat working at EY offers\n\nAs part of this role, you'll work in a highly integrated, global team with the opportunity and tools to grow, develop and drive your career forward. Here, you can combine global opportunity with flexible working. The EY benefits package goes above and beyond too, focusing on your physical, emotional, financial and social well-being. Your recruiter can talk to you about the benefits available in your country.\n\nHere’s a snapshot of what we offer:\n• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.\n• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.\n• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.\n• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.\n\nAbout EY\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.\n\nEY | Building a better working world\n\nEY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.\n\nEnabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n\nWorking across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.\n\nDHEC_FY25",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://no.linkedin.com/jobs/view/lead-developer-mobile-apps-ios-android-for-digital-health-consulting-at-ey-4074565985?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERldmVsb3BlciBNb2JpbGUgQXBwcyAoaU9TIC8gQW5kcm9pZCkgZm9yIERpZ2l0YWwgSGVhbHRoIC0gQ29uc3VsdGluZyIsImNvbXBhbnlfbmFtZSI6IkVZIiwiYWRkcmVzc19jaXR5IjoiTGVpcnZpaywgTm9yd2F5IiwiaHRpZG9jaWQiOiJoOW1uMzA1d1ZiN3ZJeUJTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RtOXlkMkY1In0="
+        },
+        {
+            "title": "Are you passionate about mobile app development?",
+            "company_name": "NAVTOR",
+            "location": "Egersund, Norway",
+            "via": "FINN.no",
+            "share_link": "https://www.google.no/search?ibp=htl;jobs&q=Android+developer&htidocid=fHz_JOYQCBjPbjDhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CJ1uFm1EcNFBOkjBoYKIa0naI42kdyGXavs6Pql1-eGb_uy7yqoyIsw8QtAijkknBG14TDCwcX5BCNDhGz2HASmdYQtXNiCoY9sDE1TM1mN-6lMKclRKxBdWkk6uLVoeFBMantSLjfzTSK8jBr-Mmv1hNxWB7Dqvy-fjdgdHcLEYZaRuAzXHj55_eyIrVaUAAAA&shmds=v1_AUFQtOPmfwxNVTrnjhP4Ou2A48BcVzr2LrDpeX2lLwFPgvf71Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fHz_JOYQCBjPbjDhAAAAAA%3D%3D",
+            "extensions": [
+                "28 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Do you have experience in software development and are eager to gain more experience in a company with cutting edge technology and a global impact?\n\nWe are now recruiting for a position within our development department. As a software developer in NAVTOR, you will be joining an international team of highly talented and motivated people with passionate interest in software design.\n\nDuties and responsibilities\n\n· Develop and maintain Mobile applications using Flutter and Dart\n\n· Targeted for iOS iPhone/iPad and Android Mobile/Table devices\n\n· Ensure the applications are scalable, have optimized performance and are user friendly\n\n· Research into new technologies that might benefit NAVTORs customers\n\n· Participate in continuous process improvements to build a high performing culture\n\nQualifications\n• Minimum of 4-5 years of experience with software development\n• Minimum of 2+ years of experience with Flutter and Dart\n• Good understanding of multiplatform mobile app development including publishing in Google Play and/or Apple App Store\n• Good understanding of user-friendly and responsive design\n• Experience with of RESTful APIs and JSON\n• Knowledge of WebSocket and SignalR\n• Knowledge of responsive web design using HTML5, CSS and SASS is a big plus\n• Knowledge of one or several map frameworks as MapBox, Google Maps, Bing Maps, Leaflet, ArcGIS or OpenLayers is a plus\n• Knowledge of one or several data visualization frameworks\n• Knowledge of other reactive web frameworks such as Angular or React is a plus\n• Knowledge of Back-End development is a plus\n• Well traversed in Scrum workflows and knowledge of CI/CD pipelines\n• Speak and write English fluently\n\nEducation\n\n· Relevant education at university level or equivalent\n\nPersonal qualities\n• Personal passion for software design and development\n• Fast learner\n• Excellent organizational and structural skills\n• Dedicated adherence to project goals and deadlines\n• Ability to work well in a fast-paced environment and as part of a team\n• Strong attention to detail and accuracy\n\nWe can offer\n• A chance to join an engaging team of brilliant people with in-depth software expertise and industry experience\n• An opportunity to make an impact on the maritime industry future\n• High level of autonomy and opportunity to have influence on decisions\n• Competitive salary\n• We cover internet and mobile communication expenses.\n• Good pension and insurance arrangements\n• Comfort office environment",
+            "apply_options": [
+                {
+                    "title": "FINN.no",
+                    "link": "https://www.finn.no/job/fulltime/ad.html?finnkode=385257410&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcmUgeW91IHBhc3Npb25hdGUgYWJvdXQgbW9iaWxlIGFwcCBkZXZlbG9wbWVudD8iLCJjb21wYW55X25hbWUiOiJOQVZUT1IiLCJhZGRyZXNzX2NpdHkiOiJFZ2Vyc3VuZCwgTm9yd2F5IiwiaHRpZG9jaWQiOiJmSHpfSk9ZUUNCalBiakRoQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RtOXlkMkY1In0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSE0yYjNGSVdqZFRjWEZYVUdWdE5EZEJRM0V5YWpKUVMyeHVjVXRRZEVaVGNEaElkSFpvTm1ORFVtWnFWSGxFZW5Cc1NrVnNibTFXWjNkVFYwbHdUVnB5VVU0eWVXbHlWMnBZYVZkNFVrWkJjbWxMUVhNM2VtNDBVMUV4WWpBMFUxQlVObGxGTjNOTlVtdHVMVVZCZG1FMlRXRnJkRGhJT0ZWelZFaHJkbkE0YUhSMVJreHZNR1pEUjNGS1RubHpabXg1TFdkbloySnJOamRaTjJ0b1JVRlFhVkZNVjBFMmJIRnhYMkkwTjJGVGRHRnpWMVp1VGpoWlVqTm5SVjlQT1hBMWN6aG1OM04xVGxSa1RrMVNlVFV5VjFoQmNuaHhVbk5JYlV4UFNGZFJkVk5vWlRSdFVVMUtUVFZMYkdSTU9VWTVlWGRzV1dwUk1HVlVjRmQyWW1SS1FWbFhjMDh3T0RoNGREaFpXRFIzT0VoeFpGZHpXVjh0YVVFU0YzbDJWMFZhT0VkeVJ6VjVSWEE0TkZBdGRtbFNiMUZaR2lKQlJsaHlSV054TkY5SE4zcHNVbk5MTjFGeGEzZFhNRTFGYUZRd09GVlJVSGQzIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.no&location=Norway&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSE0yYjNGSVdqZFRjWEZYVUdWdE5EZEJRM0V5YWpKUVMyeHVjVXRRZEVaVGNEaElkSFpvTm1ORFVtWnFWSGxFZW5Cc1NrVnNibTFXWjNkVFYwbHdUVnB5VVU0eWVXbHlWMnBZYVZkNFVrWkJjbWxMUVhNM2VtNDBVMUV4WWpBMFUxQlVObGxGTjNOTlVtdHVMVVZCZG1FMlRXRnJkRGhJT0ZWelZFaHJkbkE0YUhSMVJreHZNR1pEUjNGS1RubHpabXg1TFdkbloySnJOamRaTjJ0b1JVRlFhVkZNVjBFMmJIRnhYMkkwTjJGVGRHRnpWMVp1VGpoWlVqTm5SVjlQT1hBMWN6aG1OM04xVGxSa1RrMVNlVFV5VjFoQmNuaHhVbk5JYlV4UFNGZFJkVk5vWlRSdFVVMUtUVFZMYkdSTU9VWTVlWGRzV1dwUk1HVlVjRmQyWW1SS1FWbFhjMDh3T0RoNGREaFpXRFIzT0VoeFpGZHpXVjh0YVVFU0YzbDJWMFZhT0VkeVJ6VjVSWEE0TkZBdGRtbFNiMUZaR2lKQlJsaHlSV054TkY5SE4zcHNVbk5MTjFGeGEzZFhNRTFGYUZRd09GVlJVSGQzIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

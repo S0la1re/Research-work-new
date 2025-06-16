@@ -1,0 +1,327 @@
+{
+    "search_metadata": {
+        "id": "678505f213ac987093346777",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/85e7a2f0516145fa/678505f213ac987093346777.json",
+        "created_at": "2025-01-13 12:24:18 UTC",
+        "processed_at": "2025-01-13 12:24:18 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&udm=8&fc=EswCCowCQUpHOUprT1FGa2U4WU9pZmV1OXFwTHctWW1MV3YtLWdFdnZPdW5MZlBTUEJVNXMzazRqUk0wMmxiMTE5elEzYUQ0QjlxWE9hZUd5eDhuYkVHNGFWWm1md2FCckt2YjFBVXd1Y1JCUVVLem5pTno2MTFaMlFvbzNLZEJwSmhwcUdxRzliOTZvYnNRU0VheFRnMi1tQy02UVItZENmOFVDdFN0NU9oQnl0a2tMQ2w2MzNCdG9wZHlHN2NhQ2s4U3pmRDdWS2VONktxUk9uU0s2ME9pLTZRV3JfQ2lacWN3cDAxUWhMR3pQZXJKRXhYc3pTN29WU0YwSTlZSUVqUnFkWFZXM0RCc05jNXVoRxIXOFFXRlo2S1dHYW5id040UDdJX3g4QVUaIkFGWHJFY293bUhlVXNUWVlaZzlzU3BJVThNUUx6TzJBcFE&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/85e7a2f0516145fa/678505f213ac987093346777.html",
+        "prettify_html_file": "https://serpapi.com/searches/85e7a2f0516145fa/678505f213ac987093346777.prettify",
+        "total_time_taken": 5.2
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "United Kingdom",
+        "location_used": "United Kingdom",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMUZHYTJVNFdVOXBabVYxT1hGd1RIY3RXVzFNVjNZdExXZEZkblpQZFc1TVpsQlRVRUpWTlhNemF6UnFVazB3TW14aU1URTVlbEV6WVVRMFFqbHhXRTloWlVkNWVEaHVZa1ZITkdGV1dtMW1kMkZDY2t0MllqRkJWWGQxWTFKQ1VWVkxlbTVwVG5vMk1URmFNbEZ2YnpOTFpFSndTbWh3Y1VkeFJ6bGlPVFp2WW5OUlUwVmhlRlJuTWkxdFF5MDJVVkl0WkVObU9GVkRkRk4wTlU5b1FubDBhMnRNUTJ3Mk16TkNkRzl3WkhsSE4yTmhRMnM0VTNwbVJEZFdTMlZPTmt0eFVrOXVVMHMyTUU5cExUWlJWM0pmUTJsYWNXTjNjREF4VVdoTVIzcFFaWEpLUlhoWWMzcFROMjlXVTBZd1NUbFpTVVZxVW5Ga1dGWlhNMFJDYzA1ak5YVm9SeElYT0ZGWFJsbzJTMWRIWVc1aWQwNDBVRGRKWDNnNFFWVWFJa0ZHV0hKRlkyOTNiVWhsVlhOVVdWbGFaemx6VTNCSlZUaE5VVXg2VHpKQmNGRSIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "iOS Developer - Manchester (Hybrid Remote) - £68,000",
+            "company_name": "Ada Meher",
+            "location": "Anywhere",
+            "via": "Talent.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=z5lbA4e7attyUTy2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_02OSwrCMBRFcdolOHozP9Q2CIroSBAUPwiK45K2jySS5oXkIXU9bsEVuDLrzMnlHu7g3OTdS47mfIUNPtCSxwATOElXaYzcwXD3LIOp4YINMY668fOaL1IhRFf3VEJEGSoN5GBLpCz2V5rZx2Wex2gzFVmyqbKKmpwcltTmdyrjL4qoZUBvJWMxnYk2806NB-tawgl1Zzbu70cKN2cYazgYp2pqvh23fpG3AAAA&shmds=v1_AUFQtOPRHCv7YWqNBgp2uSPT8lOezaOGmdwbQ37e3KywMYm2wQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=z5lbA4e7attyUTy2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c582e497119b487cd2cbc8b0d4e264ec44151232adc26710e1e5.gif",
+            "extensions": [
+                "£60K–£68K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "£60K–£68K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Developer – Manchester (Hybrid Remote) - £68,000 1 day per month in office | iOS Native App Development | TDD | Flexible hours | Greenfield Projects Ada Meher is currently working with a leading consultancy company in the Manchester area, who are recruiting for an iOS Engineer to work on a number of new greenfield mobile app projects born out of new business success. The new projects will be built using the latest in iOS and specifically Swift / SwiftUI with AWS deployments. They also have TDD built into their production process so there is a great opportunity to learn some Unit Testing. With an office hub on the outskirts of Manchester, they value the sense of collaboration in this space as well as their employee’s autonomy and as such operate a hybrid model requiring an office presence once a month. The client has flexibility and autonomy at the core of their culture, so whilst there is an expectation of an office-based presence they are more than happy to work this around other life commitments to find a solution which suits all. The ideal candidate will have solid experience working with in iOS Native App Development and relevant libraries and frameworks, but also a thirst for development and learning as the successful candidate will be given time and support to fill in any gaps in knowledge around the tech stack, provided they can demonstrate this good core ...",
+            "apply_options": [
+                {
+                    "title": "Talent.com",
+                    "link": "https://uk.talent.com/view?id=4e397695b04d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Apply For The Latest Jobs In The UK | Jobsnortheast.co.uk",
+                    "link": "https://jobsnortheast.co.uk/view_job.php?id=222659432&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gTWFuY2hlc3RlciAoSHlicmlkIFJlbW90ZSkgLSDCozY4LDAwMCIsImNvbXBhbnlfbmFtZSI6IkFkYSBNZWhlciIsImFkZHJlc3NfY2l0eSI6Ik1hbmNoZXN0ZXIsIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJ6NWxiQTRlN2F0dHlVVHkyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "iOS Swift Developer",
+            "company_name": "YO IT CONSULTING",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=NoztXTG9vI6Kw_FIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQ6CMBAA0LjyCU4XRxJbY-KioyYENTAAgxMpcJaa0mu4i_IT_rPxDS_5rpLUlRVUH_cUuOAbPUWcYQtX6oDRzP0IFCAjsh7Xp1Ek8lFrZq8sixHXq54mTQE7WvSLOv7X8mhmjN4ItvvDblEx2HTzKCGv4VwWVXOv8yIDF6AJTnCAmwt2oOkHVnGQKJAAAAA&shmds=v1_AUFQtOM_jk5FRRn4KjDnlUk4L76qkF8OumQnYlMJEDVW-gEXTw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=NoztXTG9vI6Kw_FIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c5820e811bb87af4f2c992d2c100ba1cfb9a77427e42ae7cc7b7.gif",
+            "extensions": [
+                "15–27 an hour",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "15–27 an hour",
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mobile Engineer (Swift) - LLM Training\n\nLocation: Anywhere in the World Remote (Europe, Latam, Asia )\n\nContract length - 12 Months\n\nOpportunity- Full Time, 8 hours, 5 hours Mandatory overlap with PST\n\nTotal Years Of exp- 3+ years Mandatory\n\nMandatory Skills-\n\nSwift (for iOS) min 2 years of experience OR RxSwift min 2 YOE\n\nMVVM Min 3 Years Of Experience Required\n\nKeywords: iOS, Swift Developer\n\nRequired Skills\n• 2+ years of experience with Swift and MVVM\n• Hands-on experience with employing modular development and scalable architectures as well as a strong focus on code readability and security/stability (i.e. testing)\n• Clearly express the reasoning and logic when writing code in https:// colab .google/ or other suitable mediums\n• Proficiency with the language's syntax and conventions\n• Familiarity working with QA technologies is desirable\n• Excellent spoken and written English communication skills\n\nSkills: modular development,swift,code,english communication,testing,security,code readability,conventions,scalable architectures,rxswift,ios development,ios,security/stability,security/stability testing,mvvm,qa technologies",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://uk.linkedin.com/jobs/view/ios-swift-developer-at-yo-it-consulting-4042559012?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU3dpZnQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiWU8gSVQgQ09OU1VMVElORyIsImFkZHJlc3NfY2l0eSI6IlVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJOb3p0WFRHOXZJNkt3X0ZJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "Ios Developer Swift - Cybersecurity",
+            "company_name": "Client Server Ltd.",
+            "location": "Cambridge, United Kingdom",
+            "via": "Jobtome",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=h6psWESs0mgwFV9lAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNuwrCQBBAUWzzCVZTi2ZFsIllBPHRBeuwj3GzstkJO2OMv-RXGpsLp7rFd1FUZ2I44oiRBszQvMNDYAP1x2BmtK8c5DP7QgYYdbYdUIITkY-4PHQiA1dKMcfSs2gJtrTUK0poaFJPMvxPy53OOEQt2O7226kckl-pOgZMAg3mcR7fxJUQEtS6Nzk4j2u4pyDo4BqSd9T_AJbd_gqtAAAA&shmds=v1_AUFQtOPJoT9ojmBehvu75C4mcnFNBo9Lcy9-Zqt9_cUKcBoRcA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=h6psWESs0mgwFV9lAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "IOS Developer / Mobile Software Engineer (iOS Swift) *Remote / Hybrid WfH*. Are you a skilled iOS Developer with Swift? You could be progressing your career and continually learning at one of the world's most advanced Cybersecurity technology companies.There's a remote interview and onboarding process, following that you could potentially work from home full time or ideally do a flexible hybrid model in the Cambridge office (about a 20 minute walk from the local station and with regular shuttle bus;\nthere'salso parking available);\nthere's a range of perks including free top quality catered lunch every Friday, social activities ranging from sports to board game nights;\nbreakout areas and solopods.**Requirements**:\n• You have strong commercial iOS development experience with Swift (and likely to have a background with Objective-C)*You're collaborative with excellent communication skills*Ideally you will also have an understanding of Android app developmentAs an iOS Developer you will earn a competitive salary (to £80k) plus benefits.",
+            "apply_options": [
+                {
+                    "title": "Jobtome",
+                    "link": "https://uk.jobtome.com/job/ios-developer-swift-cybersecurity/291677227c223e3decb588fece3a1997?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJb3MgRGV2ZWxvcGVyIFN3aWZ0IC0gQ3liZXJzZWN1cml0eSIsImNvbXBhbnlfbmFtZSI6IkNsaWVudCBTZXJ2ZXIgTHRkLiIsImFkZHJlc3NfY2l0eSI6IkNhbWJyaWRnZSwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6Img2cHNXRVNzMG1nd0ZWOWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Admiral Careers",
+            "location": "Cardiff, United Kingdom",
+            "via": "Nexjob.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=tqtWTh0xCP-UE5RRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7CE43V21EcNGpKAg6OBTnkjbX9CS9C7kgfRKfV7v8fPAX31WxaZBJEtCzgSt-MEjEBDu4SweKNvUjCMNNxAdcn8eco56MUQ2V12wz9VUvkxHGTmbzlk6XtDrahDHYjO3huJ-ryL4sazdRsgEu_4dJgXiho2HYwospo4MHsXcy_QB-q4c_mQAAAA&shmds=v1_AUFQtOM0WOF-J5gPUFrygNYBz5AYMlQKwrx_kt1sXYJRPT3IfQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=tqtWTh0xCP-UE5RRAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We’re looking for Senior iOS Developers to join our team and bring our existing app in house. Over the next 18 months, we’re transitioning towards an App-first approach and need strong iOS engineers to support this transition.\n\nAbout Veygo\n\nVeygo was founded 6 years ago – part of the pioneering incubation venture ‘Admiral Pioneer’ - created to seed and launch exciting scale ups to disrupt existing marketplaces.  \n\nVeygo has so far seen an impressive 50% YoY growth. We currently provide our customers with temporary and learner car insurance - products designed to make life easier for those wanting to share or borrow cars, insure their own car for a short amount of time, or for people learning to drive. \n\nWhat Makes Veygo Different?\n• We’re building flexible policies for learner drivers and people looking to share cars – whether owned or borrowed.  \n• Veygo provides comprehensive cover to those customers, meaning that the car owner’s existing insurance policy and no claims bonus is safe if the person borrowing the car has an accident. \n• All Veygo’s insurance is available by the hour, day, week or month and customers can get a quote in minutes.   \n• All backed by Admiral, voted Best UK Car Insurance Provider six years in a row by The Personal Finance Awards.  \n\nWhilst our mission today is to put people in control of their own journey our ambition is to create a youth lifestyle brand that take us beyond car insurance. Disruption is in our DNA and we’re always relentlessly looking for collaborative self-starters and innovators with the desire to challenge how we do things today; to push the boundaries and drive us through our onward growth journey. Veygo’s culture is vibrant, open, creative, and disruptive.\n\nWho You Are\n• Proven experience as an iOS engineer, with a significant portion of that experience at a senior level in fast-paced, consumer-focused companies\n• Proven track record of successfully delivering and scaling iOS applications with a large user base\n• Strong proficiency in Swift, SwiftUI and deep understanding of iOS frameworks and APIs\n• Strong experience with CI/CD & frequent release cadence\n• Experience with architecting and implementing complex mobile app architectures, including data modeling, networking, caching, and synchronization\n• Ability to make informed technical decisions, considering factors such as performance, scalability, and user experience\n• Excellent problem-solving and debugging skills, with a passion for writing clean, efficient, and maintainable code\n• Strong leadership skills, with the ability to mentor and inspire other engineers\n• Experience with cross-functional collaboration and a collaborative mindset towards achieving shared goals\n• Strong communication skills, both verbal and written, with the ability to effectively convey complex technical concepts to both technical and non-technical stakeholders\n• Proactive and self-driven, with the ability to take ownership of projects and drive them to completion\n• Be comfortable operating in a scrappy environment, which will have you working deep in the code, but also reporting upwards simultaneously\n\nWhat The Job Involves\n• Collaborate closely with product, design, and other cross-functional teams to define and drive the technical roadmap and architecture for the Veygo iOS application\n• Lead the development of complex features and architectural enhancements, ensuring scalability, performance, and maintainability of the iOS app\n• Mentor and provide guidance to other engineers, fostering their technical growth and helping them deliver high-quality code\n• Conduct thorough code reviews, ensuring adherence to best practices, code standards, and design principles\n• Continuously improve the iOS development process by introducing new tools, frameworks, and methodologies\n• Continuously work with backend, frontend and leadership teams enhance the Veygo iOS App Design\n• Work with backend teams to design and implement efficient APIs and interfaces\n• Stay updated with the latest advancements in iOS development and proactively identify opportunities to leverage new technologies and frameworks\n\nPlease note: this is a hybrid role based in our Cardiff office once-twice a week.\n\nSalary, Benefits and Work-Life Balance\n\nAt Admiral, we are proud to be a diverse business where we put our people and customers first. We have great benefits to ensure employees have a great work-life balance; it's one of the reasons we’re consistently voted one of the Sunday Times Best Big Companies to Work For in the UK.\n\nAll colleagues will receive 33 days holiday (including banks holidays) when they join us, and this will increase with length of service, up to a maximum of 38 days (including banks holidays). You also have the option to buy or sell up to five days of annual leave in addition to your allocation.\n\nYou can also view some of our other key benefits here\n\nOur Commitment to You\n\nAt Admiral, we are committed to being a diverse and inclusive workplace. Admiral is proud to be an equal opportunities employer and does not discriminate on the basis of race, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), national origin, gender, gender identity, sexual orientation, disability, age, or any other legally protected status.\n\nAll qualified applicants will receive equal consideration.\n\n#LI-IM1 #LI-Veygo",
+            "apply_options": [
+                {
+                    "title": "Nexjob.com",
+                    "link": "https://search.nexjob.com/AdmiralCareers-7254F963-B4C0-4142-A035-D7CB1472ADF4-AdmiralGroup-8453/Senior%20iOS%20Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFkbWlyYWwgQ2FyZWVycyIsImFkZHJlc3NfY2l0eSI6IkNhcmRpZmYsIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJ0cXRXVGgweENQLVVFNVJSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "IOS Developer SwiftUI (Remote)",
+            "company_name": "VitraCash",
+            "location": "London, United Kingdom",
+            "via": "Remote Worker",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=VyguNFtWn34ieDreAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU4HLiraiNBFRwWpCoKlriVtzySS3oXk0P6Kfyu-4WXfSVaUtwqO-EbPASNUH_eUuoT5HQcWXMAaztxCQh07C0xwYjYep3srEtJOqZR8bpJocV3e8aCYsOVRvbhN_5pkdcTgtWCzLTZjHsgsZw8nUR90suAIrkw90wpqcoI9XByZnocfm9ZvJJwAAAA&shmds=v1_AUFQtOMg8wjSSSjsdYU2mTtAsUL89W28WPAaT2Bjx0pMhHf2sg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=VyguNFtWn34ieDreAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c582fc851d5a3bd396881de676adc055e66e18ffc91cc48c56bb.gif",
+            "extensions": [
+                "20 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "20 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About VitraCash We love the convenience of cashless payments, but using your credit cards while travelling proved to be quite a hassle. As every card has so many pros and cons, it has become nearly impossible to keep track of all the benefits and hidden fees.\n\nVitraCard aims to offer an app alongside physical and digital debit cards to combine all cards a customer owns. For every transaction our AI-driven algorithm will automatically select the best card.\n\nWe are a small and fully remote team and the founders are still very involved in the technical development of the company.\n\nRequirements\n• Significant experience in developing native iOS applications with Swift (Ideally with SwiftUI)\n• Experience in at least one other programming language\n• Worked with or have a strong motivation to work with SwiftUI, iOS Design Patterns, Kotlin Multiplatform, and more\n• Experience with automated testing\n• Experience working on agile projects\n• An excellent standard of written and spoken English\n\nWe are currently searching for developers within the EU timezones; GMT, +1, +2, +3.\n\nThis is currently a must-have requirement.\n\nWhat you'll be doing\n• Developing next-generation financial applications to make our customers' lives better\n• Working with the newest technologies available\n• Applying Agile and Lean principles in your work\n• Collaborating with other developers through GitHub pull requests and code reviews\n\nBenefits\n• Independent, self-managed working with responsibility as part of a small team of top developers\n• Startup atmosphere\n• Global Health Insurance\n• 4 weeks of paid vacation\n• Remote working\n• Flexible work times\n• Expense allowance\n• Up to 95 000 a year",
+            "apply_options": [
+                {
+                    "title": "Remote Worker",
+                    "link": "https://www.remoteworker.co.uk/jobs/356084100-ios-developer-swiftui-remote-at-vitracash?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIFN3aWZ0VUkgKFJlbW90ZSkiLCJjb21wYW55X25hbWUiOiJWaXRyYUNhc2giLCJhZGRyZXNzX2NpdHkiOiJMb25kb24sIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJWeWd1TkZ0V24zNGllRHJlQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "iOS Swift Developer",
+            "company_name": "eTeam Inc.",
+            "location": "London, United Kingdom",
+            "via": "Eteaminc.jobs.net",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=FGOV1ImIuqAxgBa9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CE43OBVNRHDRVRB_wKE6lzQ9k0h6F3qH9i18ZfEbvuo7q-p0a6D5pKfCAd-YueAIKzhzB4Ju9BGY4MgcMs73UbXIzlqRbIKo0-SN58EyYceTfXEn_1qJbsSSnWK72a4nUyjUC7yjG-BE3kAiuDL1TEt4UFLs4ZIo9Dz8ALQZmKGSAAAA&shmds=v1_AUFQtOO9Vu25x_wHmb1ZP_way_vvSDsP1ckmGL9Dn3zek2XGgA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=FGOV1ImIuqAxgBa9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c582965ab15d7a780f6780561b8844ea5e95232697527c2f580c.gif",
+            "extensions": [
+                "26 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "No of years experience\n7+ years as iOS Swift\n\nDetailed job description - Skill Set:\nGood communication skills .Experience as iOS Swift implementation by working closely with business teams and having key skills to resolve challenges ;Responsible for Implementation , testing , deployment in iOS mobile application\n\nMandatory Skills\niOS (Swift)\n\nGood to Have Skills\nAgile Scum Methodologies",
+            "apply_options": [
+                {
+                    "title": "Eteaminc.jobs.net",
+                    "link": "https://eteaminc.jobs.net/job/J3S5TZ73LRJ34S7X56P?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Search Job For Free - Post Job",
+                    "link": "https://new-zealand.callcenterjob.co.in/ios-developer-swift-london_894342?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU3dpZnQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiZVRlYW0gSW5jLiIsImFkZHJlc3NfY2l0eSI6IkxvbmRvbiwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6IkZHT1YxSW1JdXFBeGdCYTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Senior iOS Developer (Remote)",
+            "company_name": "Neybox Digital",
+            "location": "Anywhere",
+            "via": "Wellfound",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCQAwAUFz7CU4ZVbAnoouuBUFBweJcrm24Rq7JcQlSP8T_VZc3veIzK3Y1MkkGutVQ4QujJMywuOMohktYw1laUPS5G0AYTiIh4vw4mCU9OKcay6Dmjbqyk9EJYyuTe0qrfxodfMYUvWGz3W-mMnFYwRXfvwQVBTIfgRgeTIY9XIhDL-MXIZL0xpgAAAA&shmds=v1_AUFQtON-IG92i48rchoS6fHJxlj2DlkCF79EYa-lovvDCczCyA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c5820edac0192dc1a85635a8df1a264f9bbec9e192555c7e1923.gif",
+            "extensions": [
+                "24 days ago",
+                "80K–120K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "80K–120K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 What's the position?\n\nThis is a Full-time Senior iOS Developer position at Neybox for talented individuals who want to work on cutting-edge applications that positively impact the well-being of individuals worldwide.\n\n💫 What will I be working on?\n\nYou'll be working on our two apps: Pillow, a sleep-tracking app, and Today, which is a quantified-self wellness app.\n\nBoth apps have won an Editors' Choice distinction and have been featured multiple times in press and media. They have millions of users worldwide and a great roadmap ahead.\n\n🧑‍💻 What will be my role and responsibilities?\n\nAs a senior developer you will be responsible for\n• Building new features\n• Fixing bugs\n• Maintaining the existing codebase\n• Writting Unit Tests for existing and new features\n• Making sure the documentation of the project is accurate and helpful\n• Doing research on new technologies and frameworks\n• ⚠️This is a position that requires a commitment of 40 hours per week. This is not a part-time position.\n\n🛠️ What's the tech stack?\n\nIn a nutshell:\n\nBoth our apps are written in Swift (MVVM and MVC).\n\nThe UI is written in SwiftUI and UIKit.\n\nWe write Unit Tests; the code is clean and well-documented.\n\nWe make extensive use of various frameworks and machine learning.\n\nBoth apps are available for iOS only.\n\n🌍 Can I work remotely?\n\nOf course! Our team is 100% remote. We have flexible working hours, but a good overlap between our time zones is required.\n\n🙌 What is it like working at Neybox?\n\nOur team is small by design (6-8 people). However, we work closely together every day (Mon-Fri). For coordination, we use Slack and Jira and keep meetings at a minimum.\n\nThere's no middle management to get in the way, and we encourage new ideas and close collaboration.\n\n💼 What are the requirements?\n• 4+ years of iOS development experience in Swift\n• Experience in HealthKit, CoreML SwiftUI, UIKit, Core Animation, GCD, Core Data, and WatchKit.\n• Experience working with Git version control, Unit testing, and Continuous Integration\n• Experience in performance profiling with Instruments on Xcode.\n• Proficient use of English, both writing and speaking.\n• Willingness to learn and experiment with new technologies.\n• References from previous employers in written or spoken form may be required from previous employers.\n• Proficient in usage of MacOS and iOS.\n\n📥 Great! How can I apply?\n\nJust hit \"Apply\" button below!\n\n⚠️ Please note that this is the only acceptable way to apply. All other ways of contacting Neybox about the position (social media, LinkedIn, email etc.), will result in immediate rejection.",
+            "apply_options": [
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/2604342-senior-ios-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/-6598440506116100990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pangian",
+                    "link": "https://pangian.com/job/senior-wordpress-developer-remote-65/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik5leWJveCBEaWdpdGFsIiwiYWRkcmVzc19jaXR5IjoiVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6IkUyU0NyZjlacU1YZ1RuNkFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "iOS Engineer",
+            "company_name": "Bloom & Wild",
+            "location": "England, United Kingdom",
+            "via": "Theround",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=6QJM6F87y3z5Y7qjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU4HgoJoI4JL3QQRdHAQcSxpc6Qnl7vQy9B_8Kely1tf9VtUK3q-4CqRBHGEPdy1A0M_9gOowE01Mi7PQynZGufMuI5WfKG-7jU5Fex0cl_tbKa1wY-Y2Rdsj6fDVGeJ282FVROs4UMcgGTe2EvYwVuoYIAHSQya_gEtQv2OAAAA&shmds=v1_AUFQtOPhICPbawq2kA1QqE_BehDkDi6rOrV_FSXqxmUgjK-k8g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=6QJM6F87y3z5Y7qjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505f213ac987093346777/images/ffbffea4f587c5826bbf13cb79b28c4a9e870f21b680cd3e1f6c7ac3cf3581e1.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hi, we’re Bloom & Wild. Founded in 2013, our mission back then was to make sending and receiving flowers the joy that it should be, by harnessing technology, brand and letterbox delivery. Together, we’ve fulfilled over 20 million deliveries (and counting!), making us the largest direct to consumer flower business in Europe.\n\nWe announced £75 million Series D funding in 2021 and that same year acquired bloomon in The Netherlands and Bergamotte in France. Now in 2024 home to a family of 3 beautiful brands, we have reached profitability and are looking into expanding our gifting offering to other categories like cakes, candles and cocktails. This is all part of our ambition to build Europe's #1 direct to consumer gifting destination.\n\n⚙️Technology at Bloom & Wild\n\nOur Technology team of over 60 people sits right at the heart of our business. We build and maintain the solutions that power e-commerce, production and fulfilment, enabling our brands to delight our customers every day.\n\nThe Engineering team is six, cross-functional, Product Engineering squads, who each own their own business and architectural domain and are supported by our Platform, Architecture, Data and IT teams.\n\nOur platform uses technologies including Ruby and Rails and Python/ React. It exposes APIs that are used by our multi-brand Angular web app and our native iOS and Android mobile apps. On iOS specifically we are migrating into Clean Architecture and SwiftUI.\n\nMost of our team is based in the UK or The Netherlands and works in a flexible model, with choice in how often they travel to the office. Our squads meet all in person at least once per quarter in order to maintain connections, collaborate on larger projects and have fun together.\n\nYou can read lots more about our technology stack and our culture over on our tech blog - Code Wild\n\n💻 What you’ll be doing\n• You’ll play an active role in delivering the roadmap for the Apps squad and be a key part of our Engineering team.\n• Collaborating with other engineers, designers, product managers and stakeholders as you work together to scope out what to build and how.\n• Owning feature development from ideation through to production release and ongoing maintenance, using an iterative approach to validate ideas and learn.\n• Being a part of our supportive engineering culture as you learn more, and grow your career, within Bloom & Wild Engineering\n✅ You’ll love this role if you… (What excites us)\n• Are proficient in Swift and SwiftUI and have basic knowledge about UIKit , gained through around 2 years experience in a product (share other projects if possible).\n• Have a quality mindset and a passion for writing clean code so you spot good opportunities for improvements.\n• Have used approaches such as Clean Architecture or MVVM before.\n• You understand the reason behind architecture and understand when to apply it.\n• Understand the importance of practices such as version control and CI/CD, and have used industry recognised tools to follow them.\n• Have a positive and optimistic attitude - you overcome setbacks and obstacles, and inspire and motivate those around you too.\n• Take a collaborative, data-driven and experimental approach to solving complex problems, and are able to demonstrate the ability to foster this mindset in your colleagues.\n• Are keen to learn and stay up-to-date with the latest technologies and value sharing your knowledge with your peers.\n\nIt would be great if you also have...\n• Some basic knowledge about Objective C.\n• Some knowledge in Android development or open to learn about it (Kotlin, Jetpack Compose).\n• Experience working on an e-commerce app\n\nThese are some of the skills and experience we think will enable success in this role, but please don’t worry if you are missing some of these. We’re committed to building a team made up of different strengths, skills and experiences, so if you’re excited about our values, passionate about what you do and would like to join us in doing things more thoughtfully, we’d love to hear from you.\n\n🌟 (some of) The good stuff\n\nTo care wildly for our customers, firstly we care wildly for our teams. We work hard to craft a culture of thoughtfulness and care, where there is a strong sense of inclusion and belonging, enabling all of our people to thrive and be successful each day.\n\n🌻 Work that works for you\n\n- Flexible working : our core hours are 10-4, but outside of these hours you can start or finish your day when works best for you\n\n- Work Abroad for up to 30 days each year\n\n- Share in our success with a choice to take equity options\n\n- Enhanced family leave policy and a workplace nursery scheme\n\n- 1 day per year to volunteer on a project that’s close to your heart\n\n🌴 Time off\n\n-25 days’ holiday + your birthday and bank holidays each year\n\n- Flexible bank holidays - trade a bank holiday for another day that fits your beliefs, values and celebration calendar\n\n- Option to buy an extra 5 days’ holiday each year\n\n🌱 Health and wellbeing\n\n- Health cash plan through Simplyhealth\n\n- Company pension scheme\n\n- Mental health support through Open Up, including access to online therapy sessions\n\n- Allies and champions groups\n\n- Mental Health First Aiders and awareness training for our managers\n\n- In person or virtual yoga every week\n\n- Cycle to work scheme\n\n- Our office kitchen is stocked with drinks and snacks to keep you going\n\n- Financial wellbeing support through Bippit\n\n- Electric car scheme\n\n🌳 Growth & Development\n\n- A flexible training framework for every stage of your career development through our Bloom & Learn programme\n\n- Access to the Goodhabitz learning platform\n\n- Mentee and mentor opportunities with our external partners, such as The Women's Association and Mentoring for Growth run by Future FoundersInternal & external Speaker Sessions on a variety of different inspirational topics\n\n💐 Moments that matter\n\n- Social & wellbeing monthly calendar\n\n- Summer and End of Year events, team lunches and post-peak celebrations\n\n- Irresistible discounts on our products, blooms & subscriptions!\n\n🏡 Belonging at Bloom & Wild\n\n- We know that we learn through our differences, and building a diverse team has always been central to creating the best experience for our customers. We value all backgrounds, perspectives, ideas and experiences, and encourage everyone to share their opinions openly within our caring and inclusive team. Our champions community actively advances our culture of inclusion and belonging, which is organised around 8 pillars of diversity. These cross-business networks offer additional opportunities for connection, education, support and celebration, and ensure that inclusivity continues to be embedded in our ways of working.\n\n🫱‍🫲 Getting hired\n\nWe’ll do everything we can to make sure your interview experience with us is a good one. It’s a 2-way process, and we’re keen to answer all of the questions you may have, so that you can be sure (and excited!) that we’ll be the right place for you.\n\n- Apply below (it takes 2 minutes!)\n\n- Chat with Billy, our Senior Talent Manager for tech - to discuss our role and learn a bit more about your skills and background and how we might match your career & development goals.\n\n- Complete our technical take home task.\n\n- Show us how you worked through the technical challenge with Aleksandar, one of our Engineering Managers and Dalia, one of our Lead iOS Engineers.\n\n- A chat with some of the members from the product team\n\n- Final chat with Kev, from our Tech leadership team.\n\nWe believe in leading change for good, so if there’s anything that we can do to help throughout your application process, or if you have any feedback, please share this with us anonymously here so we can use this to improve your experience.",
+            "apply_options": [
+                {
+                    "title": "Theround",
+                    "link": "https://www.theround.com/bloom-wild-jobs2/ios-engineer/280ef74f-c1e1-42a0-b0b7-933a1af34d92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJCbG9vbSBcdTAwMjYgV2lsZCIsImFkZHJlc3NfY2l0eSI6IkVuZ2xhbmQsIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiI2UUpNNkY4N3kzejVZN3FqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "iOS Developer - Receive & Business Onboarding",
+            "company_name": "TransferWise",
+            "location": "London, United Kingdom",
+            "via": "Meritocracy",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=2SnEetYtHVS2ipasAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQrCQBBAYWxzBKupUogmIthoJwFBhYA_WIZNMm5GNjPLzhpyJy9pbF7zFS_5zpKCyhsUOKATjwFWcMUGaUBI4fBRYlSFkmsxoSW2k5-kBkUTmg6E4ShiHc73XYxed3mu6jKr0URqskb6XBhrGfO31PpPpZ0J6J2JWG226zHzbBfpPRjWF4YnKQIxXIRb4SU8mCK2cJ7GrfQ_6AXDk64AAAA&shmds=v1_AUFQtONUhEu0kMBoqIpgaAsvKX2AOqhqmO64U_CHTIWmb6ynUg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=2SnEetYtHVS2ipasAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got 12 million customers across the globe and we’re growing. Fast.\n\nCurrent banking systems don't let us send, spend or receive money across borders easily. Or quickly. Or cheaply.\n\nSo, we’re building a new one.\n\nAnd, we need a seasoned iOS developer to join our mission and help provide our customers with the best mobile experience possible.\n\nThe tribe you’ll be working with: Receive & Business Onboarding\n\nLocated within our Receive & Business Onboarding tribe, the receive squad is responsible for the core pay in product at Wise. We are rapidly growing our offering and are looking for someone to join our team. We have recently launched receiving money by payment links and have plenty of exciting projects in the pipeline.\n\nAs well as being an integrated part of a product team, you will get the opportunity to work across the receive squad, so you will get the chance to learn about many parts of the wider Wise product.\n\nWhat does it take?.\n• A passion for technology, product and user experience\n• A broad understanding of the concept of MVP (minimum viable product) and conversion rates\n• The ability to work independently and plan your own solutions to problems\n• Thinking from the customer perspective and putting them at the heart of everything you do\n\nIs that you?\n• Experience with building iOS apps that delight users\n• A passion for product quality and user experience, attention to detail\n• Knowledgeable about product engineering (or have the desire to learn it)\n• Ability to both collaborate effectively across teams and solve problems independently and proactively\n• Great communication skills and the ability to articulate complex, technical concepts to non-technical audiences\n• Full-stack iOS development (we work in small teams, each with one or two mobile engineers, so you’ll be in charge of a feature from API to UI)\n• Know SOLID ways to implement clean architecture, writing readable code that is testable (we currently work with VIPER but are continuously evaluating the latest architectures/methodologies - SwiftUI and Combine are nice to have)\n• We value experience with state-of-art technologies, but we value eagerness to learn them even more\n\nWhat does success look like?\n• You’ll understand our customers and drive the growth of our mobile users\n• You’ll be building new tools for customers so they can resolve payments without contacting us\n• You’ll be helping us ensure reliability of our app\n• You’ll be working to reduce the number of contacts to our customer support due to app problems\n• You’ll have onboarded and found your place through understanding your team and tribe vision and how you can contribute\n\nWhat you get back:\n• The autonomy to solve problems your way\n• The freedom to have real impact\n• Loads of development opportunities\n• A fun work environment with social activities and events\n\nFind out more about our benefits in our London office.\n\nInterested? Find out more:\n•",
+            "apply_options": [
+                {
+                    "title": "Meritocracy",
+                    "link": "https://meritocracy.is/de/transferwise/ios-developer-receive-business-onboarding-86353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gUmVjZWl2ZSBcdTAwMjYgQnVzaW5lc3MgT25ib2FyZGluZyIsImNvbXBhbnlfbmFtZSI6IlRyYW5zZmVyV2lzZSIsImFkZHJlc3NfY2l0eSI6IkxvbmRvbiwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6IjJTbkVldFl0SFZTMmlwYXNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Collinson",
+            "location": "London, United Kingdom (+1 other)",
+            "via": "Collinson Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=8p6cvn_KYCdnm4SkAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAGYFz7CE4HOokmIrjYUUFQwUGcS9IeaSS9P_SC9BF8bHX5xq_6zKplvD_oxG9OyDzShi7wpOzGticInYGQeF73pWQ9WKuaTNDiSmxNi8FC2GOyL3j902jvRs7JFW52--1ksoTV4oiUouivi0I3SAdZ01Ni4Y6uUUKH4QtKjK1GiwAAAA&shmds=v1_AUFQtONuAF6zz5ErVzS03KdvvYpTXHYbKYQC8XyEYk7maujLeg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=8p6cvn_KYCdnm4SkAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Key responsibilities:\n\n•Design and build advanced applications for the iOS platform.\n\n•Collaborate with cross-functional teams to define, design, and ship new features.\n\n•Maintain and improve existing codebase, focusing on continuous integration and deployment strategies.\n\n•Work on bug fixing and improving application performance.\n\n•Ensure the best possible performance, quality, and responsiveness of the application.\n\n•Integrate with third-party libraries and APIs, ensuring seamless functionality.\n\n•Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\n•Coordinate with the design team to ensure UI/UX best practices are followed.\n\n•Address any security vulnerabilities and work to ensure a secure app environment.\n\n•Stay updated with the latest mobile trends, architectures, and emerging technologies.\n\nKnowledge skills and experience:\n\n•2-6 years of strong design/development experience overall, with 2+ years of mobile development experience\n\n•You have hands-on experience building mobile applications using Swift, and solid understanding of iOS app design principles, patterns, and best practices.\n\n•You care about user interaction, usability, and of course, making the interface beautiful.\n\n•Good knowledge of architectural design patterns such as MVVM and MVP, and proven experience ensuring modularized and scalable app architecture.\n\n•You have experience with Cocoapods dependency management in iOS apps\n\n•You strive for clean code and know how to write flexible tests that won't break and have experience with different test strategies, such as unit, snapshot etc.\n\n•Good knowledge of design patterns mostly used in mobile development (dependency injection, observers etc)\n\n•You love coding and take the time to reflect on all aspects of your implementation, be it the frameworks, languages or processes.\n\n•Ability to take ownership and drive the development of exciting and impactful new features and products.\n\n•A genuine passion for writing well-structured, readable, and maintainable code\n\n•You thrive in a team where you can learn and try new tech, collaborate on technical challenges and grow as a team.",
+            "apply_options": [
+                {
+                    "title": "Collinson Careers",
+                    "link": "https://www.collinsongrouptalent.com/jobs/5081808-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://in.linkedin.com/jobs/view/ios-developer-at-enpointe-india-4104138298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/FiniteHRConsulting/88289913-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cutshort",
+                    "link": "https://cutshort.io/job/iOS-Developer-Mumbai-COUTLOOT-26n0GOUB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Instahyre",
+                    "link": "https://www.instahyre.com/job-293902-ios-developer-at-neosoft-technologies-mumbai/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Foundit.in",
+                    "link": "https://www.foundit.in/job/ios-developer-go-digital-technology-consulting-llp-mumbai-33003425?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Zigsaw",
+                    "link": "https://www.zigsaw.in/jobdetails?apply=28924&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.co.in/job-listing/ios-developer-squartech-JV_IC2851180_KO0,13_KE14,23.htm?jl=1005709861749&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ29sbGluc29uIiwiYWRkcmVzc19jaXR5IjoiTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiOHA2Y3ZuX0tZQ2RubTRTa0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUamc0WDBKMVVsVXlTbTVpVVdka1JqWm5TSGRLTFdNdFltVlBhMUp1YTFGc01HYzBaVk4xVTFScFRHcE5aSE00V1ZObVozZElaemxHYjBzNVlqbEhRVU5TTkVKSldISkNaVU42YnpBM1ozWjZZVlJZZVhKWldEaHFkSEpxVjIxRWVtbDJjVmxRTUVsTFVqaDZZelZxVWpnNE9TMTRZVzFHU0V0bFpGZGhhV1pKU0U5M2VrSXhTREozUmxCUGQwWmZjM1prUldwS1JUbGFXRGR0VFhGbFlYRmhkRmxPZW5VMmFFOVNUVFF6U0dsek1GVjRjRWRDVVRscFRGZGhabEpZV2tJNWRWaDNjMFpzTlhCWWNsRnVRV1puYm1Gb1dUZFJTVzlqUkY5c1pURlBaWGxuTmtWWmFHaFZlVzFuZDI1SGVXbENNelJKWWxKc1FVaFBiazlZYmpRd01qSXRhQklYT1dkWFJsbzJURkpMTkY5YWExQkpVRFYwTTFkdFVYTWFJa0ZHV0hKRlkzRk5hbHBDY21GTVJrdGlOVWQzUXkxaVJtNVdWMGhuVVV3MVMzYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+Kingdom&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUamc0WDBKMVVsVXlTbTVpVVdka1JqWm5TSGRLTFdNdFltVlBhMUp1YTFGc01HYzBaVk4xVTFScFRHcE5aSE00V1ZObVozZElaemxHYjBzNVlqbEhRVU5TTkVKSldISkNaVU42YnpBM1ozWjZZVlJZZVhKWldEaHFkSEpxVjIxRWVtbDJjVmxRTUVsTFVqaDZZelZxVWpnNE9TMTRZVzFHU0V0bFpGZGhhV1pKU0U5M2VrSXhTREozUmxCUGQwWmZjM1prUldwS1JUbGFXRGR0VFhGbFlYRmhkRmxPZW5VMmFFOVNUVFF6U0dsek1GVjRjRWRDVVRscFRGZGhabEpZV2tJNWRWaDNjMFpzTlhCWWNsRnVRV1puYm1Gb1dUZFJTVzlqUkY5c1pURlBaWGxuTmtWWmFHaFZlVzFuZDI1SGVXbENNelJKWWxKc1FVaFBiazlZYmpRd01qSXRhQklYT1dkWFJsbzJURkpMTkY5YWExQkpVRFYwTTFkdFVYTWFJa0ZHV0hKRlkzRk5hbHBDY21GTVJrdGlOVWQzUXkxaVJtNVdWMGhuVVV3MVMzYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

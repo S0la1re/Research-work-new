@@ -1,0 +1,81 @@
+{
+    "search_metadata": {
+        "id": "678505e1a2d4b2fe28547cc8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8f62b3f5336535ca/678505e1a2d4b2fe28547cc8.json",
+        "created_at": "2025-01-13 12:24:01 UTC",
+        "processed_at": "2025-01-13 12:24:01 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICIGU3dlZGVu&udm=8&fc=ErcCCvcBQUpHOUprTUxZSGpmeDlSWEE1TS01RFNFb3lKSkU3U3NvOXAzc01Ld1RxZHR1b2lEaUctdnhuQ1BqZFJscXJEelJYUHFZY3RkUWhtUkU0ZW1Wa1d1SE1qbG1ONV9ySlZmOUR1OGplWjV4cWxfYVJocjU5YVhhemdXNTJXTU1wdGFBaWFFM2c5NFJWUWN4X3NvbzBHS3ZMeVF1cS1FVTM2Z1d4SGZJeTQ4U2JQeEtyWV9fWHFOdVBIS19vdkxfMUZBaGtPUVE2aXUtenJVbEJ2d015Zy1CY19oVVlnaElVbXZla2NYdGRmc3czWXNCZHZXUnRBQllqYxIXNEFXRlo2U1RKOFdPd2JrUGhJWDM4QXcaIkFGWHJFY3FUbkJqMlJrbDFwX2NXelJNUGlqb25ZTF8zNmc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/8f62b3f5336535ca/678505e1a2d4b2fe28547cc8.html",
+        "prettify_html_file": "https://serpapi.com/searches/8f62b3f5336535ca/678505e1a2d4b2fe28547cc8.prettify",
+        "total_time_taken": 1.17
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Sweden",
+        "location_used": "Sweden",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVyY0NDdmNCUVVwSE9VcHJUVXhaU0dwbWVEbFNXRUUxVFMwMVJGTkZiM2xLU2tVM1UzTnZPWEF6YzAxTGQxUnhaSFIxYjJsRWFVY3Rkbmh1UTFCcVpGSnNjWEpFZWxKWVVIRlpZM1JrVVdodFVrVTBaVzFXYTFkMVNFMXFiRzFPTlY5eVNsWm1PVVIxT0dwbFdqVjRjV3hmWVZKb2NqVTVZVmhoZW1kWE5USlhUVTF3ZEdGQmFXRkZNMmM1TkZKV1VXTjRYM052YnpCSFMzWk1lVkYxY1MxRlZUTTJaMWQ0U0daSmVUUTRVMkpRZUV0eVdWOWZXSEZPZFZCSVMxOXZka3hmTVVaQmFHdFBVVkUyYVhVdGVuSlZiRUoyZDAxNVp5MUNZMTlvVlZsbmFFbFZiWFpsYTJOWWRHUm1jM2N6V1hOQ1pIWlhVblJCUWxscVl4SVhORUZYUmxvMlUxUktPRmRQZDJKclVHaEpXRE00UVhjYUlrRkdXSEpGWTNGVWJrSnFNbEpyYkRGd1gyTlhlbEpOVUdscWIyNVpURjh6Tm1jIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Developer Advocate",
+            "company_name": "RevenueCat",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=x9TMiPpQlZ0Clmm_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVw7OzndLJgUwUUnURAc7QOUJD2SSrwLubP2BXxv6_KP3998V03bIY1c4YoTZi5Y4TxMHJwi7ODOHgRdDQmY4MYcM25OSbXI0VqRbKKo0zGYwC_LhJ5n-2Qv__SSXMWSF6rfH9rZFIrb9WP50BsvTmEk6D44IP0Amhd2MYgAAAA&shmds=v1_AUFQtOM5xfb7xUbXl-1LNn8OdORrQgGc4V-qPrnmln54nfvLvw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=x9TMiPpQlZ0Clmm_AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505e1a2d4b2fe28547cc8/images/f669693ff55ca32a00a0e6c8dcd7010d06814ec7a59fbee48ac52b55cdc3d59c.gif",
+            "extensions": [
+                "212K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "212K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: United States, EMEA\n\nAbout us:\n\nRevenueCat makes building, analyzing, and growing mobile subscriptions easy. We launched as part of Y Combinator's summer 2018 batch and today are handling more than $4B of in-app purchases annually across thousands of apps.\n\nWe are a mission driven, remote-first company that is building the standard for mobile subscription infrastructure. Top apps like VSCO, Notion, and ClassDojo count on RevenueCat to power their subscriptions at scale.\n\nOur 80 team members (and growing!) are located all over the world, from San Francisco to Madrid to Taipei. We're a close-knit, product-driven team, and we strive to live our core values: Customer Obsession, Always Be Shipping, Own It, and Balance.\n\nThe Role\n\nRevenueCat helps apps of all shapes and sizes make more money across mobile, the web, and other platforms like Roku and Amazon. As a result, many different types of users log in to – and use – RevenueCat on a day-to-day basis. Product managers, support reps, lifecycle marketers, user acquisition specialists, data analysts, executives: The list goes on.\n\nNone of those users would make it onto RevenueCat unless a developer implements it first. And for smaller apps, developers are these users: They do the marketing, provide support, interpret the performance data, make pricing and packaging decisions, and more.\n\nWe’re looking for a Senior Developer Advocate to help ensure these developers are successful when using RevenueCat. You’d join forces with our current Advocate, and guy you might have seen walking around Seoul in the rain, Charlie Chapman. We’re specifically looking for someone with strong skills in producing written educational content targeted at developers that is technical but engaging. Your work will educate existing RevenueCat users, attract new search traffic, and position RevenueCat as the go-to resource when implementing in-app purchases across platforms.\n\nWhat you’ll be responsible for\n\nYour primary responsibility will be creating high-quality, developer-focused content focused on monetization and in-app purchases. This includes both scenarios where developers use RevenueCat to solve for these use cases, as well as alternative implementations.\n\nExamples of the type of content we’d expect you to produce include blogpost with titles like:\n• \"Migrating a native subscription app to Flutter: A step by step plan\"\n• \"Implementing your first subscription with RevenueCat: Disable ads for paid users\"\n• \"How to detect and highlight the platform of purchase for cross-device subscribers\"\n• \"Adding a multi-tier subscription to your Expo app\"\n\nIn addition to writing, you’ll:\n• Speak at conferences, webinars, and other events to share insights and represent RevenueCat\n• Record videos and collaborate on webinars to help developers implement and succeed with RevenueCat\n• Work cross-functionally to develop resources that support developers using RevenueCat\n\nWithin the first month, you’ll:\n• Learn RevenueCat inside and out\n• Familiarize yourself with our developer community and how to engage them\n• Have produced your first pieces of RevenueCat content\n\nWithin the first 3 months, you’ll:\n• Collaborate with Charlie on a joint content strategy playing to both your strengths\n• Independently research and develop content to fill current gaps in our documentation and other educational efforts\n• Repurpose existing content into new formats (e.g., blog posts into videos) to expand our reach\n\nWithin the first 6 months, you’ll:\n• Represent RevenueCat at industry conferences and webinars, delivering talks and engaging with developers\n• Support product launches with technical content (written or video)\n\nAfter 12 months, you’ll have:\n• Become a fixture across the developer community, having become synonymous with RevenueCat and in-app monetization for Android, Flutter, and/or React Native\n• Found new and novel ways to help us engage developers (think Shipaton, App Store Rejection socks, and similar initiatives)\n\nAbout you\n\nYou’re passionate about teaching and helping developers thrive. You’re deeply experienced in app development, particularly subscription apps, whether as part of a team or through indie projects (preferably both).\n\nWhat you’ll need to be successful\n• 5+ years of experience in app development or developer-focused roles, ideally in a subscription app environment, with a deep understanding of at least one major mobile development platform (Android, Flutter, React Native preferred; iOS a strong alternative) and the ability to learn and write about others\n• Strong independent project management skills, with the ability to manage multiple content initiatives, events, and deadlines across time zones without constant oversight\n• Excellent technical communication skills, capable of translating complex technical concepts into accessible and engaging written, video, and spoken formats for developers\n• A passion for teaching and empowering developers, with the ability to create content that educates and inspires action, including blog posts, tutorials, and videos\n• Proven ability to learn and explain new technologies, with expertise in Android development, Flutter, or React Native preferred (experience with iOS development is a plus if paired with a demonstrated ability to adapt to and write about other platforms)\n• Proven experience in producing content for a developer audience, preferably in a professional capacity as a developer advocate, but we’d consider exceptional candidates that have written, recorded video, and have spoken at conferences targeted at developers as a hobby or side-project\n• Resourcefulness and adaptability, with a problem-solving mindset to navigate the challenges of engaging a global developer community\n• Outcome-driven approach, ensuring your efforts lead to measurable impacts, such as increased content engagement, developer onboarding, and community growth\n• Comfort with a fully remote, asynchronous work environment, and tools like Notion, Zoom, Slack, and Linear. You’ll need to thrive in an environment that balances collaboration with ample time for focused, deep work\n\nWe’re looking for someone who embodies our team’s core values of agency and intellectual curiosity: taking initiative, solving problems, and continually learning to better serve our diverse developer audience. Regular travel may occasionally be required for conferences, events, or team gatherings.\n\nWhat we offer:\n• $212,000 USD salary, regardless of location\n• Competitive equity in a fast-growing, Series C startup backed by top-tier investors, including Y Combinator\n• 10-year window to exercise vested equity options\n• Fully remote and flexible work environment\n• 4-5 weeks of suggested time off annually for mental, physical, and emotional recharge\n• $2,000 USD for workspace setup and $1,000 USD annual stipend for continuous learning\n\nCurious about the interview process? Discover more in our blog post about how we hire and learn tips to help you succeed.\n\nThis offer from \"RevenueCat\" has been enriched by Jobgether.com and got a 90% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/674cc14db10568bbc7b1e688-senior-developer-advocate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2ZWxvcGVyIEFkdm9jYXRlIiwiY29tcGFueV9uYW1lIjoiUmV2ZW51ZUNhdCIsImFkZHJlc3NfY2l0eSI6IlN3ZWRlbiIsImh0aWRvY2lkIjoieDlUTWlQcFFsWjBDbG1tX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVM2RsWkdWdSJ9"
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Scale3C",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQoCMQwA0P02V6eMItiK4qKjouB6H3C0NbQnMSlN1MOvV5fH6z7d4kxPM2xwwheS1N9WcJUIiqGlAsJwEcmE80Mxq7r3XpVcVgs2Jpfk4YUxyuTvEvXPoCU0rBQMh81uPbnKeTnrUyDcHmFk6N94Q_4CrN3xenwAAAA&shmds=v1_AUFQtONpoXUoXPu-8ULNCCTaCDUkfVckdRBwoloEPQuQYgKRzg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505e1a2d4b2fe28547cc8/images/f669693ff55ca32a09cb82bff533e23bb260dc6b07090a39b86baf018f14ce43.gif",
+            "extensions": [
+                "21 days ago",
+                "€192K a year",
+                "Work from home",
+                "Internship",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "salary": "€192K a year",
+                "work_from_home": true,
+                "schedule_type": "Internship",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union\n\nWho we are\nWe’re an award-winning development agency at the heart of Vilnius City with clients all around the world. Being a premier development agency we only work for the best, with the best. We specialize in web & mobile development and bespoke UX/UI design. No matter how big or small our client’s organization and budgets are, we’ve got a solution for them. This means you have a chance to work with both small and medium-sized businesses. We also provide outsourcing & outstaffing services to our clients.\nWhat we are looking for\nLooking for a Flutter developer for a full-time job as a contractor in our clients team.\n\nDay to Day\n• Flutter application development\n• Working together with other developers, project manager and UX/UI designer to build smooth & scalable app\n• Learn best software development practises with your colleagues\n• Contribute to quality by identifying spots of improvements\n• Experience with REST API, HTTPS\nYou are someone who has...\n• At least 2 years experience as a Software Developer\n• At least 2 year experience with Flutter SDK and Dart language\n• Rich experience in different screens layouting/supporting\n• Experience in building at least 1 Android and/ or iOS application using Flutter\n• Understanding and experience with state-management patterns: Provider, BLoC / MobX\n• Strong experience with Git / Git Flow\n• Strong communication, problem-solving skills\n• Fluency in English language\n• Experience (as an advantage) with Flutter for Web, Flutter for Desktop/ Flutter Platform Channels; in Android development (Android SDK)/ iOS development (Xcode, iOS SDK); with Agile methodologies (Scrum, Kanban)\nWhy you’ll love working with Scale3C\n• Work with some of the world’s leading and most recognized brands\n• Have the opportunity to work 100% remote from any country around Europe\n• Office in Vilnius city center\n• Cool and vibrant work environmentInterested in the position? We are looking forward to your application, to connect and talk more!\n\nBest regards,\nTalent acquisition team\n\nThis offer from \"Scale3C\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677c07d256373d87f2b9cbc6-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNjYWxlM0MiLCJhZGRyZXNzX2NpdHkiOiJTd2VkZW4iLCJodGlkb2NpZCI6ImxTTFFkZWd3NlpROEZZZFJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        }
+    ]
+}

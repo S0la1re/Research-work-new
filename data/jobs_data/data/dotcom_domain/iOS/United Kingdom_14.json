@@ -1,0 +1,269 @@
+{
+    "search_metadata": {
+        "id": "678505ffd17aa4c27896ce22",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/714fc0e4384f5b44/678505ffd17aa4c27896ce22.json",
+        "created_at": "2025-01-13 12:24:31 UTC",
+        "processed_at": "2025-01-13 12:24:31 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&udm=8&fc=EswCCowCQUpHOUprTi10NkNqdXBzODI2SDFZMjJZV2FraFRzS3lmYkFUZWdoVkU0T2hkZTJqaVhUYUpIeVpDWjhWZnh4ZzhDSHNFdmZNU1Y0SUFMcGF5cWlNYjhOd0JXT0F5NVlqTmw4VVlaUDQzQUlvTnZqRjFRQkdxNG1UdjV2dUpjTFBhaW9SaGV2RFBXOVdtUGo5WEpuX1RxOGRGUnFkOTFpaDBYMnVhQ0hiZ3NWYVQ4cWRoc0Zaam1DSGJXU1FMeXdYZmlRTWM4Ul9fT0ZidEx0WDRZaWlPay1TdGJmSzNtTEZPQ2NMU1I2dGJDdS1rRXp6RGRYRXBBczMwS0tGMWU1TkRmcWV0OEFlbXlmehIXX2dXRlo0dmxLTTNFcDg0UG9QVFZxQUUaIkFGWHJFY3BzQ2ZiLXc0UkZXVExhZ3V6R28xbGhPRG5ZeWc&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/714fc0e4384f5b44/678505ffd17aa4c27896ce22.html",
+        "prettify_html_file": "https://serpapi.com/searches/714fc0e4384f5b44/678505ffd17aa4c27896ce22.prettify",
+        "total_time_taken": 0.56
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "United Kingdom",
+        "location_used": "United Kingdom",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUaTEwTmtOcWRYQnpPREkyU0RGWk1qSlpWMkZyYUZSelMzbG1Za0ZVWldkb1ZrVTBUMmhrWlRKcWFWaFVZVXBJZVZwRFdqaFdabmg0WnpoRFNITkZkbVpOVTFZMFNVRk1jR0Y1Y1dsTllqaE9kMEpYVDBGNU5WbHFUbXc0VlZsYVVEUXpRVWx2VG5acVJqRlJRa2R4TkcxVWRqVjJkVXBqVEZCaGFXOVNhR1YyUkZCWE9WZHRVR281V0VwdVgxUnhPR1JHVW5Ga09URnBhREJZTW5WaFEwaGlaM05XWVZRNGNXUm9jMFphYW0xRFNHSlhVMUZNZVhkWVptbFJUV000VWw5ZlQwWmlkRXgwV0RSWmFXbFBheTFUZEdKbVN6TnRURVpQUTJOTVUxSTJkR0pEZFMxclJYcDZSR1JZUlhCQmN6TXdTMHRHTVdVMVRrUm1jV1YwT0VGbGJYbG1laElYWDJkWFJsbzBkbXhMVFRORmNEZzBVRzlRVkZaeFFVVWFJa0ZHV0hKRlkzQnpRMlppTFhjMFVrWlhWRXhoWjNWNlIyOHhiR2hQUkc1WmVXYyIsImZjdiI6IjMifQ=="
+    },
+    "jobs_results": [
+        {
+            "title": "Software Engineer for iOS Development",
+            "company_name": "Amazon",
+            "location": "London, United Kingdom",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=g1efLyvo2l23zz7eAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE43izYiuKiLoAgqOBTnkrbXNJLchdyhxXfxXdXlH7-_-EyKXcW9vmxGOJLzhJih5wz-VsEBnxg4RSSFBZy5AUGb2wGY4MTsAk63g2qSjTEioXSiVn1bthwNEzY8mgc38k8tw2-RglWsV-vlWCZyM9hH-_5ZnuDK1DHN4U5esYOLJ9dx_AIQVIJyoAAAAA&shmds=v1_AUFQtOOQawLoS_Bm_3HQspunAvFqMiSnSW-7d6qpnKKtZBlhOg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=g1efLyvo2l23zz7eAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505ffd17aa4c27896ce22/images/596ffbce72024057e6f55c4b72c9ca556c5da7fc78595765395972ca356ae32b.gif",
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking an experienced iOS software systems engineer to join our team at Amazon, where you will play a key role in shaping the setup process experience for millions of users. As a member of our team, you will work closely with our experts to investigate design approaches, prototype technology, and evaluate technical feasibility.\nAbout the Role\n\nThis is a unique opportunity to contribute your creative ideas and energy to a world-class project, working with distributed cloud systems and home security devices.\nMain Responsibilities\n• Design and Develop Mobile Applications: Design, develop, and maintain our iOS mobile applications to ensure seamless user experiences.\n• Collaborate with Team Members: Work with team members to investigate design approaches, prototype technology, and evaluate technical feasibility.\n• Lead Architecture and Design: Lead architecture and design of features from conception to launch.\n• Agile Development: Be part of an agile development process to deliver high-quality software.\n\nThe estimated salary for this role is $140,000 per year, depending on experience.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/903d6540f9b21846e8dcdc0f91b9ffb6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBmb3IgaU9TIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiQW1hem9uIiwiYWRkcmVzc19jaXR5IjoiTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiZzFlZkx5dm8ybDIzeno3ZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Senior iOS Developer, UK Wide (Once a 1/4 in the office)",
+            "company_name": "Mounts",
+            "location": "Edinburgh, United Kingdom",
+            "via": "Jobrapido.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=yDzOGczqlxlvyRJlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CE4HLiraqOiiqyJYpEMRx5Km1-SkvStJKn0vX1Bd_vX7k88kyQtkEg-UF3DGN7bSo1_BI4Mn1QjznA2Chq3aAzFEhyBNQwYXsIabVBBQe-NAGK4itsXpycXYh6NSIbSpDVFHMqmRTgljJaN6SRX-KYPTHvtWRyx3h82Y9myXs7sMHMOfutTE1eCt-80wRawhI7a1dF8hHXxBtgAAAA&shmds=v1_AUFQtOMHHABRZdsVJ3nPvg_Z9A-8fkdo2WZuIr4MnL3C0JgK5g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=yDzOGczqlxlvyRJlAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior iOS Developer, UK Wide (Once a 1/4 in the office)\nFantastic opportunity for an experienced Lead iOS Developer to join well renowned digital transformation agency who have considerable UK presence with offices in London, Manchester, Liverpool & Edinburgh. They have adopted a hybrid working model working with you on how you’d like to return to work if at all with a minimum expectancy of once a quarter in the office most local to you.\nEven though large they still have a small company feel with wide expertise, supporting in data, web, mobile and strategy. They work with several household names that you would have heard of giving you the exposure to work on some revolutionary products on using the latest and greatest technology suitable for the project in hand.\nThe iOS tribe currently sits at 15 with space for another 5 hires currently, one of them being this position. A mix of experience levels with a Head of Mobile and another Tech Lead helping shape the way in which the business works within mobile and future technologies.\nYou will be working within joint client teams to help deliver solutions, solving problems, a strong communicator and excited about new technologies within the mobile space. Within this role you need to be a strong communicator as you will be engaging the clients, essentially taking the lead on one client’s solution meaning you will need to bridge the gap between product and engineering. We need passionate engineers who are going to push the growth within technology and want to develop the more junior engineers within the iOS team.\nSkills:\n• Architectural understanding and use of approaches like MVC, MVP & MVVM\nIn return they are offering a salary of up to £80,000 per annum plus generous company benefits which I am happy to share with you and flexible working!\nIf you’re interested in this opportunity and would like to know more, please either contact me directly or apply through this advert and I will contact you ASAP.\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://uk.jobrapido.com/jobpreview/363797911953211392?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://uk.talent.com/view?id=1b9f818e89a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The BIG Jobsite",
+                    "link": "https://www.thebigjobsite.com/details/F1CEB547F271C787209BEEEE329C77E7/ios-developer--uk-wide--once-a-1-4-in-the-office?source=attbus&utm_source=googlejobs&utm_medium=api2&key=A55D5CA0304939F77658C7D58C16A341&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciwgVUsgV2lkZSAoT25jZSBhIDEvNCBpbiB0aGUgb2ZmaWNlKSIsImNvbXBhbnlfbmFtZSI6Ik1vdW50cyIsImFkZHJlc3NfY2l0eSI6IkVkaW5idXJnaCwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InlEek9HY3pxbHhsdnlSSmxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Insight Global",
+            "company_name": "Insight Global",
+            "location": "Westbury, United Kingdom",
+            "via": "Insight Global",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=5Qvv8BgYcHqwctYfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_13NsQrCMBAAUFz7CU63uBRNRHDRDyjqLI4lSY8kkt6F3An1L_xkcXV56-s-q25zIckxKQyFvSuwgyt7EHQtJGCCgTkWXJ-TapWTtSLFRFGnOZjAs2VCz4t9spcfoyTXsBanOB6O-8VUin3_d2SCB4r6V3tv4U5ZcYJbpjjx_AUjuMSRkwAAAA&shmds=v1_AUFQtOPmm2P8hahZ0ZQlkz1uhbaYCalJ4C2UAIHbJhWvzoYkSA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=5Qvv8BgYcHqwctYfAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time and Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time and Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As a Mobile app senior developer lead, you will be working extensively on iOS 12 and above, using XCode 12 and above, Swift/Swift UI , Objective-C, Cocoa pods and Mac OSX for developing the iOS Universal application for iPhone, iWatch & iPad application. They wiEnsure appropriate and effective data integration across multiple applications which includes Implementing Cocoa Pods/Swift Package private frameworks for handling app functionality using native and third-party frameworks and making sure Mobile App secure by performing Veracode/Checkmarx scan and providing the solutions to avoid any vulnerability attack.\n\nYou will be fine tuning the app performance by using XCode instrument tool and other frameworks by monitoring the crashes and performance during development. Provide solutions and design to the complex functionality within the applications.\n\nInteract and collaborate with other IT teams including application development, peer reviews, testing, operations, security and compliance and project management office, as well as business customers and external vendors. Additional responsibilities include performing requirement analysis and high-quality code development; review the code of coworkers and offer feedback; Design frameworks, libraries, and components that are reusable.",
+            "apply_options": [
+                {
+                    "title": "Insight Global",
+                    "link": "https://jobs.insightglobal.com/find_a_job/texas/irving/senior-ios-developer/job-264098/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJbnNpZ2h0IEdsb2JhbCIsImNvbXBhbnlfbmFtZSI6Ikluc2lnaHQgR2xvYmFsIiwiYWRkcmVzc19jaXR5IjoiV2VzdGJ1cnksIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiI1UXZ2OEJnWWNIcXdjdFlmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "iOS Developer Swift Objective-C – Tech for Good",
+            "company_name": "British Heroes",
+            "location": "London, United Kingdom",
+            "via": "Tier 2 Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HPKZ0uFX0HriHohUAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIOw6CQBAA0NhyBKspjREwJjbaqYlETSjQmvAZYMiyQ3YmSOkdPIlX8iRK84rnfWZeRHECJxzQcI8OkidVCnHeYqE0oH-E7-sNdywaqNjBmbkEHy6cg2Dm_st2ytrgfN-o9rILQxET1KKZUhEU3IVsMecxbDmXiVSazGFvMsV0s12PQW_r5eLgSEkaiNAxCpCFG9uS7QoelhRLuJKtS-5-mFDV-bQAAAA&shmds=v1_AUFQtOPlEXcB1UUzM3NddUKTQkyduhdTKBwJV8DbRKKNGb-wFA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HPKZ0uFX0HriHohUAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Developer London to £55k\n\niOS Developer (Swift Objective-C) *Remote Process* What does ‘Tech for Good’ mean to you?\n\nDoes it mean fighting for change? Using your specialist technical skills as a force for good and making a positive impact on a societal level?\n\nWould you like an opportunity to work on a cutting-edge application designed to stop the spread of Covid-19, in conjunction with other impressive Greenfield projects in a company founded upon ‘Tech for Good’ principles?\n\nThis pioneering technology company is seeking an innovative iOS Developer to play a key role in their 3rd Party Attributes team, where you’ll take ownership of the design, implementation, testing and maintenance of the iOS codebase for their cutting-edge mobile application.\n\nYou’ll transform business features into technical solutions in a mobile application, working closely with key teams across the business including Design, QA and the head of Mobile to implement UI/UX, ensure the quality of the code and drive best practice across development and architecture.\n\nIn this iOS Developer role you’ll join a highly collaborative environment where Agile practices are championed, from stand-ups to retro’s and Pair Programming sessions. You’ll also play a key role in setting up projects from scratch from the integrated development environment all the way to app store release, so this is a fantastic chance to get stuck into a range of diverse, impactful technical work.\n• Please note: this company is able to offer a remote interview and onboarding process during the current social distancing measures. You’ll join London-based offices in due course, with some continued flexible work opportunities.*\n\nRequirements:\n• You are an iOS Developer with strong Swift experience (Objective-C experience also beneficial however you will be using Swift going forward)\n• You’re committed to producing clean code, architecture and design\n• You have TDD and Pair Programming experience\n• You’re comfortable with every aspect of mobile application delivery (i.e. from delivery to the store, maintenance, bug fixing and refactoring)\n• You have experience across the full development lifecycle\n\nAs an iOS Developer you’ll earn a highly competitive salary (to £55k) plus a comprehensive benefits package including access to discounts and vouchers, ‘selfie days’, learning opportunities including conferences, events, courses, team events and more.",
+            "apply_options": [
+                {
+                    "title": "Tier 2 Jobs",
+                    "link": "https://www.tier2jobs.co.uk/job/ios-developer-swift-objective-c-tech-for-good?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFN3aWZ0IE9iamVjdGl2ZS1DIOKAkyBUZWNoIGZvciBHb29kIiwiY29tcGFueV9uYW1lIjoiQnJpdGlzaCBIZXJvZXMiLCJhZGRyZXNzX2NpdHkiOiJMb25kb24sIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJIUEtaMHVGWDBIcmlIb2hVQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "Experienced iOS Developer",
+            "company_name": "AJ Bell Management Limited",
+            "location": "Manchester, United Kingdom",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Mne22SXc3UegF5SZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3NsQrCMBCAYVz7CE43izZFEEQnRRGq4iDOkqZHEknuQi5IX8m31Lr8w7f81WdSNcchYfZIBnvwtzsc8I2BfwYLaLkDQZ2NAyY4MduA060rJclGKZFQWym6eFMbjooJOx7UizsZ8xSnM6agCz6Xq2aoE9nZetfCHkOAqyZtMSIVuPjoy3inUY1DKZjn8KC_nj3ZnuMXQAUkR6wAAAA&shmds=v1_AUFQtOP0vFeNLRtl7D6fMi3KfKiEgK6KmpvXEH4fLpdmESxpKw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Mne22SXc3UegF5SZAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are currently seeking a skilled mid-level product-centric iOS engineer to contribute to our mission of simplifying investing for all. Your passion for delivering award-winning applications that delight users will be key in achieving this goal.\nKey Responsibilities\n• Translate designs and wireframes into high-quality, visually appealing code.\n• Design, develop, and maintain efficient, reusable, and reliable Swift and Objective-C codebases.\n• Optimize application performance, quality, and responsiveness to ensure an exceptional user experience.\n• Ensure code quality, organization, and automation best practices are maintained.\nRequirements\n• Proven experience in developing consumer-facing, high-performance iOS applications using Swift and Objective-C.\n• Familiarity with Kotlin Multiplatform is an advantage.\nAbout the Role\n\nThis position involves working collaboratively in a small, agile team to deliver impactful results. You will be instrumental in shaping the future of mobile investment solutions.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/132f648a3ce7e1a5b575e95e40f1198d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFeHBlcmllbmNlZCBpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQUogQmVsbCBNYW5hZ2VtZW50IExpbWl0ZWQiLCJhZGRyZXNzX2NpdHkiOiJNYW5jaGVzdGVyLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiTW5lMjJTWGMzVWVnRjVTWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Mobile Application Developer",
+            "company_name": "HALDEX BRAKE PRODUCTS LIMITED",
+            "location": "Nuneaton, United Kingdom",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=sRFiL472KMorP-qyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ6CMBRA0bjyCU5vNgpG46BOKEQRUIOQuJECL6Wm9DW0Gn7KfxSXu5xc5ztx1ilVQiL4WktRMytIQYAflKSxhwVcqAKDrK9bGOVExCVO96212uw8zxjpcmPHrXZr6jxSWNHgvagy_5SmZT1qySyWq81ycLXis-3ZT4LwCYfMj0O4Z7egOOYPSKI0ysMAhILrWyGzpOZQKGGxgVgo3lD3A1OXB1WwAAAA&shmds=v1_AUFQtOOeRfq_HOXOoTT-4MSsod89OkyMNDWsqXDlT54re_XKZw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=sRFiL472KMorP-qyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505ffd17aa4c27896ce22/images/596ffbce7202405786f4ecfab7bd8a2526b8f8ba0b14319404002a899d7ffb31.gif",
+            "extensions": [
+                "24 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Part of the SAF Holland Group, we are a multinational company developing, manufacturing and distributing products for brake and suspension systems on commercial vehicles. Our customers are typically manufacturers of heavy trucks, buses and trailers and we have a strong global presence with sales offices, R&D and production sites all over the world.\n\nFind our Passion for Excellence at eu.haldex.com\n\nWe are looking for a new colleague for our UK R&D site at MIRA for the following position:\n\nMOBILE APPLICATION DEVELOPER\n\nwho will be responsible for the maintenance and further development of mobile applications used by customers, third parties and internal teams\n\nThe successful candidate will be expected to write efficient, extendible code and documentation as well as designing and developing user interfaces in-keeping with our aesthetic style. The successful candidate must have strong knowledge and experience in developing for iOS/Android using Google’s Flutter framework and Dart programming language.\n\nJust a few of the tasks you will meet during your daily work:\n• Writing efficient, secure, extendible code and documentation\n• Designing and developing user interfaces in-keeping with our aesthetic style.\n• Threat monitoring and maintaining cybersecurity awareness, so that coding practice and development stack evolves to keep ahead of security threats\n• Peer reviewing code, testing and documentation within the team.\n• Drive innovation and mobile app proliferation into new products and features.\n\nWe think that to be successful in this position you need:\n• Dart / Flutter\n• BLoC pattern design\n• Asynchronous design\n• Source Control (Git)\n• Flutter package management (pub)\n• Firebase\n• Writing automated tests and working with automated-testing frameworks\n• The release management process on both iOS and Android app stores\n• Working and interacting with Bluetooth devices\n• Development experience in the web stack:\n• JS / Front-end frameworks\n• PHP / Laravel\n• HTML / CSS\n• Strong problem-solving abilities\n• Keen desire to learn\n• Good time-management skills\n• A ‘can-do’ attitude\n• Ability to communicate ideas clearly\n\nBenefits\n\n· Competitive reward package\n\n· Generous holiday entitlement\n\n· Flexible working hours plus work from home up to 2 days a week\n\n· Enhanced maternity/paternity pay\n\n· Death in Service\n\n· Free on site parking\n\nPlease contact Nikki MacDonald, HR Manager, to apply.\n\nA copy of our privacy notice for applicants can be made available upon request.\n\nDue to holidays, CVs will be reviewed mid January.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://uk.linkedin.com/jobs/view/mobile-application-developer-at-haldex-brake-products-limited-4104369268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/76da5301013e777e6cdad014b388a290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://uk.talent.com/view?id=09cd6e6d356d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TopWorcestershireCareers",
+                    "link": "https://topworcestershirecareers.co.uk/jobs/mobile-application-developer-nuneaton-warwickshire/1529821128-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/gb-nuneaton-mobile-application-developer-haldex-brake-products-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Search Job For Free - Post Job",
+                    "link": "https://united-kingdom.callcenterjob.co.in/mobile-application-developer-nuneaton_992410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwbGljYXRpb24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiSEFMREVYIEJSQUtFIFBST0RVQ1RTIExJTUlURUQiLCJhZGRyZXNzX2NpdHkiOiJOdW5lYXRvbiwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InNSRmlMNDcyS01vclAtcXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Manchester Digital",
+            "location": "Liverpool, United Kingdom",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=seWevKaVZ3c2n_2tAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMOwrCQBAAUGxzBKup_WRFsNE2IPjBQqzDJhl2RzYzy84QchcvqzavfNVnUa2fyCQF6PGEBidMkrHAFi7SgaIvfQRhOIuEhMtTNMt6dE411UHNG_V1L6MTxk5m95ZO_7QafcGcvGG7P-zmOnNYubvnPqLa728okPkExHCjCUsWSRt4MRkOcCUOg4xfegjgrp4AAAA&shmds=v1_AUFQtOMslo4kKsXq5NLNW2-SfXxwbCOFbX5La0KoeF3Ey86D1g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=seWevKaVZ3c2n_2tAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505ffd17aa4c27896ce22/images/596ffbce72024057f8914f00f3a58d38902c591d717eaea2620c59c0b737e487.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Fantastic opportunity for an experienced iOS developer to join a well-renowned digital transformation agency with a considerable UK presence. They have adopted a hybrid working model, allowing you to work with them on how you'd like to return to work, with a minimum expectancy of once a quarter in the office most local to you.\n\nThe agency has a wide expertise in data, web, mobile, and strategy, working with several household names. You will be working within joint client teams to help deliver solutions, solving problems using the latest technology suitable for the project in hand.\n\nKey Skills:\n• Architectural understanding and use of approaches like MVC, MVP & MVVM\n\nIn return, they are offering a salary of up to £65,000 per annum plus generous company benefits and flexible working.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/212118c778015d0d0d40e2bec3d2a49e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1hbmNoZXN0ZXIgRGlnaXRhbCIsImFkZHJlc3NfY2l0eSI6IkxpdmVycG9vbCwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InNlV2V2S2FWWjNjMm5fMnRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "iOS Developer Team Lead",
+            "company_name": "PATHWAY TO RECOVERY LLC",
+            "location": "Liverpool, United Kingdom",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Kjbd3d2XU73ytCDOAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCMBQAUFx7BKc_iyYiuuhUalE0UNGqdCpp-0kjaX5IQul9vKj4hpd8ZwnTxQOOOKIhhx5KlAMIlB2s4EINBJS-7YEsnIiUwfmhj9GFPechGKZClFG3rKWBk8WGJv6hJvyrQy89OiMj1pvdemLOqsX2lpbnd1pBWcA9z4pXfq9AiAy0BaFH9I7ILOFpdcQOrtqqjoYfEpJvbqYAAAA&shmds=v1_AUFQtOMP9Qsu4PmuZ0I0l5ZSJDELVLKmOdn1sY-FE786RGgcBA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Kjbd3d2XU73ytCDOAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Fantastic opportunity for an experienced Lead iOS Developer to join a well-renowned digital transformation agency operating in the UK with a presence in London, Manchester, Liverpool, and Edinburgh. They have adopted a hybrid working model allowing you to work with them on how you'd like to return to work, with a minimum expectancy of once a quarter in the office most local to you.\n\nEven though they are large, they still have a small company feel with wide expertise, supporting in data, web, mobile, and strategy. They work with several household names, giving you the exposure to work on some revolutionary products using the latest technology suitable for the project in hand.\n\nKey skills include architectural understanding and use of approaches like MVC, MVP, and MVVM.\n\nIn return, they are offering a salary of up to £100,000 per annum plus generous company benefits and flexible working.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/c207465fb01c37a36f04e97243f9348f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIFRlYW0gTGVhZCIsImNvbXBhbnlfbmFtZSI6IlBBVEhXQVkgVE8gUkVDT1ZFUlkgTExDIiwiYWRkcmVzc19jaXR5IjoiTGl2ZXJwb29sLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiS2piZDNkMlhVNzN5dENET0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Senior iOS Engineer",
+            "company_name": "Insight Global",
+            "location": "Westbury, United Kingdom",
+            "via": "Insight Global",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=vap7S-RIIJxROI2WAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43F21EcNFZijo4FHEsSXskJ-ldyZ1QP8T_Fd_wqu-qqjtkkgJ07-DMkRixwBauEkDRlyGBMLQiMeP6lMxmPTqnmpuo5o2GZpDJCWOQxb0k6L9eky84Z2_Y7w-7pZk51vWFlWIyaLMEn4EYnqgW3uWzgQeT4Qg34jjK9AOMmYEFmAAAAA&shmds=v1_AUFQtOOUe8PuC4xWLEJw2Qo_yHN5TXY5CVaCcAclpCz62DN5Aw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=vap7S-RIIJxROI2WAAAAAA%3D%3D",
+            "extensions": [
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As a Senior Software Engineer at a large media company, youll collaborate with cross-functional teamsProduct, Operations, Design, and Editorialto bring digital content to life. Your influence will shape our product roadmap, combining technical expertise with strategic insights. In a dynamic environment, youll work alongside other engineers on the team as well the Core iOS Application Development team, leveraging technologies like Swift and Objective C. In this role, youll contribute to impactful applications used by hundreds of thousands of users. Reporting to the Senior Manager of Apps Engineering, youll play a pivotal role on the team by actively participating in Agile ceremonies, ad hoc meetings, and peer code reviews. As part of a collaborative team, youll design and develop native mobile apps for iOS platforms. Your code will prioritize efficiency, reliability, and maintainabilitywhether youre enhancing architectural aspects, implementing user-facing features, or addressing defects. Troubleshooting and resolving issues across various platforms will be a key part of your role. Additionally, youll analyze and optimize application code for performance and reliability. Working with minimal technical supervision, youll embrace effective communication and contribute to quality code. Staying up to date with development best practices and leading design and code reviews will round out your responsibilities.\n\n$65 to $75 per hour. Exact compensation may vary based on several factors, including skills, experience, and education.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to HR@insightglobal.com.\n\nTo learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/ .",
+            "apply_options": [
+                {
+                    "title": "Insight Global",
+                    "link": "https://insightglobal.com/jobs/find_a_job/new-jersey/englewood-cliffs/senior-ios-engineer/job-370238/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSW5zaWdodCBHbG9iYWwiLCJhZGRyZXNzX2NpdHkiOiJXZXN0YnVyeSwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InZhcDdTLVJJSUp4Uk9JMldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMEl4YmpsNVNGUjBXa2x6YW5ObU1sY3RUalp4U2tabWFHOTVSeTF3VWt0UU9HUlNMV1phVEc1Q1NuQmFPR2RxVjBKVlMyWnhRM290ZVdVMlFUQlJSREJPWldSV016TnJiR0l5YTNscVN6VlFNR1k1YlhkM1IzTXpaRnBDUWtoVmIyeFZaREZqVTFCQ2IyWlZZalZLVVZkdlpGbDNNVEY0VTNCaE1EZERlR2R3TVVkZmRtTkVUbEkyUWs1elVrRkZTME0yTFhOdllqaHVjRFUyVlRKSFJVcFhWRVZPVkdGa00xbERVRmhXUVV0d1dGQXRXRWN0UVZsa1oyRlFXVlpQU0U5YVRtZFNXVEI0YW1Wak5WRnZOV1YyVEdVdFowUnlRMk5UVXpSUVFtRTNkVUowU1VOU01ETTBiREZ6WjNsc1ZrTnVTbXhJUzBzME1GVXhRbnBtVEVGTk5sQTFUeElYWDNkWFJscGZYM1JITFRabk5VNXZVR3R4VDJNMlFUZ2FJa0ZHV0hKRlkzQnhSMlpMWjNJMWJHd3hlVlJmTlhKTU1XYzJSVE0wZURGZlZIYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=United+Kingdom&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMEl4YmpsNVNGUjBXa2x6YW5ObU1sY3RUalp4U2tabWFHOTVSeTF3VWt0UU9HUlNMV1phVEc1Q1NuQmFPR2RxVjBKVlMyWnhRM290ZVdVMlFUQlJSREJPWldSV016TnJiR0l5YTNscVN6VlFNR1k1YlhkM1IzTXpaRnBDUWtoVmIyeFZaREZqVTFCQ2IyWlZZalZLVVZkdlpGbDNNVEY0VTNCaE1EZERlR2R3TVVkZmRtTkVUbEkyUWs1elVrRkZTME0yTFhOdllqaHVjRFUyVlRKSFJVcFhWRVZPVkdGa00xbERVRmhXUVV0d1dGQXRXRWN0UVZsa1oyRlFXVlpQU0U5YVRtZFNXVEI0YW1Wak5WRnZOV1YyVEdVdFowUnlRMk5UVXpSUVFtRTNkVUowU1VOU01ETTBiREZ6WjNsc1ZrTnVTbXhJUzBzME1GVXhRbnBtVEVGTk5sQTFUeElYWDNkWFJscGZYM1JITFRabk5VNXZVR3R4VDJNMlFUZ2FJa0ZHV0hKRlkzQnhSMlpMWjNJMWJHd3hlVlJmTlhKTU1XYzJSVE0wZURGZlZIYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

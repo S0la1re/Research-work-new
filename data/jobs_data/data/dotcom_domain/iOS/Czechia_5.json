@@ -1,0 +1,180 @@
+{
+    "search_metadata": {
+        "id": "6785054da8e924f36fbda42e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/68d62d36062aee5a/6785054da8e924f36fbda42e.json",
+        "created_at": "2025-01-13 12:21:33 UTC",
+        "processed_at": "2025-01-13 12:21:33 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=iOS+developer&uule=w+CAIQICIHQ3plY2hpYQ&udm=8&fc=EowCCswBQUpHOUprTzdNaF9YYm0zRHBBVGtTN0FWWF9ZdkRSUU9TMkFqZ1VDbTJHV2kxYTg1LXpFTFd2aDRQMEFyVFRtcy1fOFlXdlo1Zzl6aEFiUlJPZ01yWHhLbXZ4b0ZXSmxzVkJRQURTRHlWZ2Joa0I5T3piMWk3aFIteHpRR2tLMllhZXRqYWVvWlg3UWk4c3dMT0tmRERhZ295aW1rUWNQcWVBUEQ4RGc1eG1CNnd4UHJBMjFXT2twS1V0RVI4MUdpVVJsakZxSWZCUFk0EhdUQVdGWjVIUkZaT28wUEVQb2FqTmtBSRoiQUZYckVjcUpMOGVyMnVHTEMyUlNENHZaUTlsTkhNTDlPUQ&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/68d62d36062aee5a/6785054da8e924f36fbda42e.html",
+        "prettify_html_file": "https://serpapi.com/searches/68d62d36062aee5a/6785054da8e924f36fbda42e.prettify",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Czechia",
+        "location_used": "Czechia",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVvd0NDc3dCUVVwSE9VcHJUemROYUY5WVltMHpSSEJCVkd0VE4wRldXRjlaZGtSU1VVOVRNa0ZxWjFWRGJUSkhWMmt4WVRnMUxYcEZURmQyYURSUU1FRnlWRlJ0Y3kxZk9GbFhkbG8xWnpsNmFFRmlVbEpQWjAxeVdIaExiWFo0YjBaWFNteHpWa0pSUVVSVFJIbFdaMkpvYTBJNVQzcGlNV2szYUZJdGVIcFJSMnRMTWxsaFpYUnFZV1Z2V2xnM1VXazRjM2RNVDB0bVJFUmhaMjk1YVcxclVXTlFjV1ZCVUVRNFJHYzFlRzFDTm5kNFVISkJNakZYVDJ0d1MxVjBSVkk0TVVkcFZWSnNha1p4U1daQ1VGazBFaGRVUVZkR1dqVklVa1phVDI4d1VFVlFiMkZxVG10QlNSb2lRVVpZY2tWamNVcE1PR1Z5TW5WSFRFTXlVbE5FTkhaYVVUbHNUa2hOVERsUFVRIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Lead Mobile and Desktop Application Developer",
+            "company_name": "OpenVPN",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HXjNOf2o1Km6TgtKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWLPQvCMBBAce3o6HSzYCKCi05iQRC_JtdySY8mGnNHL0jxj_h3rcsb3uNV30lVnwhbOLOLiQBzCzXps7DATiRFjyVyHt2bEgv1sIAjO1DC3gcYy4G5SzTbhlJEN9aqJtNpGTdvPL8sZ3I82Ac7_aPRgD1JwkLNar0cjORuPr0K5fvtAjHD_kM-RPwBMBu4PZoAAAA&shmds=v1_AUFQtOPtB7W_uhnZKcWQCSDK3x6pR0MMb4tfguQvTWWEYdtPgQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HXjNOf2o1Km6TgtKAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785054da8e924f36fbda42e/images/7796f83a342506aef3db1395508e1db3d59d9eeab5ce2b7b76bb68505bf43740.gif",
+            "extensions": [
+                "25 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About OpenVPN\n\nWe're a small, closely-knit team that values our engineers' well-being and offers a unique opportunity to grow with us. We have Android, iOS, macOS, and Windows applications with shared code written on React Native, Redux, TypeScript, and native code on C++, Objective C, Java.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-a20f8aa279a146693995cbf1e18c6341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIE1vYmlsZSBhbmQgRGVza3RvcCBBcHBsaWNhdGlvbiBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJPcGVuVlBOIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiSFhqTk9mMm8xS202VGd0S0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Senior Mobile Applications Developer",
+            "company_name": "Volito Software",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=QadJFRQ8YE2XFrQaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBRGYVz7CE53FmxEcLGTKAiCU8G1JOHaRGL-kHvR4oP4vNblLB-n-S6aruccUekKFxPToZQUvdWILHTiFycUrrSmCxwJ2-oDIdMZGBMvu6BaZG-MSGpH0fnzrcfTILPDZB5w8s8gwVYuySoP291makseV8sbUlRQj7u-Z6aY6fhhH6L9AUdPsiuZAAAA&shmds=v1_AUFQtOP3hv9-86E1m78bZBxrl05Swowy7xEgJhb-OpcJOTWZiw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=QadJFRQ8YE2XFrQaAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785054da8e924f36fbda42e/images/7796f83a342506ae6f49239b554035e1cdeb4f4eb3ab693472f1e465e9346f4f.gif",
+            "extensions": [
+                "17 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Volito Software\n\nWe are a software development company that creates high-quality mobile applications for our clients.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-3c8eff15b8e10c5efb874a494d5f05a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIEFwcGxpY2F0aW9ucyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJWb2xpdG8gU29mdHdhcmUiLCJhZGRyZXNzX2NpdHkiOiJDemVjaGlhIiwiaHRpZG9jaWQiOiJRYWRKRlJROFlFMlhGclFhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "mobilní vývojář iOS/Android",
+            "company_name": "SVSys s.r.o.",
+            "location": "Brno, Czechia",
+            "via": "Jooble",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=DDOWixREuvM4RObFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCMBQAUFx7BEH4s2gigg52UgfBxaHgWpI0NCnp_yU_lOo5XBw9gEdwKt5LfMPLHpNs25L2Acc39OOnp2Z8fZ_gL4XcYxXJV7CEM2lgq6JxQAgnojrYae5S6ngnJXMQNSeVvBGGWkloNQ2yIc3_SnYq2i6oZMv1ZjWIDuv5rLgWNwYWUZAAj3CISAs43q1xXv0Ae7l8XpcAAAA&shmds=v1_AUFQtOObI-qeVK1DjGF4pwl3EAre5NsnBYlB-JVhbbnHGBlbEg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DDOWixREuvM4RObFAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Jsme SVSys, malá firma, která se v IT světě pohybuje už více jak 10 let a podle čeho nás poznáte? Podle toho, že co děláme, děláme fakt dobře a umíme to!\n\nProtože nám do cesty přišla nová výzva, hledáme do týmu kolegu, který by se jí nebál a spolu s námi by jí zdolal.\n\nPro nově vznikající projekt hledáme do týmu kolegu, kterého baví mobilní aplikace a vyzná se v platformách Android/iOS.\n\nKdo jsme my?\n\nSVSys je malá firma, které záleží na svých zaměstnancích. Naše firma je o lidech. A proto se navzájem podporujeme a táhneme za jeden provaz\n\nJaké jsou benefity?\n\nProč pracovat u nás?\n\nPokud hledáš uvolněné prostředí s výborným zázemím, kde se o lidi starají, tak pojď k nám. Děláme projekty od A-Z a proto u nás dostaneš šanci dělat i věci, ke kterým by jsi se normálně ve velkých firmách nedostal. Máš tedy možnost vyvíjet vyladěná řešení na míru a díky tomu tvoje implementace bude vidět a bude jí využívat milion lidí.\n\nCo na oplátku nabízíme my?\n\nOsobní přístup, uvolněné prostředí se zázemím, zajímavé platové ohodnocení, možnost práce na OSVČ, flexibilní pracovní doba či HO.\n\nPráce pro české i mezinárodní klienty. Neumíš dobře anglicky? Nevadí máme u nás možnost firemní angličtiny.\n\nZaujala tě tato nabídka? Tak neváhej a pojď k nám.\nHledáme\n• Česky -\ndomluvit se\n• Anglicky -\nčtení dokumentace\n• Úroveň: Junior\n• Úroveň: Medior\n• Úroveň: Senior\n• Praxe: 1\nrok\n• SŠ Vzdělání\n• VŠ Vzdělání",
+            "apply_options": [
+                {
+                    "title": "Jooble",
+                    "link": "https://cz.jooble.org/jdp/-945664667662731668?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HitPrace.cz",
+                    "link": "https://www.hitprace.cz/prace-detail/mobilni-vyvojar-ios-android-brno-js639cbf5b32d10/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJtb2JpbG7DrSB2w712b2rDocWZIGlPUy9BbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiU1ZTeXMgcy5yLm8uIiwiYWRkcmVzc19jaXR5IjoiQnJubywgQ3plY2hpYSIsImh0aWRvY2lkIjoiRERPV2l4UkV1dk00Uk9iRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        },
+        {
+            "title": "Flutter Developer",
+            "company_name": "Scale3C",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQoCMQwA0P1GR6eMItiK4qLjiYKrH3CkJbQnuaY0UQ79eXV5vO7TrS78NKMGZ3oRS_1tAzcJoIQtZpACV5HEtDxls6pH71XZJTW0Mbook5dCQWb_kKB_Bs3YqDIaDbvDdna1pPXiHpFp38NYoH9TzCN-AVxu8-F9AAAA&shmds=v1_AUFQtOPmziUWCXbUu92NleZQh9BGUHSuESq3fuRayUi-NO_Vrg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lSLQdegw6ZQ8FYdRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785054da8e924f36fbda42e/images/7796f83a342506ae8b4f525bbdc6bbdf4ab2acacc0c3319bb24d252efe9fd743.gif",
+            "extensions": [
+                "21 days ago",
+                "€192K a year",
+                "Work from home",
+                "Internship",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "salary": "€192K a year",
+                "work_from_home": true,
+                "schedule_type": "Internship",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: European Union\n\nWho we are\nWe’re an award-winning development agency at the heart of Vilnius City with clients all around the world. Being a premier development agency we only work for the best, with the best. We specialize in web & mobile development and bespoke UX/UI design. No matter how big or small our client’s organization and budgets are, we’ve got a solution for them. This means you have a chance to work with both small and medium-sized businesses. We also provide outsourcing & outstaffing services to our clients.\nWhat we are looking for\nLooking for a Flutter developer for a full-time job as a contractor in our clients team.\n\nDay to Day\n• Flutter application development\n• Working together with other developers, project manager and UX/UI designer to build smooth & scalable app\n• Learn best software development practises with your colleagues\n• Contribute to quality by identifying spots of improvements\n• Experience with REST API, HTTPS\nYou are someone who has...\n• At least 2 years experience as a Software Developer\n• At least 2 year experience with Flutter SDK and Dart language\n• Rich experience in different screens layouting/supporting\n• Experience in building at least 1 Android and/ or iOS application using Flutter\n• Understanding and experience with state-management patterns: Provider, BLoC / MobX\n• Strong experience with Git / Git Flow\n• Strong communication, problem-solving skills\n• Fluency in English language\n• Experience (as an advantage) with Flutter for Web, Flutter for Desktop/ Flutter Platform Channels; in Android development (Android SDK)/ iOS development (Xcode, iOS SDK); with Agile methodologies (Scrum, Kanban)\nWhy you’ll love working with Scale3C\n• Work with some of the world’s leading and most recognized brands\n• Have the opportunity to work 100% remote from any country around Europe\n• Office in Vilnius city center\n• Cool and vibrant work environmentInterested in the position? We are looking forward to your application, to connect and talk more!\n\nBest regards,\nTalent acquisition team\n\nThis offer from \"Scale3C\" has been enriched by Jobgether.com and got a 77% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/677c07d256373d87f2b9cbc6-flutter-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGbHV0dGVyIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNjYWxlM0MiLCJhZGRyZXNzX2NpdHkiOiJDemVjaGlhIiwiaHRpZG9jaWQiOiJsU0xRZGVndzZaUThGWWRSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFEzcGxZMmhwWVEifQ=="
+        },
+        {
+            "title": "Mobile Software Engineer",
+            "company_name": "10xBeta Venture Studio LLC",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=JVpLXg_QjW_XOMjLAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE63uAg2VXDRzSKC1KngKkk8k0i8K70rFt_D97Uu__j9xXdWmAu7lBFafujb9ghHCokQe1jBmR0I2t5HYIITc8g430fVTnbGiOQyiFpNvvT8MkzoeDRPdvLPTeLEddkq3jbbaiw7CsvFuhoPqBauSDpMt1aHe2JomhoSQf1BH5P9ARzEyweYAAAA&shmds=v1_AUFQtOPOAjd3cc1TertcODWcX65DcWTXrO5OwP9aY-pQT7ZLSg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=JVpLXg_QjW_XOMjLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785054da8e924f36fbda42e/images/7796f83a342506aea8c4c798ec53730f8cd60c7680370419881d6bb38078efc2.gif",
+            "extensions": [
+                "10 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Role Overview\n\nWe are seeking a skilled Mobile Software Engineer to join our team at 10x Beta Venture Studio LLC. This is an exciting opportunity to work on cutting-edge mobile applications using React Native framework and cross-platform technologies.\n\nAbout Us\n\n10x Beta Venture Studio LLC is a venture studio investing in and incubating connected medical device ventures. We offer a supportive fast-paced environment with the energy of a start-up and the support infrastructure of a mature product design house.\n\nJob Description\n\nAs a Mobile Software Engineer, you will be responsible for designing, developing, and maintaining native mobile applications for both Android OS and Apple iOS using React Native framework. You will also work on designing, developing, and maintaining React web applications and web interfaces. Additionally, you will ensure the scalability, performance, and reliability of the web applications, collaborate with cross-functional teams, and translate user needs into technical requirements.\n\nRequirements and Qualifications\n\nTo be successful in this role, you should have:\n• 4+ years of experience developing with React Native and React\n• Knowledge of React / React Native components, APIs, and libraries\n• Proven experience in web development with technologies like HTML, CSS, JavaScript, TypeScript, jQuery, JSON, and XML\n• Experience with front-end frameworks like Bootstrap\n• Experience with CSS and CSS preprocessors\n• Experience with responsive and mobile design\n• Experience with RESTful and GraphQL APIs, and integrating them into applications\n• Experience with software design, object orientation, architecture, and delivery patterns\n• Familiarity with refactoring skills and techniques\n• An understanding of the mobile ecosystem, common libraries and languages\n• An understanding of the full mobile development life-cycle\n• Experience in testing automation (unit testing, end-to-end testing)\n• Fluency in English\n\nSalary Estimate\n\nThe estimated salary for this position is $120,000-$180,000 per year, depending on location and experience. Please note that this is an estimate and may vary based on various factors.\n\nBenefits\n\nAs a Mobile Software Engineer at 10x Beta Venture Studio LLC, you can expect a range of benefits, including:\n• Flexible working hours\n• Opportunities for professional growth and development\n• A dynamic and supportive work environment\n• A competitive salary and benefits package\n\nHow to Apply\n\nIf you are a motivated and experienced Mobile Software Engineer looking for a new challenge, please submit your application, including your resume and cover letter.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-8e44687dcdf1896e5c30743255de565c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgU29mdHdhcmUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiIxMHhCZXRhIFZlbnR1cmUgU3R1ZGlvIExMQyIsImFkZHJlc3NfY2l0eSI6IkN6ZWNoaWEiLCJodGlkb2NpZCI6IkpWcExYZ19RaldfWE9NakxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUTNwbFkyaHBZUSJ9"
+        },
+        {
+            "title": "Android Developer for Mobile Solutions",
+            "company_name": "Ringier Axel Springer Tech",
+            "location": "Czechia",
+            "via": "Jobs Trabajo.org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=KxUVnb_sSHaU5WKwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAce0nON3iItiI4KI4FAVBcLHukrRnenLmQi5K8Xf8UePyeG961XdS7ZrQJ6EeDvhGlogJ7pLgLI4YoRV-ZZKgsICTOFC0qRtAAhxFPON0O-QcdWOMKtdes83U1Z08jQR0MpqHOP3jpoNNGNlmvK3Wy7GOwc9nFwqeyrEZkaGNqWSpK5YFBdh_ipD9AWA-RmOmAAAA&shmds=v1_AUFQtOPBdRCkXBjdq5zgSw7ktws6VoZCw2p-AI0SKgRrZ4Q-aA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=KxUVnb_sSHaU5WKwAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785054da8e924f36fbda42e/images/7796f83a342506aee9759842bb0d1e634b2dc95830dda11f7eebef067fd963ee.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are seeking a highly skilled Android developer to join our mobile team at Ringier Axel Springer Tech.\nKey Responsibilities\n• Design, implement, test, and deploy applications for the Android platform.\n• Test code for robustness, including edge cases and general reliability.\n• Collaborate with team members within an agile process to deliver new features according to requirements, within budget and on time.\n• Effectively communicate in written and spoken English.\nRequired Skills and Qualifications\n\nWe are looking for a candidate with:\n• Experience in designing and implementing Android applications.\n• Strong knowledge of Java and Kotlin programming languages.\n• Familiarity with MVVM architecture pattern.\n• Experience with Gradle build system and dependencies management.\n• Ability to evaluate tasks and provide estimates.\n• Excellent communication and teamwork skills.\nBenefits\n\nRingier Axel Springer Tech offers a range of benefits to its employees, including:\n• Sport subscription.\n• Training budget.",
+            "apply_options": [
+                {
+                    "title": "Jobs Trabajo.org",
+                    "link": "https://cz.trabajo.org/job-3057-c038f24ac8b3b59f5786314b25a7e05d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBmb3IgTW9iaWxlIFNvbHV0aW9ucyIsImNvbXBhbnlfbmFtZSI6IlJpbmdpZXIgQXhlbCBTcHJpbmdlciBUZWNoIiwiYWRkcmVzc19jaXR5IjoiQ3plY2hpYSIsImh0aWRvY2lkIjoiS3hVVm5iX3NTSGFVNVdLd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhRM3BsWTJocFlRIn0="
+        }
+    ]
+}

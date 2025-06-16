@@ -1,0 +1,574 @@
+{
+    "search_metadata": {
+        "id": "6784edc88b14e3985c0750fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/733edf6440f1cc73/6784edc88b14e3985c0750fd.json",
+        "created_at": "2025-01-13 10:41:12 UTC",
+        "processed_at": "2025-01-13 10:41:12 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIGTWV4aWNv&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/733edf6440f1cc73/6784edc88b14e3985c0750fd.html",
+        "total_time_taken": 0.52
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Mexico",
+        "location_used": "Mexico",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwi4i7CqwfKKAxWWMVkFHZuwIpoQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior Android Developer (Remote)",
+            "company_name": "NTT DATA  Services",
+            "location": "Mexico City, Mexico",
+            "via": "NTT DATA Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=kTlqOOQaiOLjPcxAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3HsQrCMBAAUFz7CU43WtFGBEF0KhYEQQfbvaTp0UTSXMgdpf6OXyqCy4OXfRbZscbgKEEZ-kSuhwon9BQxweqJIwnmsIUbdcCok7FAAa5Eg8fl2YpEPinF7IuBRYszhaFRUcCOZvWijn-0bHXC6LVguz_s5iKGYZ0_mgaqsikBakyTM8jgAtxxdobg4uS9-ecLhGmrfaUAAAA&shmds=v1_AUFQtOPaTU6v3mhgadVPEyieDhwCxQ_XKLJdHUoYH4NDvPJZVw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=kTlqOOQaiOLjPcxAAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Req ID: 306621\n\nNTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.\n\nWe are currently seeking a Senior Android Developer (Remote) to join our team in Mexico City, México (MX-MEX), Mexico (MX).\n\nSenior Android Developer (Remote)\n\nHow You’ll Help Us:\n\nOur clients need digital solutions that will transform their business so they can succeed in today’s hypercompetitive marketplace. As a team member in our Emerging and Immersive Technologies group, you will make these digital solutions come to life. You will routinely deliver elite solutions to clients that will impact their products, customers, and services.\n\nHow We Will Help You:\n\nJoining our Emerging and Immersive Technologies group is not only a job, but a chance to grow your career. We will make sure to equip you with the skills you need to produce robust applications that you can be proud of. Whether it is providing you with training on a new programming language or helping you get certified in a new technology, we will help you grow your skills so you can continue to deliver increasingly valuable work.\n\nOnce You Are Here, You Will:\n• Work with Architect to gather the technical details and requirements.\n• Develop the module end to end using XML & Kotlin.\n• Write unit test cases and execute the test cases against the entire application functionalities.\n• Work with backend team for REST service creation.\n• Integrate with REST services in the application.\n• Integrate third-party authentication services.\n• Follow UI design, UI guidelines and coding guidelines to develop and deliver the applications.\n• Participate in the code review process and implement the code review comments.\n• Ensure app design is compatible with all the screen sizes.\n• Fix any app issues or bugs that arise.\n\nBasic Qualifications:\n• 5+ Years’ experience in overall mobile App development.\n• 3+ Years’ experience in Android development with Java/Kotlin.\n• 3+ Years’ experience in building MVC, MVVM architecture, Rest API development/integrations, SVN/GIT/Bitbucket.\n• 2+ years’ experience with Jetpack components such as ViewModel, LiveData, RoomDatabase, WorkManager\n• Bachelor’s Degree or equivalent combined 4 years education and work experience\n\nPreferred:\n• Experience developing iOS applications\n• 2+ years' experience with Junit, Espresso and Mockito Frameworks\n• 2+ years' experience with tools like Atlassian JIRA.\n• 1+ years' experience with UI/UX design and implementation\n• 1+ years’ experience in CI/CD\n\nIdeal Mindset:\n• Lifelong Learner. You are always seeking to improve your technical and nontechnical skills.\n• Team Player. You are someone who wants to see everyone on the team succeed and is willing to go the extra mile to help a teammate in need.\n• Listener. You listen to the needs of the customer and make those the priority throughout development.\n\n#LaunchJobs #LaunchEngineering\n\nAbout NTT DATA\n\nNTT DATA is a $30 billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long term success. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure and connectivity. We are one of the leading providers of digital and AI infrastructure in the world. NTT DATA is a part of NTT Group, which invests over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. Visit us at us.nttdata.com\n\nNTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.",
+            "apply_options": [
+                {
+                    "title": "NTT DATA Careers",
+                    "link": "https://careers-inc.nttdata.com/job/Mexico-City-Senior-Android-Developer-%28Remote%29-MEX/1241411100/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/nttdataservices/senior-android-developer-remote-651ccf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Search Jobs - GoHire",
+                    "link": "https://jobs.gohire.io/axented-su9lyitg/senior-ios-developer-remote-213884/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://mx.jooble.org/jdp/5833220695545523068?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "NTT Data - Eightfold.ai",
+                    "link": "https://nttdata.eightfold.ai/careers/job/563327920660565-senior-ios-developer-remote--mexico-city-m%C3%A9xico-mexico?domain=nttdata.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.mx/job/RX5hT4j8QCAoRjhn9aA343sVVetuz3hE29Soju39Za7bo5Qz4LgNbw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tip Top Job",
+                    "link": "https://www.tiptopjob.com/search/jobs/131411381_-senior-ios-developer-remote-mexico-city-state-of-mexico-central-mexico-_job.asp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-3081-10e76bac1066138a9046c3170dd19306?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKFJlbW90ZSkiLCJjb21wYW55X25hbWUiOiJOVFQgREFUQSAgU2VydmljZXMiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJrVGxxT09RYWlPTGpQY3hBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Principal Android Developer",
+            "company_name": "Oracle",
+            "location": "Zapopan, Jalisco, Mexico",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=u9mdkq1u8ErrYV-KAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CU7BUWpPCi46CYJQEJ1dSpqGNhIvx-WQ_oj_K77hVd9V1T6yRJKECuc4ZpMRLvxhtcQZdtDZAM6YaQaLcDWblNenuZTkxxDctZm8YBFqyN7BIg-2hJcN_q_3GTMnxcJ9e9gvTYrTdnPPSMogEZ6YLGGsoUMVJ6vhxouQ_QCOjUXamAAAAA&shmds=v1_AUFQtOMI81Azk7RVZHnzX8fw5qClTi4-6fodb5-zaGRDz0JSRw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=u9mdkq1u8ErrYV-KAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Principal Android Developer at Oracle: Design and develop cutting-edge Android applications for a world leader in cloud solutions.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/oracle/principal-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-2863-90074bc5497e001ad6c8bbfa8538efb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/573f8964f5c1599f935e506bf969ec25?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://mx.expertini.com/jobs/job/principal-android-developer-zapopan-oracle-99-5556852/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJPcmFjbGUiLCJhZGRyZXNzX2NpdHkiOiJaYXBvcGFuLCBKYWxpc2NvLCBNZXhpY28iLCJodGlkb2NpZCI6InU5bWRrcTF1OEVycllWLUtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Lead Software Engineer, Android",
+            "company_name": "Capital One",
+            "location": "Mexico City, Mexico",
+            "via": "Capital One Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=fH9pyRljqMrRcZ_cAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3MsQrCMBCAYVz7CE6Ho9RGBB10kiKCKA4-QEnTa3oS70JyYH0U31YFlx--5S_ek2JzRtvBTXp92oRwYE-MmErYc5eEOljASVrIaJMbQBiOIj7gdDeoxrw1JudQ-axWyVVOHkYYWxnNXdr8S5OH7zcGq9is1suxiuzns9pGUhvgygjEcMGRnEBN-ir_-ACfubDKnAAAAA&shmds=v1_AUFQtOM4nD27pB0ZVlialSkBSMI4pShQ6JJ4eBKMMYdjohKEqA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=fH9pyRljqMrRcZ_cAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Locations: Mexico City, Mex, Mexico, Ciudad de Mexico, Ciudad de Mexico\n\nLead Software Engineer, Android\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. As a Capital One Android Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nAt Capital One, the iOS and Android platforms are recognized as an opportunity to reach our customers in unique, personal and engaging ways. Nothing is off limits as we explore exciting ways to take advantage of the full ecosystem of mobile devices including Watch, TV, and whatever future developments Apple or Google creates. Our engineers are provided with top of the line Macbook Pros, multiple high-end monitors and the necessary tooling to develop the best possible products with the least amount of friction. We operate in small, productive agile teams and use the best industry tools to collaborate across teams.\n\nResponsibilities:\n• Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles\n• Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity\n• Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality\n• Be an active advocate of the mobile platform through both internal and external developer communities\n• Remain an active learner in all technologies related to mobile development (Kotlin, Swift, 3rd party libraries, etc.)\n• Influence and contribute to group discussions and incorporate feedback/communication from the broader team\n• Mentor junior to mid-level members of the team\n• Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)\n• Own and lead delivery of major components and platform needs in partnership with senior engineers and Architects\n• Consistently share best practices and improve processes within and across sprint teams\n• Identify technical obstacles early and work closely with the team to find creative solutions\n• Review pull requests and ensure adherence to Kotlin and other language idioms\n• Grow and provide SME level leadership\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 4 years of professional software engineering experience (Internship experience does not apply)\n• At least 3 years of experience building Android applications\n• At least 3 years of experience with Kotlin\n• Intermediate-Advanced English fluency\n\nPreferred Qualifications:\n• Master’s Degree\n• 5+ years of experience building Android applications\n• 4+ years of experience with Kotlin\n• 4+ years of experience in open source frameworks\n• 2+ years of experience with Agile practices\n\nCapital One will only consider candidates that are Mexico citizens or permanent residents\n\nAt Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.",
+            "apply_options": [
+                {
+                    "title": "Capital One Careers",
+                    "link": "https://www.capitalonecareers.com/job/mexico-city/lead-software-engineer-android/1732/73231716256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/lead-software-engineer-android/3725293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hireline",
+                    "link": "https://hireline.io/mx/empleos/lead-software-engineer-android/108553?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-7393526145989059976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EOP'S Diversity And Inclusion Career Center - Equal Opportunity Publications",
+                    "link": "https://careercenter.eop.com/job/lead-software-engineer-android/76290898/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-2863-a50f3961593cf7c25045ad4b2cb597b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/mx/job/lead-software-engineer-android--ciudad-de-mexico--ed7660968153b0404a5c819bad06aaf09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://mx.expertini.com/jobs/job/lead-software-engineer-android-mexico-city-capital-one-c425177b47/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyLCBBbmRyb2lkIiwiY29tcGFueV9uYW1lIjoiQ2FwaXRhbCBPbmUiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJmSDlweVJsanFNclJjWl9jQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Senior Software Engineer, Android Developer Experience",
+            "company_name": "Google",
+            "location": "Mexico City, Mexico",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=S2aNCEj89f9VMYhrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2NQQrCMBAA8donCMKepTYieNGTaBGEnvqAkqZruhJ3QxI0vslPWtHLwFxmivesaFpkkgCtXNNTB4SaLTFiKOHAQxAa4IQPdOIxQJ0nErJBWMFFeoiogxlBGM4i1uF8P6bk406pGF1lY9KJTGXkroSxl6xu0scvujhOM-90wm6zXefKs10ufhEghgYzGYEjpVf5lw_ipSXzrgAAAA&shmds=v1_AUFQtONlhq-OKAXLOSNe5PlZTc9nujJ7KZhqPhWrYW2eEuE3_A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=S2aNCEj89f9VMYhrAAAAAA%3D%3D",
+            "extensions": [
+                "19 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "19 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Software Engineer position at Google focusing on Android Developer Experience, building foundational technologies and infrastructure for Google's flagship products.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/google/senior-software-engineer-android-developer-experience-190a7253/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQgRGV2ZWxvcGVyIEV4cGVyaWVuY2UiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJTMmFOQ0VqODlmOVZNWWhyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Brillio 2",
+            "location": "Guadalajara, Jalisco, Mexico",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=WfLv7QJRicPPrbkpAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMwQrCMAwAULzuEzzlqDJbGXjRkyIIA79hZF3YMmJTmir7Dr9Yvbzjqz6ranOJQ1Ye4EZvEk2UYQ-t9mCEOUygEe6qo9D6PJWS7OS9mbjRChYOLujTa6ReFz9rb386mzBTEizUNcfD4lIcd9trZhFWaIB_4wsHFJwxYw0tClvQGh60cNAv8yZTU5UAAAA&shmds=v1_AUFQtOMoY_auPg9kY8ZZkiLlev2FjR8QgXFXEzR5TpSIzVBpiQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=WfLv7QJRicPPrbkpAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "About Brillio:\nBrillio is one of the fastest growing digital technology service providers and a partner of choice for many Fortune 1000 companies seeking to turn disruption into a competitive advantage through innovative digital adoption. Born digital in 2014, Brillio applies its expertise in customer experience transformation, data analytics, Artificial Intelligence, platform and product engineering, cloud infrastructure, and security to help clients quickly innovate for growth, create digital products, build service platforms, and drive smarter, data-driven performance.\n\nBrillio, renowned for its world-class professionals, referred to as \"Brillians,\" distinguishes itself through their capacity to seamlessly integrate cutting-edge digital and design thinking skills with an unwavering dedication to client satisfaction. Brillio takes pride in its status as an employer of choice, consistently attracting the most exceptional and talented individuals due to its unwavering emphasis on contemporary, groundbreaking technologies, and exclusive digital projects. Brillio's relentless commitment to providing an exceptional experience to its Brillians and nurturing their full potential consistently garners them the Great Place to Work® certification year after year.\n\nFind your passion and advance your career with us. Accelerate YOU at Brillio!\nRole: Android Developer\nEmployment Type: Permanent\nLocation: Guadalajara / Hybrid\n\nTo succeed, this role’s responsibilities would involve:\n- Bachelor’s degree in computer science/Engineering/related field or equivalent professional experience\n- 3+ years of experience as a software engineer in the tech industry building products at scale\n- 2+ years of experience developing native mobile applications and working within a team environment.\n- Strong programming skills and up-to-date knowledge of Kotlin, Java, and the Android SDK\n- Strong experience working with Rx, MVVM and android architecture components (i.e., Jetpack)\n- Experience leading teams, mentoring colleagues, and managing technical projects.\n- A driven mobile software engineer that is motivated to build great products and a great codebase in a fast-paced environment.\n- Familiar with mobile product and design lifecycles, and collaborating closely with designers, product managers and backend engineers.\n- Strong communication skills with a growth and learning mindset.\n- Strong analytical thinking and ability to make data-driven decisions.\n- Independent and can manage your own projects and time with ease, all the while setting and managing stakeholder expectations.\n\nNice to haves…\n- Interest in or experience with functional programming concepts\n- Experience working with Room, Espresso, OkHttp/Retrofit, Maps SDK.\n\nKnow more about\nPPE: https://www.brillio.com/platform-and-product-engineering/\nAccelerate YOU at Brillio:Brillio Careers and Job Opportunities\n\nEqual Employment Opportunity Declaration\nEOE/Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity/National Origin\nBrillio is an equal opportunities employer and welcomes applications from all sections of the society and does not discriminate on the grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital status, sexual orientation, gender identity, or any other basis as protected by applicable law.\nKnow more about\nPPE: https://www.brillio.com/platform-and-product-engineering/\n\nAccelerate YOU at Brillio:Brillio Careers and Job Opportunities\n\nEqual Employment Opportunity Declaration\nEOE/Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity/National Origin\nBrillio is an equal opportunities employer and welcomes applications from all sections of the society and does not discriminate on the grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital status, sexual orientation, gender identity, or any other basis as protected by applicable law.\n\nKnow what it’s like to work and grow at Brillio: Click here",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-developer-at-brillio-2-369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://mx.linkedin.com/jobs/view/android-developer-at-o-reilly-autopartes-m%C3%A9xico-4120723617?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://mx.bebee.com/job/cedad72d3dd8805c752f99caaa0edee6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/mx/job/android-developer--guadalajara--e582e25f67ba419c1e7d584e52df4cfd6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://mx.sercanto.com/detail/a/android-developer_guadalajara_1857534?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org - Vacantes De Empleo, Trabajo",
+                    "link": "https://mx.trabajo.org/oferta-2863-de943b736e3b9e12716cb632124cda17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.jobzem.com",
+                    "link": "https://www.jobzem.com/mx/jobad/8c875c789478200b/9307679650/8282504725/android-developer-guadalajara-jal.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emprego.pt",
+                    "link": "https://www.emprego.pt/jobs/show/31618409839131655857126482508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkJyaWxsaW8gMiIsImFkZHJlc3NfY2l0eSI6Ikd1YWRhbGFqYXJhLCBKYWxpc2NvLCBNZXhpY28iLCJodGlkb2NpZCI6IldmTHY3UUpSaWNQUHJia3BBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Android Developer - ODS for Openbank México",
+            "company_name": "Openbank México",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=w-g1gZBEKJOdJfFhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_2WNPQrCQBBGsc0RrKYTRLMi2GglCQhCSOEBwu5mTFbXmWVnkXgk8RhezB_sbD7e4xVf9hhlxZbayK6FEq_oOWCEOdTlAY4coQ5IRtMZqud9cJbfac8GBHW0PTDBjrnzON70KQVZKyXi806STs7mli-KCQ0P6sRGPtNIryMGrxM2y9ViyAN108nfiyOo8EuFS7fZT16lQAvXrgAAAA&shmds=v1_AUFQtOMFibNG2_W1IfliEMuqtIs-pzOuG7YD_HJAlaTCyKOSag&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=w-g1gZBEKJOdJfFhAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc88b14e3985c0750fd/images/d873015331d0c055873cfba04136383289d29bd64a60cff825706e358bbae9af.png",
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "Open Digital Services is the software development company of Santander Group powering the next generation of banks by creating innovative banking products and implementing them in collaboration with Santander Group Affiliates.\n\nSantander Group is one of the world's largest financial institutions and the Eurozone's leader, we're committed to being the best Digital Bank with Branches in the industry.\n\nOur mission at ODS is to design and support an advanced digital and omnichannel platform, ensuring the best customer experience using cutting-edge technology. Openbank, our flagship partner, is where we develop our most advanced concepts first.\n\nWe are launching operations in Mexico where we partner with Openbank Mexico in its launch in the market, as well as Santander Mexico in the continuous innovation in technology products and channels.\n\nJoin us to tackle exciting tech challenges in an agile environment, benefiting from learning, growth, and local and international career opportunities in a modern, diverse setting.\n\nBe part of our Best-in-class- team and help us create unique value for our customers!\n\nMission and responsibilities:\n\nWe want to take our customers' digital experience to a new level and you will help us innovate in digital product development in banking.\n\nResponsibilities:\n• You will be responsible for Android developments, helping to add value to Openbank Apps, as part of a multidisciplinary team of professionals.\n• You will bring your knowledge and experience to the team, proposing ideas for continuous improvement.\n• You will participate in code review and contribute to improve common practices.\n• You will be responsible for your own proofs of concept to add value to the product.\n\nTo be successful in the role you must have\n• Bachelor’s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.\n• 5+ years of experience in software development.\n• Experience and deep knowledge of Java, Android SDK and Kotlin.\n• Experience with REST and SOAP integrations.\n• In-depth knowledge of development patterns.\n• Advanced knowledge of mobile application performance optimization.\n• Experience working with design teams to optimize the final customer experience.\n• Knowledge of agile methodology, Scrum and Kanban.\n• Passion for technology and start-up methodology.\n• Ability to learn quickly, creativity and initiative.\n• Ability to make autonomous decisions.\n• Results oriented.\n• Team player.\n• Excellent interpersonal and communication skills.\n\nWhat do we offer?\n• Immediate incorporation to a dynamic and agile company with a growth and expansion project.\n• Working in start-up mode with the support of Grupo Santander.\n• Competitive remuneration and attractive benefits package.\n• Possibility of growth within the company and the Group.\n• Collaboration in international projects and possibility of contact with different countries.\n• Excellent work environment, social clubs and frequent events.\n\nWould you like to grow with us? Join our team!\n\nOpenbank is an equal opportunity employer. All applicants will be considered as equal without paying attention to gender identity, sexual orientation, ethnicity, religion, age, political orientation, union membership nor disability status.\n\nWe make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build.\n\nIf you´re not currently living in Madrid or Valencia and you are open to relocate, we would still love to consider your application.\n\nOBTECH22 OBDEV22 #openbank\n\nLos datos personales que proporciones y los que se generen durante el proceso de selección son confidenciales y serán tratados por Open Bank, S.A./ Open Digital Services, S.L. con domicilio social en Plaza de Santa Bárbara 2, 28004 (Madrid), a los únicos efectos de gestionar tu participación en los procesos de selección y, en su caso, realizar tu contratación.\n\nTus datos serán conservados el plazo necesario para tramitar los procesos de selección en los que participe. En concreto, salvo que nos indiques lo contrario, tus datos se conservarán por un plazo de 18 meses desde la última postulación transcurrido el cual procederemos a su eliminación.\n\nPuedes ejercer tus derechos de acceso, rectificación, supresión, portabilidad, limitación al tratamiento y oposición, en cualquier momento, poniéndote en contacto con openprivacy@gruposantander.com\n\nPara más información sobre tus derechos y protección de datos, puedes consultar la política de privacidad de ODS/Openbank, aplicable a este tratamiento, aquí [URL a https://www.openbank.es/assets/static/pdf/politica_privacidad_candidatos_es.pdf]”\n\nThe personal data you provide as well as any data generated during the selection process are confidential and will be processed by Open Bank, S.A./ Open Digital Services, S.L. with registered office at Plaza de Santa Bárbara 2, 28004 (Madrid), for the sole purpose of managing your participation in the selection processes and, where appropriate, to formalise your recruitment.\n\nYour data will be kept for the period required to carry out the selection processes that you take part in. Specifically, unless you indicate otherwise, your data will be kept for 18 months following your last application and will be deleted at the end of this period.\n\nYou may exercise your rights of access, rectification, erasure, portability, restriction of processing and objection at any time by emailing openprivacy@gruposantander.com.\n\nFor further information about your rights and data protection, please read the ODS/Openbank Privacy Policy applicable to this type of data processing here. [URL a https://www.openbank.es/assets/static/pdf/politica_privacidad_candidatos_es.pdf]",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://mx.linkedin.com/jobs/view/android-developer-ods-for-openbank-m%C3%A9xico-at-openbank-m%C3%A9xico-4117181176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Kit Empleo",
+                    "link": "https://www.kitempleo.com.mx/empleo/129175203/android-developer-abl-mc-246-xico/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIE9EUyBmb3IgT3BlbmJhbmsgTcOpeGljbyIsImNvbXBhbnlfbmFtZSI6Ik9wZW5iYW5rIE3DqXhpY28iLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJ3LWcxZ1pCRUtKT2RKZkZoQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Senior Software Engineer, Android Developer Experience",
+            "company_name": "Google",
+            "location": "Mexico",
+            "via": "Towards AI Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=cRMA6naxAfH76DBnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXNsQrCMBCAYVw7OTvdLNqI4KKTYBGETn2AkqZnehLvQi5onsZnteLyjf9ffRZV2yGTJOjknt82ITTsiRHTBs48JqERLvjCIBETNGWWkB3CFm4ygKJNbgJhuIr4gKvTlHPUozGqofaabSZXO3kaYRykmIcM-qPXaZ7FYDP2-8Ou1JH9evmPADG0WMjJFwT7QQ6hAAAA&shmds=v1_AUFQtOP75rf0UAn9-SVmy4bSLLFcb3asLUpPKO9ieHw9bG46dw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=cRMA6naxAfH76DBnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc88b14e3985c0750fd/images/d873015331d0c055dea82493385eb14c8b022dc7bf088dea112d57ef93aa591b.jpeg",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Google's software engineers develop technologies that influence how users interact with information and one another. The role involves working on critical projects that meet the company's needs while providing opportunities to switch teams and projects as the business evolves. The Core team, responsible for the foundational aspects of Google's flagship products, builds and maintains essential infrastructure for seamless user experiences. Engineers are expected to be versatile and capable of tackling various challenges across the full technology stack.",
+            "apply_options": [
+                {
+                    "title": "Towards AI Jobs",
+                    "link": "https://jobs.towardsai.net/job/google-senior-software-engineer-android-developer-experience-nfx5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQgRGV2ZWxvcGVyIEV4cGVyaWVuY2UiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28iLCJodGlkb2NpZCI6ImNSTUE2bmF4QWZINzZEQm5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "1840 & Company",
+            "location": "Mexico City, Mexico",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=mxpaBk2rbTlc9SESAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3HQQrCMBAAQLz2CZ72ooJoUqWC6EmKCIJvKGm6JJF0N2RzaB_hn0XwMjDVZ1FtbjRkDgPcyQVCzLCHJ_cgaLL1wAQPZhdxefWlJLloLRKVk2JKsMryqJmw50m_uZcfnXiTMUVTsDue6kklctvV4dzUsIaWx2RohkDwwilYhjaUeffPF7eGLTyQAAAA&shmds=v1_AUFQtOMUCJnIkM6ZBqIXokaEZEToXc1B0tIwzch4s3kI2rUWFQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=mxpaBk2rbTlc9SESAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc88b14e3985c0750fd/images/d873015331d0c055faa407a3f976d406239b6d1d95d9b6854d5ed081b242a962.png",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "About Turing\n\nBased in Palo Alto, California, Turing is the world’s first AI-powered tech services company. It has reimagined tech services from the ground up with AI by offering AI-vetted and matched talent, AI-accelerated development, and access to AI transformation experts who have built many of the most iconic Silicon Valley companies.\n\nFounded in 2018, the company has experienced tremendous growth with three million global developers on its Talent Cloud and 900+ clients. Turing has received numerous awards, including Forbes’s 2022 “One of America’s Best Startup Employers,” being ranked #1 in The Information’s 2021 Annual List of most promising B2B Companies and Fast Company’s “Annual List of the World’s Most Innovative Companies.”\n\nThe company’s leadership team comprises both AI technologists from leading organizations including Meta, Google, Microsoft, Apple, Amazon, Twitter, Stanford, Caltech, MIT as well as tech consulting veterans from Accenture, Cognizant, Capgemini, McKinsey, Bain, and more.\n\nAbout the Role:\n• Design, develop, and prototype Android native customer applications for internal and external use. Participate in the full app life cycle: concept, design, build, deploy, test, and release to the app store. Work with product teams on new product ideas, designs, prototypes, and estimates. Keep up-to-date on current and upcoming features in relevant products and platforms. Drive a best practices approach to continuously improving our products, processes, and tools. Assist in the creation and maintenance of documentation for all features in development.\n\nJob Responsibilities:\n• Work cross-functionally with product, design, and other engineering counterparts to execute on product and business strategy and build novel products and features that our users will love.\n• Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.\n• Set and define standards that improve developer workflows, recommend best practices, and help coach and mentor engineers on the team to further their professional development.\n• Continuously learn and improve your technical and non-technical abilities.\n\nJob Requirements:\n• BS degree in Computer Science, a similar technical field of study, or equivalent practical experience.\n• Expertise in Java or Kotlin, with 5+ years of experience in Android development.\n• Able to embrace the challenges of building data intensive, highly responsive, and fault tolerant apps in the constrained environment of a smartphone.\n• Sound software engineering fundamentals\n• Experience building at least one amazing Android app with a team from start to shipment.\n• Strong organizational skills, the ability to prioritize tasks and keep projects on schedule\n• Excellent communication skills. You collaborate effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.\n• Entrepreneurial spirit. You are self-directed, innovative, and biased towards action in fast-paced environments. You love to build new things and thrive in ambiguity and even failure.\n\nAbout 1840 & Company\n\n1840 & Company is a global leader in Business Process Outsourcing (BPO) and remote talent solutions, dedicated to propelling businesses forward through our comprehensive suite of services. We specialize in connecting companies with world-class freelance professionals and delivering top-tier outsourcing services, across over 150 countries worldwide.\n\nOur mission is to empower growth for forward-thinking businesses, seamlessly bridging any skill or resource gaps with our expertly vetted talent pool. We firmly believe in fostering an environment where exceptional individuals can achieve an optimal work-life balance, working remotely from any location, while maximizing their professional growth and earning potential.\n\nWe are headquartered in Overland Park, KS, USA with service delivery facilities in the Philippines, India, Ukraine, South Africa and Argentina. We invite you to explore the opportunities we offer and consider joining our exclusive network of global freelance talent. Visit www.1840andco.com to learn more about us. To explore a wealth of career opportunities and find a role that suits your unique skills and aspirations, please visit our dedicated jobs portal at jobs.1840andco.com. #LI-MA1",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/1840%26Company/0776a215-73c1-41a4-b48c-4015489ec069?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-engineer-hearsay-systems-5780582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://mx.indeed.com/viewjob?jk=fada03eaf2ebc9c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://mx.jooble.org/jdp/-5774183849427402856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/3186725-android-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-engineer/3775121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OCCMundial",
+                    "link": "https://www.occ.com.mx/empleo/oferta/19953374-android-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/yext/android-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiMTg0MCBcdTAwMjYgQ29tcGFueSIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyBDaXR5LCBNZXhpY28iLCJodGlkb2NpZCI6Im14cGFCazJyYlRsYzlTRVNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        },
+        {
+            "title": "Senior Software Engineer, Android Developer Experience",
+            "company_name": "Google",
+            "location": "Mexico City, Mexico",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=VQGO9L0lGXlforwAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y2NQQrCMBAA8donCMKepTYieNGTaBGEnvqAkqZruhJ3QxI0vslPWtHLwFxmivesaFpkkgCtXNNTB4SaLTFiKOHAQxAa4IQPdOIxQJ0nErJBWMFFeoiogxlBGM4i1uF8P6bk406pGF1lY9KJTGXkroSxl6xu0scvujhOM-90wm6zXefKs10ufhEghgYzGYEjpVf5lw_ipSXzrgAAAA&shmds=v1_AUFQtONlhq-OKAXLOSNe5PlZTc9nujJ7KZhqPhWrYW2eEuE3_A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=VQGO9L0lGXlforwAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc88b14e3985c0750fd/images/d873015331d0c05598ae89eed19cbf949965070231e03202a422ff5ae3a76ebd.jpeg",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Please submit your resume in English - we can only consider applications submitted in this language.Only applications of candidates with Mexican citizenship will be evaluated for this role in compliance with the provisions of Article 7 of the Federal Labor Law.\n\nMinimum qualifications:\n• Bachelor’s degree or equivalent practical experience.\n• 5 years of experience with software development in one or more programming languages, and with data structures/algorithms.\n• 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.\n• 3 years of experience developing infrastructure, distributed systems, or networks, or experience with compute technologies, storage, or hardware architecture.\n• Experience in Machine Learning or Artificial Intelligence.\n• Experience building and managing distributed software systems and infrastructure.\n\nPreferred qualifications:\n• Master's degree or PhD in Computer Science or a related technical field.\n• 1 year of experience in a technical leadership role.\n\n•\nExperience architecting and developing software or infrastructure for\nscalable, high performance, distributed systems.\n• Experience working with developer-focused products and tools.\n\nAbout the job\n\nGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.\nThe Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.\n\nResponsibilities\n• Write and test product or system development code.\n• Participate in, or lead design reviews with peers and stakeholders to decide on available technologies.\n• Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).\n• Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://mx.indeed.com/viewjob?jk=4bbf1b3a50b35e8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com.mx/job-listing/senior-software-engineer-android-developer-experience-google-JV_IC5017436_KO0,53_KE54,60.htm?jl=1009587655460&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BYP Network",
+                    "link": "https://careers.byp-network.com/jobs/357256503-senior-software-engineer-android-developer-experience-at-google?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://mx.jooble.org/jdp/-7065938442263808879?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "PowerToFly",
+                    "link": "https://powertofly.com/jobs/detail/2085580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-android-developer-experience-at-google-4117426106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AnitaB.org Job Board",
+                    "link": "https://jobs.anitab.org/companies/google-24698/jobs/44225082-senior-software-engineer-android-developer-experience?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-android-developer-experience-google-JV_IC5017436_KO0,53_KE54,60.htm?jl=1009587655460&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQgRGV2ZWxvcGVyIEV4cGVyaWVuY2UiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJhZGRyZXNzX2NpdHkiOiJNZXhpY28gQ2l0eSwgTWV4aWNvIiwiaHRpZG9jaWQiOiJWUUdPOUwwbEdYbGZvcndBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052In0="
+        },
+        {
+            "title": "Software Engineer, Android - Mexico",
+            "company_name": "Zillow Group, Inc.",
+            "location": "Anywhere",
+            "via": "Workday",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=7gr23vjskl7RQYIPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zWNsQrCMBBAce0nON2q1EQEF51EpCg4ubmUND3Tk3gXkkjr__ihVtDl8d70ivek2FzklnsTEQ7siBFjCTtuo1ALCzjjQFZGOUkDCU20HQhDJeI8TrddziFttE7JK5eyyWSVlYcWxkYGfZcmfVGnbhwEbzLWq_VyUIHdfHYl76WHKsozlHBkq4D4f9xTfpW_-ACyD9IkpwAAAA&shmds=v1_AUFQtONTRcxm_nWvFhpA7-ARYYD6nwH1fi_1m0E_zTPpBRpQKQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=7gr23vjskl7RQYIPAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "About the team Zillow Group develops a variety of apps from our consumer-facing Zillow Real Estate and Trulia apps to our industry-facing Premier Agent and Dotloop apps. Zillow started in 2006 and is the most visited real estate website in the United States with over 10.5 billion visits in 2022, and an average of 220 million monthly unique users. Zillow helps high-intent movers find and win their home through digital solutions and first class partners. Our Zillow Mexico team will work with our US tech teams to simplify and automate the buying, selling and renting experience to make home a reality for more and more people. We believe that creativity, collaboration, and innovation lead to success. We actively encourage our teams to learn about the business and share their ideas. We value and promote a diverse and inclusive workplace! About the role We're looking for a Software developer with strong object-oriented coding skills, excellent attention to detail, and someone who holds their code to high standards and who is not afraid to give feedback on the product. Customer focus and comfortability with cross-functional partnerships are a huge plus. You should be able to lead the teams’ technology stack to ensure we’re building more robust, scalable, and operable systems. We embrace agile software development practices and believe deeply in building teams composed of all skills needed to deliver value (SDE, PM, SDM, SQE, Design, DE, etc). We have a couple of teams working to give people the power to manage and ingest lots of media and data. Looking for an engineer who can help lead the teams’ technology stacks to ensure we’re building more robust, scalable, and affordable systems. Work on the latest Android technologies and architectural patterns to develop world-class mobile applications. Contribute to outstanding full-stack mobile application development from concept to launch Implement client-side features and server APIs and services to support planned mobile functionality Collaborate with an agile cross-team of developers, testers, designers & program managers to build features that engage our users and understand their outstanding expectations Consistently deliver performant, testable, scalable, highly-readable code using OO best practices This role has been categorized as a teleworker position. Teleworkers do not have a permanent corporate office workplace and, instead, work from a physical location of their choice which must be identified to the Company. Employees may live in any part of Mexico, but preferably in Mexico City, as we would encourage attendance for occasional in-office events. In addition to a competitive base salary and benefits, this position is also eligible for equity awards based on factors such as experience, performance and location. Who you are Wondering if we're the right team for you? You'll excel in this team if you thrive on autonomy, seek out persistent problems, implement effective solutions quickly, and you have: BS/MS in Computer Science (or equivalent experience) and 4+ yrs of experience 4+ years of Android experience (Strong knowledge of Java and Kotlin) Ability to mentor and coach Junior and Senior developers Ability to drive cross-team design and framework decisions Familiar with Compose for UI Development Strong architectural knowledge about MVVM and/or similar patterns Familiarity with modular Android architecture Ability to include and work closely with other engineers and other disciplines, most notably individuals in BE roles, product, and design. Experience delivering quality code on a deadline Strong experience profiling for optimizing performance and resource utilization. The ability to work well with product management, design, services to shape and define products Experience with Agile development processes The ability to work well in a team setting Fluent in English and Spanish (both written and spoken). Must be authorized to work in Mexico. Here at Zillow we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences. Please note: This is an evergreen job post that accepts applications on an ongoing basis. We will consider your profile for any current and future openings that align with your expertise. Get to know us Zillow is reimagining real estate to make it easier to unlock life’s next chapter. As the most-visited real estate website in the United States, Zillow® and its affiliates help movers find and win their home through digital solutions, first class partners, and easier buying, selling, financing and renting experiences. Millions of people visit Zillow Group sites every month to start their home search, and now they can rely on Zillow to help make it easier to move. The work we do is helping people move from dreaming to transacting — and no matter what job you're in, you will play a critical role in making this vision a reality. Our efforts to streamline the real estate transaction are supported by a deep-rooted culture of innovation, our passion to redefine the employee experience, and a fundamental commitment to Equity and Belonging. We’re also setting the standard for work experiences of the future, where our employees are supported in doing their best work and living a flexible, well-balanced life. But don’t just take our word for it. Read recent reviews on Glassdoor and recent recognition from multiple organizations, including: the 100 Best Companies to Work For in 2022 list, Glassdoor Employees’ Choice Award, honoring the Best Places to Work in 2022, Bloomberg Gender-Equality Index 2022, Human Rights Campaign (HRC) Corporate Equity Index and Best Place to Work for LGBTQ Equality 2022, and TIME 100 Most Influential Companies list. Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, and gender identity. If you have a disability or special need that requires accommodation, please contact your recruiter directly. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law. That’s OK! Introduce yourself to our recruiting teams and give yourself greater potential of finding a role that is a fit. Receive early access to events, jobs, and insights into life at Zillow. Join Our Talent Network Giving our employees more flexibility can lead to a more diverse and representative workforce. Cloud HQ represents our commitment to flexible work at Zillow, and a positive work-life integration. It’s living where you want, and wrapping your work around your life instead of vice versa. Cloud HQ doesn’t mean eschewing offices or never seeing each other in person; the office just serves a different purpose now. We are more intentional about how and when we get together.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Software-Engineer--Android---Mexico_P745715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://mx.indeed.com/viewjob?jk=105cf747c14306ab&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/672aed4a361340dccea0674a-software-engineer-android---mexico?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://mx.linkedin.com/jobs/view/software-engineer-android-mexico-at-zillow-4094680625?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WKRN Jobs",
+                    "link": "https://jobs.wkrn.com/jobs/software-engineer-android-mexico-san-jose-ciudad-de-aguascalientes/1546141975-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobServe",
+                    "link": "https://www.jobserve.com/mx/en/extjob/SOFTWARE-ENGINEER-ANDROID-MEXICO-in-San-Gaspar-Mexico-MEX-19D00F0A536EDC836C/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SaluteMyJob",
+                    "link": "https://salutemyjob.com/jobs/software-engineer-android-mexico-lomas-del-sol-juarez/1546140622-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Overseas Jobs",
+                    "link": "https://www.overseasjobs.com/job/details/30175595/software-engineer-android-mexico?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgQW5kcm9pZCAtIE1leGljbyIsImNvbXBhbnlfbmFtZSI6IlppbGxvdyBHcm91cCwgSW5jLiIsImFkZHJlc3NfY2l0eSI6Ik1leGljbyBDaXR5LCBNZXhpY28iLCJodGlkb2NpZCI6IjdncjIzdmpza2w3UlFZSVBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUWGhpWVc1dWIwdHNabEJSTVd0bVEzaGZORkp4VFZFMldXNXZjMkpYZDE5WFQwdGpiMVpSY1ZoSmVTMWhRMEZqVkV0dmNHUm9TMEV5VERobFZrbzNNelppZERKdVVtSkhUM0JLY1VkT2FrUm1Oa1kyUVRaUU1HZElkWFZGYlRaeU1GbGhaMWgzUjIxd05Vb3hZM1UxZEcxaFRVTXpXazVDUkRScFMyOVlUV2hTTWxKME9VdzBlbkpZYzNCNGNrRnlWMGxVYW1OVllYUTBjMEY2WkhSWlN6Vm9XazVKV1VWSFdsQmFOa05OZFVka1RrTkJkRk41UkVKcVpGUmFPVjh0Vm00eE56bG1WRWt4U0V4UWJrUk9lVFZqTFdRNE5UQkpSM2xtVmxacE5ESmZNV3AyTUVadE5tTjZUV3R1U0RWVGFUSTVZMjVNUms5cFVYSnhiRXhJUTNSelFUZFlRbFJ4VG0xU1pHUkpaMU5VWjBJeE9HUklOWHA0T1hjU0YzbFBNa1ZhTjJsSVRFcGlhalZPYjFCdExVZExNRkZyR2lKQlJsaHlSV055TjBzMU1XTkxMWEp3T0dSQk5UTlZZek5wTmt4ak9YWnhSelozIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Mexico&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUWGhpWVc1dWIwdHNabEJSTVd0bVEzaGZORkp4VFZFMldXNXZjMkpYZDE5WFQwdGpiMVpSY1ZoSmVTMWhRMEZqVkV0dmNHUm9TMEV5VERobFZrbzNNelppZERKdVVtSkhUM0JLY1VkT2FrUm1Oa1kyUVRaUU1HZElkWFZGYlRaeU1GbGhaMWgzUjIxd05Vb3hZM1UxZEcxaFRVTXpXazVDUkRScFMyOVlUV2hTTWxKME9VdzBlbkpZYzNCNGNrRnlWMGxVYW1OVllYUTBjMEY2WkhSWlN6Vm9XazVKV1VWSFdsQmFOa05OZFVka1RrTkJkRk41UkVKcVpGUmFPVjh0Vm00eE56bG1WRWt4U0V4UWJrUk9lVFZqTFdRNE5UQkpSM2xtVmxacE5ESmZNV3AyTUVadE5tTjZUV3R1U0RWVGFUSTVZMjVNUms5cFVYSnhiRXhJUTNSelFUZFlRbFJ4VG0xU1pHUkpaMU5VWjBJeE9HUklOWHA0T1hjU0YzbFBNa1ZhTjJsSVRFcGlhalZPYjFCdExVZExNRkZyR2lKQlJsaHlSV055TjBzMU1XTkxMWEp3T0dSQk5UTlZZek5wTmt4ak9YWnhSelozIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

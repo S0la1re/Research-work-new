@@ -1,0 +1,449 @@
+{
+    "search_metadata": {
+        "id": "6785027fe6f9a091d76f95b3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6a7cbe793bea6971/6785027fe6f9a091d76f95b3.json",
+        "created_at": "2025-01-13 12:09:35 UTC",
+        "processed_at": "2025-01-13 12:09:35 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIHRmlubGFuZA&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/6a7cbe793bea6971/6785027fe6f9a091d76f95b3.html",
+        "total_time_taken": 0.42
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Finland",
+        "location_used": "Finland",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQxKsJegQIChAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjbx4GL1fKKAxVEFFkFHTY7MlcQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Senior Android Developer, App Platform",
+            "company_name": "Oura",
+            "location": "Oulu, Finland",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=6rIkKFTY2TZYDsIhAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFy7uzjdLLURwUVxKIiCSwU_oKTtmUbSu3CXSP_DH1aXN77isyhODyTPAjUNwn6AM74xcEQpoY4R7sGmJ8sEG7hxB4pW-hGY4MrsAq6OY0pRD8aohsppssn3Vc-TYcKOZ_PiTv-0OlrB-Nuw3e23cxXJrZdNFgueoMkhl3DxFCwNX_F64OWWAAAA&shmds=v1_AUFQtOMJgDZJ8xMizz-l2MKMJBqHiyOXuMPccNiPowZlTMgJtQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=6rIkKFTY2TZYDsIhAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c69e390681ddf1a9142f9813435d9256754dfb7167ba18e65.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped 2.5 million people understand and improve their health by providing daily insights and practical steps to inspire healthy lifestyles.\n\nWe are looking for a Senior Android Developer to architect, design and develop lower-level functionality for the Oura Android app in the App Platform team. This team works closely together with the Cloud Platform team, to push our app-server architecture to the next level. Other responsibilities of App Platform include - but are not limited to - developing our Bluetooth layer along with implementing support for next generation peripherals, implementing code generation tooling and finding out new frameworks and better practises to constantly keep pushing the envelope forward. We care deeply about maintaining and upgrading our code base so that it is at the forefront of technology, and actively work to get rid of legacy implementations.\n\nTogether we are building a product that helps our users to get more restorative sleep, and to see how their lifestyle affects their body and mind.\n\nWhat You will do:\n\n• Architect, design and build new features in the App Platform team\n• Collaborate closely with our adjacent platform and feature squads to create solutions that open up new capabilities\n• Collaborate closely with our Cloud Platform team to create the best possible app-server architecture going forward\n• Ensure consistency across our apps\n• Keep an eye on where the Android world is going and actively prototype and try out new frameworks and ways of working that improve our productivity\n• Work with us to develop systems to ensure we provide performant, maintainable apps and improve the developer experience as we scale\n\nWe would love to have You on our team, if You have:\n\n• A solid experience developing and shipping professional Android applications\n• Mastery over Kotlin\n• Good technical specification skills and understanding of complex systems and how they can be made maintainable and productive to work with\n• An excellent understanding of both user interface level and application engine level challenges and SDK APIs\n• Pragmatic can-do attitude; shipping working software brings you joy\n• Passion for the little things, in both engineering and UX\n• Enjoy problem solving with people outside of your own domain\n\nWe also appreciate if You have knowledge on any of the following technologies:\n\n• RxJava and reactive programming\n• Coroutines and Flow framework\n• Realm mobile database\n• TypeScript\n• Kotlin and functional programming\n• Git workflows\n• C++\n\nBenefits\n\n• Competitive Salary\n• Lunch benefit\n• Wellness benefit\n• Flexible working hours\n• Collaborative, smart teammates\n• An Oura ring of your own\n• Personal learning & development program\n• Wellness Time Off\n\nIf this sounds like the next step for you, please send us your application as soon as possible.\n\nOura is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. Individuals seeking employment at Oura are considered without regards to age, ancestry, color, gender (including pregnancy, childbirth, or related medical conditions), gender identity or expression, genetic information, marital status, medical condition, mental or physical disability, national origin, socioeconomic status, protected family care or medical leave status, race, religion (including beliefs and practices or the absence thereof), sexual orientation, military or veteran status, or any other characteristic protected by federal, state, or local laws. We will not tolerate discrimination or harassment based on any of these characteristics.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-android-developer-app-platform-ouraring-5995967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fi.linkedin.com/jobs/view/senior-android-developer-app-platform-at-%C5%8Dura-4101753065?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIsIEFwcCBQbGF0Zm9ybSIsImNvbXBhbnlfbmFtZSI6Ik91cmEiLCJhZGRyZXNzX2NpdHkiOiJPdWx1LCBGaW5sYW5kIiwiaHRpZG9jaWQiOiI2cklrS0ZUWTJUWllEc0loQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "EMBEDDED ANDROID DEVELOPER",
+            "company_name": "Unikie",
+            "location": "Kuopio, Finland",
+            "via": "Fi.indeed.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=tJHrVg9eh6Bq5nLHAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7BjrdLNqo4KKTkij-Vgp1LUkNTTTehV6EvoMvLX7Dl30H2VxdtkpKJWFzlWVxkCDVXZ2LmyphCkcywFZ3jQNC2BO1wY7WLqXIKyGYQ95y0sk3eUNvQWgN9eJJhv_V7HRnY9DJ1ovlrM8jtuNhhf7lLXiE04eipwnsPAaNjx_FrxxtjgAAAA&shmds=v1_AUFQtOOOEafK0WR4qBqNVKDaNGZm-50G4O58DiS1-QXl8hpziw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=tJHrVg9eh6Bq5nLHAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c46c40253355224a66c8d0f9b3e4032dc56aaec85571a2d31.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "WE ARE LOOKING FOR\n\nEMBEDDED ANDROID DEVELOPER\n\nWe are looking for Embedded Android Developer to join our team working on an exciting automotive infotainment project for one of our key customers. The position is based in Kuopio, Finland.\n\nThis role involves embedded android software development, integration and testing. Your work will span various domains, depending on your experience and own interests, including Android app development, UI design, UI/screenshot testing, driver development, software integration, hardware-software troubleshooting.\n\nSkills Required\n• Embedded Linux\n• Android HAL\n• Android Development\n• C++\n• Kotlin\n\nLocations\n• Kuopio\n\nKEY RESPOSIBILITIES:\n• Develop and implement embedded Android applications for automotive infotainment systems.\n• Engage in hardware-software troubleshooting and debugging, especially related to USB and other hardware peripherals.\n• Work closely with development boards featuring control, sensor, and screen accessories to optimize performance and compatibility.\n• Contribute to driver development and ensure seamless software integration.\n• Collaborate with cross-functional teams, including hardware engineers, UX/UI designers and QA tester.\n• Collaborate with team members using Scrum practices, including daily stand-ups.\n\nREQUIRED QUALIFICATIONS:\n• Experience in embedded Android development,\n• Experience with embedded Linux systems and development tools.\n• Proficiency in C++ and/or Kotlin.\n• Strong team player, experienced in Scrum and adaptable to hybrid work setups.\n\nGGREAT IF YOU ALSO:\n• Have Python and/or Java experience\n• Experienced in automotive applications\n\nWHY JOIN UNIKIE?\n\nWe are dedicated partner for global players in our segments – Unikie supplies technology solutions and services to several global Fortune 500 companies in EMEA and America.\n\nAs a responsible and competent partner, we have access to some of the most interesting projects. Technology we create enables our clients to become digital leaders in their own industries.\n\nWe cherish transparency and do our best that it shows up in as many processes as possible. One example of this is our salary model.\n\nWe have top-notch technical talent, dedication and excitement to develop ourselves and solve even the toughest challenges.\n\nThe combination of our agile teams, proven track record, industry insight, and holistic service and solution model place us at the forefront of cutting-edge technologies.\n\nWork in a flexible low-hierarchy organization that looks after its own.\n\nUnikie is a global software engineering and innovation company that infuses intelligence into machines, vehicles, and industrial solutions. We provide intelligent solutions for the automotive, heavy equipment, transportation & logistics, devices & IoT, and networks & communication industries.\n\nWith over 500 engineering professionals and a revenue of 65 million euros (2023), Unikie is a premium partner for unique embedded software and marshalling solutions that create value and success in the evolving digital landscape of tomorrow.",
+            "apply_options": [
+                {
+                    "title": "Fi.indeed.com",
+                    "link": "https://fi.indeed.com/viewjob?jk=cb5fcd9dc8c2f52a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fi.linkedin.com/jobs/view/embedded-android-developer-at-unikie-4099774776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFTUJFRERFRCBBTkRST0lEIERFVkVMT1BFUiIsImNvbXBhbnlfbmFtZSI6IlVuaWtpZSIsImFkZHJlc3NfY2l0eSI6Ikt1b3BpbywgRmlubGFuZCIsImh0aWRvY2lkIjoidEpIclZnOWVoNkJxNW5MSEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "Software Development Engineer II, Android, Maps SDK",
+            "company_name": "Mapbox",
+            "location": "Helsinki, Finland",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=OnOf3XG9tCmDv7boAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNSw6CMBBA45Yj6GbWBqkxcaMrE_yAccUBSIGhVMtM02mUE3lOcfNWL-8l30VSVtzHjw4IOb7RsR-RIpzJWEIMUBQpnKgLbLsUHtoLVPkdNlByA4I6tAMwwZXZOFwehxi9HJQScZmRqKNts5ZHxYQNT-rJjfxRyzAPvdMR691-O2WezHo112cJLMENnVh62RQulpym7gdjbnmVqQAAAA&shmds=v1_AUFQtOOvqHJV-Xs2F1triZUemwqTnDDvpLdlX2fwhzO26Bdcvw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OnOf3XG9tCmDv7boAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c060c1a9d22b0c24c067def0037e5c5c4d7e72119cd119836.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 3.9 million registered developers have chosen Mapbox because of the platform’s flexibility, security, and privacy compliance. Organizations use Mapbox applications, data, SDKs, and APIs to create customized and immersive experiences that delight their customers.\n\nWhat We Do\n\nThe Maps SDK team builds the public library that powers our mobile maps. Customers of our SDK include apps on Android and iOS, small and large. We work with devices of all shapes and forms, from the latest flagship phone to tablets, laptops, smartwatches, HMD, and embedded boards. Our developers build apps, games and navigation experiences that top the App Store and Play Store rankings, and we are constantly working together to help them build what’s next, whether that’s an Augmented Reality game, a popular consumer app, or an autonomous driving experience.\n\nWhat You'll Do\n• Build and evolve our popular mapping SDK\n• Craft expressive and easy to use APIs for developers using our SDKs\n• Develop our automated tests and test automation infrastructure, and ensure that our deliverables are of the highest quality\n• Dive deep into the underlying cross-platform implementations that power our frameworks\n\nWhat We Believe are Important Traits for This Role\n• 5+ years of experience in Android development using Kotlin and Java\n• Experience building SDKs or libraries in any language\n• Experience with Jetpack Compose and Kotlin coroutines\n• Desire to build frameworks and developer tools\n• Passion for developer ergonomics and building APIs\n• Experience with testing methodologies and frameworks\n• Ability to go deep in the Android stack and navigate AOSP code when needed\n• Passionate to earn and keep customer trust\n• Desire to learn and to teach\n• Open-minded to explore new languages, skills, techniques, and platforms\n\nNice to Have Traits for This Role\n• Experience working with the Android NDK, C++ and Flutter\n• Familiarity with or a desire to learn more about OpenGL and Vulkan is a plus\n• Experience with mapping/GIS technologies\n• Experience with Android Automotive\n\nWhat We Value\n\nIn addition to our core values, which are not unique to this position and are necessary for Mapbox leaders:\n• We value high-performing creative individuals who dig into problems and opportunities.\n• We believe in individuals being their whole selves at work. We commit to this through supportive health care, parental leave, flexibility for the things that come up in life, and innovating on how we think about supporting our people.\n• We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company.\n• We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply.\n\nBy applying for this position, you acknowledge that you agree to the Mapbox Privacy Policy which is linked here.\n\nMapbox is an EEO Employer - Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity\n\n#LI-Remote",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/software-development-engineer-ii-android-maps-sdk-at-mapbox-529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs - Space Talent",
+                    "link": "https://jobs.spacetalent.org/companies/mapbox/jobs/37277125-software-development-engineer-ii-computational-geometry?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/mapbox/software-development-engineer-ii-android-maps-sdk/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs | Foundry Job Board",
+                    "link": "https://jobs.foundry.vc/companies/mapbox/jobs/43572026-software-development-engineer-ii-android-maps-sdk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "No Whiteboard",
+                    "link": "https://www.nowhiteboard.org/jobs/64e3523e159045404bf746f5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/fi/job/software-development-engineer-ii-android-maps-sdk--helsinki--eb491da7c4ac41aee405690ae35f7714d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employbl",
+                    "link": "https://www.employbl.com/jobs/software-development-engineer-ii-computa-mapbox-708727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Job Search",
+                    "link": "https://fi.thebigjobsite.com/details/45AAC46336D76AFB046387B2EC9775A1/software-development-engineer-ii--android--maps-sdk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciBJSSwgQW5kcm9pZCwgTWFwcyBTREsiLCJjb21wYW55X25hbWUiOiJNYXBib3giLCJhZGRyZXNzX2NpdHkiOiJIZWxzaW5raSwgRmlubGFuZCIsImh0aWRvY2lkIjoiT25PZjNYRzl0Q21Edjdib0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "Senior Android Developer - Kotlin",
+            "company_name": "Cross Border Talents",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=j6v5mJbQq4BZzdrQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQrCQBBAYWxzBKtpbESzIgiilT8oaGGhvWyyQ7IyziwzG8lpPKuxebzuK76jYn1HjqKw46ASAxzxgyQJFeZwlUyRh7lIBYZe6xaE4SzSEI63bc7JNs6ZUdlY9jnWZS1vJ4yV9O4llf3ztNYrJvIZn8vVoi8TN9PJQcUM9qJhoB6ekLPBgN066mZwikyeww8xcL8soQAAAA&shmds=v1_AUFQtON9HGIhd9FxhyMWg5Q00EBMeeXyILSPbSqSC2HkjB3kSw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=j6v5mJbQq4BZzdrQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c696b704bf1ca78ac5b55e3415d74f37157daa193cd7b5385.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "This a Full Remote job, the offer is available from: Finland\n\nWe are looking for an Android developer responsible for the development and maintenance of\n\napplications aimed at a vast number of diverse Android devices. Your primary focus will be the\n\ndevelopment of Android applications and their integration with back-end services. You will be\n\nworking along-side other engineers and developers working on different layers of the\n\ninfrastructure. Therefore, commitment to collaborative problem solving, sophisticated design,\n\nand creating quality products is essential.\n\nResponsibilities\n\n● Writing clean and efficient code for Android applications\n\n● Monitoring the performance of live apps and work on optimizing them at the code level\n\n● Identifying and resolving bottlenecks, rectifying bugs and enhancing application\n\nperformance\n\n● Performing unit and instrumentation tests on code\n\n● Collaborating with cross-functional teams to define and design new features\n\n● Staying up to date with new mobile technology trends, applications, and protocols\n\nRequirements\n\nYou have prior experience as an Android Developer using Kotlin, Java, Android SDK and\n\nreactive programming\n\n● Knowledge of SOLID principles\n\n● You have experience in publishing an application on the Google Play store\n\n● Proven work experience in design patterns mobile architecture using frameworks such\n\nas MVVM/MVC/MVP\n\n● Familiarity with firebase integrations\n\n● Familiarity with RESTful APIs to effectively integrate Android applications\n\n● Understanding of Google’s Android design principles and interface guidelines\n\n● Proficient understanding of code versioning tools such as Git\n\n● Familiarity with continuous integration (Bitrise, Fastlane, etc)\n\n● Familiarity with various testing tools\n\n● You are a problem solver with good analytical skills\n\nThis offer from \"Cross Border Talents\" has been enriched by Jobgether.com and got a 72% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/663cc21b62352cab8d2b3fa3-senior-android-developer---kotlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fi.linkedin.com/jobs/view/senior-android-developer-kotlin-at-cross-border-talents-3773991365?refId=nOJxzJDEEjvqhjuAnzSzMQ%3D%3D&trackingId=f04gYp580sdbKgIY427nqQ%3D%3D&position=6&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgLSBLb3RsaW4iLCJjb21wYW55X25hbWUiOiJDcm9zcyBCb3JkZXIgVGFsZW50cyIsImFkZHJlc3NfY2l0eSI6Ik91bHUsIEZpbmxhbmQiLCJodGlkb2NpZCI6Imo2djVtSmJRcTRCWnpkclFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUm1sdWJHRnVaQSJ9"
+        },
+        {
+            "title": "Senior Mobile Developers (iOS/Android)",
+            "company_name": "Qvik Ltd",
+            "location": "Helsinki, Finland",
+            "via": "Jobylon",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=xLJiDYOfh8ebdkIdAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CYKwRxVtRPCieBBERRSRPkCSZmnXxt2QDaV_8bPiHKb4jop9hUyS4C6OAsIRewwSMSlM6VGZA_sk5GewhKs4ULSpbkEYziJNwPGuzTnq1hjVUDaabaa6rOVjhNHJYN7i9N9LW5swBpvxtd6shjJyM588e-rglj0QwwWDEne0gBNxsOx_4fQZRp4AAAA&shmds=v1_AUFQtOOkyDbf5yrlW-ZLCmOjTFJKQbldSqgMVcVeTjSk6nUGYA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=xLJiDYOfh8ebdkIdAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c3b500ba98362aaaa5930f9736d8abd1f6a4827d4e845af94.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Qvik, we are elbow-deep in the consultancy business, but above all in the people business. Since 2008, we at have been building mobile experiences for consumers, e.g. in the fields of media, finance, travel and mobility, and retail. We create digital solutions for millions of end users every day by doing design, development and consultation work with our clients. And not just any clients, but the most desirable ones in the consumer market – such as Suunto, Säästöpankki, Oura and Kesko, just to name a few.\n\nOur international community consists of 140+ designers, developers and consultants based in Helsinki and Stockholm. We've been rocking the industry for 16 years now. We are not a typical top-down corporation, but an inclusive work community where individuals can affect how we roll.\n\nAre you the one, a new Qvikie?\n\nAt Qvik, we hire talented people that are more than a pair of coding hands.\n\nThis means that, besides coding amazing software, you have the ability to discuss the best technology choices and solutions with clients, including in the sales phase of a project. We take pride in our work, have the curiosity to take our personal development to the next level, and want to share our know-how with our colleagues. We want to see the same kind of spark in you.\n\nBut let's talk about tech. Modestly put, we offer the best possible tech solutions for our B2C customers' needs. To be able to contribute to this, your tech skills should heavily rely on:\n\nSwift / Objective-C and/or Kotlin\n\nAlso experience with cross-platform technologies such as Flutter or React Native is considered a plus.\n\nExperience in any other languages, platforms, technologies or environments are a definite plus for you as a future Qvikie. Responsive design and native apps are the things that make you tick. Any apps already in the store will show a good case for your experience. Seniority in leading projects, mastering agile methodologies, and passion for solving multifaceted tech problems is a definite plus. You probably have comprehensive knowledge in a couple of the mentioned languages and frameworks but, more importantly, you have an interest in learning new ones too.Currently, we are searching for pros who are located in Finland, Uusimaa and are comfortable working in Finnish alongside English.\n\nThe people you work with will be from different backgrounds and have different strengths. This means that we cherish a culture of open-mindedness, equality and empathy toward all people. At the moment, we are reinventing our DEI practices on the company level to make Qvik the best place to work for everyone – but there’s always more work to be done, and we hope that you want to be a part of it.\n\nOh, those projects\n\nAt Qvik, you'll be working in small and autonomous tech teams. Our projects are typically a combination of application and web design and development (hybrid or native), and some APIs in the backend.\n\nYou work in our customers’ development teams, usually together with other Qvikies. The end products you are working with are something you can show to your family and friends – products you can and want to use yourself. We don’t deliver off-the-shelf tricks, but build new solutions from scratch to fit our customers' demands. So you will usually work with cutting-edge software and not so much with legacy – what could be better than that!\n\nOur offer\n\nWe want to care more. We are concentrating on creating an even more inspiring and safe culture, learning by doing, deepening our professionalism, and building an even stronger community.\n\nThe salary level in this position will be somewhere between 5,000 –6,500 €/month + bonuses.\n\nOur basic benefits package is also pretty nice: lunch, commuter, culture and sports benefits, and a bike benefit. Obviously, we provide you with the tools of your choice. We also offer occupational health care with extra health insurance, travel and accident insurance and many company-supported sports and hobby opportunities with other Qvikies.\n\nSupporting the Qvikies' health and work-life balance is essential for us. We offer a sick-child care service for smoother sailing over the flu season, as well as personal support for life challenges via the Auntie service. And don't forget the community glue, aka parties – we are pretty good at setting up some jams, too :)\n\nIn addition, we offer our low-hierarchy culture; flexible working hours; opportunities to try, fail and succeed; as well as a chance for you to concentrate on your actual work. Because that's what you are coming here to do, right?\n\nOK, what next?\n\nIf you want to know more about who you'd be working with and how your days would look like at Qvik, get in touch with our technical recruiters: Olivia (olivia@qvik.fi) or Mariella (mariella@qvik.fi).\n• Please apply through our recruitment system to ensure that all personal information is processed appropriately.",
+            "apply_options": [
+                {
+                    "title": "Jobylon",
+                    "link": "https://emp.jobylon.com/jobs/18060-qvik-ltd-senior-mobile-developers-iosandroid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlcnMgKGlPUy9BbmRyb2lkKSIsImNvbXBhbnlfbmFtZSI6IlF2aWsgTHRkIiwiYWRkcmVzc19jaXR5IjoiSGVsc2lua2ksIEZpbmxhbmQiLCJodGlkb2NpZCI6InhMSmlEWU9maDhlYmRrSWRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUm1sdWJHRnVaQSJ9"
+        },
+        {
+            "title": "Senior Android Platform Developer",
+            "company_name": "Swediumglobal",
+            "location": "Finland",
+            "via": "JobLeads",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=DA9G7NE39ZoUzuVKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BeJ0s2AigiA6CaLgJPQDStKcaeR6F3JR-xv-sbq88TWfWbNrkZMUOHIokgLcyNW7lBFO-EKSjAVWcBUPiq70AwjDRSQSLg5DrVn31qqSiVpdTb3pZbTC6GWyD_H6p9PBFcy_F7vNdj2ZzHE5b98Y0nOMJN4RJIZzYnIcvnrJW5aUAAAA&shmds=v1_AUFQtOMxwYmQnQND84A9JlHGoDktNGFVmjW50yChbwafopDvFg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=DA9G7NE39ZoUzuVKAAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "€60K–€80K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "salary": "€60K–€80K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Swedium Global is the growing System Engineering and Solution Company, offering services like Semiconductor Engineering R&D Services, Embedded Systems Development, Custom Application Software Development, Web and Cloud Application Development, Testing Services, Consultancy, and Outsourcing services to our clients across the globe for an onsite and offshore business model. Swedium Global has a presence in Sweden, Finland, Poland, Czech Republic, and India.\n\nLocation: Sweden\n\nJob Description: Senior Android Platform Developer\nRoles and Responsibilities\n\nResponsibilities\n• Collaborate with colleagues to contribute to the entire product development lifecycle\n• Drive the development of assigned work packages\n• Safeguard maintainability and code quality\n• Support the team with design reviews and code reviews\n• Facilitate knowledge sharing and team collaboration\n\nWe are looking for individuals passionate about HW solutions, Android development, and working in tight collaboration with customer projects. Key qualifications include:\n• Java, Kotlin, C, C++, Python\n• Jenkins\n• Knowledge of Qualcomm CPUs is a bonus\n• Ability to work in a hybrid environment with up to 1 day remote\nJob Overview\n• Vacancy: 1",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/fi/job/senior-android-platform-developer--finland--e6fe5b4b04afa05b672191d8ef34107f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBQbGF0Zm9ybSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTd2VkaXVtZ2xvYmFsIiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiREE5RzdORTM5Wm9VenVWS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        },
+        {
+            "title": "ANDROID ENGINEER - AUTOMOTIVE",
+            "company_name": "Unikie",
+            "location": "Tampere, Finland",
+            "via": "Työpaikat | Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=rDjcG64F9s3TUsBQAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHwQqCQBAAULr6CZ3mHOVG1KVOgpsYpCDaVVYbdGudWZw9-Bf9cnV58KLPKjomRVqVeQq6yPJC6wp2kDR1eS_r_KF_uXEHgmbuR2CCjHlwuL6MIXg5KyXi4kGCCbaPe54UE3a8qBd38qeV0czonQnYHk77JfY0bNYN2bdFsAS1mTzOuIWrJWfo-QVDqAS8kgAAAA&shmds=v1_AUFQtOMPqWpEaaI3uRBD7p-wJx0B5k_IziIIhmOxndL21tdpng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=rDjcG64F9s3TUsBQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c3d456f53d9725685c3af7b65917c57332da76e45b6e8a313.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "WE ARE LOOKING FOR\n\nAndroid Engineer\n\nWe are looking for Android Engineer to our team. You will start your journey either in a selected customer project or in Unikie's internal product development team, depending on your profile and available opportunities\n\nYour future colleagues are waiting for you to join our international team. Working with us is uncomplicated, there’s a good team spirit, low-hierarchy and nonexistent bureaucracy. Our way of working is flexible too, many of our team work remotely from home with visits to our office from time to time when needed. This role is equally challenging, and as such we offer a very good compensation.\n\nResponsibilities:\n• Design and develop modular, scalable infotainment applications on Android Automotive OS.\n• Create design patterns and libraries to facilitate application development.\n• Collaborate with cross-functional teams, including product and UI/UX design, to define application features.\n• Identify and resolve application bottlenecks for performance optimization.\n• Conduct code reviews and practice continuous integration and development.\n• Write test code to ensure quality, robustness, and functional correctness, including edge cases.\n• Design and implement application updates and releases.\n• Investigate the Android Automotive OS codebase for better application performance and integration.\n• Develop sample and demo applications utilizing our technology.\n• Engage in continual learning through workshops, conferences, and talks.\n\nSkills Required\n• Android NDK\n• Jenkins\n• Android\n• Android AOSP\n• Android Development\n• Android Jetpack Compose\n• C++\n• Java\n• Kotlin\n• Android Automotive\n\nLocations\n• Tampere\n• Tallinn\n• Helsinki\n• Szczecin\n\nREQUIRED QUALIFICATIONS\n• Proven Android application developer with 5+ years of experience.\n• Proficiency in Kotlin, Java.\n• C++ is nice to have.\n• Ability to manage workload with minimal supervision.\n• Proficiency in using Android and Android Jetpack APIs, including general knowledge of Android NDK and JNI.\n• Knowledge of Android design principles, application interface guidelines, performance, and testing frameworks.\n• Familiarity with embedded Android framework services.\n• Experience with developing mapping, multimedia, and Bluetooth solutions is a plus.\n• Familiarity with push notifications, APIs, and cloud messaging.\n• Excellent coding and proofreading skills.\n• Familiarity with Agile Scrum practices.\n• Excellent interpersonal skills with the ability to collaboratively work with and influence cross-functional teams.\n\nWHY JOIN UNIKIE?\n\nWe are dedicated partner for global players in our segments – Unikie supplies technology solutions and services to several global Fortune 500 companies in EMEA and America.\n\nAs a responsible and competent partner, we have access to some of the most interesting projects. Technology we create enables our clients to become digital leaders in their own industries.\n\nWe cherish transparency and do our best that it shows up in as many processes as possible. One example of this is our salary model.\n\nWe have top-notch technical talent, dedication and excitement to develop ourselves and solve even the toughest challenges.\n\nThe combination of our agile teams, proven track record, industry insight, and holistic service and solution model place us at the forefront of cutting-edge technologies.\n\nWork in a flexible low-hierarchy organization that looks after its own.\n\nUnikie is a global software engineering and innovation company that infuses intelligence into machines, vehicles, and industrial solutions. We provide intelligent solutions for the automotive, heavy equipment, transportation & logistics, devices & IoT, and networks & communication industries.\n\nWith over 500 engineering professionals and a revenue of 65 million euros (2023), Unikie is a premium partner for unique embedded software and marshalling solutions that create value and success in the evolving digital landscape of tomorrow.",
+            "apply_options": [
+                {
+                    "title": "Työpaikat | Indeed",
+                    "link": "https://fi.indeed.com/viewjob?jk=764c3bb543285071&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fi.linkedin.com/jobs/view/android-engineer-automotive-at-unikie-4093555716?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBTkRST0lEIEVOR0lORUVSIC0gQVVUT01PVElWRSIsImNvbXBhbnlfbmFtZSI6IlVuaWtpZSIsImFkZHJlc3NfY2l0eSI6IlRhbXBlcmUsIEZpbmxhbmQiLCJodGlkb2NpZCI6InJEamNHNjRGOXMzVFVzQlFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lIUm1sdWJHRnVaQSJ9"
+        },
+        {
+            "title": "Android Engineer | Consumer Mobile Platform",
+            "company_name": "Wolt",
+            "location": "Helsinki, Finland",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=Z7DhMzeLF_obdqk-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvwrCMBCAcVz7BjrdLNqI4KKTin8QBDfHkrRncprelVyEDj6KD2tdPn7TV3xHxW7LTRJq4MCeGDHBB_bC-m4HXsVRRLhFmx-SWpjDRRwo2lQHEIaTiI842YScO10boxpLr9lmqstaWiOMTnrzFKf_VBpswm64YbVcLfqyYz8d3yVmIIYzRiV-0QyOxNFy8wMDCdSVnwAAAA&shmds=v1_AUFQtOOQFDFhnOz7tgHq5CAHPAQKIUjXnUxtzXsDCa9pOdfbzg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=Z7DhMzeLF_obdqk-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c9de9ec48ecebdfd7f11629d2a02122b793eb3005a3c2d254.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Wolt is looking for a Senior/Staff Android Engineer to expand our Consumer Mobile Platform team. The team is part of the Consumer Product group and is responsible for enabling the delivery of the consumer mobile apps that millions of people in over 20 countries around the world see when ordering food and other products.\n\nOur client platform teams have a clear mission:\n\n“Enable delivery and ownership of Wolt-grade Consumer Client Applications through engineering excellence and domain expertise.”\n\nAs part of the team, and to fulfil our mission, you will focus on many different areas:\n\n• Building the foundation of our top-rated consumer facing applications\n• Enablement of our product teams, architecture and platform robustness, observability, developer experience, and more.\n• Driving technical initiatives to foster our engineering excellence\n• Aligning with multiple stakeholders\n• Supporting product development teams by providing a robust platform that makes it simple and fast for our features to reach our millions of customers\n• If you like to communicate with many stakeholders, think about the long-term health and quality of customer experience and technical solutions, find ways to make other engineers’ lives easier and raise the bar of engineering excellence, this is the team for you!\n\nThis role can be based in one of our tech hubs in Helsinki, Berlin, or Stockholm.\n\nRead more about our hiring process here. 🌍\n\nFeel free to check the Wolt Tech Blog for more read about our culture & technology here.\n\n• Highly experienced in Android development\n• Deep understanding of the Android ecosystem and platform\n• A strong interest in building a maintainable and extensible Android platform\n• Strong end-to-end system design understanding\n• Experienced with CI/CD pipelines\n• Strong communication skills\n• Strong stakeholder management\n• Experienced in driving initiatives across an engineering organisation\n• Optional, but great to have: Experience/strong interest in mobile observability\n\nThe position will be filled as soon as we find the right person, so make sure to apply as soon as you realize you really, really want to join us!\n\nThe compensation will be a negotiable combination of monthly pay and DoorDash RSUs. The latter makes it exceptionally easy to be excited about our company growing and doing well, as you’ll own a piece of the pie.\n\nFor any further questions about the position, you can turn to Product+ Talent Acquisition Partner - Jaksa Marojevic (jaksa.marojevic@external.wolt.com).",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/android-engineer-consumer-mobile-platform-wolt-6012188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fi.linkedin.com/jobs/view/senior-android-engineer-automotive-os-at-unikie-4093560123?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIHwgQ29uc3VtZXIgTW9iaWxlIFBsYXRmb3JtIiwiY29tcGFueV9uYW1lIjoiV29sdCIsImFkZHJlc3NfY2l0eSI6IkhlbHNpbmtpLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJaN0RoTXplTEZfb2JkcWstQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "Software Engineer (Android), Libraries",
+            "company_name": "Mural",
+            "location": "Vantaa, Finland",
+            "via": "Minn Henkilöstöpalvelut",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=LE5czCkVPdr2n5MnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQ4BQRAA0GjvC0Q1JXJuRaIhCgUSoZJoZfZu7K2smcvOiPsS34vmta_4DIrNRe72xkyw4xCZKMN4y02W2ExKOEWfMUdSmMFRPChhrlsQhoNISDRat2adrpxTTVVQQ4t1VcvTCZOX3j3E65-btr-jS2h0WyznfdVxmA7Pr4wJIsMV2RBL2EdOyM0XdvItn5kAAAA&shmds=v1_AUFQtOOq3OVFt-p2kACJ9dGurUjCGPpjSK7_6RTU6zLWpkFaWQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LE5czCkVPdr2n5MnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c4661c47935708f107342a14b72026bf793c1723dc7458fe6.png",
+            "extensions": [
+                "2.5K a month",
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "2.5K a month",
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description As a Product Designer, you will work within a Product Delivery Team fused with UX, engineering, product and data talent. You will help the team design beautiful interfaces that solve business challenges for our clients. We work with a number of Tier 1 banks on building web-based applications for AML, KYC and Sanctions List management workflows. This role is ideal if you are looking to segue your career into the FinTech or Big Data arenas. Key Responsibilities Be involved in every step of the product design cycle from discovery to developer handoff and user acceptance...",
+            "apply_options": [
+                {
+                    "title": "Minn Henkilöstöpalvelut",
+                    "link": "https://www.minn.fi/job/software-engineer-android-lib?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoQW5kcm9pZCksIExpYnJhcmllcyIsImNvbXBhbnlfbmFtZSI6Ik11cmFsIiwiYWRkcmVzc19jaXR5IjoiVmFudGFhLCBGaW5sYW5kIiwiaHRpZG9jaWQiOiJMRTVjekNrVlBkcjJuNU1uQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSFJtbHViR0Z1WkEifQ=="
+        },
+        {
+            "title": "Software Development Engineer Iii, Android, Navigation SDK",
+            "company_name": "Mapbox",
+            "location": "Finland",
+            "via": "The Org",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=G1yBbZoI466PPG9UAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBRFce3m6vRmqY0ILjoJVVFRkH5ASdtn-iR9LySh9n_8UeNyh8M53Ow7y56VvOJHe4QSR7TiBuQIRzbEiB4uRDkcuPNCXQ4PPZLRkYShKm-wgqs0EFD7tofEziLG4mLfx-jCTqkQbGFCTEFbtDIoYWxkUm9pwn_q0KdfZ3XEerNdT4Vjs5zftUsSEMOJ2Grufi_0GiqmAAAA&shmds=v1_AUFQtOM67XJMykOmD-PmMEiFKI2DG0fFycpBN_gO_LI0-w9qvw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=G1yBbZoI466PPG9UAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6785027fe6f9a091d76f95b3/images/7f45f0a7a0c3b73c678d44033ac71b7f8d75c90fc6e6d1aaedc0d939131d1050.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 3.5 million registered developers have chosen Mapbox because of the platform’s flexibility, security and privacy compliance. Organizations use Mapbox applications, data, SDKs and APIs to create customized and immersive experiences that delight their customers.\n• *What We Do**\n\nThe Navigation SDK team builds frameworks and applications that power navigation everywhere. Customers of our SDK include automotive, logistics and consumer apps on Android, iOS and Linux, small and large. Our developers build apps and navigation experiences that top the App Store and Play Store rankings, and we are constantly working together to help them build what’s next, whether that’s an Augmented Reality app, an AI powered experience, a popular consumer app, or an autonomous driving experience.\n• *What You'll Do**\n\nIn this role, you will play a critical part in defining architectural direction, leading technical initiatives, and designing scalable features. Your primary focus will be on developing innovative solutions that integrate multiple Mapbox SDKs (Navigation, Maps, and Search), enabling customer applications to deploy quickly and efficiently.\n\nYour responsibilities will include:\n• Defining and Overseeing the implementation of large-scale, cross-functional projects and initiatives.\n• Ensuring quality by driving improvements in our development processes, code quality standards, and best practices across teams\n• Engaging in technical conversations and decisions that affect long-term strategic direction and scalability.\n• Acting as a technical mentor and resource for the team, fostering professional development and knowledge-sharing.\n\nIn addition, you’ll actively participate in hands-on development work to maintain high-quality standards across our SDKs:\n• Design expressive and user-friendly APIs for developers using our SDKs.\n• Delivering high-quality features in collaboration with peers and cross-functional teams.\n• Implementing improvements to our SDK's functionality and developer experience.\n• Dive into the cross-platform implementations underlying our frameworks to ensure seamless integration and functionality.\n• Debugging, profiling, and optimizing performance issues.\n• *What We Believe are Important Traits for This Role**\n• Demonstrated history of shipping complex Android applications or SDKs.\n• Experience with native technologies, such as Kotlin and Java.\n• Experience with testing methodologies and frameworks.\n• Focus on usability and great user experience.\n• Desire to build frameworks and developer tools.\n• Desire to learn and to teach.\n• Passion to earn and keep customer trust.\n• Readiness to go deep in the Android stack and navigate AOSP code when needed.\n• Experience debugging and profiling to resolve performance issues is a plus.\n• Experience building SDKs in any language is a plus.\n• Familiarity with or a desire to learn more about C++ is a plus.\n• *What we Value**\n\nIn addition to [our core values](https://www.mapbox.com/about/values/), which are not unique to this position and are necessary for Mapbox leaders:\n• We value high performing creative individuals who dig into problems and opportunities.\n• We believe in individuals being their whole selves at work. We commit to this through supportive health care, parental leave, flexibility for the things that come up in life, and innovating on how we think about supporting our people.\n• We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company.\n• We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply.\n• By applying for this position, you acknowledge that you have received the* [*Mapbox Non-US Privacy Notice*](https://www.mapbox.com/legal/applicant-privacy-notice/) *for applicants, which is linked here. Completing this application requires you to provide personal data, such as your name and contact information, which is mandatory for Mapbox to process your application.*\n• Mapbox is an EEO Employer - Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity*",
+            "apply_options": [
+                {
+                    "title": "The Org",
+                    "link": "https://theorg.com/org/mapbox-inc/jobs/software-development-engi-730de497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciBJaWksIEFuZHJvaWQsIE5hdmlnYXRpb24gU0RLIiwiY29tcGFueV9uYW1lIjoiTWFwYm94IiwiYWRkcmVzc19jaXR5IjoiRmlubGFuZCIsImh0aWRvY2lkIjoiRzF5QmJab0k0NjZQUEc5VUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUhSbWx1YkdGdVpBIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMnhSU0dVeU5rbHhTVEpMU0dOblprZFpiVkpPVEVaU1dWa3pMWEJmVldsQ0xXdFhWbEprUzB3d05tTnlWMHAwY1hkTlQwZzRUemwwVVdsS1ZsZHNibTFGVUdzemNVMWFOelJxUm1wTk5GcElVamRWUm5waWFUUTJlREZNVEhRd1ZVYzNjRmw2TmtsbGVVNUpXWGMxUTE5MFRVc3RNMWRDTmw5Sk9HaFFlamh5WW5oWGQzcE5PRzR4VEhveVRHaG9ZbUYxZUU5blZqZGFSWHBwUTFZeVNqRTNSbkY0YVZSbGFYRTRXSEZXVUV0alNEZDNTa1J5YmpSdFkzQnhhVXBqT1VsSE1XWkVUSFpSWVVwbldXbFNlbmRhY2xGU2EwdzFhM1JhVmpCbWVpMVdaRmN6YkVwTE1rMHljRTgzU2xWSFJWZFdTSEEzU214UVZYWk5WR05ITUZwNFlqSmtXamh4WWpaelYxTkJibXQyTVRnMWRWUkVUVVZyU25jU0YyWjNTMFphTlhWTlMwMVRielZPYjFCMGRtSkpkVkZWR2lKQlJsaHlSV054ZG5KTFdHNDVNV010ZFdjd2RrdENPSE5EUkZadlkyODRkMVZuIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Finland&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMnhSU0dVeU5rbHhTVEpMU0dOblprZFpiVkpPVEVaU1dWa3pMWEJmVldsQ0xXdFhWbEprUzB3d05tTnlWMHAwY1hkTlQwZzRUemwwVVdsS1ZsZHNibTFGVUdzemNVMWFOelJxUm1wTk5GcElVamRWUm5waWFUUTJlREZNVEhRd1ZVYzNjRmw2TmtsbGVVNUpXWGMxUTE5MFRVc3RNMWRDTmw5Sk9HaFFlamh5WW5oWGQzcE5PRzR4VEhveVRHaG9ZbUYxZUU5blZqZGFSWHBwUTFZeVNqRTNSbkY0YVZSbGFYRTRXSEZXVUV0alNEZDNTa1J5YmpSdFkzQnhhVXBqT1VsSE1XWkVUSFpSWVVwbldXbFNlbmRhY2xGU2EwdzFhM1JhVmpCbWVpMVdaRmN6YkVwTE1rMHljRTgzU2xWSFJWZFdTSEEzU214UVZYWk5WR05ITUZwNFlqSmtXamh4WWpaelYxTkJibXQyTVRnMWRWUkVUVVZyU25jU0YyWjNTMFphTlhWTlMwMVRielZPYjFCMGRtSkpkVkZWR2lKQlJsaHlSV054ZG5KTFdHNDVNV010ZFdjd2RrdENPSE5EUkZadlkyODRkMVZuIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

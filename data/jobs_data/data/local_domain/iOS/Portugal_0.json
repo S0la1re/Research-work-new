@@ -1,0 +1,517 @@
+{
+    "search_metadata": {
+        "id": "678508afc60aef5ce8487da5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ca0b9c0198a2a610/678508afc60aef5ce8487da5.json",
+        "created_at": "2025-01-13 12:35:59 UTC",
+        "processed_at": "2025-01-13 12:35:59 UTC",
+        "google_jobs_url": "https://www.google.pt/search?q=iOS+developer&uule=w+CAIQICIIUG9ydHVnYWw&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/ca0b9c0198a2a610/678508afc60aef5ce8487da5.html",
+        "total_time_taken": 1.15
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Portugal",
+        "location_used": "Portugal",
+        "google_domain": "google.pt"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIIhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.pt/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwi3oq7-2vKKAxXMDkQIHbVlA3UQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "SAS GoodBarber",
+            "location": "Coimbra, Portugal",
+            "via": "GoodBarber",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=2pryGMgn8vWzhXtAAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNPQoCMRBAYWz3CFYDWokmIti4lT8g2CjsAZZJHJJINhMyUfYIHlu3eeX3mu-sWYZ7Bxf6UORMBTZwYwNCWKwHTnBldpHmra81y0FrkaicVKzBKsuD5kSGR_1iI1N68VgoR6zU7_bbUeXkVovu2E3Q84TF_B8hwZnDYAqu4cGlvh3GH65hkR-LAAAA&shmds=v1_AUFQtONCvwnvDDx_Qjto02S2FzeTQ7KRY9moj5y14vXdreMVkw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=2pryGMgn8vWzhXtAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c9084e9a52fabf15df5b7cb1b362db3c79718e4ad96e4743e3.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Reporting to the Head of iOS Engineering, you, as iOS Developer — collaborating closely with our Product, Design, and QA teams —, will be contributing to spec, build, test and deploy new features on the GoodBarber engine — used to create thousands of apps.\n\nYour role will involve developing digital product experiences and utilities for mobile and desktop, using the iOS SDK. You'll also be contributing by implementing best practices to ensure app reliability and security, fixing bugs, and refactoring the code base when necessary. You will build new features and enhance existing ones. You'll be able to proactively look for ways to make the project better.\n\nWithout you, we wouldn't be able to build the excellent experiences our users expect from us.\n\nIt's a big challenge, but no one said building great things was going to be easy. However, it does help that you will be doing this alongside great teammates, experienced enough to know the ropes, but young enough to believe we can change everything!\n\nMissions & Responsibilities\n• Craft new and improved features of the GoodBarber Engine;\n• Analyse functional specifications (written by the functional project manager) and contribute to technical specifications (under the management of the technical lead);\n• Identify the right technical solutions, define the technical architecture for given projects, within the general framework;\n• Rapidly solve problems;\n• Optimize the existing code for ease of use and performance;\n• Prototype product concepts.\n\nWhy you should apply:\n• An international environment. Be part of our multicultural and distributed team. Including regular trips to Ajaccio where you’ll be able to meet with our other offices.\n• Transparency. Regular feedback, honest discussions about our company goals, and more.\n• Impact. Create and develop a product that has a real impact on society.\n• People-first. Fun, happy and politics-free work culture built on the principles of lean and self-organisation.\n• Shared company principles that guide us in our everyday decision-making and bring us closer to our goal.\n• We'll provide you with a Macbook and the tech stack to help you do your best work.\n• Flexible work hours.\n• Health Insurance.\n• Meal allowance.\n• 25 days of vacation.\n• A fair & competitive salary package.\n\nWhat you might bring:\n• 1y+ of experience with iOS SDK,\n• Strong communication skills (English), comfortable working with teams from diverse backgrounds;\n• Collaborative attitude when working with other team members;\n• Strong problem solving skills;\n• The ability to propose, listen and accept constructive feedback;\n• Bias-to-action, you’re autonomous and unafraid to be proactive;\n• Experience with agile software development lifecycle (Scrum);\n• Experience using project management tools (JIRA, Confluence.",
+            "apply_options": [
+                {
+                    "title": "GoodBarber",
+                    "link": "https://careers.goodbarber.com/o/ios-developer-coimbra?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ITJobs",
+                    "link": "https://www.itjobs.pt/oferta/494267/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://pt.jooble.org/jdp/7218505444124780338?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Empregos Trabajo.org",
+                    "link": "https://pt.trabajo.org/emprego-2811-c3f229e2a08848f521b2be297e8e118e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.infoempregos.net",
+                    "link": "https://www.infoempregos.net/pt/jobad/3e26116ea950fb18/3488492988/8478817986/ios-developer.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiU0FTIEdvb2RCYXJiZXIiLCJhZGRyZXNzX2NpdHkiOiJDb2ltYnJhLCBQb3J0dWdhbCIsImh0aWRvY2lkIjoiMnByeUdNZ244dld6aFh0QUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVRzl5ZEhWbllXdyJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "eyenov",
+            "location": "Alfragide, Portugal",
+            "via": "Eyenov",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=Mjc6q3yhNgsPI6bUAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQoCMQwAUFzvEwQhg5NoK4KLToIguCj4AUdaY1upTWnica5-ufiG130n3TxdbnCkgTJXarCCMzsQwuYjcIETc8g03UfVKjtrRbIJoqjJG88vy4Ucj_bJTv71ErFRzajUb7br0dQSFjP6UOEBUoFDfjQM6U5LuHLTd8D8A75-4b2FAAAA&shmds=v1_AUFQtOMjtBGLKmq6qSWQz19-JVt5Ow5veBLxddhtPjrtsR632g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Mjc6q3yhNgsPI6bUAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "eyenov is looking for a passionate iOS developer to integrate our team and to work in a multi-platform mobile video edit software.\n\nYou will be working alongside other engineers and developers working on different layers and different versions of the application. Therefore, a commitment to collaborative problem solving, sophisticated design, and the creation of quality products is essential.\n\nSkills:\n• Proficient with Objective-C and/or Swift\nExperience with iOS frameworks\nInterest in building multimedia applications for video editing\nProficient understanding of code versioning tools, such as Git\nFamiliarity with continuous integration\nStrong debugging skills\nA knack for benchmarking and optimization\nA born collaborator, you value communication and sharing knowledge. You also work well in a team setting and like to achieve common goals & objectives\nProficient in spoken and written English\n\nSome of our perks and benefits include:\n• Private retirement plan\n• Health insurance\n• Productivity bonuses\n• Flexible work schedule\n• Possibility to work fully remote, hybrid or in our office located in the Greater Lisbon area.\n\nAbout eyenov:\nWe are a company specialized in the fields of multimedia, computer graphics, augmented reality, virtual reality, computer vision, machine learning, mobile, desktop and server applications, as well as several other emerging state-of-the-art technologies. One of the strongest points of our team is the ability to adapt to new technological challenges, even if it requires large R&D background work or to come up with novel concepts, algorithms or paradigms.\n\nIf you’re looking for a new challenge, something different and to work with top notch senior software developers on highly addictive projects, get on board!",
+            "apply_options": [
+                {
+                    "title": "Eyenov",
+                    "link": "https://eyenov.com/jobs/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiZXllbm92IiwiYWRkcmVzc19jaXR5IjoiQWxmcmFnaWRlLCBQb3J0dWdhbCIsImh0aWRvY2lkIjoiTWpjNnEzeWhOZ3NQSTZiVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVRzl5ZEhWbllXdyJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Agentifai SA",
+            "location": "Braga, Portugal",
+            "via": "Careers - Agentifai SA - Agentifai",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=6frUpUECl3ewfqSvAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAAQGzvCTZuYSWaiGCj1Ykg2CjcA45NWJNIzIbsKvcAHy5OMd131i3TbYAzfShzpQYbuLIDIWw-Ahe4MIdM82NUrXKwViSbIIqavPH8slzI8WSf7OTfKBEb1YxK426_nUwtYbXoAxVND0ww9JAKnBoGXMOdm74D5h9C_fPthwAAAA&shmds=v1_AUFQtOPNNJenGXrxA492UkPrXEy-jhDlNem11FMccfupJQY9Aw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=6frUpUECl3ewfqSvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c9c7e5f0850178adc53ea148973fd0e0f882b7b25729685fe7.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "About Us\n\nAgentifai is building the most advanced AI assistants with new interaction models and state-of-the-art technology. We exist to reinvent the way people access the most important services in their lives, such as Healthcare or Financial services.\n\nFor the first time, it’s the technology that adapts to humans and not vice-versa. Our mission is to change the relationship between humans and machines by using one of the oldest human tools: language.\n\nWe are looking for talented people to humanize technology.\n\nJoin us to create this Exponential Experience.\n\nJob Description\n\nWe’re looking for talented iOS Developers to:\n\nDesign, develop, our mobile framework/SDK for the iOS platform. Apply best coding practices and advocate for them through design and code reviews. Collaborate and brainstorm across teams to define and ship new features.\n\nWhat we are looking for\n• Bachelor’s or Master's Degree in Software Engineering, Computer Science, or similar. If you don’t have it but you understand computer science and software engineering fundamentals, we still want to hear from you;\n• Deep knowledge of Swift and the iOS SDK.\n• Understanding of UIKit and Auto Layout.\n• Understanding of reactive programming (RxSwift, Combine, etc).\n• Creating fluid visual interactions, creating and implementing mobile user experience patterns;\n• Keeping up with the latest trends, architectures, ideas and technologies in the mobile ecosystem;\n• Producing clean and organized code, taking advantage of software design patterns, architectural patterns and data structures;\n\nNice to have\n\nYou don’t need to have knowledge in all of the following items, but you have in at least one of them, it will be a bonus:\n• Be familiar with the user experience design process;\n• Knowledge with CI/CD development methodologies and tools;\n\nWhat can you expect from Agentifai\n• In Agentifai you will have the opportunity to work on bleeding edge technology that is being applied in real world contexts in ways that have never been attempted before, namely text and voice enabled conversational agents with transactional capabilities (e.g. scheduling a medical appointment, performing a bank transfer, etc);\n• You will be conceiving solutions for interesting problems which will improve your creativity and skillset as a software engineer;\n• You will be part of an extremely skilled team working in a cordial and welcoming environment.\n• Health insurance, flexible working and other benefits;\n• Full Remote or Hybrid Work;",
+            "apply_options": [
+                {
+                    "title": "Careers - Agentifai SA - Agentifai",
+                    "link": "https://careers.agentifai.com/jobs/1402136-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://pt.indeed.com/viewjob?jk=7d11f2396f3cfb6a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ITJobs",
+                    "link": "https://www.itjobs.pt/oferta/494045/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SAPO Emprego",
+                    "link": "https://emprego.sapo.pt/offers/ios-developer?id=a1895093-c9e0-4559-a5cd-c04f61a76008&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pt.linkedin.com/jobs/view/ios-developer-at-adquam-4104776027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://pt.jooble.org/jdp/1518732400287500119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Empregos Trabajo.org",
+                    "link": "https://pt.trabajo.org/emprego-2811-2eca67bc4f1aa329055b282e36f9f134?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JOBATUS",
+                    "link": "https://www.jobatus.pt/oferta-emprego/ios-developer-116534909?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQWdlbnRpZmFpIFNBIiwiYWRkcmVzc19jaXR5IjoiQnJhZ2EsIFBvcnR1Z2FsIiwiaHRpZG9jaWQiOiI2ZnJVcFVFQ2wzZXdmcVN2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVVHOXlkSFZuWVd3In0="
+        },
+        {
+            "title": "Mobile Developer (iOS)",
+            "company_name": "Mindera",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=liQaMsQVOe05xElYAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3FQQrCMBAAQLz2CT3tUcUmInjRqyAIRcEHlCQuacqaDdlV-gSfLXqZaT6LpuvZJ0I44RuJC1ZYput9BR1c2IOgq2EEznBmjoTtcVQtcrBWhEwUdZqCCfy0nNHzbCf28mOQ0VUs5BSH3X47m5Ljuu1TfmB1kDLcuCpv_r2ioy8BP6amiwAAAA&shmds=v1_AUFQtONtVBeodif0jYjV7CAKCsNp7bz-VsozMiV3lxyXq5fieA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=liQaMsQVOe05xElYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c9a7d2b2db59e590e534a7288a6c9148f32ef66e419bc4a268.jpeg",
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Here at Mindera, we are continuously developing a fantastic team, and would love it for you to join us. As an iOS Developer you will be responsible for creating fast, fluid, responsive and reliable mobile applications that provide our customers a rewarding experience. You’ll have an opportunity to participate in the whole development cycle, using modern technologies, architectures and processes.\n\nNational and international expected traveling time varies according to project/client and organisational needs: 0%-15% estimated.\n\nRequirements\n\nYou Rock at\n• Swift, Cocoa Touch and other Apple frameworks\n• Being self-driven and working with little supervision towards a common team or company purpose.\n• Creating fluid visual interactions, creating and implementing mobile user experience patterns\n• Having a sense of craftsmanship in what you produce, seeking the best solutions and being proud of the final outcome\n• Keeping up with the latest trends, architectures, ideas and technologies in the mobile ecosystem\n• Being a team player, sharing knowledge and leading by example\n\nYou are good at\n• Agile mindset and methodologies such as Scrum and Kanban.\n• Developing and maintaining iOS applications from the requirements to the App Store.\n• Producing clean and organized code, taking advantage of software design patterns, architectural patterns and data structures.\n\nNice to have\n• Experience with FRP framework (ReactiveCocoa, RxSwift, etc)\n• Experience with MVVM(-C) architecture\n• Experience with Functional programming/concepts\n• Experience with CI/CD development methodologies and tools (fastlane, Jenkins, Travis, GoCD, etc)\n• Ability/experience testing code and/or writing testable code\n• Open Source contributions and/or willingness to contribute\n\nWhat you will be doing\n• Developing and maintaining features in a collaborative, Agile environment;\n• Writing testable code and ensuring the test coverage stays at the agreed level;\n• Documenting your code;\n• Take ownership of your code every step of the way - from development to deployment and maintenance;\n• Diagnose issues in production and devise solutions for them;\n• Work both autonomously and collaboratively to complete tasks;\n• Be an integral part of solutions design and implementation;\n\nBenefits\n\nThe Things We Really Care About:\n• Health Insurance, because health comes first\n• Flexible working hours\n• Open holidays, take the time you need for yourself\n• Profit distribution for everyone\n• Mindera Annual Trip, Sports, and sharing groups to connect and have fun!\n• Training & conferences, create your own training plan\n• Child Care vouchers\n\nOther Good Things:\n• Choose the Laptop and peripherals that best suit your needs\n• Hotspot with unlimited usage (PT), for work or Netflix ;)\n• We have amazing offices in Porto, Aveiro, and Coimbra if you want to physically connect with minders. Remote from Portugal is also an option. Remote from other Countries will depend on your current location and Projects.\n• At the offices, we have a wide range of snacks to keep you fed and healthy\n• Partnerships with local businesses\n\nMost of all You get to work with a bunch of great people, where the whole team owns the project together in a politics-free environment. Our culture reflects our lean and self-organization attitude. We encourage our colleagues to take risks, make decisions, work in a collaborative way and talk to everyone to enhance communication. Freedom and Responsibility go hand in hand, and we value commitment, feedback, and empathy.\n\nAbout Mindera\n\nAt Mindera we use technology to build products we are proud of, with people we love.\n\nSoftware Engineering Applications, including Web and Mobile, are at the core of what we do at Mindera.\n\nWe partner with our clients, to understand their products and deliver high-performance, resilient and scalable software systems that create an impact in their users and businesses across the world.\n\nYou get to work with a bunch of great people, where the whole team owns the project together.\n\nOur culture reflects our lean and self management attitude. We encourage our colleagues to take risks, make decisions, work in a collaborative way and talk to everyone to enhance communication.\n\nWe are proud of our work and we love to learn all and everything while navigating through an Agile, Lean and collaborative environment.\n\nCheck out our Blog and our Handbook!\n\nOur offices are located: Porto, Portugal | Aveiro, Portugal | Coimbra, Portugal | Leicester, UK | San Diego, USA | San Francisco, USA | Chennai, India | Bengaluru, India | Cluj-Napoca, Romania | Blumenau, Brazil",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://pt.indeed.com/viewjob?jk=6bdeeb1219c1b15a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/mobile-developer-ios/3010493?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://jobs.workable.com/view/8RL7saoaMywyydm8sGnAkE/remote-mobile-developer-(ios)-in-porto-at-mindera?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pt.linkedin.com/jobs/view/mobile-developer-ios-at-mindera-4120056911?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIChpT1MpIiwiY29tcGFueV9uYW1lIjoiTWluZGVyYSIsImFkZHJlc3NfY2l0eSI6IlBvcnRvLCBQb3J0dWdhbCIsImh0aWRvY2lkIjoibGlRYU1zUVZPZTA1eEVsWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVRzl5ZEhWbllXdyJ9"
+        },
+        {
+            "title": "iOS Developer (Mid and Senior)",
+            "company_name": "Powertalent",
+            "location": "Anywhere",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=kclpUsu1-pREh1HzAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CV7co4omIvSiV0EQxUIfUJJ2SSNxN2RX7Uf8rziHqb6zqo73Fk74xsQZCyxvcQBHA7RIkcsKtnBhD4Ku9CMwwZk5JJwfR9UsB2tFkgmiTmNven5aJvQ82Qd7-dfJ6Arm5BS7fb2bTKawXjT8waIuISlEgmsUz7SBhou-gks_bp9nG5gAAAA&shmds=v1_AUFQtOPKfH-i8T-vcQlplynRzX0HSkCc2VGYDss9whx4xtOUUg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=kclpUsu1-pREh1HzAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c9bace74baa8bc78570fefce29ad3dbbfb587fdec97e39f094.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Powertalent: Recruitment, Selection and Global Outsourcing\n\nSince 2021, Powertalent has excelled in customized talent solutions. Specialists in recruitment and selection, we streamline complex processes and find the best professionals, globally.\n\nWe offer recruitment, outsourcing, and hybrid solutions, setting up local, nearshore, or offshore teams according to our client's needs. We use Portugal's advantages, such as climate and security, to offer nearshoring solutions that boost the growth of your business.\n\nWith Powertalent, we guarantee complete and efficient solutions, so that our clients don't have to worry about a thing.\n\nWe're looking for experienced iOS programmers who are passionate about technology, with great attention to detail and who thrive in a collaborative and international environment.\n\nRequirements:\n• 4+ years.\n\nSolid knowledge of:\n• Reactive programming (RxSwift or Combine).\n• Objective-C\n• SwiftUI framework\n• Swift.\n• MVVM.\n• Unit testing.\n• Quality gates.\n• Adaptive Layout.\n• Design patterns and SOLID principles.\n\nKnowledge of:\n• Principles of TDD.\n• Publishment of applications in the App store.\n• Dependency management (SPM/CocoaPods).\n• Effective or B2B contract, it's up to you\n• Food subsidy\n• Health insurance\n• Hybrid work\n• Continuing education and professional development",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://apply.workable.com/powertalent/j/47D426B972/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/portugal/job/full-time/others/remote-ios-developer-mid-and-senior-137615875?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIChNaWQgYW5kIFNlbmlvcikiLCJjb21wYW55X25hbWUiOiJQb3dlcnRhbGVudCIsImFkZHJlc3NfY2l0eSI6Ikxpc2JvbiwgUG9ydHVnYWwiLCJodGlkb2NpZCI6ImtjbHBVc3UxLXBSRWgxSHpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVUc5eWRIVm5ZV3cifQ=="
+        },
+        {
+            "title": "iOS Swift Developer",
+            "company_name": "Integer Consulting",
+            "location": "Lisbon, Portugal",
+            "via": "ITJobs",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=HKPEfVak5RNml8C2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU43ORRtRHDRsYIogkI_oCTlTCLxLuSu2t_wj9Xlja_6zKo6Xjvo3vGucMAXJs5YYAVndiBoyxCACY7MPuF8H1Sz7IwRSY0XtRqHZuCnYULHk3mwkz-9BFswJ6vYb7brqcnk68WJFP0vb5lkTBrJQyS4RHFMS7hx0dHb9AWMXzVQlAAAAA&shmds=v1_AUFQtON37jOOVP1NfLtJczBt3PFS2JkxYLmCCd4ie-CTnJ5LOg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HKPEfVak5RNml8C2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c953ea306c7df47072b865786463beede4619e26c199d3ab97.png",
+            "extensions": [
+                "28 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Integer is a Portuguese consulting company specialized in Technology and Information Systems. Our core business is IT outsourcing services, software, nearshore projects, and tailor-made solutions. We are partners with the main technology players worldwide and we work with national and multinational companies from several industries. Most of the projects we participate are in Portugal, Brazil, and throughout Europe. What set us apart is the experience of our team and our tech talent.\n\nAre you looking for new opportunities in the IT area? We have news for you!\n\nThis could be the perfect challenge if you have:\n• +5 years of experience in iOS development using Swift.\n• Strong knowledge of the iOS SDK and frameworks like UIKit, Foundation, and Core Animation.\n• Experience with software architectures such as MVC, MVVM, or VIPER.\n• Proficiency in building responsive interfaces using Storyboard, XIBs, and Auto Layout.\n• Familiarity with RESTful APIs integration and backend communication.\n• Knowledge of Git and dependency management tools (CocoaPods or Swift Package Manager).\n• Experience with push notifications (Firebase or APNs).\n• Understanding of unit testing and tools like XCTest.\n• Familiarity with CI/CD processes and app publishing in the App Store.\n• Good understanding of agile methodologies (Scrum or Kanban).\n• Strong communication and teamwork skills.\n• Fluency in English (spoken and written).\n\nIf you have the desired amazINg tech talent and want to be part of the INTEGER team, respond to this ad with your updated CV to beatriz.pereira@integer.pt.\n\nTo learn more about how we protect your privacy, please see our Policy at www.integerconsulting.pt",
+            "apply_options": [
+                {
+                    "title": "ITJobs",
+                    "link": "https://www.itjobs.pt/oferta/493903/ios-swift-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pt.linkedin.com/jobs/view/ios-swift-developer-at-integer-consulting-4102292722?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Oportunidades De Emprego Em Portugal",
+                    "link": "https://myjob.pt/pt/empregos/ios-swift-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgU3dpZnQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiSW50ZWdlciBDb25zdWx0aW5nIiwiYWRkcmVzc19jaXR5IjoiTGlzYm9uLCBQb3J0dWdhbCIsImh0aWRvY2lkIjoiSEtQRWZWYWs1Uk5tbDhDMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVRzl5ZEhWbllXdyJ9"
+        },
+        {
+            "title": "Banking Sector | Senior iOS Developer | Porto (Hybrid)",
+            "company_name": "Devoteam",
+            "location": "Porto, Portugal",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=5g07kY_i5SB1NvL6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yWNQQrCMBBFcdsj6GaWKtqI4EZ3IiiCKPQAJYlDEk0zIRmlghfylra6-f_xNq_4DIrTVoa7CwYq1EwJ3h0E14E7V7DDJ3qK2OsLJSYYH14quesE5nAkBRll0hYowJ7IeBxuLHPMayFy9qXJLNnpUlMjKKCiVtxI5X7qbGXC6CVjvVwt2jIGMx11PWKUDbjw781-9zDSfwEOYp1grAAAAA&shmds=v1_AUFQtOO52252JMBsgy_r6Da2JE1b_0UgBs1rDhE7y9G7-7L-8g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=5g07kY_i5SB1NvL6AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c9c6fabf28c39ae3e468717fcdb248fad74f9fe17f3018d4c8.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "• Development of new features or new app’s;\n• Maintenance of our existing and future IOS applications;\n• Code review;\n• Participation in all the development and delivery process;\n• Writing unit tests.\n\n• At least 7 years of experience on iOS development with a very good level of app architecture (Swift, SwiftUI, acessibility ...).\n• Use of continuous integration tools / Git.\n• Good level of English.\n\nThe Devoteam Group works for equal opportunities, promoting its employees based on merit and actively fights against all forms of discrimination. We are convinced that diversity contributes to the creativity, dynamism and excellence of our organization. All of our vacancies are open to people with disabilities.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/banking-sector-senior-ios-developer-porto-hybrid-devoteam-5803730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYW5raW5nIFNlY3RvciB8IFNlbmlvciBpT1MgRGV2ZWxvcGVyIHwgUG9ydG8gKEh5YnJpZCkiLCJjb21wYW55X25hbWUiOiJEZXZvdGVhbSIsImFkZHJlc3NfY2l0eSI6IlBvcnRvLCBQb3J0dWdhbCIsImh0aWRvY2lkIjoiNWcwN2tZX2k1U0IxTnZMNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlVRzl5ZEhWbllXdyJ9"
+        },
+        {
+            "title": "IOS Developer - Hybrid Lisbon  (1x /Week)",
+            "company_name": "HUMANIT DIGITAL CONSULTING LDA",
+            "location": "Lisbon, Portugal",
+            "via": "Net-Empregos",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=3XO-RNBdgqyO-uR8AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3OsQ6CMBRA0bjyCU5vVKNUSVx0kUgCNQgmQhxJiy-AVh5pq8Hv8gfFxOUuZ7nOZ-TseHqGAF-oqEMNC4jeUjdXiBsjqQWYrHpgF8T7dLADSTAodFnDYCFRpXC8ra3tzIYxY5RbGStsU7olPRi1KKlnN5Lml8LUQmOnhMXCWy97t2urmRflRz_hGQQ85Jkfwz5Nznmc8SSEOPChaf8ncziRts9KqC_h0wKWtgAAAA&shmds=v1_AUFQtOOdJRV1f47kgnd8op2X6L6m58WoiANBPRUCe1ORgTkFPw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=3XO-RNBdgqyO-uR8AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c99c70ae3e64c002fe2bc4052eaad40ea848de96ec755bd7f6.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 We're excited to share an amazing opportunity! 🚀\n\nWe're here to help you find your dream job with a focus on international, remote opportunities. Whether it's Direct Hiring or Consulting, we've got you covered!\nRight now, we're partnering with a leading German company in the public transportation sector to develop white-label solutions for their clients. They're looking for an iOS-focused mobile developer based in Lisbon (office presence required only on Mondays).\n\nRequirements:\n👉+3/+4 years experience with Swift development\n👉Understanding the lifecycle of applications and how they interact with iOS System\n👉Work experience with MVP, MVVM, Room, Data Binding, Custom Views\n👉Understanding of Objective-C\n👉Knowledge of AWS\n👉Client-server application development experience\n👉REST-API\n👉 Jira / Confluence experience\n👉 English B2\n\nNice to have:\n- Understanding and work experience with single activity\n- CI/CD understanding\n- Clean architecture understandingWork experience with Figma\n- Work experience with Google Analytics, Firebase\n\nReady to elevate your career? Apply now to ---@--- ! #Mobiledevelopment #IOS #Swift #HumanIT #ITJobs\n\nhttps://www.net-empregos.com/13087729/ios-developer-hybrid-lisbon-1x-week/",
+            "apply_options": [
+                {
+                    "title": "Net-Empregos",
+                    "link": "https://www.net-empregos.com/13087729/ios-developer-hybrid-lisbon-1x-week/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJT1MgRGV2ZWxvcGVyIC0gSHlicmlkIExpc2JvbiAgKDF4IC9XZWVrKSIsImNvbXBhbnlfbmFtZSI6IkhVTUFOSVQgRElHSVRBTCBDT05TVUxUSU5HIExEQSIsImFkZHJlc3NfY2l0eSI6Ikxpc2JvbiwgUG9ydHVnYWwiLCJodGlkb2NpZCI6IjNYTy1STkJkZ3F5Ty11UjhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVUc5eWRIVm5ZV3cifQ=="
+        },
+        {
+            "title": "iOS Engineer",
+            "company_name": "Pixelmatters",
+            "location": "Porto, Portugal",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=DDz5oS5_o1HaH9YgAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3FsQoCMQwAUFzvE1wMuIm2Irh4swguHvgBR1tCW-klpYnQ3R8XXd4bPqthmx9PuFLMhNjgAHf2IOhaSMAEN-ZYcD0m1SoXa0WKiaJOczCBF8uEnrt9sZcfsyTXsBanOJ_Ox24qxd1myh3L4lSxCWSCiZvy_t87uvIFq0eM7YYAAAA&shmds=v1_AUFQtOP7BNwQP6ZaTHGjyX3nOZPhE8R_pO5IG61T15V4B2CZ5Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=DDz5oS5_o1HaH9YgAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c98b326f8040040204c2b3dfa4d0cfa303078d40758b19ca6a.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Pixelmatters is a digital product studio. We’re a team of strategists, designers and engineers creating top-quality digital products.\n\nOur mission is to empower businesses to achieve their full potential by creating top-quality digital products while fostering great relationships along the way. We envision a world where great user experience is the norm, not the exception, inspiring businesses and people to be at their best.\n\nWe’re looking for you — an adaptable, and meticulous problem-solver iOS Engineer who possesses a passion for mobile technologies with an exceptional ability to bring mobile applications to life. A team player who likes to work in a fast-paced environment and has no problem dealing with pressure. You can work closely with Clients, Managers, Designers and other Engineers. You have the ambition to work on innovative and inspiring projects.\n\nYou believe in your skills and your perspective about the technology world, so you are ready to share your talent with our team. On top of everything, you are someone with pride and passion for what you do.\n\nRequirements\n\n• At least 3 years of experience as an iOS Engineer\n• Bachelor’s degree in engineering, computer science, or related field\n• Experience with Swift and Xcode toolset\n• Familiarity working with mobile design patterns\n• Ability to integrate web services (RESTful, JSON)\n• Understanding of the full mobile development lifecycle (UI implementation and data modeling)\n• Familiar with version control systems such as Git\n• Good understanding of English and Portuguese (written and spoken)\n\nIt would be awesome if you also have...\n\n• Portfolio of iOS apps in the App Store\n• Knowledge on other mobile platforms (native Android and hybrid solutions)\n• Knowledge of automated testing platforms and unit tests\n\nBenefits\n\n• Quality-driven, inspiring, and collaborative work environment, where Good is not good enough.\n• Benefits package, including health insurance.\n• A beautiful office located at Porto’s downtown, while continuing to support our “Remote as default, Office as an option” policy.\n\nCompensation\n\n• The salary range from this role is between €27,039 to €45,589 annual gross, which includes meal, vacation and Xmas allowances.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/ios-engineer-pixelmatters-5976718?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pt.bebee.com",
+                    "link": "https://pt.bebee.com/job/634a398edbb311a1987f7b74276966ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pt.linkedin.com/jobs/view/senior-ios-engineer-at-vml-4095505734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/pixelmatters/ios-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Empregos Trabajo.org",
+                    "link": "https://pt.trabajo.org/emprego-2811-1861c42cf832b7c6e1311110395f9ce3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/espana/ti_tecnologia/3813258854/s/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJQaXhlbG1hdHRlcnMiLCJhZGRyZXNzX2NpdHkiOiJQb3J0bywgUG9ydHVnYWwiLCJodGlkb2NpZCI6IkREejVvUzVfbzFIYUg5WWdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVUc5eWRIVm5ZV3cifQ=="
+        },
+        {
+            "title": "Software Engineer – iOS Mobile Developer",
+            "company_name": "GRiT Solutions",
+            "location": "Lisbon, Portugal",
+            "via": "Indeed",
+            "share_link": "https://www.google.pt/search?ibp=htl;jobs&q=iOS+developer&htidocid=fvrAlmLxLKANKUXLAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCMBSAYVx7BKeHo2gjgotOglIQRbHuJSnP9EnMC3mpdvQOXsGTeRLr8i_f8GefQbYu-ZqeOiJsvSWPGOH7egMdSziwIYewwQc6Dj1MYccGBHWsG2APBbN1OFw1KQVZKiXicitJJ6rzmu-KPRru1I2N_FNJ03-C0wmr-WLW5cHb8ag40wVKdm0i9gLkYU9i2E_gxDG1Vrsfl5mVRqcAAAA&shmds=v1_AUFQtOMvacNhJ9JxD5hH4bmE-vQiZSv6uth23bfbXGUl3kIcgg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=fvrAlmLxLKANKUXLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678508afc60aef5ce8487da5/images/9fceafa66bdf53c93c8eb614c6574a80c8571eb139fc9668dee148a1716852f5.png",
+            "extensions": [
+                "27 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Software Engineer – iOS Mobile Developer\n\nCode Maestro Wanted: iOS Developer Opening!\n\nThere's no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal.\n\nWe are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations.\n\nRecognizing each person’s unique contribution to our collective success, we embrace inclusion and diversity, committed to creating a respectful and socially responsible environment.\n\nPeople. Technology. Innovation. All-around it.\n\nAre you GRiTTY enough to be part of our journey? Take the first step by applying now and let’s create our future together.\n\nMust-Have:\n• 3+ years of professional software development experience for iOS\n• Strong knowledge of iOS development with Swift and Objective - C\n• Knowledge of Jira, Confluence, OpenCombine, etc\n• Experience with package managers such as CocoaPods, Carthage or Swift Package Manager\n• Proficient in English\n• Excited about writing professional quality, refactoring friendly code\n• Solid knowledge of software engineering best practices\n• You care about quality and you know what it means to ship high-quality code with demonstrable skills in building automated tests at various scopes – unit, integration and functional\n• Experience in identifying, debugging and resolving complex production issues\n\nWould be great if you have:\n• Bachelor’s degree in Informatics, Computer Engineering, Software Engineering or similar\n• Knowledge of other native or hybrid iOS frameworks will be a plus\n• Experience working in an agile environment\n\nWhat’s in it for you:\n• Continuous Training and Certifications\n• GRiT Prizes: GRiT Baby Gift, GRiT Birthday Prize, GRiT Recommendation Prize\n• Exclusive Partnerships/Discounts: (Gym, Health, Well-being, Lifestyle, Financial, etc…)\n• Unique Events\n• Welcoming Office (Fruit, Coffee, Pool Table, etc.)\n• Competitive Compensation\n• Pay for Performance\n\n#TechWithPassion - Fuel your fire, join our tech tribe!\n\nApply here:\n\nPoderá encontrar o anúncio original publicado em: https://www.itjobs.pt/oferta/494025/software-engineer-ios-mobile-developer",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://pt.indeed.com/viewjob?jk=534830e331ed3188&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pt.linkedin.com/jobs/view/software-engineer-%E2%80%93-ios-mobile-developer-at-grit-solutions-4102991663?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.pt/job/BJYwYyxpbiAYxdbuFu5cE0T_nnkxdWn8WpNPvr-cj1NcOUlPRB3MzA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobted",
+                    "link": "https://www.jobted.pt/job/481f41d8c8615a5b07c3cfbb909de4bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciDigJMgaU9TIE1vYmlsZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJHUmlUIFNvbHV0aW9ucyIsImFkZHJlc3NfY2l0eSI6Ikxpc2JvbiwgUG9ydHVnYWwiLCJodGlkb2NpZCI6ImZ2ckFsbUx4TEtBTktVWExBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJVUc5eWRIVm5ZV3cifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVRVl5UTFONmIzaHZUMEpXYTFCZk1tWmZNMmgxUkdwV1JIb3lMWFEyYmtKdlRUQTJPRTVsVGtaMU5tNVVXbFoyVFhKMlZETjJOR2hIVWtSaU5HaENRVFJGTVZkcFkzWnZTUzFVY2taWVVFa3RPWEZTYzBGTmNVVkJRMDF0VUVoQ1FXNURXVmxpZWpOTWMydFhSWFZSVEhCcGJscFBlRVZ0UzNCRWFsaEZVbVpzWVdkbVFqUXdjVU0zVjNoeGVuZG5iWGwwWTNsUFZrVnZiM05NYjNaUE1IbG9VMUkyTTJReGQwcGpkbk5HYUhSTmFUZFRiV0pMUjJSU1YxbEJXRGhXT0RWUE1XVTVZVkpxY1VsZlZFbzFjR3BVYnpoTUxVcHJWbEI1WW1WYWVGUnhabmRTWkV0U1psbFlaSGt3YkVoNVgzRnlSMWRUV2paRVdIZEZNMmhPUVVkV2VGRlZaUklYY25kcFJscGZaVTlNWTNsa2ExQkpVSFJqZFU1eFFXTWFJa0ZHV0hKRlkzQkVURmw0VUdndGVXeFJZVWQyT1dWU1NYVkhUMlZ5ZUhaS1ExRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.pt&location=Portugal&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJVRVl5UTFONmIzaHZUMEpXYTFCZk1tWmZNMmgxUkdwV1JIb3lMWFEyYmtKdlRUQTJPRTVsVGtaMU5tNVVXbFoyVFhKMlZETjJOR2hIVWtSaU5HaENRVFJGTVZkcFkzWnZTUzFVY2taWVVFa3RPWEZTYzBGTmNVVkJRMDF0VUVoQ1FXNURXVmxpZWpOTWMydFhSWFZSVEhCcGJscFBlRVZ0UzNCRWFsaEZVbVpzWVdkbVFqUXdjVU0zVjNoeGVuZG5iWGwwWTNsUFZrVnZiM05NYjNaUE1IbG9VMUkyTTJReGQwcGpkbk5HYUhSTmFUZFRiV0pMUjJSU1YxbEJXRGhXT0RWUE1XVTVZVkpxY1VsZlZFbzFjR3BVYnpoTUxVcHJWbEI1WW1WYWVGUnhabmRTWkV0U1psbFlaSGt3YkVoNVgzRnlSMWRUV2paRVdIZEZNMmhPUVVkV2VGRlZaUklYY25kcFJscGZaVTlNWTNsa2ExQkpVSFJqZFU1eFFXTWFJa0ZHV0hKRlkzQkVURmw0VUdndGVXeFJZVWQyT1dWU1NYVkhUMlZ5ZUhaS1ExRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

@@ -1,0 +1,463 @@
+{
+    "search_metadata": {
+        "id": "678502dd35afbb5d77cba3e5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cd01636b9a16f918/678502dd35afbb5d77cba3e5.json",
+        "created_at": "2025-01-13 12:11:09 UTC",
+        "processed_at": "2025-01-13 12:11:09 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICIGUG9sYW5k&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/cd01636b9a16f918/678502dd35afbb5d77cba3e5.html",
+        "total_time_taken": 1.53
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Poland",
+        "location_used": "Poland",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwiB4q-41fKKAxW1kokEHWh6G2oQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer (mid/senior)",
+            "company_name": "Volvo Car Corporation",
+            "location": "Kraków, Poland",
+            "via": "Careers | Volvo Cars - Volvo",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=PlonO_quNPqq-TmIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBSHcVx7BKc3VtFGBBedpIKgi5NrSZtHG03zDy-h9jRewiN4Mevybb8ve8-y3dEbgTV04oEdAgvlvTUqsreQBa3pgpoia2k6gqcz0DqeH7qUQtwrFaMr2ph0sk3RoFfwXGNUD9Txnyp2Wjg4nbja7jZjEXy7zO9wA6jUQiUkQCY9ra2nq-jn9_Na0Q1Oe_MDyPnK96EAAAA&shmds=v1_AUFQtONSeX8K4ILvHQaehSv-aKaiA2zIn9uoNMCkkahuYYgVng&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=PlonO_quNPqq-TmIAAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Can you engineer a brighter tomorrow?\n\nIt’s crystal clear: the actions we take in the next few years will significantly impact our future. At Volvo Cars, we embrace change. We’re committed to transforming the automotive industry and leading in electrification. For this, we’re seeking out the most creative minds to shape that future. Don’t miss this opportunity to create your tomorrow.\n\nWho are we?\n\nThe Remote Functions department contributes to the overall connected experience of our customers. We build, provide, and operate a highly secure run-time ecosystem for functions and applications serving our connected cars, including the basis for industry-leading Volvo Cars mobile app.\n\nEvery day we make life less complicated for hundreds of thousands of people by giving them remote access to the car from the comfort of their couch. With the app you can, for instance, start, heat and prepare the car for your trip by sending your destination to the car, either from your phone, tablet or your watch.\n\nWhat will you do?\n\nWe are currently looking for Engineers at mid or senior level.\n\nAs an Engineer at our Krakow Tech Hub, you will be a part of an agile team, which is currently engaged in development and roll-out of new remote car control functionality.\n\nOur Remote Functions development teams work cross functionally and create functionalities in both Android and iOS. The team is responsible for an end-to-end process – from the moment of touching a phone screen to the moment of activating the function in the car itself.\n\nAnd yes – you get to test your solutions in an actual test car.\n\nWhat you'll bring?\n• At least 4 years on hands-on commercial Kotlin experience and a good understanding of the Android platform and frameworks.\n• Documented experience of released applications or open-source projects, either by your own accord or as a member of a team.\n• Experience in writing testable and maintainable code.\n• BSc degree in a Computer Science-related field or equivalent work experience as a mobile apps Software Developer.\n• Fluency in spoken and written English.\n\nVolvo Cars - Driving change together​\n\nVolvo Cars’ success is the result of a collaborative, diverse, and inclusive working environment. Today, we are one of the most well-known and respected car brands, with around 43,000 employees across the globe. At Volvo Cars, your career is designed around your skills and aspirations, allowing you to reach your fullest potential.​\n\nBy 2025, we aim to sell 1.2 million cars annually, with 50 per cent being electric cars and sold directly to customers mainly through digital channels. Join us on this exciting journey as we pioneer the driving and electrification technologies of the future.​\n\nCurious about Life at Volvo Cars? Read more here\n\nCurious about our story? Read more here",
+            "apply_options": [
+                {
+                    "title": "Careers | Volvo Cars - Volvo",
+                    "link": "https://jobs.volvocars.com/job/Krakow-Android-Developer-%28midsenior%29-08-884/1130517701/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The:Protocol",
+                    "link": "https://theprotocol.it/szczegoly/praca/android-developer-krakow-pawia-23,oferta,7cdf0000-58ff-ce9f-7c14-08dd27939213?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "No Fluff Jobs",
+                    "link": "https://nofluffjobs.com/pl/job/android-developer-forward-thinking-systems-polska-krakow-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=b5cf59bc7f19d53d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobylon",
+                    "link": "https://emp.jobylon.com/jobs/263130-schibsted-tech-polska-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Softnauts",
+                    "link": "https://softnauts.com/jobs/android-developer-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/inpost/744000033987792?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/-7838359295024921776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAobWlkL3NlbmlvcikiLCJjb21wYW55X25hbWUiOiJWb2x2byBDYXIgQ29ycG9yYXRpb24iLCJhZGRyZXNzX2NpdHkiOiJLcmFrw7N3LCBQb2xhbmQiLCJodGlkb2NpZCI6IlBsb25PX3F1TlBxcS1UbUlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Android Developer - HMI IRC244423",
+            "company_name": "Hitachi Careers",
+            "location": "Koszalin, Poland",
+            "via": "Hitachi Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=dKnpD-F50iid11ZcAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJQQrCMBBAUdz2CK4G3Ik2UiuIrqSCrSKIF5A0HZpInAmZIMWzeFjr5sPjZ99Jtj1QF9l1cMQ3eg4YYQn1tYHmXhVlWRbr0WduQVBHY4EJTsy9x-nephRkp5SIz3tJOjmTG34pJmx5UE9u5Z-HWB0xeJ3wUWxWQx6on89ql7SxDqrxYRRwBBeWj_aOFnBjr6n7ATdH6x6fAAAA&shmds=v1_AUFQtOO7oSzL_1KreMw5_I6K7p68aoEX2QSG6ixUUAOJnMxidA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=dKnpD-F50iid11ZcAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Description:\n\nWe are looking for a talented Developer to join our GlobalLogic family!\n\nYou have a unique opportunity to take part in a project where you will be creating a visionary solution that will inspire potential customers about what an In-Car Infotainment system might look like in the future.\n\nThe scope of the work package is OEM- and brand-specific extensions to the Android Open Source Project (AOSP) source code and building the Android Launcher application. These extensions focus on System UI (user interface).\n\nIf you would like to develop your expertise in Android applications and can show off your knowledge of Java and Kotlin - apply! We will be extremely pleased to have you in our team.\n\nRequirements:\n• +3 years relevant experience in development applications based on the Android platform\n• Professional experience in Android SDK area development with usage of external libraries\n• Knowledge of clean code, clean architecture\n• Unit tests development\n• Basic knowledge of reactive programming: rxjava and/or coroutines\n• Good English level\n• Good communication skills\n\n#LI-KA1\n\nJob Responsibilities:\n• Creating native applications for the Android Automotive platform for In-Car Entertainment System.\n• Working with Android Emulator (MHU)\n• Proposing solutions depending on prevailing trends and technology developments.\n• Creation, implementation, extension, testing.\n• Conducting and completing project documentation in English.\n• Following Automotive SPICE model\n• Clarify requirements with a Customer.\n\nWhat We Offer\n\nEmpowering Projects: With 500+ clients spanning diverse industries and domains, we provide an exciting opportunity to contribute to groundbreaking projects that leverage cutting-edge technologies. As a team, we engineer digital products that positively impact people's lives.\n\nEmpowering Growth: We foster a culture of continuous learning and professional development. Our dedication is to provide timely and comprehensive assistance for every consultant through our dedicated Learning & Development team, ensuring their continuous growth and success.\n\nDE&I Matters: At GlobalLogic, we deeply value and embrace diversity. We are dedicated to providing equal opportunities for all individuals, fostering an inclusive and empowering work environment.\n\nCareer Development: Our corporate culture places a strong emphasis on career development, offering abundant opportunities for growth. Regular interactions with our teams ensure their engagement, motivation, and recognition. We empower our team members to pursue their career goals with confidence and enthusiasm.\n\nComprehensive Benefits: In addition to equitable compensation, we provide a comprehensive benefits package that prioritizes the overall well-being of our consultants. We genuinely care about their health and strive to create a positive work environment.\n\nFlexible Opportunities: At GlobalLogic, we prioritize work-life balance by offering flexible opportunities tailored to your lifestyle. Explore relocation and rotation options for diverse cultural and professional experiences in different countries with our company.\n\nAbout GlobalLogic\n\nGlobalLogic is a leader in digital engineering. We help brands across the globe design and build innovative products, platforms, and digital experiences for the modern world.\n\nBy integrating experience design, complex engineering, and data expertise-we help our clients imagine what's possible, and accelerate their transition into tomorrow's digital businesses.\n\nHeadquartered in Silicon Valley, GlobalLogic operates design studios and engineering centers around the world, extending our deep expertise to customers in the automotive, communications, financial services, healthcare and life sciences, manufacturing, media and entertainment, semiconductor, and technology industries.\n\nGlobalLogic is a Hitachi Group Company operating under Hitachi, Ltd. (TSE: 6501) which contributes to a sustainable society with a higher quality of life by driving innovation through data and technology as the Social Innovation Business.",
+            "apply_options": [
+                {
+                    "title": "Hitachi Careers",
+                    "link": "https://careers.hitachi.com/jobs/15143667-android-developer-hmi-irc244423?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/pl-koszalin-android-developer-hmi-irc244423-hitachi-vantara-corporation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIEhNSSBJUkMyNDQ0MjMiLCJjb21wYW55X25hbWUiOiJIaXRhY2hpIENhcmVlcnMiLCJhZGRyZXNzX2NpdHkiOiJLb3N6YWxpbiwgUG9sYW5kIiwiaHRpZG9jaWQiOiJkS25wRC1GNTBpaWQxMVpjQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Senior Android Developer – Warsaw",
+            "company_name": "QED.ai",
+            "location": "Warsaw, Poland",
+            "via": "QED.ai",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=d-zBmNv3rr8iWensAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBAAUFz7BeJ0s2gigkudChXBSXFwLNf2aCLxLuSCdvQf-od-iQgub33FNCvKK7GXBBX3SXwPNT0pSKQEn_cEN0yKL1jDSVpQwtQ5EIajyBBosXc5Ry2tVQ1m0IzZd6aThxWmVkZ7l1Z_NOowUQyYqdnuNqOJPCznl0Nt0IPn_7KCswTk_gu24-cJlgAAAA&shmds=v1_AUFQtOM99tOcJX4uw30SJNpeRJAyZwpaPv3ngSAhLI0KziSGKw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=d-zBmNv3rr8iWensAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502dd35afbb5d77cba3e5/images/233120ec0cfbfd2a3080b0e1a2fdc2995c72c01cd9d1df7d02ced4af9f7167a4.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "QED (https://qed.ai) is a tech company focused on public health and food security in Sub-Saharan Africa. We build the digital infrastructure and AI used at the intersection of aid and scientific inquiry, including surveillance of HIV and malaria, and nutrient analysis of crops and soils, working at national-scale in several African countries. Our funding comes from multiple philanthropic and governmental organizations, including the Global Fund, Gates Foundation, CDC, and USAID.\n\nWe are looking for a senior Android developer to join our team in Warsaw. Desired skills include:\n• +4 years of experience with building Android applications that have been deployed to the Play Store and actively used in production environments\n• Experience using Kotlin for Android development, along with basics of Kotlin coroutines\n• Experience with Android jetpack\n• strong background in software engineering, version control, writing readable code and tests, robust design, and basic data structures and algorithms\n• working proficiency (≥C1) in speaking, reading, and typing English (≥45 words per minute)\n• logical reasoning and ability to express ideas clearly\n• willingness and interest in working with people from other cultures\n• emotional resilience and social intelligence\n• and you have to care about the work that you do\n• and you have to be optimistic at least sometimes, although pessimism tends to be useful\n\nBelow are additional skills that are a bonus, but are not required:\n• prior experience in leading a software engineering team\n• domain knowledge and/or interest in the sustainable development goals, particularly in public health, agriculture, and assisting developing countries\n• experience with computer vision\n• experience with gRPC\n\nWhat can you expect:\n• unusual, socially conscious projects\n• little bureaucracy\n• significant ownership\n• a mix of product, internal platform, and client integration work\n• ability and encouragement to explore technologies other than your main expertise\n• optional travel to learn more about problems we're trying to solve\n\nRequires a full-time commitment physically based in Warsaw, Poland, with a hybrid of remote and in-person work throughout the week.",
+            "apply_options": [
+                {
+                    "title": "QED.ai",
+                    "link": "https://qed.ai/senior-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/qed-ai/f4cbb8fd-9f61-49fd-8caf-fdbe5b637ae9/application?embed=js&noChrome=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=14775943e4bbd3d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The:Protocol",
+                    "link": "https://theprotocol.it/szczegoly/praca/senior-pl-sql-perl-developer-m-f-warszawa,oferta,95d60000-6699-3a9a-2c83-08dd30aed3d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://pl.jobrapido.com/jobpreview/8363915193633210368?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cool Jobs Clever Companies",
+                    "link": "https://job.coolever.life/job/atos-senior-software-developer-devops/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIg4oCTIFdhcnNhdyIsImNvbXBhbnlfbmFtZSI6IlFFRC5haSIsImFkZHJlc3NfY2l0eSI6IldhcnNhdywgUG9sYW5kIiwiaHRpZG9jaWQiOiJkLXpCbU52M3JyOGlXZW5zQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Goodylabs Sp. z o.o.",
+            "location": "Łódź, Poland",
+            "via": "No Fluff Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=HVbFdrPr1YZPsq1DAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMPQoCMRAGUGz3CFbTKaKJCDZaCYJgJXiAJdkM-0PMFzJBVjtv4F3sbGXvpTavfMVzVEx3wSW0jvZ8ZY_IiRZ0hCVhk6qGEOgA1J7H2ybnKButRbyqJZvcVqrCRSOwRa87WPlTSmMSR28yl6v1slcx1LPJL3E3b6zQOSq6ExQUtYGGx-flhvecTvAmuC_aelE1kwAAAA&shmds=v1_AUFQtONMQGLYXLDvlr0aiaBR5PbfxUfBrAyaDorrQE_e-xTx_A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HVbFdrPr1YZPsq1DAAAAAA%3D%3D",
+            "extensions": [
+                "22 days ago",
+                "PLN 18K a month",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "22 days ago",
+                "salary": "PLN 18K a month",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are goodylabs – a team of over 50 passionate UX/UI and engineering professionals dedicated to crafting impactful web and mobile applications for clients across Europe. Our culture thrives on transparency, openness, and collaboration. We value people and their growth – here, you’ll find space to innovate and grow.\n\nWe’re currently looking for an Android Developer – a technology enthusiast eager to learn, share knowledge, and grow in a collaborative environment. If you’re skilled in Kotlin, passionate about mobile development, and ready to take on new challenges, we’d love to hear from you!\n\nWhat you'll get:\n• 14000–18000 PLN net (B2B)\n• Hybrid work in Łódź – We’d like you to work from our Łódź office at least twice a week to get to know the team. After this period, the number of days in the office may be reduced.\n• Flexible working hours – Start your day between 7 A.M. and 11 A.M. Need time for a doctor’s visit or a family event? We’ve got you covered.\n• Fully covered Multisport card and private medical care – After a 3-month trial period, you’ll receive a fully covered Multisport card and private medical insurance with Compensa.\n• Friendly working environment – A supportive and open culture where people come first, then employees.\n• Pet-friendly office – Bring your furry friend along!\n\nWe don't like long interviews and protracted recruitment processes. Therefore, please send us either your CV or a link to your profile on LinkedIn (just make sure you have filled in all the key information in your profile)\n\nWhat does our recruitment process look like?\n\n1. Send us your application (CV or a link to your profile on LinkedIn) – if we think we might be a good match, we’ll invite you to an interview.\n2. Interview (online or offline) we would like to know a bit more about you and your expectations. We’re ready to answer all your questions.\n3. Technical task (optional) – depending on your experience, we might ask you to complete a short technical task.\n4. Decision – both sides decide if we’re a good fit\n\nReady to shape our marketing efforts and make an impact? Apply now or connect with Radosław Tarnas or Patrycja Wrześniewska on LinkedIn.\n\nIf you want to learn more, we invite you to visit the goodylabs.com/join-us.",
+            "apply_options": [
+                {
+                    "title": "No Fluff Jobs",
+                    "link": "https://nofluffjobs.com/job/android-developer-goodylabs-lodz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://pl.indeed.com/viewjob?jk=f84edacb71d6fe7a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://pl.jooble.org/jdp/3551402524474826796?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://pl.linkedin.com/jobs/view/android-developer-at-goodylabs-4109034370?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/pl-d-android-developer-goodylabs-hiring-now-job-immediately-opening?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikdvb2R5bGFicyBTcC4geiBvLm8uIiwiYWRkcmVzc19jaXR5IjoixYHDs2TFuiwgUG9sYW5kIiwiaHRpZG9jaWQiOiJIVmJGZHJQcjFZWlBzcTFEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Software Engineer – Android",
+            "company_name": "Dazn",
+            "location": "Katowice, Poland",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=mEw8a66Env9oqNLJAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAAQGx9gVhtLZoT0UYrQRG0EXxA2FzWy8m5G24XEqz8gJU_9CVqM-UMX4Ph8iJX6zAT7DlEJsrweb5hy3WWWMMMjlKBEmbfgDAcREKi8aYxa3XtnGoqghpa9IWXuxOmSnp3k0r_lNr86jahUblYzfui5TAZ7fDBEBlOaNJFT1M4S0Kuv4hLuriQAAAA&shmds=v1_AUFQtOO4gkH_ly9rP9rY3QD0lUry_T3_rjkiE4q2zc4dwmoQuQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=mEw8a66Env9oqNLJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502dd35afbb5d77cba3e5/images/233120ec0cfbfd2a62f319520ee3124daecac5c0f69396bc64171e0183e6661d.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Do you want to have an impact on a live-stream native app that is used by millions of users across multiple devices on a daily basis? Would you like to be a part of a cutting-edge, talented and friendly team? Here at DAZN we’re laser-focused on becoming the #1 place for sports fans all over the world. Our engineering teams deliver this experience for the most popular consumer platforms on the market, including mobile devices (Android and iOS), living room devices (gaming consoles, TVs, STBs) and web. By joining us you will have a chance to work on a truly global product, with hundreds of thousands of users visiting us every day, expecting high quality solutions and frequent improvements to everyday experience.\n\nYour Team\n\nThe Android team is made up of Android & iOS Engineers and SDETs. We introduce new features to our app, we also maintain and extend the existing functionalities so that they are stable, resilient and handy to our users. We put DAZN’s quality as one of our primary objectives. Anything we do is monitored and measured in terms of final user impact and experience.\n\nThis role is based on site.\nAs our new Android Engineer, you’ll have the opportunity to:\n• Implement new features with unit and automated tests & support existing features.\n• Take care of the health of the codebase.\n• Build a large app according to the Android-SDK standards (multiple Gradle modules).\n• Design and deliver tools used by other teams.\n• Cooperate with teams across the entire company to deliver critical improvements to the whole platform.\nYou’ll be set up for success if you have:\n• Experience in implementing Android application in Kotlin.\n• Experience in RxJava or alternative multithreading libraries.\n• Experience with writing unit (JUnit) tests.\n• Stay up to date with the Android SDK changes and trends.\n• Ability to propose, own, drive and implement initiatives from ideation until delivery and monitoring.\n• Knowledge of monitoring, remote config and experimentation tools.\nBenefits will include:\n• Access to DAZN streaming service\n• Annual leave increasing by 3 days after 3 years\n• Private medical insurance (fully financed by DAZN)\n• Life assurance\n• Pension scheme (Pracowniczy Program Emerytalny)\n• MyBenefit platform (MultiSport and thousands of sports, culture or tourism benefits)\n• Financially rewarding ‘Refer a Friend’ scheme\n• Family-friendly community\n• Opportunity for flexible working\n• Employee Assistance Program (psychological, managerial, legal and financial counselling)\n• Free access for you and one other to our workplace mental health platform app (Unmind)\n• Learning and development resources\n• Access to our internal speaker series and events\n• High-end laptops (Macs or Windows)\nAt DAZN, we bring ambition to life. We are innovators, game-changers and pioneers. So, if you want to push boundaries and make an impact, DAZN is the place to be.\n\nAs part of our team,you'll have the opportunity to make your mark and the power to make change happen. We're doing things no-one has done before, giving fans and customers access to sport anytime, anywhere. We're using world-class technology to transform sports and revolutionise the industry and we're not going to stop.\n\nDAZN VALUES – THE ‘HOW’ IN WHAT WE DO:\n\nAMBITIOUS – people who want to make a big impact and drive DAZN forward.\n\nINVENTIVE – people with bright ideas who deliver great new experiences for our customers – and improvements for our business. People who come up with better, simpler ways of doing things.\n\nPASSIONATE – people who are proud of our product, our content and our business – and love to shout about it. People who love what they do and show commitment every day.\n\nBRAVE – people who take difficult decisions to help us focus on improving DAZN, our performance and our results.\n\nSUPPORTIVE – people who know that we achieve more as a team than as individuals. People value inclusion and look out for each other, helping their colleagues enjoy their work and develop their careers. People who consider others before making decisions.\n\nAt DAZN, we are committed to fostering an inclusive environment that values equality and diversity, where everyone can contribute and have their voices heard. This means hiring and developing talent across all races, ethnicities, religions, age groups, sexual orientations, gender identities and abilities.\n\nEveryone has the opportunity to make change and impact our DEI journey by joining our ERGs: Proud@DAZN, Women@DAZN, Disability@DAZN and ParentZone.\n\nIf you’d like to include a cover letter with your application, please feel free to. Please do not feel you need to apply with a photo or disclose any other information that is not related to your professional experience.\n\nOur aim is to make our hiring processes as accessible for everyone as possible, including providing adjustments for interviews where we can.\n\nWe look forward to hearing from you.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/software-engineer--android-at-dazn-1028?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciDigJMgQW5kcm9pZCIsImNvbXBhbnlfbmFtZSI6IkRhem4iLCJhZGRyZXNzX2NpdHkiOiJLYXRvd2ljZSwgUG9sYW5kIiwiaHRpZG9jaWQiOiJtRXc4YTY2RW52OW9xTkxKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Senior Android developer | KrakÃ³w, PL",
+            "company_name": "IG Group",
+            "location": "Lesser Poland Voivodeship, Poland",
+            "via": "EFinancialCareers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=zG0pYlL2EgBM91Z9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCMBSAYVx7BKc3S9uI4KKDOBW1Q0FwLWnzaKIxL-TF2sHN8zh5A72YCi7_8C1_8hglqz06QwHWTgUyChT2aMljgBvsgjy976_nNYWqhAy21ACjDK0GclAQdRbHSx2j54UQzDbvOMpo2rylsyCHDQ3iSA3_UrOWAb2VEevZfDrk3nWTbFNAEejiwTgokfn7rchKp-BApieFrI1P__YBxj2pprAAAAA&shmds=v1_AUFQtOOvOs18quAfqA70F3FVSOYcILuO4ieW5vlIE8BjTJgdgw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=zG0pYlL2EgBM91Z9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678502dd35afbb5d77cba3e5/images/233120ec0cfbfd2a5b08b84ce55a183c64e3a332bf43f3c9735b2f7368f9b40f.jpeg",
+            "extensions": [
+                "11 days ago",
+                "Full-time and Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time and Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Android developer\n\nJob Title\nSenior Android developer\n\nJob Description\n\nJoin our dynamic team as a Senior Android Developer and play a crucial role in enhancing and innovating our leading mobile trading platform, used by hundreds of thousands globally. Help us maintain our high standards and drive our mobile-first strategy forward.\n\nSo, who are we?\n\nHello, we're IG Group. No, not Instagram - though we're a pretty big deal ourselves. We're a global, FTSE 250-listed company made up of a collection of progressive fintech brands in the world of online trading and investing. The best part? We've snapped up many awards for our top-class platforms, forward-thinking products, and incredible employee experiences.\n\nWe believe in financial freedom. And our purpose is to help ambitious people achieve it. Around 400,000 people use our groundbreaking technology and forward-thinking platforms to trade the financial products they know and love.\n\nDid we mention we have offices in 18 countries? Yes, when you join IG Group, you'll have the chance to work across multiple brands, with people all over the world. Join us for an exciting future and let's innovate together!\n\nYour role in the team\n\nAs an Android Developer , you'll be part of a team of engineers that builds out the technology that powers our retail brokerage business and supports our other business initiatives. We care about the speed and stability of our back-end systems as much as we care about the customer-facing applications we build. Our architecture is consistently evolving as our business grows and we face different technical challenges, but always with a focus on practicality and performance.\n\nWhat you'll do:\n\n• Represent Android platform in a cross-functional team\n• Write Android application code using modern technologies and practices\n• Adopt and actively use modern engineering practices (pair programming, TDD, shift-left testing, etc.)\n• Improve the code quality of a large code base\n• Participate in full application lifecycle (concept, design, build, deploy, test, and release to the app store)\n• Cooperate with team of full-stack engineers in developing solutions tailored to US region\n• Solve the type of challenging engineering problems that come with building a highly interactive trading experience\n• Collaborate with other development teams to enhance client experience\n• Partner with our product, design, and QA teams to customize the trading experience for the Android platforms\nWho we are looking for\n\nYou're curious about things like the client experience, the rapid developments in tech, and the complex world of FinTech regulation. You're also a confident, creative thinker with a knack for innovating. We know that you know every problem has a solution. Here, you can try new ideas, and lead the way in creating inspiring experiences for our clients and everyone around you.\n\nWe don't fit the corporate stereotype. If you want to work for a traditional, suit-and-tie corporate that just gives you a pay cheque at the end of the month, we might not be for you. But, if you have that IG Group energy and you can stand behind what we believe in, let's raise the bar together.\n\nWhat you'll need for this role:\n\n• You've built complex applications for Android using Kotlin\n• You've shipped Android applications to production\n• You have experience working with large code bases, managing a shared REST API library, and writing unit tests\n• You are able to work both independently and as part of a team in a fast-paced environment to deliver well-designed, reusable, and high-quality code on time\n• Cross-Platform experience a plus (iOS + Android)\n• Experience of using practices like pair programming, TDD, automated testing is a plus\n• Experience using Kotlin Multiplatform is a plus\n• A passion for UI/UX design\n• Experience trading equities, equity options, futures, or futures options a plus.\nHow you'll grow\n\nWhen you join IG Group, we want you to have more than a job - we want you to have a career. And you can. If you spot an opportunity, we want you to chase it. Stretch yourself, challenge your self-beliefs and go for the things you dream of. With internal and external learning opportunities, and the tools to help you skyrocket to success, we'll support you all the way.\n\nAnd these opportunities truly are endless because we have some bold targets. We plan to expand our global presence, increase revenue growth, and ultimately deliver the world's best trading experience. We'd love to have you along for the ride.\n\nThe perks\n\nIt really is more than a job. We'll recognise your talent and make sure that you can still have a life - at work, and outside of it. Networks, committees, awards, sports and social clubs, mentorships, volunteering opportunities, extra time off... the list goes on:\n\n• Competitive salary\n• Private medical cover for you and your family (Medicover)\n• Multikafeteria system (you can choose multisport card, vouchers etc.)\n• Life insurance (Generali)\n• Comprehensive global and local onboarding process - to the company and to your role\n• Employee-led LGBTQ+, Women's, Black and Parents & Carers networks with annual budget for organizing events & projects that foster an open, diverse and inclusive culture\n• Option to participate and create ESG initiatives based on IG Brighter Future Fund\n• 2 additional days off a year for voluntary work\n• 1 additional day off to celebrate your Birthday\nIn the office\n\nCome to work in a comfortable, state of the art office containing all the things you need to succeed. Each of us works from laptops, at agile, ergonomic workstations designed to support our roles. Our spacious, open-plan offices provide a modern, dynamic setting for you to excel. On top of current benefits employees may enjoy here:\n\n• Free fresh fruits and coffee club\n• App based parking spots booking system\n• Bike parking and shower\n• Games: Foosball and ping-pong table, consoles and board games\n• Annual parties - summer picnic and Christmas party\n• Other social events\nWhere you'll work\n\nWe follow a hybrid working model; we reckon it's the best of both worlds. This model also feeds into our secret ingredients for innovation: diversity, flexibility, and close connection. Plus, you'll be welcomed into a diverse and inclusive workforce with a lot of creative energy.\n\nAsk our employees what their favourite thing is about working at IG, and you'll hear an echo of 'our culture'! That's because you can come to work as your authentic self. The things that make you, you - like your ethnicity, sexual orientation, faith, age, gender identity/expression or physical capacity - can bring a fresh perspective or new skill to our business.\n\nThat's why we welcome people from various walks of life; and anyone who wants to help us realise our vision and strategy.\n\nSo, if you're keen to connect with our values, and lead the charge on innovation, you know what to do.\n\nApply now\n\nNumber of openings\n0",
+            "apply_options": [
+                {
+                    "title": "EFinancialCareers",
+                    "link": "https://www.efinancialcareers.com/jobs-Poland-Krak%C3%B3w-Senior_Android_developer.id21324071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBkZXZlbG9wZXIgfCBLcmFrw4PCs3csIFBMIiwiY29tcGFueV9uYW1lIjoiSUcgR3JvdXAiLCJhZGRyZXNzX2NpdHkiOiJMZXNzZXIgUG9sYW5kIFZvaXZvZGVzaGlwLCBQb2xhbmQiLCJodGlkb2NpZCI6InpHMHBZbEwyRWdCTTkxWjlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Junior Android Developer",
+            "company_name": "NOVELPAY",
+            "location": "Warsaw, Poland",
+            "via": "Novelpay",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=YtDuU_GgPaYa978GAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uFm1EcNGpoAhFtJPiVC7t0UTiXchF7Tf41eIbXvGdFaZ5sZcENQ9J_AB7elOQSAmW0IgFJUy9A2E4ioyByp3LOerWGNVQjZox-77q5WmEycpkHmL1X6cOE8WAmbr1ZjVVkcd5eb5cD6e2voNnuGFS_CyglYA8_AAY0iaIjQAAAA&shmds=v1_AUFQtOPPXY_mJ8Zc1i132Gdv6MBeWW9MrsvKG-5-K6SD0P8V5Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=YtDuU_GgPaYa978GAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Starting your career as Junior Android Developer you will be responsible for:\n• designing and developing mobile applications related to electronic payments based on the Android platform – your role in the project might vary and depend on your work experience;\n• developing software based on client requirements (usually worked out together), defined specifications (e.g. protocols) or our solutions;\n• building a part or a complete system (depending on the project) - you will be given a lot of autonomy and trust to decide on many aspects of your work;\n• integrating the applications with the server part or other mobile solutions for processing payments for goods or services;\n• working with most up-to-date technologies, among others Java, Kotlin, Retrofit RxJava 2, Koin;\n• providing the high quality of code;\n\nAt NOVELPAY you will work with top experts, who enjoy sharing experiences and engaging in discussion as well as to provide support and guidance to these less proficient members of the team. You will be creating the most innovative applications for payment terminals and thus have a real impact on the future of the industry.\nOur requirements:\n• no commercial experience is necessary but you should be\n• eager to learn how to build mobile applications for the Android platform;\n• minimum entry-level knowledge of Java or Kotlin and Android SDK;\n• minimum entry-level knowledge of reactive programming (RxJava 2) and network communication (Retrofit);\n• high concern for the code quality;\n• good, working knowledge of English – you need to be able to work with technical documents with no difficulties;\n• interest in Fintech and the payment industry - at NOVELPAY you will have access to multiple trainings and support from top industry experts from the very first day.\n\nBenefits we offer:\n• competitive remuneration from your very first day - it will depend on your experience (if you have any) and your commitment to work;\n• work with the team of talented engineers to design and build the next generation payment applications, opportunity to learn from top industry experts;\n• close cooperation with our key technology partner - PAX Technology - one of the world's leading producer of payment terminals;\n• constant access to the latest technology in the field of cashless payments;\n• participation in innovative projects both for local and global companies;\n• flexible working hours and work in the place you like best - it is up to you what hours and where you will work – our office is located in the centre of Warsaw (Al. Ujazdowskie) but if you prefer, you can also work remotely;\n• support for your individually designed carrier path – we offer different roles and various growth opportunities - At NOVELPAY, you find various ways to strengthen your competencies and develop new skills.\n\nAre you a more experienced developer? Is this job opening not exactly the right fit for you? Check out other NOVELPAY’s offers and apply for the position of Regular Android Developer!\n\nYou might also check\n• TOP 10 reason to #joinNOVELPAY https://novelpay.pl/en/top_10/\n• what to expect during recruitment https://novelpay.pl/en/recruitment/\n\nABOUT NOVELPAY:\n\nNOVELPAY - established 10 years ago by experienced professionals active in the payment industry - has been strengthening its position as one of the most innovative software houses in the FinTech industry.\n\nIn June 2023, Novelpay and its subsidiary Pax France Novelpay gained support of Carrefour Group alongside investment fund Anacap, and joined Market Pay Group. With headquarters in Warsaw and in Paris, NOVELPAY operates across Europe. We deliver both local and international projects. We supply the largest European acquirers as well as many international corporate customers.\n\nWe are an exclusive distributor of PAX Technology in Poland and France. PAX with over 80 M devices in 120 countries remains one of the most innovative and successful company in the global payment industry.\n\nWorking with PAX and having access to the complete portfolio of the most innovative payment terminals makes NOVELPAY a leader of payment applications on the ANDROID platform on the Polish market. Our developers' team is the largest R&D group for PAX Android terminals in Europe. With such capacity, NOVELPAY gets to implement the most challenging and the largest projects.\n\nWe do not write \"down the drawer\". Applications developed by our team are used daily by several million users around Europe. While working for NOVELPAY, you will work for various markets such as airlines, retail, convenience stores or service industry as well as for the fastest-growing unattended markets: ticketing&vending industry, e-car power station, self-service stores or autonomous deliveries.\n\nWhen joining NOVELPAY, you might expect excellent working conditions, a satisfying salary and the opportunity to follow your individual growth path with continuous support from your team and leaders.",
+            "apply_options": [
+                {
+                    "title": "Novelpay",
+                    "link": "https://jobs.novelpay.pl/en-GB/jobs/3896655-junior-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJOT1ZFTFBBWSIsImFkZHJlc3NfY2l0eSI6IldhcnNhdywgUG9sYW5kIiwiaHRpZG9jaWQiOiJZdER1VV9HZ1BhWWE5NzhHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIn0="
+        },
+        {
+            "title": "Android Developer Intern",
+            "company_name": "Softnauts",
+            "location": "Kraków, Poland",
+            "via": "Softnauts",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=I_xrcrQNvr8V3b0sAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCQAwAQLz2CeIhZ9GuCF70VBBEvQg-oKTb2K2uybKJ2kf4G5_gx8Q5TPEeFa7iNkvfwpaeFCVRhj0bZYY5HKQBJcw-gDDsRLpI400wS7p2TjWWnRpa70svdydMjQzuKo3-qzVgphTRqF6uFkOZuJtOznIxxocp9AzHjLfv5zWDk0Tk9gdLGdIkjwAAAA&shmds=v1_AUFQtOOtQWNeAvS8zLWQw9u-_kO-R3yBdHhO2kVlWZ1lMz0ZQg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=I_xrcrQNvr8V3b0sAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Description:\n\nSoftnauts software house is specializing in Web and Mobile Development for over 8 years, so we understand that the right people are the key to every successful project. Our team is built from the best talents from IT universities throughout Poland. Now we are looking for a Android Intern.\n\nRequirements:\n\nbasic knowledge of:\n\nJava\nKotlin\nAndroid SDK\narchitecture components\nmvvm, mvp patterns\nOOP and design patterns\nsome experience in communication with third-party APIs\n\nNice to have:\n\ndagger2\nrxjava,\nretrofit\nsome knowledge of relational databases\ncommunicative english\n\nWhat do we offer?\n\nOpportunity to start your career in international and innovative projects - as a sotwarehouse we work with clients from all over the world.\nCompetitive salary - we are aware of the market wages.\nMentoring and team support - we work in Agile methodology and treat people like family members. You won’t be left without proper onboarding and colleagues help. Daily standups will help you to familiarize with everything what is going on.\nFlexible working hours - we usually start our day between 7-11:00 AM.\nSnacks and beverages - delicious coffee and tea. Fresh fruits twice a week.\nMacBook and all the accessories that you need. Tell us about your preferences and we will try to equip you accordingly.\nChillout space - spend some time with colleagues and contest them in FIFA on our PlayStation.\n\nAs a member of the Coalition for a Friendly Recruitment, we guarantee a transparent recruitment process and a friendly atmosphere!",
+            "apply_options": [
+                {
+                    "title": "Softnauts",
+                    "link": "https://softnauts.com/jobs/android-developer-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJTb2Z0bmF1dHMiLCJhZGRyZXNzX2NpdHkiOiJLcmFrw7N3LCBQb2xhbmQiLCJodGlkb2NpZCI6IklfeHJjclFOdnI4VjNiMHNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Senior Software Engineer, Android",
+            "company_name": "Google",
+            "location": "Kraków, Poland",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=8vK8cIIWIbeHPFXfAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXMQQrCMBAAQLz2B3ras9REBEH05EEEvQh9QNm2axqNuyEbaN_hV3yCH1PxMscpnpNiUxF7SVDJNQ-YCA7sPBOlEvbcJfEdLOAkDShhansQhqOICzTb9TlH3VqrGozTjNm3ppWHFaZGRnuTRn_U2n_fGDBTvVovRxPZzaf_BDzDOeH9_RpKuEhA7j6ddQ0ElQAAAA&shmds=v1_AUFQtOOU27yx2sBrMmK5PhlC83LGOGcHcOR-aGJuaSq9JGtmwQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=8vK8cIIWIbeHPFXfAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Software Engineer position at Google, focusing on Android development in Kraków, Poland. Develop next-generation technologies for billions of users worldwide.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/google/senior-software-engineer-android-e923bf03/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIsIEFuZHJvaWQiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJhZGRyZXNzX2NpdHkiOiJLcmFrw7N3LCBQb2xhbmQiLCJodGlkb2NpZCI6Ijh2SzhjSUlXSWJlSFBGWGZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsifQ=="
+        },
+        {
+            "title": "Senior Android Developer - Kotlin",
+            "company_name": "Cross Border Talents",
+            "location": "Poland",
+            "via": "Jobs By Workable",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=vGZo3nZSbiIYVVqlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNuwrCQBBGYWzzCBYytWBWBEG08gKCNoL2YZMdkpV1_mVmEd_E1zU2h9N91XdSbe4sEUp7CYoY6MRvTsistKArSooyzgUtGXvtBoLQGegTT3dDKdm2zpmlurfiS-zqDi8H4RYf90Rr_zQ2eOWcfOFmtV5-6iz9fHZUmNEBGkbq4RNLMRqxG5KX8AMZKfJAmgAAAA&shmds=v1_AUFQtOP03YJVwAzQW9mBubLUfkqKMnAXw6tRmbdDvJh7Xf43bw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=vGZo3nZSbiIYVVqlAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for an Android developer responsible for the development and maintenance of\n\napplications aimed at a vast number of diverse Android devices. Your primary focus will be the\n\ndevelopment of Android applications and their integration with back-end services. You will be\n\nworking along-side other engineers and developers working on different layers of the\n\ninfrastructure. Therefore, commitment to collaborative problem solving, sophisticated design,\n\nand creating quality products is essential.\n\nResponsibilities\n\n● Writing clean and efficient code for Android applications\n\n● Monitoring the performance of live apps and work on optimizing them at the code level\n\n● Identifying and resolving bottlenecks, rectifying bugs and enhancing application\n\nperformance\n\n● Performing unit and instrumentation tests on code\n\n● Collaborating with cross-functional teams to define and design new features\n\n● Staying up to date with new mobile technology trends, applications, and protocols\n\nYou have prior experience as an Android Developer using Kotlin, Java, Android SDK and\n\nreactive programming\n\n● Knowledge of SOLID principles\n\n● You have experience in publishing an application on the Google Play store\n\n● Proven work experience in design patterns mobile architecture using frameworks such\n\nas MVVM/MVC/MVP\n\n● Familiarity with firebase integrations\n\n● Familiarity with RESTful APIs to effectively integrate Android applications\n\n● Understanding of Google’s Android design principles and interface guidelines\n\n● Proficient understanding of code versioning tools such as Git\n\n● Familiarity with continuous integration (Bitrise, Fastlane, etc)\n\n● Familiarity with various testing tools\n\n● You are a problem solver with good analytical skills",
+            "apply_options": [
+                {
+                    "title": "Jobs By Workable",
+                    "link": "https://jobs.workable.com/view/x3PYUpBZX4uZqHYouTBPhk/senior-android-developer---kotlin-in-poland-at-cross-border-talents?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://pl.jobrapido.com/jobpreview/7844835152864739328?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgLSBLb3RsaW4iLCJjb21wYW55X25hbWUiOiJDcm9zcyBCb3JkZXIgVGFsZW50cyIsImFkZHJlc3NfY2l0eSI6IlBvbGFuZCIsImh0aWRvY2lkIjoidkdabzNuWlNiaUlZVlZxbEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSFJXWkc5d1dtdzFOM0JLVWxkNWMyaG9iazFCV0ZOd1RFTlZkMEZIY0ZsVVdqTm1iREpRVmxoeVNHSkVOVTlIU0RFNVRGTlRiRlZRVXpWMVozQkpUM1pFYVhoSGVUVjNTeTAwUnpWaVdYRnNPVmhsTTBWa2JYRkZZVEZJV0ZKWGMzbFJhelZ4V2pWR1dVSkVWRjlJZDNKZmJHRTRVMmRvUjFSUVRuRjVNVEpaYTNSS2JIUjBYelZqV0ZKcVVrcFZSbDlZZVRCRFpVeEVZV3c0VEhocWNXUmFSVTVTUkd4b1FWZDJRMkowTURGRlJrZHFORVpzYkZoNlZ6YzBZbmRyYW0xYWVUaExhRzVFYUhGWVFtaHZhV2QwTnpaMVFqSm1hRXAxT0U4NWRrSlJhR0p6WjBWellsWm5XVmh6ZFVaUU5VcDZlaTFKVkZweFZqUXpjbGxDTVZoeFQzTmhWbGMzYUU1WU5WTnNRbGR4VjFGVVMwYzVXbU13VEdjU0Z6Tm5TMFphTkVnM1REZFhiSEIwVVZBMlVGUjBNRUZaR2lKQlJsaHlSV055YmxkVVRWVktURTh6VkY5RVMyWTNVRGMzWldkc2QxVjViemhCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Poland&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVSFJXWkc5d1dtdzFOM0JLVWxkNWMyaG9iazFCV0ZOd1RFTlZkMEZIY0ZsVVdqTm1iREpRVmxoeVNHSkVOVTlIU0RFNVRGTlRiRlZRVXpWMVozQkpUM1pFYVhoSGVUVjNTeTAwUnpWaVdYRnNPVmhsTTBWa2JYRkZZVEZJV0ZKWGMzbFJhelZ4V2pWR1dVSkVWRjlJZDNKZmJHRTRVMmRvUjFSUVRuRjVNVEpaYTNSS2JIUjBYelZqV0ZKcVVrcFZSbDlZZVRCRFpVeEVZV3c0VEhocWNXUmFSVTVTUkd4b1FWZDJRMkowTURGRlJrZHFORVpzYkZoNlZ6YzBZbmRyYW0xYWVUaExhRzVFYUhGWVFtaHZhV2QwTnpaMVFqSm1hRXAxT0U4NWRrSlJhR0p6WjBWellsWm5XVmh6ZFVaUU5VcDZlaTFKVkZweFZqUXpjbGxDTVZoeFQzTmhWbGMzYUU1WU5WTnNRbGR4VjFGVVMwYzVXbU13VEdjU0Z6Tm5TMFphTkVnM1REZFhiSEIwVVZBMlVGUjBNRUZaR2lKQlJsaHlSV055YmxkVVRWVktURTh6VkY5RVMyWTNVRGMzWldkc2QxVjViemhCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

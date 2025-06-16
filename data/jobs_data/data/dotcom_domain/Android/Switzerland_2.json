@@ -1,0 +1,47 @@
+{
+    "search_metadata": {
+        "id": "6785030aae6cc1711248e500",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/45a6176d76611303/6785030aae6cc1711248e500.json",
+        "created_at": "2025-01-13 12:11:54 UTC",
+        "processed_at": "2025-01-13 12:11:54 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICILU3dpdHplcmxhbmQ&udm=8&fc=ErcCCvcBQUpHOUprTjFHNGxpU0RXNXdfdy1BNU9uQlE5cHNxOXpMcFRWdDJFZHJmd1RRSzE1TE5wNW9rR2V4RVJHSTJLeS1xLUtPdVg2TFRWVWxwR1UxWVlfQUx6TlNFOGpZNHJwUk9mN3ZUelhzcGQ4TWpqTnRHTkVxdVNISGNpRE1kRENaQ1R2NkRRbkxUZW1pZElVYXI0V1B0SnV6OUxselA2cm5OcDZkVFNBeGJNWHlGYXA4RkFXREMxSnZ6d2FfVVBSai1WdGl2YnJYTXZUbXYtSkwxU05EX2x0SUo3dVlJa1VOOFpDVmJRTUlFam5PZUNsNTBseHJnMBIXQ2dPRlpfajREN2VMcHRRUG5KNk1nUWsaIkFGWHJFY28wTWVWa1RwMHpINWRHVnQ0V1F0LXk0YkFRaVE&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/45a6176d76611303/6785030aae6cc1711248e500.html",
+        "prettify_html_file": "https://serpapi.com/searches/45a6176d76611303/6785030aae6cc1711248e500.prettify",
+        "total_time_taken": 0.52
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Switzerland",
+        "location_used": "Switzerland",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkVyY0NDdmNCUVVwSE9VcHJUakZITkd4cFUwUlhOWGRmZHkxQk5VOXVRbEU1Y0hOeE9YcE1jRlJXZERKRlpISm1kMVJSU3pFMVRFNXdOVzlyUjJWNFJWSkhTVEpMZVMxeExVdFBkVmcyVEZSV1ZXeHdSMVV4V1ZsZlFVeDZUbE5GT0dwWk5ISndVazltTjNaVWVsaHpjR1E0VFdwcVRuUkhUa1Z4ZFZOSVNHTnBSRTFrUkVOYVExUjJOa1JSYmt4VVpXMXBaRWxWWVhJMFYxQjBTblY2T1V4c2VsQTJjbTVPY0Raa1ZGTkJlR0pOV0hsR1lYQTRSa0ZYUkVNeFNuWjZkMkZmVlZCU2FpMVdkR2wyWW5KWVRYWlViWFl0U2t3eFUwNUVYMngwU1VvM2RWbEphMVZPT0ZwRFZtSlJUVWxGYW01UFpVTnNOVEJzZUhKbk1CSVhRMmRQUmxwZmFqUkVOMlZNY0hSUlVHNUtOazFuVVdzYUlrRkdXSEpGWTI4d1RXVldhMVJ3TUhwSU5XUkhWblEwVjFGMExYazBZa0ZSYVZFIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Mobile Developer",
+            "company_name": "Nembrini Consulting SA",
+            "via": "Learn4Good",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=9O2YYyiyw-I-V72DAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7AQ5ONwsmIrjoJBUEQZd-QEnCkUaudyF3Sn_A_xbf8LrvqnMDcpEGD4mFEK74QZKKDXZwlwiKoaUJhOEmkgk358ms6sl7VXJZLVhJLsnshTHK4l8S9d-oU2hYKRiOh-N-cZXzdv3EObbCBXphfZMVzjBcfmfJvkKIAAAA&shmds=v1_AUFQtONmIMWuU2ETJsuLCpOEBn56nWnCy1syKNhc2D0gcNDNQA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=9O2YYyiyw-I-V72DAAAAAA%3D%3D",
+            "extensions": [
+                "11 days ago",
+                "CHF 80K–CHF 100K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "salary": "CHF 80K–CHF 100K a year",
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Sandhubel\nOn behalf of a major client of ours that operates internationally, we are urgently seeking a highly qualified and experienced Mobile Developer. The ideal candidate will be responsible for developing and maintaining innovative mobile applications for iOS and Android platforms. The successful candidate will be integrated into the client’s structure with the possibility of a permanent contract after a probationary period of 6 months.\n\nYour Responsibilities Proven experience in developing mobile applications for iOS and Android.\n\nFamiliarity with frameworks including React.js, React Native, and Angular.\n\nStrong UI/UX design skills with a focus on creating user-friendly interfaces.\n\nAbility to work collaboratively in a team environment.\n\nQuick adaptability to new technologies and methodologies.\n\nFluency in both Italian and English is a fundamental requirement;\nGerman and/or French is a plus.\n\nDegree in Computer Science, Software Engineering, or a related field.\n\nExperience in creating applications connected to web services and APIs.Knowledge of cross-platform application development principles.\n\nBackend computing skills, including database management and frameworks.\n\nProficiency in programming languages for web development, such as HTML5, CSS, C#, and additional knowledge of Git version control.\n\nYour Perspectives Duration: 6 months (extendable)\nContact & Info Nembrini Consulting SA is an equal opportunity employer and welcomes applications from individuals of all backgrounds and abilities. Given the urgent nature of this search, preference will be given to candidates available for immediate start.\n#J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/switzerland/software_development/3846076081/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTW9iaWxlIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik5lbWJyaW5pIENvbnN1bHRpbmcgU0EiLCJodGlkb2NpZCI6IjlPMllZeWl5dy1JLVY3MkRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVTNkcGRIcGxjbXhoYm1RIn0="
+        }
+    ]
+}

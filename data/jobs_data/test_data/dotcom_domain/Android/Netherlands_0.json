@@ -1,0 +1,528 @@
+{
+    "search_metadata": {
+        "id": "6784edc9d8791836a5ad7e55",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/58d3bec7e8d382b4/6784edc9d8791836a5ad7e55.json",
+        "created_at": "2025-01-13 10:41:13 UTC",
+        "processed_at": "2025-01-13 10:41:13 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Android+developer&uule=w+CAIQICILTmV0aGVybGFuZHM&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/58d3bec7e8d382b4/6784edc9d8791836a5ad7e55.html",
+        "total_time_taken": 0.96
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Netherlands",
+        "location_used": "Netherlands",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=5368b2b054826b5d&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwiL9_6qwfKKAxWYLtAFHQi3KVoQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android Developer",
+            "company_name": "Miniclip",
+            "location": "Zoetermeer, Netherlands",
+            "via": "Miniclip Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=e49dtjz638W4Ef6sAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAFUNz2CK4G3IhoI4IbXQmCIOgB3JQ0_TSRdCbMBOkhPLT4Fq_5Lpr1hQeVNNAVH2QpUNrRXXoyeA2RhOkmMmYsz7HWYifnzHI7WvU1hTbI5ITRy-ze0tu_zqJXlOwrusNxP7eFx83qkTiFnAolppegQidAt_REjdDsebAfB3qZK48AAAA&shmds=v1_AUFQtOONTj-ZLkGBc0-B30xgUHx7v0GG9OScNrNuE2oS66NCZA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=e49dtjz638W4Ef6sAAAAAA%3D%3D",
+            "extensions": [
+                "28 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nWe are looking for new team members who are able to find solutions independently, have guts, are result-oriented and are stress-resistant. With creative solutions you contribute to the best gaming experience for our millions of users worldwide. You have a good balance between precision and speed to take genuine pride in the quality of your work. You feel responsible, but never lose sight of the process and our users.\n\nWhat will you be doing at Miniclip?\n\nAs Android Developer, you will work together in multifunctional teams to develop OSM's Android app. You do maintenance, develop new features, fix bugs and release them to our users. You actively collaborate with your team members and your responsibilities include doing code checks on your team members' work. You are strong in translating creative designs into technically sound solutions. You are always up to date with the latest developments in the field of App development and you are happy to share this knowledge with your colleagues. It goes without saying that you enjoy actively contributing to the content of the scrum meetings: daily scrum, retro, planning, refinement and review.\n\nWhat are we looking for?\n• Academic working and thinking level\n• You have at least 2 years of working experience with software development and experience in large complex projects (preferably in a game studio).\n• You have an excellent command of Kotlin/Java;\n• Are hands-on, solution-oriented, proactive and analytical;\n• Works in a structured way and with a well thought-out architecture;\n• Are aware of the latest features within Android and know how to translate them into practice;\n• Willingness to learn and desire to grow, professionally and personally;\n• Affinity with soccer & gaming is a plus\n\nAbout Miniclip\n\nMiniclip is a global leader in digital games and one of the world's biggest developers and publishers of mobile games, with a mission of unleashing the gamer in everyone. It distributes highly engaging games to a global audience of over 400 million monthly and 70 million daily active users across mobile, social, and online platforms. Operating in 10 countries, Miniclip develops and launches games in multiple categories across its 17 studios.\n\nFounded in 2001 with an internationally recognised brand name, Miniclip has successfully grown a global audience across 195 countries and six continents. It has a unique understanding of the digital games space, developing and distributing a strong portfolio of over 60 high-quality mobile games globally.\n\nTo date, Miniclip’s studios and companies, which have generated more than 8 billion downloads, include the following digital games: 8 Ball Pool™, Subway Surfers™, Golf Battle™, Football Strike™, Carrom Pool™, OSM - Online Soccer Manager™, Football Rivals ™, Pure Sniper ™, Puzzle Page ™, Head Ball 2™, Motorsport Manager™, Darts of Fury™, Ultimate Golf™, Mini Football ™, Triple Match 3D ™ and Agar.io™.\n\nFor more information, visit https://miniclip.com/",
+            "apply_options": [
+                {
+                    "title": "Miniclip Careers",
+                    "link": "https://careers.miniclip.com/job/Zoetermeer-Android-Developer/960049655/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=ecf1f5eb1aec5dbc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nationale Vacaturebank",
+                    "link": "https://www.nationalevacaturebank.nl/vacature/50c6b7f1-4dfa-5dbf-96d6-cd3f7936426a/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/android-developer-at-miniclip-3926815520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://nl.talent.com/view?id=8b7ae8b69e26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1pbmljbGlwIiwiYWRkcmVzc19jaXR5IjoiWm9ldGVybWVlciwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6ImU0OWR0ano2MzhXNEVmNnNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Freelance Android Developer - Positions",
+            "company_name": "Huxley",
+            "location": "Anywhere",
+            "via": "Huxley",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=pwOOOsBzFr17Tlg4AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOQQrCMBBGYdz2CK5mLdqI4EZBKIiKC_EGJU1-2kiaCZlR6mm8qrp5fMtXfWbV4VSAaJMDNckXDp6OeCFyRqEV3VmCBk7y85U7EtjiBuJEZ-Y-Yr4fVLPsjBGJdS9qNbja8Wg4oePJPLiTf1oZbEGOVtFutuupzqlf0OU5RbwpJGpGURRvxyXdoAPK78nLFzQ1n2OiAAAA&shmds=v1_AUFQtOMYBA_SYPuo1VTOAwcGve0Tr3NvjRdjV2tWQQHZOjUjiA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=pwOOOsBzFr17Tlg4AAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "work_from_home": true,
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hi there!\n\nCurrently we are looking for a Freelance Android Developer for one of our clients active in the travel and tourism industry.\n\nFor this role:\n\nJob Responsibilities and Duties:\n• Build and deliver app-wide features, systems, and services using any technology and programming language.\n• Identify and escalate flaws and potential issues related to app infrastructure.\n• Continuously improve the services owned, enhancing performance and optimizing resource utilization.\n• Lead initiatives to improve development processes and business opportunities for the team's product and the company.\n• Identify, foster, and proactively assist colleagues in their professional growth, playing a significant role in onboarding new team members.\n• Represent values within the company and the external community.\n• Advocate for a collaborative working environment, transforming individual ideas into collective ones.\n\nRole Qualifications and Requirements:\n• Developers are expected to have in-depth knowledge of the Android framework and deliver polished products that customers enjoy using.\n• Self-starters who excel at problem-solving, initiating solutions and discussions, and tackling challenges related to large-scale operations are needed.\n\nIdeal candidates typically meet the following requirements:\n• 5+ years of experience as a Developer with Java and/or Kotlin and other languages.\n• At least 3 years of experience working with the Android SDK.\n• Strong interaction and design sense with excellent attention to detail.\n• Experience with automated testing and deployment of Android apps.\n• Self-motivated to explore new technologies, applications, and environments.\n• Self-starter, highly motivated, and a team player.\n\nBonus points for:\n• Experience with Google Play Store and Apps Distribution Process.\n• An approved Play Store app.\n• Experience with server-driven UI framework development.\n• Experience working with A/B testing.\n• An intrinsic curiosity in technological innovations and staying updated on the latest trends.",
+            "apply_options": [
+                {
+                    "title": "Huxley",
+                    "link": "https://www.huxley.com/en-nl/job/freelance-android-developer---positions/522586/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmVlbGFuY2UgQW5kcm9pZCBEZXZlbG9wZXIgLSBQb3NpdGlvbnMiLCJjb21wYW55X25hbWUiOiJIdXhsZXkiLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJwd09PT3NCekZyMTdUbGc0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Chordify",
+            "location": "Anywhere",
+            "via": "Chordify",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=ryaEL5Vr-KvgrX75AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3AoLVlCKYiGCjlSgIFl5hyWdMssSZkBlk7Ty6-Io3fBfD-kyxc4lwxTdWbthhC3f2IOh6yMAEN-ZUcXXKqk2O1opUk0SdlmACvywTep7txF7-jZJdx1ad4rg_7GbTKG2Wl8w9lucHCsEDNWOvjqL8AM0FhNqDAAAA&shmds=v1_AUFQtOPR7EO84QDq9H2DMcdfmZpEocNNC6OykOuCHlPi7Q3oIg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=ryaEL5Vr-KvgrX75AAAAAA%3D%3D",
+            "extensions": [
+                "€3.8K–€5K a month",
+                "Work from home",
+                "Full-time and Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "€3.8K–€5K a month",
+                "work_from_home": true,
+                "schedule_type": "Full-time and Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "At Chordify we're looking for an Android Developer (3-5 years experience) to join our team.\n\nAbout the job\n\nOur mission at Chordify is to make it as easy as possible for musicians of all skill levels to learn to play their favorite music.\n\nAs an Android Developer at Chordify, you'll build beautiful and user-friendly Android apps for our customers.\n\nWithin Chordify you'll work in the Labs team - a team that drives the Chordify product forward with technological and educational innovation. Ultimately, our customers on Android will have a great mobile experience thanks to you.\n\nYou\n• Are an experienced developer in Kotlin\n• Have experience with the release process on Google Play Store\n• Know how to work with remote data via REST APIs\n• Have a solid understanding of the Android platform and its standard libraries and APIs\n• Have a working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Know what the full mobile development lifecycle involves\n• Have great communication and problem-solving skills\n• Are curious about new technologies and you're excited to find ways to implement them in your work\n• Are able to oversee and drive projects forward\n• Are located in the Netherlands\n\nWe\n• Are a bunch of friendly, open, always caring people, from a variety of cultural and professional backgrounds\n• Are an autonomous workforce, with our own flavor of the Holacracy method\n• Use Agile principles in most of our day-to-day work\n• Have no managers, no micromanagement\n• Love music!\n\nOur work philosophy is simple: We believe in an autonomous workforce where everybody takes care of themselves and their work. We call it Chortonomy, where everyone does what they know best, and with all our skills combined we make Chordify. Please read our blog about the heart and soul of Chordify if you want to know more about what makes us tick.\n\nYou will\n• Develop an app that support millions of musicians all over the world\n• Work together with back-enders and designers to implement new and exciting features\n• Be part of the Labs team - a growing multidisciplinary team that focuses on innovative and educational features\n• Continuously experiment, iterate on, and deliver new product improvements\n• Work at least four days per week\n\nYou get\n• A gross monthly salary of €3900 to €5100 (excluding 8% holiday allowance) depending on your skills and expertise\n• A result-based collective bonus of up to 10% of your yearly salary\n• Flexible working hours\n• To work at either our Utrecht or Groningen office and, if you want, partially from home\n• A pension scheme\n• A daily free lunch, snacks, and drinks\n• Commuting expenses reimbursed\n• A leased bicycle of your choice\n• A budget each year to spend on anything music related\n• To be part of an international team of music lovers\n• To enjoy Friday afternoon drinks, regular game evenings, and team outings\n• To make music during work\n• To trade public holidays for other days that are important to you\n• To focus on your mental health through OpenUp\n\nApply for the job\n\nDo you want to join our team as our new Android Developer? Then we'd love to hear about you!\n\nThe Labs team",
+            "apply_options": [
+                {
+                    "title": "Chordify",
+                    "link": "https://jobs.chordify.net/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MatchMatters",
+                    "link": "https://matchmatters.nl/vacature/android-developer-nodig-in-omg-oss-vught?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Wijkamp Werkt",
+                    "link": "https://www.wijkampwerkt.nl/vacature/android-app-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/android-developer-at-seliuk-ltd-4096033156?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Up!Rotterdam",
+                    "link": "https://jobs.uprotterdam.com/companies/envision-2/jobs/4036424-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OmniJobs",
+                    "link": "https://omnijobs.io/en/jobs/203414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNob3JkaWZ5IiwiYWRkcmVzc19jaXR5IjoiTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6InJ5YUVMNVZyLUt2Z3JYNzVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Move",
+            "location": "Zwolle, Netherlands",
+            "via": "Move Agency",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=T34udm0qGEY0OyjVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3CNpMKaKJCDZaCYIg6AFslnyGTZZxJmTCugfw4OIrXvdddOsLxyo5whUnJClYYQd38aDoakggDDeRgXB5Tq0VPVmrSmbQ5loOJsjbCqOX2Y7i9V-vyVUs5Br2h-N-NoWHzeohE0JmeH2ECLfwxJawkuOoP7LebtaHAAAA&shmds=v1_AUFQtONx3t-u6W1Iz6vl5dp4lxeJcYtiUH3wb-BiTCh-pDjEow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=T34udm0qGEY0OyjVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df5716f8e40fc6648a3fa9e202ff9e3fcfcac7e9bb69105a4e8.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As an Android Developer at Move in Zwolle, you will be part of an enthusiastic team that strives to get even better every day.",
+            "apply_options": [
+                {
+                    "title": "Move Agency",
+                    "link": "https://www.moveagency.com/en/vacancies/android-developer-zwolle?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=08e3de7cbf240fa7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nationale Vacaturebank",
+                    "link": "https://www.nationalevacaturebank.nl/vacature/6a137865-cb55-5139-8bd1-ccf1e54b6331/android-developer-i-move?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CATSone",
+                    "link": "https://m2mobi.catsone.nl/careers/2801-General/jobs/830232-Android-Developer?ref=Monster&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://nl.talent.com/view?id=8a9e29551830&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/nl-overijssel-zwolle-android-developer-regio-it-platform-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1vdmUiLCJhZGRyZXNzX2NpdHkiOiJad29sbGUsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJUMzR1ZG0wcUdFWTBPeWpWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Android developer",
+            "company_name": "DPG Media",
+            "location": "Amsterdam, Netherlands",
+            "via": "DPG Media",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=LVzx41J0Paw4B79tAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CZ4WvIhoIoIXPRWEgqD4g7JpliaSZEN2kT7CR4tzmO676rZ98Y2jB08fSlypwQHu7EAI2xSACwzMc6L1NahWuVgrkswsihonM3G2XMjxYt_s5N8oARvVhErj6XxcTC3zbnN7DfAgHxFigT6LUvOY9_AkDdQSFi8_gZIx2Y8AAAA&shmds=v1_AUFQtONZSuW3iBhrzsRu70SxMmNJojI3doMUCbR_h2EltFNWNA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LVzx41J0Paw4B79tAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df5fa4d32f87d24abd6def538e0812fad252e307b6b93c503ad.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Amsterdam - We're looking for a skilled Android Developer who will contribute to delivering news and magazines content to millions of mobile users.\n\nAbout the team\nAs an Android Developer, you will join a team that builds and runs the platform front-to-back (DevOps) with back-end, front-end, web- and app-developers. We don't have \"bug\"-teams, so 'You build it, You Run it!'. In close collaboration with other teams, the team you will join create the best experiences for sites and apps for the premium news brands of DPG Media.\n\nWhat you will be doing\nWithin the Selectives Area (consisting of five teams), we create the best experiences across the digital presence of our premium news and magazines brands: De Volkskrant, Trouw, Het Parool, De Morgen, HUMO, Libelle, Margriet and Flair.\n\nTechnically, we are building a white-label platform for multiple DPG Media brands for web, mobile and tablets. Together with your team, you will build and run the best possible platform for our users. As a member of a Scrum team, you will also work closely with the Product Owner, our (UX) designers and business stakeholders.\n\nWho you are\n• We are seeking an experienced Android developer who also loves learning new things and keeps a close eye on technological developments. Since we highly value quality, this should be your focus as well;\n• We work Agile/Scrum so you should have experience with Scrum or other Agile methodologies;\n• We would love for you to be positively critical and always looking for the 'why' of things;\n• Fluent in English.\n\nYou have worked with\n• Kotlin;\n• Jetpack Compose;\n• Jira / Confluence;\n• Clean Architecture;\n• Test Driven Development;\n• Having worked with iOS development is a big plus;\n• Experience with white label apps would als be a big plus;\n\nWe offer\n• An experience-based salary\n• 12% personal choice budget (of which is 8% holiday allowance)\n• Participating in profit every year.\n• 36-hour working week\n• Over 350 training opportunities in our own academy. We also pay for your training that isn't in our academy. If you'd like to become TOGAF certified, we'd be happy to offer you this.\n• Does a physical newspaper or magazine on your doormat make you happy? We offer you a subscription of your choice!\n• We also offer travel allowance, a flexible work allowance and a staff discount for specific options.\n• There is also knowledge sharing from our tech colleagues",
+            "apply_options": [
+                {
+                    "title": "DPG Media",
+                    "link": "https://vacatures.dpgmedia.nl/o/android-developer-7?lang=nl&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Careers | Bunq",
+                    "link": "https://careers.bunq.com/o/android-developer-tricount?lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TicketSwap",
+                    "link": "https://jobs.ticketswap.com/android-developer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Move Agency",
+                    "link": "https://www.moveagency.com/vacancies/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IO Digital",
+                    "link": "https://www.iodigital.com/nl/carriere/vacatures/android-developer-amsterdam?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=61129234cd211901&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "DTT",
+                    "link": "https://www.d-tt.nl/vacatures/android-developers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://nl.jooble.org/jdp/4577633143366368579?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkRQRyBNZWRpYSIsImFkZHJlc3NfY2l0eSI6IkFtc3RlcmRhbSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6IkxWeng0MUowUGF3NEI3OXRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Android Developer (Mobile engineer)",
+            "company_name": "ANWB",
+            "location": "The Hague, Netherlands",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=YLdcsD42K_SiMpIBAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBQFUFz7CQ7yRhVtRHCpU0VQBJ0Ex5K0lyQS3wtJlP6Kfyue4VTfSdW0PCTxAx3xQZCIRPOrGB9AYOsZSAta00UMZejUOxKmk4gNmO5dKTE3SuUcapuLLr6ve3kpYRgZ1VNM_tdlpxNi0AXddrcZ68h2OWtvjwN5prsDnbV9Y0U3FIcUNA_5B0m3A1acAAAA&shmds=v1_AUFQtOOf1PMse8NTiJLxfVIR4cYuVf9P2mR4lPxzqgp3R2BdFA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=YLdcsD42K_SiMpIBAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df5bb9ddc461e26a97902e8e52ff4d10954fac7a242e467bff3.jpeg",
+            "extensions": [
+                "€3,939 a month",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "salary": "€3,939 a month",
+                "schedule_type": "Full-time"
+            },
+            "description": "Working at the ANWB is a unique experience. We set demanding goals, but also give you ample opportunity to achieve them. We will never stop challenging ourselves and our stakeholders to create the best possible solutions for our users.\n\nJouw rol\n\nYou will be working on;\n• Developing and improving the ‘Onderweg’ app Maintaining our various other apps Adding features to turn-by-turn navigation\n• Adding support for Android Auto Troubleshooting high-priority production issues when needed Fine-tuning roadmap features together with your team\n• Conducting research as a team to find the best technological solutions Your daily tasks will be diverse and fast-paced. Needless to say, you’ll be spending much time writing code to deliver planned features.\n• Occasionally, you’ll quickly shift focus when your expertise is needed for high-priority tasks or troubleshooting for production issues.\n\nFurthermore, you’ll fine-tune existing features, have team meetings and conduct research with your colleagues to find the best possible technical solutions. You will develop and improve interesting features such as turn-by-turn navigation (and integration with Android Auto), road assistance (wegenwacht), parking, refueling, and electrical vehicle (EV) charging. At ANWB we use the latest technologies and frameworks for Android development. We write our apps using Kotlin We make use of the MVVM architecture and Jetpack Architecture Components Asynchronous code is written using Kotlin Coroutines and Flow. Our UI is built using Jetpack Compose. As an Android developer for our ‘Onderweg’ app, you’ll experience huge freedom to shape and mold your vision on the way we adopt and integrate the latest tech developments. We strive to be ‘the best app out there’ with the highest quality and reliability we can offer to millions of users.\n\nOns aanbod\n\nWhat do we offer? Millions of users, Great workplace culture, Room for personal growth, and.....\n• A monthly salary between € 3.939,- and € 6.403,- based on 38 hours.\n• A 5.58% year-end bonus.\n• Macbook Pro\n• Contribution to the costs for commuting by car.\n• Full imbursement of costs for commuting by public transport.\n• ANWB membership and Roadside Assistance (Wegenwacht) subscription in the Netherlands for car or bicycle.\n• 25 days holiday and 13 days under a shorter working hours scheme (ADV) based on a full-time contract 40 hrs).\n• The possibility to save up for extra leave.\n• Extensive educational, training, and personal development possibilities via our ANWB Academy.\n• Various optional collective schemes with exciting discounts on and arrangements concerning all ANWB products and services.\n• Good facilities for working from home and a home working allowance of € 2 per day (untaxed) – ANWB promotes hybrid working.\n• Personal development budget of an annual 700,- to promote your vitality, skills, career, involvement, and work-life balance. This way, we ensure you’ll be healthy and enjoy your work at ANWB, now and in the future.\n• Good pension scheme.\n• Option of working four days a week\n\nOns team\n\nThe Road Trip team is one of our development teams at the ANWB in The Hague. You will be working in a multidisciplinary Scrum team with several and different types of functions, Frontend, Backend, Product Owner, Scrum Master, Architect. The ANWB is an exhilarating environment to work in. Not only do we ensure a constant supply of challenging projects, there’s also plenty of space for your ideas, initiatives, and personal growth. We always seek to achieve the next level and give you ample opportunity to make your contribution in ways that take you as a professional to the next level too. We never stop learning and discovering.\n\nAls achtergrond neem jij mee\n\nWhat about you? Ideally, you are a strong team player and manage to take the team to a higher level in joined forces with your colleagues.\n\nYou have professional and intellectual abilities at the BSc level, and enthusiastic, proactive and excited to improve the world. Also, you’re a resident of the European Union and entitled to work within the EU.\n\nFurthermore, these are your skills:\n• You are an experienced Android developer\n• You have experience with working in a Scrum team You know your way around with Kotlin, Java, and Android Architecture components.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=5c259a7fae482ef2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Werkzoeken.nl",
+                    "link": "https://www.werkzoeken.nl/vacatures-in/den-haag/12752239-android-developer-mobile-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Magnet.me",
+                    "link": "https://magnet.me/en/opportunity/770242/android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna.nl",
+                    "link": "https://www.adzuna.nl/details/3928380106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Joof, Alle Banen In Nederland In 1 Overzicht! - Joof.nl",
+                    "link": "https://staging.joof.nl/vacature-android-developer-s-gravenhage-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/android-developer-mobile-engineer-at-anwb-3955386599?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Simplyhired.nl",
+                    "link": "https://www.simplyhired.nl/job/GTDs8612pWS9c9VzMvZEK3dKINjbirR72G3Y0Ftzg_0Vdc78SVJ4kg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/den-haag/netherlands/software_development/3721625889/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoTW9iaWxlIGVuZ2luZWVyKSIsImNvbXBhbnlfbmFtZSI6IkFOV0IiLCJhZGRyZXNzX2NpdHkiOiJUaGUgSGFndWUsIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJZTGRjc0Q0MktfU2lNcElCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Freelance App Developer",
+            "company_name": "Twine",
+            "location": "Amsterdam, Netherlands",
+            "via": "Twine",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=HbXwpA3GWFE8-uvuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBAGYFz7CC7eLJqI4KJTQRQcnNxLmv40lSQXcof2KXxmdfnmr_ksGnOpQHTZg9pS6IwXIhdU2tKNexK46gNxpivzGLE8BdUiR2tFohlFnU7eeE6WM3qe7ZN7-dNJcBUlOkW3P-xmU_K4Xj3eUwZNmdokijq4tKE7NKD-CoN8AcdpAO6RAAAA&shmds=v1_AUFQtOOs213soEUwwewHeJz-ieqaKCkPpa8NCgAwkyb76XTf0w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HbXwpA3GWFE8-uvuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df599ce70072ba24c705cbe662937554b7b67e64b9d9c9f6c54.png",
+            "extensions": [
+                "3 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "App Developer is needed in Amsterdam, Netherlands.\n\nClient: Huxley\n\nLocation: Amsterdam, Netherlands\n\nContract: Contractor, Full-time, Full-time\nJob Description\n\nCurrently, we are looking for a Freelance Android Developer for one of our clients active in the travel and tourism industry. The role involves building and delivering app-wide features, systems, and services using various technologies and programming languages. The developer will identify and escalate flaws and potential issues related to app infrastructure, continuously improve services owned, and lead initiatives to enhance development processes and business opportunities. Additionally, the role includes fostering professional growth among colleagues, assisting in onboarding new team members, and advocating for a collaborative working environment.\nRequirements\n\nDevelopers are expected to have in-depth knowledge of the Android framework and to deliver polished products that customers enjoy using. The ideal candidates typically meet the following requirements:\n• 5+ years of experience as a Developer with Java and/or Kotlin and other languages.\n• At least 3 years of experience working with the Android SDK.\n• Strong interaction and design sense with excellent attention to detail.\n• Experience with automated testing and deployment of Android apps.\n• Self-motivated to explore new technologies, applications, and environments.\n• Self-starter, highly motivated, and a team player.\n\nBonus points for:\n• Experience with Google Play Store and Apps Distribution Process.\n• An approved Play Store app.\n• Experience with server-driven UI framework development.\n• Experience working with A/B testing.\n• An intrinsic curiosity in technological innovations and staying updated on the latest trends.\nAdditional Information\n\nThis position is freelance and specifically caters to clients in the travel and tourism industry.\nPosted in 10 hours",
+            "apply_options": [
+                {
+                    "title": "Twine",
+                    "link": "https://www.twine.net/projects/b8lb80?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmVlbGFuY2UgQXBwIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlR3aW5lIiwiYWRkcmVzc19jaXR5IjoiQW1zdGVyZGFtLCBOZXRoZXJsYW5kcyIsImh0aWRvY2lkIjoiSGJYd3BBM0dXRkU4LXV2dUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxUbVYwYUdWeWJHRnVaSE0ifQ=="
+        },
+        {
+            "title": "Android Software Development Engineer, Ring",
+            "company_name": "Ring",
+            "location": "Amsterdam, Netherlands",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=XAoyihbmxBBN2FLaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3NPQ7CMAxAYbH2CAzIMyoNQmKBqQiExMAAB0BpY9KgxI5iC3odbsrP8sbvVe9JtWvJFQ4OrnzXly0Ie3xi5JyQFA7kAyGWGi6BPCzgxB0I2tIPwARHZh9xuh1Us2yMEYmNF7Ua-qbnZJiw49E8uJNfbjJ8BzlaxdtqvRybTH4--8uBoE2iWJxNNZxRByzRkpMPDNqWfKQAAAA&shmds=v1_AUFQtOPG70SnW5RNQSxbPJyVivcqK521fY1oR4UKn102LvVlRg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=XAoyihbmxBBN2FLaAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df51af7dbe9566e805435b98e3d0b2ffc48a5c7efcffdbd22ba.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Ring is seeking an Android Software Development Engineer to build world-class mobile apps for their smart home security products.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/ring/android-software-development-engineer-ring-274d1a07/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIERldmVsb3BtZW50IEVuZ2luZWVyLCBSaW5nIiwiY29tcGFueV9uYW1lIjoiUmluZyIsImFkZHJlc3NfY2l0eSI6IkFtc3RlcmRhbSwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6IlhBb3lpaGJteEJCTjJGTGFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        },
+        {
+            "title": "Android Developer – Wallet & Rewards",
+            "company_name": "Booking.com",
+            "location": "Amsterdam, Netherlands",
+            "via": "Cool Jobs Clever Companies",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=l6Mhh5ePJ_zJhMzuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU636CDaiOCiOFQEwcHBxVGuzZFU01zIHdrRf_AT_DO_RLq87RXfUbGros3cWjjQkwInyvB7f-CKIZDCFC70wmwFFnDiGoQwNx44wpHZBRpvvWqSjTEioXSiqG1TNtwZjlRzb-5cy8BNPGZKAZVuq_WyL1N0s8me-dFGNwRoI1SdKGWL3RzOpJ5ywGjlD_M6K7qmAAAA&shmds=v1_AUFQtOOxhGTR7lBxG1MHj0kaDXE0UJ8U7AXqFGjZmjMxM1d_ow&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=l6Mhh5ePJ_zJhMzuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784edc9d8791836a5ad7e55/images/d3176ac888aa0df5e4eeedd2322d6bed8b13a59760507884a5044a8807140829.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "It wasn’t so long ago that booking a trip to see the Eiffel Tower, stroll down New York’s iconic Madison Avenue or feel the sand between our toes on Copacabana Beach was simply a matter of a few taps on our smartphone.\n\nIn fact, that’s what we do at Booking.com. We make it easier for everyone to experience the world. And while that world might feel a little farther away right now, we’re busy preparing for when the world is ready to travel once more.\n\nAcross our offices worldwide, we continue to innovate. To solve for some of the most complex challenges in travel and technology, and to plan for the exciting developments that lie ahead. With strategic long-term investments into what we believe the future of travel can be, we are opening up new career opportunities that will have a strong impact on our mission.\n\nWe are united in the belief that our very human desire to explore the planet’s beauty and discover more about other people and cultures will endure. The world is waiting for us. Together, we will be ready.\n\nWho we are and what is our mission as a unit?\n\nPayments are an ever-changing, complex, competitive and extremely exciting industry. More than ever before, in order to accomplish Booking.com’s mission (“making it easier for everyone to experience the world”), we need to offer a frictionless payment experience. In that context, the Payments department is in charge of creating delightful payment experiences for bookers and merchants alike, and help internal clients (Accommodations, Transportation, Attractions, …) grow their businesses.\n\nWallet & Rewards: Our mission is to create an ecosystem that enables teams to create value to our customers & partners by offering them incentives to experience the world with Booking.com. Thanks to the Wallet we can offer to our customers an array of different products, each with its specific purpose and identifiable use case:\n• * Travel Credits: Credits issued into a wallet with a specific currency. They can be spent by the customer in any amount and in any booking for a payment by booking property when the customer chooses to pay now.\n• Cash Credits: As travel credits but the customer can also choose to withdraw their cash credits into a supported credit card.\n• Instant discount Credits: They are automatically applied during the payment step of the booking process assuming the customer chooses to pay now. Only applicable to payment by booking properties.\n• Refund Vouchers: An item issued with a specific value that can be used by the customer during the payment step of the booking process for which the specific value is applied in its entirety. Only applicable to payment by booking properties\n\nB.responsible\n\nAn Android developer in Wallet & Rewards is responsible for:\n• * Owning the customer experience for the wallet products on apps (maintaining parity with the desktop features)\n• Engaging Booking’s Android community to find highly convenient, familiar APIs, so that developers across the business consider the Design System as the go-to solution for building new features.\n• Pushing the boundaries of native UI Android to deliver consistent, scalable solutions that deliver performant, low-maintenance experiences.\n• Exploring, testing and validating how alternative UI frameworks can introduce improved flexibility and performance into existing products.\n\nB.skilled\n\nWe expect our developers to know the ins and outs of the Android framework and to deliver polished products customers want to use. We need self-starters who are great at solving problems, initiate solutions and discussions and are not afraid of solving challenges due to our huge scale.\n\nWe have found that people who match the following requirements are the ones who fit us best:\n• * 5+ years of experience as a developer Java and/or Kotlin and other languages\n• At least 2-3 years of this experience must be from working with Android SDK\n• Strong interaction and design sense, excellent attention to detail\n• Self-motivated to explore new technologies, applications and environments\n• Self-starter, highly motivated, team-player\n\nBonus Points For\n• * Experience with Android Market place & Distribution Process\n• An approved Play store app\n• SQL knowledge and/or willingness to learn\n• Experience working with A/B testing\n• You are passionate about open source and contribute\n• You’re not afraid to solve deep technical challenges of a whole new level at a huge scale\n• You have an intrinsic curiosity in technological innovations and you are always on top of the latest trends\n\nB.offered\n• * An opportunity to contribute to a high scale, complex, world renowned product and seeing real time impact of your work on millions of travelers worldwide.\n• Be part of a truly international fast paced environment and performance driven culture.\n• Various opportunities to grow technically and personally via side projects, hackathons, conferences and your involvement in the community.\n• Full relocation support for you and your family (if the case) to move to Amsterdam – one of the most cosmopolitan cities in Europe. We have fine-tuned this process by successfully relocating 300+ Technology professionals to Amsterdam in the last year alone!\n• Headquarters located in one of the most dynamic cities in Europe: Amsterdam\n• Performance-based company that offers 29 vacation days, career advancement, and lucrative compensation, including bonuses and stock potential\n• Discount on Booking.com accommodations with the “Booking Deal” including other perks and benefits\n• Company-sponsored family and social activities to help our employees become integrated with each other and Dutch culture\n• Diverse and creative colleagues from every corner of the world\n• Generous relocation package, ensuring a smooth transition to working and living in Amsterdam\n• With over 70 different nationalities within the technology department alone, you will be able to absorb new skills and grow your career in a multicultural environment.\n\nWe value Diversity of all types and in an open, dynamic workplace. This has been a pillar at Booking.com since day one, and something we continue to strongly believe in and build today.\n\nBooking.com is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We strive to move well beyond traditional equal opportunity and work to create an environment that allows everyone to thrive.",
+            "apply_options": [
+                {
+                    "title": "Cool Jobs Clever Companies",
+                    "link": "https://job.coolever.life/job/android-developer-wallet-rewards/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciDigJMgV2FsbGV0IFx1MDAyNiBSZXdhcmRzIiwiY29tcGFueV9uYW1lIjoiQm9va2luZy5jb20iLCJhZGRyZXNzX2NpdHkiOiJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwiaHRpZG9jaWQiOiJsNk1oaDVlUEpfekpoTXp1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFRtVjBhR1Z5YkdGdVpITSJ9"
+        },
+        {
+            "title": "Mobile App Developer",
+            "company_name": "Miniclip",
+            "location": "Zoetermeer, Netherlands",
+            "via": "Miniclip Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=-udNce-_T_9t1sL6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEPQoCMRAGUGz3CFYDdv4kIthoJQiCsB7AZknixyYymwmZIHsLryy-4nXfRbfpxScGXUqhKz5gKai0o7t4UrgaIkmmm8jIWJ5ja0VP1qqyGbW5loIJMlnJ8DLbt3j9N2h0FYVdw3A47mdT8rhe9SmnwKlQyvQUNNQJqFt6oEVUdvmlP_37kpySAAAA&shmds=v1_AUFQtOPkff7rwbpcBQgtl2GCFoJS9H9gv-IkL3XBx1hQfwlxpA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=-udNce-_T_9t1sL6AAAAAA%3D%3D",
+            "extensions": [
+                "20 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "20 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nWorking at Miniclip means working at a world-class studio. As Mobile app developer you will be working on new features, bug fixes and maintenance of Online Soccer Manager (OSM). The game is played by 6 million people worldwide every month and you will help this number to grow. Are you that developer who can perform at world-class level, wants to improve himself every day and help the team to an even higher level?\n\nWhat will you be doing at Miniclip?\n\nAs a Mobile app (iOS/Android) developer, you will work together in a multifunctional SCRUM team to develop OSM's iOS and Android app. Your team includes experienced game developers, as well as software engineers, a scrum master and a product owner, working with a shared passion to provide the best possible gaming experience for our players.\n\nAdditionally:\n• Among other things, you bear responsibility for doing code checks on your team members' work;\n• You are strong in translating creative designs into technical solutions;\n• You always stay on top of the latest developments in the field of app development and you are only too happy to share this knowledge with your colleagues;\n• It goes without saying that you enjoy actively contributing content to the scrum meetings: daily scrum, retro, planning, refinement and review\n\nWhat are we looking for?\n• Academic working and thinking level\n• At least one year of working experience with native iOS and/or Android development;\n• Knowledge of the Swift and/or Kotlin language;\n• Pre: experience in the game industry.\n• The ambition and interest to keep developing yourself and become the expert in your field\n\nAbout Miniclip\n\nMiniclip is a global leader in digital games and one of the world's biggest developers and publishers of mobile games, with a mission of unleashing the gamer in everyone. It distributes highly engaging games to a global audience of over 400 million monthly and 70 million daily active users across mobile, social, and online platforms. Operating in 10 countries, Miniclip develops and launches games in multiple categories across its 17 studios.\n\nFounded in 2001 with an internationally recognised brand name, Miniclip has successfully grown a global audience across 195 countries and six continents. It has a unique understanding of the digital games space, developing and distributing a strong portfolio of over 60 high-quality mobile games globally.\n\nTo date, Miniclip’s studios and companies, which have generated more than 8 billion downloads, include the following digital games: 8 Ball Pool™, Subway Surfers™, Golf Battle™, Football Strike™, Carrom Pool™, OSM - Online Soccer Manager™, Football Rivals ™, Pure Sniper ™, Puzzle Page ™, Head Ball 2™, Motorsport Manager™, Darts of Fury™, Ultimate Golf™, Mini Football ™, Triple Match 3D ™ and Agar.io™.\n\nFor more information, visit https://miniclip.com/",
+            "apply_options": [
+                {
+                    "title": "Miniclip Careers",
+                    "link": "https://careers.miniclip.com/job/Zoetermeer-Mobile-App-Developer/960763855/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://nl.indeed.com/viewjob?jk=d28bbf7a8570aac6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://nl.linkedin.com/jobs/view/mobile-app-developer-at-miniclip-3926813631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vindazo",
+                    "link": "https://www.vindazo.nl/job/viewjob/34028633/crossed-mobile-developer-7106-14318.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1pbmljbGlwIiwiYWRkcmVzc19jaXR5IjoiWm9ldGVybWVlciwgTmV0aGVybGFuZHMiLCJodGlkb2NpZCI6Ii11ZE5jZS1fVF85dDFzTDZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMVG1WMGFHVnliR0Z1WkhNIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUMkV5YjBndFptMDVUM1ZOYkZKM2N5MHdiVmMyYmtwUlRWVjJUM2hWZEVOd1pqTjRiM1ZhWlVScE5YUXlOaTFIYkVSM1QySXlRWFZJUVRGSFpFZFROVnBwYTNoaGIyMDVWVTlVV0RKcVgxOHlhVVJYUjBFeVRHcGpOMGN5UkdoeWNYbHJWbVZzUVRkb2ExVmpaa3hyV2xKdlZtVmxTelpLWnpoYWFXSjFUMG96UTBzMFNUQmxaVEZGTlZKMlpGTnVkRzlWWlVSMFpsSnliM2syTFhjeVFYQk5MVGxEWmtseU4wVkhWMDU2VGxac2QyOXViMnREUmpGWlRXMVBZVmxWVFU1T0xXWTJSRXRQYW1KNFlVMVFRV3BoWmpOSFVIZ3hSSEIwUkhCZlFUa3ROVXRSTkdWUVltWkRhVWhwTlZnd1oyUjFTelJhZUhSbWFYQm1WRXBLYWtGbFdYY3pZMDkyTlZKVVltdFZkMUY2T0ZGelJFcFZSV1JRYUhjU0ZubDFNa1ZhTkhSeGJVNHpRVE5uTFVrM2NXSlNRbEVhSWtGR1dISkZZM0ZMZW1WNmIyMUdaVXcxT1hwelNtSjNVQzA1UTNWSGFIbG5UbmMiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Netherlands&next_page_token=eyJmYyI6IkV1RUNDcUlDUVVwSE9VcHJUMkV5YjBndFptMDVUM1ZOYkZKM2N5MHdiVmMyYmtwUlRWVjJUM2hWZEVOd1pqTjRiM1ZhWlVScE5YUXlOaTFIYkVSM1QySXlRWFZJUVRGSFpFZFROVnBwYTNoaGIyMDVWVTlVV0RKcVgxOHlhVVJYUjBFeVRHcGpOMGN5UkdoeWNYbHJWbVZzUVRkb2ExVmpaa3hyV2xKdlZtVmxTelpLWnpoYWFXSjFUMG96UTBzMFNUQmxaVEZGTlZKMlpGTnVkRzlWWlVSMFpsSnliM2syTFhjeVFYQk5MVGxEWmtseU4wVkhWMDU2VGxac2QyOXViMnREUmpGWlRXMVBZVmxWVFU1T0xXWTJSRXRQYW1KNFlVMVFRV3BoWmpOSFVIZ3hSSEIwUkhCZlFUa3ROVXRSTkdWUVltWkRhVWhwTlZnd1oyUjFTelJhZUhSbWFYQm1WRXBLYWtGbFdYY3pZMDkyTlZKVVltdFZkMUY2T0ZGelJFcFZSV1JRYUhjU0ZubDFNa1ZhTkhSeGJVNHpRVE5uTFVrM2NXSlNRbEVhSWtGR1dISkZZM0ZMZW1WNmIyMUdaVXcxT1hwelNtSjNVQzA1UTNWSGFIbG5UbmMiLCJmY3YiOiIzIn0%3D&q=Android+developer"
+    }
+}

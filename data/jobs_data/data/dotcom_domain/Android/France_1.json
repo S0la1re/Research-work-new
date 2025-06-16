@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "67850285628b72399d18c582",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b8da64c434086b53/67850285628b72399d18c582.json",
+        "created_at": "2025-01-13 12:09:41 UTC",
+        "processed_at": "2025-01-13 12:09:41 UTC",
+        "google_jobs_url": "https://www.google.com/async/callback:550?q=Android+developer&uule=w+CAIQICIGRnJhbmNl&udm=8&fc=EuICCqICQUpHOUprTVBzUnpRUUJXdlNrS1VaRmRsUFZfY0tqdldCa1EwNVp0dk1GS19JR3ZzcHgwT1lnM2pLcnYzTEtVb1dPY2gycmZTUFhYODA5YjYxVV9GenF6SGpMM1FWeDJ6OFNIV1V0SjVnbXZibE1uQlA5bXdLYVBGakNIT3hzYUdxZzcyekcwcHVRRU9tOG5OemRITU5lSy1IY1ZDcm9qR25BWTJEZGQ2dFV3dGJEckY2eDExMlMtZnh5UDh6cGNaSlA1c3ZUaWJlVk1OUk4wUEtuNWpJLVNmRXd4azctZTJGejF3QzVWQ2tPd2U2Zzk3ZmU4NHdsRGdYc3ZiMjUtTmUtenE2OFZUenlqVEhGQjUwWmMwWXduanFYRl9zSW85eFESF2hRS0ZaLXpSR3ZiZjVOb1A3S3Zsc0FZGiJBRlhyRWNvSXdpNWdZcE5wM3FkYU03bUVVQnhVRmF4MWl3&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/b8da64c434086b53/67850285628b72399d18c582.html",
+        "prettify_html_file": "https://serpapi.com/searches/b8da64c434086b53/67850285628b72399d18c582.prettify",
+        "total_time_taken": 1.3
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "France",
+        "location_used": "France",
+        "google_domain": "google.com",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVkJ6VW5wUlVVSlhkbE5yUzFWYVJtUnNVRlpmWTB0cWRsZENhMUV3TlZwMGRrMUdTMTlKUjNaemNIZ3dUMWxuTTJwTGNuWXpURXRWYjFkUFkyZ3ljbVpUVUZoWU9EQTVZall4VlY5R2VuRjZTR3BNTTFGV2VESjZPRk5JVjFWMFNqVm5iWFppYkUxdVFsQTViWGRMWVZCR2FrTklUM2h6WVVkeFp6Y3lla2N3Y0hWUlJVOXRPRzVPZW1SSVRVNWxTeTFJWTFaRGNtOXFSMjVCV1RKRVpHUTJkRlYzZEdKRWNrWTJlREV4TWxNdFpuaDVVRGg2Y0dOYVNsQTFjM1pVYVdKbFZrMU9VazR3VUV0dU5XcEpMVk5tUlhkNGF6Y3RaVEpHZWpGM1F6VldRMnRQZDJVMlp6azNabVU0Tkhkc1JHZFljM1ppTWpVdFRtVXRlbkUyT0ZaVWVubHFWRWhHUWpVd1dtTXdXWGR1YW5GWVJsOXpTVzg1ZUZFU0YyaFJTMFphTFhwU1IzWmlaalZPYjFBM1MzWnNjMEZaR2lKQlJsaHlSV052U1hkcE5XZFpjRTV3TTNGa1lVMDNiVVZWUW5oVlJtRjRNV2wzIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "Android developer H/F",
+            "company_name": "Equisense",
+            "location": "Lille, France",
+            "via": "PegaseBuzz",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=zDHdDo4KH8H94Dl4AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOw7CMAwAULH2CJ08o5IgJBaYGCgIcYcqHysNMnaIA-oNuDbiDa_7rrrhxLFKjhDxgyQFK1ztCBu4iQdFV8MMwnARSYT9cW6t6MFaVTJJm2s5mCBPK4xeFvsQr_8mnV3FQq7htNtvF1M4rfvz650VWREywz0T4QBjdRzwB2nbwHuKAAAA&shmds=v1_AUFQtON6kQOlDaXRmO0i7fn2Vv4Er7mXAeEYOXyMG0Qt9FRwog&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=zDHdDo4KH8H94Dl4AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850285628b72399d18c582/images/a2afe1c74b3c0928366a3cb0a83f06cbc640b418cabd19445696740d5d84885a.gif",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Job description\n\nDeveloping the Android app\n• Manage and update data I/O with our BLE connected devices\n\nBluetooth Low Energy is a fabulous technology for connected devices, that’s why we have chosen this technology for Motion.\n• UI/UX integration\n• Integrating data analysis algorithms\n\nThere are algorithms both on the backend, on the sensor itself and the mobile app. You will work closely with the R&D team to integrate the data-processing on the app and also the backend team to display the best valuable information.\n\nMaintaining and testing\n• QA & release process\n\nWe provide premium user experience; it requires great design and user research but also conscientious integration and top quality. Releasing reliable products will be part of your mission. We have a greatly engaged beta-community, they are on a Facebook group and we provide a Trello roadmap so they can express themselves. You will work closely with them during the testing and the release process. Transparency and quality are one of our leitmotivs.\n• UX optimization\n\nYou will work with the product team to get and analysis data, setup analytics tools and be part of the UX improvement process.\n\nRequirements\n\n👨🏻‍🔬👩🏻‍💻👨🏻‍🍳👩🏻‍🎨\n\nAcademic background: Android development experience\n\nProfessional experience: 2 years +\n\nSpecific skills:\n• Java-script\n• English basic skills\n• Mindset & qualities:\n• Autonomous and rigorous\n• UX sensibility\n\nApart from this few specific qualities, take a look at our startup culture and be sure that it matches with your mindset. Culture fit and team spirit are mandatory for us!\n\nDetails\n\n⚖️ Full-time (CDI)\n\n💸 30 to 40 k€ + possible equity (depending on the profile)\n\n⏰ Asap",
+            "apply_options": [
+                {
+                    "title": "PegaseBuzz",
+                    "link": "https://pegasebuzz.com/leblog/poste/equisense-android-developer-hf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciBIL0YiLCJjb21wYW55X25hbWUiOiJFcXVpc2Vuc2UiLCJhZGRyZXNzX2NpdHkiOiJMaWxsZSwgRnJhbmNlIiwiaHRpZG9jaWQiOiJ6REhkRG80S0g4SDk0RGw0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Android Software Engineer",
+            "company_name": "Contentsquare",
+            "location": "France",
+            "via": "AndroidDev.careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=gjdK_z4BhxwaRcnPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7AoLTzYJJEVx0ElHB1QcoSXomKfUu5k7sI_jY2uUfv7_5Lpr2SH3l3MOdH_pxFeFMMRNihQ3c2IOgqyEBE1yZ44irQ1ItsrdWZDRR1GkOJvDTMqHnyQ7sZU4n6c-V0Sl22107mUJxvTwxKZLK6z2_MsGlOgr4A69QaaiLAAAA&shmds=v1_AUFQtONEu_OeRFS6ibTAYFc_jd3CJi9MSK9F2MczUZjxdkc8aQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gjdK_z4BhxwaRcnPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850285628b72399d18c582/images/a2afe1c74b3c0928f76cfd977023849b52db66fa3413576f126def31e5d70c12.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Contentsquare is a global digital experience analytics company empowering the brands you interact with every day to build better online experiences for all. Since our founding in France in 2012, we have grown to be a truly global and distributed team – known as the CSquad – representing more than 72 nationalities across the world.\n\nIn 2022, we raised $600M in Series F funding, and we were also recognized as a certified Great Place to Work in France, Germany, Israel, US and UK. In November 2023, we acquired Heap, our largest acquisition to date, strengthening our analytics platform to provide a 360 view of users' digital experience.\n\nPlease Note: Scammers are posing as Contentsquare and Contentsquare team members. We’ll never initially contact you via text or GChat, and never solicit money from you. Please visit our careers blog for more information.\nWhy you should join our R&D department? Here is our R&D Manifesto\n\nWe write our own story.\n\nWe think for ourselves, keeping an open mind and engaging in constructive criticism. We are transparent in what we do and why we do it. We build and leverage tech expertise to answer business challenges. Learning from all experiences, we deliver continuous improvements in production. We empower all team members to have an end-to-end impact, take initiative, and bring new ideas to life. We stand together and thrive together; team spirit and solidarity matter even more than strong expertise.\n\nWe live a human adventure.\n\nWhy you should join Contentsquare:\n\n▪️ We’re humans first. We hire dedicated people and provide them with the trust, resources and flexibility to get the job done.\n▪️ We invest in our people through career development, mentorship, social events, philanthropic activities, and competitive benefits.\n▪️ We are a fast growing company with a track record of success over the past 10 years, yet we operate with the agility of a startup. That means a huge chance to create an immediate and lasting impact.\n▪️ Our clients, partners and investors love our industry-leading product.\n\nTo keep our employees happy and engaged, we are always assessing the benefits/perks we offer to ensure we are competitive. Here are a few we want to highlight:\n\n▪️ Virtual onboarding, Hackathon, and various opportunities to interact with your team and global colleagues both on and offsite each year.\n▪️ Work flexibility: hybrid and remote work policies.\n▪️ Generous paid time-off policy (every location is different).\n▪️ Immediate eligibility for birthing and non-birthing parental leave.\n▪️ Wellbeing allowance.\n▪️ Home Office Allowance.\n▪️ A Culture Crew in every country to coordinate regular outings such as game nights, movie nights, and happy hours.\n▪️ Every full-time employee receives stock options, allowing them to share in the company’s success.\n▪️ We offer many benefits in various countries -- ask your recruiter for more information.\n\nWe are a 2024 Circle Back Initiative Employer – we commit to responding to every applicant\n\nContentsquare is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, gender identity, gender expression, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.\n\nYour personal data is used by Contentsquare for recruitment purposes only. Read our Job Candidate Privacy Notice to find out more about data protection at Contentsquare and your rights. You can exercise your rights by using our dedicated Data Subject Rights Portal here.\n\nYour personal data will be securely stored in our hosting provider’s data center in Oregon (US west). We have implemented appropriate transfer mechanisms under applicable data protection laws.",
+            "apply_options": [
+                {
+                    "title": "AndroidDev.careers",
+                    "link": "https://androiddev.careers/android-software-engineer-at-contentsquare-506?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQ29udGVudHNxdWFyZSIsImFkZHJlc3NfY2l0eSI6IkZyYW5jZSIsImh0aWRvY2lkIjoiZ2pkS196NEJoeHdhUmNuUEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Android Developer - Apps Team (F/M)",
+            "company_name": "Rakuten France",
+            "location": "Paris, France",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=aLtpoD7p9FItrFpSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3IsQrCMBAAUFz7CS7eqKKNCC51KkgFQRBxL9f0aKPpXchF6bf4tSq4vOFl70lWlNxGcS0c6EVeAkVYQxmCwo1wgHllzovvnKQBJYy2B2E4inSepvs-paCFMao-7zRhcja3MhhhamQ0d2n0R609RgoeE9Xb3WbMA3fL2RUfz0QMVUS2BI7hgtHp6h8fojMajJ0AAAA&shmds=v1_AUFQtOOlqlq4ReqqMJFqOpdZm8fZhjDEFs7R_BShENG98D-clQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=aLtpoD7p9FItrFpSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850285628b72399d18c582/images/a2afe1c74b3c092850c4447a0d43b6c159378b58b9ea06557cb69e3d5ed8618c.gif",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Prêt à vous déployer ? ✨ Alors bienvenue chez Rakuten France ! A vous :\n\n- le projet exaltant\n\n- le mouvement et les perspectives\n\n- le plaisir de se lever le matin\n\n- le management qui fait grandir\n\n- l’envergure et la taille humaine\n\nSi vous vous retrouvez dans nos piliers, rejoignez l’équipe Apps au poste d'Android Developer !\n\nA propos de l’équipe Tech:\n\nNotre équipe de Développement a pour but d’implémenter les nouvelles fonctionnalités de notre site web, sa version mobile ainsi que ses applications mobiles en mêlant du développement Backend et Frontend. Elle met un point d’honneur à la technicité et au partage de connaissances : nos ingénieurs travaillent ensemble et communiquent leurs idées via des conférences techniques internes et sujets transverses. L’équipe est organisée autour de 12 features teams (2 tribes) qui ont chacune un domaine de l’application, et qui sont toutes constituées d’un Lead Tech, de Développeurs, d’un Product Owner et d’un QA, qui constituent le tri-amigos.\n\nA propos de la Feature Team Apps :\n\nL'équipe Apps, chargée du développement des applications natives iOS et Android de Rakuten France, fonctionne en méthode agile SCRUM. Elle est constituée d'une Product Owner, d'un Lead Technique, d'une Lead Développeuse Android, des Développeurs et de deux QA.\n\nDe plus, vous ferez partie d'une équipe technique globale forte de nombreuses compétences, qui se challenge et partage ses connaissances, assiste à des conférences techniques internes et sujets transverses.\n\nL'équipe Apps propose à nos utilisateurs mobiles la majeure partie des features de notre marketplace, telles que les annonces, la recherche, la partie checkout (passage en caisse, méthodes de paiement…), ce qui est relatif à notre club de fidélité, la mise en ligne d'annonces et bien d'autres !\n\nVos missions :\n• Être impliqué(e) sur toutes les phases des projets, de la conception à la production ;\n• Participer à la conception technique des projets et proposer des technos pour les développements ;\n• Contribuer aux estimations des projets pour construire la roadmap, et aider le Product Owner à construire une roadmap réaliste ;\n• Développer les stories priorisées avec un niveau de qualité avancé (TU / TI / BDD) ;\n• Être garant de la qualité du code : participer aux tests et à la documentation des projets, et avoir à cœur que les nouvelles features ravissent nos utilisateur(trice)s ;\n• Aimer être en quête de nouveautés et améliorations techniques. Cette veille régulière permettra de briller pendant nos TechWeeks ;\n• Echanger avec les autres équipes de développement afin d’apporter une expérience utilisateur homogène entre les différentes plateformes.\n\nVotre profil :\n\nDe formation ingénieur Bac+5 ayant une solide expérience en développement Android (3 ans minimum).\n\nÊtre proactif(ve) et curieux(se) et aimer les technologies innovantes que vous étudierez et analyserez au cours de TechWeeks et lors de conventions comme les Android Makers.\n\nAimer discuter avec les pair(e)s, et aimer également être incollable sur les nouvelles technos et pratiques tendances.\n\nL’anglais sera également très utile pour la documentation et les pull requests.\n\nÊtre autonome tout en sachant travailler en équipe, organisé(e)\n\nEnvironnement technique :\n• Framework Android\n• Kotlin / RxJava & Coroutines / Flow\n• API Restfull\n• BDD Room\n• Patterns : MVVM / Repository\n• Git (Github / Gitflow) / Jira / Firebase\n• Intégration Continue (Github Actions)\n\nMéthodologie : Agiles / Scrum / Kanban\n\nSerait un plus :\n• Clean Archi\n• Jetpack Compose\n\nLes Avantages de Rakuten\n• Une politique de télétravail flexible, incluant une participation annuelle\n• De superbes bureaux au cœur de Paris (Sentier)\n• Une carte Edenred à utiliser pour le déjeuner\n• La prise en charge des frais de transport à 50%\n• La mutuelle prise en charge à 50% par Rakuten\n• 12 RTT annuels, en plus des 25 jours de congés\n• Des moments de convivialité organisés toute l’année\n• Programme avantageux de stock-options Rakuten Group\n• Des équipes multiculturelles & internationales\n\nSi vous vous reconnaissez dans ces différents points et que vous avez envie de rejoindre des équipes motivées, talentueuses & bienveillantes alors vous êtes la bonne personne, c’est pour vous l’occasion de participer à l’évolution d’une marketplace qui met au cœur de sa stratégie ses marchands et ses membres.\n\nProcess de recrutement\n• Echange avec Céline, Talent Acquisition Manager\n• Test technique\n• Rencontre avec Pauline, Lead Dev Android et Lionel, Tech Lead IOS\n• Rencontre avec l'équipe Apps : Sid-Ali, QA et Lucas, Product Owner\n\nRakuten France recrute, reconnait et intègre tous les Talents.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/android-developer-apps-team-f-m-at-rakuten-france-4094422815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Okko Jobs",
+                    "link": "https://okkojobs.com/android-developer-remote-eligible-france-dashlane-UPv1RdJE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talentify",
+                    "link": "https://www.talentify.io/job/android-developer-paris-paris-ile-de-france-fr-dentalmonitoring-772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/fr-le-de-france-paris-cdi-developer-android-f-h-sephora-usa-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIEFwcHMgVGVhbSAoRi9NKSIsImNvbXBhbnlfbmFtZSI6IlJha3V0ZW4gRnJhbmNlIiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoiYUx0cG9EN3A5Rkl0ckZwU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "CDI - Developer Android (F/H)",
+            "company_name": "Sephora",
+            "location": "Neuilly-sur-Seine, France",
+            "via": "Jobs.sephora.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=B0UxJdxZ6KOZGrftAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJOw7CMAwAULH2CEweGADRBiFYYEJU5TOw9ABVmlpNULCjOEXlKNwWWN7yss8k257KK-RQ4gs9B4xwpC6y62BeqcviNzduQVBHY4EJzsy9x-nBphRkr5SIL3pJOjlTGH4qJmx5VA9u5U8jVkcMXidsNrv1WATql7Mag-WowRHccXDev3MZYl6jI1xBFTUZ_AKaIvKMnAAAAA&shmds=v1_AUFQtOM3P-hZJj_eIl0HaBY-Oblkh4GVaoVpc_OP5cUKmqPtPA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=B0UxJdxZ6KOZGrftAAAAAA%3D%3D",
+            "extensions": [
+                "25 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "At Sephora we inspire our customers, empower our teams, and help them become the best versions of themselves. We create an environment where people are valued, and differences are celebrated. Every day, our teams across the world bring to life our purpose: to expand the way the world sees beauty by empowering the ExtraOrdinary in each of us.\n\nWe are united by a common goal - to reimagine the future of beauty.\n\nYou will excel and thrive in this position if you are ready to :\n• Participate in the development of new features for Android applications for various countries.\n• Maintain the existing foundation (code optimization, bug fixes, production incident interventions).\n• Perform unit testing and collaborate closely with Test Analysts to ensure the technical viability of developed systems and solutions.\n• Conduct technological watch, propose technical topics aimed at improving app performance.\n• Create technical documentation on Confluence.\n• Participate in workload estimation exercises and commit with the rest of the team to delivering a functional scope in each iteration.\n• Report blocking issues to Leads Dev/Scrum Master.\n• Mentor junior developers in skill development and best practices.\n• Continuously evolve best development practices and promote the culture and implementation of DevOps within the team.\n\nDon't hesitate to apply if you possess the following skills:\n• Kotlin and Java programming languages.\n• Object-oriented programming and advanced concepts like Generics and Lambda expressions.\n• Understanding of the lifecycle of different Android instances and activities.\n• Clean Architecture (Repository, Services, Mappers, LiveData, etc.) and the MVVM design pattern.\n• Reactive programming (Coroutines, RXJava/RxKotlin).\n• Dependency injection (Koin, Dagger, etc.).\n• Unit testing (PowerMock, EasyMock, Mockito, Robolectric).\n• Code debugging tools.\n• Familiarity with Git, Postman, JIRA, Confluence.\n• Agile SCRUM Framework.\n\nAnd if you are :\n• Hold a bachelor's degree or equivalent in engineering (BAC+5).\n• A good communicator in French and English\n• Attentive and capable of understanding the technical and functional aspects of projects, as well as business objectives and priorities\n• Dedicated to product quality and safety, meticulous, passionate, committed, and responsible for deliverables\n• Able to teach and simplify complex concepts to serve as a bridge between technical and business stakeholders\n\nWhile at Sephora, you’ll enjoy…\n\n· The people. You will be surrounded by some of the most talented leaders and teams – people you can be proud to work with.\n\n· The learning. We invest in training and developing our teams, and you will continue evolving and building your skills through personalized career plans.\n\n· The culture. As a leading beauty retailer within the LVMH family, our reach is broad, and our impact is global. It is in our DNA to innovate and, at Sephora, all 40,000 passionate team members across 35 markets and 3,000+ stores, are united by a common goal - to reimagine the future of beauty.\n\nYou can unleash your creativity, because we’ve got disruptive spirit. You can learn and evolve, because we empower you to be your best. You can be yourself, because you are what sets us apart. This, is the future of beauty. Reimagine your future, at Sephora.\n\n--------------------------------\n\nChez Sephora, nous inspirons nos clients, nous responsabilisons nos équipes et nous les aidons à devenir la meilleure version d'eux-mêmes. Nous créons un environnement où les personnes sont valorisées et où les différences sont célébrées. Chaque jour, nos équipes à travers le monde donnent vie à notre raison d’être : changer le regard du monde sur la beauté, en révélant l’extraordinaire en chacun de nous.\n\nNous sommes unis par un objectif commun : réimaginer le futur de la beauté.\n\nVous excellerez et vous épanouirez dans ce poste si vous êtes prêt à\n• Participer au développement des nouvelles fonctionnalités des applications Android pour les différents pays\n• Maintenir le socle existant (optimisation du code, corrections des bugs, interventions sur les incidents de Prod)\n• Réaliser des tests unitaires et travailler main dans la main avec les Test Analysts afin d'assurer la viabilité technique des systèmes et solutions développés\n• Faire de la veille technologique, proposer de sujets techniques visant à améliorer les performances des Apps\n• Rédiger de la documentation technique sur Confluence\n• Participer aux exercices d'estimation de charge et s'engager avec le reste de son équipe sur un périmètre fonctionnel à livrer à chaque itération\n• Remonter aux Leads Dev / Scrum Master les points de blocages\n• Accompagner les développeurs juniors dans la montée en compétence et les bonnes pratiques\n• Faire évoluer constamment les bonnes pratiques de développements et promouvoir la culture et la mise en place du DevOps au sein de l’équipe\n\nN’hésitez plus à postuler si vous avez les compétences suivantes :\n• Langages Kotlin et Java\n• Programmation objet et des notions avancés comme les Generic et Lambda expressions\n• Compréhension approfondie du cycle de vie des différentes instances et Activités Android\n• Maitrise de la Clean Archi (Repository, Services, Mappers, LiveData..) et du design pattern MVVM\n• Maitrise de la programmation reactive (Coroutines, RXJava/RxKotlin))\n• Injections de dépendences (Koin, Dagger, ..etc)\n• Tests Unitaires (PowerMock, EasyMock, Mockito, Robolectric…)\n• Outil de déboggage de code\n• Git, Postman, JIRA, Confluence\n• Agile SCRUM\n\nEt si vous êtes\n• Diplômé(e) d’une formation d’ingénieur BAC+5 ou équivalent avec 5 ans d’expérience minimum en tant que développeur Android\n• Bon communiquant en français et en anglais\n• A l’écoute et capable de comprendre les enjeux technico-fonctionnels des projets et les enjeux et priorités business\n• Soucieux de la qualité et la sécurité du produit\n• Rigoureux, passionné, investi et garant de ses livrables\n• Pédagogue et capable de vulgariser pour être une interface avec les interlocuteurs métiers\n\nChez Sephora, vous apprécierez...\n• Les collaborateurs. Vous serez entouré d’équipes talentueuses avec lesquelles vous serez fier de collaborer.\n• L'apprentissage. Nous investissons dans la formation de nos équipes. Vous continuerez à évoluer et à développer vos compétences grâce à des plans de carrière personnalisés.\n• La culture. En tant que leader de la distribution sélective de produits de beauté de prestige au sein de la famille LVMH, notre impact est mondial. L'innovation est dans notre ADN et, chez Sephora, les 40 000 collaborateurs répartis sur35 marchés et 3 000 magasins, sont unis par un objectif commun : réimaginer le futur de la beauté.\n\nVous pouvez laisser libre cours à votre créativité, car nous avons un esprit disruptif. Vous pouvez apprendre et évoluer, car nous vous donnons les moyens de révéler le meilleur de vous-même. Vous pouvez être vous-même, car vous êtes ce qui nous rend uniques. C'est l'avenir de la beauté. Réimaginez votre futur, chez Sephora.\n\nSephora est fière d'être un lieu de travail prônant l’égalité des chances pour tous. Nous ne pratiquons aucune discrimination en matière de recrutement, d'embauche, de formation ou encore d’évolution de carrière.\n\nNous célébrons la diversité et nous nous engageons à créer et à favoriser un environnement inclusif pour tous.\n\nChez Sephora, vous apprécierez...\n• Les collaborateurs. Vous serez entouré d’équipes talentueuses avec lesquelles vous serez fier de collaborer.\n• L'apprentissage. Nous investissons dans la formation de nos équipes. Vous continuerez à évoluer et à développer vos compétences grâce à des plans de carrière personnalisés.\n• La culture. En tant que leader de la distribution sélective de produits de beauté de prestige au sein de la famille LVMH, notre impact est mondial. L'innovation est dans notre ADN et, chez Sephora, les 40 000 collaborateurs répartis sur35 marchés et 3 000 magasins, sont unis par un objectif commun : réimaginer le futur de la beauté.\n\nVous pouvez laisser libre cours à votre créativité, car nous avons un esprit disruptif. Vous pouvez apprendre et évoluer, car nous vous donnons les moyens de révéler le meilleur de vous-même. Vous pouvez être vous-même, car vous êtes ce qui nous rend uniques. C'est l'avenir de la beauté. Réimaginez votre futur, chez Sephora.\n\nSephora est fière d'être un lieu de travail prônant l’égalité des chances pour tous. Nous ne pratiquons aucune discrimination en matière de recrutement, d'embauche, de formation ou encore d’évolution de carrière.\n\nNous célébrons la diversité et nous nous engageons à créer et à favoriser un environnement inclusif pour tous.",
+            "apply_options": [
+                {
+                    "title": "Jobs.sephora.com",
+                    "link": "https://jobs.sephora.com/France/job/NEUILLY-SUR-SEINE-CDI-Developer-Android-%28FH%29/971059955/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/cdi-developer-android-fh-sephora-JV_IC3041419_KO0,24_KE25,32.htm?jl=1009581448380&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=45c38935f1632061&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://fr.jooble.org/jdp/2999299926091984978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-2893-b0ec041cc596168f468939bc75fba592?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/cdi-developer-android-f-h-sephora-JV_IC3041419_KO0,25_KE26,33.htm?jl=1009581448380&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://fr.talent.com/view?id=49fbfbe2d8a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EasyJobs",
+                    "link": "https://www.easyjobs.fr/offres-d-emploi/2234/1117875/stage-assistant.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDREkgLSBEZXZlbG9wZXIgQW5kcm9pZCAoRi9IKSIsImNvbXBhbnlfbmFtZSI6IlNlcGhvcmEiLCJhZGRyZXNzX2NpdHkiOiJOZXVpbGx5LXN1ci1TZWluZSwgRnJhbmNlIiwiaHRpZG9jaWQiOiJCMFV4SmR4WjZLT1pHcmZ0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Android Developer - Paris",
+            "company_name": "DentalMonitoring",
+            "location": "Paris, France",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=vYNRkCTiqDkEEvy0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXNQQrCMBBAUdz2CK7GrWhSBDe6EoqCIHiDkqZDGokzYWaQnsMTq7j5b_mb96JpTzQK5xE6fGHhigJbuAfJ-vXKAygGiRMwwYU5FVweJ7OqB-9Vi0tqwXJ0kZ-eCQee_YMH_aXXKQjWEgz73b6dXaW0XnVIFsqNKRtLpgSZ_rsNnCVQxA-p9AgGlQAAAA&shmds=v1_AUFQtON_qFLMUR9I_aaMXSuiVsBoyyBGzHZXcoz0llkSiU4dpA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=vYNRkCTiqDkEEvy0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850285628b72399d18c582/images/a2afe1c74b3c0928bbc6e28424da810940ad4902b193d0dbb7cb9259c073f2f5.gif",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "DentalMonitoring, scale-up de la MedTech en plein développement, recherche de nouveaux talents pour renforcer ses équipes !\n\nCe que DentalMonitoring apporte à ses client·e·s\n\n✦ Monitoring et optimisation des traitements orthodontiques au moyen de notre SAAS\n\n✦ Aide aux diagnostics grâce à notre IA développée en interne, la première dans le domaine des soins de santé bucco-dentaire\n\n✦ Une expérience orthodontique étudiée de manière approfondie : nous sommes pionniers sur le marché et avons déposé plus de 200 brevets\n\n✦ La Scanbox Pro™ aide à réaliser facilement les observations intrabuccales\n\n✦ Leurs patient·e·s retrouvent le sourire\n\nDentalMonitoring est propulsée au classement Next40 pour la troisième année consécutive.\n\nSi vous êtes un·e Développeur.euse Mobile Android avec 2 années d’expérience minimum, la suite va vous intéresser !\n\nLes missions de l’Android Developer\n• Participer au développement de nouvelles fonctionnalités\n• Proposer des solutions innovantes; il vous tiendra à coeur de résoudre des problèmes tout en ayant à l’esprit l'effort de développement\n• Faire de la veille technologique et développer des preuves de concept\n• Participer à la conception et livrer un produit de qualité (code propre et maintenable, tests automatisés, conformité avec les réglementations médicales)\n• Communiquer et partager les bonnes pratiques avec l'équipe\n\n✅ Ce job est fait pour vous si ✅\n• Vous avez suivi une formation scientifique type Master, Doctorat ou Diplôme d’ingénieur ou bien formation équivalente\n• Vous avez de solides connaissances en développement d’applications Android\n• Vous maitrisez le développement en Kotlin\n• Vous êtes à l’aise avec Flow, Coroutine, Room, Retrofit, Gradle, Architecture MVVM, Git\n• Vous êtes un.e fervent.e partisan.e des bonnes pratiques de développement et vous vous assurez de la qualité et de la maintenabilité de votre code\n• Vous êtes adaptable, faites preuve de curiosité et êtes animé·e par l’envie d’apprendre\n• Vous évoluez au sein d’environnements utilisant des méthodologies agiles\n• Vous recherchez un environnement scale-up / start-up où vous pouvez faire preuve de polyvalence et prendre des initiatives\n• Vous avez un niveau minimum B2 en Anglais et C2 en Français\n\nEncore mieux si\n• Vous avez déjà codé sur iOS\n• Vous avez déjà eu une expérience en Medtech ou scale-up\n• Vous connaissez Filament, TensorFlow Lite, CameraX, JetPack Compose\n\nVotre environnement de travail\n\nChez DentalMonitoring nous mettons tout en oeuvre pour que vous puissiez vous épanouir dans votre rôle :\n• Un fort potentiel de collaboration ! C'est une valeur fondamentale et notre équipe de chercheurs, de médecins, de développeurs, de vendeurs et toutes nos parties prenantes travaillent ensemble pour mettre nos clients au premier plan !\n• DentalMonitoring est une entreprise diversifiée et multiculturelle: plus de 20 nationalités sont représentées dans nos équipes\n• Nos locaux rénovés vous accueillent en plein cœur du 17ème arrondissement\n\nCe que nous apportons à nos collaborateurs\n• Vos idées seront entendues et considérées. Le feedback fait partie de nos pratiques et la prise d'initiatives est encouragée et accompagnée\n• Les équipes feront de leur mieux afin de vous aider dans le développement de vos projets. Nous avons tous à apprendre !\n• Nous accordons une grande importance à l'équilibre vie pro / vie perso\n• Voici quelques avantages dont vous pourrez bénéficier:\n• Carte déjeuner Swile\n• Mutuelle Alan\n• Plan d’actions gratuites\n• Mode de travail hybride possible\n• Flexibilité dans la prise de congés\n• Abonnement Gymlib\n• Evénements internes\n• Prime de cooptation attrayante !\n\nPoste basé à Paris\n\nDentalMonitoring est un employeur garantissant l'égalité des chances. Nous proposons un environnement inclusif pour tous·tes nos collaborateurs·trices. La diversité de nos équipes est l'une de nos forces et nous travaillons chaque jour avec plus de 30 nationalités dans différents pays du monde entier. Nous nous engageons également à fournir des aménagements adaptés pour les personnes en situation de handicap.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=94a5dfddb6e3056a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/android-developer-paris-dentalmonitoring-JV_IC2881970_KO0,23_KE24,40.htm?jl=1009586063751&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/tripadvisor/android-engineer-thefork?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/android-developer-paris-at-dentalmonitoring-4037526615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/qonto/android-engineer-internship/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Okko Jobs",
+                    "link": "https://okkojobs.com/android-kotlin-developer-freelance-veepee-UrvshkNn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://fr.talent.com/view?id=19abccbd608f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIFBhcmlzIiwiY29tcGFueV9uYW1lIjoiRGVudGFsTW9uaXRvcmluZyIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6InZZTlJrQ1RpcURrRUV2eTBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "NALA - Java, Android native app development, Android Studio, Firebase",
+            "company_name": "Benjamin Fernandes",
+            "location": "Les Salles-sur-Verdon, France",
+            "via": "LD Talent",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=2AFK4UmBGOB9mXi1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0WOsarCQBBFsfUTXjW1mER82PiqWCiI2AhWD2SSvSQrm5llZw1-pp9krGzu5XLgcOev2fz_XJ9qKujIIy-pFpfUOxLOfgRxjOQwImgcIPnLL_nhvC5p7xMaNnwE2pCBU9uTCh1Uu4Cfvz7naNuqMgtlZ3nStmWrQ6WCRp_VXRv7xM16ToiBM27rzepZRukWvzvInQcvtEcSFgejaZymunAIsMIeqbgiOZXpSmJp8QYpq-Qb0wAAAA&shmds=v1_AUFQtOOn0dkmkkeyd3zaJah7u18-a_OdGKukW8eSvbUDbTosgQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=2AFK4UmBGOB9mXi1AAAAAA%3D%3D",
+            "extensions": [
+                "35 an hour",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "35 an hour",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We’re looking for an experienced full-stack engineer who is ready to dive into our Android and server codebases as well as take a leadership role in our engineering team. The engineer will work with the executive team to develop product strategy and design the technical architecture to manifest that strategy. Our ideal candidate is a quick learner and good problem solver who is not afraid to step out of the comfort zone to try new things and learn new technologies. They will get into the details on the implementation code and also help to recruit and manage the growing engineering team. .",
+            "apply_options": [
+                {
+                    "title": "LD Talent",
+                    "link": "https://www.ldtalentwork.com/jobdetails/?crid=136&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOQUxBIC0gSmF2YSwgQW5kcm9pZCBuYXRpdmUgYXBwIGRldmVsb3BtZW50LCBBbmRyb2lkIFN0dWRpbywgRmlyZWJhc2UiLCJjb21wYW55X25hbWUiOiJCZW5qYW1pbiBGZXJuYW5kZXMiLCJhZGRyZXNzX2NpdHkiOiJMZXMgU2FsbGVzLXN1ci1WZXJkb24sIEZyYW5jZSIsImh0aWRvY2lkIjoiMkFGSzRVbUJHT0I5bVhpMUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Senior Android Engineer",
+            "company_name": "MWM",
+            "location": "Boulogne-Billancourt, France",
+            "via": "MWM - Teamtailor",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=NWtW3nDi1_vi4ir_AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAAUFz7CU4HbmITEVx0akEFoZODY0nTI4nEu3KXQr_DL1aXx6s-q8o8kBILNDQKpxEuFBIhCtRw5wEUnfgITHBjDhnX51jKpCdrVbMJWlxJ3nh-WyYceLEvHvRPr9EJTtkV7A_H_WImCttN9-wgEbQ8Zw6EdZtyduR5lrKDq_yKX27NRP-VAAAA&shmds=v1_AUFQtONwC5Gfs3UVuSdMBgyaQPb6ukWO7foAxnij2k6x-DM1qg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=NWtW3nDi1_vi4ir_AAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "MEETING MWM\n\nFounded in 2012 by Jean-Baptiste Hironde, MWM is a global leader in developing and publishing mobile applications in creative domains, with over 600 million downloads worldwide. Recognised as the top French app publisher, we are known for our innovative approach and a touch of ‘madness’ that inspires unconventional thinking.\n\nHeadquartered in Boulogne-Billancourt, France, and acknowledged as one of the nation’s top 120 startups, we are on a mission to ‘Unlock Human Potential’ through technology. We believe in empowering individuals by making advanced tech accessible, serving as catalysts for personal growth and exploration.\n\nTrue to our vision of making advanced tech feel like simple magic, we are committed to transforming complex technology into intuitive, user-friendly experiences. Harnessing AI and machine learning, our apps are reshaping user experiences.\n\nInterested? Keep reading!\n\nYOUR FUTURE JOB\n\nWe are looking for a Senior Android Engineer to build high-impact Android applications with exceptional quality as fast as possible 🏎️\n\nYou will have the opportunity to contribute to code that tens of millions of users worldwide will use, grow your skills, and actively participate in the life of the Product Engineering department and your Squad. More specifically, you will:\n• Collaboratively work with the Product team to analyse user needs and requirements.\n• Design, develop, and implement new features and applications using Kotlin and adhere to best practices in Android development.\n• Actively participate in continuously improving and maintaining existing applications to ensure they meet the evolving needs of users and the business.\n• Engage in testing and quality assurance of all developed features and applications to guarantee reliability and functionality.\n• Work closely with UI/UX designers, Product Managers, and other engineers to deliver collaborative projects.\n\nTARGET PROFILE\n\nYou are a seasoned Android Engineer passionate about crafting efficient, scalable, and user-centric mobile applications. With your extensive experience in Kotlin and Android development, you possess the skills to transform complex requirements into innovative solutions swiftly. Eager to take on challenging tasks, you always look for learning opportunities and thrive in environments that value collaboration, continuous improvement, and a touch of creativity.\n\nExpected competencies:\n• Android Development: at least four years of professional experience in Android development with a deep understanding of Kotlin for native development. You should have proven experience with at least one application on the Google Play Store. Bonus point if you have JNI and native development (C/C++) expertise.\n• Scalability and Maintainability: You produce efficient, scalable, and maintainable code.. Bonus point: you don’t hesitate to create tools to simplify specific processes (Gradle Custom Task, Scripting, etc.).\n• Think First, Code Later Approach: You plan thoughtfully before coding and understand the importance of strategising to ensure efficient and effective development processes.\n• Continuous Learning: You stay informed about technological news and actively engage in learning and discussions with colleagues to share knowledge and learn.\n• Team Collaboration: You are comfortable collaborating with cross-functional teams and can communicate technical ideas effectively to non-technical stakeholders.\n• Communication: You can clearly and understandably explain your ideas to technical and non-technical teammates.\n• Attention to Detail: With a keen eye for detail, you ensure your work is of the highest quality.\n• Proactivity: You are proactive and take initiative in identifying and addressing potential issues or opportunities.\n• Curiosity: You are curious and constantly seek to learn more about the market, users, and emerging technologies.\n• Drivenness: You are driven and results-oriented and can work effectively under pressure to deliver high-quality products that meet business goals and user needs.\n• You posses the mindset aligned with the 9 MWM principles described on the home page.\n\nMWM IN A NUTSHELL\n\nProduct excellence: Since 2012, we have pioneered advanced products and technologies, creating the largest consumer app catalogue in history that served over half a billion people worldwide. At MWM you will work on the apps that act as the benchmark in music, coloring, and photography.\n\nTech temple: With over 12 years as pioneers in the mobile industry, we've developed the market's most advanced technology stack. Here, you will interact with proprietary audio and rendering engines, MLMs, data infrastructure and business intelligence solutions that empower us to offer an unparalleled experience to our users.\n\nAI hub: MWM has been developing its own machine learning and deep learning algorithms since 2017 and has quickly become a reference in the AI field for the general public. Our algorithms are used by millions of people daily. At MWM, you will have a direct touch with the future of AI.\n\nMadvantages: Passion. Meaning. Challenges. Pride. Success. A real team. We guarantee you will find all of these stepping inside MWM office. A long list of all generic startup advantages is included too, but we hope you don't care that much :).\n\nMad minds, great minds: When joining MWM, you'll join our talent from diverse backgrounds across the globe, united by one powerful drive: to become their best selves. We are a real team, linked by a common vision and driven by the same passion. Our mindset is encapsulated in the nine MWM Principles, designed to nurture creativity and inspire innovation.\n\nRECRUITMENT PROCESS\n• Asynchronous use case\n• Use case debriefing and behavioural interview\n• Culture fit with C-level\n• Welcome 🚀",
+            "apply_options": [
+                {
+                    "title": "MWM - Teamtailor",
+                    "link": "https://mwm.teamtailor.com/jobs/1660316-senior-android-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://fr.jooble.org/jdp/4615496374612643851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6Ik1XTSIsImFkZHJlc3NfY2l0eSI6IkJvdWxvZ25lLUJpbGxhbmNvdXJ0LCBGcmFuY2UiLCJodGlkb2NpZCI6Ik5XdFczbkRpMV92aTRpcl9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Senior Android Developer - Video Expert (All Genders)",
+            "company_name": "Dailymotion",
+            "location": "Paris, France",
+            "via": "Ivy Exec",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=E36FF3UF2_Mega4XAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TxGJLFc2JYKNVIBoQC0GwDZfckqxcdo_bQ-KT_KWxGRgGJvvOstsDmSRCwS4KOSjxjV4CRtjCkxwKnMfJEiwL76FCdhh1NcWrNKBoY9uDMFQincf5qU8p6NEYVZ93mmyiNm9lMMLYyGhe0ugftfY2YvA2Yb0_7MY8cLdelJb8Z5BE05AY7jaSbuASLbf4A1hDtN2sAAAA&shmds=v1_AUFQtONx8Qc47cDB2sVLQXPGuaMwGDlGOeDrpDZQcb2X-GZecw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=E36FF3UF2_Mega4XAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Description\n\nDailymotion is the leading video discovery destination & technology that learns about your tastes over time, constantly surfacing the best, most relevant content on the web. Our mission is to provide the best video user experience for consumers on the market, connecting publishers and advertisers to engaged viewers who turn to dailymotion for their daily fix of the most compelling music, entertainment, news and sports content around.\n\nThrough partnerships with the world's leading publishers and content creators, France Télévisions, Le Parisien, CBS, Bein Sports, CNN, GQ, Universal Music Group, VICE and more, Dailymotion commands 3 billion monthly pageviews across its mobile app, desktop and connected TV experiences. Dailymotion is owned by Vivendi, one of the largest mass-media corporations in the world.\n\nAt Dailymotion, we‘re storytellers. We build the best place for people to enjoy the videos that matter. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring discoverable stories to life through premium content from the world’s best publishers. We do this by helping these publishers grow their audiences and monetize their content, their way.\n\nDailymotion is proud to be an equal employment opportunity and affirmative action employer. We value inclusion and we want you to help us thrive for a more diverse community.\n\nJob Description\n\nWe are currently seeking a talented Android Developer specializing in video to join our team. The successful candidate will be experienced in building video-based applications, with a focus on native video players and other video-related features.\n\nKey Responsibilities:\n• Design and build advanced applications for the Android platform\n• Work closely with our product and design teams to customize the video experience for the Android platform\n• Focus on user experience, reliability, usability\n• Improve video playback performance and other video-related functionalities\n• Collaborate with cross-functional teams to define, design, and ship new features\n\nQualifications\n• Excellent knowledge of Android SDK\n• A deep experience with Kotlin, coroutines, and flows\n• Multiple experiences working with ExoPlayer\n• Experience with third-party libraries and APIs\n• Solid understanding of the full mobile development life cycle\n• Good communication skills and ability to work effectively in a small fast-paced team.\n• Be self-motivated to explore new technologies, apps, tools and frameworks.\n\nPreferred Qualifications:\n• Proven experience in developing video-based applications, with a deep understanding of video players, codecs, live streaming, and related technology\n• Expertise in video streaming, buffering, encoding, and decoding\n• Understanding of video file formats, video analysis, and metadata\n• Experience with video editing software and techniques is a plus\n• Experience with ExoPlayer cache is a plus\n• Basics in Design System approach\n• Experience with JetPack Compose\n\nAdditional Information\n• Location: Full remote or Flex remote in Paris\n• Start Date: depending on your availabilities\n• Contract Type: Permanent",
+            "apply_options": [
+                {
+                    "title": "Ivy Exec",
+                    "link": "https://ivyexec.com/jobs-and-research-studies-search/job/9533134?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgLSBWaWRlbyBFeHBlcnQgKEFsbCBHZW5kZXJzKSIsImNvbXBhbnlfbmFtZSI6IkRhaWx5bW90aW9uIiwiYWRkcmVzc19jaXR5IjoiUGFyaXMsIEZyYW5jZSIsImh0aWRvY2lkIjoiRTM2RkYzVUYyX01lZ2E0WEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Android Developer (F/M)",
+            "company_name": "Worldline",
+            "location": "Puteaux, France",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Android+developer&htidocid=NrdsXAKYT0-9og-SAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEOwoCMRAAUGz3CGIxpYomIthoJcgKgmBnueQzbCJxJmSykjt4afEVr_vOOnUmXzh6uOAHE2cssOz1fQVbuLEFQVNcACa4Mo8J56dQa5aj1iJJjVJNjU45fmsmtNz0i638GySYgjmZisP-sGsq07hePLkknyIhRILHVNFMbQN9MeTwB4toX7WOAAAA&shmds=v1_AUFQtOMKTKKMlgjoHJw7Kadf-Gu5TRN24pAoSEgFTf65Q7DFug&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=NrdsXAKYT0-9og-SAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850285628b72399d18c582/images/a2afe1c74b3c0928c7768ec2c2a1f1f66b0f3f870124620c1fc6a72129af10c8.gif",
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Job Description\n\nAndroid Developer (F/M)\n\nAndroid Developer (F/M)\n\n[Paris – La Defense or Rennes]\n\nThis is Worldline\n\nWe are the innovators at the heart of the payment technology sector, shaping how the world conducts transactions. The solutions our team implements today are the outcomes of the growth of millions of businesses of tomorrow, ranging from your local coffee shop to startups and international banks, from Paris to San Francisco. We have a global presence, spanning all sectors of commerce across the world. Just as we assist our clients in accelerating their business, we are committed to helping our employees accelerate their careers. Together, we are shaping the evolution\n\nThe O pportunity\n\nInside the Android team of In Person Payment – Gateway, your work will be to develop and maintain the brand new Android payment device that Worldline is preparing to serve its customers which are some of the biggest European retailers.\n\nYou will be part of this exciting challenge to create the very first release as well as the upcoming ones over the coming years.\n\nYou will work in collaboration with the French development team as well as the Indian development and QA teams.\n\nWe thus needs someone able to bring his/her payment and Kotlin skills as well as his/her team spirit.\n\nHe/she will be fluent in technical English to work collaboratively with our Indian colleagues.\n\nDay-to-Day Responsibilities\n• You participate to daily meetings to share progress and blocking points with your peers.\n• You understand the detailed requirements which are to be developed by your team.\n• You define the best strategy to create the code answering those requirements.\n• You wrote both code and unit tests to achieve good code quality.\n• You deliver a runnable software to testers and make sure that your delivery is full meeting the requirements.\n• You will prepare and organize the demo to other stakeholders (Product Owner, Technical Leader…).\n• You actively contribute to the success of releases.\n• You proactively propose some technical enhancements to the team as well as to the Product Owner.\n• You make sure that the continuous integration is kept up and running and that you respect the Definition of Done defined by the team.\n• You actively participate into all the Agile processes.\n\nWho Are We Looking For\n• Master 2 in computer science or equivalent.\n• At least 5 years of experience in Software development with an expertise in Kotlin on Android.\n• At least 3 years of experience in payment device development.\n• Knowledge of Android development environment such as Android Studio.\n• Knowledge of Gradle on Android.\n• Excellent knowledge of source control tool such as Gitlab.\n• Knowledge of Agile processes such as SCRUM\n• Excellent technical English, both spoken and written\n\nAdditional Skills\n• Ability to work fast and with quality inside an international environment.\n• Ability to share his/her knowledge with others.\n• Able to understand the needs of Worldline and translate them into technical specifications\n• Be flexible and adaptable to the challenges of the delivery.\n• Willingness to increase his/her experience in Payment and/or Android.\n• Autonomous and able to self-organize in his/her day to day work.\n• Strong team spirit and excellent relationship.\n\nBenefits\n\nAs a future Worldliner, you'll have the chance to be at the heart of the global payment technology sector and shape the way the world makes payments.\n\nIn Addition To This, You Will Also\n• Be part of a company driven by a strong desire to do good and recognised as one of the top 1% most sustainable companies across all sectors globally.\n• Work with inspiring colleagues and have the opportunity to learn, develop and accelerate your career (access to the e-Learning training platform, etc.).\n\nYou'll also enjoy a wide range of benefits, including\n• Annual bonuses (end-of-year, holiday, profit-sharing)\n• 32 days' paid holiday and a convertible 13th month's holiday\n• 50% reimbursement of public transport costs\n• Very active works council (evenings, trips, cultural and leisure subsidies, etc.)\n• Participation in sporting events (Corporate Games, races, etc.)\n• Teleworking agreement\n• Subsidised company restaurant\n• Health and provident insurance\n• Wellbeing@Worldline approach\n\nShape the evolution\n\nWe are on an exciting journey towards the next frontiers of payments technology, and we look for big thinkers, people with passion, can-do attitude and a hunger to learn and grow. Here you’ll work with ambitious colleagues from around the world, take on unique challenges as a team, and make a real impact on the society. With an empowering culture, strong technology and extensive training opportunities, we help you accelerate your career - wherever you decide to go. Join our global team of 18,000 innovators and shape a tomorrow that is yours to own.\n\nLearn more about life at Worldline at jobs.worldline.com",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/android-developer-f-m-at-worldline-4102251882?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ivy Exec",
+                    "link": "https://ivyexec.com/jobs-and-research-studies-search/job/9655347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.fr/job/X8ahhRsBYpFXSrcclKWQnCrNT4HBSpj6u8gnOVildizPQmUolnkbcg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-1911-6b730568ba37bd738095062818636b67?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://fr.talent.com/view?id=3d57e9099315&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAoRi9NKSIsImNvbXBhbnlfbmFtZSI6IldvcmxkbGluZSIsImFkZHJlc3NfY2l0eSI6IlB1dGVhdXgsIEZyYW5jZSIsImh0aWRvY2lkIjoiTnJkc1hBS1lUMC05b2ctU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMHBKTUVneU5rMVpXRU5QTmxWVVUyTjZlalJ3WkZWRlpsVkxTalpRWjJsdmFuWmFPRU5EY0RoUlgwMTBTemR2Y0hOTGJrTkNiR3R2UzNRMlFWZFdWWFJXYUZCUlgxVXpkelJVVVRaQ2RuQmtVRnBTWkUxMlpXeDZjRW93VFhOUE9VczFaakZzT0VVMlRXMWlSelJHZFMxNE1sWXpVVk10WlRSQ1RGSkZVRGwxY2xrNFUyTnVTMlI2ZWt0eVV6azVOWEZOYVdWR2RGWTJaWGxGVlV4NFNuQkJhbWxVTlZwZlJYUk5YM0ZqUkZKUVdIRTJVa0ZuTlV0aWFFWkpRbXhrT1ZKUmRGRlRPRXBJWWtwM2NWSlhNV2RqUjJFeU4xOTFTREF4TldaNmIwUTBlVXhMVEVSTVJrNVVNSFZJYUcxTWIyUmlaakEzWTNsUGVGQmtjV1Z0TW1abWNFaGxiUklYYUdkTFJsb3RZamhLY0cxVGQzUXdVRFoxUzA0MlVVa2FJa0ZHV0hKRlkzRjZlR295VFhWc2FqRmlha3gyVUd0d1VsbDNTREZKWkVsZlgxRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUMHBKTUVneU5rMVpXRU5QTmxWVVUyTjZlalJ3WkZWRlpsVkxTalpRWjJsdmFuWmFPRU5EY0RoUlgwMTBTemR2Y0hOTGJrTkNiR3R2UzNRMlFWZFdWWFJXYUZCUlgxVXpkelJVVVRaQ2RuQmtVRnBTWkUxMlpXeDZjRW93VFhOUE9VczFaakZzT0VVMlRXMWlSelJHZFMxNE1sWXpVVk10WlRSQ1RGSkZVRGwxY2xrNFUyTnVTMlI2ZWt0eVV6azVOWEZOYVdWR2RGWTJaWGxGVlV4NFNuQkJhbWxVTlZwZlJYUk5YM0ZqUkZKUVdIRTJVa0ZuTlV0aWFFWkpRbXhrT1ZKUmRGRlRPRXBJWWtwM2NWSlhNV2RqUjJFeU4xOTFTREF4TldaNmIwUTBlVXhMVEVSTVJrNVVNSFZJYUcxTWIyUmlaakEzWTNsUGVGQmtjV1Z0TW1abWNFaGxiUklYYUdkTFJsb3RZamhLY0cxVGQzUXdVRFoxUzA0MlVVa2FJa0ZHV0hKRlkzRjZlR295VFhWc2FqRmlha3gyVUd0d1VsbDNTREZKWkVsZlgxRSIsImZjdiI6IjMifQ%3D%3D&q=Android+developer"
+    }
+}

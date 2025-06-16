@@ -1,0 +1,513 @@
+{
+    "search_metadata": {
+        "id": "67850a585a9ed7fe0523f336",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c4a14449114d5137/67850a585a9ed7fe0523f336.json",
+        "created_at": "2025-01-13 12:43:04 UTC",
+        "processed_at": "2025-01-13 12:43:04 UTC",
+        "google_jobs_url": "https://www.google.it/search?q=Android+developer&uule=w+CAIQICIFSXRhbHk&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/c4a14449114d5137/67850a585a9ed7fe0523f336.html",
+        "total_time_taken": 3.48
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "Italy",
+        "location_used": "Italy",
+        "google_domain": "google.it"
+    },
+    "filters": [
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY",
+                "q": "Android developer course"
+            },
+            "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxrIacCNYNxMEPQSV4V72mmmmCeaRQlBNuCiOf_2bvuZoPju4VO_iTferDIPpCflhKCb3Ya99bzUQdKErReahsrw9Dg7M-bGMJJdW23teiLhXuJcqDZhEB6tNBdquLJMumC5NBDMKnMmbq13Xhd7tYFsKdRY&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+course"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc",
+                "q": "Android developer remote"
+            },
+            "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0iTzO35H_lBix6qbmkXYu4-ut06ilmemV0eWnVySNmXS2704-iGSrNJeHoXKOiE3cJW6-75F-5CGNKbcADE46w2lW4BisV9bVMxEhXEG3xEK-67WGxzwJ1W7VtrX-O_vgTbcdEc&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w",
+                        "q": "Android developer since yesterday"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+since+yesterday&uds=ADvngMh2jJwHP_9_alEUXQ0A21-y5iOzvlf-8Ik0sk8HWfjMPNxy2UOOT-owGrScv_bzKJWMsZrfzNib93QnkRTzTTbIEWcbFils0i7o8ZNlJsWYEG74AHmTd24tRugXkc9uDFgeAXTp6WqT70SuIoY1P4OjUmYcXunvHnDNDyC3SkeOK3YtO9P_mkxQRM27tUEVbsgt1uqIQqdedU6d5GNym7EsNBIL8OMNDYi1vmGE2uBn-8OpSr1xjD6dOpEdhEMW-u5Wvor2psnSF6w7M1yDVrgoXkVjFpZj3Aht2uXqLPjUHwex8FKkwmO33QSkpO_8Sb_fKtm_vQHaHDL8MYneKsp7FESl1w&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw",
+                        "q": "Android developer in the last 3 days"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_8afgQLiqo3_9NMFkEhigshqyE-uLQKWBQbYKm6kbWV-wJYacq7xix8VOT_NmJ7rcFN_BQZdsHX8wwnatUBieoVs_-8q0B0KRG3LUQA4SF6SzeNDhfyZIpNG32bTKKUmWbhIrGQ3hmuOVZy2Dfz-eZl5Q9G-A4Sy59tzSNuJrz8OSC0OdLT5K6j7V4SftuH7ZIERFwv8h6e44iSUyMLPr6Kh2OFj3OKJ3itVsec6D4RobKYRfK2NiKTOxsgBMGWHzt9Q8gZ9vJ9yL2jTaRGCR9NiVqqLm_c8_2oR3pdl_5lXyFFCgleVmNAH7d3z7bW8BEPfVw&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw",
+                        "q": "Android developer in the last week"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+week&uds=ADvngMiOP4HOZ0X4JIzY0rRQVEUgJMmYonnu6u0TrWnREFxnZipU-FtYKXfkh97EOKp7n03fj2Uumea1c7lTbDfC-PGcjaS-IEbH9rNSuCWgwshKcbh7DCxU0Q1iItnW87Jo0x8RKZYQWxNAdf-VvjQIvigykHobbqxT0lN87tDhzGc6rg3XYAZcTlofFw1JcahMO3UKNzeYDkC-H5sIOz_2QH9cMq0kp6mDHt1rpUoIUzqI_vSX0WwLw-jViw_M0vsjqw5Sctj9JzhzMTAUQPNihCsfMVzbKJxT-i_dx_0cqpXbUwci0BFRozA_Q6hJefA0lhr_HwYaVc0FrqNG8pAOSzO6-GOtgw&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw",
+                        "q": "Android developer in the last month"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dGtr34N84RTr8F99yncwrVBgqRG9sRuY6zYw8EXwYMGe7BlZwWLg-20M5JItaHNCOL3cGNgheSwuKoD7PrXOsYnX38TvcP8csk81WBXINn7VHyuIM_nejygKybi-93FlPcjVhd2E5abs37lJeVesbyAZnmdu_mHYht2Gp_ToAAo0AKeI-yqsguuC0Y_voums0_5eC5OO6wBenVqFn3Zt_4d-yrvxiQo3tDrQWHDU5zXlmrLE7RLV1CnMnyqdz9ERPV3_qX1Rx41u7QTgVpQW3docTrQsBCkvZu-yM8O6jEpyL5vJhYOmZDO1_VTc3_ewjVSruvw&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5",
+                        "q": "Android developer full time"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZLHv5nyXnGK59KOSXdHs_UqcNebG5mYVGFU3uWMfdKDEJ4Vv-u8O8rz_tlVSLZI63VbZsOErR_ABcqt_k77kOQdd0o0RBo3cwQQD82d9TWqLcLXpziD1pQRAbY0l-ZyMoPOM-T0FeiqwDSTjOGCMoDcBYH9FlkTCrCO5WxKqXg0PGPvU6n0hrK0ONu_nVUw5NpjOxOiYyL3mu8-b2fP5LXFb1GlPRaxl7HPhJApIsajcEv8sInP0g65MApmLl11zElzjhS5&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a",
+                        "q": "Android developer part time"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAB8XqbJax8-hNEriuFcirnOlmshxLiSZaWl8TgjWkZKseIXpP4192-CSJb0FtmqzNOCHRvO1PTgVVk-j-UuCIkMLg9NnO4kicqb0QqDDrxc23XSvqIMp-k1x12_4DvM_QztAzeqt6FF1RLSusc0Qc77ydDyj2KhvFXMK_Y9eIda1xho6rtg7zVau2giIqjFyAxD5QnbULPJ1sUBcLtce-2LRobsg-Cb2IeOkg67egTld549YDKSrsfjdRqbDjyAavN2wGirsRyfpLzPiKiYsJl8uPWTHh-n6vkjVoWURTUohfT7a&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy",
+                        "q": "Android developer contract"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drUyIhu2hXbXZDIXr21I5lkgeOW8qhjpvbZPFseTuFROIbGOKbwDvYa57ysOEBmlnDnn6mc8SMaFLkoj85-qsqStM5kmGiuKC9Ja0RFOqsuX2iVGXlBZ_41utr0U40n6H3oTZ855fPd3IiRAfqZ1TGIKG-Nx6FIKND0TNY5VLyceKAZszRqFHNVo1qzMe6VmHpTcL4SD1Oq_u0ihsj_RO2r0wm3ZQn7Rptwj3pQ5zGNxJqOtBBd5TW_RQ0K7chXDdav_YwW7tAaZpayYWv-dZeC0h6YkgHrC8iCjLIT8Uz01iwoTy&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI",
+                        "q": "Android developer internship"
+                    },
+                    "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sY00mwkRMOomsM9ZF5gbJcbnw6KRVsbWlOBFuD_bLQkP3k4RO7yNSksOCoopTKAgT7jJoexQjvenC5TqbftWFcwhGBDM8mLvX_MvBCXEo96cWZWUsX5nO5XHeXv4Y4bU1wazPemjsCyJomabgwacKHuHmcMrM5jc5w6Uk3VnpUzEkRiHLXxg0Dg0grKZ6u0gGUcAAU6Ggg6HqwmKrodrl98G7kXCpOZcsSMIYT750R6uxw-n8XDvQR9z-suM87D2cIkRfEbsjlUhcpX4_wlJ9DiINUrI&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQkbEKegQIDxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A",
+                "q": "Android developer no degree"
+            },
+            "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dIWrK_48v1T90KhIAhdhQxmEPjhUjeg6NxyrBXASrT97H_ugdrGvUOfHctMP1wx41EqJnziejFRVLYdqS28rb0Jf4iEkonkj_Ma70caUuDFpJWeUVOxciel0ZmLVCzM_A95ABzcKfiS79WFDOHUMJ6MEtd6A&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+no+degree"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY",
+                "q": "Android developer certification"
+            },
+            "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOtk9WZ8NUMG5Y4mCUisYQeFZDodran4gzdGZsf3FEdzRRmQ5Tg391D2XSgUQIRC76ceUyn-xVX1rM9KkHccYn-03rTp5fNEjEh8nGE66C6xvpzQQ_h6KnOtveXgY1edhIs2ooTxY&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM",
+                "q": "Android developer training"
+            },
+            "link": "https://www.google.it/search?sca_esv=4fbe7c869920a6f3&q=Android+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kLHKhZN285YDSvcDeAKUMaA5zXE1EgIOEendIHpP35DbMnXtQb5-SoDHxIl3hxtxPFHseFJTzJoUREyz4zAj7Okw2OLnVXB1xqIUctAh5NOtcA3UkDR6JKgJCSCEJt_T3UZFjcM&udm=8&sa=X&ved=2ahUKEwjTl7HK3PKKAxUS5MkDHT15ANEQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&q=Android+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Android (kotlin) Developer",
+            "company_name": "Wynshop",
+            "location": "Piedmont, Italy",
+            "via": "The Org",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=LuHj2fCqjbzaDJfrAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CZ1uVNFGBZc6CYLo5OZY0uRoouldyB3S_oMfLb7hVd9FtT-TLxw9LN-sKdIKLvjBxBkLbOHOPQja4gIwwZV5SFifgmqW1hiR1AyiVqNrHI-GCXuezIt7-ddJsAVzsord4bibmkzDun7OJIEzRIJHRD8y6QZuatP8A1t795OPAAAA&shmds=v1_AUFQtOOHGpgFKDLxev-z-lUX87jZM733xRlXVCIuNNTaiyqoQQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LuHj2fCqjbzaDJfrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a585a9ed7fe0523f336/images/e6f49f9a2682eb4ca2bec303f3d220cf4d621eb2daba3f18ee84b72d16d0d7a7.jpeg",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Company Overview:\nWynshop is a fast-growing technology company pioneering the future of online grocery. Launched in early 2020, Wynshop has quickly established itself as a market leader enabling the world’s largest independent grocers to compete with technology and retail giants by using Wynshop’s grocery-specific digital commerce platform. We are a diverse team of energetic individuals who think big, challenge the status quo and strive for excellence in our personal and professional lives. Our potential, like our customers’ success, knows no bounds. At every level, we provide endless opportunities to produce meaningful work in a fast-paced, dynamic environment. We maintain a startup vibe, but with the resources and security of an established “corporate” company. Our global headquarters is in Miami, Florida.\n\nAbout the role:\n\nWe are seeking an Android developer to join an agile team responsible for designing, building, and maintaining our Android mobile picking solution, which is part of our market-leading e-commerce platform for groceries.\n\nOur e-Commerce platform is built from the ground up on MACH principles and deployed on Kubernetes in Google Cloud. We leverage Microsoft .NET core to build Microservices leveraging Mass Transit, Rabbit MQ, Pub/Sub, Docker, and persistent stores including Event Store, Elastic, Mongo, and Redis to support high-scale customers.\n\nThis role is fully remote and we welcome all applicants currently in Bulgaria.\n\nWhat you will be doing:\n• Work within an agile team to build our mobile-picking Android application\n• Write clean and scalable code that others can work on\n• Analyze requirements and design\n• Debug and troubleshoot production issues\n• Provide input for software and technological innovations\n\nWhat you bring to the table:\n• Experience and knowledge in building mobile applications on the Android platform\n• Strong knowledge of Android SDK, Kotlin, and Android UI design principles\n• An interest in learning and using the latest development techniques\n• Experience with mobile app testing & security\n• Experience with REST APIs\n• Experience with code versioning tools (Git will be used)\n• An interest in learning and using the latest development techniques\n\nThe impact you will have:\nAs an Android Developer, you will be responsible for developing our market-leading mobile picking solution. This solution allows retailers to fulfill e-commerce orders faster and more efficiently than other solutions on the market, and we are committed to adding teammates who can make our solution even better.\n\nWhat you’ll get in return:\n• Directly influence the adoption of new technologies that are transforming the digital commerce landscape\n• The opportunity to gain versatile skills, and be part of a high-energy, high-impact team\n• The freedom to pave your career path and accelerate your growth in an organization that is flat and nimble\n\nAbout Wynshop\nWynshop is the pioneer Cloud-based e-commerce solution specifically designed for grocers. The company was created by ambitious developers and grocery retail experts who identified a gap in the technology available for grocers to launch, scale, and win online. Wynshop is relentlessly committed to retail technology innovation. We are constantly evolving to provide simple, scalable, and sustainable solutions to our customers’ industry-specific business problems.\n\nMust be legally authorized to work without visa sponsorship for employment.\nNo phone calls, please.\n\nWynshop is an Equal Opportunity Employer",
+            "apply_options": [
+                {
+                    "title": "The Org",
+                    "link": "https://theorg.com/org/wynshop/jobs/android-kotlin-developer-5287bb1f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIChrb3RsaW4pIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ild5bnNob3AiLCJhZGRyZXNzX2NpdHkiOiJQaWVkbW9udCwgSXRhbHkiLCJodGlkb2NpZCI6Ikx1SGoyZkNxamJ6YURKZnJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "ANDROID DEVELOPER",
+            "company_name": "Bit4id",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=3EK0325e4GbXOvIIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3JsQ6CMBAA0LjyCU43GqPUGFx0UiEGo2AYXMlRK9TUXsPdAB_jvxoXl7e86DOJZvsirco8hTS7Z5fyllWwhDM1wAZ73QF5OBG1zkx3nUjgrVLMLm5ZUKyONb0VedPQoF7U8I-aO-xNcCimXm9WQxx8O08OVhL7AOuhwOAML-BqpKdAzgp6OFoZgZ7_zAXd-AX80InioAAAAA&shmds=v1_AUFQtOMoSZ75BiLddC4hYAUQrNl9fiWSxTgCdAAyaWk5CrUNsQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=3EK0325e4GbXOvIIAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a585a9ed7fe0523f336/images/e6f49f9a2682eb4c25cbb502fe43c050c6c503d89c9823bcfe6db6b62f4a73f0.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "Napoli\n\nR&D\n\nCod.PKI-MAD\n\nReady to grow your talent and make an impact? Join us and become part of a company that leads the digital transformation!\n\nWe are looking for an Android Developer to join our PKI Products team, who will design, develop, and maintain Android applications leveraging public key infrastructure (PKI) technologies while collaborating with cross-functional teams to implement secure authentication features and ensure compliance with industry standards.\n\nYOUR NEW KEY RESPONSIBILITY:\n• Design, develop, and maintain advanced Android applications leveraging public key infrastructure (PKI) technologies\n• Collaborate with cross-functional teams to define, design, and deploy new features that enhance user experience and security\n• Work with external data sources and APIs to ensure seamless integration and functionality\n• Conduct thorough testing of code to verify robustness, including edge cases, usability, and overall reliability\n• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nYOU MAY BE A FIT FOR THIS ROLE IF YOU HAVE:\n• Master’s or three-year degree in technology (Computer Engineering, Computer Science, Telecommunications Engineering) or related field\n• Proven experience in designing and developing advanced applications for the Android platform\n• Strong expertise in Kotlin and familiarity with Java\n• Experience with Android SDK, Android Studio, and application architecture patterns\n• Ability to collaborate effectively with cross-functional teams to deliver high-quality features\n• Experience working with external data sources and APIs, including RESTful services\n• Familiarity with database management, including SQLite and Room\n• Knowledge of UI/UX best practices and experience in creating user-friendly interfaces\n• Experience in code testing to ensure robustness, usability, and reliability\n• Understanding of mobile security best practices and how to implement them in applications\n• Basic knowledge of Public Key Infrastructure (PKI) and digital signature technologies.\n• It’s a plus: React Native, C/C++, Firebase, SonarQube and Mobile Security Framework (MOBSF).\n\nWHAT WE ARE OFFERING :\n• Working in an exciting and innovative market environment\n• Flexible working hours, uncomplicated holiday planning and home office\n• Dynamic and open-minded working atmosphere with attractive benefits\n• An international and motivated team that welcomes YOU!",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=01552fc36221b79e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBTkRST0lEIERFVkVMT1BFUiIsImNvbXBhbnlfbmFtZSI6IkJpdDRpZCIsImFkZHJlc3NfY2l0eSI6Ik5hcGxlcywgTWV0cm9wb2xpdGFuIENpdHkgb2YgTmFwbGVzLCBJdGFseSIsImh0aWRvY2lkIjoiM0VLMDMyNWU0R2JYT3ZJSUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Android software engineer",
+            "company_name": "TMC",
+            "location": "Milan, Metropolitan City of Milan, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=jVcMWm4_9T1njY2MAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXMsQrCQAyAYVz7CE6ZRXtFcNFJOohCN_dybdNr5EyOS8D2bXxUdXD5lw_-4r0qqjMPWWgAldFePiMgB2LEDDu4SQeKPvcTCMNFJERcnyazpEfnVGMZ1LxRX_bydMLYyewe0ukvrU7fXYresN0fqrlMHDbu3tRADA1Fz1to0LIkiWSeoSZbQMa_Xc3H5QNnH9AVowAAAA&shmds=v1_AUFQtOOLguWelxrcuqQqebOpApXiS5j6lwRElAoudBMAx40mdA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=jVcMWm4_9T1njY2MAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a585a9ed7fe0523f336/images/e6f49f9a2682eb4c2bc3309142aa15360f6c68529af4f4a1316c71059194d981.jpeg",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Italy Software Milan Hybrid\n\nWe are looking for a highly skilled Android Software Engineer!\n\nAbout The Member Company\n\nWe are a global high-tech consultancy company with a team of entrepreneurial engineers, scientists, and digital experts from around the world. Together we form a fast-growing and proud community. We offer consultancy services to high-profile clients globally in diverse service areas, such as:\n• Technology & Engineering\n• Energy & Renewables\n• Life sciences & Pharma\n• Digital & IT\n\nAbout this vacancy\n\nAs Android Software Engineer, based in Milano, you will be involved in the design, development and testing of mobile apps through the whole product life-cycle.\n\nWhat you can expect from us\n\nTMC is an international high-tech consultancy company that brings expertise to their clients in order to support them with the realization of their technological challenges. As such, TMC is operating as an expert center at the disposition of its clients and we help them to be more competitive in an ever more global and faster changing technological world.\n\nAt TMC we believe that people are the driving force behind technological innovation. That is why we want to create the best possible conditions for tech talents to thrive in. We offer you a challenging and stimulating work environment in which you can be the director of your own career.\n\nAs an Employeneur you are part of our TMC family. Next to our outstanding technical expertise, fun and engagement are meaningful parts of our culture.\n\nThe 5 basic principles of employeneurship\n\nA long-term working relationship\n\nEnjoy the security of a long-term contract and a stable source of income while getting the opportunity to work at diverse projects.\n\nIndividual profit sharing\n\nFull transparency. That’s it. For each of your projects, you know your hourly rate, your costs, and your individual performance-based profit sharing, all in order to stimulate your inner entrepreneur.\n\nBusiness cells\n\nOur employeneurs are grouped in business cells based on their technical expertise. They are small, focused and function as high-grade knowledge networks. And as buzzing communities of close colleagues.\n\nYOUniversity\n\nEvery employeneur drives their own career. Together, we make a plan for personal and professional growth. Receive personal coaching and an extensive training budget to keep developing yourself and deliver outperformance at our clients.\n\nThe Entrepreneurial Lab\n\nWork on your technical dreams in our lab. Collaborate with others in multidisciplinary teams to unlock out-of-the-box thinking and innovative ideas as well as entrepreneurial skills.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=10267ecb6125767f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/android-software-engineer-at-tmc-4122331729?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/-Lo0kc3MUHvd4Xp7WhPJgKv_xo1T4Zj_DPoupgHKvSGQb6x_qDjFEA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-1389-40e96eb79e48a55a7c7cb9ba5f264139?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIHNvZnR3YXJlIGVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVE1DIiwiYWRkcmVzc19jaXR5IjoiTWlsYW4sIE1ldHJvcG9saXRhbiBDaXR5IG9mIE1pbGFuLCBJdGFseSIsImh0aWRvY2lkIjoialZjTVdtNF85VDFualkyTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "Capgemini",
+            "location": "Milan, Metropolitan City of Milan, Italy",
+            "via": "Jobs.capgemini.com",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=6U1OziEi3ZF80UFyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXJsQrCQAwAUFz7CU4ZRbQnQhedpIIo9BtK2sZr5Jocd0Han_FbxcHlLa_4rIrNRYakPMCV3hQ0UoI9PLSDTJj6EVTgpuoDrc-jWcwn53IOpc-Gxn3Z6-RUqNPZvbTLP9o8YqIY0Kg9Voe5jOK3VY3R08TCwAINB5QdNGRJowY2FKjZFtDn_-6GYfkCXjX6y6EAAAA&shmds=v1_AUFQtONh9OhHhoSgHCktBSctHgIqFLUs07ywPR-SJ5Ak1z7PLw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=6U1OziEi3ZF80UFyAAAAAA%3D%3D",
+            "extensions": [
+                "19 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "19 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "OUR OFFER\n\nIn Capgemini Engineering, leader mondiale nei servizi di ingegneria, uniamo un team globale di ingegner*, scienziat* e architett* per aiutare le aziende più innovative del mondo a liberare il loro potenziale. Dai veicoli autonomi ai robot salvavita, i nostri talenti in tecnologia digitale e software pensano fuori dagli schemi offrendo servizi unici di R&D e ingegneria in tutti i settori.\n\nUnisciti a noi per una carriera piena di opportunità, dove puoi fare la differenza e dove nessun giorno è uguale all'altro.\n\nYOUR ROLE\n\nCapgemini Engineering il looking for an Android Developer in Rome with the following technical skills:\n• Drive continuous improvement and continuous delivery in our software development process within an agile development team.\n• Write automated unit, system and acceptance tests as appropriate to support our continuous integration pipelines.\n• Translate functional specifications into logical, component-based technical designs.\n• 2+ years of experience working in an Android environment\n• 2+ years of experience developing features in Java or Kotlin\n• Knowledge of API service connection paradigms\n• Understanding of client/server architectures\n• Understanding of mobile development standard methodologies\n• The desire to pick up, learn and run with new technologies and frameworks such as Jetpack Compose and GraphQL\n• Demonstrates familiarity with associated technologies within their specialization as part of the wider ecosystem. Example - CI/CD, Git, Github Actions\n\nWHAT YOU’LL LOVE ABOUT WORKING HERE\n• Riconosciamo l'importanza della modalità di lavoro flessibile per fornire un supporto concreto ai nostri dipendenti: che si tratti di lavoro da remoto o di orari di lavoro flessibili, avrai un ambiente per mantenere un sano equilibrio tra vita lavorativa e vita privata;\n• Al centro della nostra missione c'è la crescita della tua carriera. I nostri programmi di crescita professionale sono pensati per supportarti nell'esplorare un mondo di opportunità;\n• Ci impegniamo a favorire lo sviluppo del potenziale delle nostre risorse, coinvolgendole in prima persona nella vita aziendale per motivarle a migliorare le loro performance, grazie anche alla possibilità di seguire percorsi formativi ad hoc e ottenere certificazioni sulle ultime tecnologie;\n• Siamo impegnati a migliorare le nostre prestazioni collettive grazie al nostro ambiente di lavoro inclusivo in cui talenti diversi trovano adeguata valorizzazione. La diversity costituisce un aspetto essenziale della nostra cultura aziendale, espandendo i nostri orizzonti attraverso le dinamiche legate ad esperienza, cultura, etnia, regole di comportamento aziendali, personalità e comunicazione.\n\nABOUT CAPGEMINI GROUP\n\nLeader mondiale nei servizi di Engineering e R&D, Capgemini Engineering combina la sua profonda conoscenza dei settori industriali e le tecnologie all’avanguardia in ambito digital e software a supporto della convergenza tra mondo fisico e digitale. Beneficiando anche delle competenze del resto del Gruppo, aiuta i clienti ad accelerare il loro percorso verso l’Intelligent Industry.\n\nCapgemini Engineering può contare su più di 55.000 membri di un team di ingegner*, scienziat* in oltre 30 paesi nel mondo, con competenze in diversi settori che includono Aeronautics, Space, Defense, Naval, Automotive, Rail, Infrastructure & Transportation, Energy, Utilities & Chemicals, Life Sciences, Communications, Semiconductor & Electronics, Industrial & Consumer, Software & Internet.\n\nCapgemini Engineering è parte integrante del Gruppo Capgemini, partner globale per la trasformazione tecnologica e di business delle aziende, supporta i suoi clienti nella loro transizione verso un mondo più digitale e sostenibile, creando impatto positivo per le imprese e la società. Capgemini è un gruppo responsabile e diversificato di 340.000 persone presente in più di 50 paesi nel mondo. Oltre 55 anni di esperienza rendono Capgemini un partner affidabile per i suoi clienti, in grado di fornire soluzioni innovative per le loro esigenze di business. Capgemini offre servizi e soluzioni end-to-end, dalla strategia e progettazione all'ingegneria, grazie alle sue competenze all'avanguardia in ambito AI, cloud e dati, alla sua esperienza settoriale e al suo ecosistema di partner. Nel 2023 il Gruppo ha registrato ricavi complessivi pari a 22,5 miliardi di euro.\n\nGet the Future You Want | www.capgemini.com\n\nApply now!\n\nL'offerta di lavoro si intende rivolta all'uno e all'altro sesso in ottemperanza al D.Lgs. 198/2006. Inoltre, prestiamo attenzione e sensibilità alle future risorse appartenenti alle categorie protette, ai sensi degli articoli 1 e 18 della legge 68 del ‘99. I dati personali saranno trattati in conformità alle disposizioni contenute nel regolamento UE 2016/679.\n\n#LI-GC11",
+            "apply_options": [
+                {
+                    "title": "Jobs.capgemini.com",
+                    "link": "https://jobs.capgemini.com/it-it/job/Milano-Android-Developer-25/1034810701/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CGM Consulting S.r.l.",
+                    "link": "https://cgmconsulting.it/ads/android-developer-milano/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/satispay/51e83665-39b6-4229-adcf-279e8ad6a1d5/application?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=a2bc25fd968f0c8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/android-developer/3559661?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Università Degli Studi Dell'AQUILA",
+                    "link": "https://univaq.almalaurea.it/lau/annunci/bachecaannunci.aspx?idannuncio=780728&lang=it&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://it.jooble.org/jdp/-5668457225488398087?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/developer-android-milano-at-gielle-informatica-recruiting-4046653457?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNhcGdlbWluaSIsImFkZHJlc3NfY2l0eSI6Ik1pbGFuLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBNaWxhbiwgSXRhbHkiLCJodGlkb2NpZCI6IjZVMU96aUVpM1pGODBVRnlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Android Software Engineer",
+            "company_name": "TMC",
+            "location": "Turin, Metropolitan City of Turin, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=AvB-_q_Rbmw1PRFHAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXMsQrCMBCAYVz7CE43izZFcNFJiohCJ7uXtL2mkXgXcie2b-OjqoPLv3zwZ-9FVhypT-x7uPGgL5sQTuQ8ISbYwJVbELSpG4EJzswu4PIwqkbZGyMScidq1Xd5xw_DhC1P5s6t_NLI-N3FYBWb7a6Y8khuZeqqBE9QP5OnNVSoiSMHr5ag9DoDD3-7qA3zB9Qe26KjAAAA&shmds=v1_AUFQtOMHV9uwza3eXVN-2yybu2ECx76eLzayebpfkxlCTb53cA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=AvB-_q_Rbmw1PRFHAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a585a9ed7fe0523f336/images/e6f49f9a2682eb4c452dcfda905b604252a04c785da81984f97fc2305fa060fd.jpeg",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Italy Software Turin Hybrid\n\nWe are looking for a highly skilled Android Software Engineer!\n\nAbout The Member Company\n\nWe are a global high-tech consultancy company with a team of entrepreneurial engineers, scientists, and digital experts from around the world. Together we form a fast-growing and proud community. We offer consultancy services to high-profile clients globally in diverse service areas, such as:\n• Technology & Engineering\n• Energy & Renewables\n• Life sciences & Pharma\n• Digital & IT\n\nAbout this vacancy\n\nAs Android Software Engineer, based in Torino, you will be involved in the design, development and testing of mobile apps through the whole product life-cycle.\n\nWhat you can expect from us\n\nTMC is an international high-tech consultancy company that brings expertise to their clients in order to support them with the realization of their technological challenges. As such, TMC is operating as an expert center at the disposition of its clients and we help them to be more competitive in an ever more global and faster changing technological world.\n\nAt TMC we believe that people are the driving force behind technological innovation. That is why we want to create the best possible conditions for tech talents to thrive in. We offer you a challenging and stimulating work environment in which you can be the director of your own career.\n\nAs an Employeneur you are part of our TMC family. Next to our outstanding technical expertise, fun and engagement are meaningful parts of our culture.\n\nThe 5 basic principles of employeneurship\n\nA long-term working relationship\n\nEnjoy the security of a long-term contract and a stable source of income while getting the opportunity to work at diverse projects.\n\nIndividual profit sharing\n\nFull transparency. That’s it. For each of your projects, you know your hourly rate, your costs, and your individual performance-based profit sharing, all in order to stimulate your inner entrepreneur.\n\nBusiness cells\n\nOur employeneurs are grouped in business cells based on their technical expertise. They are small, focused and function as high-grade knowledge networks. And as buzzing communities of close colleagues.\n\nYOUniversity\n\nEvery employeneur drives their own career. Together, we make a plan for personal and professional growth. Receive personal coaching and an extensive training budget to keep developing yourself and deliver outperformance at our clients.\n\nThe Entrepreneurial Lab\n\nWork on your technical dreams in our lab. Collaborate with others in multidisciplinary teams to unlock out-of-the-box thinking and innovative ideas as well as entrepreneurial skills.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=eaa9b6df56d8af48&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/android-software-engineer-at-tmc-4122331731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/cJ1wiK6yG66ip7dWHExJIJ6EvEQXrcd3RTp45RJHrCxZx1OBrtWw6A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIFNvZnR3YXJlIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVE1DIiwiYWRkcmVzc19jaXR5IjoiVHVyaW4sIE1ldHJvcG9saXRhbiBDaXR5IG9mIFR1cmluLCBJdGFseSIsImh0aWRvY2lkIjoiQXZCLV9xX1JibXcxUFJGSEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Senior Android Developer (Arezzo) - IT",
+            "company_name": "ALTEN Italia",
+            "location": "Arezzo, Province of Arezzo, Italy",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=GodA6jNrgpGY-gUZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2NsQrCMBQAce0nOL1RRRsVXCoOBUUqIoLdS5o-20jMC3mh1P6Uv6hFcLnhOLjoPYp2N7SaPKS28qQr2GOLhhx6mKQe-56msIAs_-JEJTBKrxogC0ei2uB424TgOBGC2cQ1Bxm0ihU9BVksqRMPKnlAwY306IwMWKw3yy52tp6t0nN-uEAWpNEStIXfcQ5XT622CoHufzdUrw_9BGNHsgAAAA&shmds=v1_AUFQtONrdZUQl3feAQ9auS4IM7mgn6IbO-fSK132LrApz0ZtqA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=GodA6jNrgpGY-gUZAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850a585a9ed7fe0523f336/images/e6f49f9a2682eb4c56bcb9c2e80b3fea903b2bebdbc905c01b8954ae9098cf87.jpeg",
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Ruolo: Senior Android Developer\n\nLuogo: Arezzo\n\nAttività:\n• Progettare e sviluppare applicazioni Android: Creare nuove funzionalità, migliorare quelle esistenti e mantenere il codice delle app Android.\n• Collaborare con il team di progettazione e sviluppo: Lavorare a stretto contatto con altri team per implementare nuove funzionalità e ottimizzare l’esperienza utente.\n• Risolvere bug e ottimizzare le prestazioni delle applicazioni: Garantire che le applicazioni siano veloci, reattive e prive di errori.\n• Scrivere codice pulito, scalabile e manutenibile: Assicurarsi che il codice sia di alta qualità, facile da leggere e gestire a lungo termine.\n• Partecipare attivamente alle code review e condividere le conoscenze con il team: Contribuire alle revisioni del codice e scambiare best practices per il miglioramento del lavoro di squadra.\n\nRequisiti:\n• Almeno 5 anni di esperienza nello sviluppo Android;\n• Ottima conoscenza di Java e Kotlin;\n• Familiarità con l’ambiente di sviluppo Android (Android Studio), il versionamento del codice (Git) e capacità di fare debugging delle applicazioni.\n• Conoscenza delle API RESTful e integrazione con backend: Esperienza nell’interazione con servizi esterni attraverso API RESTful per scambiare dati con server.\n• Capacità di lavorare in team e di gestire le proprie attività in autonomia: Ottime capacità di lavorare in team collaborativi, ma anche di gestire progetti in modo indipendente e autonomo.\n\nPerché scegliere ALTEN?\n\nTechnological challenges\n\nCrediamo che la tecnologia abbia un grande potenziale per migliorare il nostro futuro, per questo ricerchiamo talenti che siano motivati a costruire oggi il mondo di domani. Con il nostro portfolio clienti e i diversi progetti di R&D attivi, in ALTEN avrai modo di lavorare su progetti all'avanguardia. La nostra Technical Direction ti accompagnerà e indirizzerà durante il tuo percorso. Avrai la possibilità di metterti alla prova in contesti progettuali diversi e di confrontarti con esperti del settore per ampliare sempre più le tue conoscenze. Potrai unire le tue passioni e metterti in gioco professionalmente. Accetti la sfida?\n\nInspiring Togetherness\n\nCi impegniamo a favorire un ambiente di lavoro sereno e collaborativo organizzando attività di team building, iniziative di aggregazione, eventi sportivi, per conoscerci meglio e condividere momenti insieme. Il successo di un gruppo si fonda sulla cooperazione e condivisione reciproca del sapere e degli interessi.\n\nFulfilling Opportunities\n\nIn ALTEN troverai corsi formativi all’avanguardia per accrescere le tue competenze sia tecnologiche, sia linguistiche! Tramite ALTEN Academy potrai ottenere certificazioni con alcuni dei più importanti schemi internazionali come IREB®, ISTQB® e altri. Attraverso Aula Streaming, invece, avrai accesso a corsi di formazione più trasversali relativi a soft skills e potrai scegliere tra 12 corsi di lingua straniera.\n\nSustainable commitment\n\nCrediamo che la tecnologia sia a supporto dello sviluppo sociale e della tutela ambientale. Oltre a collaborare a progetti che mirano alla sostenibilità, ci impegniamo a sostenere le cause che più abbiamo a cuore, avendo collaborato e collaborando, tra gli altri, con AISM, AIRC, LILT, Save the Children, Treedom, This Unique. Valorizziamo l'unicità e ci impegniamo a garantire che tutte le nostre persone abbiano pari opportunità all'interno della nostra azienda, fornendo loro gli strumenti per esprimere al massimo il proprio potenziale. Il nostro approccio alla diversità e all'inclusione si fonda sui principi di etica e integrità e rappresenta il fattore determinante per lo sviluppo di orizzonti di crescita personale e aziendale più ampi. Promuoviamo l'inserimento e l'integrazione lavorativa delle persone appartenenti alle categorie protette - in base a quanto disciplinato dalla legge 68/99.\n\nI prossimi step\n\nUna volta ricevuto il tuo cv, ci prenderemo il tempo necessario per valutarlo attentamente.\n\nSe sarà in linea con questa o con altre posizioni aperte all’interno del Gruppo, il nostro team Talent Acquisition ti contatterà telefonicamente.\n\nL’iter di selezione proseguirà con un colloquio conoscitivo con l'area Business, un successivo colloquio più approfondito, durante il quale potrebbe essere richiesto un test pratico, ed infine un colloquio tecnico.\n\nL’ordine e il numero delle interviste potrebbero variare a seconda delle esigenze di selezione.\n\nIn alternativa, saremo felici di conservare il tuo CV nel nostro gestionale per poterlo rivalutare per opportunità future. Operando in 12 diverse città e altrettanti settori, potrebbero contattarti più Talent Acquisition Partner e/o più Business Manager, se riterranno che il tuo profilo sia in linea con i progetti e le necessità che stanno ricercando in quel momento.\n\nSe dovessi identificare ulteriori offerte di tuo interesse e in linea con il tuo profilo, aspettiamo la tua candidatura per poterla valutare nuovamente.\n\nALTEN opera nel rispetto dei principi di diversità, equità ed inclusione, che alimentano i nostri valori. ALTEN ha l’obiettivo di abbattere ogni barriera e pregiudizio, garantendo un ambiente di lavoro accessibile ed accogliente, valutando candidature indipendentemente da genere, etnia, disabilità (artt. 1 e 18, legge 68/99), età, orientamento sessuale, religione, stato civile, convinzioni personali e politiche, appartenenza ad organizzazioni sindacali, responsabilità familiari e back-ground socio-economico.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/senior-android-developer-arezzo-it-at-alten-italia-4120709844?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.it",
+                    "link": "https://www.monster.it/offerte-di-lavoro/senior-android-developer-arezzo-it-arezzo-toscana--0553f80f-9124-4b75-baec-bc7f9f2e45ed?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgKEFyZXp6bykgLSBJVCIsImNvbXBhbnlfbmFtZSI6IkFMVEVOIEl0YWxpYSIsImFkZHJlc3NfY2l0eSI6IkFyZXp6bywgUHJvdmluY2Ugb2YgQXJlenpvLCBJdGFseSIsImh0aWRvY2lkIjoiR29kQTZqTnJncEdZLWdVWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Mobile Developer Senior",
+            "company_name": "MAF",
+            "location": "Imola, Metropolitan City of Bologna, Italy",
+            "via": "Maf.ad",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=YqOmbCklkm1ASYrLAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJTQrCMBAGUNz2CK5mLdqq4EZX_qBU6MoDlKSMaWSaLySDtLfxqOrmbV7xmRVlA-uF6cJvFkRO9ODgkWhFd1jKbFLXEwLdACc8P_SqMe-rKmcpXVajvis7DBUCW4zVCzb_aXNvEkcxyu12tx7LGNxi0xyv5APVA8QsqWFNiBCvJtDZ60R40gkCF35bq5HpC8wQb4ejAAAA&shmds=v1_AUFQtOO1WwuNjS9OgTKB7h4-nXZpA4OvOyY5bPo_NUrDbqHGGQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=YqOmbCklkm1ASYrLAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Who You are?\n\nAre you an experienced Mobile Developer looking for an exciting new challenge? If so, you may be the right person to join our dynamic and innovative team!\n\nWe are looking for a highly motivated and competent Mobile Developer to contribute to our challenging development environment.\n\nWho are We?\n\nMyappfree SPA is a leading company in digital advertising, designing the ultimate solutions to address the needs of advertisers and publishers in the industry of Performance App Marketing. We have been awarded 6th and 3rd global on Appsflyer Performance Index, and TOP10 (Italy) and TOP 100 (Europe) for best growing startups by the Financial Times.\n\nWhat will you do?\n• Mobile Application Development: Design and develop native mobile applications for iOS and/or Android platforms.\n• Technical Leadership: Lead and inspire the development team, providing technical advice and sharing best practices.\n• Performance Optimization: Optimize the performance of existing applications to ensure smooth and responsive user experiences.\n• Team Collaboration: Collaborate with designers, back-end developers and other team members to ensure full integration between front-end and back-end.\n• Technology Research: Keep up to date on new technologies and methodologies in the field of mobile development and propose innovative implementations.\n• Troubleshooting: Identify and promptly resolve complex mobile development issues.\n• Security and Compliance: Implement security practices and ensure compliance with mobile security regulations.\n\nWhat will you need?\n• Proven experience developing native mobile applications for iOS and/or Android platforms.\n• Flutter framework proficiency or advanced knowledge in at least one major mobile programming language (Swift for iOS, Kotlin/Java for Android).\n• In-depth knowledge of user interface design guidelines for mobile platforms.\n• Knowledge of Unity3D and development patterns (Bloc, Cubit, Observable, MVP, MVVM)\n• Knowledge of Reactive Programming paradigm (RXSwift or RxAndroid)\n• Knowledge of Security/Performance/Accessibility best practices\n• Programming skills in C# and Python\n• Experience in optimizing the performance of mobile applications.\n• Excellent troubleshooting and debugging skills.\n• Excellent problem-solving skills and ability to have good communication and collaboration skills with the team.\n• Good predisposition for independent and/or self-employed work.\n\nSalary will depend on actual experience and knowledge\n\nWhat does it mean working in MyAppFree?\n• The position is based in Imola (BO) and you can experience living in Italy (and the food! 🍕)\n• You will work with a team of multi-national professionals in one of the best digital marketing Scale-up company\n• You can improve your personal skills: we give you a budget for training courses or events, you have the opportunity to choose your professional and personal growth in our team!\n• We celebrated our company with team building days – brainstorming and relaxing!\n• You will have free meals, snacks, fruit and drinks",
+            "apply_options": [
+                {
+                    "title": "Maf.ad",
+                    "link": "https://maf.ad/en/jobs/mobile-developer-senior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=e3c71dcd4140b98a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/1EYTFR6pC73TVTMO-QRYwpbz-yh3AzuljlNLFmb76lH763p_Bn4tbA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna.it",
+                    "link": "https://www.adzuna.it/details/4617009391?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/mobile-developer-senior-at-maf-3861711008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-2812-2d3b99ef1b40bcd51b9186d2be2a4589?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://www.sercanto.it/detail/a/mobile-developer-senior_imola_140266772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LavoraConNoi.com",
+                    "link": "https://www.lavoraconnoi.com/annunci/?search=plc+software+engineer&loc=imola&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIFNlbmlvciIsImNvbXBhbnlfbmFtZSI6Ik1BRiIsImFkZHJlc3NfY2l0eSI6Ikltb2xhLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBCb2xvZ25hLCBJdGFseSIsImh0aWRvY2lkIjoiWXFPbWJDa2xrbTFBU1lyTEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Mobile Developer",
+            "company_name": "Kineton",
+            "location": "Naples, Metropolitan City of Naples, Italy (+1 other)",
+            "via": "Kineton",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=zCyrQiYcnOM6BuUiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3MMQrCQBBAUWxzBKvpBNFdEdJoqSAq8QphNozJyriz7AySHMa7qo3Nbx786j2rFo2EyARHehFLpgJruEgAJSzdAJLgJNIzzfeDWdad96rsejW02LlOnl4SBRn9Q4L-0uqAhTKjUbutN6PLqV_W15jIvrOY4IaZSVfQkBXJwtEwwSHaBHL_49mQpw8C9CUmoAAAAA&shmds=v1_AUFQtON_PM46VE8Q91tLtb5uEr7VE_c-mjcYhIRJApvxh8wY8Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=zCyrQiYcnOM6BuUiAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "We are looking for a Mobile Developer for our Media IT & Telco area.\n\nYou will be in charge of the design, development and maintenance of mobile, native and cross-platform applications. You will work closely with the client and other mobile developers to coordinate and manage project activities.\n\nActivities:\n• Managing the development of new mobile app features developed in React Native on all platforms (Android, iOS, Huawei, Galaxy...).\n\nKey requirements:\n• Hands-on experience with React Native;\n• Knowledge of Swift/Kotlin;\n• Knowledge of Typescript, ES6, GIT, Redux, Zustand.\n\nQualifications:\n• Bachelor's degree in Computer Science or Computer Engineering;\n• At least 3 years of experience in the role;\n• Excellent knowledge of the English language.\n\nLocation: Naples and Milan",
+            "apply_options": [
+                {
+                    "title": "Kineton",
+                    "link": "https://www.kineton.it/jobs/mobile-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=46638c751e765086&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sicuritalia - ICIMS",
+                    "link": "https://careers-sicuritalia.icims.com/jobs/1914/mobile-developer/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://it.linkedin.com/jobs/view/mobile-developer-at-f1-consulting-services-4115998108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Joinrs",
+                    "link": "https://www.joinrs.com/pt/job-offers/262458/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://it.bebee.com/job/01f8103ecc347974842bd1a4f03cdb3b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.it",
+                    "link": "https://www.monster.it/offerte-di-lavoro/mobile-developer-milano-lombardia--d1b8ae37-9d5d-4ebc-b1f2-a7a3d20844a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bakeca A Milano",
+                    "link": "https://milano.bakeca.it/dettaglio/amministrazione-contabilita-segreteria/mobile-developer-8e8n279830048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiS2luZXRvbiIsImFkZHJlc3NfY2l0eSI6Ik5hcGxlcywgTWV0cm9wb2xpdGFuIENpdHkgb2YgTmFwbGVzLCBJdGFseSIsImh0aWRvY2lkIjoiekN5clFpWWNuT002QnVVaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTWFJoYkhrIn0="
+        },
+        {
+            "title": "Android developer",
+            "company_name": "Abinsula",
+            "location": "Sassari, Province of Sassari, Italy",
+            "via": "Indeed",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=CYT0sz8LnfswQmybAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_0XIsQrCMBAAUFz7CU43imgigotOnUQnwQ8ol-RsU-JdyMVS_8TPFSeXN7zms2hWLYciMUCgiZJkKrCFqzhQwuIHEIazSJ9oeRpqzXq0VjWZXivW6I2XpxUmJ7MdxemPTgcslBNW6vaH3Wwy92vbusj6SgiR4Y6qWOIGbkWmyJ5AHv-8VEzvL8pXu4-bAAAA&shmds=v1_AUFQtOMheunX-PAvMBuLZ6mFe9bQHYyOIAG-uJMG5Slyw9OHWQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=CYT0sz8LnfswQmybAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join our digital team\n\nMore than 50 developers collaborating to offer tailor-made solutions in the field of mobile and web-based applications for national and international customers.\n• Web Development\n• UX/UI Design\n• Database Design\n• Research and Development\n• Apps & Games\n\nDo you have one or more of these skills?\n• Knowledge of the Android SDK\n• Knowledge of Android Studio\n• Knowledge of the Kotlin language\n• Knowledge of the Java language\n• Knowledge of the procedures for publishing a build on Google Play\n• Ability to integrate external libraries\n• Familiarity with MVVM, MVC, MVP development patterns\n• Knowledge of REST API and JSON\n• Knowledge of the coroutines is appreciated\n• Knowledge of the life cycle of an Android application\n• Knowledge of GIT\n• Ability to work in a distributed team, to interact with your colleagues and to manage feedback with a problem-solving spirit\n• Knowledge of the automatic test tools of an application (unit test, integration test, interface test) is welcome\n• Knowledge of the Agile methodology is appreciated\n• Knowledge of continuous integration systems is welcome\n\nNice to have:\n• At least 3 years in a similar position\n• Knowledge of Git\n• Familiarity with API Rest, Json, XML development\nKnowledge of the entire distribution process for the iTunes Store and / or the Play Store\n• Knowledge of other programming languages for hybrid mobile applications (eg Flutter, Cordova and Ionic)\n• Knowledge of pattern design\n• Good knowledge of the English language\n• Willingness to travel",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://it.indeed.com/viewjob?jk=f348aed6a8f451ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.it/job/n9-a7uOsS08-cOK8OattNh0jVpRbPq-v7HWD8jSyH6EXUwNIdqR5TA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIGRldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkFiaW5zdWxhIiwiYWRkcmVzc19jaXR5IjoiU2Fzc2FyaSwgUHJvdmluY2Ugb2YgU2Fzc2FyaSwgSXRhbHkiLCJodGlkb2NpZCI6IkNZVDBzejhMbmZzd1FteWJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        },
+        {
+            "title": "Android Mobile Developer",
+            "company_name": "Empatica",
+            "location": "Milan, Metropolitan City of Milan, Italy",
+            "via": "Meritocracy",
+            "share_link": "https://www.google.it/search?ibp=htl;jobs&q=Android+developer&htidocid=lEJRvRR1-9Q1LqgPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_zXLMQrCQBBAUWxzBKupRbMi2mglKqKQM4TZZExWJjvLziDJfTyopLD5zeMX30XhzrHNElqoxAcmuNKHWBJl2MBTPChhbnqQCHeRjml56s2SHp1T5bJTQwtN2cjgJJKX0b3F65xae8yUGI3q3WE7lil2q_1tSPOAECJUgTGuoSLLkoSDYYRLsAnk9beHIU8_Vp8I06cAAAA&shmds=v1_AUFQtONX_JswMiM44BE8fwK7c48DvxUsNfXSsfAQ5seCmQqrUw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=lEJRvRR1-9Q1LqgPAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Empatica\n\nWe're an affective computing company focused on human data analytics, with offices in Downtown Boston, MA and Milan, Italy.\n\nOur mission is to provide intelligent technology that is friendly, caring and more human.\nWe design and develop medical-quality wearable devices aimed to improve people's emotional well-being and save lives. Embrace2, our hero product, is the only wrist-worn seizure monitor cleared by the FDA, designed to help prevent SUDEP (Sudden Unexpected Death in Epilepsy).\n\nWe believe in a work environment that fosters autonomy, mastery and purpose. We are a team of passionate people from all over the world bringing high levels of creativity to our everyday work.\n\nWatch the recent TEDx talk delivered by our Co-Founder and Chief Scientist Rosalind Picard to learn more about the history of Empatica and what drives our commitment to great work: https://www.ted.com/talks/rosalind_picard_an_ai_smartwatch_that_detects_seizures_and_saves_lives\n\nThe new team player\nWe develop sensors to understand human behavior in real time and in real life, focused on chronic neurological diseases. Empatica has provided the first beautifully designed, affordable and medical-grade wearable that uses advanced machine learning analytics to detect and alert seizures in real-time with Embrace for people living with Epilepsy. Embrace is linked to the wearer’s mobile device with a Bluetooth Low Energy connection. Our Alert App sends a notification to designated caregivers when a seizure has been detected, indicating the GPS location to expedite assistance.\n\nThe Mate App, which works in conjunction with Alert, allows for the tracking and maintenance of an interactive seizure history as well as an insight into the daily physical and sleep activity of the Embrace wearer. We are working towards offering a more predictive dimension to increase the life saving potential of our technology.\n\nEmpatica has also designed and builds the E4 wristband as a wearable research device used by the world's best research institutions, hospitals and pharmaceutical companies. Some of our past clients have been Nasa, MIT, Harvard and Microsoft, among hundreds of institutions. The E4 offers real-time physiological data acquisition through unobtrusive monitoring and software for in-depth analysis and visualization. Our clients have the opportunity to work with us to develop customized apps by using our mobile SDK and have access to raw data via our web portal.\n\nYour contribution to the mission\n• Be a thought partner and collaborator to the Android mobile team and learn from our senior members.\n• A highly productive programmer with great product sense who is not afraid to actively participate in product decisions.\n• Able to learn, adapt and be comfortable with continually changing technology and improve our product to create the best possible user experience.\n• Write clean, efficient, well-tested code that has quality, organization and automation.\n• You love building products that help thousands of customers day to day and help save lives.\n\nRequirements\n\nThe ideal candidate for this role\n• Accepts and understands the challenges of working with a technology that can impact (and hopefully save) the lives of people.\n• Has experience with native Android application development and Java/Kotlin.\n• Excels in writing modular, easy to understand code that follows good design patterns.\n• Has experience in collaborating on software projects.\n• Has solid knowledge of software development, especially in an agile environment.\n• Is experienced in developing, releasing, and maintaining native Android applications (point us to your work in the Google Play Store).\n• Is passionate about great UX and focuses on strong user-centric and responsive development.\n• Is experienced in developing testing suites, namely Appium, for Android applications.\n\nThe ideal candidate for Empatica\n• Is a very quick learner.\n• Is a very quick learner (it’s not a typo).\n• Is fun and easy to work with.\n• Has an excellent execution mindset.\n• Is a hard-worker and collaborative.\n• Has outstanding planning, time management and multitasking skills.\n• Is focused on quality and excellence.\n• Is flexible in terms of working time.\n• Is a problem-solving hustler who can take on any big or small project.\n• Is passionate about our products and our mission.\n• Is proficient in English (mother tongue is highly appreciated).\n\nBenefits\n• Competitive salary\n• The position is based at our Milan HQ. We also have an office in Boston, plus an amazing beach summer retreat in Sardinia, Italy!\n• Free lunch - yes, being in Italy, it's something you should care about!\n• Organic fresh fruit\n• MacBook Pro\n• Flexible work hours\n• Free cookies, if you deserve them\n• Much more...",
+            "apply_options": [
+                {
+                    "title": "Meritocracy",
+                    "link": "https://meritocracy.is/de/empatica/android-mobile-developer-24615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ALLIBO® JOBLINK",
+                    "link": "https://joblink.allibo.com/ats9/job-offer.aspx?DM=2118&FT=301&SG=3&ID=157230&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo. Org",
+                    "link": "https://it.trabajo.org/offerta-2812-3ce1910325c8afa283cd00df5718f035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIE1vYmlsZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJFbXBhdGljYSIsImFkZHJlc3NfY2l0eSI6Ik1pbGFuLCBNZXRyb3BvbGl0YW4gQ2l0eSBvZiBNaWxhbiwgSXRhbHkiLCJodGlkb2NpZCI6ImxFSlJ2UlIxLTlRMUxxZ1BBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1hSaGJIayJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMUZxYVhsSFZqVTVTVlYwUkRGd1lVSldNMmxSZEVsVU5WWjNRV3BTWjJONldtVnlWRTVvZVZVdFZUZDBhRmhvUm5kUE9Hc3dkVzgxYzJ4WVRXNUVNbkJmVmtFeVRqaDROVXhITm5vM1FubGhSV3RVTTFKSlQwWnpSbmxRV2pObmREVmhWSEphU25wVkxVOUxhMWxQYjBkU05GOTJURnB1VWtGWWRHTmhOWGxFYkVFd2JIZERialp2ZEc5VGFtRlljRGxKVFc4MmR6TlNlRE0wZGkxU1ZXWXlZMUp6TmxFdE56UmtjQzB5UldOaVNYaGtTMUl6ZVV0aFJrMXFhbVl4T0Y5b1owOW1jRU5QWkZBek1HOHRkbEJOVmxkcmEzZFFhRmh3TjBKSU5GRjZRV3RsY0RnMU5GSTRaR2h2Vm1WNldpMTZNMEZZVmtrMGVGaE5XbkV6VDJ4S1ZWbEJhRE5YTnpORGJGWm1lRzFHTVhGQ1VXVnZUa3BtWDNjU0YxZDNjVVphTlZBdFNrcE1TWEE0TkZCMlprdENhVUV3R2lKQlJsaHlSV054TlhjeVRHRjZaV3N6Vlc1NVQweDRSbHBhWTJoNlRqUlplRXRCIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.it&location=Italy&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUMUZxYVhsSFZqVTVTVlYwUkRGd1lVSldNMmxSZEVsVU5WWjNRV3BTWjJONldtVnlWRTVvZVZVdFZUZDBhRmhvUm5kUE9Hc3dkVzgxYzJ4WVRXNUVNbkJmVmtFeVRqaDROVXhITm5vM1FubGhSV3RVTTFKSlQwWnpSbmxRV2pObmREVmhWSEphU25wVkxVOUxhMWxQYjBkU05GOTJURnB1VWtGWWRHTmhOWGxFYkVFd2JIZERialp2ZEc5VGFtRlljRGxKVFc4MmR6TlNlRE0wZGkxU1ZXWXlZMUp6TmxFdE56UmtjQzB5UldOaVNYaGtTMUl6ZVV0aFJrMXFhbVl4T0Y5b1owOW1jRU5QWkZBek1HOHRkbEJOVmxkcmEzZFFhRmh3TjBKSU5GRjZRV3RsY0RnMU5GSTRaR2h2Vm1WNldpMTZNMEZZVmtrMGVGaE5XbkV6VDJ4S1ZWbEJhRE5YTnpORGJGWm1lRzFHTVhGQ1VXVnZUa3BtWDNjU0YxZDNjVVphTlZBdFNrcE1TWEE0TkZCMlprdENhVUV3R2lKQlJsaHlSV054TlhjeVRHRjZaV3N6Vlc1NVQweDRSbHBhWTJoNlRqUlplRXRCIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

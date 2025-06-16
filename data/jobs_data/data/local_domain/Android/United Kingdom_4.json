@@ -1,0 +1,338 @@
+{
+    "search_metadata": {
+        "id": "67850acb6a7a21acf16103bc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/17bb02da5e4d3b91/67850acb6a7a21acf16103bc.json",
+        "created_at": "2025-01-13 12:44:59 UTC",
+        "processed_at": "2025-01-13 12:44:59 UTC",
+        "google_jobs_url": "https://www.google.co.uk/async/callback:550?q=Android+developer&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&udm=8&fc=EuICCqICQUpHOUprTTQ2VkVxOVFZV1h4N3gycGdHZzcxa3N5ZF9xU2pwN050Mnc3VHFWVFdrYTQzS1VNSXlKZWp1Q1VwXzgxVC1UTGFnYnlsZTQ1YjNHSXd6RHNFdEFWUWt3R1ZpZVpsSXZIOXFxNGRoUHpWVlg0cFRRb0Frc0hxbFZEa2llWjNXWU5MNHpJckNjUTZfQnZRSjNpT3g5elYxVUJEVl9DOW5nb2RieWEzZ0ppTXE1ZWd6bnJXS09JY2hlcTJnMnpGczNsT0JENGRScWNiNllHb1FLZlZETS1zTmdNaXQ0cWNIZVFmcnFvNW1yYkxEUW1yTWZqbVRIN2NXTklzeldydXlISlV3OWctVUhYZnhWdDd3WE5MQnhHeWZZY2hhN2cSF3lncUZaOFh3SU5hcjVOb1B4cjJHNkFZGiJBRlhyRWNyQTd2dWZEZEpLYkRlS29pWDJKbUljeFB5cGV3&fcv=3&async=_fmt:prog,_id:fc_2",
+        "raw_html_file": "https://serpapi.com/searches/17bb02da5e4d3b91/67850acb6a7a21acf16103bc.html",
+        "prettify_html_file": "https://serpapi.com/searches/17bb02da5e4d3b91/67850acb6a7a21acf16103bc.prettify",
+        "total_time_taken": 1.23
+    },
+    "search_parameters": {
+        "q": "Android developer",
+        "engine": "google_jobs",
+        "location_requested": "United Kingdom",
+        "location_used": "United Kingdom",
+        "google_domain": "google.co.uk",
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJUVFEyVmtWeE9WRlpWMWg0TjNneWNHZEhaemN4YTNONVpGOXhVMnB3TjA1ME1uYzNWSEZXVkZkcllUUXpTMVZOU1hsS1pXcDFRMVZ3WHpneFZDMVVUR0ZuWW5sc1pUUTFZak5IU1hkNlJITkZkRUZXVVd0M1IxWnBaVnBzU1haSU9YRnhOR1JvVUhwV1ZsZzBjRlJSYjBGcmMwaHhiRlpFYTJsbFdqTlhXVTVNTkhwSmNrTmpVVFpmUW5aUlNqTnBUM2c1ZWxZeFZVSkVWbDlET1c1bmIyUmllV0V6WjBwcFRYRTFaV2Q2Ym5KWFMwOUpZMmhsY1RKbk1ucEdjek5zVDBKRU5HUlNjV05pTmxsSGIxRkxabFpFVFMxelRtZE5hWFEwY1dOSVpWRm1jbkZ2TlcxeVlreEVVVzF5VFdacWJWUklOMk5YVGtsemVsZHlkWGxJU2xWM09XY3RWVWhZWm5oV2REZDNXRTVNUW5oSGVXWlpZMmhoTjJjU0YzbG5jVVphT0ZoM1NVNWhjalZPYjFCNGNqSkhOa0ZaR2lKQlJsaHlSV055UVRkMmRXWkVaRXBMWWtSbFMyOXBXREpLYlVsamVGQjVjR1YzIiwiZmN2IjoiMyJ9"
+    },
+    "jobs_results": [
+        {
+            "title": "REMOTE Android Developer",
+            "company_name": "Insight Global",
+            "location": "Westbury, United Kingdom",
+            "via": "Insight Global",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=4wRRZ6HByoE6SyurAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU43F21EcNFJsBQVEURxlKQ5kkh6F3JR6q_4teIbXvWdVOrSns7XFrZkMwcLO3xj5IQZ5nBgA4I69x6YoGN2EacbX0qStVIisXFSdAl90_OgmNDwqJ5s5N9DvM6Yoi74WK4WY5PI1fWeJDhfoItsdIRAcEcp5pU_M7hRKGjhGMhZHn7MKmfWnQAAAA&shmds=v1_AUFQtOP-yD-YJK0A-J1bQ3qHFGKPVz3Ns_6CzjrZcPSCbbPHaQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=4wRRZ6HByoE6SyurAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "An industry leading Fortune 500 client in the Home Services industry is looking for a new Android Mobile Application Developer to assist in customer-facing applications. This team is responsible for the migration of multiple assets into one platform -- these apps interface with IoT connected products and offer critical capabilities to customers. This new developer would join an existing team of 4-5 other developers and be responsible for hands-on development using Kotlin. They will be expected to collaborate with cross-functional partners and patriciate in the agile development processes including sprint planning, iterative development, estimations, and design sessions. This is the perfect role if you are interested in growing your Android Development skillset with an innovate and collaborative team.",
+            "apply_options": [
+                {
+                    "title": "Insight Global",
+                    "link": "https://jobs.insightglobal.com/find_a_job/ohio/job-246527/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSRU1PVEUgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJJbnNpZ2h0IEdsb2JhbCIsImFkZHJlc3NfY2l0eSI6Ildlc3RidXJ5LCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiNHdSUlo2SEJ5b0U2U3l1ckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Android Developer, Up to £45k - Manchester/Remote",
+            "company_name": "Manchester Digital",
+            "location": "Manchester, United Kingdom",
+            "via": "JobLeads",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=voCWrkpW41xDLo-zAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_02OsQrCMBBAce0nON0s2hTRRSehICougnNJ0yOJprmQO6T_4184-mXWSZc3vOW94jUpDrvYZfId1PjAQAnzHK4JhOD9XK3vsICzjsYhC2Z1wZ4ER3ekFhh1Ng4owp7IBpxunUjijVLMobQsWrwpDfWKIrY0qBu1_EXDTmdMQQs2y3U1lCnaWfXLQO2tFx3Ax7_4uBW9YAcnH21H_QefZSPKvQAAAA&shmds=v1_AUFQtONL3hgiMpSdnQr0vZLsBgyX2L13SPwLCs8Omq1LTDF6Yw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=voCWrkpW41xDLo-zAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850acb6a7a21acf16103bc/images/940967e7bc6aab9209ce7f5c3dcef48263d376749001c315b7cc21c7e22693cf.gif",
+            "extensions": [
+                "5 days ago",
+                "£40K–£60K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "salary": "£40K–£60K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Android Developer, Up to £45k - Manchester/Remote\n\nExciting opportunity for a passionate Android Developer to join a very well-known brand in Manchester city centre to work on an array of applications with around 300k users.\n\nPart of a wider group which employs over 2000 people worldwide, the Manchester hub is a core part of their technology offering and development.\n\nIn this role you’ll be working on existing apps to maintain, looking at ways to evolve them using new tech and looking at opportunities to build new greenfield products to put out to market.\n\nSkills:\n• Kotlin / Java\n• REST / JSON\n• Unit Testing / TDD / Jenkins / Docker\n• Flutter (A bonus)\n\nIf you are someone with 1-2 years’ experience and looking for exposure and the chance to learn cutting edge technology in your space, then this would be good for you!\n\nIn return for your commitment to them, they are offering up to £45k salary with an attractive benefits package.\n\nThe split between office and home working is flexible; they have been mainly at home but would like to get people into the office as much as they can but aren’t limiting on the amount of days at this time.\n\nShould this sound like something you are interested in and would like to find out more, please contact me directly on 07971 678 296 or apply via the advert and I will be in touch ASAP.",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/gb/job/android-developer-up-to-gbp45k-manchester-remote--manchester--ea0fbfd237be7f079f4924a77b63e8d6e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://uk.talent.com/view?id=c6cd37dc2186&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciwgVXAgdG8gwqM0NWsgLSBNYW5jaGVzdGVyL1JlbW90ZSIsImNvbXBhbnlfbmFtZSI6Ik1hbmNoZXN0ZXIgRGlnaXRhbCIsImFkZHJlc3NfY2l0eSI6Ik1hbmNoZXN0ZXIsIFVuaXRlZCBLaW5nZG9tIiwiaHRpZG9jaWQiOiJ2b0NXcmtwVzQxeERMby16QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAifQ=="
+        },
+        {
+            "title": "Android Engineer",
+            "company_name": "Monzo Bank",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=L95ElCENO7ZT8xB1AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBQGUFz7CE53EATRRAQXOymI4M_oXNLmkkbb-4XcDMVn8KHFM5zqO6uWR_EZ0dNZQhTmTBu6oiVll7ueIHQBwsDzui8l6cFa1cEELa7EznQYLYRbTPaFVv812rvMaXCFm91-O5kkYbV4QD6gk5M3RaE7xEPW9JRY2NMtSvAYfwoAU3mPAAAA&shmds=v1_AUFQtONun_TXL6XMuvnqBJEIbe1reXGqxY-IVVU2HnczgW-yiA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=L95ElCENO7ZT8xB1AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850acb6a7a21acf16103bc/images/940967e7bc6aab92d9303bcc8352a2b2023d18d88fe5b6fb57b6aebe2013b68d.gif",
+            "extensions": [
+                "26 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\nHear from our team about what it's like working at Monzo ✨\n\n📍London / UK Remote | 💰 £78,000 - £110,000 base salary per year ➕ share options | Benefits | Technology\n\nAbout Our Mobile Engineering Discipline\n\nOur mobile engineers have a variety of different backgrounds\n\nThere are ~40 Android engineers at Monzo and we’re looking for more to join the team. We have several non-graduates; only some of us studied Computer Science; some of us have worked in huge companies; some have only ever worked in startups; others are former consultants. As long as you enjoy learning new things, we’d love to talk to you.\n\nMonzo works in small, interdisciplinary teams\n\nWe have around 300 engineers out of roughly 4,500 people in total - and we have big ambitions. There are many interesting challenges ahead, and we're happy for people to move between teams or to specialise, whatever you prefer. As an engineer here you'd be able to work directly with anyone across the company, and we run regular knowledge-sharing sessions so you’ll learn heaps about everything from how banks work to effective communication.\n\nYour day-to-day\n\nWe’re searching for product-focused Android engineers to evolve our native mobile app. You’ll take pride in building polished user experiences, and you’ll balance the need for well-tested resilient code with moving fast and iterating.\n\nYou’ll be working on a product that is a part of day to day life for more than 11 million people already, and your work here will shape the way that people interact with their finances.\n\nAs an Android Engineer at Monzo you'll work in a small, autonomous product squad alongside iOS Engineers, Backend Engineers, User Researchers, Product Designers, Product Managers, QA Testers, and Data Scientists.\n\nYou and your team will be responsible for an overall company goal, rather than building a specific feature - you'll have the opportunity to have impact on both what we build, and how we build it. Mobile engineers at Monzo work on everything from the personal banking product to customer support tools. We also have a small mobile platform squad dedicated to enabling other engineers to move faster.\n\nEvery week we meet as an Android discipline to discuss tools, techniques, problems we're encountering across the company and work together to improve our codebase and processes.\n\nYou'll report to an engineering manager who will meet with you every 1-2 weeks 1:1. They’re dedicated to helping you grow and develop as an engineer.\n\nOur Android app\n\nOur app is 100% Kotlin, built using MVVM (Model View ViewModel) and Coordinators, and modularised by product feature.\n\nWe use RxJava, Retrofit and Moshi for API calls and Dagger for dependency injection. We’re starting to use Coroutines for most new features. Room is our choice for persistence, and we use repositories for interacting with data. We’ve built out our design system with Compose.\n\nWe use GitHub Pull Requests to do code reviews, and write unit tests for our ViewModels, Coordinators, and any other classes which contain logic. We write tests for all of our Compose screens and snapshot test them with Happo. We also use Espresso to test flows, which are executed via our continuous integration system.\n\nWe’ve previously written about building Monzo Chat on Android, which goes into detail on some of these elements.\n\nYou should apply if\n• You care about the impact your work has on our customers, and optimise for outcomes rather than the number of lines of code you output\n• You’re excited about and have experience in programming in Kotlin\n• You’ve shipped and iterated on at least one app in the Play Store\n• You have a product mindset: you care about customer outcomes and you want to make data-informed decisions\n• You love turning excellent design into beautiful products\n• You’re comfortable working in a team that deals with ambiguity\n• You have an understanding computer science principles\n\nThe Interview Process\n\nOur Interview Process Involves Three Main Stages\n• Initial Call\n• Take home task or pair coding exercise\n• Final interview including a system design and a behavioural interview\n\nOur average process takes around 2-3 weeks but we will always work around your availability.\n\nYou will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions or want to talk through reasonable adjustments ahead of or during application please us at any point on tech-hiring@monzo.com\n\nPlease also use that email to let us know if there's anything we can do to make your application process easier for you, because of disability, neurodiversity or any other personal reason.\n\nThere’s a detailed blog on the interview process, for extra details, hints and tips.\n\nWhat’s in it for you\n\n💰 £78,000 - £110,000 base salary per year ➕ plus stock options + Benefits, we also provide all of our engineers with the latest MacBook Pro.\n\n✈️We can help you relocate to the UK\n\n✅We can sponsor visas.\n\n📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.\n\n📚 Learning budget of £1,000 a year for books, training courses and conferences\n\n➕ And much more, see our full list of benefits here\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2023 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://uk.linkedin.com/jobs/view/android-engineer-at-monzo-bank-3962850848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTW9uem8gQmFuayIsImFkZHJlc3NfY2l0eSI6IkxvbmRvbiwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6Ikw5NUVsQ0VOTzdaVDh4QjFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Mid Android Developer",
+            "company_name": "Games Workshop Group PLC",
+            "location": "Nottingham, United Kingdom",
+            "via": "BeBee",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=LaWY6SXUC9W764YRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHvwrCMBCAcVz7CE43S21E0EEnUSj4DxdxLGlzNNEkF3Kn9H18Uevy_fiK76QoL87ALppMowf8oKeEGeZwpBYYde4sUISaqPc43VqRxBulmH3Vs2hxXdVRUBSxpUE9qeV_GrY6Y_JasFmuFkOVYj9b1zogw4Pyiy0lqDO9E9zOe3ARriTiYm91KOEenaCB0_iGwg8f2J2FpgAAAA&shmds=v1_AUFQtOMsHBgtppRblCVXORof80xWPgi2i2tw3tnI5qj8bdKcSA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=LaWY6SXUC9W764YRAAAAAA%3D%3D",
+            "extensions": [
+                "1 day ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Are you an experienced Mid-Level Android Developer looking to join a collaborative team?\nGames Workshop is seeking a talented individual to work on our Warhammer Studio's Book & Boxed Games team, focusing on modern architectures and technologies.\nAs a Mid-Level Android Developer, you will contribute to the development and growth of our agile software engineering team by working on new and existing mobile native apps that support our Warhammer hobby.\nThese apps enable customers to build armies, lookup rules, or redeem additional digital content, helping them engage with our physical products such as painting miniatures and Warhammer+.\nWe're looking for someone who can efficiently deliver quality solutions to business requirements, including working with Scrum, Product, and other delivery functions.\nThis involves collaborating with other developers and test analysts to develop robust testing processes, facilitating rapid delivery of high-quality software.\nTo ensure we uphold and raise the quality of team output, we encourage code reviews and feedback. The ideal candidate will have demonstrable experience in native Android applications, strong understanding of Agile/Scrum delivery methods, Unit Testing, Jetpack Compose, Room or other SQL data layers, Kotlin coroutines.\nWhat We Offer\nAt Games Workshop, we value individuals who put the company's needs first when at work.\nIn return for your hard work, you will receive 33 days holiday per year (including public holidays), matching contributory pension scheme up to 7.5%, profit share bonus (subject to GW meeting profit targets), and option to join our Share Save scheme. Additionally, you will enjoy a staff discount of between 25% and 50% on our products.\nKey Information\nLocation: This role is home-based, with occasional visits to our UK head office in Lenton, Nottingham.\n\nSalary: £60,000 - £80,000 per annum",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/963121fe9d9bc3c2b8ca8c767450c726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWQgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJHYW1lcyBXb3Jrc2hvcCBHcm91cCBQTEMiLCJhZGRyZXNzX2NpdHkiOiJOb3R0aW5naGFtLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiTGFXWTZTWFVDOVc3NjRZUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Junior Android Developer at Moneybox",
+            "company_name": "Moneybox",
+            "location": "London, United Kingdom",
+            "via": "Peerlist",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=_6Ob6vt7lmocLHdNAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3MsQrCMBCAYVz7CE6Ho2gjgoudBEGoOjqXtDnSlPQu5E6pL-OzWheXf_v-4rMoqvpJgTOcyGUODs74wsgJM1iFOxO-W55gCzW3IGhz1wMTXJh9xGXVqyY5GiMSSy9qNXRlx6OZ3czMwK380khvM6ZoFZv9YTeVifx69b8HghuTY9rAg4Kig2sg73j8Au4rCAKhAAAA&shmds=v1_AUFQtOOJbBrQcCeKymZFyIfiis0x8xZlPY6BHz8oqdNBSsZKhg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=_6Ob6vt7lmocLHdNAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850acb6a7a21acf16103bc/images/940967e7bc6aab9283687393d0010b0f7b2eb3d3499d3c2574e902eaa912394c.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Moneybox is hiring with Peerlist for a Full-time Junior Android Developer. Required skills: Android Jetpack,Kotlin,Java,MVVM,System Design",
+            "apply_options": [
+                {
+                    "title": "Peerlist",
+                    "link": "https://peerlist.io/company/moneybox/careers/junior-android-developer/jobhdneppdjp866je277gpkbjkpeql?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIgYXQgTW9uZXlib3giLCJjb21wYW55X25hbWUiOiJNb25leWJveCIsImFkZHJlc3NfY2l0eSI6IkxvbmRvbiwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6Il82T2I2dnQ3bG1vY0xIZE5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Senior Android Developer",
+            "company_name": "Computer Futures",
+            "location": "Tewkesbury, United Kingdom",
+            "via": "reed.co.uk",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=OQ4xKVZaYYrM8KIPAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMwQ4BMRAA0Lj6BKc5C61IXDgJIeGI86bdTrql22k6U9bP-FZc3vGNP6OxvmAKVGCbXKHgYI9PjJSxwBxOZIHRlLYDSnAk8hEnm04k81pr5qg8i5HQqpZ6TQktDfpOlv803JmCORrBZrlaDConP1U76nOV336oUgsyhARXfD2QbS3vGdxSEHRwDsk76r_oe_EGoQAAAA&shmds=v1_AUFQtOOmD103CoFvRmOHLqCg-hGEqBbkWHdZO9-L8g5O_ZAyCg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=OQ4xKVZaYYrM8KIPAAAAAA%3D%3D",
+            "extensions": [
+                "£50K–£80K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "£50K–£80K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Android Developer opportunity:\n\nA consultancy has an opportunity for an experienced Senior Android Developer. The right candidate will have a minimum of 7 years of Java and Kotlin, testing methodologies, along with experience with Android apps featuring maps functionalities.\n\nOur client is based in Tewkesbury, Gloucestershire and requires being in the office 1 day a week.\n\nSkills required:\n• Java and Kotlin expertise\n• End-to-end development - requirement gathering, testing\n• C# experience beneficial\n• Map and location application features experience\n\nAdditional Requirements:\nThis candidate will need to have or be able to obtain SC clearance. British citizens or ILR ONLY!\n\nIf you meet these qualifications and have relevant work experience that makes you qualified enough to take up this role then please apply now! I'd be keen to discuss with you the opportunity and process!\n\nTo find out more about Computer Futures please visit www.computerfutures.com\n\nComputer Futures, a trading division of SThree Partnership LLP is acting as an Employment Business in relation to this vacancy | Registered office | 8 Bishopsgate, London, EC2N 4BQ, United Kingdom | Partnership Number | OC387148 England and Wales",
+            "apply_options": [
+                {
+                    "title": "reed.co.uk",
+                    "link": "https://www.reed.co.uk/jobs/senior-android-developer/54126910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/a6dc4d530d74d055838b1f3269bea058?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.co.uk/jobs/details/5000021756?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.co.uk/companies/computer-futures/senior-android-developer-118566/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SaluteMyJob",
+                    "link": "https://salutemyjob.com/jobs/senior-android-developer-tewkesbury-gloucestershire/1536754380-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SonicJobs",
+                    "link": "https://www.sonicjobs.com/uk/jobs/tewkesbury/software-developer/senior-android-developer-67509c3982915821a1b8bfab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Study International Jobs",
+                    "link": "https://jobs.studyinternational.com/job/senior-android-developer-wwPuJbUyQh-at-computer-futures-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IT Job Board",
+                    "link": "https://www.itjobboard.co.uk/job/16023134/senior-android-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJDb21wdXRlciBGdXR1cmVzIiwiYWRkcmVzc19jaXR5IjoiVGV3a2VzYnVyeSwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6Ik9RNHhLVlphWVlyTThLSVBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Android Developer - Kraken Field",
+            "company_name": "Octopus Energy",
+            "location": "England, United Kingdom",
+            "via": "Theround",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=sD9BV_7SaQWh89SuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHvwrCMBCAcVz7CE63KpqIIIJOgn_ADk7OJU2ONJrehVyU-ji-qXX5-H3Vd1JtD-QyBwdHfGPkhBmWUGfzRIJzwOjGvXILgibbDpjgwuwjTvddKUl2WotE5aWYEqyy3GsmbHnQD27ln0Y6kzFFU7BZb1aDSuTns5stnF4CJ8LsPxBolI-G3ALuFAo6qAN5x_0PtxDVOqQAAAA&shmds=v1_AUFQtONRV7pQpuD_5xLQ0Dbrt1vC7MjnoNx53nlHK-yfkuFY2A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=sD9BV_7SaQWh89SuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850acb6a7a21acf16103bc/images/940967e7bc6aab92f30f266158a4ced4b0501c99ace1f9f64d0c29e9e6ee362f.gif",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Kraken is the technology tentacle of the Octopus Energy Group.\n\nWe’re looking for a mobile developer to join Octopus’s rapidly expanding home retrofitting tech platform, Kraken Field.\n\nAbout Kraken Field\n\nWe’re making converting homes to green electrons as simple as possible, by building a giant integrated platform to enable engineers to retrofit homes with smart meters, solar panels, heat pumps, and EV chargers.\n\nWe’re busy launching in new countries, working with ever more engineers and tech partners, building exciting new features at scale, and creating the integrated solution to retrofit homes across the world - all in the name of making it as easy and cheap as possible for customers to go green.\n\nKraken Field is a multifunctional team made up of product, backend, design, mobile, web and more - all focused together on making Octopus the go-to name in green home installations. And we’re looking for smart individuals with an interest in the space who can help us make it happen.\n\nMobile development at Octopus\n\nAs well as being part of Kraken Field you’ll be part of a large team of mobile developers across Octopus with projects spanning Electric Vehicles, Energy usage flexibility, Energy accounts, Smart home devices, Acquisitions and Engineer solutions.\n\nAll our apps are built with declarative UI frameworks (Jetpack Compose & SwiftUI), all our APIs are built in GraphQL, and we use a modern selection of libraries and software development techniques.We have projects in pure Android/Kotlin, others in pure iOS/Swift and we also use Kotlin Multiplatform in larger projects to share code between native codebases.\n\n—Don’t think you check off the requirements below? We love hiring passionate people with a drive to learn so drop us a speculative application—\n\nAbout you & what you’ll do\n• You’ll be someone who thrives on uncertainty and loves to make an impact.\n• You’ll be passionate about what you do and that shows through your enthusiasm and communication.\n• Your values will align with that of the company’s, you’ll care about sustainability and creating a better future for our planet.\n• You’ll enjoy contributing across the whole development process including design, product management and stay on top of upcoming technologies that could benefit the business.\n• The home retrofitting industry and Kraken Field as a product are rapidly expanding, and are a hugely important part of decarbonising the planet - you’ll have big responsibility from day one and really help influence how we scale the technology to make that happen.\nYou’ll..\n• Be able to discuss vision and features within a team and propose creative solutions\n• Be proficient with Kotlin and have experimented with other programming languages\n• Have a good knowledge of Jetpack Compose having used it in a professional environment\n• Be passionate about app architecture and can talk about the benefits and drawbacks of various patterns (MVC, MVVM, Redux)\n• Be passionate about great app design and user experience\n• Have used GraphQL or are interested in learning\n• Have knowledge of reactive libraries, offline storage, API integration, and testing\n• Be familiar with source control best practices and continuous integration\n• Be excited to explore cross platform code sharing solutions (whilst keeping the UI 100% native)\nNon requirements but a bonus if you do have experience in any of these areas!\n• Professional use of Kotlin Multiplatform\n• Exposure to Compose Multiplatform\n• Professional iOS development experience\n\nIf this sounds like you then we'd love to hear from you.\n\nStudies have shown that some groups of people, like women, are less likely to apply to a role unless they meet 100% of the job requirements. Whoever you are, if you like one of our jobs, we encourage you to apply as you might just be the candidate we hire. Across Octopus, we're looking for genuinely decent people who are honest and empathetic. Our people are our strongest asset and the unique skills and perspectives people bring to the team are the driving force of our success. As an equal opportunity employer, we do not discriminate on the basis of any protected attribute. Our commitment is to provide equal opportunities, an inclusive work environment, and fairness for everyone.",
+            "apply_options": [
+                {
+                    "title": "Theround",
+                    "link": "https://www.theround.com/octopus-energy-jobs/android-developer--kraken-field/9ddf3047-4a53-41c7-bd82-3ecfe3d842ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciAtIEtyYWtlbiBGaWVsZCIsImNvbXBhbnlfbmFtZSI6Ik9jdG9wdXMgRW5lcmd5IiwiYWRkcmVzc19jaXR5IjoiRW5nbGFuZCwgVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InNEOUJWXzdTYVFXaDg5U3VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Android Developer",
+            "company_name": "SearchWorks",
+            "location": "United Kingdom",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=xAEFofuuk65bW5HEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x3MOwoCMRAAUGz3CIIwpQgmIthoJQiCliKWSz5DNpqdCZlB9gSeW7R55es-s255pNg4RzjhGwtXbLCGC3sQdC0MwARn5lRwfhhUq-ytFSkmiTrNwQQeLRN6nuyTvfzoZXANa3GK_Xa3mUyltFrc_t2D20sgE9wpK0a4ZkqRxy--SRTniQAAAA&shmds=v1_AUFQtOM9b9N2PS4vf4VZkt8gh399GhbZYkgdtBwlA7Jmq22cPg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=xAEFofuuk65bW5HEAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/67850acb6a7a21acf16103bc/images/940967e7bc6aab926d12ffe91285b1e1097ca5dd6fd3321b9103cfaeaec0707e.gif",
+            "extensions": [
+                "21 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "As a trusted partner of some of the UK's leading energy brands, our client is seeking a skilled Android Developer to join their dynamic team. You'll work on cutting-edge mobile applications whilst collaborating with talented professionals to deliver exceptional user experiences.\n\nWhat you'll do:\n• Design and Develop: Design, build and maintain high-performance, reusable, and reliable code.\n• Collaborate: Work seamlessly with cross-functional teams to achieve project goals.\n• Optimise Performance: Ensure smooth app performance and responsiveness.\n\nWhat you'll need:\n• Strong Android Foundation: Solid understanding of Android SDK, Kotlin, and Java.\n• Technical Expertise: Proficiency in RESTful APIs, offline storage, threading, and performance tuning.\n• Design Sense: Knowledge of Android UI design principles and Google's Android Design principles.\n• Problem-Solving Skills: Ability to tackle complex technical challenges and find creative solutions.\n• Passion for Mobile: Enthusiasm for mobile app development and a drive to stay updated.\n\nOffering:\n• Competitive Compensation: Attractive salary and benefits package.\n• Flexible Work: Work-life balance and hybrid work options.\n• Professional Development: Opportunities for training and skill enhancement.\n• Supportive Team: Collaborative and friendly work environment.\n\nThis is a chance for you to join an innovative company where you will be encouraged to learn new skills, take on challenging projects, and advance your career.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://uk.linkedin.com/jobs/view/android-developer-at-searchworks-4108533605?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "reed.co.uk",
+                    "link": "https://www.reed.co.uk/jobs/android-developer/54162394?source=searchResults&filter=/jobs/android-developer-jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.co.uk/jobs/details/4972736573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://uk.jooble.org/jdp/-729725403907450176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SitePoint",
+                    "link": "https://www.sitepoint.com/jobs-for-developers/nextech-group-ltd/android-developer-1372163/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Diversity Dashboard",
+                    "link": "https://diversitydashboard.co.uk/jobs/android-developer-manchester/1543762545-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WKRN Jobs",
+                    "link": "https://jobs.wkrn.com/jobs/android-developer-manchester/1543762545-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://gb.bebee.com/job/194be15e91ccd3f80e8b80486014140d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmRyb2lkIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNlYXJjaFdvcmtzIiwiYWRkcmVzc19jaXR5IjoiVW5pdGVkIEtpbmdkb20iLCJodGlkb2NpZCI6InhBRUZvZnV1azY1Ylc1SEVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCJ9"
+        },
+        {
+            "title": "Remote Android Developer",
+            "company_name": "Premier Group Recruitment",
+            "location": "Edinburgh, United Kingdom",
+            "via": "StudySmarter - Talents",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=HLUo0pjNjC_QES-vAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvQrCMBAAYFz7CE43izYi6KCToBR0kYJzyc-RRJq7kFylT-Rzqss3fs1n0ageEwvCmVzh6OCCbxw5Y4EN3NhARV1sACbomP2Iy1MQyfWoVK1j66toiba1nBQTGp7Vi039M9SgC-ZRCw67_XZuM_nV4VEwxV_eFZ4y9GjLFCUhCUSCq4tkpuLDGp4UBR3cI3nH6QskqQrfqQAAAA&shmds=v1_AUFQtOM8Sxmd5anqtQH4BjUj1SQxE05CcJXDaQwAceX2sip0ug&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=HLUo0pjNjC_QES-vAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Title : Android Developer Job Type : Permanent Edinburgh (typically 2 days in the office per week, 3 days from home) Salary: £45,000 - £70,000 (depending on experience) I am working with a client who is looking for an experienced Android Developer to join their team and help build a market-leading mobile app. This is an exciting opportunity to work in a collaborative environment, developing and iterating new features while taking ownership of the Android app’s full development lifecycle. Develop new features for the Android app and take ownership of the development lifecycle, including building, testing, packaging, and deployment. Follow mobile architecture best practices and collaborate with cross-functional teams to deliver high-quality solutions on time. Implement and maintain automated testing frameworks for unit, end-to-end, and visual regression testing. Participate in agile development processes, including sprint planning, retrospectives, and daily stand-ups. Solid experience in Android development, with a strong focus on Kotlin (Java knowledge is a plus). Proficiency in integrating third-party APIs and working with networking concepts such as RESTful services and JSON/XML. Familiarity with Android SDK, app components, lifecycle management, permissions system, and Jetpack libraries. Experience with mobile UI development, including building responsive designs for various screen sizes and adhering to design systems. Strong understanding of different testing phases for Android applications, including unit testing, end-to-end testing, and performance optimization. Non-contributory pension (8%-12%) ~ Discretionary bonus based on performance ~34 days of annual leave (including bank holidays) ~ Additional benefits include private medical cover, life assurance, critical illness cover, enhanced parental leave, retail discount vouchers, cycle-to-work scheme, and subsidised restaurant and online GP appointments.",
+            "apply_options": [
+                {
+                    "title": "StudySmarter - Talents",
+                    "link": "https://talents.studysmarter.co.uk/companies/premier-group-recruitment/remote-android-developer-79093/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgQW5kcm9pZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJQcmVtaWVyIEdyb3VwIFJlY3J1aXRtZW50IiwiYWRkcmVzc19jaXR5IjoiRWRpbmJ1cmdoLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiSExVbzBwak5qQ19RRVMtdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        },
+        {
+            "title": "Senior Android Developer. Job in Gloucestershire News10 Jobs",
+            "company_name": "Computer Futures",
+            "location": "Gloucestershire, United Kingdom",
+            "via": "News10 Jobs",
+            "share_link": "https://www.google.co.uk/search?ibp=htl;jobs&q=Android+developer&htidocid=gTpHS0g30T1V6SeqAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_22OsQrCMBRFce0nOL1ZtKmKi06iKCi4FGdJk0cTSfNCXqL9Q3_L1tnlLvcc7i0-k6Ku0VuKsPc6ktVwxBc6ChhLuFAD1sPZUVbICSMbGxFu-OZlNbYMix_EKKMyQANL1Dqc7kxKgbdCMLuy5SSTVaWiTpDHhnrxHNwxHmxkxOBkwsdqU_Vl8O1sfaAu5GEOTjnliPznxBzu3ibUcLW-1dR9AYsijAbKAAAA&shmds=v1_AUFQtONOZQQlNloAmwqLxdkFVgs_7tD8OxGkiF1TbOPxa9y3Hg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Android+developer&htidocid=gTpHS0g30T1V6SeqAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "£50K–£80K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "salary": "£50K–£80K a year",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior Android Developer opportunity:\n\nOne of our key clients has an opportunity for a highly experienced Senior Android Developer. The right candidate will have a minimum of 7 years of Android mobile development experience, has excellent knowledge of Java and Kotlin programming languages, testing methodologies, experience with apps featuring maps functionalities.\n\nOur client is based in Gloucestershire and requires being in the office 1 day a week.\n\nSkills required:\n• Java\n• Kotlin\n• End-to-end software development\n• Map and location tracking functionalities\n• iOS beneficial\n\nOffered:\n• Salary of up to 80k - 90k\n• 10% bonus\n• Christmas bonus\n• Health and life insurance\n• 25 days holiday\n• Pension contribution\n\nAdditional Requirements:\nThis candidate will need to have or be able to obtain SC clearance.\n\nIf you meet these qualifications and have relevant work experience that makes you qualified enough to take up this role then please apply now! I'd be keen to discuss with you the opportunity and process!\n\nTo find out more about Computer Futures please visit (url removed)\n\nComputer Futures, a trading division of SThree Partnership LLP is acting as an Employment Business in relation to this vacancy Registered office 8 Bishopsgate, London, EC2N 4BQ, United Kingdom Partnership Number OC(phone number removed) England and Wales",
+            "apply_options": [
+                {
+                    "title": "News10 Jobs",
+                    "link": "https://jobs.news10.com/jobs/senior-android-developer-gloucestershire/1542713545-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5kcm9pZCBEZXZlbG9wZXIuIEpvYiBpbiBHbG91Y2VzdGVyc2hpcmUgTmV3czEwIEpvYnMiLCJjb21wYW55X25hbWUiOiJDb21wdXRlciBGdXR1cmVzIiwiYWRkcmVzc19jaXR5IjoiR2xvdWNlc3RlcnNoaXJlLCBVbml0ZWQgS2luZ2RvbSIsImh0aWRvY2lkIjoiZ1RwSFMwZzMwVDFWNlNlcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIn0="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRTVYYWtWWmFUaEdVMkpZWlZCc1MwVldZMDlhTFV3dFVFSTBabTVKWmtrMWQzVkphV1Z5YVY5TWJXVmxhVEI2VjJaTWJYRmtlbUowYkcxWGVFcFFWV1p5UkVSR1lsa3labTFRVERGSlEzUXhZamxKY2pOc2JVNUxhMk5PTTJkNlowZFZRVzB0YUhaNFRqVnBNV2RQUWt3d1oySkdZMHRVUjBSeWIzbGFVelZPV1hwS09YWldaVTVhV25waGRucEhNRWhwY2s5UE4zbDNaVVJWYkZsUWJ6VnRNRlZPVmtoQmFHMTZNR3hzWWtWbFFUSjJNRzlrWlU1cFEyWnlWVzF1YlRSalJ6RmlkVzQzZGpGSk9XRkRWMjVXT1ZGUVlVdGpPVGQzUlZoemVHaHhUa3B2UTNwalFXdFdPWEJ6ZDB0UFEyMWxabGRrVXkxQlYxODRSVWhSZVUweWJtMTJlVEI1YUdONlZ6QnJiVTF4WTFkc2RXNTFMVXB3VkZFU0YzbDNjVVphWDJaUFRqZ3RlalZPYjFCclNUZHllVkU0R2lKQlJsaHlSV054WmpGR1IwSmtPRlV4VHpOTVUyZzBTa1E1UWxsa1NIaFhPRUozIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.co.uk&location=United+Kingdom&next_page_token=eyJmYyI6IkV1SUNDcUlDUVVwSE9VcHJVRTVYYWtWWmFUaEdVMkpZWlZCc1MwVldZMDlhTFV3dFVFSTBabTVKWmtrMWQzVkphV1Z5YVY5TWJXVmxhVEI2VjJaTWJYRmtlbUowYkcxWGVFcFFWV1p5UkVSR1lsa3labTFRVERGSlEzUXhZamxKY2pOc2JVNUxhMk5PTTJkNlowZFZRVzB0YUhaNFRqVnBNV2RQUWt3d1oySkdZMHRVUjBSeWIzbGFVelZPV1hwS09YWldaVTVhV25waGRucEhNRWhwY2s5UE4zbDNaVVJWYkZsUWJ6VnRNRlZPVmtoQmFHMTZNR3hzWWtWbFFUSjJNRzlrWlU1cFEyWnlWVzF1YlRSalJ6RmlkVzQzZGpGSk9XRkRWMjVXT1ZGUVlVdGpPVGQzUlZoemVHaHhUa3B2UTNwalFXdFdPWEJ6ZDB0UFEyMWxabGRrVXkxQlYxODRSVWhSZVUweWJtMTJlVEI1YUdONlZ6QnJiVTF4WTFkc2RXNTFMVXB3VkZFU0YzbDNjVVphWDJaUFRqZ3RlalZPYjFCclNUZHllVkU0R2lKQlJsaHlSV054WmpGR1IwSmtPRlV4VHpOTVUyZzBTa1E1UWxsa1NIaFhPRUozIiwiZmN2IjoiMyJ9&q=Android+developer"
+    }
+}

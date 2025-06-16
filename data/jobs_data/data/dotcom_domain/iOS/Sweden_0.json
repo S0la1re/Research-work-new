@@ -1,0 +1,572 @@
+{
+    "search_metadata": {
+        "id": "678505db2d7dedbecdb61086",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/373771f278b8e619/678505db2d7dedbecdb61086.json",
+        "created_at": "2025-01-13 12:23:55 UTC",
+        "processed_at": "2025-01-13 12:23:55 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=iOS+developer&uule=w+CAIQICIGU3dlZGVu&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/373771f278b8e619/678505db2d7dedbecdb61086.html",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Sweden",
+        "location_used": "Sweden",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwiqubyl2PKKAxXqODQIHa80C-kQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Developer",
+            "company_name": "Marshall Group",
+            "location": "Stockholm, Sweden",
+            "via": "Marshall Group",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=HBUhpFCjAlbinsMZAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXIMQoCMRAAQGzvCVYLWokmIthoKxwIYpEHHElckuheNmSj3hN8ttpMMd1n1i3T1cAJX0hcsMIGzuxA0FYfgTP0zIFwfoytFTloLUIqSLMteeV51JzR8aTv7OTPINFWLGQbDrv9dlIlh9XiYuvviaCv_CyQMpjG_hGZxjWYN94wfwHgEtcfiwAAAA&shmds=v1_AUFQtOPqX5rRojQxT3yaDhkXEiIwFW1gQxQaFIoOhfuFDqA8LQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=HBUhpFCjAlbinsMZAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Marshall Group is the audio, tech and design powerhouse uniting musicians and music lovers through genre-breaking audio innovation. We are home to Marshall, Natal Drums, Urbanears and adidas headphones.\n\nFor over sixty years, we’ve amplified the sound of the world’s most talented artists. We’ve brought their music to crowds and solo listeners everywhere. We give sound a design that resonates with ears and eyes, as well as at a deeper cultural level. No matter the scene or music genre, we aim to excite, intrigue and surprise.\n\nBridging iconic rock ‘n’ roll heritage with cutting-edge innovation and culture-driven brand-building, our group activities span professional music equipment, consumer electronics, live events, a record label, and more.\n\nWe empower around 800 highly talented people across 8 global locations. Our products are sold in over 90 markets worldwide, totalling a combined annual turnover of USD 360 million.\n\nRight now, we need to strengthen our Application Development team with an iOS developer that will be working with our cross-functional teams. The world of audio is changing. Smart speakers and True Wireless headphones are turning audio into a high-tech industry. In the last few years, our products have gone from simple wired devices to connected and complex IoT devices. We are now focusing on evolving our mobile app and the added value it can provide to our users.\n\nWhat you’ll do\n• Maintain and develop iOS mobile apps for the Marshall Brand.\n• Contribute to the design and implemention of a scalable solution for our new iOS platform.\n• Collaborate closely with our UX and firmware teams in developing and implementing our new features and functions.\n• Support and participate in the testing and evaluation of the app's integration with the firmware.\n• Drive knowledge-sharing sessions to promote new ideas and innovation.\n• Define processes and frameworks for our newly established team.\n• Prototyping new ideas to make them come true, both individually and across teams.\n\nWho we’re looking for\nWe are looking for an experienced iOS developer with a collaborative mindset who cooperates well internally and externally. To succeed in this role, you need to be a committed driver with a problem-solving approach, focused on building quality products to create great user experiences together with the UX and design team. We believe you have a great passion for new technologies, new trends, and software development. You get excited by the idea of creating an amazing app experience that resonates with people not only on a functional level but also on an emotional level.\n\nYou probably have the following experiences & skills\n• 5+ years experience in iOS app development\n• Experience working with Swift, Swift UI and Swift package manager.\n• Proficient in modern iOS design patterns (for ex. MVVM, dependency injection)\n• Strong understanding of the Combine framework\n• Familiarity interacting with Firebase and Clean Architecture\n• Good understanding of the developer testing infrastructure (Unit testing, UI tests, Jenkins, etc.)\n\nIt's beneficial if you understand the Bluetooth stack, communication over GATT and AVKit; and WiFi stack.\n\nWe thrive to foster an inclusive workplace, and we do not discriminate on the basis of race, religion, disability, color, national origin, gender, sexual orientation, age, or marital status. We firmly believe that Marshall thrives when our employees do, and it will in the end lead to better experiences for our consumers.\n\nWe encourage applications from all over the world. To enable transitioning from another country for a role at Marshall, we offer re-location support. This support is tailored for each role but always includes visa application, local authority registration, and home finding service. Don't hesitate to reach out if you have any questions.\n\nDoes this sound like you?\n\nIf you have a passion for App development and want to work for a growing company with a start-up mindset, this job is a perfect match for you. Please send us your resume as soon as possible as we are reviewing candidates continuously.\n\nWe look forward to reviewing your application!",
+            "apply_options": [
+                {
+                    "title": "Marshall Group",
+                    "link": "https://careers.marshall.com/jobs/5014434-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GeoGuessr",
+                    "link": "https://career.geoguessr.com/jobs/4437782-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/ios-developer-at-raysearch-laboratories-4058602100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Uptrail",
+                    "link": "https://www.uptrail.com/job/66164/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sandbox: WeLoveDevs - Teamtailor",
+                    "link": "https://sandboxwelovedevs.teamtailor.com/jobs/1491182-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=f5f28994694a8406&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobbland",
+                    "link": "https://jobbland.se/jobb/androidutvecklare-sbs3c-15866137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Aspirantus",
+                    "link": "https://www.aspirantus.se/jobb/12866052/ios-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiTWFyc2hhbGwgR3JvdXAiLCJhZGRyZXNzX2NpdHkiOiJTdG9ja2hvbG0sIFN3ZWRlbiIsImh0aWRvY2lkIjoiSEJVaHBGQ2pBbGJpbnNNWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVM2RsWkdWdSJ9"
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Opera",
+            "location": "Gothenburg, Sweden",
+            "via": "Opera Career",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=-TDYljiAEsVNueN0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7Cbrc4CSaiOCiqyC4dOgHlEs8kkjMhdypHf107fLG130X3Tr1A1zoTZkrNdjBjR0IYfMRuMCVOWRanqNqlZO1ItkEUdTkjeen5UKOJ_tgJzOjRGxUMyqNh-N-MrWEzar_zwhp3jRSca8WtjB86E7lB2bv2kqDAAAA&shmds=v1_AUFQtOMIRoQ92ue0-JIlhWHINhOcqjdwAfngiS_Y0tVOaDgdIw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=-TDYljiAEsVNueN0AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a48febce0f3d1cdb685d7e8dc9b809c54c49377969097bfe31e.png",
+            "extensions": [
+                "17 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Location: Gothenburg\n\nAbout the job\n\nWe are looking for an iOS Developer who will be a member of a collaborative and dynamic team. You will be working with Swift and iOS. As a small team we expect you to be able to shoulder a lot of responsibility and work closely with your teammates as well as manage independently when needed.\n\nRole & Responsibilities:\n• Develop, innovate, design and deliver new features and product versions.\n• Participate and contribute in all parts of the software development lifecycle.\n• Adapt to and learn new technologies.\n• Prioritize what is relevant and important.\n• Be a core team player, share knowledge, help and support your fellow colleagues\n\nJob Requirements:\n• Strong Swift skills\n• Experience with iOS applications development and web technology\n• BS or MS in Computer Science or equivalent experience\n• Strong knowledge about algorithms, data structures and databases\n• Ability to write high quality and maintainable code\n• Fluency in English, both written and spoken, and good communication skills\n\nIt would be huge advantage if you have:\n• Experience with web development and javascript\n• Experience working with UIKit, Core Data, Carthage and Fastlane\n• Knowledge of analytics tools such as Firebase, Appsflyer, etc.\n• Knowledge of web security\n\nWhat’s on Offer:\n• Flat organizational structure with short decision-making processes that boost your creativity and drive\n• A team of experienced and supportive individuals that fosters a friendly work atmosphere\n• Professional skill development\n• A diverse and inclusive workplace\n• Smart working technology\n\nInterested?\n\nWe are actively reviewing applications, so apply now! We are looking forward to hearing from you.",
+            "apply_options": [
+                {
+                    "title": "Opera Career",
+                    "link": "https://jobs.opera.com/jobs/5383444-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.se",
+                    "link": "https://www.monster.se/jobberbjudande/ios-developer-g%C3%B6teborg-v%C3%A4stra-g%C3%B6taland--56cc583c-bebc-4f7a-842a-4e31c04654bd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/7485487216696472766?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Webbjobb.io",
+                    "link": "https://webbjobb.io/jobb/307088/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/ios-developer-at-the-studio-group-sweden-ab-4113110711?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vakanser.se",
+                    "link": "https://vakanser.se/jobb/ios+developer+293/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Careers.sh",
+                    "link": "https://careers.sh/fr/entreprise/opera/emplois/230164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Whoishiring.se",
+                    "link": "https://whoishiring.se/en/company/opera/jobs/230164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiT3BlcmEiLCJhZGRyZXNzX2NpdHkiOiJHb3RoZW5idXJnLCBTd2VkZW4iLCJodGlkb2NpZCI6Ii1URFlsamlBRXNWTnVlTjBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "iOS Developer (contractor position)",
+            "company_name": "Greenely",
+            "location": "Anywhere",
+            "via": "Greenely",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=iuIVCKqNCLGj_eMuAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAFUNz2CIIwSxVtRHBTt0LBjYseoKRxaKJpfsgMWm_iccW3eNV3UTXh1tGFXxyRudDaIWmxTlEoQ4IGpA3t6YqBhG1xnpCoBcbIy7NXzdIYIxLrUdRqcLXDZJB4wGweGORfL94WztEq98fTYa5zGrertjAnjh8KiTqFe3rEaUfdm--cfuUr1BmbAAAA&shmds=v1_AUFQtOMH-Ips-bN-fgi6rgwr4zDi9yqn2dLCaB_oqmgt4GheRQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=iuIVCKqNCLGj_eMuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a489567c7cebb91146037ba8707b9f3a0d855fd536440bde7a3.png",
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Are you ready to make a powerful impact in the world of sustainable energy? Greenely is on a mission to revolutionize how families manage their electricity needs, and we're looking for a talented iOS Developer to join our dynamic team. At Greenely, we're not just about reducing energy bills; we're empowering households to become champions of Europe's energy transition. As an iOS Developer, you'll play a vital role in enhancing our core services within the Greenely app.\n\nWhat you’ll do\n• Lead the design and development of our native iOS application using Swift and modern frameworks.\n• Implement clean, scalable code following VIPER architecture or similar software design patterns to ensure maintainability.\n• Collaborate with cross-functional teams including product managers, UI/UX designers, and backend engineers to deliver end-to-end features.\n• Ensure smooth, responsive user experiences by optimizing for performance, memory usage, and resource efficiency.\n• Develop and maintain data persistence layers using Realm DB or similar and ensure smooth migrations when needed.\n• Build reusable components and frameworks with a focus on code reusability and modularization.\n• Implement and maintain a robust testing strategy, including unit testing, UI testing, and integration testing.\n• Manage CI/CD pipelines to automate builds, testing, and deployment processes.\n• Mentor junior developers and contribute to team growth through knowledge sharing and code reviews.\n• Leverage modern AI tools and automation to improve development efficiency and scalability.\n\nWhat we’re looking for\n\nWe believe that great developers aren’t just defined by their technical skills—they’re driven by curiosity, problem-solving, and collaboration. You’re someone who:\n• Has 5+ years of hands-on experience developing native iOS applications.\n• Is highly proficient in Swift and experienced with UIKit. Familiarity with SwiftUI is a plus.\n• Has a deep understanding and experience implementing complex iOS architectures.\n• Is experienced with data persistence frameworks.\n• Has a solid grasp of concurrency management.\n• Understands the principles of RESTful APIs and knows how to handle networking efficiently, including implementing offline data synchronization and designing effective caching strategies to enhance app performance and user experience.\n• Understands app performance optimization, with hands-on experience profiling apps to detect and resolve performance bottlenecks.\n• Has experience setting up or managing CI/CD pipelines and automation tools.\n• Understands the importance of security in mobile apps and knows best practices for securing sensitive data.\n• Is comfortable working in an Agile environment, using different tools.\n• Communicates effectively and enjoys collaborating with cross-disciplinary teams to solve challenging problems.\n• Knowledge of marketing analytics and user behavior tracking tools.\n• Experience with socket-based communication and real-time data streaming.\n• Stays updated with iOS development trends, enjoys learning new technologies, and actively contributes ideas for improvement.\n\nWhat we can offer you\n• Flexibility: Enjoy working remotely from your preferred location that's +/- 3 hours from the CET timezone.\n• Growth: Even though you're working on a consulting basis - we make sure to give opportunities for skill development, challenging projects, and advancement within our forward-thinking organization.\n• Influence and Impact: Your voice matters. Shape the future of energy by contributing your ideas, expertise, and playing a key role in decision-making.\n• Innovative Environment: Thrive in an ever-changing industry, working on cutting-edge projects and staying ahead of the curve in a dynamic and pioneering work atmosphere.\n\nAbout Greenely\n\nGreenely aims to create the best customer experience for the modern energy consumer through technology. Greenely’s integrated mobile application enables households to optimize their energy consumption, reduce their electricity costs, and participate in grid-balancing services. By connecting various energy assets in the home, Greenely’s platform allows consumers to manage their energy usage efficiently while contributing to the stability of the power system. Greenely’s solution addresses the challenges of the modern energy landscape and promotes a more efficient, sustainable, and reliable power system. By providing consumers with savings and new revenue streams, Greenely drives the transition to a cleaner and more resilient energy system.\n\nWE ARE bold and push the limit.\n\nWE BELIEVE THAT fast is better than slow.\n\nWE think like owners.\n\nWE lead with knowledge.",
+            "apply_options": [
+                {
+                    "title": "Greenely",
+                    "link": "https://careers.greenely.se/jobs/5420033-ios-developer-contractor-position?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrabJobs",
+                    "link": "https://grabjobs.co/sweden/job/full-time/others/senior-ios-developer-unifi-portal-137311682?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=823b70608b50dd53&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MeetFrank",
+                    "link": "https://meetfrank.com/jobs/greenely/ios-developer-contractor-position?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/ios-developer-contractor-jobs/A7104AF609925195?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIChjb250cmFjdG9yIHBvc2l0aW9uKSIsImNvbXBhbnlfbmFtZSI6IkdyZWVuZWx5IiwiYWRkcmVzc19jaXR5IjoiU3RvY2tob2xtLCBTd2VkZW4iLCJodGlkb2NpZCI6Iml1SVZDS3FOQ0xHal9lTXVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "iOS Developer - Recent Graduate",
+            "company_name": "PayPal",
+            "location": "Stockholm, Sweden",
+            "via": "Built In",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=lduIXI2jWKjxi2gyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhyBG2mNsoaEy20NSGxkcgByLBMWHDZ2eyMitfwxGLzi1f87LvIjv2tggu9yHOkBFu4k6WgUCRsn6g0y5UbEMJkHXCAgrnztDw71SgnY0R83omi9ja3PBoO1PBkBm7kn1ocJop-XtX7w27KY-jWqxI_JXroA1TK9uHYjxuo3tRS-AE7iqA_lQAAAA&shmds=v1_AUFQtOPHG80zkT5spYudZTwp29ddbcJxbPrIbaNWTwylvacaAA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=lduIXI2jWKjxi2gyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a48faa22eac3b3104e825ba28aaadc27f7f2906efe8e167c1f0.jpeg",
+            "extensions": [
+                "8 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.\n\nOur beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.\n\nJob Description Summary:\n\nWe are looking for a motivated recent graduate to join the Checkout team as an iOS Developer. In this role, the new joiner will support the development, testing, and maintenance our iOS Zettle app, working with senior engineers to learn and grow their skills. This is a great opportunity to gain hands-on experience and contribute to the creation of high-quality mobile applications.\nLocation: Stockholm, Sweden.\nStart Date: Full time starting April 2025.\n\nJob Description:\n\nCompany Overview:\n\nFueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 392 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.\n\nAbout Us:\n\nIn 2018, Zettle joined forces with PayPal to go further in its mission to help small businesses succeed in a world of giants. By offering them easy tools to get paid, sell smarter and grow, we are empowering merchants from all over the world to reach their full potential. Our journey in putting an end to ordinary is just starting. Together, we’re extraordinary. Together, we’re made for more and the best is yet to come. Are you in?\n\nPosition Summary:\n\nWe are looking for a motivated recent graduate to join the Checkout team as an iOS Developer. In this role, the new joiner will support the development, testing, and maintenance our iOS Zettle app, working with senior engineers to learn and grow their skills. This is a great opportunity to gain hands-on experience and contribute to the creation of high-quality mobile applications.\n\nWhat we expect from you:\n\nAs a Junior iOS Developer, you will assist in writing clean and efficient code using Swift and Xcode, collaborating with the team to implement new features and optimize existing ones. Your tasks will include debugging issues, participating in code reviews, and staying updated on the latest iOS development trends. You’ll be expected to have a solid foundation in programming concepts and an understanding of object-oriented programming and mobile design principles.\n\nWhat you need to bring:\n\nThe ideal candidate holds a bachelor’s degree in Computer Science, Software Engineering, or a related field and has basic knowledge of Swift, Xcode, and the iOS SDK. While prior experience through projects or internships is a plus, we are primarily looking for someone with a passion for learning, problem-solving skills, and the ability to adapt in a fast-paced environment.\n\nglobaluniversitygraduatesoftwareengineering\n\nAdditional Job Description:\n\nSubsidiary:\n\nZettle\n\nTravel Percent:\n\n0\n\nFor the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.\n\nOur Benefits:\n\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\n\nWe have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com.\n\nWho We Are:\n\nClick Here to learn more about our culture and community.\n\nCommitment to Diversity and Inclusion\n\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talentaccommodations@paypal.com.\n\nBelonging at PayPal:\n\nOur employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.\n\nAny general requests for consideration of your skills, please Join our Talent Community.\n\nWe know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.",
+            "apply_options": [
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/ios-developer-recent-graduate/3227054?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/7567900494853244168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/ios-developer-recent-graduate-at-zettle-by-paypal-4017505082?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gUmVjZW50IEdyYWR1YXRlIiwiY29tcGFueV9uYW1lIjoiUGF5UGFsIiwiYWRkcmVzc19jaXR5IjoiU3RvY2tob2xtLCBTd2VkZW4iLCJodGlkb2NpZCI6ImxkdUlYSTJqV0tqeGkyZ3lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "Senior iOS Developer (Swift)",
+            "company_name": "Paf",
+            "location": "Stockholm, Sweden",
+            "via": "Paf",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=kaWTHeFOwkvcUfteAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7BeJ0o4omorjoKgguCvmAksRrE01zIXfYfoQfLb7hNd9ZczCYI1WIdwMX_GCighWWZoydrGALN3LAaKsPQBmuRH3CxTmIFD5pzZxUz2IleuVp0JTR0aRf5Phfy8FWLMkKtvvjblIl9-v5w3YQMxgh_w6Uhg2YEZ-Yf9owFx2PAAAA&shmds=v1_AUFQtOPjLgnvtsrjo0qPAfJ3OfAggYXjPhe3y36xzGvTJm2_XA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=kaWTHeFOwkvcUfteAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a48a8cb16f60fab6f878555406911fc71a79bc3c1cc5954ae28.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Senior iOS Developer\n\nAre you searching for a position where you can make a difference? Paf stands out from other gaming companies in the market. We were founded by the Red Cross, Save the Children, Public Health on Åland, and the foundation Dagens Barn.\n\nWe strive for a long-term sustainable business and we care about our employees, customers, and society. Responsible gaming is an important part of our business, and all profits go to charity.\n\nWe care about our employees:\n• We have flexible working hours to make your everyday life easier.\n• We have generous terms regarding pensions, wellness, free healthcare etc.\n• We avoid overtime. You staying with us for 10 years is more important than short-term business goals\n• We adjust to where you want to work:\n• 100% at the office\n• 100% remote\n• Or a mix where you’re at the office a few days a week\n\nIf you choose to work 100% remote, you will be equipped with desk, chair, screens, docking station headset, computer, phone etc. If you choose a mix you will be given a double set of equipment so you have the same conditions at home and at the office.\n\nYou can also choose to work abroad for 3 months a year. The only requirement is that you work approximately the same working hours as your colleagues.\n\nAbout the position:\nWe are in search of a senior iOS developer to join our app team working on Pafs brand new application, in the very beginning of a long journey ahead. This team is highly experienced, fostering an open-minded atmosphere where everyone's contribution is valued.\n\nYou will succeed in this role if you consider yourself as both curious and passionate about modern iOS development in Swift. You should feel confident taking initiatives on your own, but also equally comfortable collaborating with others. Being driven and proactive, you won't hesitate to ask for assistance when needed.\n\nWhat you will do:\nYou will engage in the entire development process, from requirement specification, story creation, and estimation to development, testing, release, and maintenance. You are expected to have a deep understanding of the entire stack to be able to recommend changes in architecture and grasp their long-term implications.\n\nThe team you'll be joining develops and maintains several apps for both iOS and Android. These casino apps operate across various markets and brands. The team is responsible for the entire stack, from app development to the underlying infrastructure in AWS.\n\nWe are looking for you, who:\n• Is a senior iOS developer with at least 5 years of experience of App store content and release.\n• Have experience with Swift and Swift UI.\n• Have experience with (or interest in) Swift Concurrency\n\nAdditional skill sets that will make us more interested, experience with:\n• TypeScript\n• AWS or other cloud platforms\n\nWe focus on personal experiences and knowledge in software development, instead of formal education and diplomas. We award:\n• How experienced you are as a developer\n• Great communication skills\n• Track record as a team player\n• Independence\n• Accountability\n\nInformation: The recruitment process will include a programming test. If you want to show projects that you have done earlier, at work or in your spare time, you are very welcome to add that in your application.\n\nStart: Immediately, with regards to the period of notice.\n\nScope: Full time, with flexible working hours.\n\nOffices: Stockholm and Norrköping, but there is flexibility regarding location. If you prefer to live and work elsewhere in Sweden, this can be arranged. It is also possible to work from Paf's Head Office in Mariehamn, Åland Islands.\n\nWe work continuously with the selection and the ad can be closed down before the position is filled if we have decided to continue with selection and interviews.\n\nPlease send your application via application form, due to GDPR compliance reasons we cannot accept applications per email.",
+            "apply_options": [
+                {
+                    "title": "Paf",
+                    "link": "https://careers.aboutpaf.com/jobs/4830966-senior-ios-developer-swift?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoU3dpZnQpIiwiY29tcGFueV9uYW1lIjoiUGFmIiwiYWRkcmVzc19jaXR5IjoiU3RvY2tob2xtLCBTd2VkZW4iLCJodGlkb2NpZCI6ImthV1RIZUZPd2t2Y1VmdGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        },
+        {
+            "title": "iOS/Swift Software developer / Aircraft Performance",
+            "company_name": "DynamicSource",
+            "location": "Anywhere",
+            "via": "JobTeaser",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=GxvYSrB-t11Uk-2VAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7AoLTzYKNCC46CYLQRSEPUNL02kbSXLg7bX0dn9S6_Ms_fMV3VVThbo2dQqdgqdPJMUKLb4yUkcHAJbBnt9wHckc8uuQRdlBRA4KO_QCU4EbUR9ycB9UsJ2NEYtmLOg2-9DQaStjQbJ7UyD-1DAuTo1OsD8f9XObUb9fXT3Jj8JZevBAhgZ2wxfQDJuLezqUAAAA&shmds=v1_AUFQtONYimbhcBB3Mvb4JrV3xBjIzWVojor2mJ0NHBkNH5CBLg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=GxvYSrB-t11Uk-2VAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "A unique career\n\nLooking for a unique career that combines cutting-edge software development with the exciting world of aviation? Look no further! Our company is at the forefront of the industry, developing top-of-the-line software systems and applications for the aviation industry.\n\nAs an employee of DynamicSource, you'll have the opportunity to work on projects that directly impact the safety and efficiency of the aviation industry. You'll collaborate with experts in the field to develop software that helps pilots, airlines, and aviation companies streamline their operations and maximize their efficiency.\n\nBut what sets this career apart from others in the software development industry? For starters, you'll have the chance to work with cutting-edge technologies and platforms specifically designed for the aviation industry. You'll develop a deep understanding of the unique challenges and opportunities that come with developing software for one of the most safety-conscious industries out there, and you'll be at the forefront of developing new solutions to address these challenges.\n\nAdditionally, you'll have the chance to work with a highly skilled and passionate team of professionals who share your commitment to excellence and innovation. You'll be surrounded by individuals who are passionate about aviation and software development, and who are constantly pushing the boundaries of what's possible.\n\nSo if you're looking for a career that combines your love of technology with your passion for aviation, look no further. Join our team and be a part of a truly unique and exciting industry that is shaping the future of air travel.\n\nMore information about DynamicSource is available at: https://www.dynamicsource.se/\n\nYour Job\n• Software system developer/project manager with a focus on Aircraft Performance Software\n• Front- and backend system development in various software languages\n• Designing, prototyping and implementing new features in an existing code base\n• Organise and prioritize your tasks to meet deadlines\n• Work with minimal supervision both remotely and in our Stockholm, Sweden office.\n• Full lifecycle application development\n• Software testing and quality assurance\n• Support, maintain and document software functionality\n• Flexibility to adapt and be responsive to customer driven change requirements\n• Integrate software with existing systems\n• Identify, evaluate and implement new technologies\n• Continuous performance tuning, optimization and improvement of the existing code base\n\nYou are a passionate and highly skilled software developer that will design, develop, test, support and install software solutions mainly for the aviation industry. You have experience in building secure, high-quality and innovative software in compliance with coding standards and technical design.\n\nSkills\n\nMust have\n• Swift\n• C++\n• GIT\n• Experience with test-driven development and current coding standards\n• Excellent communication skills in English.\n• Highly self-organised and disciplined / experience with remote work\n• Project management skills\n\nGood to have\n• Experience with highly secure network communications.\n• Experience with releasing apps on App Store\n• Experience with planning releases and release cycles\n• Objective-C\n• Javascript\n\nBonus points\n• Neural networks, machine learning and implement AI routines\n• Interest in aviation\n\nMore\n\nFor this position, the Hybrid work model applies where you are expected to be at our office in Stockholm at least 2 days per week.The DynamicSource team is located in the greater Stockholm area.\n\nDynamicSource visit customers and participate in industry events (e.g. forums and product expos) and world wide travel may be required.",
+            "apply_options": [
+                {
+                    "title": "JobTeaser",
+                    "link": "https://www.jobteaser.com/en/job-offers/cf296d98-5993-47d1-949b-60137dbc62bf-dynamicsource-ios-swift-software-developer-aircraft-performance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/235044310395996972?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=1a0a6d204ffa9a25&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Webbjobb.io",
+                    "link": "https://webbjobb.io/jobb/307317/ios-swift-software-developer-aircraft-performance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/se-software-developer-hds-certification-tester-apar-consultancy-services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MvU3dpZnQgU29mdHdhcmUgZGV2ZWxvcGVyIC8gQWlyY3JhZnQgUGVyZm9ybWFuY2UiLCJjb21wYW55X25hbWUiOiJEeW5hbWljU291cmNlIiwiYWRkcmVzc19jaXR5IjoiU3dlZGVuIiwiaHRpZG9jaWQiOiJHeHZZU3JCLXQxMVVrLTJWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        },
+        {
+            "title": "iOS Developer | Inter IKEA Data & Technology Range",
+            "company_name": "Inter IKEA Group",
+            "location": "Skåne County, Sweden",
+            "via": "Startup Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=Szhhp9mKItermmT9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_03NMQrCMBSAYVx7BKc3CYo2IrjoJFZKdRCse0njI63G90KSagtexxN4BC-mbi7_N_7Rqxdl9T6HBG9o2KKDB2QUvma7zQoSGSQM4IiqIjasOzhI0ggT2HIJHqVTFTBByqwN9pdVCNYvhPDexNoHGWoVK74KJiy5FWcu_S-Fr6RDa2TAYjaftrElPRr-fVPHjYWaIL-8n4Sw5oZCN4b8jiekD05qPxm2AAAA&shmds=v1_AUFQtOMfwCUDkdWCOcGukScTWtcmUNOImXS4jWpPkLQWdNtjEA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Szhhp9mKItermmT9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a4823cb6a20e57c5a1630ba95faf8df1de387c2afc65d1cafc6.png",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "IKEA Home smart digital is a part of Data & Technology who works with a smart system to enable a smarter life at home for people all over the world. We are curious and passionate about creating solutions that solve real-life problems and help people realise their dreams. All on their terms. Because we believe everyone deserves a smart home. To succeed, we look for new ways of integrating technology and digital solutions into furniture and life at home. We explore opportunities throughout the home and we work closely with other Business Areas to both drive transformation of existing range and develop new smart products to attract new customers to IKEA. We’re still at the beginning–there is lots more to come.\n\nWe are currently building the next generation of eco-system with our mobile application, cloud & backend services, and embedded systems.\n\nTo be successful in this role, we believe you have:\n\n• A couple of years of SwiftUI experience, with a good understanding of modern iOS frameworks including Combine, and Swift Concurrency.\n• We are currently migrating our app to Swift 6 language mode with strict Concurrency.\n• Good knowledge about standard toolsets Xcode, Swift package manager, and git.\n• Good understanding and experience with app development in iOS, iPadOS, and WatchOS.\n• Good understanding of the developer testing infrastructure (Unit testing, mock frameworks, concurrency model testing etc)\n• Previous experience of working in scrum teams. There is a generous onboarding process in the team, but team members are expected to soon take (shared) ownership of the codebase and the backlog.\n\nA Typical day in your role:\n\n• Development of new features and enhancements for our IKEA Home Smart app\n• Cross-team collaboration between app, cloud & backend, and embedded systems\n• Bringing in third party open-source tools as needed\n• Contribute to setting up and tuning the organization and ways of working.\n• Prototyping new ideas, both individually and across teams (we love prototyping!)\n\nAs an iOS Developer, at IKEA you will hold the title Software Developer.\n\nThis is a full-time position located in Malmö at IKEA of Sweden. IKEA of Sweden is responsible for developing the IKEA range and making it available to stores and customers all over the world.\n\nWe are actively conducting ongoing interviews, so we encourage you to submit your application without hesitation. Please also note that we do only handle applications in English and no applications coming in by email.  We look forward to receiving your application by 22nd November 2024 the latest.\n\n  \n\nYou might have some questions about the recruitment process, and we are more than happy to answer those! Feel free to contact Recruiter Timon Krommendam - timon.krommendam@inter.ikea.com.\n\nAbout Inter IKEA Group  \n\nInter IKEA Group is the group of companies that connects IKEA franchisees with range development and suppliers and aligns the overall IKEA strategic direction. All to create a better everyday life for the many people. The Group includes Inter IKEA Systems B.V. – the worldwide IKEA franchisor – as well as range development, Supply and certain industry activities.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/ios-developer-inter-ikea-data-technology-range-inter-ikea-group-5993158?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIHwgSW50ZXIgSUtFQSBEYXRhIFx1MDAyNiBUZWNobm9sb2d5IFJhbmdlIiwiY29tcGFueV9uYW1lIjoiSW50ZXIgSUtFQSBHcm91cCIsImFkZHJlc3NfY2l0eSI6IlNrw6VuZSBDb3VudHksIFN3ZWRlbiIsImh0aWRvY2lkIjoiU3poaHA5bUtJdGVybW1UOUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVM2RsWkdWdSJ9"
+        },
+        {
+            "title": "iOS developer",
+            "company_name": "Pivotic",
+            "location": "Anywhere",
+            "via": "MeetFrank",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=YDc7_Av-YnhYXNwjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CeJwg5NoIoKLfoDgopAPKEl6JLFpLuSO2tU_V5e3ve6z6rbpYWDAGTNVbHCAOzlgtM1HoAI3opBxfY0ilS9aM2cVWKwkrzxNmgo6WvSLHP_pOdqGNVvB_nQ-LqqWsNs800y_AKmAEfJjpDztwbxxwPIFbJlHH4QAAAA&shmds=v1_AUFQtOMRMYzf1KaYK__VflgQoCC9UyT8Yh2sBk-Yf5RPNq2gpg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=YDc7_Av-YnhYXNwjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/678505db2d7dedbecdb61086/images/560de5f5b6a73a48843dc2759f38c70a5d021329c0a9e2b73a971bb1c0b795db.jpeg",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join a team of superheroes! 👊\n\nTeamtailor is an Employer Branding & ATS SaaS platform used by over 3.000 companies 🤩, 110.000 users🕺🏻 in 90 countries around the world 🌏 Working at Teamtailor means working at a young, international, and fast-pace tech startup with smart people who are passionate about their work. You can read more about our product at teamtailor.com or why not look at some live examples: Daniel Wellington, SOS Alarm, Eloomi (yes, everything you see there is our product and yes it's amazing).We value your personality and passion 🔥\n\nFor us, personality and passion come before education. You’ll always be supported and looked after by your Teamtailor family, but you will also have a lot of responsibility for your own work, meaning that working independently isn’t something you mind.\n\nAs a French-speaking Account Manager, you will be part of our international sales team in Stockholm which is currently made of 11 superstars coming from different paths of life/backgrounds and countries such as 🇫🇷 🇩🇪 🇵🇱 🇨🇲 🇮🇳 🇬🇧 🇱🇹 🇵🇭 🇵🇪 🇪🇸 🇹🇹 🇰🇷 🇸🇪. We believe in kindness, acceptance, support, and hard work. We also believe in having lots of fun 😜\n\nAs Account Manager at Teamtailor you will be offered:\n• Responsibility for your own sales process which means prospecting, cold calling, booking meeting, closing the deals and onboarding the client 💪🏼\n• The opportunity to work with the market's best product ⭐️\n• Fixed salary + a very generous commission structure (no caps!) 💰\n• Development opportunities 💼\n• Paid vacation days 🏖\n• Yearly company trip to a secret summer destination 🌊\n• Tons of events & parties 🎉\n• Weekly competitions & awards🏆\n• Friday Breakfast 🥗\n• Starter Kit (Macbook, iPhone, Teamtailor bag, t-shirt, sweater & hoodie 🎁)\n• Cool and modern open floor office 🏡\n\nPS. If we collectively reach our weekly goals we also get PIZZA FRIDAY 🍕\n\nRequirements 🎯\n\nYou are definitely a match if you...\n• Are fluent both in French and English\n• Have previous experience in B2B sales (preferably towards HR but not a must)\n• Are a self-starter with a track record of successful, credible lead follow up and sales development at multiple executive levels within an organization;\n• Can contact anyone and book a meeting over the phone or email\n• Have the will to push harder and always exceed\n• Can keep high activity and motivate yourself\n• Have a positive and a can-do attitude\n\nIf this sounds like you then what are you waiting for !?",
+            "apply_options": [
+                {
+                    "title": "MeetFrank",
+                    "link": "https://meetfrank.com/jobs/pivotic/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emprego.pt",
+                    "link": "https://www.emprego.pt/jobs/show/31821785408445785577442818644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgZGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUGl2b3RpYyIsImFkZHJlc3NfY2l0eSI6IlN0b2NraG9sbSwgU3dlZGVuIiwiaHRpZG9jaWQiOiJZRGM3X0F2LVluaFlYTndqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1UzZGxaR1Z1In0="
+        },
+        {
+            "title": "Senior iOS Developer",
+            "company_name": "Nextory",
+            "location": "Stockholm, Sweden",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=zKBpi7bimQd7Ni4KAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEPQoCMRAGUGz3CGIxtT8bEWy0FQQLLXKAJRuHTTSbL2QGXW_gscVXvOY7a1aWc0SleLN04hcnFK60oQt6EnbVB0KmMzAknh-DapGDMSKpHUSdRt96jAaZe0zmgV7-dRJc5ZKccrfbb6e25GG5uPKkqB-KmazCPwPSuCb75jvnH-vgYgeLAAAA&shmds=v1_AUFQtON2cMhYGxeO2-mXAi866zysVuGEYjOaiZ5hWUeFpVsbww&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=zKBpi7bimQd7Ni4KAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We know it, you know it. Most companies ramble on about purpose and making the world a better place. And pretty often it feels a bit… well, forced. But we’d like to think that our story is special for real.\n\nOur founders, Shadi Bitar and Ninos Malki, came to Sweden from Syria when they were kids. Books became their compass, guiding them through the maze of life, and helping them shape their destinies in a new world.\n\nTheir dream was bold: What if they could unlock the world of books for everyone, making knowledge and inspiration accessible to all? Fast forward a few years, and the tale of Nextory was born.\n\nAt Nextory, we've crafted a revolutionary monthly subscription that empowers our users to devour books like never before, be it through reading or listening. It's not just a product; it's a passport to endless adventure and enlightenment.\n\nAnd now, we're on a quest to find our Senior iOS Developer, someone as passionate as we are about making the world a happier place and enriching lives through the world of reading. Join our extraordinary team, and let's script a future where every day is a chapter of discovery, and every book is a key to a richer life.\n\nWHAT YOU WILL BE DOING\n\nAs a Senior iOS Developer at Nextory you will work with developing the most vital parts of the user experience: the audio player and reader. With an analytical and creative mindset and tech-savvy approach to create iOS magic. You will be part of a team that also holds the responsibility for highly loved functionalities such as favoring, following and downloading content into the users library – exciting stuff! You will use your analytical and creative mindset to create a magical experience for our customers.\n\nYou will collaborate closely with product and engineering peers across the company to understand the needs of the users and figure out the best way to solve them - always with the continuous aspiration to increase reading! The position is based in Stockholm and you report to the Engineering Manager in the team\n\nWHO YOU ARE\n\nWe believe that you are currently working in a similar role at a fast-moving company. We believe that you would like to be in the forefront of creating seamless platforms, with a mix of integrations to external parties and mobile back-ends. We believe that you take pride in our product, that you love to drive (app) development, that you are always striving to improve and that you believe that quality is key. You thrive working in a dynamic and unpretentious environment where you take great responsibility for our product and your team!\n\nSKILLS AND QUALIFICATIONS\n• We believe you have, for the field, relevant educational background\n• We believe you have a 6 + years of experience from working with iOS\n• We believe that you have great knowledge in Swift as well as SwiftUI\n• We believe that you have experience from working with Combine and that you use CoreData in your daily work. Knowledge of AVFoundation and architectural patterns are also welcome\n\nWe are looking forward to your application which should include a CV or LinkedIn profile. Also, we would love a pitch of why you are the tech-savvy person we are looking for!\n\nPlease note that Nextory does not offer relocation.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://se.indeed.com/viewjob?jk=b67aa0d77fa719b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/5395328776183386785?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Webbjobb.io",
+                    "link": "https://webbjobb.io/jobb/305953/senior-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/senior-ios-developer-at-nextory-ab-4102861129?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vakanser.se",
+                    "link": "https://vakanser.se/jobb/senior+ios+developer+72/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/se/job/senior-ios-developer--stockholms-kommun--efd4e496f4dfed431b77cea7d40923e4a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EchoJobs",
+                    "link": "https://echojobs.io/job/accedo-senior-ios-developer-waknb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Statsskuld.se",
+                    "link": "https://statsskuld.se/lediga-jobb/12854/senior-ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik5leHRvcnkiLCJhZGRyZXNzX2NpdHkiOiJTdG9ja2hvbG0sIFN3ZWRlbiIsImh0aWRvY2lkIjoiektCcGk3YmltUWQ3Tmk0S0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVM2RsWkdWdSJ9"
+        },
+        {
+            "title": "iOS / Android Developer – Join Together Tech in Jönköping",
+            "company_name": "Together Tech",
+            "location": "Jönköping, Sweden",
+            "via": "Together Tech",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=iOS+developer&htidocid=O3VCW6QVK_f_C6ZWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_32NMQrCMBSGce0RnN7gJNqI4KKTIAhdHNq9pO0jSY3vhSRoR-_gXQrOvYknMV7A5Ru-74c_e8-yylxKEHCkzrPp4IR3tOzQw-f5goINQcUKo06mwlZDEsU00nUanSEF67RpIKD0qTHBmVlZnB90jC7shQjB5ipEGU2bt3wTTNjwIHpuwg910NKjszJivd1thtyRWi7-Pa6gfGCH9AV55yBlvAAAAA&shmds=v1_AUFQtOOiWj1UNBlyGUsdvTjeReyL6YdenfXeIfyffnS8V42WEQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=O3VCW6QVK_f_C6ZWAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Do you want to build apps that drive innovative smart home technology?\n\nAt Together Tech, we’re passionate about creating innovative solutions that shape the future. As part of our team, you’ll work in an inclusive, dynamic workplace that combines technical expertise with creativity to push boundaries and deliver impactful results.\n\nWe’re looking for skilled iOS and Android Developers to join us in exciting client assignment for a leading smart home device company. You’ll contribute directly to enhancing modern living by developing apps for groundbreaking products.\n\nYour role\n• Design and develop high-quality mobile applications for iOS and/or Android platforms.\n• Collaborate with cross-functional teams and work closely with product managers, designers, and other engineers to bring products to market.\n• Participate in the full development lifecycle, from initial requirements to final deployment.\n\nYour technical bakgrund\n• Master's/Bachelor’s degree in computer science or a related field.\n• Good command of written and spoken English and Swedish\n\niOS Developers\n• 5+ years experience with Swift, SwiftUI, UIKit, MVVM, and Async/await.\n\nAndroid Developers\n• 5+ years experience with Kotlin, MVVM, Coroutines, Flow, Hilt/Dagger 2, and BLE (Bluetooth Low Energy).\n\nYour personal characteristics\nBeing a consultant puts extra light on having a flexible and curious mindset, a self-reliant way of working and your capability to build strong relationships with customers and colleagues, while keeping track of the target picture. You stay current with industry trends and emerging technologies and are motivated to develop together with us.\n\nTogether Tech for sustainability\nWe provide opportunities for development through a variety of assignments in different industries, whether it be client projects or in one of our exciting in-house projects. At Together Tech, you work together with other engineers who are passionate about the environment and sustainability, all with a desire to create lasting solutions using technology - or as we say: Better World Tech!\n\nYour development & our support🌱\n\nYour development and well-being are important to us, and Together Tech offers benefits that support you and your career in the best way. We value the importance of secure employment and fixed salary, and we have a collective agreement. We prioritize your health and provide a wellness allowance of 4000 SEK per year. Moreover, we offer health check-ups, contributions to activities, and wellness discounts.\n\nWe enjoy spending time together through various social activities and team-building activities suitable for everyone! From after-works and sport activities to pentathlons and corporate conferences. Our commitment is to give you great conditions to grow through various assignments and projects as well as individual development plans. We also offer courses in sustainability and other courses within the framework of your role and goals. We take pride in being recognized as one of Sweden's most attractive employers in 2024! 🌟\n\nLearn more about us at www.togethertech.com.\n\nFor questions regarding the position, please contact Business Unit Manager Håkan Rolin, on +46709 72 71 60.",
+            "apply_options": [
+                {
+                    "title": "Together Tech",
+                    "link": "https://career.togethertech.com/jobs/5331349-ios-android-developer-join-together-tech-in-jonkoping?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster.se",
+                    "link": "https://www.monster.se/jobberbjudande/ios-android-developer-join-together-tech-in-j%C3%B6nk%C3%B6ping-j%C3%B6nk%C3%B6ping-j%C3%B6nk%C3%B6ping--62d9f87a-90c2-4de4-a22d-53cea13b6297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://se.jooble.org/jdp/9106138951722245615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Aspirantus",
+                    "link": "https://www.aspirantus.se/jobb/12944732/ios-android-developer-join-together-tech-in-jonkoping/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Webbjobb.io",
+                    "link": "https://webbjobb.io/jobb/305779/ios-android-developer-join-together-tech-in-jonkoping?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Manpower",
+                    "link": "https://www.manpower.se/sv/jobb/29320667/ios-android-developer-join-together-tech-in-jnkping?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nykommun",
+                    "link": "https://www.nykommun.se/jobb/ios-android-developer-join-together-tech-in-jonkoping-29320667/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://se.linkedin.com/jobs/view/ios-android-developer-%E2%80%93-join-together-tech-in-j%C3%B6nk%C3%B6ping-at-together-tech-4101308434?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgLyBBbmRyb2lkIERldmVsb3BlciDigJMgSm9pbiBUb2dldGhlciBUZWNoIGluIErDtm5rw7ZwaW5nIiwiY29tcGFueV9uYW1lIjoiVG9nZXRoZXIgVGVjaCIsImFkZHJlc3NfY2l0eSI6IkrDtm5rw7ZwaW5nLCBTd2VkZW4iLCJodGlkb2NpZCI6Ik8zVkNXNlFWS19mX0M2WldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVTNkbFpHVnUifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa2xxUldsR2IzVnlUWHBaTUdjMVRVSmtNVEY0UW5sQlQyNTJZVFZ1VDAxbk4zWmtXWEpRUzJFeFRtVldOMEpwV1hscU5sVnpZMFZCZDFaNlduUnZOM2RvT0Y5VlltTk1SVE5XV0hJM09Xa3RlV1kxTmxwWVNsZHRTRmRUVTJZeWVHWmZjakJ0V25kSWJVbG1TWEpJUVVWYVEwNVBiRVl3UmpOWWNtUkRaVzVsZG05eFFsUk1Ra05oVkVNdFZXMXNlWFJwVUhoQ09FSXRWR0pmTjFsSlMwSkxSVWhpUzBoUFEzRk5UVGN3UXpWV01HY3lMVUpXVG1SbFEzVjNkbWwyUnpSS2JFdDRWa3RqUWtWa1pVbzRiVEJhZVdkUE1rdGxiR1J0ZGxRek9USkxMVEUxVGtwVmIyTlVZMDEyZVZWbVJDMHlVMlJDWWxaYWJYTnRXVzh6VlZWdk5HZElZUklYTTBGWFJsbzJjbUpITFhKNE1GQkZVSEl0YlhONVFUUWFJa0ZHV0hKRlkyOU5iMUF4TFVsRmNGRjZaMHRFYnpVellWRmxWbmRCYmpoWlFVRSIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Sweden&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUa2xxUldsR2IzVnlUWHBaTUdjMVRVSmtNVEY0UW5sQlQyNTJZVFZ1VDAxbk4zWmtXWEpRUzJFeFRtVldOMEpwV1hscU5sVnpZMFZCZDFaNlduUnZOM2RvT0Y5VlltTk1SVE5XV0hJM09Xa3RlV1kxTmxwWVNsZHRTRmRUVTJZeWVHWmZjakJ0V25kSWJVbG1TWEpJUVVWYVEwNVBiRVl3UmpOWWNtUkRaVzVsZG05eFFsUk1Ra05oVkVNdFZXMXNlWFJwVUhoQ09FSXRWR0pmTjFsSlMwSkxSVWhpUzBoUFEzRk5UVGN3UXpWV01HY3lMVUpXVG1SbFEzVjNkbWwyUnpSS2JFdDRWa3RqUWtWa1pVbzRiVEJhZVdkUE1rdGxiR1J0ZGxRek9USkxMVEUxVGtwVmIyTlVZMDEyZVZWbVJDMHlVMlJDWWxaYWJYTnRXVzh6VlZWdk5HZElZUklYTTBGWFJsbzJjbUpITFhKNE1GQkZVSEl0YlhONVFUUWFJa0ZHV0hKRlkyOU5iMUF4TFVsRmNGRjZaMHRFYnpVellWRmxWbmRCYmpoWlFVRSIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}

@@ -1,0 +1,503 @@
+{
+    "search_metadata": {
+        "id": "6784f52cd2a2425fd01c90fe",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/21608645e1fa1a2b/6784f52cd2a2425fd01c90fe.json",
+        "created_at": "2025-01-13 11:12:44 UTC",
+        "processed_at": "2025-01-13 11:12:44 UTC",
+        "google_jobs_url": "https://www.google.com.cy/search?q=iOS+developer&uule=w+CAIQICIGQ3lwcnVz&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/21608645e1fa1a2b/6784f52cd2a2425fd01c90fe.html",
+        "total_time_taken": 1.19
+    },
+    "search_parameters": {
+        "q": "iOS developer",
+        "engine": "google_jobs",
+        "location_requested": "Cyprus",
+        "location_used": "Cyprus",
+        "google_domain": "google.com.cy"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA",
+                "q": "iOS developer remote"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGXf0cyrL0Li1xVVl3ndvrLLNObxb5mrgVaN28Ax4a7xWk6y2Kv_4UjE10UluLRHA2TKtqUpWYRW-Nxe56Kij7mSZjhM9BP2_s9BNrSnJgfZp1YOTqA&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+remote"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA",
+                        "q": "iOS developer since yesterday"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKwbv13X47tB753AdEujm2EASGbC70jadsPt8egipIfJJKt4I0D6a3TyEq7tRwR3dX5FOtwNEWnJp51dx5mDFpm6EQVpNumRq5v5D5m4h0JjPhCzYeZnghxHMA-tfWhiLvzR18-P0RCS_Wp8QDHLblfPh_3G-got2_UzX1RX6W3WMQbWbUGp_4aqkDhAEi4jiGrWUpfueU2gUZ8-6-2vfDFHjoFBsfrltY9vxRAz3nviCsnjQdkWoEd2hu4nFmdjJTIw5Qz39wRwFxFz1vHUKoBxwnoSnhYZF1GHhV4lF-uSonpsA-5ims-fXIMTF9USTMwgCOA&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A",
+                        "q": "iOS developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7db1zoCbvvTvRwDBPFO8co3W9S9A1xNSFb3CYbUU2S3qnN2ZStE2WVbXuuIAMuRLaJIgA_oYJFj8ivniowQljAWH-g-Lw8DjLCRRedu8nLqxxoyhbmrOCMJ1_67p9-holHwwt4nakkOnhkGaTi5XtowVP4qWpDGA2Jv85c8Fjq_og89lWBWQjowKNggOU07wizk-ytEXtiNQayrNnqis_o8oODCL6D-JWzZ5dRG2QwX2lGM0TejoRMg9GkN9TDmd8S8bGKsPPoT3zgDZQAobt45zjFxjuOe1gw3BsUcy4T6GfPVo0_wVRt6rbi5sfqPXNsxoy67A&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw",
+                        "q": "iOS developer in the last week"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYAf5WKn9VoyWfhOe6xTVM8mJSe4Y2IZ8prhkbSE4OC0LZM_t4PfiNHbb0W1Mn5JAjX6Z_yZeXxTb9QDmsQvosdgTsFosDPxsb38eTR-xmGzBVWzsKl6zqYZlAV_yPzQWi4rPO7J51DWXlgW_8vAfTj1EjosW6dYWbnXTaEudwYpj9ZfH4-O4M1RARHDiCbR1OS27C2ZwtE_eNbkMtGB_xBzQVHj8nRXlR-X9j2g8UafoN4Uzggph225S55KXxlWFUWtesHSU0WeXjfMaKapfjO8TcDvD12PyDl2eZ9aSRARJj6CSN1DgBDUXj5q3610ZqJenaw&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw",
+                        "q": "iOS developer in the last month"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dOq_t54FZ2045YYhJK3x0dEFnYPvnu0LRci5jsdmCNWi8TisJRKcECBf_w4WRzzcKQichq6-puHIVhFQx11SYEwOb7-8ou97kWVwZT3DcJ8iG-WnF4VIF6yz09xlqo36QR4ksUGvJy4md84nxd6H8qOWND92i4nZoGjEXsRM72VIaispgu885ylBdB8pqzrol2tITx0_fsZWdo1SsUNcyFFgZBUMZKKI5G6x2Ia080oKqCcFim530LWVv_I6nQB5qNCxB8FYkfscIog05vDEzh5m7y_NJDlfHoIoAfHPKvHUlLgxU17lqXfy8y-S4EGZfrnFQTw&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob",
+                        "q": "iOS developer full time"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfrL0Q941qmvTt48QWbKQWtDnl2esEH12tOAGq7xbEX4m9XTz_YLAj7t-DVb4zLk1cr4hYNPKi6Rkd7-EE2hPwiy6DbfUqRHVdNm1IZOHLm8RlsBHo70MfBkXB4Di5jwIaX8sD2CUqOH5lspt1bnF_xvdp6Yyhuu6b5g3247X-9hR_Rq8fXtpZ4Gotnss9ijaaL7xt4QhP0Kkaw8_8ktxBqsWMKWx2fxyd8VBPMoBDIyU2V5smpQHhxbWcXCd4AcCSJnFNob&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_",
+                        "q": "iOS developer part time"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJuTGgZKHdIZ6NTCnU0roC1iBdzBxTpYGd5HSor8oPfoRjCOyz46AOvX7pCZ7Lx85WqNEHRxd2ruyfnpsYSxGZJ0RjflvCTRmVywDHicu44cgUYxy6snk_0lNPB9PGXfnf2Fnq_kcTUYA0dlTreVcPZtGjSDlh4lFZuVKPrNBGy5W7MoXHm5FA_JIykuDLRZKS6KBPhsjr0ZpnJ5YDWoPHF5i9OxQPqYZVYpB16-gLxTe6CdA7hjVUB-vPqcgjPE1jeJ-CL7avtN2gpSnreVUJeFb68rydppl1THkubJ6Mbg0GpQ_&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk",
+                        "q": "iOS developer contract"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d48eD9Q886wXfkwyQX11A6RD5VYquLG79gpTmmFVLuhvCX1kKxulgT5NIM5-iiXzgz0NZ6C8e_eZXUt7kLZ6Gko69AJAkiPZ1nwfw0LIT6_NiW6s8Sd1aorZudjyjn5A8zQM7AFxyeQGiqQW9txK1Zv0Tod6jkiF_RxX-jerWuNlqx06pFOu1q6uwNHZdLbexfvx6iGhJd9eU32dv9W9OXfVbYUqPqyekeRmRRJcu008co9C8WS-NfCn0OwsXJR6CewnFrZxzRCNlZ1d5V_Qgi_EEMhk&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE",
+                        "q": "iOS developer internship"
+                    },
+                    "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dUu2cDBMNgW81Zh62kVKAjovFwo38y2aTBDq26murYJcbAHdC008aZOGJmH78pKcclKr33FVaToETSgbaIVSj-3ZWelFfasWkk8CKDw9dwefZfNEnuc6cmYnl8VmoMdzv5XYX0iy76kQnIdLzzp3PdCsWtq3p2_zpf59LyJU1qpWz3z63YFMudl8LvRI62B811oEivyfJNCgx4RbAr8BSWOywpcliHeMXRdRybeL74Et-NyNsb37vrNsv17lA5ytrrlExOg63f_-g-WWSMGb4ns1wZnE&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA",
+                "q": "iOS developer no degree"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=iOS+developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZM7CsodyFReZcCx2OOn4C-Lv9eCW-k0kDldfsv1pkymP3oVpF84VieVzlbrACuTT5LCGbuFaPPdEfKqz-WTW3vY_99UuKSXloOD5Q9-_jqkDKX37GA&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=iOS+developer+no+degree"
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk",
+                "q": "Ios developer salary"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsgCkD26aAS-irJ9sOFI71m7WG7F8lQZadnUhm_dJz9gfzlsfVkkUf8vjWoIjWSb1p6L6Ifm1hnB-twqY7P-Cv90v_-YulCyPPHpKGAFO-gFlgZzUqk&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIDBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Ios+developer+salary"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E",
+                "q": "Ios developer course"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQsiTqqpjMFatzyQKp2tmWksxeIpIpYjprNc0NQf6kUBF4P8neC6xXVH6mFosq3HlrdR__INMTjfITwBZ8aE3gZdjS3OAzt1V7-0D2WI26CNW6iLku6E&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIJBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Ios+developer+course"
+        },
+        {
+            "name": "Skills",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4",
+                "q": "Ios developer skills"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+skills&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77F78Un5phJOskqUJUgKfQshpkl2J2JF021Ea6QusaDqpg5Hvqwke6TioTJdZweFdGBi9cmL1LMLpTYSEuIQT2VqFVnK1bkNv6W1i8oLbgSkk_ffe_9j0qiRNLWNoWPylBp7qQU4&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Ios+developer+skills"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8",
+                "q": "Ios developer certification"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDSLvXQSHgFq-X2W730Vchg-stF0E2eNNYKJ5yEjKoZsFNC8M7nKh1UCRLJCB7wv9v2v0RM1XN_8iPBrzFFKTIw5gGiOqTu8j3x_wv98Seq3vRP9mMIM66UGQDH7rD3VBUw6G-_8&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Ios+developer+certification"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y",
+                "q": "Ios developer training"
+            },
+            "link": "https://www.google.com.cy/search?sca_esv=4fbe7c869920a6f3&q=Ios+developer+training&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRcJZfQxp20wctYArCMadYKcMJfe8l7dxE2Jklp8M8m9QsO2E1xYPGdG9xfAilvB6zdlkAHt61jM8IET39_C3bYAs0J1sgtP3GVuYi4tx-9pGZIFMfeDDrOicaTjWAZbMoCrYu8Y&udm=8&sa=X&ved=2ahUKEwi4uOmwyPKKAxWrJNAFHR9GIXcQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&q=Ios+developer+training"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "iOS Applications Developer",
+            "company_name": "MetaQuotes",
+            "location": "Limassol, Cyprus",
+            "via": "MetaQuotes",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=5FXBeI0fRiD_A_h3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CQ5ys2ijgoudREEQRcQPKEk40kiaO3JXqX_hJ6vL2171mVTreHvAnjlFbzVSFjjiCxMxFljCmRwI2uI7oAwnopBw2nSqLDtjRFIdRH_P1556QxkdjeZJTv600tmCnKxiu9muxppzmM-uqPY-kKJAzHCJvRWhtIDDm8sgX2vpRK2TAAAA&shmds=v1_AUFQtOPKilov3dgwm_39RtOdkXCux9UIijh4xcn52Zl5ZoL96Q&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=5FXBeI0fRiD_A_h3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52cd2a2425fd01c90fe/images/b7cf5b3ffe8b997853ef40de61f2e03758f543bb7dd67f772736177aebbd3557.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Limassol, Cyprus",
+            "apply_options": [
+                {
+                    "title": "MetaQuotes",
+                    "link": "https://www.metaquotes.net/en/company/vacancies/ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Evoplay",
+                    "link": "https://jobs.evoplay.com/careers/42364-General/jobs/16317147-Scala-developer-Cyprus?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/volka/d9edee88-532a-4cb1-9650-1fb5d45a3849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Хабр Карьера - Habr",
+                    "link": "https://career.habr.com/vacancies/1000151940?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Work",
+                    "link": "https://www.cypruswork.com/job/81010/frontend-developer-streaming/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Getmatch",
+                    "link": "https://getmatch.ru/vacancies/17701-game-frontend-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/17400/software-developer-r-d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgQXBwbGljYXRpb25zIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ik1ldGFRdW90ZXMiLCJhZGRyZXNzX2NpdHkiOiJMaW1hc3NvbCwgQ3lwcnVzIiwiaHRpZG9jaWQiOiI1RlhCZUkwZlJpRF9BX2gzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "iOS Engineer",
+            "company_name": "Plum",
+            "location": "Nicosia, Cyprus",
+            "via": "LinkedIn Cyprus",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=nlFWdpwo5QdFPaSlAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L0_IDgduIkmIrjoKFLooIIfUJJwJCfpXcilUPHnxTe87ttt6PGCG0dixAp7GMSDoqshgTD0IjHj-pJaK3q2VjWbqM01CibIZIXRy2Lf4vXfqMlVLNk1HI-nw2IKx-3qmecJiOFOQZTcDq6fUmf9ASZIxDd9AAAA&shmds=v1_AUFQtOMtZRlFVTDrD63rRLizNsvprBJrI2lXgRr_wOU1_EwzXQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=nlFWdpwo5QdFPaSlAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52cd2a2425fd01c90fe/images/b7cf5b3ffe8b9978b947ea61dbaa5e79b2bc874b48527ae1f8d813a2f99c630a.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hey! We're Plum, your smart saving and investing app on a mission to help grow money for life. Whether you're stashing the cash for tea and toast in your first home or catching some rays during retirement, Plum's got your back.\n\nSince 2016, over 2 million people in 10 European markets have set aside more than £2 billion with our clever automation and AI - that's the magic of Plum! As recognition for our work, we've received awards from the likes of Deloitte, Finder, and more.\n\nThat's all down to our passionate team of 200+ Plumsters, who work around Europe to help us achieve our mission. And now we're looking for more brilliant people to join us on our journey.\n\nThe Team and the Role\n\nWe're looking for a a customer-focussed iOS engineer to join our engineering team in Athens. Plum has been featured multiple times by Apple, has been named App of the Day and currently rated 4.7 stars with 21,000 ratings. You'll be building Plum on iOS from its early days, giving our current and prospective customers a more intimate way to interact with their money.\n\nOur Engineering Approach\n\nWe value good engineering principles, imagination, quirkiness and healthy curiosity. We take a conservative approach to using external frameworks and we aspire to write simple, well-tested code, delivered in rapid iterations.\n\nHow We Work\n\nWe work in \"squads\" - Our squads are mission driven and include Product Managers, Designers, Backend and Mobile engineers, aiming to develop and maintain products, services and tools towards an unforgettable user experience, as well as aiding any related operations from Plum's side. Squads are organised into Pillars which align with our different strategic business areas. We trust massively on data driven, well informed squads that own their work.\n\nAs an iOS Engineer, you will also be a part of a Mobile engineering team, a team consisting of Mobile Product Engineers who share the same vision and passion of building an exceptional mobile team that will help people be financially better off.\n\nWhat You Will Do\n• You want to build a product that makes people better off\n• You're excited about programming in Swift and up-to-date with the latest iOS technologies\n• Yet, you still have intimate knowledge of the full iOS stack\n• You have experience shipping and iterating on an app in the App Store\n• You're a designer's best friend. You love being part of the design process and enjoy turning the design into a well-crafted, delightful experience\n• You're a product person too — you understand the value and impact of your work\n• You go the extra mile to add the awesome sprinkles\n\nWhat We Look For\n\nTechnical knowledge is critical but we are a startup treading in uncharted territory so attitude is even more important. We're looking for people that like uncertainty and want to figure out how to do things that haven't been done before. You're a true team player and inherently positive. Where others see problems, you see solutions.\n\nFist-bumps if you have 👊\n• Experience in continuous integration setup and automation\n• Taken part in open-source projects\n• Experience with backend technologies\n\nWhat To Expect From Our Hiring Process\n\nAt Plum, we value a lot the time you devote to the hiring process, this is why we are always trying to make the process as fast and smooth as possible.\n• 30 min. Call with our Talent Acquisition Team. So we understand better your career plan, tell you more about Plum and the role. ⚙️\n• 45 min. Call with our Engineering Lead. Brief technical discussion about the role and your skills. 🏄\n• Task. You will be given a task for us to better to understand your skills. No hard deadlines! 🕹️\n• Team Interviews\n• Call with two people from our iOS team. We'll go over the task and introduce you to your future colleagues and to get a glimpse of Plum's culture. 🧬\n• Call with a Product and Engineering Manager for you to understand the business and envision yourself as part of Plum\n• Offer 💸\n\nPlum's Perks\n• We're all in this together! Own part of the company through stock options 💷\n• Annual training budget\n• Private Life Insurance - Ethniki Asfalistiki\n• Provident Fund - Ancoria Bank\n• Free Plum Premium subscription (normally £9.99 a month)\n• Free parking slots\n• Flexible approach to remote working, though we encourage at least 2-3 days a week in our beautiful office in Nicosia for optimal collaboration\n• 25 days holiday a year, excluding public holidays (34 in total)\n• Employee referral scheme up to €4000\n• 45 days work from anywhere\n• Team lunch on Thursdays in the office, as well as a plentiful supply of fruit, snacks and coffee\n• 1 day paid leave for volunteering, supporting you giving back to society\n• Enhanced parental leave\n• 2 weeks paid sabbatical after four years of service\n• Team trip to secret destinations once a year ✈️\n• A vibe that's 🦄🌈💯\n\nIf you think this sounds like a bit of you then don't hesitate to get in touch!\n\nThanks,\n\nPlum Τeam 💜\n• Plum is an Equal Opportunity Employer. Plum does not discriminate on the basis of race, religion, sex, gender identity, sexual orientation, non-disqualifying physical or mental disability, national origin or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit and business need",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Cyprus",
+                    "link": "https://cy.linkedin.com/jobs/view/ios-engineer-at-plum-3997349700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Vacancies In Greece",
+                    "link": "https://vacanciesingreece.com/job/ios-engineer-11/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJQbHVtIiwiYWRkcmVzc19jaXR5IjoiTmljb3NpYSwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJubEZXZHB3bzVRZEZQYVNsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "TP Servglobal Ltd",
+            "location": "Anywhere",
+            "via": "Remote Africa",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=tB5giKPUaZ6r07FFAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7CU436CKaiOCio4IgBYW6lyQeSeSaC7lY6i_41eIbXvOdNYt46-CMIxJnLLCBK1sQNMUF4AQXZk84P4Zasxy0FiHlpZoanXI8aE5oedIvtvKvl2AKZjIV-91-O6mc_Gr5uEOHZfTE1hC09QkxQRsHI8K0htMnl7f8APQyHj-NAAAA&shmds=v1_AUFQtOPrPl8DFVe0lRF_1_WXiPnyGWPnK-hJl0dcy-lC2OnMdw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=tB5giKPUaZ6r07FFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52cd2a2425fd01c90fe/images/b7cf5b3ffe8b9978d5b85750af9e24abbfa7314a4b47aea73119a0472858399a.png",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "work_from_home": true,
+                "schedule_type": "Full-time"
+            },
+            "description": "Headquarters: Limassol\nURL: http://www.xm.com/careers\n\niOS Developer – Cyprus, Greece or Remote\n\nReference Number: iOS1021\n\nThe Role:\n\nWe are looking for an iOS Developer with a passion for pushing mobile technologies to the limits and is willing to work with our team of talented engineers to develop Company’s enterprise suite of iOS applications.\n\nThe main responsibilities of the position include:\n\n· Be part of the development of company's complex mobile application (challenging requirements such as security, live updates and complex business rules)\n\n· Emphasis on code quality delivery: unit and snapshot testing, UI testing\n\n· Follow continuous integration and Agile Methods; read and submit merge requests\n\n· Invest in multiple areas of the mobile development cycle: CI/CD, app health monitoring and alerting, data-driven analysis\n\n· Present ideas for system improvements and help to shape the future of our company\n\n· Continuously monitor and improve application, reliability and performance optimisation\n\n· Participate in design sprints when building new features or products\n\nMain requirements:\n\n· BSc/MSc in Computer Science, Engineering, or any other relevant degree\n\n· 2+ years of experience on iOS development (Swift and the iOS SDK, Xcode, Apple Human Interface Guidelines)\n\n· Passion for mobile applications and a keen interest on personal development\n\n· Solid understanding of the full mobile development life cycle\n\n· Have successfully published at least one iOS application to App Store (portfolio of apps on App Store)\n\n· A keen interest in benchmarking and optimisation\n\n· Showcase of open-source projects and technical blogs will be considered as a plus\n\n· Proactive, sharp, efficient and organised\n\n· Excellent team working skills\n\nBenefit from:\n\n· Attractive remuneration package\n\n· Private health insurance\n\n· Intellectually stimulating work environment\n\n· Continuous personal development and international training opportunities\n\nType of employment: Full time\n\nLocation: Cyprus, Greece or Remote\n\nPlease visit our website www.xm.com/careers to submit your online application for this position.\n\nAll applications will be treated with strict confidentiality!",
+            "apply_options": [
+                {
+                    "title": "Remote Africa",
+                    "link": "https://remoteafrica.io/jobs/f/go-tp-servglobal-ltd-39005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiVFAgU2Vydmdsb2JhbCBMdGQiLCJhZGRyZXNzX2NpdHkiOiJMaW1hc3NvbCwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJ0QjVnaUtQVWFaNnIwN0ZGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Senior iOS Developer (Remote)",
+            "company_name": "Neybox Digital",
+            "location": "Anywhere",
+            "via": "Wellfound",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFz7BeJ0owomIrroaEFwULAfUJJwJJE0F3KntB_hP6vLm17zmTX7DnOkCvHeQYtvTFSwwvKBAwmuYANXssBoqgtAGS5EPuHiFEQKH7VmTsqzGIlOORo0ZbQ06idZ_tNzMBVLMoL97rAdVcl-Pb_h9EvQRh_FJIgZzlOpL_4CBBuqs5AAAAA&shmds=v1_AUFQtONudBR4UUF56Xky0MLXZYxYLvid8nOS9TeOPXWobL-xJw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=E2SCrf9ZqMXgTn6AAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52cd2a2425fd01c90fe/images/b7cf5b3ffe8b9978d973cfd5ee5002fb458940a63a0232a98538bbf8bbbe3fab.jpeg",
+            "extensions": [
+                "24 days ago",
+                "80K–120K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 days ago",
+                "salary": "80K–120K a year",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "🚀 What's the position?\n\nThis is a Full-time Senior iOS Developer position at Neybox for talented individuals who want to work on cutting-edge applications that positively impact the well-being of individuals worldwide.\n\n💫 What will I be working on?\n\nYou'll be working on our two apps: Pillow, a sleep-tracking app, and Today, which is a quantified-self wellness app.\n\nBoth apps have won an Editors' Choice distinction and have been featured multiple times in press and media. They have millions of users worldwide and a great roadmap ahead.\n\n🧑‍💻 What will be my role and responsibilities?\n\nAs a senior developer you will be responsible for\n• Building new features\n• Fixing bugs\n• Maintaining the existing codebase\n• Writting Unit Tests for existing and new features\n• Making sure the documentation of the project is accurate and helpful\n• Doing research on new technologies and frameworks\n• ⚠️This is a position that requires a commitment of 40 hours per week. This is not a part-time position.\n\n🛠️ What's the tech stack?\n\nIn a nutshell:\n\nBoth our apps are written in Swift (MVVM and MVC).\n\nThe UI is written in SwiftUI and UIKit.\n\nWe write Unit Tests; the code is clean and well-documented.\n\nWe make extensive use of various frameworks and machine learning.\n\nBoth apps are available for iOS only.\n\n🌍 Can I work remotely?\n\nOf course! Our team is 100% remote. We have flexible working hours, but a good overlap between our time zones is required.\n\n🙌 What is it like working at Neybox?\n\nOur team is small by design (6-8 people). However, we work closely together every day (Mon-Fri). For coordination, we use Slack and Jira and keep meetings at a minimum.\n\nThere's no middle management to get in the way, and we encourage new ideas and close collaboration.\n\n💼 What are the requirements?\n• 4+ years of iOS development experience in Swift\n• Experience in HealthKit, CoreML SwiftUI, UIKit, Core Animation, GCD, Core Data, and WatchKit.\n• Experience working with Git version control, Unit testing, and Continuous Integration\n• Experience in performance profiling with Instruments on Xcode.\n• Proficient use of English, both writing and speaking.\n• Willingness to learn and experiment with new technologies.\n• References from previous employers in written or spoken form may be required from previous employers.\n• Proficient in usage of MacOS and iOS.\n\n📥 Great! How can I apply?\n\nJust hit \"Apply\" button below!\n\n⚠️ Please note that this is the only acceptable way to apply. All other ways of contacting Neybox about the position (social media, LinkedIn, email etc.), will result in immediate rejection.",
+            "apply_options": [
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/2604342-senior-ios-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://bg.jooble.org/jdp/-6598440506116100990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pangian",
+                    "link": "https://pangian.com/job/senior-wordpress-developer-remote-65/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik5leWJveCBEaWdpdGFsIiwiYWRkcmVzc19jaXR5IjoiQ3lwcnVzIiwiaHRpZG9jaWQiOiJFMlNDcmY5WnFNWGdUbjZBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Senior iOS Engineer",
+            "company_name": "Plum",
+            "location": "Nicosia, Cyprus",
+            "via": "LinkedIn Cyprus",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=4y0rWSW5r6ixPy4rAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7A4LTzUUTEVx0FBEcVOgHlCQcyUl6F3Ip1NUvF9_wuu-q6wdkkgr0HODKkRixwg7u4kHR1ZBAGG4iMePmnForerJWNZuozTUKJshkhdHLYt_i9d-oyVUs2TUcD8f9YgrHfv3K8wTE8KAgSm4Ll0-ps_4A8bsomIUAAAA&shmds=v1_AUFQtOM1OnMvXnqFweCE71HxxJ41Sx9iZHlaaCcYOFYFl3RSwA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=4y0rWSW5r6ixPy4rAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6784f52cd2a2425fd01c90fe/images/b7cf5b3ffe8b9978f01fccd7bb22ae17c3fb578badb1213741ee8a2894e30cb7.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Hey! We're Plum, your smart saving and investing app on a mission to help grow money for life. Whether you're stashing the cash for tea and toast in your first home or catching some rays during retirement, Plum's got your back.\n\nSince 2016, over 2 million people in 10 European markets have set aside more than £2 billion with our clever automation and AI - that's the magic of Plum! As recognition for our work, we've received awards from the likes of Deloitte, Finder, and more.\n\nThat's all down to our passionate team of 200+ Plumsters, who work around Europe to help us achieve our mission. And now we're looking for more brilliant people to join us on our journey.\n\nThe Role\n\nWe're looking for a a customer-focussed Senior iOS Engineer to join our engineering team. Plum has been featured multiple times by Apple, has been named App of the Day and currently rated 4.7 stars with 21,000 ratings. You'll be building Plum on iOS from its early days, giving our current and prospective customers a more intimate way to interact with their money.\n\nOur Engineering Approach\n\nWe value good engineering principles, imagination, quirkiness and healthy curiosity. We take a conservative approach to using external frameworks and we aspire to write simple, well-tested code, delivered in rapid iterations.\n\nHow We Work\n\nWe work in \"squads\" - Our squads are mission driven and include Product Managers, Designers, Backend and Mobile engineers, aiming to develop and maintain products, services and tools towards an unforgettable user experience, as well as aiding any related operations from Plum's side. Squads are organised into Pillars which align with our different strategic business areas. We trust massively on data driven, well informed squads that own their work.\n\nAs a Senior iOS Engineer, you will also be a part of a Mobile engineering team, a team consisting of Mobile Product Engineers who share the same vision and passion of building an exceptional mobile team that will help people be financially better off.\n\nWhat You Will Do\n• You want to build a product that makes people better off\n• You're excited about programming in Swift and up-to-date with the latest iOS technologies\n• Yet, you still have intimate knowledge of the full iOS stack\n• You have experience shipping and iterating on an app in the App Store\n• You're a designer's best friend. You love being part of the design process and enjoy turning the design into a well-crafted, delightful experience\n• You're a product person too — you understand the value and impact of your work\n• You go the extra mile to add the awesome sprinkles\n\nWhat We Look For\n\nTechnical knowledge is critical but we are a startup treading in uncharted territory so attitude is even more important. We're looking for people that like uncertainty and want to figure out how to do things that haven't been done before. You're a true team player and inherently positive. Where others see problems, you see solutions.\n• You have a strong understanding of the iOS SDK and its frameworks\n• You're well versed in Swift and stay up-to-date with the latest changes\n• You're proficient in writing robust, testable code with a comprehensive understanding of the testing pyramid\n• You have extensive experience in shipping and iterating upon apps in the App Store\n• You're not afraid to take ownership and collaborate effectively with cross-functional teams, including designers, product managers and other engineers\n• You've mentored junior engineers helping them enhance their skills and grow professionally\n• You're a product person too — you understand the value and impact of your work\n• You go the extra mile to add the awesome sprinkles\n\nBonus Fist-bumps if you have 👊\n• Experience in continuous integration setup and automation\n• Taken part in open-source projects\n• Experience with backend technologies\n• Experience with The Composable Architecture and SwiftUI\n• Experience with Combine and async/await\n• Experience with E2E testing\n\nWhat To Expect From Our Hiring Process\n\nAt Plum, we value a lot the time you devote to the hiring process, this is why we are always trying to make the process as fast and smooth as possible.\n• 30 min. Call with our Talent Acquisition Team. So we understand better your career plan, tell you more about Plum and the role. ⚙️\n• 45 min. Call with our Engineering Lead. Brief technical discussion about the role and your skills. 🏄\n• Task. You will be given a task for us to better to understand your skills. No hard deadlines! 🕹️\n• Team Interviews\n• Call with two people from our iOS team. We'll go over the task and introduce you to your future colleagues and to get a glimpse of Plum's culture. 🧬\n• Call with a Product and Engineering Manager for you to understand the business and envision yourself as part of Plum\n• Offer 💸\n\nPlum's Perks\n• We're all in this together! Own part of the company through stock options 💷\n• Annual training budget\n• Private Life Insurance - Ethniki Asfalistiki\n• Provident Fund - Ancoria Bank\n• Free Plum Premium subscription (normally £9.99 a month)\n• Free parking slots\n• Flexible approach to remote working, though we encourage at least 2-3 days a week in our beautiful office in Nicosia for optimal collaboration\n• 25 days holiday a year, excluding public holidays (34 in total)\n• Employee referral scheme up to €4000\n• 45 days work from anywhere\n• Team lunch on Thursdays in the office, as well as a plentiful supply of fruit, snacks and coffee\n• 1 day paid leave for volunteering, supporting you giving back to society\n• Enhanced parental leave\n• 2 weeks paid sabbatical after four years of service\n• Team trip to secret destinations once a year ✈️\n• A vibe that's 🦄🌈💯\n\nIf you think this sounds like a bit of you then don't hesitate to get in touch!\n\nThanks,\n\nPlum Τeam 💜\n• Plum is an Equal Opportunity Employer. Plum does not discriminate on the basis of race, religion, sex, gender identity, sexual orientation, non-disqualifying physical or mental disability, national origin or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit and business need",
+            "apply_options": [
+                {
+                    "title": "LinkedIn Cyprus",
+                    "link": "https://cy.linkedin.com/jobs/view/senior-ios-engineer-at-plum-3997353202?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiUGx1bSIsImFkZHJlc3NfY2l0eSI6Ik5pY29zaWEsIEN5cHJ1cyIsImh0aWRvY2lkIjoiNHkwcldTVzVyNml4UHk0ckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        },
+        {
+            "title": "iOS Mobile Developer",
+            "company_name": "SKAI Consultancy Ltd",
+            "location": "Nicosia, Cyprus",
+            "via": "Cyprus Consultants",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=OH7TWl0u1uO9HzGwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXESwrCMBAAUNz2CK5mJ_hpRHCjK6kg_hc9QEnSIY3ETMhMpT2HFxbf4hXfSbHwzxruZHxAOOIHAyXMsIILGWDU2XZAEU5ELuB034kk3inFHErHosXb0tJbUURDg3qR4X8NdzpjClqw2WzXQ5mim8_q6-EMFUXug-hoR7hJCz7Cw1tir5dQjSn3_APOW2lElgAAAA&shmds=v1_AUFQtOOIVNCNs6zlRWL0-sDbFGHP_rq0oOxxxPEhd2Ow6CUbFA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=OH7TWl0u1uO9HzGwAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Mobile Developer\n\nOur client is an award winning, regulated, global financial services company, providing customers with multi-asset and multi-market trading capability through financial spread betting products, leveraged Forex trading and CFD trading. They are experiencing significant growth in their retail customer base across a number of countries, and need motivated people to help them expand.\n\nAs the iOS Mobile Developer, you will be a key part of the team responsible for the onward development of the customer and trading platform on iOS mobile and tablet apps. You will create new functionality and maintain existing components.\n\nYou are someone with 3-5 years’ experience in a similar role that genuinely enjoys developing apps to improve customer experience, and has a keen interest in expanding and developing your knowledge through working in a fast-paced trading company.\n\nResponsibilities include:\n\n· Manage and lead the development of the trading platform iPhone and iPad apps taking responsibility for both individual and team deliverables.\n\n· Work with your team to develop the platform iPhone and iPad apps to meet the expectations of our customer.\n\n· Keep abreast of the latest mobile techniques and technologies, advise the business of the benefits and implement where appropriate.\n\n· In this hands-on role you will also be carrying out design and development activities.\n\n· Working closely with the Testing team to resolve issues that arise during the testing of developed software.\n\n· Working closely with the mobile product owner to ensure that user stories are appropriately documented and understood as part of the agile, scrum based development lifecycle\n\n· Working with the company’s Support team to resolve problems with the trading platforms and associated technology.\n\nThis is not intended to be an exhaustive or exclusive list of duties. You may be required to carry out any other associated tasks to ensure the successful delivery of the company’s objectives.\n\nSkills and experience:\n\nEssential\n\n· Excellent experience of developing for the iOS platform.\n\n· Good experience of developing using native Objective-C and Cocoa touch within the Xcode IDE.\n\n· Strong awareness of timelines and task priority.\n\n· Good communication skills are required, with the ability to understand and communicate issues succinctly and without ambiguity using appropriate technical vocabulary.\n\n· Fluent in English.\n\n· Experience of working within a team.\n\n· Right to work in the Cyprus\n\nPreferred\n\n· Knowledge of HTML, CSS and JavaScript would be a distinct advantage.\n\n· Experience of Android app development would be a distinct advantage.\n\nPlease forward your CV/Application to info@skao.com.cy or call us on 22774424 for more details on how to apply.",
+            "apply_options": [
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/41248/ios-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/41248/ios-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/41248/ios-mobile-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgTW9iaWxlIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlNLQUkgQ29uc3VsdGFuY3kgTHRkIiwiYWRkcmVzc19jaXR5IjoiTmljb3NpYSwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJPSDdUV2wwdTF1TzlIekd3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "iOS Developer - Limassol & Nicosia",
+            "company_name": "SKAI Consultancy Ltd",
+            "location": "Limassol, Cyprus",
+            "via": "Cyprus Consultants",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=gyqRMd6spacstWDaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3NsQrCMBCAYVz7CE43iYg2Ijiok1QQtejQByhperSRNBdyV2lfxydVF5d_-JY_eU-SnX0UcMIXOgoYYQW57TQzOZjB3Rpiq794pQoYdTQtkIczUeNwemhFAu-VYnZpw6LFmtRQp8hjRYN6UsW_lNzqiMFpwXKzXQ9p8M1iXtyOF8jIc-9EezNCLjVY__8vIRtD7PkDCt_u4KUAAAA&shmds=v1_AUFQtOPiQAAfkaFa3j2w8sjl1fR8NjmTQ0KjaWz_QinFHDSUfg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=gyqRMd6spacstWDaAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "iOS Developer\n\nOverview\n\nOur client is a leading London based FCA regulated firm which provides financial derivatives in the form of CFDs, Spreads Bets or Margined FX. There is a broad range of Clients including small institutions, high net worth clients and retail clients, who form a large part of their business.\n\nOur client is now expanding their operations in Limassol & Nicosia, Cyprus under a CySeC license and are now ready to recruit for an iOS Developer.\n\nThe iOS Developer role:\n\nAs an iOS Developer, you will be a part of the development team, responsible for the onward development of the Company’s mobile trading applications. The successful candidate will work in an agile environment, working day to day in a Scrum Team delivering high quality software changes and enhancements for the Company.\n\nWe are looking for someone with enthusiasm for software development, creative problem solving and software technologies.\n\nDuties of the iOS Developer:\n\n· Manage and lead the development of the trading platform iPhone and iPad apps taking responsibility for both individual and team deliverables.\n\n· Keep abreast of the latest mobile techniques and technologies, advise the business of the benefits and implement where appropriate.\n\n· Work closely with the Testing team to resolve issues that arise during the testing of developed software.\n\n· Work with the company’s Support and Release teams to resolve problems with the deployment process of code changes and associated technology.\n\n· Follow, expand and contribute to the company’s internal documentation system.\n\n· Ensure all codes of practice, systems of work and processes are adhered to.\n\n· Work together with all other teams and departments to ensure that the Company and its customers receive the best possible technology solutions.\n\nThis is not intended to be an exhaustive or exclusive list of duties. You may be required to carry out any other associated tasks to ensure the successful delivery of the company.\n\nEssential Requirements of the iOS Developer:\n\n· Excellent experience of developing for the iOS platform.\n\n· Good experience of developing using native Objective-C, Swift and Cocoa touch within the Xcode IDE.\n\n· Good communication skills, with the ability to understand and communicate issues succinctly and without ambiguity using appropriate technical vocabulary.\n\n· Analysis and high/low level design capabilities using Object Orientated techniques.\n\n· Enthusiasm for tackling difficult problems and proven analytical abilities.\n\n· Strong awareness of timelines and task priority.\n\nPreferred additional requirements of the iOS Developer:\n\n· Experience working using the Agile/Scrum paradigm.\n\n· Experience of Android app development would be a distinct advantage.\n\n· Knowledge of HTML, CSS and JavaScript would be a distinct advantage.\n\n· Experience of JIRA and Confluence.\n\n· Experience gained within Spread betting or CFD’s would be highly beneficial.\n\nPlease forward your CV/Application to info@skai.com.cy or call us on 22774424 for more details on how to apply.",
+            "apply_options": [
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/46645/ios-developer-limassol-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/46644/html-developer-limassol-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/46644/html-developer-limassol-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/46644/html-developer-limassol-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/46645/ios-developer-limassol-nicosia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIC0gTGltYXNzb2wgXHUwMDI2IE5pY29zaWEiLCJjb21wYW55X25hbWUiOiJTS0FJIENvbnN1bHRhbmN5IEx0ZCIsImFkZHJlc3NfY2l0eSI6IkxpbWFzc29sLCBDeXBydXMiLCJodGlkb2NpZCI6Imd5cVJNZDZzcGFjc3RXRGFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTNsd2NuVnoifQ=="
+        },
+        {
+            "title": "iOS Developer",
+            "company_name": "Golden Careers Recruitment",
+            "location": "Limassol, Cyprus",
+            "via": "Cyprus Cinema",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=BzaLTzuFpCtlIybbAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBAAUFz7CU43OIkmIrjoWKEggqAfUJJ4pClJLuSuUr_DH1aXt7zms2hW4faAM74wUsEKW7iQBUZT3QCUoSPyEZenQaTwUWvmqDyLkeCUo6Qpo6VZj2T5T8-DqViiEez3h92sSvZr1VF8Yob2V1gZ7ujqFCRhFggZriEZZoobaN-lTvwFhD02v5YAAAA&shmds=v1_AUFQtON4a7_GRWpRc2DIDWxJmZYu-nuS5rXOKBa40nTddDzwNQ&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=BzaLTzuFpCtlIybbAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nOur client is looking for an iOS developer with a demonstrable track record for pushing mobile technologies to new limits who will work with the companys team to design and build the next generation of their mobile applications.\n\nJob Responsibilities\n• Build iOS applications from scratch and iOS libraries that can be shared across applications\n• Develop great code, ensuring quality with unit tests where appropriate\n• Work on bug fixing and improving application performance\n• Update existing iOS applications\n• Conduct code reviews to ensure compliance with quality standards\n• Collaborate with designers, quality assurance testers, project managers, product managers and project sponsors\n• Communicate tasking estimation and progress regularly to a project manager and/or through appropriate tools\n• Work in an Agile development process\n\nRequirements\n• Demonstrated delivery of iOS applications to the app store\n• Experience working with the iOS development kit, third-party libraries and APIs\n• Good understanding of software development life cycle\n• Enthusiastic about developing knowledge and skills\n• Strong problem solving and critical thinking\n• A self-starter, with an eye for detail and good organizational skills\n\nDesirable\n• Experience of using and integrating web APIs\n• Familiarity with unit testing / TDD\n• Familiarity with SQL, Maven, REST, Git\n• Familiar with Agile / Scrum development\n• Hands-on experience with task tracking systems (JIRA)",
+            "apply_options": [
+                {
+                    "title": "Cyprus Cinema",
+                    "link": "https://www.cypruscinema.com/jobs/job/106820/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/99984/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/104073/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/107253/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/112272/ios-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJpT1MgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiR29sZGVuIENhcmVlcnMgUmVjcnVpdG1lbnQiLCJhZGRyZXNzX2NpdHkiOiJMaW1hc3NvbCwgQ3lwcnVzIiwiaHRpZG9jaWQiOiJCemFMVHp1RnBDdGxJeWJiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EzbHdjblZ6In0="
+        },
+        {
+            "title": "Senior iOS Developer (Indian or Mexican office)",
+            "company_name": "Unlimint",
+            "location": "Limassol, Cyprus",
+            "via": "Geekjob",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=Vy7aWw03ZXSLfRxzAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBCAYVz7COJwo4o2IrjoqCiK4lCcSxqv7Ul6F3JR6vP4oury88GffQbZvkAmiUDXAnb4Qi8BI4yPfCfL8BsX7Mn9WdfkcAJzOEkFija6FoThINJ4HG7alIKujVH1eaPJJnK5k84IYyW9eUil_5Ta2ojB24TlcrXo88DNdHRjTx1xAmI4U2dVxc9g-w7xqV_2jKv1pgAAAA&shmds=v1_AUFQtONy-SCaROef2-wIocNrSiz612gdDHyzeZUFzENjLyAYfw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=Vy7aWw03ZXSLfRxzAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Unlimit\n\nFounded in 2009, Unlimit is a global fintech company with 16 offices all over the world and more than 400 employees, that offers a large portfolio of financial services - from acquiring (payment processing) to banking and banking as a service.\n\nOur mission is to be “ready for tomorrow” and to provide our customers with a sense of stability in the everchanging financial landscape and an opportunity to be prepared for whatever the tomorrow of business brings their way, so that while others observe, they can already take an advantage.\n\nAbout The Job\n\nWe’re looking for a Senior iOS Developer to participate in the development of the Stable Team.\n\nA prerequisite is relocation to India (Gurgaon city) or Mexico (Mexico city) - Work from office\n\nRequirements:\n• General experience in iOS development from 4 years\n• Knowledge of IOS platform, development tools, UI, structures and algorithms\n• Swift programming experience\n• Experience with multi-module application\n• Ability to create non-trivial UI (autolayout, frames, in the code, in the Interface Builder)\n• Experience in multi-threaded programming, knowledge and understanding of the main design patterns\n• Experience with Gitlab\n\nResponsibilities:\n• Responsible for the technical implementation of iOS projects\n• Develop technical documentation for the project\n• Develop and maintain the iOS SDK for payment processing integration\n• Develop, plan and launch new features for our clients\n• Participate in the Code Review process\n• Participate in the development of architecture\n• Use modern approaches, tools and technologies\n• Write unit tests (mockk)\n• Interact with designers, project and product managers, developers, analysts and testers\n\nWe offer:\n• Attractive monthly salary paid in line with experience\n• Vacation, sick, and paid holidays\n• Flexible working hours\n• Full-time: 5/2 (WFO)\n• Modern workplace with all necessary equipment\n• A team of top international professionals to learn from\n• Multicultural working environment\n\nJoin Unlimit Team now!\n\nUnlimit is an equal opportunity employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We welcome applications from all members of society irrespective of age, sex, disability, sexual orientation, race, religion or belief.",
+            "apply_options": [
+                {
+                    "title": "Geekjob",
+                    "link": "https://geekjob.ru/vacancy/651595008fc75625160a0bba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgaU9TIERldmVsb3BlciAoSW5kaWFuIG9yIE1leGljYW4gb2ZmaWNlKSIsImNvbXBhbnlfbmFtZSI6IlVubGltaW50IiwiYWRkcmVzc19jaXR5IjoiTGltYXNzb2wsIEN5cHJ1cyIsImh0aWRvY2lkIjoiVnk3YVd3MDNaWFNMZlJ4ekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        },
+        {
+            "title": "Mobile App Developer / Engineer (Android / iOS)",
+            "company_name": "Axiom Consulting Ltd.",
+            "location": "Nicosia, Cyprus",
+            "via": "Cyprus Consultants",
+            "share_link": "https://www.google.com.cy/search?ibp=htl;jobs&q=iOS+developer&htidocid=RxcLFD23xelRN5XeAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXISwrCMBCAYdx6BFezVNFGBDe6KvUB4mPhASRNh3QknQmZKPVUXlHd_Hz8w89guD9LTQGhjBG2-MIgERMY2LEnxh_HJTdJqPk9ut4mMIej1KBok2tBGA4iPuBo0-YcdW2Maii8ZpvJFU46I4y19OYhtf5z19YmjMFmvC9Xi76I7KfjsifpoBLWZ8jEHk65KYAYLuREyc6gesf01C9rp09PsgAAAA&shmds=v1_AUFQtOMeO8vXvM4VXCJVyX-8gzzaCMgkMgVnmGiwy9l3Q02WVA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=iOS+developer&htidocid=RxcLFD23xelRN5XeAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Mobile App Developer / Engineer (Android / iOS)\n\nREF# 2017-01-APP\n\nHeadquartered in Nicosia, Axiom (www.axiomc.com) offers strategic marketing consulting and information technology solutions for customer loyalty management and relationship marketing.\n\nAxiom’s award-winning software platform is used by prestigious corporations in 12 countries, in 3 continents.\n\nWe are looking for a highly motivated individual to join our Mobile Innovation team on a full-time basis as a Mobile App Developer / Engineer.\n\nDuties and responsibilities\n\nYou will be responsible to:\n\n§ Develop and maintain Android and iOS codebase for apps used by hundreds of thousands of users.\n\n§ Help define and build new features using clear, modular and well documented code.\n\n§ Work to resolve application issues reported by users.\n\nTo succeed in this position, you should:\n\n§ Be willing to learn and work outside of your comfort zone, with platforms you are not currently familiar with.\n\n§ Work as a team player, following guidelines on coding practices, while at the same time be willing to propose your ideas.\n\n§ Be an effective collaborator with both non-technical and technical team members.\n\n§ Be ready to receive and give implementation feedback in the form of code reviews.\n\n§ Be motivated, hard-working, with attention to detail and passion for quality.\n\nRecruitment process\n\nAxiom’s recruitment follows the following steps:\n\n1. If your CV is shortlisted, you will be invited to sit for Technical and Communication tests (3 hours).\n\n2. Interview with Team leaders (1 hour)\n\n3. Interview with Company Director (0.5-1 hour)\n\n4. Additional final activity. A technical presentation on a topic of your choice, to evaluate presentation skills (0.5 hour).\n\nTo apply\n\nSubmit a resume and cover letter to info@axiomc.com. Applications will be treated with strict confidentiality. For inquiries regarding the position please call +357 22 878900 and ask for Job Vacancy App Developer.\n\nWe look forward to receiving your application.",
+            "apply_options": [
+                {
+                    "title": "Cyprus Consultants",
+                    "link": "https://www.cyprusconsultants.com/jobs/job/45387/mobile-app-developer-engineer-android-ios?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Employment",
+                    "link": "https://www.cyprusemployment.com/jobs/job/22255/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CyprusNet",
+                    "link": "https://www.cyprusnet.com/jobs/job/46484/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cyprus Maps",
+                    "link": "https://www.cyprus-maps.com/jobs/job/22255/mobile-app-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgQXBwIERldmVsb3BlciAvIEVuZ2luZWVyIChBbmRyb2lkIC8gaU9TKSIsImNvbXBhbnlfbmFtZSI6IkF4aW9tIENvbnN1bHRpbmcgTHRkLiIsImFkZHJlc3NfY2l0eSI6Ik5pY29zaWEsIEN5cHJ1cyIsImh0aWRvY2lkIjoiUnhjTEZEMjN4ZWxSTjVYZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRM2x3Y25WeiJ9"
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUazEwTVcxR01USTVMWHBhWVVRdFV6UmxPRlJ2UVZsRFRFVjNYMU5EV0VKcVZFNUZPVE5vYWxOemJHaDVZbEYwYkdkaFExaGxSak0zY1VzdFVXcEtaSHBIZEhGQ1VYWnpTMmN6Wmt0ek9EVmxhVWt4UmtoeVNYTlFORzlwWlVWemFpMUliblZRZWpKM05rOWhTMlJhTVRGak4yMVJiblpDWldKRlVIWXRabXhFTTJSU2R5MVBOazh5WTNaWVZYRkxjMjVZUkRORVIxY3RjVnBHVkMxblMyTnVVbWhFVnpaV2JrNWFVVk5uUTNST1prZHBjREV6WjBwbWRHVnlkWFJqU1hOSlJISklNM2hVUzFGSGJDMTNUVjlJY20xSGEwVlNSbkJmY2tJMmNtZEdNMEpFZVRSMVJ6QXhlbnBVTm05d1p6WTViR2xWUlZObFFWVnBVVmRtUW14RllqbHBkQklYVEdaWFJWcGZhblJGWVhaS2QwNDBVRzQwZVVaMVVXTWFJa0ZHV0hKRlkzSkdZamRNVVRRemFUWXlOMFIyWkdZMGJXcERRbkpoWjNnemRYYyIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com.cy&location=Cyprus&next_page_token=eyJmYyI6IkVzd0NDb3dDUVVwSE9VcHJUazEwTVcxR01USTVMWHBhWVVRdFV6UmxPRlJ2UVZsRFRFVjNYMU5EV0VKcVZFNUZPVE5vYWxOemJHaDVZbEYwYkdkaFExaGxSak0zY1VzdFVXcEtaSHBIZEhGQ1VYWnpTMmN6Wmt0ek9EVmxhVWt4UmtoeVNYTlFORzlwWlVWemFpMUliblZRZWpKM05rOWhTMlJhTVRGak4yMVJiblpDWldKRlVIWXRabXhFTTJSU2R5MVBOazh5WTNaWVZYRkxjMjVZUkRORVIxY3RjVnBHVkMxblMyTnVVbWhFVnpaV2JrNWFVVk5uUTNST1prZHBjREV6WjBwbWRHVnlkWFJqU1hOSlJISklNM2hVUzFGSGJDMTNUVjlJY20xSGEwVlNSbkJmY2tJMmNtZEdNMEpFZVRSMVJ6QXhlbnBVTm05d1p6WTViR2xWUlZObFFWVnBVVmRtUW14RllqbHBkQklYVEdaWFJWcGZhblJGWVhaS2QwNDBVRzQwZVVaMVVXTWFJa0ZHV0hKRlkzSkdZamRNVVRRemFUWXlOMFIyWkdZMGJXcERRbkpoWjNnemRYYyIsImZjdiI6IjMifQ%3D%3D&q=iOS+developer"
+    }
+}
