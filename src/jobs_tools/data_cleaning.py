@@ -308,3 +308,75 @@ def keys_to_columns(key_values_path: str, df: pd.DataFrame) -> pd.DataFrame:
         )
     
     return df
+
+
+
+def leave_only_relevant_tech(json_path: str, df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Removes any technology from each row's 'Technologies Only' list if it appears
+    in the opposite platform's stack (Android vs. iOS) as defined in a JSON file.
+    Returns the 'Technologies Only' column as a cleaned comma-separated string.
+
+    Args:
+        json_path: Path to the JSON file containing 'Android' and 'iOS' keys mapping to lists of technologies.
+        df: A pandas DataFrame with at least two columns:
+            - 'Platform': values 'Android' or 'iOS'
+            - 'Technologies Only': a list of technology names, a comma-separated string, or iterable
+
+    Returns:
+        A copy of df with filtered 'Technologies Only' strings and prints statistics of removals.
+    """
+    # Load platform stacks from JSON
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    android_stack = set(data.get("Android", []))
+    ios_stack = set(data.get("iOS", []))
+
+    # Copy DataFrame to avoid mutating original
+    df = df.copy()
+    total_removed = 0
+    removal_counts = []
+
+    # Iterate through rows
+    for idx, row in df.iterrows():
+        plat = row.get('Platform')
+        techs = row.get('Technologies Only')
+
+        # Prepare list of techs
+        if pd.isna(techs) or techs is None:
+            tech_list = []
+        elif isinstance(techs, str):
+            tech_list = [t.strip() for t in techs.split(',') if t.strip()]
+        else:
+            try:
+                tech_list = list(techs)
+            except TypeError:
+                tech_list = []
+
+        # Determine opposite stack
+        if plat == 'Android':
+            opposite = ios_stack
+        elif plat == 'iOS':
+            opposite = android_stack
+        else:
+            removal_counts.append(0)
+            df.at[idx, 'Technologies Only'] = ''
+            continue
+
+        # Filter out technologies in the opposite stack
+        filtered = [tech for tech in tech_list if tech not in opposite]
+        removed = len(tech_list) - len(filtered)
+
+        # Convert back to comma-separated string
+        cleaned = ', '.join(filtered)
+
+        # Update DataFrame
+        df.at[idx, 'Technologies Only'] = cleaned
+        removal_counts.append(removed)
+        total_removed += removed
+
+    # Print statistics
+    print(f"Total rows processed: {len(df)}")
+    print(f"Total technologies removed: {total_removed}")
+
+    return df
