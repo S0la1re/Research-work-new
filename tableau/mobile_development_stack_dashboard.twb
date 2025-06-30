@@ -1111,8 +1111,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='146' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='145' param='vert' type-v2='layout-flow' w='99112' x='444' y='1000'>
+            <zone h='100000' id='148' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='147' param='vert' type-v2='layout-flow' w='99112' x='444' y='1000'>
                 <zone alt-text='Background' fixed-size='280' h='100000' id='60' is-centered='0' is-fixed='true' param='D:/GitHub_Desktop/Research-work-new/tableau/images/background.png' type-v2='bitmap' w='77778' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1512,8 +1512,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='145' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='144' param='vert' type-v2='layout-flow' w='99112' x='444' y='1000'>
+            <zone h='100000' id='147' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='146' param='vert' type-v2='layout-flow' w='99112' x='444' y='1000'>
                 <zone alt-text='Background' fixed-size='280' h='100000' id='60' is-centered='0' is-fixed='true' param='D:/GitHub_Desktop/Research-work-new/tableau/images/background_1.png' type-v2='bitmap' w='77778' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
