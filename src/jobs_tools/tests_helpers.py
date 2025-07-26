@@ -1,4 +1,5 @@
 import re
+import os
 import json
 import numpy as np
 import pandas as pd
@@ -10,8 +11,29 @@ from rapidfuzz import fuzz, utils
 
 def column_to_txt(column, output, df):
     separator = "\n\n\n" + "-" * 100 + "\n\n\n"
+
+    if column not in df.columns:
+        raise KeyError(f"Column '{column}' not found in DataFrame")
+
+    def _to_text(cell):
+        # Empty values -> empty string
+        if pd.isna(cell):
+            return ""
+        # Lists/tuples -> join elements with line breaks
+        if isinstance(cell, (list, tuple)):
+            return "\n".join("" if pd.isna(x) else str(x) for x in cell)
+        # Everything else -> convert to string
+        return str(cell)
+
+    texts = [_to_text(v) for v in df[column].tolist()]
+
+    # Ensure the output folder exists
+    out_dir = os.path.dirname(os.path.abspath(output))
+    if out_dir and not os.path.exists(out_dir):
+        os.makedirs(out_dir, exist_ok=True)
+
     with open(output, "w", encoding="utf-8") as f:
-        f.write(separator.join(df[column].tolist()))
+        f.write(separator.join(texts))
 
 
 
