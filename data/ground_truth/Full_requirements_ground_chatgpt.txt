@@ -1,0 +1,417 @@
+{}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin","Coroutines","Flows"],
+    "ui_and_cross_platform_frameworks":["Jetpack Compose"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK","ExoPlayer"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C"],
+    "ui_and_cross_platform_frameworks":["PhoneGap"],
+    "build_and_dependency_management":["Xcode"],
+    "networking_and_api":["REST API"],
+    "version_control":["git","subversion"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Swift"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "data_and_caching":["Core Data"],
+    "device_and_platform_services_and_third_party_sdks":["HealthKit"],
+    "version_control":["Git"],
+    "build_and_dependency_management":["Xcode"],
+    "development_methodologies":["Kanban","Scrum"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin","RxJava"],
+    "architectural_patterns":["MVVM"],
+    "dependency_injection_frameworks":["Dagger"],
+    "build_and_dependency_management":["Android Studio"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "version_control":["Git"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "ui_and_cross_platform_frameworks":["Cocoa Touch"],
+    "data_and_caching":["Core Animation","Core Data"],
+    "device_and_platform_services_and_third_party_sdks":["Push Notifications"],
+    "version_control":["Git","Mercurial","SVN"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin","RxJava"],
+    "development_methodologies":["Scrum","Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["C++","Java"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK","Android NDK","Binder","AIDL","CTS","JNI"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "data_and_caching":["Firestore","MongoDB","NoSQL"],
+    "networking_and_api":["REST API"],
+    "device_and_platform_services_and_third_party_sdks":["BLE","LoRa","NFC"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK", "HAL"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Dart","Swift"],
+    "ui_and_cross_platform_frameworks":["Flutter"],
+    "data_and_caching":["SQLite"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "ui_and_cross_platform_frameworks":["Jetpack Compose"],
+    "architectural_patterns":["Clean Architecture","MVVM"],
+    "networking_and_api":["GraphQL"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Swift"],
+    "ui_and_cross_platform_frameworks":["SwiftUI"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["C","C++","Objective-C","Swift"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "data_and_caching":["SAP UltraLite"],
+    "device_and_platform_services_and_third_party_sdks":["Camera","Location","Push Notifications"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "device_and_platform_services_and_third_party_sdks":["Android SDK"],
+    "networking_and_api":["REST API"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "ui_and_cross_platform_frameworks":["SwiftUI"],
+    "device_and_platform_services_and_third_party_sdks":["BLE"],
+    "development_methodologies":["Agile","TDD"],
+    "distribution_and_store_operations":["App Store"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Python"],
+    "device_and_platform_services_and_third_party_sdks":["CydiaSubstrate","Frida"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin"],
+    "ui_and_cross_platform_frameworks":["Kotlin Multiplatform"],
+    "architectural_patterns":["MVVM"],
+    "development_methodologies":["Agile","Scrum"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK"],
+    "distribution_and_store_operations":["Google Play Console"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["C++","Objective-C","Python","Swift"],
+    "ui_and_cross_platform_frameworks":["SwiftUI"],
+    "architectural_patterns":["Combine"],
+    "development_methodologies":["Kanban","Scrum"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Coroutines","Flow","Kotlin"],
+    "ui_and_cross_platform_frameworks":["Jetpack Compose"],
+    "architectural_patterns":["MVI","MVVM"],
+    "networking_and_api":["Retrofit","RESTful APIs","Web sockets"],
+    "collaboration_pm_and_design_handoff":["Figma","JIRA"],
+    "development_methodologies":["Scrum"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Golang","JavaScript","ObjectiveC","PHP","Swift"],
+    "ui_and_cross_platform_frameworks":["Cocoa Touch"],
+    "data_and_caching":["Core Data","MySQL"],
+    "backend_or_baas_integration":["AWS"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Combine","Swift"],
+    "ui_and_cross_platform_frameworks":["SwiftUI"],
+    "build_and_dependency_management":["CocoaPods"],
+    "documentation_and_knowledge_sharing":["Cocoa Touch"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "build_and_dependency_management":["Bamboo","Jenkins"],
+    "networking_and_api":["RESTful APIs"],
+    "device_and_platform_services_and_third_party_sdks":["Android SDK"],
+    "version_control":["Git"],
+    "code_quality_and_static_analysis":["Sonar Qube"],
+    "development_methodologies":["Agile","Scrum"],
+    "collaboration_pm_and_design_handoff":["Confluence","Jira"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "data_and_caching":["Core Data"],
+    "device_and_platform_services_and_third_party_sdks":["Core Animation"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Kotlin"],
+    "device_and_platform_services_and_third_party_sdks":["Android Auto","Binder","CarPlay"],
+    "version_control":["GIT","Gerrit"],
+    "collaboration_pm_and_design_handoff":["Jira"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Swift"],
+    "build_and_dependency_management":["SPM", "Xcode"],
+    "version_control":["Git", "SourceTree", "Fork"],
+    "data_and_caching":["MySQL"],
+    "documentation_and_knowledge_sharing":["HIG"],
+    "networking_and_api":["REST API"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "version_control":["Git"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Java","Kotlin"],
+    "ui_and_cross_platform_frameworks":["Flutter","React Native"],
+    "build_and_dependency_management":["Android Studio","Gradle"],
+    "networking_and_api":["Retrofit","RESTful APIs"],
+    "backend_or_baas_integration":["AWS Mobile Hub","Firebase"],
+    "version_control":["Git"],
+    "development_methodologies":["Agile","Kanban","Scrum"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "ui_and_cross_platform_frameworks":["UIKit"],
+    "architectural_patterns":["MVC","MVVM","VIPER"],
+    "build_and_dependency_management":["CocoaPods"],
+    "data_and_caching":["Core Animation","Core Data"],
+    "networking_and_api":["RESTful APIs"],
+    "device_and_platform_services_and_third_party_sdks":["Instruments","Push Notifications"],
+    "testing_frameworks":["XCTest"],
+    "version_control":["Git"],
+    "ci_cd_and_release_automation":["Jenkins"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Objective-C","Swift"],
+    "ui_and_cross_platform_frameworks":["SwiftUI"],
+    "networking_and_api":["REST API","WebSockets"],
+    "security_and_cryptography":["OWASP"],
+    "testing_frameworks":["XCTest"],
+    "documentation_and_knowledge_sharing":["OpenAPI"],
+    "development_methodologies":["Agile"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes": ["Kotlin"],
+    "architectural_patterns": ["GitFlow"],
+    "documentation_and_knowledge_sharing": ["HIG"]
+}
+
+
+----------------------------------------------------------------------------------------------------
+
+
+{
+    "languages_and_runtimes":["Coroutines","Flow","Kotlin"],
+    "ui_and_cross_platform_frameworks":["Compose"],
+    "architectural_patterns":["MVVM"],
+    "device_and_platform_services_and_third_party_sdks":["WebViews"]
+}
