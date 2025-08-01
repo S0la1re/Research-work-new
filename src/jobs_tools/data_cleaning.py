@@ -380,3 +380,35 @@ def leave_only_relevant_tech(json_path: str, df: pd.DataFrame) -> pd.DataFrame:
     print(f"Total technologies removed: {total_removed}")
 
     return df
+
+
+
+def filtered_data(df):
+    # Drop columns: 'Technologies Only', 'Technologies Categorized' and other columns
+    df = df.drop(columns=['Google Domain Type', 'Google Domain Used', 'Job Title', 'Company Name', 'Job Location',
+                          'Apply Options', 'Job Description', 'Work from home', 'Salary', 'Schedule type', 'Qualifications',
+                          'Search Date', 'Search Query', 'Language', 'Job Description English', 'Job Description Extracted', 
+                          'Salary_E', 'Requirements', 'Nice to have', 'Responsibilities', 'Benefits', 'Full Requirements', 
+                          'Extracted Technologies GPT', 'Extracted Technologies Clean','Technologies Only', 
+                          'Technologies Categorized', 'Tech_dict', 'EU Member', 'Schengen Agreement'])
+    return df
+
+
+
+
+def wide_long(df):
+    id_cols    = ['Job ID', 'Location', 'Region', 'Platform']
+    stack_cols = [c for c in df.columns if c not in id_cols]
+
+    df_long = (
+    df.melt(id_vars=id_cols, value_vars=stack_cols,
+            var_name='Category', value_name='Technology')
+        .dropna(subset=['Technology'])
+        .assign(Technology=lambda d: d['Technology'].str.split(','))
+        .explode('Technology')
+        .assign(Technology=lambda d: d['Technology'].str.strip())
+        .query('Technology != ""')
+        .sort_values(by='Location')
+        .reset_index(drop=True)
+    )
+    return df_long
