@@ -412,3 +412,20 @@ def wide_long(df):
         .reset_index(drop=True)
     )
     return df_long
+
+
+
+def make_table(df: pd.DataFrame, category: str | None = None, total: bool = False) -> pd.DataFrame:
+    denom = df['Job ID'].nunique()
+    if denom == 0:
+        return pd.DataFrame(columns=['Technology', 'count', 'percent'])
+
+    base = df if total else df[df['Category'] == category]
+
+    res = (base.groupby('Technology', as_index=False)['Job ID']
+               .nunique()
+               .rename(columns={'Job ID': 'count'}))
+
+    res['percent'] = (res['count'] / denom * 100).round(2)
+
+    return res.sort_values('count', ascending=False).reset_index(drop=True)
