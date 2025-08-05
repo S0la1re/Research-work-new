@@ -3,6 +3,8 @@ import pandas as pd
 import os, json, re
 from itertools import chain
 from collections import Counter
+from openpyxl.utils import get_column_letter
+from openpyxl.styles import Alignment, Font
 
 
 
@@ -429,3 +431,124 @@ def make_table(df: pd.DataFrame, category: str | None = None, total: bool = Fals
     res['percent'] = (res['count'] / denom * 100).round(2)
 
     return res.sort_values('count', ascending=False).reset_index(drop=True)
+
+
+
+def to_excel(
+    eu_android: pd.DataFrame,
+    na_android: pd.DataFrame,
+    eu_ios: pd.DataFrame,
+    na_ios: pd.DataFrame,
+    categories: list[str] | None = None,
+    output_path: str = "../data/all_tables.xlsx",
+) -> str:
+    """
+    Creates an Excel file with one sheet per category, plus a 'Total' sheet.
+    Each sheet has two column groups: Android (left) and iOS (right).
+    Each group contains two tables: EU and NA.
+    Columns: Technology | <EU/NA> count | <EU/NA> %
+    Sorting — same as in make_table (by count within each block).
+    """
+    def _side_by_side(left_df: pd.DataFrame, right_df: pd.DataFrame) -> pd.DataFrame:
+        # It's expected that left_df has the columns: Technology, EU count, EU %
+        # and right_df: Technology, NA count, NA %
+        # Guard against empty tables: ensure required columns exist
+        for col in ['Technology', 'EU count', 'EU %']:
+            if col not in left_df.columns:
+                left_df[col] = pd.Series(dtype=object)
+        for col in ['Technology', 'NA count', 'NA %']:
+            if col not in right_df.columns:
+                right_df[col] = pd.Series(dtype=object)
+
+        l = left_df[['Technology', 'EU count', 'EU %']].copy()
+        r = right_df[['Technology', 'NA count', 'NA %']].copy()
+        max_len = max(len(l), len(r))
+        l = l.reindex(range(max_len))
+        r = r.reindex(range(max_len))
+        return pd.concat([l, r], axis=1)
+
+    def _sanitize_sheet_name(name: str, used: set[str]) -> str:
+        bad = '[]:*?/\\'
+        for ch in bad:
+            name = name.replace(ch, '_')
+        name = name[:31] or "Sheet"
+        base = name
+        i = 2
+        while name in used:
+            suffix = f"_{i}"
+            name = (base[:31-len(suffix)] + suffix) if len(base) + len(suffix) > 31 else base + suffix
+            i += 1
+        used.add(name)
+        return name
+
+    used_sheet_names = set()
+
+    with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
+        # Sheets by category
+        for cat in categories:
+            sheet_name = _sanitize_sheet_name(str(cat), used_sheet_names)
+
+            # Android
+            a_eu = make_table(eu_android, category=cat, total=False).rename(
+                columns={'count': 'EU count', 'percent': 'EU %'}
+            )
+            a_na = make_table(na_android, category=cat, total=False).rename(
+                columns={'count': 'NA count', 'percent': 'NA %'}
+            )
+            android_block = _side_by_side(a_eu, a_na)
+
+            # iOS
+            i_eu = make_table(eu_ios, category=cat, total=False).rename(
+                columns={'count': 'EU count', 'percent': 'EU %'}
+            )
+            i_na = make_table(na_ios, category=cat, total=False).rename(
+                columns={'count': 'NA count', 'percent': 'NA %'}
+            )
+            ios_block = _side_by_side(i_eu, i_na)
+
+            # Write to sheet
+            android_block.to_excel(writer, sheet_name=sheet_name, index=False, startrow=1, startcol=0)
+            ios_block.to_excel(writer, sheet_name=sheet_name, index=False, startrow=1, startcol=7)
+
+            # Header "Android"/"iOS" and formatting
+            ws = writer.sheets[sheet_name]
+            ws.merge_cells(start_row=1, start_column=1, end_row=1, end_column=6)   # A1:F1
+            ws.merge_cells(start_row=1, start_column=8, end_row=1, end_column=13)  # H1:M1
+            ws.cell(row=1, column=1).value = "Android"
+            ws.cell(row=1, column=8).value = "iOS"
+            for col0 in (1, 8):
+                cell = ws.cell(row=1, column=col0)
+                cell.font = Font(bold=True)
+                cell.alignment = Alignment(horizontal="center", vertical="center")
+
+            # Column widths
+            for col in range(1, 14):
+                ws.column_dimensions[get_column_letter(col)].width = 18
+
+        # "Total" sheet
+        total_name = _sanitize_sheet_name("Total", used_sheet_names)
+
+        a_eu_t = make_table(eu_android, total=True).rename(columns={'count': 'EU count', 'percent': 'EU %'})
+        a_na_t = make_table(na_android, total=True).rename(columns={'count': 'NA count', 'percent': 'NA %'})
+        i_eu_t = make_table(eu_ios,    total=True).rename(columns={'count': 'EU count', 'percent': 'EU %'})
+        i_na_t = make_table(na_ios,    total=True).rename(columns={'count': 'NA count', 'percent': 'NA %'})
+
+        android_block_t = _side_by_side(a_eu_t, a_na_t)
+        ios_block_t = _side_by_side(i_eu_t, i_na_t)
+
+        android_block_t.to_excel(writer, sheet_name=total_name, index=False, startrow=1, startcol=0)
+        ios_block_t.to_excel(writer, sheet_name=total_name, index=False, startrow=1, startcol=7)
+
+        ws = writer.sheets[total_name]
+        ws.merge_cells(start_row=1, start_column=1, end_row=1, end_column=6)
+        ws.merge_cells(start_row=1, start_column=8, end_row=1, end_column=13)
+        ws.cell(row=1, column=1).value = "Android"
+        ws.cell(row=1, column=8).value = "iOS"
+        for col0 in (1, 8):
+            cell = ws.cell(row=1, column=col0)
+            cell.font = Font(bold=True)
+            cell.alignment = Alignment(horizontal="center", vertical="center")
+        for col in range(1, 14):
+            ws.column_dimensions[get_column_letter(col)].width = 18
+
+    return output_path
