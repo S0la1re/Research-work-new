@@ -23,8 +23,10 @@
         "java",
         "jetpack compose",
         "jni",
+        "kotlin coroutines",
         "kotlin",
         "robolectric",
+        "rxjava",
         "webview"
     ],
     "iOS": [
