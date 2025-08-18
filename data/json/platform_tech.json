@@ -25,6 +25,7 @@
         "jni",
         "kotlin coroutines",
         "kotlin",
+        "material design",
         "robolectric",
         "rxjava",
         "webview"
@@ -49,6 +50,7 @@
         "cydiasubstrate",
         "gcd",
         "healthkit",
+        "hig",
         "ios sdk",
         "keychain",
         "mapkit",
