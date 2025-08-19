@@ -219,7 +219,7 @@
     "watchos",
     "webkit"
   ],
-  "runtimes": [
+  "runtimes_shared": [
     ".net core",
     "kotlin multiplatform",
     "node.js"
