@@ -8,6 +8,8 @@ by region.
 
 ![Dashboard](tableau/images/dashboard.png)
 
+**[→ Read the full research paper (PDF)](https://eek.ee/download.php?t=kb&dok=p1ja91phru1gtg14r1von1r91evh9.pdf)**
+
 ---
 
 ## The question
