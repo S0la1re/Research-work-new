@@ -25,17 +25,28 @@ This project turns that prose into a quantified answer to two questions:
 
 ## What the data shows
 
-**The stack has the same shape everywhere.** Both platforms show an identical 17-layer
-structure — platform language, version control, IDE, networking, methodology, UI framework,
-storage, SDK, architecture and DI, publishing, asynchrony, build tooling, testing, additional
-languages, BaaS, CI/CD. Only the specific technologies filling each layer differ, and the
-leader of each layer is the same across all four region-platform groups.
+**The stack has the same shape everywhere.** Both platforms are built from the same 17 layers —
+platform language, additional language, version control, IDE, networking, methodology, UI
+framework, storage, SDK, architecture, DI, publishing, asynchrony, build tooling, testing, BaaS,
+CI/CD. What fills those layers is decided by the platform, not by the region:
 
-**The practical consequence:** a learned stack transfers between markets. You are not
-learning a different job by moving continents.
+- **Across regions the contents barely move.** The leading technology of every layer is the same
+  in Europe and North America — 17 of 17 layers on Android, 16 of 17 on iOS. The single exception
+  is CI/CD on iOS, where fastlane and Jenkins swap first and second place. Runners-up match too:
+  Objective-C behind Swift and Java behind Kotlin in both regions, UIKit behind SwiftUI, RxSwift
+  behind Combine, RxJava behind Coroutines.
+- **Across platforms the contents diverge almost completely.** Only 5 of 17 layers in Europe
+  (6 of 17 in North America) share a leader, and they are the platform-neutral ones: Git, Agile,
+  REST API, MVVM, Firebase. Everything platform-specific splits — Swift/Kotlin,
+  SwiftUI/Jetpack Compose, Xcode/Android Studio, CocoaPods/Gradle, Core Data/Room,
+  Combine/Coroutines, XCTest/Espresso, App Store/Google Play.
 
-**The one systematic regional difference is legacy load.** North America mentions older
-technologies noticeably more often:
+**The practical consequence:** a learned stack transfers between markets, not between platforms.
+You are not learning a different job by moving continents — you are by switching platform.
+
+**Regional differences show up in frequency, not in ranking — and the systematic one is legacy
+load.** The same technologies lead in both regions, but North America mentions older ones
+noticeably more often:
 
 | Technology | Europe | North America | Difference |
 |---|---:|---:|---:|
