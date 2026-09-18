@@ -25,39 +25,47 @@ This project turns that prose into a quantified answer to two questions:
 
 ## What the data shows
 
-**The stack has the same shape everywhere.** Both platforms show an identical 17-layer
-structure — platform language, version control, IDE, networking, methodology, UI framework,
-storage, SDK, architecture and DI, publishing, asynchrony, build tooling, testing, additional
-languages, BaaS, CI/CD. Only the specific technologies filling each layer differ, and the
-leader of each layer is the same across all four region-platform groups.
+**Both platforms repeat the same 17-layer frame.** The layers themselves are identical; what
+changes is which technologies fill them and in what order.
 
-**The practical consequence:** a learned stack transfers between markets. You are not
-learning a different job by moving continents.
+**Region barely matters; platform decides everything.** Within a platform, the same technology
+leads every layer in both Europe and North America — the single exception is CI/CD on iOS, where
+fastlane leads in Europe and Jenkins in North America. Between platforms almost nothing carries
+over: only the platform-neutral layers share a leader (Git, Agile, REST API, MVVM, Firebase).
+A learned stack transfers between markets, not between platforms.
 
 **The one systematic regional difference is legacy load.** North America mentions older
-technologies noticeably more often:
+technologies a bit more often.
 
-| Technology | Europe | North America | Difference |
-|---|---:|---:|---:|
-| Objective-C (iOS) | 37.2% | 54.6% | +17.5pp toward NA |
-| Java (Android) | 53.5% | 64.4% | +10.9pp toward NA |
-| Kotlin (Android) | 87.2% | 72.0% | +15.2pp toward EU |
+Percentages are the share of postings for that platform that mention the technology, averaged
+over the two regions — `% = (EU% + NA%) / 2`, counting a region with no mentions as 0. Within
+each layer technologies are listed in descending order. The figures are computed directly from
+the dataset.
 
-**Leading technologies overall:**
+**Two rows come with a caveat.** The cross-platform tools in the UI row (React Native, Flutter)
+are artefacts rather than demand: cross-platform and dual-role postings were removed from the
+dataset by design. The *Other* row is a catch-all — those postings ask for push-notification
+work without naming any specific technology.
 
-| Platform | Top mentions |
-|---|---|
-| Android | Kotlin (87.2% EU / 72.0% NA), Java (53.5 / 64.4), Git (30.1 / 36.3), Android SDK (26.3 / 38.4), Jetpack Compose (28.8 / 28.4) |
-| iOS | Swift (89.4 / 84.9), SwiftUI (38.1 / 33.2), Objective-C (37.2 / 54.6), Git (30.7 / 35.8), UIKit (25.6 / 17.3) |
-
-The full study sorts every technology into a **Core** set (the minimum hiring-ready stack) and a
-**Supplementary** set (specialisation directions), using two stated criteria: cross-regional
-prevalence, and status as platform canon required for the full development cycle including
-legacy maintenance.
-
-> **What these percentages mean.** They measure how often a technology is *mentioned in job
-> postings* — not how often it is used in real projects. Ad-writing conventions and actual
-> engineering practice are not the same thing.
+| Layer | Android | iOS |
+|---|---|---|
+| Platform language | Kotlin (79.6%), Java (58.9%) | Swift (87.1%), Objective-C (45.9%) |
+| Version control | Git (33.2%) | Git (33.2%), SVN (4.1%) |
+| IDE | Android Studio (19.9%) | Xcode (22.7%) |
+| Networking (API) | REST API (28.7%), Retrofit (10.0%), GraphQL (4.9%) | REST API (26.1%), GraphQL (5.1%) |
+| Methodology and PM tools | Agile (25.7%), Scrum (11.9%), Jira (7.9%) | Agile (26.4%), Scrum (10.9%), Jira (5.4%) |
+| UI frameworks | Jetpack Compose (28.6%), React Native (4.6%), Flutter (4.2%) | SwiftUI (35.6%), UIKit (21.5%), Core Animation (10.0%), Cocoa Touch (6.6%), React Native (4.2%) |
+| Data storage | Room (7.9%) | Core Data (16.6%) |
+| Platform SDK / core components | Android SDK (32.4%), Android NDK (5.3%) | iOS SDK (6.2%) |
+| Architecture and DI | Architecture: MVVM (24.2%), MVP (10.0%), Clean Architecture (8.0%), MVC (5.3%), MVI (4.5%)<br>DI: Dagger (12.4%), Hilt (5.8%) | Architecture: MVVM (22.3%), MVC (12.6%), VIPER (5.9%), MVP (5.5%)<br>DI: no framework reaches 2% of postings |
+| Publishing channels | Google Play Store / Console (8.4%) | App Store / App Store Connect (8.8%) |
+| Asynchrony / reactivity | Kotlin Coroutines (13.8%), RxJava (11.1%), Kotlin Flow (4.0%) | Combine (11.3%), RxSwift (6.9%), GCD (3.4%) |
+| Build and dependency management | Gradle (10.3%) | CocoaPods (7.3%), Swift Package Manager (4.2%) |
+| Testing | Espresso (7.1%), TDD (6.4%), JUnit (6.0%) | XCTest (5.6%), TDD (5.5%) |
+| Additional languages | C++ (10.8%), C (5.7%), JavaScript (4.6%) | JavaScript (6.0%) |
+| Cloud / backend services (BaaS) | Firebase (6.7%) | Firebase (3.6%) |
+| CI/CD and automation | Jenkins (5.3%) | fastlane (5.2%), Jenkins (5.2%) |
+| Other | Notifications (3.9%) | Notifications (7.0%) |
 
 ---
 
