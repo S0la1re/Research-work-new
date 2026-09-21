@@ -1,4 +1,5 @@
 # Mobile Development Stack: What Employers Actually Ask For
+> Thesis: Analysis of Technology Mentions in iOS and Android Developer Job Postings in Europe and North America
 
 An analysis of **2,178 iOS and Android developer job postings** across **35 countries** in Europe
 and North America, measuring how often each technology is mentioned — and whether that differs
